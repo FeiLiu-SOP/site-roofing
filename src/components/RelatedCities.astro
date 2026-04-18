@@ -1,0 +1,240 @@
+---
+import { getCollection } from "astro:content";
+import { ACTIVE_COLLECTION, type ActiveCollectionKey } from "../active-collection";
+import { getNicheLabelForSeed, internalPath, siteConfig } from "../site-config";
+
+interface Props {
+  currentSlug: string;
+  /** Two-letter US state, uppercase (from resolvePageLocation) */
+  state: string | null | undefined;
+  domPrefix?: string | null;
+  themeAccent?: string;
+  titleText?: string;
+}
+
+const { currentSlug, state, domPrefix, themeAccent, titleText } = Astro.props as Props;
+const linkColor = themeAccent ?? "#2563eb";
+
+const relatedSectionClass = domPrefix ? `${domPrefix}--related-cities` : "related-cities";
+const moreLinksClass = domPrefix ? `${domPrefix}--more-links` : "more-links";
+const relatedTitleId = domPrefix ? `${domPrefix}-related-cities-title` : "related-cities-title";
+
+const st = (state ?? "").trim().toUpperCase().slice(0, 2);
+
+function stableHash(input: string) {
+  let h = 2166136261;
+  for (let i = 0; i < input.length; i++) {
+    h ^= input.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return h >>> 0;
+}
+function titleCase(s: string) {
+  return s
+    .split(/\s+/g)
+    .filter(Boolean)
+    .map((w) => w.slice(0, 1).toUpperCase() + w.slice(1))
+    .join(" ");
+}
+function cityFromSlug(slug: string) {
+  // <prefix>-<city>-<st>-<zip>
+  const m = slug.match(/^(.*)-([a-z]{2})-(\d{5})$/i);
+  if (!m) return null;
+  let prefixAndCity = m[1]!;
+  const prefixByCollection: Record<ActiveCollectionKey, string> = {
+    roofing: "roofing-",
+    plumbing: "plumbing-",
+    pestcontrol: "pest-control-",
+    "water-damage": "water-damage-",
+    "siding-services": "siding-services-",
+    "plumbing-v2": "plumbing-v2-",
+  };
+  const pfx = prefixByCollection[ACTIVE_COLLECTION as ActiveCollectionKey] ?? "";
+  if (pfx && prefixAndCity.toLowerCase().startsWith(pfx)) {
+    prefixAndCity = prefixAndCity.slice(pfx.length);
+  } else {
+    // fallback: strip first token (service prefix) if present
+    const parts0 = prefixAndCity.split("-");
+    if (parts0.length > 1) {
+      prefixAndCity = parts0.slice(1).join("-");
+    }
+  }
+  const city = prefixAndCity.split("-").filter(Boolean).join(" ");
+  if (!city) return null;
+  return titleCase(city.replace(/\s+/g, " ").trim());
+}
+const currentCity = cityFromSlug(currentSlug) ?? "your area";
+const pageAlias = getNicheLabelForSeed(currentSlug);
+
+let links: { href: string; title: string }[] = [];
+
+if (st.length === 2) {
+  const posts = await getCollection(ACTIVE_COLLECTION);
+  const collection = ACTIVE_COLLECTION as ActiveCollectionKey;
+  const candidates: { slug: string; title: string }[] = [];
+
+  for (const p of posts) {
+    const slug = (p.slug ?? p.id ?? "").replace(/\.(md|mdx)$/i, "");
+    if (!slug || slug === currentSlug) continue;
+    // Expected pattern: <prefix>-<city>-<st>-<zip>
+    const m = slug.match(/-([A-Za-z]{2})-\d{5}$/);
+    const slugSt = m ? m[1]!.toUpperCase() : null;
+    if (slugSt === st) {
+      candidates.push({ slug, title: p.data.title });
+    }
+  }
+
+  const shuffled = [...candidates];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const a = shuffled[i]!;
+    const b = shuffled[j]!;
+    shuffled[i] = b;
+    shuffled[j] = a;
+  }
+
+  // Increase internal-link entropy: larger, varied related set (120–220).
+  // This is enough to push avg Jaccard below 30% while keeping page weight reasonable.
+  const want = 120 + Math.floor(Math.random() * 101); // 120–220
+  const anchorTemplates = ACTIVE_COLLECTION === "water-damage"
+    ? [
+        (city: string) => `Emergency Cleanup in ${city}`,
+        (city: string) => `Fast Restoration in ${city}`,
+        (city: string) => `Local Pros in ${city}`,
+        (city: string) => `Professional Cleanup in ${city}`,
+        (city: string) => `Emergency Pros in ${city}`,
+        (city: string) => `Fast Cleanup in ${city}`,
+        (city: string) => `Local Restoration in ${city}`,
+        (city: string) => `Professional Pros in ${city}`,
+      ]
+    : ACTIVE_COLLECTION === "plumbing-v2"
+    ? [
+        (city: string) => `Drain Cleaning in ${city}`,
+        (city: string) => `Sump Pump Repair in ${city}`,
+        (city: string) => `Water Line Work in ${city}`,
+        (city: string) => `Leak Detection in ${city}`,
+        (city: string) => `Hydro-Jetting in ${city}`,
+        (city: string) => `Fixture Service in ${city}`,
+        (city: string) => `PRV Service in ${city}`,
+        (city: string) => `Local Plumber in ${city}`,
+      ]
+    : ACTIVE_COLLECTION === "siding-services"
+    ? [
+        (city: string) => `${city} Expert`,
+        (city: string) => `${city} Pro`,
+        (city: string) => `${city} Team`,
+        (city: string) => `${city} Crew`,
+      ]
+    : [
+        (city: string) => `Trusted ${siteConfig.nicheLabel} Expert in ${city}, ${st}`,
+        (city: string) => `${siteConfig.nicheLabel} Professional Help in ${city}, ${st}`,
+        (city: string) => `Emergency ${siteConfig.nicheLabel} Service — ${city}, ${st}`,
+        (city: string) => `Local ${siteConfig.nicheLabel} Service in ${city}, ${st}`,
+        (city: string) => `Affordable ${siteConfig.nicheLabel} Options in ${city}, ${st}`,
+        (city: string) => `#1 ${siteConfig.nicheLabel} in ${city}, ${st}`,
+        (city: string) => `Expert ${siteConfig.nicheLabel} Support near ${currentCity}`,
+        (city: string) => `Professional ${siteConfig.nicheLabel} Coverage in ${city}, ${st}`,
+      ];
+
+  links = shuffled.slice(0, want).map((c, idx) => {
+    const city = cityFromSlug(c.slug) ?? c.title;
+    const t = anchorTemplates[(stableHash(`${currentSlug}|${c.slug}|${idx}`) % anchorTemplates.length)]!;
+    return {
+      href: internalPath(c.slug),
+      title: t(city),
+    };
+  });
+}
+---
+
+{
+  links.length > 0 ? (
+    <section
+      class={relatedSectionClass}
+      aria-labelledby={relatedTitleId}
+      style={`--related-link-color:${linkColor};`}
+    >
+      <h2 id={relatedTitleId}>{titleText ?? `More ${pageAlias} in ${st}`}</h2>
+      {(() => {
+        const initial = links.slice(0, 14);
+        const rest = links.slice(14);
+        return (
+          <>
+            <ul>
+              {initial.map((l) => (
+                <li>
+                  <a href={l.href}>{l.title}</a>
+                </li>
+              ))}
+            </ul>
+            {rest.length ? (
+              <details class={moreLinksClass}>
+                <summary>More links ({rest.length})</summary>
+                <ul>
+                  {rest.map((l) => (
+                    <li>
+                      <a href={l.href}>{l.title}</a>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            ) : null}
+          </>
+        );
+      })()}
+    </section>
+  ) : null
+}
+
+<style>
+  .related-cities,
+  [class$="--related-cities"] {
+    margin-top: 2rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid #e2e8f0;
+  }
+  .related-cities h2,
+  [class$="--related-cities"] h2 {
+    margin: 0 0 0.75rem;
+    font-size: 1.1rem;
+    color: #0f172a;
+  }
+  .related-cities ul,
+  [class$="--related-cities"] ul {
+    margin: 0;
+    padding-left: 1.25rem;
+    color: #334155;
+  }
+  .related-cities li,
+  [class$="--related-cities"] li {
+    margin: 0.35rem 0;
+  }
+  .related-cities a,
+  [class$="--related-cities"] a {
+    color: var(--related-link-color, #2563eb);
+    text-decoration: none;
+  }
+  .related-cities a:hover,
+  [class$="--related-cities"] a:hover {
+    text-decoration: underline;
+  }
+  .more-links,
+  [class$="--more-links"] {
+    margin-top: 0.75rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    background: #f8fafc;
+    padding: 0.65rem 0.8rem;
+  }
+  .more-links summary,
+  [class$="--more-links"] summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: #0f172a;
+  }
+  .more-links ul,
+  [class$="--more-links"] ul {
+    margin: 0.65rem 0 0;
+    padding-left: 1.25rem;
+  }
+</style>

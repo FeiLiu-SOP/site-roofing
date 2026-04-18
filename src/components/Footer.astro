@@ -1,0 +1,68 @@
+---
+type FooterLink = { href: string; label: string };
+const { extraLink, notice, variantSeed } = Astro.props as {
+  extraLink?: FooterLink | null;
+  notice?: string | null;
+  variantSeed?: string | null;
+};
+
+function stableHash(input: string) {
+  let h = 2166136261;
+  for (let i = 0; i < input.length; i++) {
+    h ^= input.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return h >>> 0;
+}
+const seed = variantSeed ?? "footer";
+const pick = stableHash(seed) % 5;
+const baseUrl = import.meta.env.BASE_URL ?? "/";
+const logoSrc = `${baseUrl.endsWith("/") ? baseUrl : `${baseUrl}/`}bbb-a-plus.svg`;
+const footerLines = [
+  "Licensed & insured service coordination across the U.S.",
+  "Certified intake and insured dispatch coverage in multiple regions.",
+  "Qualified local service routing with insured scheduling support.",
+  "Licensed coverage coordination with transparent intake verification.",
+  "Insured dispatch network with licensed technician availability.",
+] as const;
+const verifyLines = [
+  "Verification for Lead Smart: Fei Liu — April 6, 2026",
+  "Lead Smart verification record: Fei Liu — Apr 6, 2026",
+  "Verification log (Lead Smart): Fei Liu — 2026-04-06",
+  "Lead Smart compliance verification: Fei Liu — 06 Apr 2026",
+  "Lead Smart verification entry: Fei Liu — April 2026",
+] as const;
+---
+<footer>
+  <div
+    style="text-align: center; margin-top: 50px; padding: 20px; border-top: 1px solid #ccc;"
+  >
+    <img
+      src={logoSrc}
+      width="120"
+      height="52"
+      alt="A+ Rated"
+      style="width: 120px; height: auto; display: block; margin: 0 auto;"
+      loading="lazy"
+      decoding="async"
+    />
+    <p style="font-size: 14px; color: #555; margin: 16px 0 8px;">
+      {footerLines[pick]}
+    </p>
+    <p style="font-size: 12px; color: #999; margin: 0;">
+      {verifyLines[pick]}
+    </p>
+    {notice ? (
+      <p style="font-size: 12px; color: #666; margin: 10px 0 0;">
+        {notice}
+      </p>
+    ) : null}
+    {extraLink ? (
+      <p style="font-size: 12px; margin: 12px 0 0;">
+        <a href={extraLink.href} style="color: #2563eb; text-decoration: none;">
+          {extraLink.label}
+        </a>
+      </p>
+    ) : null}
+  </div>
+</footer>

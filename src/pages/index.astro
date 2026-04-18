@@ -1,0 +1,133 @@
+---
+import { getCollection } from "astro:content";
+import Footer from "../components/Footer.astro";
+import { ACTIVE_COLLECTION } from "../active-collection";
+import { canonicalPageUrl, getNicheLabelForSeed, internalPath, siteConfig } from "../site-config";
+import { REALTORS_AT_THE_BEACH_PLUMBING_V2 } from "../domain-templates/realtorsatthebeach.com-plumbing-v2";
+
+const posts = await getCollection(ACTIVE_COLLECTION);
+const pageNicheLabel = getNicheLabelForSeed("home");
+const nicheLower = pageNicheLabel.toLowerCase();
+const pageUrl = canonicalPageUrl();
+const collectionSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: `${pageNicheLabel} Service Pages`,
+  description: `Browse all local ${nicheLower} service pages.`,
+  url: pageUrl,
+};
+function entryPath(entry: { id?: string; slug?: string }) {
+  const raw = entry.slug ?? entry.id ?? "";
+  return raw.replace(/\.(md|mdx)$/i, "");
+}
+const sortedPosts = [...posts].sort((a, b) => entryPath(a).localeCompare(entryPath(b)));
+
+function entryStateFromSlug(entry: { id?: string; slug?: string }): string | null {
+  const slug = entryPath(entry);
+  const m = slug.match(/-([a-z]{2})-\d{5}$/i);
+  if (!m) return null;
+  return m[1]!.toUpperCase();
+}
+
+const stateCounts = new Map<string, number>();
+for (const p of posts) {
+  const st = entryStateFromSlug(p);
+  if (!st) continue;
+  stateCounts.set(st, (stateCounts.get(st) ?? 0) + 1);
+}
+const statesSorted = Array.from(stateCounts.entries())
+  .sort((a, b) => a[0].localeCompare(b[0]))
+  .map(([st, count]) => ({ st, count, href: internalPath(st.toLowerCase()) }));
+const themeAccent = ACTIVE_COLLECTION === "plumbing-v2"
+  ? REALTORS_AT_THE_BEACH_PLUMBING_V2.theme.accent
+  : "#1d4ed8";
+---
+
+<html lang="en" style={`--theme-accent:${themeAccent};`}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="google-site-verification" content="e8639489520c639b" />
+    <title>{pageNicheLabel} Service Pages</title>
+    <meta
+      name="description"
+      content={`Browse all local ${nicheLower} service pages.`}
+    />
+    <meta name="robots" content={siteConfig.robotsContent} />
+    <link rel="canonical" href={pageUrl} />
+    <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+    <style>
+      :root {
+        font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      }
+      body {
+        margin: 0;
+        background: #f8fafc;
+        color: #0f172a;
+      }
+      main {
+        width: min(980px, 94vw);
+        margin: 2rem auto;
+        background: #fff;
+        padding: 1.5rem;
+        border-radius: 12px;
+        box-shadow: 0 8px 26px rgba(2, 6, 23, 0.08);
+      }
+      h1 {
+        margin: 0 0 0.4rem;
+      }
+      .meta {
+        color: #475569;
+        margin-bottom: 1rem;
+      }
+      ul {
+        margin: 0;
+        padding-left: 1.2rem;
+        columns: 2;
+        column-gap: 2rem;
+      }
+      li {
+        break-inside: avoid;
+        margin: 0.2rem 0;
+      }
+      a {
+        color: var(--theme-accent, #1d4ed8);
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      @media (max-width: 900px) {
+        ul {
+          columns: 1;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>All {pageNicheLabel} Pages</h1>
+      <p class="meta">Total pages: {sortedPosts.length}</p>
+
+      <h2>Browse by state</h2>
+      <p class="meta">State indexes: {statesSorted.length}</p>
+      <ul>
+        {statesSorted.map((s) => (
+          <li>
+            <a href={s.href}>{pageNicheLabel} in {s.st}</a> ({s.count})
+          </li>
+        ))}
+      </ul>
+
+      <h2>Browse all city pages</h2>
+      <ul>
+        {sortedPosts.map((post) => (
+          <li>
+            <a href={internalPath(entryPath(post))}>{post.data.title}</a>
+          </li>
+        ))}
+      </ul>
+    </main>
+    <Footer />
+  </body>
+</html>
