@@ -20,18 +20,19 @@ const activeCollection =
   process.env.ACTIVE_COLLECTION ?? fileEnv.ACTIVE_COLLECTION ?? "roofing";
 const disableAugment =
   process.env.PUBLIC_AUTO_SITEMAP_PATH ?? fileEnv.PUBLIC_AUTO_SITEMAP_PATH;
+// 构建层只用 PUBLIC_SITE_URL（*.pages.dev）：若把 CANONICAL 一并传入，会算出 Hub base 但产物仍在 dist 根目录，与旧站不一致。
 const fullSiteUrl = augmentHubPathForMainSite(
   resolvePublicSiteUrl({
     site: process.env.PUBLIC_SITE_URL ?? fileEnv.PUBLIC_SITE_URL,
-    canonical: process.env.PUBLIC_CANONICAL_ORIGIN ?? fileEnv.PUBLIC_CANONICAL_ORIGIN,
+    canonical: undefined,
     fallback: fallbackSite,
   }),
   activeCollection,
   disableAugment
 );
-const { site, base } = toAstroSiteAndBase(fullSiteUrl, activeCollection);
-const normalizedCollection = String(activeCollection).toLowerCase().trim();
-const enforcedBase = normalizedCollection === "plumbing-v2" ? "/plumbing/" : base;
+const { site } = toAstroSiteAndBase(fullSiteUrl, activeCollection);
+// Rockwell Worker 回源剥 /roofing；内链须 /roofing/...，与 canonical（见 .env PUBLIC_CANONICAL_ORIGIN）一致。nest 脚本把 dist 对齐到该前缀。
+const enforcedBase = "/roofing/";
 
 // https://astro.build/config
 export default defineConfig({

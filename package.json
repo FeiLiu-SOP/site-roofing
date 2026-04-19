@@ -12,11 +12,11 @@
     "name":  "absent-apogee",
     "scripts":  {
                     "astro":  "astro",
-                    "build":  "astro build",
+                    "build":  "astro build && node ./scripts/nest-hub-segment.mjs roofing",
                     "build:pestcontrol":  "cross-env ACTIVE_COLLECTION=pestcontrol astro build",
                     "build:plumbing":  "cross-env ACTIVE_COLLECTION=plumbing astro build",
                     "build:plumbing-v2":  "cross-env ACTIVE_COLLECTION=plumbing-v2 astro build",
-                    "build:roofing":  "cross-env ACTIVE_COLLECTION=roofing astro build",
+                    "build:roofing":  "cross-env ACTIVE_COLLECTION=roofing astro build && node ./scripts/nest-hub-segment.mjs roofing",
                     "build:siding-services":  "cross-env ACTIVE_COLLECTION=siding-services astro build",
                     "build:water-damage":  "cross-env ACTIVE_COLLECTION=water-damage astro build",
                     "dev":  "astro dev",
