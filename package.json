@@ -12,6 +12,7 @@
     "name":  "absent-apogee",
     "scripts":  {
                     "astro":  "astro",
+                    "prebuild":  "node ./scripts/clean-build-cache.mjs",
                     "build":  "astro build && node ./scripts/nest-hub-segment.mjs roofing",
                     "build:pestcontrol":  "cross-env ACTIVE_COLLECTION=pestcontrol astro build",
                     "build:plumbing":  "cross-env ACTIVE_COLLECTION=plumbing astro build",
