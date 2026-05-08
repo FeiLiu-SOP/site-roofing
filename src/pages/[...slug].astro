@@ -141,29 +141,30 @@ function stateLabelForBait(stateCode: string, stateFromFm: string | undefined): 
   if (fm.length > 2) return fm;
   return stateCode;
 }
-function buildBaitPool2Titles(opts: {
-  service: string;
-  city: string;
-  stateCode: string;
-  stateFm: string | undefined;
-  zLabel: string | null;
-  pick: number;
-}): { pageTitle: string; pageH1: string } {
-  const stateToken = stateLabelForBait(opts.stateCode, opts.stateFm);
-  const { service, city, zLabel, pick } = opts;
-  if (pick === 0 && zLabel) {
-    const pageTitle = `${zLabel} Home Protection: ${city} Emergency ${service} (Verified)`;
-    const pageH1 = `${zLabel} Home Protection — ${city} Emergency ${service}`;
-    return { pageTitle, pageH1 };
+
+const ROOF_TITLE_BRAND_SUFFIX = " | Rockwell Property Defense Network";
+function withRoofTitleBrand(raw: string): string {
+  const t = raw.trim();
+  if (t.endsWith("Rockwell Property Defense Network")) return t;
+  return `${t}${ROOF_TITLE_BRAND_SUFFIX}`;
+}
+
+/** site-roofing: insurance / asset / cost templates + brand on `<title>` (pick 1 needs zLabel). */
+function buildBaitPool2Titles(opts: { city: string; zLabel: string | null; pick: number }): {
+  pageTitle: string;
+  pageH1: string;
+} {
+  const { city, zLabel, pick } = opts;
+  if (pick === 0) {
+    const core = `${city} Emergency Roof Repair: Insurance Claims Expert | $0 Down Financing`;
+    return { pageTitle: withRoofTitleBrand(core), pageH1: core };
   }
-  if (pick === 1) {
-    const pageTitle = `${city} ${service} — 24/7 coordinated intake (${stateToken})`;
-    const pageH1 = `${city} ${service}: regional coordination desk (${stateToken})`;
-    return { pageTitle, pageH1 };
+  if (pick === 1 && zLabel) {
+    const core = `Protect Your ${zLabel} Asset: ${city} Storm Damage Audit & Emergency Tarping`;
+    return { pageTitle: withRoofTitleBrand(core), pageH1: core };
   }
-  const pageTitle = `Maintenance intensity signal in ${city}. Coordinated ${service} planning.`;
-  const pageH1 = `Maintenance intensity signal in ${city} — coordinated ${service} planning`;
-  return { pageTitle, pageH1 };
+  const core = `2026 ${city} Roofing Cost Calculator: Avoid Scams & Verified Dispatch`;
+  return { pageTitle: withRoofTitleBrand(core), pageH1: core };
 }
 const zRaw = post.data.zillowHomeValueUsd;
 const zUsd =
@@ -178,16 +179,13 @@ const zLabelExact =
       }).format(zUsd)
     : null;
 let baitPick = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2`) % 3;
-if (baitPick === 0 && !zLabel) {
-  baitPick = 1 + (stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2NoZ`) % 2);
+if (baitPick === 1 && !zLabel) {
+  baitPick = stableHash(`${ACTIVE_COLLECTION}|${entrySlug}|bait2NoZRoof`) % 2 === 0 ? 0 : 2;
 }
 const baitHead =
   pageCity && stateCodeFromSlug
     ? buildBaitPool2Titles({
-        service: pageNicheLabel,
         city: pageCity,
-        stateCode: stateCodeFromSlug,
-        stateFm: post.data.state,
         zLabel,
         pick: baitPick,
       })
@@ -197,34 +195,59 @@ const isFinancialPressureMode =
   zUsd >= HIGH_VALUE_USD_TRIGGER &&
   zLabelExact != null &&
   pageCity != null;
-/** `<title>` / JSON-LD: high physical value → fixed “financial pressure” line; else stableHash pool / frontmatter. */
+
+const roofH1Lead = pageCity
+  ? `Verified ${pageCity} Roofing Pros — Insurance-Ready Audit — `
+  : `Verified Roofing Pros — Insurance-Ready Audit — `;
+
+const roofTerrainNotice = pageCity
+  ? `NOTICE: Your ${pageCity} property has a specific terrain-risk profile. Delaying repair could impact insurance eligibility.`
+  : null;
+
+/** `<title>` / JSON-LD */
 const pageTitle = isFinancialPressureMode
-  ? `${zLabelExact} asset stewardship brief: ${pageCity} ${pageNicheLabel} (coordinated intake)`
-  : baitHead?.pageTitle ?? post.data.title;
-/** Visible `<h1>` fallback when no Zillow USD (high-value tier uses dedicated markup below). */
+  ? withRoofTitleBrand(`URGENT: ${zLabelExact} ${pageCity} Roof Integrity Alert | 2026 Infrastructure Risk Map`)
+  : baitHead?.pageTitle ?? withRoofTitleBrand(post.data.title);
+
+/** Visible `<h1>` fallback (plain-text branch). */
 const pageH1Plain =
   zLabelExact && pageCity
-    ? `${pageCity} infrastructure stewardship — ${zLabelExact} median context`
+    ? `${roofH1Lead}${pageCity} infrastructure stewardship — ${zLabelExact} median context`
     : zLabelExact
-      ? `Infrastructure stewardship — ${zLabelExact} median context`
+      ? `${roofH1Lead}Infrastructure stewardship — ${zLabelExact} median context`
       : pageCity
-        ? `${pageCity} infrastructure stewardship — protecting your property systems`
-        : post.data.title;
+        ? `${roofH1Lead}${pageCity} infrastructure stewardship — protecting your property systems`
+        : `${roofH1Lead}${post.data.title}`;
+
+function roofMetaLead(): string {
+  if (pageCity) {
+    return `Don't pay $40k out of pocket. Our USGS-driven roofing audit for ${pageCity} helps residents secure insurance claims and find verified local contractors.`;
+  }
+  if (stateCodeFromSlug) {
+    return `Don't pay $40k out of pocket. Our USGS-driven roofing audit for ${stateCodeFromSlug} residents helps secure insurance claims and find verified local contractors.`;
+  }
+  return `Don't pay $40k out of pocket. Our USGS-driven roofing audit helps residents secure insurance claims and find verified local contractors.`;
+}
+
 const pageMetaDescriptionDefault = clipMetaDescription(
   (() => {
+    const lead = `${roofMetaLead()} `;
     const base = post.data.description;
-    if (zLabelExact && !base.includes(zLabelExact)) {
-      if (pageCity && stateCodeFromSlug) {
-        return `${base} Benchmark median home value near ${zLabelExact} (${pageCity} ${stateCodeFromSlug} market context).`;
+    const tail = (() => {
+      if (zLabelExact && !base.includes(zLabelExact)) {
+        if (pageCity && stateCodeFromSlug) {
+          return `${base} Benchmark median home value near ${zLabelExact} (${pageCity} ${stateCodeFromSlug} market context).`;
+        }
+        return `${base} Benchmark median home value near ${zLabelExact}.`;
       }
-      return `${base} Benchmark median home value near ${zLabelExact}.`;
-    }
-    return base;
+      return base;
+    })();
+    return `${lead}${tail}`;
   })(),
 );
 const pageMetaDescription = isFinancialPressureMode
   ? clipMetaDescription(
-      `Local ${pageCity} home value benchmark: ${zLabelExact}. Regional infrastructure maintenance coordination and documented intake.`,
+      `${roofMetaLead()} Local benchmark: ${zLabelExact}. Roof integrity coordination and documented intake.`,
     )
   : pageMetaDescriptionDefault;
 function pickFaqSubset<T>(items: T[], seedText: string, count: number): T[] {
@@ -818,6 +841,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
             city={pageCity}
             accent={themeAccent}
             domPrefix={domPrefix}
+            terrainRiskNotice={roofTerrainNotice}
           />
         )}
         {pestInsuranceEquityNote ? <p class="pest-equity-insurance-note">{pestInsuranceEquityNote}</p> : null}
@@ -826,18 +850,21 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
             {
               isFinancialPressureMode ? (
                 <>
+                  {roofH1Lead}
                   {`${pageCity} ${pageNicheLabel} - Property Protection: `}
                   <span class="h1-zmoney">{zLabelExact}</span>
                 </>
               ) : zLabelExact ? (
                 pageCity ? (
                   <>
+                    {roofH1Lead}
                     {`${pageCity} infrastructure stewardship — `}
                     <span class="h1-zmoney">{zLabelExact}</span>
                     {" median context"}
                   </>
                 ) : (
                   <>
+                    {roofH1Lead}
                     {"Infrastructure stewardship — "}
                     <span class="h1-zmoney">{zLabelExact}</span>
                     {" median context"}
@@ -859,6 +886,7 @@ const blockOrder = ACTIVE_COLLECTION === "plumbing-v2"
             city={pageCity}
             accent={themeAccent}
             domPrefix={domPrefix}
+            terrainRiskNotice={roofTerrainNotice}
           />
         ) : null}
         {zUsd != null ? (

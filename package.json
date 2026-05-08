@@ -30,6 +30,7 @@
                     "diversity":  "cd .. \u0026\u0026 go run ./scripts/diversity -dist absent-apogee/dist",
                     "diversity:soft":  "cd .. \u0026\u0026 go run ./scripts/diversity -dist absent-apogee/dist -no-fail",
                     "preview":  "astro preview",
+                    "preview:hub":  "node ./scripts/hub-static-preview.mjs roofing",
                     "sync:env:other-repos":  "pwsh -NoProfile -File ../sync-env-production-to-other-repos.ps1"
                 },
     "type":  "module",

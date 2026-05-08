@@ -9,9 +9,11 @@ interface Props {
   city: string | null;
   accent: string;
   domPrefix: string | null;
+  /** Red alert above calculator numeric readout (roofing insurance funnel). */
+  terrainRiskNotice?: string | null;
 }
 
-const { homeUsd, zLabel, city, accent, domPrefix } = Astro.props;
+const { homeUsd, zLabel, city, accent, domPrefix, terrainRiskNotice = null } = Astro.props;
 const rootId = domPrefix ? `${domPrefix}-value-calculator` : "value-calculator-root";
 const wrapClass = ["value-protection-calculator", domPrefix ? `${domPrefix}--value-calculator` : null].filter(Boolean);
 
@@ -47,6 +49,7 @@ const defaultPct = 12;
         </>
       ) : null}
     </p>
+    {terrainRiskNotice ? <p class="vpc-terrain-notice">{terrainRiskNotice}</p> : null}
     {
       hasValue ? (
         <>
@@ -128,6 +131,13 @@ const defaultPct = 12;
   .vpc-zlabel {
     font-weight: 700;
     color: #0f172a;
+  }
+  .vpc-terrain-notice {
+    margin: 0 0 0.75rem;
+    font-size: 0.9rem;
+    font-weight: 800;
+    color: #b91c1c;
+    line-height: 1.45;
   }
   .vpc-hero-amount {
     display: flex;
