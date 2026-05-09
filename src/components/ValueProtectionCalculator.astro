@@ -9,11 +9,21 @@ interface Props {
   city: string | null;
   accent: string;
   domPrefix: string | null;
-  /** Red alert above calculator numeric readout (roofing insurance funnel). */
+  /** Red alert after lead (roofing insurance funnel; site-roofing). */
   terrainRiskNotice?: string | null;
+  /** Mitigation / compliance line below readout or fallback (water / plumbing hubs). */
+  visualizedAssessmentLine?: string | null;
 }
 
-const { homeUsd, zLabel, city, accent, domPrefix, terrainRiskNotice = null } = Astro.props;
+const {
+  homeUsd,
+  zLabel,
+  city,
+  accent,
+  domPrefix,
+  terrainRiskNotice = null,
+  visualizedAssessmentLine = null,
+} = Astro.props;
 const rootId = domPrefix ? `${domPrefix}-value-calculator` : "value-calculator-root";
 const wrapClass = ["value-protection-calculator", domPrefix ? `${domPrefix}--value-calculator` : null].filter(Boolean);
 
@@ -96,6 +106,9 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
               </output>
             </div>
           </div>
+          {visualizedAssessmentLine ? (
+            <p class="vpc-visualized-assessment">{visualizedAssessmentLine}</p>
+          ) : null}
           <p class="vpc-foot">
             Illustrative math only — call to scope real loss scenarios for your property.
           </p>
@@ -108,6 +121,9 @@ const initialStressIndex = stressIndexFromPct(defaultPct);
               address and coverage goals.
             </p>
           </div>
+          {visualizedAssessmentLine ? (
+            <p class="vpc-visualized-assessment">{visualizedAssessmentLine}</p>
+          ) : null}
         </>
       )
     }
