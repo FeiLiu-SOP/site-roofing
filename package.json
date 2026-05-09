@@ -35,6 +35,7 @@
                 },
     "type":  "module",
     "version":  "0.0.1",
-    "build_id": "df777b5aeb44"
+    "deploy_nonce": "16ca99155afbebf3",
+    "build_id": "aba6de5eafed"
 }
 
