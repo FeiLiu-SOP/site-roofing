@@ -1,4 +1,4 @@
-﻿{
+{
     "dependencies":  {
                          "@astrojs/sitemap":  "^3.7.2",
                          "astro":  "^6.1.2"
@@ -13,11 +13,11 @@
     "scripts":  {
                     "astro":  "astro",
                     "prebuild":  "node ./scripts/clean-build-cache.mjs",
-                    "build":  "astro build \u0026\u0026 node ./scripts/nest-hub-segment.mjs roofing \u0026\u0026 rm -rf dist/roofing/images/thumbnails dist/images/thumbnails",
+                    "build":  "astro build && node ./scripts/nest-hub-segment.mjs roofing",
                     "build:pestcontrol":  "cross-env ACTIVE_COLLECTION=pestcontrol astro build",
                     "build:plumbing":  "cross-env ACTIVE_COLLECTION=plumbing astro build",
                     "build:plumbing-v2":  "cross-env ACTIVE_COLLECTION=plumbing-v2 astro build",
-                    "build:roofing":  "cross-env ACTIVE_COLLECTION=roofing astro build \u0026\u0026 node ./scripts/nest-hub-segment.mjs roofing",
+                    "build:roofing":  "cross-env ACTIVE_COLLECTION=roofing astro build && node ./scripts/nest-hub-segment.mjs roofing",
                     "build:siding-services":  "cross-env ACTIVE_COLLECTION=siding-services astro build",
                     "build:water-damage":  "cross-env ACTIVE_COLLECTION=water-damage astro build",
                     "dev":  "astro dev",
@@ -35,6 +35,7 @@
                 },
     "type":  "module",
     "version":  "0.0.1",
-    "deploy_nonce":  "ce3cff9235f4e7ee",
-    "build_id":  "0086f051b54a"
+    "deploy_nonce": "d3dfaf3ab2b4bc18",
+    "build_id": "e40e9103484f"
 }
+
