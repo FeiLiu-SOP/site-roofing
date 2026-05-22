@@ -13,7 +13,7 @@
     "scripts":  {
                     "astro":  "astro",
                     "prebuild":  "node ./scripts/clean-build-cache.mjs",
-                    "build":  "astro build \u0026\u0026 node ./scripts/nest-hub-segment.mjs roofing \u0026\u0026 node ./scripts/write-pages-assetsignore.mjs",
+                    "build":  "astro build \u0026\u0026 node ./scripts/nest-hub-segment.mjs roofing \u0026\u0026 rm -rf dist/roofing/images/thumbnails dist/images/thumbnails",
                     "build:pestcontrol":  "cross-env ACTIVE_COLLECTION=pestcontrol astro build",
                     "build:plumbing":  "cross-env ACTIVE_COLLECTION=plumbing astro build",
                     "build:plumbing-v2":  "cross-env ACTIVE_COLLECTION=plumbing-v2 astro build",
