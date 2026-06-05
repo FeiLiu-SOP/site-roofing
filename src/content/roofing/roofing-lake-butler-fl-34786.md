@@ -11,27 +11,33 @@ lng: -81.5500
 zipSample: ["34786"]
 zipCodes: ["34786"]
 localPaths: ["Orange County / ZIP 34786 sector", "Orange County / elevation 92 ft band", "Orange County / primary ZIP 34786", "Orange County / coords 28.4900, -81.5500"]
-zillowHomeValueUsd: 700011
 ---
 
 **Engineering Notice for Lake Butler:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Lake Butler, FL exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Low-slope sections in Lake Butler, FL need positive drainage before membrane repairs are scoped.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 34786.
+Risk flag: In Lake Butler, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Note recent wind events when filing insurance photos for Lake Butler, FL.
 
-Field note: Wind exposure category reviewed for ZIP sector 34786.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Access points and staging constraints recorded for ZIP 34786 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 34786 (county grid: Orange County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Scope trace: valley metal gauge plus attic baffle spacing referenced in Orange County county grid review.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~92 ft across the Orange County area. Coordinates: 28.4900, -81.5500. ZIP sample: 34786. Logistics priority: Serving residential sectors across Orange County and north-east ZIP 34786 grid.
+
+Coordinate-anchored dispatch note: center reference 28.4900, -81.5500 at elevation ~92 ft aligns with Orange County intake staging.
 
 Service reference: FL-34786-7ccb438b

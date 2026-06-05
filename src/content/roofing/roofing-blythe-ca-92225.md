@@ -11,24 +11,33 @@ lng: -114.6200
 zipSample: ["92225", "92226"]
 zipCodes: ["92225", "92226"]
 localPaths: ["Riverside County / ZIP 92225 sector", "Riverside County / elevation 269 ft band", "Riverside County / ZIP 92226 sector", "Riverside County / coords 33.6200, -114.6200", "Riverside County / primary ZIP 92225"]
-zillowHomeValueUsd: 221377
 ---
 
 **Engineering Notice for Blythe:** Structural loading calculated based on 269 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: request a written scope before work starts.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Our service coordination centers on Blythe, CA coverage windows and verified intake details.
+Tile and shingle mixes in Blythe, CA require different fastener patterns at transitions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Blythe, CA, but intake notes help reduce delays.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Blythe, CA attics should be checked against current mechanical exhaust additions.
 
-Field note: Connection points spot-checked where accessible (ZIP 92225/92226 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 92225, 92226 (county grid: Riverside County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: soffit intake free area paired with skylight curb height near ZIP 92225.
+
+Coordinate-anchored dispatch note: center reference 33.6200, -114.6200 at elevation ~269 ft aligns with Riverside County intake staging.
+
+On-site sector marker: Riverside County / primary ZIP 92225 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92225-baf27be7

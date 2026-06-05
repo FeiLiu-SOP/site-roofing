@@ -11,26 +11,29 @@ lng: -73.0600
 zipSample: ["06461", "06460"]
 zipCodes: ["06460", "06461"]
 localPaths: ["South Central Connecticut County / ZIP 06461 sector", "South Central Connecticut County / primary ZIP 06461", "South Central Connecticut County / ZIP 06460 sector", "South Central Connecticut County / elevation 72 ft band", "South Central Connecticut County / coords 41.2300, -73.0600"]
-zillowHomeValueUsd: 489847
 ---
 
 **Engineering Notice for Milford city:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: South Central Connecticut County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-We coordinate local dispatch coverage around Milford city, CT and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Milford city, CT, but intake notes help reduce delays.
+Code context: Ventilation ratios for Milford city, CT attics should be checked against current mechanical exhaust additions.
 
-Local conditions in Milford city, CT can affect timelines and material choices.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 06460/06461.
+In Milford city, CT, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Moisture pathway inspection logged near ZIP 06460/06461 intake.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 06460, 06461 (county grid: South Central Connecticut County).
+Field routing: pipe boot manufacturer match paired with chimney cricket slope near ZIP 06461.
+
+On-site sector marker: South Central Connecticut County / primary ZIP 06461 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: South Central Connecticut County / ZIP 06461 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06461-a4c237a6

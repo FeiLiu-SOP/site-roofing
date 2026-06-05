@@ -11,27 +11,29 @@ lng: -104.8400
 zipSample: ["80640", "80037", "80022"]
 zipCodes: ["80022", "80037", "80640"]
 localPaths: ["Adams County / primary ZIP 80640", "Adams County / ZIP 80037 sector", "Adams County / ZIP 80640 sector", "Adams County / coords 39.8600, -104.8400", "Adams County / ZIP 80022 sector"]
-zillowHomeValueUsd: 506009
 ---
 
 **Engineering Notice for Commerce City:** Structural loading calculated based on 5177 ft terrain assessment. Regional dispatch grid: Adams County.
 
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tile and shingle mixes in Commerce City, CO require different fastener patterns at transitions.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 80640.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Commerce City, CO, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Commerce City, CO can fail independently of visible tile cracks.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Can you tarp only part of the roof? In Commerce City, CO, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 80037/80022/80640.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Access points and staging constraints recorded for ZIP 80037/80022/80640 coverage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 80037, 80022, 80640 (county grid: Adams County).
+Scope trace: deck sheathing thickness plus chimney cricket slope referenced in Adams County county grid review.
+
+On-site sector marker: Adams County / ZIP 80022 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Adams County / primary ZIP 80640 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80640-3aa5b2d9

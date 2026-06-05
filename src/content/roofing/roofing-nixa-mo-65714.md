@@ -11,26 +11,35 @@ lng: -93.3000
 zipSample: ["65714"]
 zipCodes: ["65714"]
 localPaths: ["Christian County / elevation 1299 ft band", "Christian County / primary ZIP 65714", "Christian County / ZIP 65714 sector", "Christian County / coords 37.0500, -93.3000"]
-zillowHomeValueUsd: 322509
 ---
 
 **Engineering Notice for Nixa:** Structural loading calculated based on 1299 ft terrain assessment. Regional dispatch grid: Christian County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Our Nixa, MO dispatch packets reference county grid Christian County and elevation band 1299 ft.
 
-We coordinate local dispatch coverage around Nixa, MO and nearby ZIP sectors.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Parapet coping movement in Nixa, MO can channel water behind wall cladding.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can you tarp only part of the roof? In Nixa, MO, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 65714 zone).
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 65714.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 65714 (county grid: Christian County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: ice-barrier lap sequence plus soffit intake free area referenced in Christian County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 65714.
+
+On-site sector marker: Christian County / ZIP 65714 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~1299 ft across the Christian County area. Coordinates: 37.0500, -93.3000. ZIP sample: 65714. Logistics priority: Serving residential sectors across Christian County and north-east ZIP 65714 grid.
 
 Service reference: MO-65714-d2ef3a3e

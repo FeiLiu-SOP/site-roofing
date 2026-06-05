@@ -11,26 +11,31 @@ lng: -91.0200
 zipSample: ["63090"]
 zipCodes: ["63090"]
 localPaths: ["Franklin County / ZIP 63090 sector", "Franklin County / elevation 558 ft band", "Franklin County / coords 38.5500, -91.0200", "Franklin County / primary ZIP 63090"]
-zillowHomeValueUsd: 307018
 ---
 
 **Engineering Notice for Washington:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Franklin County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Washington, MO can fail independently of visible tile cracks.
 
-In Washington, MO, urgent roof work issues can escalate quickly.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Washington, MO.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 63090.
+TPO seam welds in Washington, MO commercial sections need probe tests after freeze events.
 
-Field note: Wind exposure category reviewed for ZIP sector 63090.
+FAQ: Is partial dry-in possible? In Washington, MO, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 63090 (county grid: Franklin County).
+Field routing: shingle exposure calibration paired with wind uplift clip spacing near ZIP 63090.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 63090.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~558 ft across the Franklin County area. Coordinates: 38.5500, -91.0200. ZIP sample: 63090. Regional routing note: Franklin County traffic flow is balanced around ZIP 63090 service demand.
+
+On-site sector marker: Franklin County / primary ZIP 63090 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63090-4c5d2734

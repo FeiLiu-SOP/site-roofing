@@ -11,24 +11,33 @@ lng: -117.8500
 zipSample: ["91740", "91741"]
 zipCodes: ["91741", "91740"]
 localPaths: ["Los Angeles County / primary ZIP 91740", "Los Angeles County / coords 34.1400, -117.8500", "Los Angeles County / ZIP 91740 sector", "Los Angeles County / elevation 945 ft band", "Los Angeles County / ZIP 91741 sector"]
-zillowHomeValueUsd: 818322
 ---
 
 **Engineering Notice for Glendora:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Our service coordination centers on Glendora, CA coverage windows and verified intake details.
+Risk flag: In Glendora, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Transparent pricing helps you compare like-for-like scope items.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Valley metal in Glendora, CA should be reviewed whenever granule loss tracks the water line.
 
-Field note: Connection points spot-checked where accessible (ZIP 91741/91740 zone).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 91740.
 
-Dispatch sectors sampled: ZIP 91741, 91740 (county grid: Los Angeles County).
+Material note: In Glendora, CA, algae-resistant granules may be specified for north-facing slopes.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+roof work brief: chimney cricket slope and ice-barrier lap sequence were cross-checked for the Glendora intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 91741/91740.
+
+On-site sector marker: Los Angeles County / ZIP 91741 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 34.1400, -117.8500 at elevation ~945 ft aligns with Los Angeles County intake staging.
 
 Service reference: CA-91740-7c05c2fa

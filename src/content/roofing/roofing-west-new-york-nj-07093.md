@@ -11,24 +11,33 @@ lng: -74.0100
 zipSample: ["07093"]
 zipCodes: ["07093"]
 localPaths: ["Hudson County / coords 40.7900, -74.0100", "Hudson County / elevation 171 ft band", "Hudson County / ZIP 07093 sector", "Hudson County / primary ZIP 07093"]
-zillowHomeValueUsd: 442364
 ---
 
 **Engineering Notice for West New York:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Hudson County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Skylight curb flashing in West New York, NJ should be sequenced before ridge cap replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Note recent wind events when filing insurance photos for West New York, NJ.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West New York, NJ, but intake notes help reduce delays.
+FAQ: How long can shingles wait after storm damage? In West New York, NJ, delayed dry-in can expand insulation and ceiling repairs.
 
-In West New York, NJ, urgent roof service issues can escalate quickly.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on West New York, NJ coverage windows and verified intake details.
+Step: map ventilation intake and exhaust pairs for West New York, NJ attic runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 07093 zone).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 07093 (county grid: Hudson County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: deck sheathing thickness plus drip-edge metal profile referenced in Hudson County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 07093.
+
+On-site sector marker: Hudson County / primary ZIP 07093 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hudson County / ZIP 07093 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07093-e74fa832

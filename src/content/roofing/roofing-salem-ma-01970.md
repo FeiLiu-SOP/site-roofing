@@ -11,25 +11,33 @@ lng: -70.9000
 zipSample: ["01970", "01971"]
 zipCodes: ["01971", "01970"]
 localPaths: ["Essex County / primary ZIP 01970", "Essex County / ZIP 01970 sector", "Essex County / ZIP 01971 sector", "Essex County / coords 42.5100, -70.9000", "Essex County / elevation 49 ft band"]
-zillowHomeValueUsd: 604387
 ---
 
 **Engineering Notice for Salem:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Essex County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Salem, MA, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Synthetic underlayment slip in Salem, MA is often tied to deck moisture, not wind alone.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 01970.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 01971/01970.
+Wind-zone note: Salem, MA exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 01971, 01970 (county grid: Essex County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+FAQ: How long can shingles wait after storm damage? In Salem, MA, delayed dry-in can expand insulation and ceiling repairs.
+
+roof work brief: skylight curb height and pipe boot manufacturer match were cross-checked for the Salem intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 01971/01970.
+
+On-site sector marker: Essex County / primary ZIP 01970 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Essex County / elevation 49 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-01970-f835115f

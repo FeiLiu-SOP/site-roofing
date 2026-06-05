@@ -11,27 +11,31 @@ lng: -121.2900
 zipSample: ["95242", "95240"]
 zipCodes: ["95242", "95240"]
 localPaths: ["San Joaquin County / ZIP 95240 sector", "San Joaquin County / ZIP 95242 sector", "San Joaquin County / primary ZIP 95240", "San Joaquin County / coords 38.1200, -121.2900", "San Joaquin County / elevation 39 ft band"]
-zillowHomeValueUsd: 472418
 ---
 
 **Engineering Notice for Lodi:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: San Joaquin County.
 
 
-Our service coordination centers on Lodi, CA coverage windows and verified intake details.
+FAQ: Is partial dry-in possible? In Lodi, CA, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lodi, CA, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 95240.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: confirm licensing and insurance before approving work.
+Our Lodi, CA dispatch packets reference county grid San Joaquin County and elevation band 39 ft.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95242/95240.
+Risk flag: In Lodi, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 95242/95240.
+Tip: Note recent wind events when filing insurance photos for Lodi, CA.
 
-Dispatch sectors sampled: ZIP 95242, 95240 (county grid: San Joaquin County).
+Hail bruising on Lodi, CA ridges may not breach felt until the next wind event.
+
+roof service brief: valley metal gauge and attic baffle spacing were cross-checked for the Lodi intake packet.
+
+**Regional Infrastructure Brief:** Coverage anchor set to San Joaquin County. Reference elevation: 39 ft. Primary coordinates: 38.1200, -121.2900. ZIP sample: 95240, 95242. Regional routing note: San Joaquin County traffic flow is balanced around ZIP 95240 service demand.
+
+On-site sector marker: San Joaquin County / primary ZIP 95240 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95240-16ad255b

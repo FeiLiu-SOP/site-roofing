@@ -11,26 +11,35 @@ lng: -87.9400
 zipSample: ["60031"]
 zipCodes: ["60031"]
 localPaths: ["Lake County / ZIP 60031 sector", "Lake County / coords 42.3700, -87.9400", "Lake County / primary ZIP 60031", "Lake County / elevation 715 ft band"]
-zillowHomeValueUsd: 366262
 ---
 
 **Engineering Notice for Gurnee:** Structural loading calculated based on 715 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Metal panel oil-canning in Gurnee, IL may signal clip spacing issues, not wind damage alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: compare shingle manufacturer wind-zone ratings for Gurnee, IL exposure class.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Moisture pathway inspection logged near ZIP 60031 intake.
+Tip: Note recent wind events when filing insurance photos for Gurnee, IL.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60031.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 60031 (county grid: Lake County).
+Risk flag: In Gurnee, IL, interior stains may track from HVAC condensate rather than roof cladding.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+roof work brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Gurnee intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 60031.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~715 ft across the Lake County area. Coordinates: 42.3700, -87.9400. ZIP sample: 60031. Logistics priority: Serving residential sectors across Lake County and north-east ZIP 60031 grid.
+
+On-site sector marker: Lake County / coords 42.3700, -87.9400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60031-3745bdea

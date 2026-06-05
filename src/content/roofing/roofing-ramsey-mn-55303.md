@@ -11,26 +11,33 @@ lng: -93.4500
 zipSample: ["55303"]
 zipCodes: ["55303"]
 localPaths: ["Anoka County / primary ZIP 55303", "Anoka County / coords 45.2600, -93.4500", "Anoka County / elevation 886 ft band", "Anoka County / ZIP 55303 sector"]
-zillowHomeValueUsd: 372429
 ---
 
 **Engineering Notice for Ramsey:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Anoka County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ramsey, MN, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: request a written scope before work starts.
+Risk flag: Tile underlayment age in Ramsey, MN can fail independently of visible tile cracks.
 
-We coordinate local dispatch coverage around Ramsey, MN and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In Ramsey, MN, seasonal demand can change scheduling windows.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Wind exposure category reviewed for ZIP sector 55303.
+Across Ramsey, MN, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Access points and staging constraints recorded for ZIP 55303 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 55303 (county grid: Anoka County).
+Regulatory note: Ramsey, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Material note: In Ramsey, MN, algae-resistant granules may be specified for north-facing slopes.
+
+Field routing: valley metal gauge paired with pipe boot manufacturer match near ZIP 55303.
+
+Regional mesh label Anoka County: moisture and logistics baselines are keyed to Ramsey, MN before niche-specific work begins.
+
+On-site sector marker: Anoka County / elevation 886 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55303-64f680e3

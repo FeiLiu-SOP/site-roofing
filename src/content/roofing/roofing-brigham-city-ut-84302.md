@@ -11,24 +11,33 @@ lng: -112.0500
 zipSample: ["84302"]
 zipCodes: ["84302"]
 localPaths: ["Box Elder County / coords 41.5000, -112.0500", "Box Elder County / ZIP 84302 sector", "Box Elder County / elevation 4232 ft band", "Box Elder County / primary ZIP 84302"]
-zillowHomeValueUsd: 435507
 ---
 
 **Engineering Notice for Brigham City:** Structural loading calculated based on 4232 ft terrain assessment. Regional dispatch grid: Box Elder County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Brigham City, UT, but intake notes help reduce delays.
+Material note: In Brigham City, UT, algae-resistant granules may be specified for north-facing slopes.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Code context: Ventilation ratios for Brigham City, UT attics should be checked against current mechanical exhaust additions.
 
-Our service coordination centers on Brigham City, UT coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Brigham City, UT, delayed dry-in can expand insulation and ceiling repairs.
 
-Clear documentation helps align materials, labor, and timeline.
+Our Brigham City, UT dispatch packets reference county grid Box Elder County and elevation band 4232 ft.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84302.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 84302 (county grid: Box Elder County).
+TPO seam welds in Brigham City, UT commercial sections need probe tests after freeze events.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: ice-barrier lap sequence plus deck sheathing thickness referenced in Box Elder County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 84302.
+
+On-site sector marker: Box Elder County / ZIP 84302 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Brigham City, UT: sampled sectors include 84302; county routing grid remains Box Elder County.
 
 Service reference: UT-84302-b8182cd3

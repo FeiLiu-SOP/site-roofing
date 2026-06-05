@@ -11,24 +11,35 @@ lng: -96.2900
 zipSample: ["75160", "75161"]
 zipCodes: ["75161", "75160"]
 localPaths: ["Kaufman County / primary ZIP 75160", "Kaufman County / coords 32.7300, -96.2900", "Kaufman County / ZIP 75161 sector", "Kaufman County / ZIP 75160 sector", "Kaufman County / elevation 528 ft band"]
-zillowHomeValueUsd: 261870
 ---
 
 **Engineering Notice for Terrell:** Structural loading calculated based on 528 ft terrain assessment. Regional dispatch grid: Kaufman County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Homeowners in Terrell, TX often face sudden roofing service problems that require fast action.
+FAQ: Is partial dry-in possible? In Terrell, TX, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Valley metal in Terrell, TX should be reviewed whenever granule loss tracks the water line.
 
-We coordinate local dispatch coverage around Terrell, TX and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75161/75160.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 75161, 75160 (county grid: Kaufman County).
+Schedule a roof inspection with written scope before permanent remediation. Serving ZIP Code: 75160.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Material note: In Terrell, TX, algae-resistant granules may be specified for north-facing slopes.
+
+Field routing: pipe boot manufacturer match paired with skylight curb height near ZIP 75160.
+
+Field note: Shingle seal-down timing logged near ZIP 75160/75161.
+
+ZIP-corridor snapshot for Terrell, TX: sampled sectors include 75161, 75160; county routing grid remains Kaufman County.
+
+On-site sector marker: Kaufman County / coords 32.7300, -96.2900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75160-47210279

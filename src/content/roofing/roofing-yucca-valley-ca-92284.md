@@ -11,24 +11,31 @@ lng: -116.4200
 zipSample: ["92284"]
 zipCodes: ["92284"]
 localPaths: ["San Bernardino County / primary ZIP 92284", "San Bernardino County / coords 34.1200, -116.4200", "San Bernardino County / elevation 3271 ft band", "San Bernardino County / ZIP 92284 sector"]
-zillowHomeValueUsd: 357205
 ---
 
 **Engineering Notice for Yucca Valley:** Structural loading calculated based on 3271 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Yucca Valley, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+Step: map ventilation intake and exhaust pairs for Yucca Valley, CA attic runs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When should permanent remediation start? In Yucca Valley, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92284.
+Valley metal in Yucca Valley, CA should be reviewed whenever granule loss tracks the water line.
 
-Dispatch sectors sampled: ZIP 92284 (county grid: San Bernardino County).
+Tip: Note recent wind events when filing insurance photos for Yucca Valley, CA.
+
+Code context: Ventilation ratios for Yucca Valley, CA attics should be checked against current mechanical exhaust additions.
+
+Field routing: wind uplift clip spacing paired with pipe boot manufacturer match near ZIP 92284.
+
+On-site sector marker: San Bernardino County / ZIP 92284 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Bernardino County / elevation 3271 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92284-98490a84

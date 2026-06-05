@@ -11,24 +11,35 @@ lng: -76.3000
 zipSample: ["17602", "17603", "17601", "17608", "17699"]
 zipCodes: ["17602", "17699", "17603", "17601", "17608", "17622"]
 localPaths: ["Lancaster County / ZIP 17603 sector", "Lancaster County / coords 40.0400, -76.3000", "Lancaster County / ZIP 17699 sector", "Lancaster County / elevation 394 ft band", "Lancaster County / ZIP 17601 sector"]
-zillowHomeValueUsd: 307347
 ---
 
 **Engineering Notice for Lancaster:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Lancaster County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 17603.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Lancaster, PA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How long can shingles wait after storm damage? In Lancaster, PA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 17622/17699/17601 intake.
+Step: separate emergency tarp scope from permanent service line items.
 
-Dispatch sectors sampled: ZIP 17622, 17699, 17601, 17608, 17602 (county grid: Lancaster County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Code context: Ventilation ratios for Lancaster, PA attics should be checked against current mechanical exhaust additions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Field routing: drip-edge metal profile paired with shingle exposure calibration near ZIP 17603.
+
+Field note: Attic moisture pathway scan referenced ZIP 17622/17602/17608.
+
+On-site sector marker: Lancaster County / ZIP 17699 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 17603 with multi-ZIP overlap in Lancaster; field packets tag Lancaster County for county-grid reconciliation.
 
 Service reference: PA-17603-bbb52fab

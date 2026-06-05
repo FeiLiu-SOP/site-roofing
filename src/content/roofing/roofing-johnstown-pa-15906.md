@@ -11,24 +11,35 @@ lng: -78.9200
 zipSample: ["15906", "15905", "15902", "15907", "15901"]
 zipCodes: ["15905", "15907", "15902", "15901", "15906"]
 localPaths: ["Cambria County / coords 40.3300, -78.9200", "Cambria County / ZIP 15907 sector", "Cambria County / ZIP 15901 sector", "Cambria County / primary ZIP 15906", "Cambria County / ZIP 15906 sector"]
-zillowHomeValueUsd: 42875
 ---
 
 **Engineering Notice for Johnstown:** Structural loading calculated based on 1178 ft terrain assessment. Regional dispatch grid: Cambria County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: avoid large upfront payments without milestones.
+Coastal humidity in Johnstown, PA can slow shingle seal-down after shoulder-season storms.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Johnstown, PA, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-We coordinate local dispatch coverage around Johnstown, PA and nearby ZIP sectors.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Connection points spot-checked where accessible (ZIP 15901/15902/15905 zone).
+Code context: Ventilation ratios for Johnstown, PA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 15901, 15902, 15905, 15907, 15906 (county grid: Cambria County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Risk flag: Tile underlayment age in Johnstown, PA can fail independently of visible tile cracks.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: synthetic underlayment slip paired with pipe boot manufacturer match near ZIP 15906.
+
+Field note: Valley debris and granule loss noted for ZIP 15902/15907/15901.
+
+On-site sector marker: Cambria County / ZIP 15901 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Cambria County: moisture and logistics baselines are keyed to Johnstown, PA before niche-specific work begins.
 
 Service reference: PA-15906-b638ce39

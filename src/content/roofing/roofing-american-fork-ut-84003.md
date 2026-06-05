@@ -11,24 +11,31 @@ lng: -111.8000
 zipSample: ["84003"]
 zipCodes: ["84003"]
 localPaths: ["Utah County / ZIP 84003 sector", "Utah County / primary ZIP 84003", "Utah County / coords 40.3800, -111.8000", "Utah County / elevation 4629 ft band"]
-zillowHomeValueUsd: 598734
 ---
 
 **Engineering Notice for American Fork:** Structural loading calculated based on 4629 ft terrain assessment. Regional dispatch grid: Utah County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In American Fork, UT, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in American Fork, UT, but intake notes help reduce delays.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-A written scope helps prevent rework and mismatched expectations.
+Synthetic underlayment slip in American Fork, UT is often tied to deck moisture, not wind alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 84003 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 84003 (county grid: Utah County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Field routing: valley metal gauge paired with chimney cricket slope near ZIP 84003.
+
+ZIP-corridor snapshot for American Fork, UT: sampled sectors include 84003; county routing grid remains Utah County.
+
+Coordinate-anchored dispatch note: center reference 40.3800, -111.8000 at elevation ~4629 ft aligns with Utah County intake staging.
 
 Service reference: UT-84003-7d0a657d

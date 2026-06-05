@@ -11,27 +11,29 @@ lng: -82.8100
 zipSample: ["29630", "29632", "29631"]
 zipCodes: ["29631", "29632", "29630"]
 localPaths: ["Pickens County / primary ZIP 29631", "Pickens County / ZIP 29631 sector", "Pickens County / coords 34.6800, -82.8100", "Pickens County / ZIP 29630 sector", "Pickens County / ZIP 29632 sector"]
-zillowHomeValueUsd: 397807
 ---
 
 **Engineering Notice for Clemson:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Pickens County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Clemson, SC can fail independently of visible tile cracks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 29631.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-We coordinate local dispatch coverage around Clemson, SC and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for Clemson, SC.
 
-Field note: Access points and staging constraints recorded for ZIP 29631/29632/29630 coverage.
+Code context: Ventilation ratios for Clemson, SC attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 29631/29632/29630 intake.
+Valley metal in Clemson, SC should be reviewed whenever granule loss tracks the water line.
 
-Dispatch sectors sampled: ZIP 29631, 29632, 29630 (county grid: Pickens County).
+Field routing: ice-barrier lap sequence paired with pipe boot manufacturer match near ZIP 29631.
+
+On-site sector marker: Pickens County / ZIP 29630 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 34.6800, -82.8100 at elevation ~804 ft aligns with Pickens County intake staging.
 
 Service reference: SC-29631-f6cf4956

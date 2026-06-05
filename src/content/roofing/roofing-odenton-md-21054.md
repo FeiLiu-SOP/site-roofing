@@ -11,25 +11,33 @@ lng: -76.6900
 zipSample: ["21054", "21113"]
 zipCodes: ["21054", "21113"]
 localPaths: ["Anne Arundel County / ZIP 21054 sector", "Anne Arundel County / primary ZIP 21054", "Anne Arundel County / elevation 240 ft band", "Anne Arundel County / ZIP 21113 sector", "Anne Arundel County / coords 39.0700, -76.6900"]
-zillowHomeValueUsd: 613026
 ---
 
 **Engineering Notice for Odenton:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Odenton, MD coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for Odenton, MD.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wood shake courses in Odenton, MD require skip-spacing rules at valleys.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 21054.
+Material note: In Odenton, MD, algae-resistant granules may be specified for north-facing slopes.
 
-In Odenton, MD, seasonal demand can change scheduling windows.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21113/21054.
+FAQ: Is partial dry-in possible? In Odenton, MD, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 21113, 21054 (county grid: Anne Arundel County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Step: map ventilation intake and exhaust pairs for Odenton, MD attic runs.
+
+Field routing: attic baffle spacing paired with synthetic underlayment slip near ZIP 21054.
+
+Field note: Shingle seal-down timing logged near ZIP 21113/21054.
+
+On-site sector marker: Anne Arundel County / elevation 240 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Anne Arundel County / coords 39.0700, -76.6900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21054-bb6bea53

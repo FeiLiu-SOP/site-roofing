@@ -11,26 +11,33 @@ lng: -113.3500
 zipSample: ["84737"]
 zipCodes: ["84737"]
 localPaths: ["Washington County / primary ZIP 84737", "Washington County / ZIP 84737 sector", "Washington County / elevation 3264 ft band", "Washington County / coords 37.1500, -113.3500"]
-zillowHomeValueUsd: 514688
 ---
 
 **Engineering Notice for Hurricane:** Structural loading calculated based on 3264 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: In Hurricane, UT, algae-resistant granules may be specified for north-facing slopes.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hurricane, UT, but intake notes help reduce delays.
+Regulatory note: Hurricane, UT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 84737.
 
-Field note: Connection points spot-checked where accessible (ZIP 84737 zone).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Moisture pathway inspection logged near ZIP 84737 intake.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 84737 (county grid: Washington County).
+FAQ: How long can shingles wait after storm damage? In Hurricane, UT, delayed dry-in can expand insulation and ceiling repairs.
+
+Low-slope sections in Hurricane, UT need positive drainage before membrane repairs are scoped.
+
+Field routing: counter-flashing reglet depth paired with synthetic underlayment slip near ZIP 84737.
+
+ZIP-corridor snapshot for Hurricane, UT: sampled sectors include 84737; county routing grid remains Washington County.
+
+On-site sector marker: Washington County / primary ZIP 84737 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84737-994777b6

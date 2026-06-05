@@ -11,24 +11,35 @@ lng: -82.2100
 zipSample: ["30813"]
 zipCodes: ["30813"]
 localPaths: ["Columbia County / elevation 499 ft band", "Columbia County / coords 33.4500, -82.2100", "Columbia County / primary ZIP 30813", "Columbia County / ZIP 30813 sector"]
-zillowHomeValueUsd: 305934
 ---
 
 **Engineering Notice for Grovetown:** Structural loading calculated based on 499 ft terrain assessment. Regional dispatch grid: Columbia County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: In Grovetown, GA, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-We coordinate local dispatch coverage around Grovetown, GA and nearby ZIP sectors.
+Low-slope sections in Grovetown, GA need positive drainage before membrane repairs are scoped.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Grovetown, GA attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 30813.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 30813 (county grid: Columbia County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Step: log deck soundings near vents before tear-off is approved.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Scope trace: starter-strip setback plus valley metal gauge referenced in Columbia County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 30813.
+
+On-site sector marker: Columbia County / primary ZIP 30813 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Columbia County / ZIP 30813 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30813-40e11ede

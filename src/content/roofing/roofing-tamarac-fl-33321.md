@@ -11,26 +11,31 @@ lng: -80.2500
 zipSample: ["33321", "33359", "33319"]
 zipCodes: ["33319", "33359", "33321"]
 localPaths: ["Broward County / elevation 20 ft band", "Broward County / ZIP 33319 sector", "Broward County / coords 26.2100, -80.2500", "Broward County / ZIP 33359 sector", "Broward County / ZIP 33321 sector"]
-zillowHomeValueUsd: 296706
 ---
 
 **Engineering Notice for Tamarac:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Homeowners in Tamarac, FL often face sudden roofing service problems that require fast action.
+Code context: Ventilation ratios for Tamarac, FL attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Tamarac, FL and nearby ZIP sectors.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Wind exposure category reviewed for ZIP sector 33359/33319/33321.
+FAQ: When should permanent remediation start? In Tamarac, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33359/33319/33321.
+TPO seam welds in Tamarac, FL commercial sections need probe tests after freeze events.
 
-Dispatch sectors sampled: ZIP 33359, 33319, 33321 (county grid: Broward County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: deck sheathing thickness paired with counter-flashing reglet depth near ZIP 33321.
+
+On-site sector marker: Broward County / coords 26.2100, -80.2500 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Broward County / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33321-b447c13e

@@ -11,24 +11,33 @@ lng: -90.2800
 zipSample: ["63125"]
 zipCodes: ["63125"]
 localPaths: ["St. Louis County / primary ZIP 63125", "St. Louis County / elevation 492 ft band", "St. Louis County / coords 38.5300, -90.2800", "St. Louis County / ZIP 63125 sector"]
-zillowHomeValueUsd: 203100
 ---
 
 **Engineering Notice for Lemay:** Structural loading calculated based on 492 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-We coordinate local dispatch coverage around Lemay, MO and nearby ZIP sectors.
+Risk flag: In Lemay, MO, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can you tarp only part of the roof? In Lemay, MO, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Wood shake courses in Lemay, MO require skip-spacing rules at valleys.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: compare shingle manufacturer wind-zone ratings for Lemay, MO exposure class.
 
-Tip: compare at least two estimates for scope and timeline.
+Code context: Ventilation ratios for Lemay, MO attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 63125 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 63125 (county grid: St. Louis County).
+Tip: Note recent wind events when filing insurance photos for Lemay, MO.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Material note: In Lemay, MO, algae-resistant granules may be specified for north-facing slopes.
+
+Field routing: skylight curb height paired with synthetic underlayment slip near ZIP 63125.
+
+ZIP-corridor snapshot for Lemay, MO: sampled sectors include 63125; county routing grid remains St. Louis County.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~492 ft across the St. Louis County area. Coordinates: 38.5300, -90.2800. ZIP sample: 63125. Regional routing note: St. Louis County traffic flow is balanced around ZIP 63125 service demand.
 
 Service reference: MO-63125-c5c10ba3

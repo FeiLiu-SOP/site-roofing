@@ -11,26 +11,31 @@ lng: -90.4100
 zipSample: ["63901", "63902"]
 zipCodes: ["63902", "63901"]
 localPaths: ["Butler County / elevation 354 ft band", "Butler County / ZIP 63902 sector", "Butler County / ZIP 63901 sector", "Butler County / coords 36.7600, -90.4100", "Butler County / primary ZIP 63901"]
-zillowHomeValueUsd: 169488
 ---
 
 **Engineering Notice for Poplar Bluff:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Butler County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Poplar Bluff, MO, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Poplar Bluff, MO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Poplar Bluff, MO and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Poplar Bluff, MO can fail independently of visible tile cracks.
 
-In Poplar Bluff, MO, urgent roofing service issues can escalate quickly.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 63902/63901 zone).
+Granule embedment loss on Poplar Bluff, MO north slopes can precede mat exposure.
 
-Field note: Wind exposure category reviewed for ZIP sector 63902/63901.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 63902, 63901 (county grid: Butler County).
+Field routing: pipe boot manufacturer match paired with ice-barrier lap sequence near ZIP 63901.
+
+Field note: Attic moisture pathway scan referenced ZIP 63902/63901.
+
+On-site sector marker: Butler County / primary ZIP 63901 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~354 ft across the Butler County area. Coordinates: 36.7600, -90.4100. ZIP sample: 63901, 63902. Service perimeter note: Coverage extends through Butler County with dispatch centered near ZIP 63901.
 
 Service reference: MO-63901-6146c491

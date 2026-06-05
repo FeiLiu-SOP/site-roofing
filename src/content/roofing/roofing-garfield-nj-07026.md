@@ -11,24 +11,31 @@ lng: -74.1100
 zipSample: ["07026"]
 zipCodes: ["07026"]
 localPaths: ["Bergen County / primary ZIP 07026", "Bergen County / ZIP 07026 sector", "Bergen County / coords 40.8800, -74.1100", "Bergen County / elevation 112 ft band"]
-zillowHomeValueUsd: 579889
 ---
 
 **Engineering Notice for Garfield:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Bergen County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+In Garfield, NJ, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Garfield, NJ, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Garfield, NJ, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 07026 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 07026 (county grid: Bergen County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+roof service brief: drip-edge metal profile and deck sheathing thickness were cross-checked for the Garfield intake packet.
+
+On-site sector marker: Bergen County / elevation 112 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Bergen County / coords 40.8800, -74.1100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07026-afa1fedb

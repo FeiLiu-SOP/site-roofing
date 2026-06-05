@@ -11,24 +11,31 @@ lng: -93.1600
 zipSample: ["55122", "55121", "55123"]
 zipCodes: ["55122", "55123", "55121"]
 localPaths: ["Dakota County / ZIP 55122 sector", "Dakota County / ZIP 55121 sector", "Dakota County / coords 44.8200, -93.1600", "Dakota County / primary ZIP 55121", "Dakota County / elevation 876 ft band"]
-zillowHomeValueUsd: 337316
 ---
 
 **Engineering Notice for Eagan:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Dakota County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: Eagan, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: address recurring issues early to prevent bigger damage.
+Across Eagan, MN, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 55122/55121/55123 zone).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 55122, 55121, 55123 (county grid: Dakota County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+Scope trace: counter-flashing reglet depth plus ridge cap nail schedule referenced in Dakota County county grid review.
+
+ZIP-corridor snapshot for Eagan, MN: sampled sectors include 55122, 55123, 55121; county routing grid remains Dakota County.
+
+On-site sector marker: Dakota County / ZIP 55121 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55121-bfcf7bd1

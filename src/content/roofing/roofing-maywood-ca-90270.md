@@ -11,24 +11,35 @@ lng: -118.1900
 zipSample: ["90270"]
 zipCodes: ["90270"]
 localPaths: ["Los Angeles County / ZIP 90270 sector", "Los Angeles County / coords 33.9900, -118.1900", "Los Angeles County / primary ZIP 90270", "Los Angeles County / elevation 157 ft band"]
-zillowHomeValueUsd: 652543
 ---
 
 **Engineering Notice for Maywood:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Maywood, CA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-We coordinate local dispatch coverage around Maywood, CA and nearby ZIP sectors.
+Regulatory note: Maywood, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: In Maywood, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90270.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 90270 (county grid: Los Angeles County).
+Step: log deck soundings near vents before tear-off is approved.
+
+FAQ: Can you tarp only part of the roof? In Maywood, CA, yes—if slope and anchor points support safe tie-offs.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: soffit intake free area plus ridge cap nail schedule referenced in Los Angeles County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 90270.
+
+On-site sector marker: Los Angeles County / ZIP 90270 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / elevation 157 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90270-15eb7641

@@ -11,24 +11,31 @@ lng: -79.0400
 zipSample: ["29527", "29528", "29526"]
 zipCodes: ["29526", "29528", "29527"]
 localPaths: ["Horry County / ZIP 29527 sector", "Horry County / elevation 39 ft band", "Horry County / coords 33.8400, -79.0400", "Horry County / ZIP 29528 sector", "Horry County / ZIP 29526 sector"]
-zillowHomeValueUsd: 259468
 ---
 
 **Engineering Notice for Conway:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Horry County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How long can shingles wait after storm damage? In Conway, SC, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Conway, SC, but intake notes help reduce delays.
+Parapet coping movement in Conway, SC can channel water behind wall cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Structured milestones protect both sides when scheduling work.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29528/29526/29527.
+Material note: In Conway, SC, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 29528, 29526, 29527 (county grid: Horry County).
+Our Conway, SC dispatch packets reference county grid Horry County and elevation band 39 ft.
+
+Code context: Ventilation ratios for Conway, SC attics should be checked against current mechanical exhaust additions.
+
+Field routing: deck sheathing thickness paired with drip-edge metal profile near ZIP 29527.
+
+Primary postal anchor 29527 with multi-ZIP overlap in Conway; field packets tag Horry County for county-grid reconciliation.
+
+On-site sector marker: Horry County / elevation 39 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29527-83d91725

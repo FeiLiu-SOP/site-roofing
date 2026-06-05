@@ -11,26 +11,35 @@ lng: -85.7700
 zipSample: ["46140"]
 zipCodes: ["46140"]
 localPaths: ["Hancock County / elevation 892 ft band", "Hancock County / coords 39.7900, -85.7700", "Hancock County / ZIP 46140 sector", "Hancock County / primary ZIP 46140"]
-zillowHomeValueUsd: 291802
 ---
 
 **Engineering Notice for Greenfield:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Hancock County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our service coordination centers on Greenfield, IN coverage windows and verified intake details.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Greenfield, IN, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Metal panel oil-canning in Greenfield, IN may signal clip spacing issues, not wind damage alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46140.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Moisture pathway inspection logged near ZIP 46140 intake.
+Regulatory note: Greenfield, IN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 46140 (county grid: Hancock County).
+Risk flag: Tile underlayment age in Greenfield, IN can fail independently of visible tile cracks.
+
+FAQ: Can you tarp only part of the roof? In Greenfield, IN, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: synthetic underlayment slip paired with chimney cricket slope near ZIP 46140.
+
+Field note: Valley debris and granule loss noted for ZIP 46140.
+
+Coordinate-anchored dispatch note: center reference 39.7900, -85.7700 at elevation ~892 ft aligns with Hancock County intake staging.
+
+Primary postal anchor 46140 with multi-ZIP overlap in Greenfield; field packets tag Hancock County for county-grid reconciliation.
 
 Service reference: IN-46140-5d4be0ab

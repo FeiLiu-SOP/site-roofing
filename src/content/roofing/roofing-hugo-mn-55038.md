@@ -11,25 +11,31 @@ lng: -92.9600
 zipSample: ["55038"]
 zipCodes: ["55038"]
 localPaths: ["Washington County / ZIP 55038 sector", "Washington County / coords 45.1700, -92.9600", "Washington County / primary ZIP 55038", "Washington County / elevation 922 ft band"]
-zillowHomeValueUsd: 448911
 ---
 
 **Engineering Notice for Hugo:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-We coordinate local dispatch coverage around Hugo, MN and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55038.
+Wood shake courses in Hugo, MN require skip-spacing rules at valleys.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 55038 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 55038 (county grid: Washington County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Field routing: deck sheathing thickness paired with synthetic underlayment slip near ZIP 55038.
+
+On-site sector marker: Washington County / primary ZIP 55038 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Washington County / elevation 922 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55038-c50af4ad

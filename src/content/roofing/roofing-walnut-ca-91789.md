@@ -11,27 +11,33 @@ lng: -117.8600
 zipSample: ["91789", "91788"]
 zipCodes: ["91788", "91789"]
 localPaths: ["Los Angeles County / coords 34.0300, -117.8600", "Los Angeles County / primary ZIP 91789", "Los Angeles County / elevation 689 ft band", "Los Angeles County / ZIP 91789 sector", "Los Angeles County / ZIP 91788 sector"]
-zillowHomeValueUsd: 1156341
 ---
 
 **Engineering Notice for Walnut:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Walnut, CA, but intake notes help reduce delays.
+Code context: Ventilation ratios for Walnut, CA attics should be checked against current mechanical exhaust additions.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: request a written scope before work starts.
+Attic ventilation deficits in Walnut, CA can mimic roof leaks at ceiling penetrations.
 
-We coordinate local dispatch coverage around Walnut, CA and nearby ZIP sectors.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 91789.
+FAQ: How long can shingles wait after storm damage? In Walnut, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 91789/91788.
+Risk flag: In Walnut, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 91789/91788 intake.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 91789, 91788 (county grid: Los Angeles County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Scope trace: skylight curb height plus wind uplift clip spacing referenced in Los Angeles County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 91789/91788.
+
+On-site sector marker: Los Angeles County / coords 34.0300, -117.8600 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to Walnut, CA before niche-specific work begins.
 
 Service reference: CA-91789-24fc2d17

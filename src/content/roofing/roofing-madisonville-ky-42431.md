@@ -11,27 +11,33 @@ lng: -87.5000
 zipSample: ["42431"]
 zipCodes: ["42431"]
 localPaths: ["Hopkins County / ZIP 42431 sector", "Hopkins County / primary ZIP 42431", "Hopkins County / elevation 482 ft band", "Hopkins County / coords 37.3400, -87.5000"]
-zillowHomeValueUsd: 160950
 ---
 
 **Engineering Notice for Madisonville:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Hopkins County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Note recent wind events when filing insurance photos for Madisonville, KY.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 42431.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-We coordinate local dispatch coverage around Madisonville, KY and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Madisonville, KY, but intake notes help reduce delays.
+FAQ: Can you tarp only part of the roof? In Madisonville, KY, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 42431 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 42431.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 42431 (county grid: Hopkins County).
+Synthetic underlayment slip in Madisonville, KY is often tied to deck moisture, not wind alone.
+
+roof service brief: counter-flashing reglet depth and starter-strip setback were cross-checked for the Madisonville intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 42431.
+
+On-site sector marker: Hopkins County / elevation 482 ft band — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Hopkins County: moisture and logistics baselines are keyed to Madisonville, KY before niche-specific work begins.
 
 Service reference: KY-42431-b870f69b

@@ -11,24 +11,33 @@ lng: -93.2800
 zipSample: ["55021"]
 zipCodes: ["55021"]
 localPaths: ["Rice County / coords 44.3000, -93.2800", "Rice County / ZIP 55021 sector", "Rice County / primary ZIP 55021", "Rice County / elevation 981 ft band"]
-zillowHomeValueUsd: 296081
 ---
 
 **Engineering Notice for Faribault:** Structural loading calculated based on 981 ft terrain assessment. Regional dispatch grid: Rice County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 55021.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: How long can shingles wait after storm damage? In Faribault, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Local conditions in Faribault, MN can affect timelines and material choices.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 55021.
+Wood shake courses in Faribault, MN require skip-spacing rules at valleys.
 
-Dispatch sectors sampled: ZIP 55021 (county grid: Rice County).
+Risk flag: In Faribault, MN, interior stains may track from HVAC condensate rather than roof cladding.
+
+Code context: Ventilation ratios for Faribault, MN attics should be checked against current mechanical exhaust additions.
+
+Scope trace: starter-strip setback plus skylight curb height referenced in Rice County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 55021.
+
+On-site sector marker: Rice County / coords 44.3000, -93.2800 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Faribault, MN: sampled sectors include 55021; county routing grid remains Rice County.
 
 Service reference: MN-55021-7d74a664

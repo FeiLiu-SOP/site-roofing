@@ -11,26 +11,29 @@ lng: -122.4000
 zipSample: ["94030"]
 zipCodes: ["94030"]
 localPaths: ["San Mateo County / elevation 92 ft band", "San Mateo County / coords 37.6000, -122.4000", "San Mateo County / primary ZIP 94030", "San Mateo County / ZIP 94030 sector"]
-zillowHomeValueUsd: 2081737
 ---
 
 **Engineering Notice for Millbrae:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: San Mateo County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Millbrae, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-A written scope helps prevent rework and mismatched expectations.
+Wind-zone note: Millbrae, CA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Millbrae, CA, but intake notes help reduce delays.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Tip: avoid large upfront payments without milestones.
+TPO seam welds in Millbrae, CA commercial sections need probe tests after freeze events.
 
-We coordinate local dispatch coverage around Millbrae, CA and nearby ZIP sectors.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 94030.
+Tip: Note recent wind events when filing insurance photos for Millbrae, CA.
 
-Field note: Access points and staging constraints recorded for ZIP 94030 coverage.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 94030 (county grid: San Mateo County).
+Field routing: attic baffle spacing paired with wind uplift clip spacing near ZIP 94030.
+
+Regional mesh label San Mateo County: moisture and logistics baselines are keyed to Millbrae, CA before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with San Mateo County and primary ZIP 94030. Terrain reference: 92 ft. Center point: 37.6000, -122.4000. ZIP sample: 94030. Service perimeter note: Coverage extends through San Mateo County with dispatch centered near ZIP 94030.
 
 Service reference: CA-94030-6455e799

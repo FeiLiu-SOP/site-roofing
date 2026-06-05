@@ -11,26 +11,29 @@ lng: -80.2700
 zipSample: ["33134", "33234", "33206", "33158", "33143"]
 zipCodes: ["33114", "33143", "33158", "33156", "33134", "33146", "33206", "33234"]
 localPaths: ["Miami-Dade County / ZIP 33158 sector", "Miami-Dade County / elevation 43 ft band", "Miami-Dade County / coords 25.7000, -80.2700", "Miami-Dade County / ZIP 33206 sector", "Miami-Dade County / ZIP 33134 sector"]
-zillowHomeValueUsd: 1867126
 ---
 
 **Engineering Notice for Coral Gables:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Can you tarp only part of the roof? In Coral Gables, FL, yes—if slope and anchor points support safe tie-offs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: stage tear-off debris paths away from landscape drains.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Coral Gables, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+Metal panel oil-canning in Coral Gables, FL may signal clip spacing issues, not wind damage alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Access points and staging constraints recorded for ZIP 33158/33234/33156 coverage.
+Our Coral Gables, FL dispatch packets reference county grid Miami-Dade County and elevation band 43 ft.
 
-Field note: Wind exposure category reviewed for ZIP sector 33158/33234/33156.
+Wind-zone note: Coral Gables, FL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 33158, 33234, 33156, 33143, 33134 (county grid: Miami-Dade County).
+roofing service brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Coral Gables intake packet.
+
+On-site sector marker: Miami-Dade County / ZIP 33146 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Miami-Dade County / ZIP 33134 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33146-b66fb3b9

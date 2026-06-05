@@ -11,24 +11,31 @@ lng: -75.8200
 zipSample: ["21921", "21922"]
 zipCodes: ["21922", "21921"]
 localPaths: ["Cecil County / ZIP 21921 sector", "Cecil County / primary ZIP 21921", "Cecil County / coords 39.6100, -75.8200", "Cecil County / elevation 13 ft band", "Cecil County / ZIP 21922 sector"]
-zillowHomeValueUsd: 369118
 ---
 
 **Engineering Notice for Elkton:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Cecil County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: request a written scope before work starts.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-In Elkton, MD, seasonal demand can change scheduling windows.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-We coordinate local dispatch coverage around Elkton, MD and nearby ZIP sectors.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Elkton, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21921/21922.
+In Elkton, MD, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Dispatch sectors sampled: ZIP 21921, 21922 (county grid: Cecil County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roof service brief: ridge cap nail schedule and ice-barrier lap sequence were cross-checked for the Elkton intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 21921/21922.
+
+Regional mesh label Cecil County: moisture and logistics baselines are keyed to Elkton, MD before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Cecil County. Reference elevation: 13 ft. Primary coordinates: 39.6100, -75.8200. ZIP sample: 21921, 21922. Service perimeter note: Coverage extends through Cecil County with dispatch centered near ZIP 21921.
 
 Service reference: MD-21921-f0529704

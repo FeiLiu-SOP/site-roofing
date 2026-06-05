@@ -11,25 +11,31 @@ lng: -95.5100
 zipSample: ["77381", "77393", "77380", "77384", "77389"]
 zipCodes: ["77384", "77382", "77389", "77380", "77381", "77393"]
 localPaths: ["Montgomery County / ZIP 77389 sector", "Montgomery County / coords 30.1700, -95.5100", "Montgomery County / ZIP 77381 sector", "Montgomery County / primary ZIP 77381", "Montgomery County / ZIP 77384 sector"]
-zillowHomeValueUsd: 573741
 ---
 
 **Engineering Notice for The Woodlands:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-We coordinate local dispatch coverage around The Woodlands, TX and nearby ZIP sectors.
+Code context: Ventilation ratios for The Woodlands, TX attics should be checked against current mechanical exhaust additions.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 77381.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tile and shingle mixes in The Woodlands, TX require different fastener patterns at transitions.
 
-Field note: Access points and staging constraints recorded for ZIP 77381/77393/77382 coverage.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 77381, 77393, 77382, 77389, 77384 (county grid: Montgomery County).
+FAQ: When should permanent remediation start? In The Woodlands, TX, delayed dry-in can expand insulation and ceiling repairs.
+
+roof service brief: attic baffle spacing and starter-strip setback were cross-checked for the The Woodlands intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 77393/77389/77381.
+
+Coordinate-anchored dispatch note: center reference 30.1700, -95.5100 at elevation ~194 ft aligns with Montgomery County intake staging.
+
+On-site sector marker: Montgomery County / coords 30.1700, -95.5100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77381-f8260c53

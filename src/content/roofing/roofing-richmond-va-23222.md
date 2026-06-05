@@ -11,26 +11,35 @@ lng: -77.4800
 zipSample: ["23298", "23225", "23222", "23261", "23286"]
 zipCodes: ["23226", "23218", "23230", "23225", "23234", "23291", "23284", "23276", "23286", "23219", "23232", "23278"]
 localPaths: ["Richmond County / ZIP 23298 sector", "Richmond County / elevation 52 ft band", "Richmond County / ZIP 23225 sector", "Richmond County / ZIP 23261 sector", "Richmond County / primary ZIP 23222"]
-zillowHomeValueUsd: 276035
 ---
 
 **Engineering Notice for Richmond:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Richmond County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Richmond, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Granule embedment loss on Richmond, VA north slopes can precede mat exposure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Richmond, VA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 23289/23220/23227 zone).
+Tip: Note recent wind events when filing insurance photos for Richmond, VA.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 23289/23220/23227.
+FAQ: When should permanent remediation start? In Richmond, VA, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 23289, 23220, 23227, 23295, 23223 (county grid: Richmond County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Risk flag: Tile underlayment age in Richmond, VA can fail independently of visible tile cracks.
+
+Scope trace: wind uplift clip spacing plus ridge cap nail schedule referenced in Richmond County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 23232/23230/23298.
+
+On-site sector marker: Richmond County / ZIP 23224 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Richmond County / primary ZIP 23222 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23222-4acf01c1

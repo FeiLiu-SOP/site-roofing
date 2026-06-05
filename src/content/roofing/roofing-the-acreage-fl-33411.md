@@ -11,27 +11,33 @@ lng: -80.2800
 zipSample: ["33412", "33411", "33470"]
 zipCodes: ["33411", "33412", "33470"]
 localPaths: ["Palm Beach County / ZIP 33470 sector", "Palm Beach County / coords 26.7700, -80.2800", "Palm Beach County / elevation 43 ft band", "Palm Beach County / ZIP 33412 sector", "Palm Beach County / primary ZIP 33411"]
-zillowHomeValueUsd: 465675
 ---
 
 **Engineering Notice for The Acreage:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Palm Beach County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33411.
+Material note: In The Acreage, FL, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In The Acreage, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: request a written scope before work starts.
+TPO seam welds in The Acreage, FL commercial sections need probe tests after freeze events.
 
-Our service coordination centers on The Acreage, FL coverage windows and verified intake details.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Moisture pathway inspection logged near ZIP 33470/33411/33412 intake.
+Granule embedment loss on The Acreage, FL north slopes can precede mat exposure.
 
-Field note: Connection points spot-checked where accessible (ZIP 33470/33411/33412 zone).
+Code context: Ventilation ratios for The Acreage, FL attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 33470, 33411, 33412 (county grid: Palm Beach County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: chimney cricket slope paired with ridge cap nail schedule near ZIP 33411.
+
+On-site sector marker: Palm Beach County / ZIP 33411 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Palm Beach County and primary ZIP 33411. Terrain reference: 43 ft. Center point: 26.7700, -80.2800. ZIP sample: 33470, 33411, 33412. Regional routing note: Palm Beach County traffic flow is balanced around ZIP 33411 service demand.
 
 Service reference: FL-33411-e3ace8ef

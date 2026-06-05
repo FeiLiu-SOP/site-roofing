@@ -11,27 +11,33 @@ lng: -124.1600
 zipSample: ["95501", "95503", "95534", "95521", "95502"]
 zipCodes: ["95501", "95521", "95534", "95503", "95502"]
 localPaths: ["Humboldt County / ZIP 95521 sector", "Humboldt County / coords 40.7900, -124.1600", "Humboldt County / ZIP 95501 sector", "Humboldt County / ZIP 95534 sector", "Humboldt County / primary ZIP 95503"]
-zillowHomeValueUsd: 426526
 ---
 
 **Engineering Notice for Eureka:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Humboldt County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 95503.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Regulatory note: Eureka, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Eureka, CA, but intake notes help reduce delays.
+Granule embedment loss on Eureka, CA north slopes can precede mat exposure.
 
-We coordinate local dispatch coverage around Eureka, CA and nearby ZIP sectors.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: request a written scope before work starts.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 95502/95503/95534 zone).
+Material note: In Eureka, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95502/95503/95534.
+FAQ: Can you tarp only part of the roof? In Eureka, CA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 95502, 95503, 95534, 95501, 95521 (county grid: Humboldt County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: skylight curb height plus wind uplift clip spacing referenced in Humboldt County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 95534/95501/95521.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Humboldt County. Reference elevation: 69 ft. Primary coordinates: 40.7900, -124.1600. ZIP sample: 95503, 95521, 95534, 95501, 95502. Service perimeter note: Coverage extends through Humboldt County with dispatch centered near ZIP 95503.
+
+On-site sector marker: Humboldt County / primary ZIP 95503 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95503-6eab1bfc

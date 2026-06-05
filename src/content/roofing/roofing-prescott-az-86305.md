@@ -11,25 +11,33 @@ lng: -112.4500
 zipSample: ["86304", "86302", "86303", "86305", "86313"]
 zipCodes: ["86313", "86305", "86304", "86302", "86301", "86303"]
 localPaths: ["Yavapai County / ZIP 86302 sector", "Yavapai County / ZIP 86305 sector", "Yavapai County / ZIP 86304 sector", "Yavapai County / coords 34.5800, -112.4500", "Yavapai County / ZIP 86313 sector"]
-zillowHomeValueUsd: 714815
 ---
 
 **Engineering Notice for Prescott:** Structural loading calculated based on 5325 ft terrain assessment. Regional dispatch grid: Yavapai County.
 
 
-Local conditions in Prescott, AZ can affect timelines and material choices.
+Attic ventilation deficits in Prescott, AZ can mimic roof leaks at ceiling penetrations.
 
-Tip: request a written scope before work starts.
+Risk flag: In Prescott, AZ, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Prescott, AZ coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can you tarp only part of the roof? In Prescott, AZ, yes—if slope and anchor points support safe tie-offs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 86305.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Moisture pathway inspection logged near ZIP 86313/86304/86301 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 86313, 86304, 86301, 86302, 86303 (county grid: Yavapai County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Regulatory note: Prescott, AZ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: valley metal gauge plus shingle exposure calibration referenced in Yavapai County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 86301/86305/86303.
+
+On-site sector marker: Yavapai County / ZIP 86302 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Yavapai County / elevation 5325 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-86305-49162d71

@@ -11,25 +11,31 @@ lng: -73.0800
 zipSample: ["11782"]
 zipCodes: ["11782"]
 localPaths: ["Suffolk County / primary ZIP 11782", "Suffolk County / ZIP 11782 sector", "Suffolk County / coords 40.7500, -73.0800", "Suffolk County / elevation 39 ft band"]
-zillowHomeValueUsd: 745314
 ---
 
 **Engineering Notice for Sayville:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Note recent wind events when filing insurance photos for Sayville, NY.
 
-We coordinate local dispatch coverage around Sayville, NY and nearby ZIP sectors.
+FAQ: Is partial dry-in possible? In Sayville, NY, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sayville, NY, but intake notes help reduce delays.
+Across Sayville, NY, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 11782.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: avoid large upfront payments without milestones.
+Code context: Ventilation ratios for Sayville, NY attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 11782.
+Risk flag: Tile underlayment age in Sayville, NY can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 11782 (county grid: Suffolk County).
+Our Sayville, NY dispatch packets reference county grid Suffolk County and elevation band 39 ft.
+
+Scope trace: ridge cap nail schedule plus ice-barrier lap sequence referenced in Suffolk County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 11782.
+
+On-site sector marker: Suffolk County / primary ZIP 11782 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 11782 with multi-ZIP overlap in Sayville; field packets tag Suffolk County for county-grid reconciliation.
 
 Service reference: NY-11782-9b2a3784

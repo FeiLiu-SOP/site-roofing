@@ -11,26 +11,31 @@ lng: -82.7200
 zipSample: ["43073", "43062"]
 zipCodes: ["43062", "43073"]
 localPaths: ["Licking County / elevation 1024 ft band", "Licking County / ZIP 43062 sector", "Licking County / ZIP 43073 sector", "Licking County / primary ZIP 43062", "Licking County / coords 40.0100, -82.7200"]
-zillowHomeValueUsd: 383652
 ---
 
 **Engineering Notice for Pataskala:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: Licking County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: separate emergency tarp scope from permanent service line items.
 
-Tip: request a written scope before work starts.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pataskala, OH, but intake notes help reduce delays.
+Freeze-thaw cycles around Pataskala, OH stress nail pops along eaves and rake edges.
 
-We coordinate local dispatch coverage around Pataskala, OH and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 43062/43073.
+Wind-zone note: Pataskala, OH exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 43062/43073 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 43062, 43073 (county grid: Licking County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: ridge cap nail schedule plus attic baffle spacing referenced in Licking County county grid review.
+
+On-site sector marker: Licking County / ZIP 43073 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Licking County / ZIP 43062 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43062-cbb8cb7d

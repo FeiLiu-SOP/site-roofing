@@ -11,25 +11,33 @@ lng: -82.3000
 zipSample: ["33578", "33568", "33569", "33579"]
 zipCodes: ["33578", "33568", "33569", "33579"]
 localPaths: ["Hillsborough County / ZIP 33568 sector", "Hillsborough County / elevation 85 ft band", "Hillsborough County / primary ZIP 33579", "Hillsborough County / ZIP 33578 sector", "Hillsborough County / coords 27.8200, -82.3000"]
-zillowHomeValueUsd: 387162
 ---
 
 **Engineering Notice for Riverview:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Riverview, FL attics should be checked against current mechanical exhaust additions.
 
-A written scope helps prevent rework and mismatched expectations.
+In Riverview, FL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33579.
+FAQ: Is partial dry-in possible? In Riverview, FL, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Riverview, FL, but intake notes help reduce delays.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Connection points spot-checked where accessible (ZIP 33578/33579/33568 zone).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 33578, 33579, 33568, 33569 (county grid: Hillsborough County).
+Risk flag: Tile underlayment age in Riverview, FL can fail independently of visible tile cracks.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Field routing: valley metal gauge paired with ridge cap nail schedule near ZIP 33579.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 33578/33579/33568.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Hillsborough County. Reference elevation: 85 ft. Primary coordinates: 27.8200, -82.3000. ZIP sample: 33578, 33579, 33569, 33568. Service perimeter note: Coverage extends through Hillsborough County with dispatch centered near ZIP 33579.
+
+Coordinate-anchored dispatch note: center reference 27.8200, -82.3000 at elevation ~85 ft aligns with Hillsborough County intake staging.
 
 Service reference: FL-33579-061d8b3e

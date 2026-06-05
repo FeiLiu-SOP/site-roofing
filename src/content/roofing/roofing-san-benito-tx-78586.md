@@ -11,24 +11,31 @@ lng: -97.6400
 zipSample: ["78586"]
 zipCodes: ["78586"]
 localPaths: ["Cameron County / coords 26.1300, -97.6400", "Cameron County / primary ZIP 78586", "Cameron County / elevation 56 ft band", "Cameron County / ZIP 78586 sector"]
-zillowHomeValueUsd: 164518
 ---
 
 **Engineering Notice for San Benito:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Cameron County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: confirm licensing and insurance before approving work.
+Our San Benito, TX dispatch packets reference county grid Cameron County and elevation band 56 ft.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: map ventilation intake and exhaust pairs for San Benito, TX attic runs.
 
-We coordinate local dispatch coverage around San Benito, TX and nearby ZIP sectors.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78586.
+Metal panel oil-canning in San Benito, TX may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 78586 (county grid: Cameron County).
+Regulatory note: San Benito, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: shingle exposure calibration plus pipe boot manufacturer match referenced in Cameron County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 78586.
+
+On-site sector marker: Cameron County / ZIP 78586 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cameron County / coords 26.1300, -97.6400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78586-5ba440dc

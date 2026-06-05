@@ -11,24 +11,31 @@ lng: -118.3700
 zipSample: ["90046", "90069", "90048"]
 zipCodes: ["90048", "90046", "90069"]
 localPaths: ["Los Angeles County / ZIP 90048 sector", "Los Angeles County / ZIP 90046 sector", "Los Angeles County / primary ZIP 90069", "Los Angeles County / coords 34.0900, -118.3700", "Los Angeles County / elevation 259 ft band"]
-zillowHomeValueUsd: 1271483
 ---
 
 **Engineering Notice for West Hollywood:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Code context: Ventilation ratios for West Hollywood, CA attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Valley metal in West Hollywood, CA should be reviewed whenever granule loss tracks the water line.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in West Hollywood, CA, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Wind exposure category reviewed for ZIP sector 90069/90046/90048.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 90069, 90046, 90048 (county grid: Los Angeles County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 90069.
+
+roof service brief: shingle exposure calibration and valley metal gauge were cross-checked for the West Hollywood intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 90069/90046/90048.
+
+On-site sector marker: Los Angeles County / primary ZIP 90069 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / coords 34.0900, -118.3700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90069-5c8edbd0

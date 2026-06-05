@@ -11,26 +11,33 @@ lng: -96.8100
 zipSample: ["75078"]
 zipCodes: ["75078"]
 localPaths: ["Collin County / primary ZIP 75078", "Collin County / ZIP 75078 sector", "Collin County / coords 33.2400, -96.8100", "Collin County / elevation 653 ft band"]
-zillowHomeValueUsd: 755848
 ---
 
 **Engineering Notice for Prosper:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Collin County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Prosper, TX attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Prosper, TX and nearby ZIP sectors.
+Step: map ventilation intake and exhaust pairs for Prosper, TX attic runs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tile and shingle mixes in Prosper, TX require different fastener patterns at transitions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Prosper, TX, but intake notes help reduce delays.
+FAQ: Is partial dry-in possible? In Prosper, TX, yes—if slope and anchor points support safe tie-offs.
 
-Structured milestones protect both sides when scheduling work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 75078 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 75078 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 75078 (county grid: Collin County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 75078.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Scope trace: skylight curb height plus counter-flashing reglet depth referenced in Collin County county grid review.
+
+ZIP-corridor snapshot for Prosper, TX: sampled sectors include 75078; county routing grid remains Collin County.
+
+Primary postal anchor 75078 with multi-ZIP overlap in Prosper; field packets tag Collin County for county-grid reconciliation.
 
 Service reference: TX-75078-db52c2a6

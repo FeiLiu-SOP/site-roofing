@@ -11,26 +11,33 @@ lng: -118.3100
 zipSample: ["90249", "90247"]
 zipCodes: ["90247", "90249"]
 localPaths: ["Los Angeles County / ZIP 90247 sector", "Los Angeles County / ZIP 90249 sector", "Los Angeles County / coords 33.8900, -118.3100", "Los Angeles County / elevation 59 ft band", "Los Angeles County / primary ZIP 90249"]
-zillowHomeValueUsd: 811697
 ---
 
 **Engineering Notice for Gardena:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on Gardena, CA coverage windows and verified intake details.
+Material note: In Gardena, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Structured milestones protect both sides when scheduling work.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should permanent service start? In Gardena, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 90249/90247 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 90249/90247 zone).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 90249, 90247 (county grid: Los Angeles County).
+Freeze-thaw cycles around Gardena, CA stress nail pops along eaves and rake edges.
+
+Code context: Ventilation ratios for Gardena, CA attics should be checked against current mechanical exhaust additions.
+
+Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Los Angeles County county grid review.
+
+ZIP-corridor snapshot for Gardena, CA: sampled sectors include 90249, 90247; county routing grid remains Los Angeles County.
+
+On-site sector marker: Los Angeles County / ZIP 90249 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90249-7f83eb35

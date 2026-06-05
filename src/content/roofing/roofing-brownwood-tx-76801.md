@@ -11,26 +11,33 @@ lng: -98.9800
 zipSample: ["76803", "76801", "76802"]
 zipCodes: ["76802", "76801", "76803"]
 localPaths: ["Brown County / ZIP 76803 sector", "Brown County / ZIP 76802 sector", "Brown County / ZIP 76801 sector", "Brown County / elevation 1358 ft band", "Brown County / coords 31.7100, -98.9800"]
-zillowHomeValueUsd: 168884
 ---
 
 **Engineering Notice for Brownwood:** Structural loading calculated based on 1358 ft terrain assessment. Regional dispatch grid: Brown County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-In Brownwood, TX, seasonal demand can change scheduling windows.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: avoid large upfront payments without milestones.
+Material note: In Brownwood, TX, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Our Brownwood, TX dispatch packets reference county grid Brown County and elevation band 1358 ft.
 
-Field note: Moisture pathway inspection logged near ZIP 76802/76803/76801 intake.
+Granule embedment loss on Brownwood, TX north slopes can precede mat exposure.
 
-Field note: Access points and staging constraints recorded for ZIP 76802/76803/76801 coverage.
+Risk flag: In Brownwood, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 76802, 76803, 76801 (county grid: Brown County).
+Step: stage tear-off debris paths away from landscape drains.
+
+roof work brief: soffit intake free area and deck sheathing thickness were cross-checked for the Brownwood intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 76801/76802/76803.
+
+Regional mesh label Brown County: moisture and logistics baselines are keyed to Brownwood, TX before niche-specific work begins.
+
+ZIP-corridor snapshot for Brownwood, TX: sampled sectors include 76802, 76803, 76801; county routing grid remains Brown County.
 
 Service reference: TX-76801-77d3e678

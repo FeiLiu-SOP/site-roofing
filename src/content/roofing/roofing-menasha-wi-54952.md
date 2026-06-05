@@ -11,24 +11,33 @@ lng: -88.4300
 zipSample: ["54952"]
 zipCodes: ["54952"]
 localPaths: ["Winnebago County / ZIP 54952 sector", "Winnebago County / primary ZIP 54952", "Winnebago County / coords 44.2100, -88.4300", "Winnebago County / elevation 761 ft band"]
-zillowHomeValueUsd: 277319
 ---
 
 **Engineering Notice for Menasha:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Winnebago County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Regulatory note: Menasha, WI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Low-slope sections in Menasha, WI need positive drainage before membrane repairs are scoped.
 
-Field note: Connection points spot-checked where accessible (ZIP 54952 zone).
+Risk flag: In Menasha, WI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 54952 (county grid: Winnebago County).
+Material note: In Menasha, WI, algae-resistant granules may be specified for north-facing slopes.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: ridge cap nail schedule paired with soffit intake free area near ZIP 54952.
+
+Field note: Attic moisture pathway scan referenced ZIP 54952.
+
+On-site sector marker: Winnebago County / primary ZIP 54952 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 54952 with multi-ZIP overlap in Menasha; field packets tag Winnebago County for county-grid reconciliation.
 
 Service reference: WI-54952-4b5c3ff3

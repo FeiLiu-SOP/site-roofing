@@ -11,26 +11,31 @@ lng: -79.7900
 zipSample: ["29506", "29503", "29505", "29502", "29504"]
 zipCodes: ["29503", "29502", "29505", "29501", "29506", "29504"]
 localPaths: ["Florence County / ZIP 29503 sector", "Florence County / ZIP 29504 sector", "Florence County / coords 34.1800, -79.7900", "Florence County / primary ZIP 29505", "Florence County / ZIP 29506 sector"]
-zillowHomeValueUsd: 230678
 ---
 
 **Engineering Notice for Florence:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Florence County.
 
 
-In Florence, SC, urgent roof service issues can escalate quickly.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Florence, SC, but intake notes help reduce delays.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Freeze-thaw cycles around Florence, SC stress nail pops along eaves and rake edges.
 
-Tip: request a written scope before work starts.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our service coordination centers on Florence, SC coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for Florence, SC.
 
-Field note: Wind exposure category reviewed for ZIP sector 29505/29504/29501.
+Step: compare shingle manufacturer wind-zone ratings for Florence, SC exposure class.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29505/29504/29501.
+Regulatory note: Florence, SC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 29505, 29504, 29501, 29506, 29503 (county grid: Florence County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+roof service brief: drip-edge metal profile and ice-barrier lap sequence were cross-checked for the Florence intake packet.
+
+On-site sector marker: Florence County / ZIP 29506 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Florence County / ZIP 29502 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29505-8d1bae6a

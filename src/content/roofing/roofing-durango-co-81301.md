@@ -11,26 +11,31 @@ lng: -107.8800
 zipSample: ["81301", "81326"]
 zipCodes: ["81301", "81326"]
 localPaths: ["La Plata County / ZIP 81326 sector", "La Plata County / coords 37.2700, -107.8800", "La Plata County / primary ZIP 81301", "La Plata County / elevation 6539 ft band", "La Plata County / ZIP 81301 sector"]
-zillowHomeValueUsd: 757882
 ---
 
 **Engineering Notice for Durango:** Structural loading calculated based on 6539 ft terrain assessment. Regional dispatch grid: La Plata County.
 
 
-In Durango, CO, urgent roof work issues can escalate quickly.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Our service coordination centers on Durango, CO coverage windows and verified intake details.
+Metal panel oil-canning in Durango, CO may signal clip spacing issues, not wind damage alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Durango, CO, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 81301/81326 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 81301/81326.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 81301, 81326 (county grid: La Plata County).
+Wind-zone note: Durango, CO exposure class can change starter-strip and cap nail schedules.
+
+roof work brief: starter-strip setback and soffit intake free area were cross-checked for the Durango intake packet.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~6539 ft across the La Plata County area. Coordinates: 37.2700, -107.8800. ZIP sample: 81326, 81301. Regional routing note: La Plata County traffic flow is balanced around ZIP 81301 service demand.
+
+On-site sector marker: La Plata County / elevation 6539 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-81301-ef19560b

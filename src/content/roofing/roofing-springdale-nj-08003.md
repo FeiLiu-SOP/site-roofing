@@ -11,26 +11,31 @@ lng: -74.9700
 zipSample: ["08003"]
 zipCodes: ["08003"]
 localPaths: ["Camden County / ZIP 08003 sector", "Camden County / coords 39.8800, -74.9700", "Camden County / primary ZIP 08003", "Camden County / elevation 75 ft band"]
-zillowHomeValueUsd: 564410
 ---
 
 **Engineering Notice for Springdale:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Camden County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-In Springdale, NJ, seasonal demand can change scheduling windows.
+Risk flag: In Springdale, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-In Springdale, NJ, urgent roof service issues can escalate quickly.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Springdale, NJ, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Low-slope sections in Springdale, NJ need positive drainage before membrane repairs are scoped.
 
-Field note: Access points and staging constraints recorded for ZIP 08003 coverage.
+FAQ: How long can shingles wait after storm damage? In Springdale, NJ, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 08003.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 08003 (county grid: Camden County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 08003.
+
+Scope trace: valley metal gauge plus synthetic underlayment slip referenced in Camden County county grid review.
+
+On-site sector marker: Camden County / coords 39.8800, -74.9700 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Springdale, NJ: sampled sectors include 08003; county routing grid remains Camden County.
 
 Service reference: NJ-08003-2b77030f

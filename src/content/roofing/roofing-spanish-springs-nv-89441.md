@@ -11,26 +11,31 @@ lng: -119.6700
 zipSample: ["89441", "89436"]
 zipCodes: ["89436", "89441"]
 localPaths: ["Washoe County / coords 39.6600, -119.6700", "Washoe County / ZIP 89436 sector", "Washoe County / primary ZIP 89441", "Washoe County / elevation 4738 ft band", "Washoe County / ZIP 89441 sector"]
-zillowHomeValueUsd: 696182
 ---
 
 **Engineering Notice for Spanish Springs:** Structural loading calculated based on 4738 ft terrain assessment. Regional dispatch grid: Washoe County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Spanish Springs, NV coverage windows and verified intake details.
+Risk flag: In Spanish Springs, NV, interior stains may track from HVAC condensate rather than roof cladding.
 
-Structured milestones protect both sides when scheduling work.
+Attic ventilation deficits in Spanish Springs, NV can mimic roof leaks at ceiling penetrations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 89436/89441.
+FAQ: Can you tarp only part of the roof? In Spanish Springs, NV, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 89436/89441 intake.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 89436, 89441 (county grid: Washoe County).
+roof service brief: ice-barrier lap sequence and skylight curb height were cross-checked for the Spanish Springs intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 89441/89436.
+
+Regional mesh label Washoe County: moisture and logistics baselines are keyed to Spanish Springs, NV before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 39.6600, -119.6700 at elevation ~4738 ft aligns with Washoe County intake staging.
 
 Service reference: NV-89441-3cd9ffaf

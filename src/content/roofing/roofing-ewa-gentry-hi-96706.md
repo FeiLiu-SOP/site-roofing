@@ -11,24 +11,29 @@ lng: -158.0300
 zipSample: ["96706"]
 zipCodes: ["96706"]
 localPaths: ["Honolulu County / coords 21.3300, -158.0300", "Honolulu County / ZIP 96706 sector", "Honolulu County / primary ZIP 96706", "Honolulu County / elevation 52 ft band"]
-zillowHomeValueUsd: 830540
 ---
 
 **Engineering Notice for Ewa Gentry:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Honolulu County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ewa Gentry, HI, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: confirm licensing and insurance before approving work.
+Low-slope sections in Ewa Gentry, HI need positive drainage before membrane repairs are scoped.
 
-We coordinate local dispatch coverage around Ewa Gentry, HI and nearby ZIP sectors.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When should permanent restoration start? In Ewa Gentry, HI, delayed dry-in can expand insulation and ceiling repairs.
 
-Local conditions in Ewa Gentry, HI can affect timelines and material choices.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96706.
+Code context: Ventilation ratios for Ewa Gentry, HI attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 96706 (county grid: Honolulu County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Field routing: wind uplift clip spacing paired with ridge cap nail schedule near ZIP 96706.
+
+On-site sector marker: Honolulu County / ZIP 96706 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 96706 with multi-ZIP overlap in Ewa Gentry; field packets tag Honolulu County for county-grid reconciliation.
 
 Service reference: HI-96706-02a0aca9

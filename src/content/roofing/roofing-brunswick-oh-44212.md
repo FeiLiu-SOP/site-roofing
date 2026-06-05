@@ -11,24 +11,29 @@ lng: -81.8200
 zipSample: ["44212"]
 zipCodes: ["44212"]
 localPaths: ["Medina County / coords 41.2500, -81.8200", "Medina County / elevation 1112 ft band", "Medina County / ZIP 44212 sector", "Medina County / primary ZIP 44212"]
-zillowHomeValueUsd: 313154
 ---
 
 **Engineering Notice for Brunswick:** Structural loading calculated based on 1112 ft terrain assessment. Regional dispatch grid: Medina County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Brunswick, OH, but intake notes help reduce delays.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: request a written scope before work starts.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Brunswick, OH exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Freeze-thaw cycles around Brunswick, OH stress nail pops along eaves and rake edges.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44212.
+Risk flag: In Brunswick, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 44212 (county grid: Medina County).
+FAQ: How long can shingles wait after storm damage? In Brunswick, OH, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: drip-edge metal profile paired with ice-barrier lap sequence near ZIP 44212.
+
+ZIP-corridor snapshot for Brunswick, OH: sampled sectors include 44212; county routing grid remains Medina County.
+
+On-site sector marker: Medina County / elevation 1112 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44212-61621019

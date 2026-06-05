@@ -11,24 +11,29 @@ lng: -81.3900
 zipSample: ["32082"]
 zipCodes: ["32082"]
 localPaths: ["St. Johns County / ZIP 32082 sector", "St. Johns County / primary ZIP 32082", "St. Johns County / coords 30.2000, -81.3900", "St. Johns County / elevation 16 ft band"]
-zillowHomeValueUsd: 827449
 ---
 
 **Engineering Notice for Palm Valley:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: St. Johns County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Attic ventilation deficits in Palm Valley, FL can mimic roof leaks at ceiling penetrations.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Our service coordination centers on Palm Valley, FL coverage windows and verified intake details.
+FAQ: Can you tarp only part of the roof? In Palm Valley, FL, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 32082.
+Code context: Ventilation ratios for Palm Valley, FL attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 32082 (county grid: St. Johns County).
+Risk flag: Tile underlayment age in Palm Valley, FL can fail independently of visible tile cracks.
+
+Field routing: ice-barrier lap sequence paired with synthetic underlayment slip near ZIP 32082.
+
+**Regional Infrastructure Brief:** Coverage anchor set to St. Johns County. Reference elevation: 16 ft. Primary coordinates: 30.2000, -81.3900. ZIP sample: 32082. Service perimeter note: Coverage extends through St. Johns County with dispatch centered near ZIP 32082.
+
+Primary postal anchor 32082 with multi-ZIP overlap in Palm Valley; field packets tag St. Johns County for county-grid reconciliation.
 
 Service reference: FL-32082-2fa24817

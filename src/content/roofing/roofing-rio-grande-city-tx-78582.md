@@ -11,26 +11,33 @@ lng: -98.8200
 zipSample: ["78582"]
 zipCodes: ["78582"]
 localPaths: ["Starr County / elevation 187 ft band", "Starr County / coords 26.3800, -98.8200", "Starr County / ZIP 78582 sector", "Starr County / primary ZIP 78582"]
-zillowHomeValueUsd: 146527
 ---
 
 **Engineering Notice for Rio Grande City:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Starr County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Valley metal in Rio Grande City, TX should be reviewed whenever granule loss tracks the water line.
 
-Our service coordination centers on Rio Grande City, TX coverage windows and verified intake details.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 78582.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 78582 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 78582 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 78582 (county grid: Starr County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Risk flag: In Rio Grande City, TX, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: skylight curb height paired with drip-edge metal profile near ZIP 78582.
+
+Regional mesh label Starr County: moisture and logistics baselines are keyed to Rio Grande City, TX before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 26.3800, -98.8200 at elevation ~187 ft aligns with Starr County intake staging.
 
 Service reference: TX-78582-297cb905

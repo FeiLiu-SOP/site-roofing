@@ -11,24 +11,35 @@ lng: -118.2000
 zipSample: ["91012", "91011"]
 zipCodes: ["91011", "91012"]
 localPaths: ["Los Angeles County / coords 34.2100, -118.2000", "Los Angeles County / ZIP 91011 sector", "Los Angeles County / primary ZIP 91011", "Los Angeles County / ZIP 91012 sector", "Los Angeles County / elevation 1421 ft band"]
-zillowHomeValueUsd: 2488623
 ---
 
 **Engineering Notice for La Cañada Flintridge:** Structural loading calculated based on 1421 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in La Cañada Flintridge, CA can fail independently of visible tile cracks.
 
-We coordinate local dispatch coverage around La Cañada Flintridge, CA and nearby ZIP sectors.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-In La Cañada Flintridge, CA, seasonal demand can change scheduling windows.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 91012/91011 zone).
+Tip: Note recent wind events when filing insurance photos for La Cañada Flintridge, CA.
 
-Dispatch sectors sampled: ZIP 91012, 91011 (county grid: Los Angeles County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Hail bruising on La Cañada Flintridge, CA ridges may not breach felt until the next wind event.
+
+Code context: Ventilation ratios for La Cañada Flintridge, CA attics should be checked against current mechanical exhaust additions.
+
+Scope trace: deck sheathing thickness plus valley metal gauge referenced in Los Angeles County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 91012/91011.
+
+On-site sector marker: Los Angeles County / ZIP 91011 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / primary ZIP 91011 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91011-4ca5c8e6

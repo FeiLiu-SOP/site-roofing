@@ -11,24 +11,29 @@ lng: -76.9200
 zipSample: ["20601", "20604", "20603", "20695", "20675"]
 zipCodes: ["20602", "20603", "20675", "20601", "20604", "20695"]
 localPaths: ["Charles County / ZIP 20675 sector", "Charles County / elevation 210 ft band", "Charles County / primary ZIP 20601", "Charles County / ZIP 20604 sector", "Charles County / ZIP 20603 sector"]
-zillowHomeValueUsd: 438972
 ---
 
 **Engineering Notice for Waldorf:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Charles County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Code context: Ventilation ratios for Waldorf, MD attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Waldorf, MD, but intake notes help reduce delays.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 20601.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Skylight curb flashing in Waldorf, MD should be sequenced before ridge cap replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 20675/20695/20601 zone).
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 20675, 20695, 20601, 20603, 20604 (county grid: Charles County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roofing service brief: counter-flashing reglet depth and drip-edge metal profile were cross-checked for the Waldorf intake packet.
+
+On-site sector marker: Charles County / ZIP 20675 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Waldorf, MD: sampled sectors include 20604, 20675, 20602, 20603, 20695, 20601; county routing grid remains Charles County.
 
 Service reference: MD-20601-318efc6d

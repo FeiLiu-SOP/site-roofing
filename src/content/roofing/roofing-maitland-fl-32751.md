@@ -11,26 +11,33 @@ lng: -81.3700
 zipSample: ["32799", "32794", "32751"]
 zipCodes: ["32799", "32751", "32794"]
 localPaths: ["Orange County / ZIP 32799 sector", "Orange County / coords 28.6300, -81.3700", "Orange County / primary ZIP 32751", "Orange County / ZIP 32751 sector", "Orange County / ZIP 32794 sector"]
-zillowHomeValueUsd: 461458
 ---
 
 **Engineering Notice for Maitland:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Coastal humidity in Maitland, FL can slow shingle seal-down after shoulder-season storms.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: In Maitland, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Maitland, FL, but intake notes help reduce delays.
+Valley metal in Maitland, FL should be reviewed whenever granule loss tracks the water line.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 32799/32794/32751.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 32799/32794/32751 coverage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 32799, 32794, 32751 (county grid: Orange County).
+FAQ: How long can shingles wait after storm damage? In Maitland, FL, delayed dry-in can expand insulation and ceiling repairs.
+
+Risk flag: In Maitland, FL, interior stains may track from HVAC condensate rather than roof cladding.
+
+roofing service brief: deck sheathing thickness and ice-barrier lap sequence were cross-checked for the Maitland intake packet.
+
+On-site sector marker: Orange County / coords 28.6300, -81.3700 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~98 ft across the Orange County area. Coordinates: 28.6300, -81.3700. ZIP sample: 32799, 32751, 32794. Service perimeter note: Coverage extends through Orange County with dispatch centered near ZIP 32751.
 
 Service reference: FL-32751-703ee9bb

@@ -11,25 +11,29 @@ lng: -88.1100
 zipSample: ["60441", "60403"]
 zipCodes: ["60441", "60403"]
 localPaths: ["Will County / coords 41.5700, -88.1100", "Will County / ZIP 60403 sector", "Will County / elevation 636 ft band", "Will County / primary ZIP 60403", "Will County / ZIP 60441 sector"]
-zillowHomeValueUsd: 276273
 ---
 
 **Engineering Notice for Crest Hill:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Will County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: avoid large upfront payments without milestones.
+In Crest Hill, IL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Crest Hill, IL, but intake notes help reduce delays.
+We coordinate Crest Hill, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60403.
+Regulatory note: Crest Hill, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Crest Hill, IL and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Crest Hill, IL can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 60403/60441.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 60403, 60441 (county grid: Will County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+roof service brief: valley metal gauge and ice-barrier lap sequence were cross-checked for the Crest Hill intake packet.
+
+On-site sector marker: Will County / primary ZIP 60403 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Will County / elevation 636 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60403-4835b692

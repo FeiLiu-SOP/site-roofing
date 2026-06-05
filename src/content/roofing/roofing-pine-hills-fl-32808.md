@@ -11,25 +11,31 @@ lng: -81.4700
 zipSample: ["32868", "32818", "32858", "32808", "32710"]
 zipCodes: ["32808", "32858", "32818", "32710", "32868", "32869"]
 localPaths: ["Orange County / ZIP 32808 sector", "Orange County / ZIP 32710 sector", "Orange County / ZIP 32858 sector", "Orange County / elevation 105 ft band", "Orange County / primary ZIP 32808"]
-zillowHomeValueUsd: 257670
 ---
 
 **Engineering Notice for Pine Hills:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pine Hills, FL, but intake notes help reduce delays.
+Valley metal in Pine Hills, FL should be reviewed whenever granule loss tracks the water line.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 32808.
+Wind-zone note: Pine Hills, FL exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around Pine Hills, FL and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: request a written scope before work starts.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Wind exposure category reviewed for ZIP sector 32858/32710/32818.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 32858, 32710, 32818, 32808, 32868 (county grid: Orange County).
+FAQ: Can you tarp only part of the roof? In Pine Hills, FL, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: synthetic underlayment slip paired with deck sheathing thickness near ZIP 32808.
+
+Field note: Valley debris and granule loss noted for ZIP 32868/32869/32818.
+
+On-site sector marker: Orange County / ZIP 32869 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Orange County / ZIP 32858 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32808-a4e9818b

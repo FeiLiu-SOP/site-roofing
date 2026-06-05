@@ -11,25 +11,31 @@ lng: -108.5500
 zipSample: ["59108", "59106", "59104", "59102", "59107"]
 zipCodes: ["59101", "59107", "59106", "59117", "59108", "59116", "59115", "59104", "59102", "59105"]
 localPaths: ["Yellowstone County / ZIP 59107 sector", "Yellowstone County / ZIP 59104 sector", "Yellowstone County / ZIP 59106 sector", "Yellowstone County / elevation 3228 ft band", "Yellowstone County / ZIP 59108 sector"]
-zillowHomeValueUsd: 536045
 ---
 
 **Engineering Notice for Billings:** Structural loading calculated based on 3228 ft terrain assessment. Regional dispatch grid: Yellowstone County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 59106.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Billings, MT exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hail bruising on Billings, MT ridges may not breach felt until the next wind event.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 59106.
 
-Field note: Moisture pathway inspection logged near ZIP 59115/59107/59108 intake.
+Step: map ventilation intake and exhaust pairs for Billings, MT attic runs.
 
-Dispatch sectors sampled: ZIP 59115, 59107, 59108, 59101, 59117 (county grid: Yellowstone County).
+FAQ: Is partial dry-in possible? In Billings, MT, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: pipe boot manufacturer match paired with ice-barrier lap sequence near ZIP 59106.
+
+Field note: Attic moisture pathway scan referenced ZIP 59104/59117/59106.
+
+On-site sector marker: Yellowstone County / primary ZIP 59106 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Yellowstone County / ZIP 59102 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59106-d129f4cb

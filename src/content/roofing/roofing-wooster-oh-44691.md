@@ -11,24 +11,31 @@ lng: -81.9300
 zipSample: ["44691"]
 zipCodes: ["44691"]
 localPaths: ["Wayne County / primary ZIP 44691", "Wayne County / coords 40.8200, -81.9300", "Wayne County / elevation 1138 ft band", "Wayne County / ZIP 44691 sector"]
-zillowHomeValueUsd: 260207
 ---
 
 **Engineering Notice for Wooster:** Structural loading calculated based on 1138 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-Tip: avoid large upfront payments without milestones.
+We coordinate Wooster, OH roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Wind-zone note: Wooster, OH exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Wooster, OH, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Homeowners in Wooster, OH often face sudden roofing service problems that require fast action.
+Risk flag: In Wooster, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44691.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 44691 (county grid: Wayne County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Scope trace: attic baffle spacing plus shingle exposure calibration referenced in Wayne County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 44691.
+
+On-site sector marker: Wayne County / elevation 1138 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 40.8200, -81.9300 at elevation ~1138 ft aligns with Wayne County intake staging.
 
 Service reference: OH-44691-473d9385

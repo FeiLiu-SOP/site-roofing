@@ -11,26 +11,35 @@ lng: -82.2300
 zipSample: ["33594", "33596"]
 zipCodes: ["33594", "33596"]
 localPaths: ["Hillsborough County / ZIP 33594 sector", "Hillsborough County / ZIP 33596 sector", "Hillsborough County / elevation 115 ft band", "Hillsborough County / primary ZIP 33594", "Hillsborough County / coords 27.9200, -82.2300"]
-zillowHomeValueUsd: 369770
 ---
 
 **Engineering Notice for Valrico:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-We coordinate local dispatch coverage around Valrico, FL and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: address recurring issues early to prevent bigger damage.
+Across Valrico, FL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33596/33594.
+Tip: Note recent wind events when filing insurance photos for Valrico, FL.
 
-Field note: Moisture pathway inspection logged near ZIP 33596/33594 intake.
+Wind-zone note: Valrico, FL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 33596, 33594 (county grid: Hillsborough County).
+Risk flag: Tile underlayment age in Valrico, FL can fail independently of visible tile cracks.
+
+Regulatory note: Valrico, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roofing service brief: ridge cap nail schedule and skylight curb height were cross-checked for the Valrico intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 33596/33594.
+
+ZIP-corridor snapshot for Valrico, FL: sampled sectors include 33596, 33594; county routing grid remains Hillsborough County.
+
+Coordinate-anchored dispatch note: center reference 27.9200, -82.2300 at elevation ~115 ft aligns with Hillsborough County intake staging.
 
 Service reference: FL-33594-dd7a35f1

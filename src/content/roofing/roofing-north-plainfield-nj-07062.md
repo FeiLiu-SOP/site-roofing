@@ -11,24 +11,33 @@ lng: -74.4400
 zipSample: ["07062", "07063", "07060"]
 zipCodes: ["07060", "07062", "07063"]
 localPaths: ["Somerset County / coords 40.6200, -74.4400", "Somerset County / ZIP 07060 sector", "Somerset County / primary ZIP 07062", "Somerset County / elevation 85 ft band", "Somerset County / ZIP 07063 sector"]
-zillowHomeValueUsd: 498005
 ---
 
 **Engineering Notice for North Plainfield:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Somerset County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in North Plainfield, NJ, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: How long can shingles wait after storm damage? In North Plainfield, NJ, delayed dry-in can expand insulation and ceiling repairs.
 
-In North Plainfield, NJ, seasonal demand can change scheduling windows.
+Wind-zone note: North Plainfield, NJ exposure class can change starter-strip and cap nail schedules.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+We coordinate North Plainfield, NJ roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Our service coordination centers on North Plainfield, NJ coverage windows and verified intake details.
+Across North Plainfield, NJ, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Access points and staging constraints recorded for ZIP 07063/07062/07060 coverage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 07063, 07062, 07060 (county grid: Somerset County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+roof service brief: ice-barrier lap sequence and soffit intake free area were cross-checked for the North Plainfield intake packet.
+
+On-site sector marker: Somerset County / primary ZIP 07062 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Somerset County / ZIP 07063 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07062-55252642

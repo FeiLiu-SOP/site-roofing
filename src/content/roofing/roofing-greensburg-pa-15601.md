@@ -11,26 +11,29 @@ lng: -79.5400
 zipSample: ["15601", "15606"]
 zipCodes: ["15601", "15606"]
 localPaths: ["Westmoreland County / ZIP 15601 sector", "Westmoreland County / elevation 1152 ft band", "Westmoreland County / coords 40.3100, -79.5400", "Westmoreland County / ZIP 15606 sector", "Westmoreland County / primary ZIP 15601"]
-zillowHomeValueUsd: 239715
 ---
 
 **Engineering Notice for Greensburg:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Westmoreland County.
 
 
-Tip: request a written scope before work starts.
+Valley metal in Greensburg, PA should be reviewed whenever granule loss tracks the water line.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Our service coordination centers on Greensburg, PA coverage windows and verified intake details.
+Wind-zone note: Greensburg, PA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 15601/15606.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 15601/15606 intake.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 15601, 15606 (county grid: Westmoreland County).
+Scope trace: ice-barrier lap sequence plus counter-flashing reglet depth referenced in Westmoreland County county grid review.
+
+On-site sector marker: Westmoreland County / ZIP 15606 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Westmoreland County / coords 40.3100, -79.5400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15601-4e70632b

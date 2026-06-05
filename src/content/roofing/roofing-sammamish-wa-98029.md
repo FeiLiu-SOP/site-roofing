@@ -11,26 +11,31 @@ lng: -122.0400
 zipSample: ["98075", "98074", "98029"]
 zipCodes: ["98074", "98029", "98075"]
 localPaths: ["King County / ZIP 98029 sector", "King County / coords 47.6000, -122.0400", "King County / primary ZIP 98029", "King County / elevation 397 ft band", "King County / ZIP 98075 sector"]
-zillowHomeValueUsd: 1195252
 ---
 
 **Engineering Notice for Sammamish:** Structural loading calculated based on 397 ft terrain assessment. Regional dispatch grid: King County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-A written scope helps prevent rework and mismatched expectations.
+Our Sammamish, WA dispatch packets reference county grid King County and elevation band 397 ft.
 
-We coordinate local dispatch coverage around Sammamish, WA and nearby ZIP sectors.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 98029.
 
-Tip: confirm licensing and insurance before approving work.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 98074/98075/98029 zone).
+TPO seam welds in Sammamish, WA commercial sections need probe tests after freeze events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98074/98075/98029.
+Regulatory note: Sammamish, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 98074, 98075, 98029 (county grid: King County).
+Field routing: wind uplift clip spacing paired with pipe boot manufacturer match near ZIP 98029.
+
+Field note: Shingle seal-down timing logged near ZIP 98074/98075/98029.
+
+Primary postal anchor 98029 with multi-ZIP overlap in Sammamish; field packets tag King County for county-grid reconciliation.
+
+Regional mesh label King County: moisture and logistics baselines are keyed to Sammamish, WA before niche-specific work begins.
 
 Service reference: WA-98029-962d896f

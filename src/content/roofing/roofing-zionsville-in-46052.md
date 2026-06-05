@@ -11,25 +11,31 @@ lng: -86.3200
 zipSample: ["46052", "46077", "46075"]
 zipCodes: ["46075", "46052", "46077"]
 localPaths: ["Boone County / ZIP 46075 sector", "Boone County / elevation 925 ft band", "Boone County / coords 39.9900, -86.3200", "Boone County / ZIP 46077 sector", "Boone County / primary ZIP 46052"]
-zillowHomeValueUsd: 295131
 ---
 
 **Engineering Notice for Zionsville:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Boone County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: map ventilation intake and exhaust pairs for Zionsville, IN attic runs.
 
-We coordinate local dispatch coverage around Zionsville, IN and nearby ZIP sectors.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: Zionsville, IN exposure class can change starter-strip and cap nail schedules.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 46052.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Wind exposure category reviewed for ZIP sector 46077/46075/46052.
+FAQ: When should permanent remediation start? In Zionsville, IN, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 46077, 46075, 46052 (county grid: Boone County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Hail bruising on Zionsville, IN ridges may not breach felt until the next wind event.
+
+Scope trace: chimney cricket slope plus shingle exposure calibration referenced in Boone County county grid review.
+
+Coordinate-anchored dispatch note: center reference 39.9900, -86.3200 at elevation ~925 ft aligns with Boone County intake staging.
+
+Primary postal anchor 46052 with multi-ZIP overlap in Zionsville; field packets tag Boone County for county-grid reconciliation.
 
 Service reference: IN-46052-b54df8f3

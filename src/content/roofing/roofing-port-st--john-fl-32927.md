@@ -11,27 +11,29 @@ lng: -80.8100
 zipSample: ["32927"]
 zipCodes: ["32927"]
 localPaths: ["Brevard County / primary ZIP 32927", "Brevard County / coords 28.4800, -80.8100", "Brevard County / elevation 39 ft band", "Brevard County / ZIP 32927 sector"]
-zillowHomeValueUsd: 301838
 ---
 
 **Engineering Notice for Port St. John:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Brevard County.
 
 
-Tip: request a written scope before work starts.
+Wind-zone note: Port St. John, FL exposure class can change starter-strip and cap nail schedules.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 32927.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-We coordinate local dispatch coverage around Port St. John, FL and nearby ZIP sectors.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: How long can shingles wait after storm damage? In Port St. John, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Access points and staging constraints recorded for ZIP 32927 coverage.
+Metal panel oil-canning in Port St. John, FL may signal clip spacing issues, not wind damage alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 32927.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 32927 (county grid: Brevard County).
+Scope trace: starter-strip setback plus chimney cricket slope referenced in Brevard County county grid review.
+
+On-site sector marker: Brevard County / primary ZIP 32927 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 32927 with multi-ZIP overlap in Port St. John; field packets tag Brevard County for county-grid reconciliation.
 
 Service reference: FL-32927-be5f74b3

@@ -11,26 +11,31 @@ lng: -83.6200
 zipSample: ["48529", "48519", "48509"]
 zipCodes: ["48529", "48509", "48519"]
 localPaths: ["Genesee County / coords 43.0000, -83.6200", "Genesee County / ZIP 48519 sector", "Genesee County / ZIP 48529 sector", "Genesee County / elevation 781 ft band", "Genesee County / ZIP 48509 sector"]
-zillowHomeValueUsd: 91166
 ---
 
 **Engineering Notice for Burton:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: Genesee County.
 
 
-Structured milestones protect both sides when scheduling work.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-We coordinate local dispatch coverage around Burton, MI and nearby ZIP sectors.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Burton, MI, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48519/48509/48529.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 48519/48509/48529 zone).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 48519, 48509, 48529 (county grid: Genesee County).
+Field routing: ridge cap nail schedule paired with starter-strip setback near ZIP 48529.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 48519/48529/48509.
+
+On-site sector marker: Genesee County / ZIP 48509 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Genesee County. Reference elevation: 781 ft. Primary coordinates: 43.0000, -83.6200. ZIP sample: 48519, 48529, 48509. Service perimeter note: Coverage extends through Genesee County with dispatch centered near ZIP 48529.
 
 Service reference: MI-48529-f6e16b3c

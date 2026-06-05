@@ -11,25 +11,31 @@ lng: -117.7600
 zipSample: ["92651", "92652"]
 zipCodes: ["92652", "92651"]
 localPaths: ["Orange County / elevation 696 ft band", "Orange County / coords 33.5500, -117.7600", "Orange County / ZIP 92652 sector", "Orange County / ZIP 92651 sector", "Orange County / primary ZIP 92651"]
-zillowHomeValueUsd: 3022106
 ---
 
 **Engineering Notice for Laguna Beach:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Wind-zone note: Laguna Beach, CA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Laguna Beach, CA, but intake notes help reduce delays.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Laguna Beach, CA coverage windows and verified intake details.
+Low-slope sections in Laguna Beach, CA need positive drainage before membrane repairs are scoped.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 92651.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 92651/92652 zone).
+FAQ: Can you tarp only part of the roof? In Laguna Beach, CA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 92651, 92652 (county grid: Orange County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Field routing: chimney cricket slope paired with wind uplift clip spacing near ZIP 92651.
+
+Coordinate-anchored dispatch note: center reference 33.5500, -117.7600 at elevation ~696 ft aligns with Orange County intake staging.
+
+Regional mesh label Orange County: moisture and logistics baselines are keyed to Laguna Beach, CA before niche-specific work begins.
 
 Service reference: CA-92651-37841d1a

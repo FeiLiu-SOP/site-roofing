@@ -11,26 +11,31 @@ lng: -118.0400
 zipSample: ["90630"]
 zipCodes: ["90630"]
 localPaths: ["Orange County / coords 33.8200, -118.0400", "Orange County / elevation 52 ft band", "Orange County / ZIP 90630 sector", "Orange County / primary ZIP 90630"]
-zillowHomeValueUsd: 1086085
 ---
 
 **Engineering Notice for Cypress:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Our service coordination centers on Cypress, CA coverage windows and verified intake details.
+Step: map ventilation intake and exhaust pairs for Cypress, CA attic runs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cypress, CA, but intake notes help reduce delays.
+Wind-zone note: Cypress, CA exposure class can change starter-strip and cap nail schedules.
 
-Tip: address recurring issues early to prevent bigger damage.
+Attic ventilation deficits in Cypress, CA can mimic roof leaks at ceiling penetrations.
 
-In Cypress, CA, seasonal demand can change scheduling windows.
+FAQ: How long can shingles wait after storm damage? In Cypress, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Moisture pathway inspection logged near ZIP 90630 intake.
+Our Cypress, CA dispatch packets reference county grid Orange County and elevation band 52 ft.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90630.
+Risk flag: In Cypress, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 90630 (county grid: Orange County).
+Field routing: ice-barrier lap sequence paired with attic baffle spacing near ZIP 90630.
+
+Field note: Attic moisture pathway scan referenced ZIP 90630.
+
+ZIP-corridor snapshot for Cypress, CA: sampled sectors include 90630; county routing grid remains Orange County.
+
+Primary postal anchor 90630 with multi-ZIP overlap in Cypress; field packets tag Orange County for county-grid reconciliation.
 
 Service reference: CA-90630-22218a7b

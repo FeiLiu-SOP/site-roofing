@@ -11,26 +11,33 @@ lng: -83.2700
 zipSample: ["48180"]
 zipCodes: ["48180"]
 localPaths: ["Wayne County / primary ZIP 48180", "Wayne County / elevation 617 ft band", "Wayne County / coords 42.2300, -83.2700", "Wayne County / ZIP 48180 sector"]
-zillowHomeValueUsd: 175752
 ---
 
 **Engineering Notice for Taylor:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-In Taylor, MI, urgent roof work issues can escalate quickly.
+Material note: In Taylor, MI, algae-resistant granules may be specified for north-facing slopes.
 
-Our service coordination centers on Taylor, MI coverage windows and verified intake details.
+Step: compare shingle manufacturer wind-zone ratings for Taylor, MI exposure class.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Taylor, MI attics should be checked against current mechanical exhaust additions.
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Taylor, MI, but intake notes help reduce delays.
+TPO seam welds in Taylor, MI commercial sections need probe tests after freeze events.
 
-Field note: Connection points spot-checked where accessible (ZIP 48180 zone).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 48180.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 48180 (county grid: Wayne County).
+Risk flag: Tile underlayment age in Taylor, MI can fail independently of visible tile cracks.
+
+roof work brief: soffit intake free area and deck sheathing thickness were cross-checked for the Taylor intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 48180.
+
+Regional mesh label Wayne County: moisture and logistics baselines are keyed to Taylor, MI before niche-specific work begins.
+
+On-site sector marker: Wayne County / ZIP 48180 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48180-d49cd0fe

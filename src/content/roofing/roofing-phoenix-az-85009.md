@@ -11,25 +11,29 @@ lng: -112.0900
 zipSample: ["85068", "85028", "85054", "85029", "85005"]
 zipCodes: ["85061", "85006", "85009", "85020", "85028", "85066", "85024", "85036", "85062", "85310", "85266", "85040"]
 localPaths: ["Maricopa County / ZIP 85029 sector", "Maricopa County / elevation 1243 ft band", "Maricopa County / coords 33.5700, -112.0900", "Maricopa County / ZIP 85005 sector", "Maricopa County / ZIP 85068 sector"]
-zillowHomeValueUsd: 279050
 ---
 
 **Engineering Notice for Phoenix:** Structural loading calculated based on 1243 ft terrain assessment. Regional dispatch grid: Maricopa County.
 
 
-We coordinate local dispatch coverage around Phoenix, AZ and nearby ZIP sectors.
+Granule embedment loss on Phoenix, AZ north slopes can precede mat exposure.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 85009.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Phoenix, AZ, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 85010/85066/85024 zone).
+Code context: Ventilation ratios for Phoenix, AZ attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 85010, 85066, 85024, 85054, 85046 (county grid: Maricopa County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: skylight curb height plus soffit intake free area referenced in Maricopa County county grid review.
+
+Regional mesh label Maricopa County: moisture and logistics baselines are keyed to Phoenix, AZ before niche-specific work begins.
+
+On-site sector marker: Maricopa County / coords 33.5700, -112.0900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85009-6c82ca7e

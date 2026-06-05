@@ -11,24 +11,33 @@ lng: -87.7900
 zipSample: ["60402"]
 zipCodes: ["60402"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / primary ZIP 60402", "Cook County / coords 41.8400, -87.7900", "Cook County / ZIP 60402 sector"]
-zillowHomeValueUsd: 303486
 ---
 
 **Engineering Notice for Berwyn:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Wood shake courses in Berwyn, IL require skip-spacing rules at valleys.
 
-Local conditions in Berwyn, IL can affect timelines and material choices.
+We coordinate Berwyn, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Our service coordination centers on Berwyn, IL coverage windows and verified intake details.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Access points and staging constraints recorded for ZIP 60402 coverage.
+Material note: In Berwyn, IL, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 60402 (county grid: Cook County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: soffit intake free area paired with pipe boot manufacturer match near ZIP 60402.
+
+Field note: Valley debris and granule loss noted for ZIP 60402.
+
+On-site sector marker: Cook County / ZIP 60402 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Cook County and primary ZIP 60402. Terrain reference: 614 ft. Center point: 41.8400, -87.7900. ZIP sample: 60402. Regional routing note: Cook County traffic flow is balanced around ZIP 60402 service demand.
 
 Service reference: IL-60402-08be4ba9

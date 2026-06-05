@@ -11,25 +11,31 @@ lng: -93.2600
 zipSample: ["55432", "55421"]
 zipCodes: ["55421", "55432"]
 localPaths: ["Anoka County / primary ZIP 55421", "Anoka County / ZIP 55421 sector", "Anoka County / coords 45.0800, -93.2600", "Anoka County / elevation 843 ft band", "Anoka County / ZIP 55432 sector"]
-zillowHomeValueUsd: 297795
 ---
 
 **Engineering Notice for Fridley:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Anoka County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fridley, MN, but intake notes help reduce delays.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: request a written scope before work starts.
+Our Fridley, MN dispatch packets reference county grid Anoka County and elevation band 843 ft.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: map ventilation intake and exhaust pairs for Fridley, MN attic runs.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55421.
+Risk flag: Tile underlayment age in Fridley, MN can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55421/55432.
+Material note: In Fridley, MN, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 55421, 55432 (county grid: Anoka County).
+Wood shake courses in Fridley, MN require skip-spacing rules at valleys.
+
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: pipe boot manufacturer match paired with attic baffle spacing near ZIP 55421.
+
+On-site sector marker: Anoka County / ZIP 55421 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Fridley, MN: sampled sectors include 55421, 55432; county routing grid remains Anoka County.
 
 Service reference: MN-55421-c2a49368

@@ -11,26 +11,35 @@ lng: -82.0500
 zipSample: ["33955", "33950"]
 zipCodes: ["33955", "33950"]
 localPaths: ["Charlotte County / primary ZIP 33955", "Charlotte County / ZIP 33950 sector", "Charlotte County / ZIP 33955 sector", "Charlotte County / elevation 13 ft band", "Charlotte County / coords 26.8900, -82.0500"]
-zillowHomeValueUsd: 330571
 ---
 
 **Engineering Notice for Punta Gorda:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Charlotte County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-A written scope helps prevent rework and mismatched expectations.
+Code context: Ventilation ratios for Punta Gorda, FL attics should be checked against current mechanical exhaust additions.
 
-In Punta Gorda, FL, urgent roof work issues can escalate quickly.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Access points and staging constraints recorded for ZIP 33950/33955 coverage.
+Tile and shingle mixes in Punta Gorda, FL require different fastener patterns at transitions.
 
-Field note: Wind exposure category reviewed for ZIP sector 33950/33955.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 33950, 33955 (county grid: Charlotte County).
+Step: log deck soundings near vents before tear-off is approved.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Scope trace: counter-flashing reglet depth plus deck sheathing thickness referenced in Charlotte County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 33950/33955.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~13 ft across the Charlotte County area. Coordinates: 26.8900, -82.0500. ZIP sample: 33955, 33950. Regional routing note: Charlotte County traffic flow is balanced around ZIP 33955 service demand.
+
+On-site sector marker: Charlotte County / primary ZIP 33955 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33955-65b19863

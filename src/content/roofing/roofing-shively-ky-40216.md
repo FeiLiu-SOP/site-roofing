@@ -11,25 +11,29 @@ lng: -85.8100
 zipSample: ["40256", "40216"]
 zipCodes: ["40256", "40216"]
 localPaths: ["Jefferson County / elevation 463 ft band", "Jefferson County / ZIP 40216 sector", "Jefferson County / coords 38.2000, -85.8100", "Jefferson County / primary ZIP 40216", "Jefferson County / ZIP 40256 sector"]
-zillowHomeValueUsd: 205835
 ---
 
 **Engineering Notice for Shively:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 40216.
+FAQ: Is partial dry-in possible? In Shively, KY, yes—if slope and anchor points support safe tie-offs.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Our service coordination centers on Shively, KY coverage windows and verified intake details.
+Risk flag: In Shively, KY, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Shively, KY, but intake notes help reduce delays.
+Attic ventilation deficits in Shively, KY can mimic roof leaks at ceiling penetrations.
 
-A written scope helps prevent rework and mismatched expectations.
+Code context: Ventilation ratios for Shively, KY attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 40216/40256 intake.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Dispatch sectors sampled: ZIP 40216, 40256 (county grid: Jefferson County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+roofing service brief: ice-barrier lap sequence and drip-edge metal profile were cross-checked for the Shively intake packet.
+
+ZIP-corridor snapshot for Shively, KY: sampled sectors include 40216, 40256; county routing grid remains Jefferson County.
+
+Regional mesh label Jefferson County: moisture and logistics baselines are keyed to Shively, KY before niche-specific work begins.
 
 Service reference: KY-40216-e4e03244

@@ -11,27 +11,31 @@ lng: -121.9400
 zipSample: ["94582", "94583"]
 zipCodes: ["94582", "94583"]
 localPaths: ["Contra Costa County / ZIP 94583 sector", "Contra Costa County / elevation 577 ft band", "Contra Costa County / primary ZIP 94582", "Contra Costa County / ZIP 94582 sector", "Contra Costa County / coords 37.7600, -121.9400"]
-zillowHomeValueUsd: 1765282
 ---
 
 **Engineering Notice for San Ramon:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic ventilation deficits in San Ramon, CA can mimic roof leaks at ceiling penetrations.
 
-Our service coordination centers on San Ramon, CA coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: map ventilation intake and exhaust pairs for San Ramon, CA attic runs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 94582.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 94582/94583 zone).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 94582/94583 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 94582, 94583 (county grid: Contra Costa County).
+roofing service brief: shingle exposure calibration and counter-flashing reglet depth were cross-checked for the San Ramon intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 94582/94583.
+
+ZIP-corridor snapshot for San Ramon, CA: sampled sectors include 94582, 94583; county routing grid remains Contra Costa County.
+
+Primary postal anchor 94582 with multi-ZIP overlap in San Ramon; field packets tag Contra Costa County for county-grid reconciliation.
 
 Service reference: CA-94582-44e28aa9

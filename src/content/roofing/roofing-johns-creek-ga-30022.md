@@ -11,25 +11,29 @@ lng: -84.2000
 zipSample: ["30022", "30097", "30005"]
 zipCodes: ["30022", "30097", "30005"]
 localPaths: ["Fulton County / primary ZIP 30022", "Fulton County / ZIP 30097 sector", "Fulton County / ZIP 30022 sector", "Fulton County / ZIP 30005 sector", "Fulton County / elevation 965 ft band"]
-zillowHomeValueUsd: 678056
 ---
 
 **Engineering Notice for Johns Creek:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Fulton County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 30022.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 30022.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: map ventilation intake and exhaust pairs for Johns Creek, GA attic runs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Regulatory note: Johns Creek, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is partial dry-in possible? In Johns Creek, GA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 30022/30097/30005.
+Skylight curb flashing in Johns Creek, GA should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 30022, 30097, 30005 (county grid: Fulton County).
+Risk flag: In Johns Creek, GA, interior stains may track from HVAC condensate rather than roof cladding.
+
+roofing service brief: ice-barrier lap sequence and drip-edge metal profile were cross-checked for the Johns Creek intake packet.
+
+Coordinate-anchored dispatch note: center reference 34.0300, -84.2000 at elevation ~965 ft aligns with Fulton County intake staging.
+
+On-site sector marker: Fulton County / ZIP 30022 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30022-db7f5ec4

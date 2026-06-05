@@ -11,26 +11,31 @@ lng: -88.2900
 zipSample: ["60568", "60507", "60572", "60598", "60599"]
 zipCodes: ["60506", "60569", "60504", "60505", "60598", "60507", "60519", "60568", "60599", "60572", "60503", "60502"]
 localPaths: ["Kane County / ZIP 60598 sector", "Kane County / ZIP 60599 sector", "Kane County / primary ZIP 60505", "Kane County / ZIP 60568 sector", "Kane County / elevation 728 ft band"]
-zillowHomeValueUsd: 243432
 ---
 
 **Engineering Notice for Aurora:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Kane County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Aurora, IL can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Aurora, IL, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Aurora, IL coverage windows and verified intake details.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Across Aurora, IL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60507/60502/60504.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Connection points spot-checked where accessible (ZIP 60507/60502/60504 zone).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 60507, 60502, 60504, 60568, 60503 (county grid: Kane County).
+roof work brief: deck sheathing thickness and valley metal gauge were cross-checked for the Aurora intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 60505/60519/60506.
+
+Regional mesh label Kane County: moisture and logistics baselines are keyed to Aurora, IL before niche-specific work begins.
+
+On-site sector marker: Kane County / ZIP 60599 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60505-c8155fa9

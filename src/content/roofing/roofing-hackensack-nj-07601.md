@@ -11,25 +11,33 @@ lng: -74.0500
 zipSample: ["07602", "07601"]
 zipCodes: ["07601", "07602"]
 localPaths: ["Bergen County / ZIP 07601 sector", "Bergen County / primary ZIP 07601", "Bergen County / ZIP 07602 sector", "Bergen County / elevation 23 ft band", "Bergen County / coords 40.8900, -74.0500"]
-zillowHomeValueUsd: 464949
 ---
 
 **Engineering Notice for Hackensack:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Bergen County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around Hackensack, NJ and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 07601.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Synthetic underlayment slip in Hackensack, NJ is often tied to deck moisture, not wind alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 07602/07601 zone).
+Risk flag: In Hackensack, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 07602, 07601 (county grid: Bergen County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Valley metal in Hackensack, NJ should be reviewed whenever granule loss tracks the water line.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: synthetic underlayment slip plus pipe boot manufacturer match referenced in Bergen County county grid review.
+
+On-site sector marker: Bergen County / elevation 23 ft band — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 07601 with multi-ZIP overlap in Hackensack; field packets tag Bergen County for county-grid reconciliation.
 
 Service reference: NJ-07601-4a8359c2

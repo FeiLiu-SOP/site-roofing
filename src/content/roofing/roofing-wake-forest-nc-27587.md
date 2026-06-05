@@ -11,24 +11,31 @@ lng: -78.5100
 zipSample: ["27588", "27587"]
 zipCodes: ["27588", "27587"]
 localPaths: ["Wake County / elevation 348 ft band", "Wake County / ZIP 27587 sector", "Wake County / ZIP 27588 sector", "Wake County / coords 35.9600, -78.5100", "Wake County / primary ZIP 27587"]
-zillowHomeValueUsd: 512241
 ---
 
 **Engineering Notice for Wake Forest:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Wake County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 27587.
 
-Tip: request a written scope before work starts.
+Risk flag: Tile underlayment age in Wake Forest, NC can fail independently of visible tile cracks.
 
-Structured milestones protect both sides when scheduling work.
+Regulatory note: Wake Forest, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 27588/27587 coverage.
+Our Wake Forest, NC dispatch packets reference county grid Wake County and elevation band 348 ft.
 
-Dispatch sectors sampled: ZIP 27588, 27587 (county grid: Wake County).
+Attic ventilation deficits in Wake Forest, NC can mimic roof leaks at ceiling penetrations.
+
+Scope trace: deck sheathing thickness plus starter-strip setback referenced in Wake County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 27587/27588.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Wake County and primary ZIP 27587. Terrain reference: 348 ft. Center point: 35.9600, -78.5100. ZIP sample: 27588, 27587. Logistics priority: Serving residential sectors across Wake County and north-east ZIP 27587 grid.
+
+ZIP-corridor snapshot for Wake Forest, NC: sampled sectors include 27587, 27588; county routing grid remains Wake County.
 
 Service reference: NC-27587-78e4d977

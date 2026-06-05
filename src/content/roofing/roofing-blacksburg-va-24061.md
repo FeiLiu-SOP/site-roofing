@@ -11,24 +11,29 @@ lng: -80.4300
 zipSample: ["24061", "24062", "24111", "24060", "24063"]
 zipCodes: ["24111", "24060", "24061", "24062", "24063"]
 localPaths: ["Montgomery County / coords 37.2300, -80.4300", "Montgomery County / ZIP 24062 sector", "Montgomery County / ZIP 24061 sector", "Montgomery County / primary ZIP 24061", "Montgomery County / ZIP 24111 sector"]
-zillowHomeValueUsd: 425911
 ---
 
 **Engineering Notice for Blacksburg:** Structural loading calculated based on 2041 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Freeze-thaw cycles around Blacksburg, VA stress nail pops along eaves and rake edges.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Blacksburg, VA, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: log deck soundings near vents before tear-off is approved.
 
-We coordinate local dispatch coverage around Blacksburg, VA and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Local conditions in Blacksburg, VA can affect timelines and material choices.
+Regulatory note: Blacksburg, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 24063/24062/24111 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 24063, 24062, 24111, 24061, 24060 (county grid: Montgomery County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: wind uplift clip spacing paired with soffit intake free area near ZIP 24061.
+
+ZIP-corridor snapshot for Blacksburg, VA: sampled sectors include 24111, 24062, 24061, 24060, 24063; county routing grid remains Montgomery County.
+
+On-site sector marker: Montgomery County / ZIP 24060 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-24061-6632e0af

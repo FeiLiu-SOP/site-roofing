@@ -11,26 +11,31 @@ lng: -84.5600
 zipSample: ["48911", "48937", "48919", "48912", "48909"]
 zipCodes: ["48901", "48916", "48951", "48937", "48919", "48911", "48930", "48956", "48910", "48906", "48924", "48909"]
 localPaths: ["Ingham County / ZIP 48937 sector", "Ingham County / primary ZIP 48912", "Ingham County / coords 42.7100, -84.5600", "Ingham County / ZIP 48919 sector", "Ingham County / ZIP 48912 sector"]
-zillowHomeValueUsd: 136533
 ---
 
 **Engineering Notice for Lansing:** Structural loading calculated based on 863 ft terrain assessment. Regional dispatch grid: Ingham County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: avoid large upfront payments without milestones.
+Step: map ventilation intake and exhaust pairs for Lansing, MI attic runs.
 
-In Lansing, MI, seasonal demand can change scheduling windows.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Moisture pathway inspection logged near ZIP 48911/48910/48906 intake.
+Tip: Note recent wind events when filing insurance photos for Lansing, MI.
 
-Field note: Connection points spot-checked where accessible (ZIP 48911/48910/48906 zone).
+Skylight curb flashing in Lansing, MI should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 48911, 48910, 48906, 48956, 48915 (county grid: Ingham County).
+Regulatory note: Lansing, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roof work brief: starter-strip setback and synthetic underlayment slip were cross-checked for the Lansing intake packet.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Ingham County and primary ZIP 48912. Terrain reference: 863 ft. Center point: 42.7100, -84.5600. ZIP sample: 48937, 48909, 48911, 48922, 48933. Service perimeter note: Coverage extends through Ingham County with dispatch centered near ZIP 48912.
+
+Regional mesh label Ingham County: moisture and logistics baselines are keyed to Lansing, MI before niche-specific work begins.
 
 Service reference: MI-48912-8f945b56

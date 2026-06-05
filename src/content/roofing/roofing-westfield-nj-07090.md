@@ -11,25 +11,29 @@ lng: -74.3400
 zipSample: ["07090"]
 zipCodes: ["07090"]
 localPaths: ["Union County / elevation 121 ft band", "Union County / ZIP 07090 sector", "Union County / primary ZIP 07090", "Union County / coords 40.6500, -74.3400"]
-zillowHomeValueUsd: 1270836
 ---
 
 **Engineering Notice for Westfield:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Union County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Low-slope sections in Westfield, NJ need positive drainage before membrane repairs are scoped.
 
-Tip: confirm licensing and insurance before approving work.
+Our Westfield, NJ dispatch packets reference county grid Union County and elevation band 121 ft.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 07090.
+Risk flag: In Westfield, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 07090 zone).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 07090 (county grid: Union County).
+Step: separate emergency tarp scope from permanent remediation line items.
+
+Scope trace: soffit intake free area plus pipe boot manufacturer match referenced in Union County county grid review.
+
+Regional mesh label Union County: moisture and logistics baselines are keyed to Westfield, NJ before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Union County and primary ZIP 07090. Terrain reference: 121 ft. Center point: 40.6500, -74.3400. ZIP sample: 07090. Service perimeter note: Coverage extends through Union County with dispatch centered near ZIP 07090.
 
 Service reference: NJ-07090-5402c786

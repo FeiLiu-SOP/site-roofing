@@ -11,24 +11,33 @@ lng: -76.1700
 zipSample: ["21001"]
 zipCodes: ["21001"]
 localPaths: ["Harford County / elevation 135 ft band", "Harford County / ZIP 21001 sector", "Harford County / coords 39.5200, -76.1700", "Harford County / primary ZIP 21001"]
-zillowHomeValueUsd: 345678
 ---
 
 **Engineering Notice for Aberdeen:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Harford County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Granule embedment loss on Aberdeen, MD north slopes can precede mat exposure.
 
-Homeowners in Aberdeen, MD often face sudden roofing service problems that require fast action.
+TPO seam welds in Aberdeen, MD commercial sections need probe tests after freeze events.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Aberdeen, MD, but intake notes help reduce delays.
+Regulatory note: Aberdeen, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Aberdeen, MD, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21001.
+Our Aberdeen, MD dispatch packets reference county grid Harford County and elevation band 135 ft.
 
-Dispatch sectors sampled: ZIP 21001 (county grid: Harford County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Tip: Note recent wind events when filing insurance photos for Aberdeen, MD.
+
+Scope trace: synthetic underlayment slip plus counter-flashing reglet depth referenced in Harford County county grid review.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Harford County and primary ZIP 21001. Terrain reference: 135 ft. Center point: 39.5200, -76.1700. ZIP sample: 21001. Regional routing note: Harford County traffic flow is balanced around ZIP 21001 service demand.
+
+On-site sector marker: Harford County / coords 39.5200, -76.1700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21001-cdd5c8c7

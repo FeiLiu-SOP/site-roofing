@@ -11,26 +11,29 @@ lng: -111.4000
 zipSample: ["84032"]
 zipCodes: ["84032"]
 localPaths: ["Wasatch County / ZIP 84032 sector", "Wasatch County / primary ZIP 84032", "Wasatch County / coords 40.5100, -111.4000", "Wasatch County / elevation 5669 ft band"]
-zillowHomeValueUsd: 849840
 ---
 
 **Engineering Notice for Heber:** Structural loading calculated based on 5669 ft terrain assessment. Regional dispatch grid: Wasatch County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: Heber, UT exposure class can change starter-strip and cap nail schedules.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Parapet coping movement in Heber, UT can channel water behind wall cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Heber, UT, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 84032 zone).
+Risk flag: Tile underlayment age in Heber, UT can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84032.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 84032 (county grid: Wasatch County).
+roof service brief: ridge cap nail schedule and soffit intake free area were cross-checked for the Heber intake packet.
+
+On-site sector marker: Wasatch County / ZIP 84032 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 40.5100, -111.4000 at elevation ~5669 ft aligns with Wasatch County intake staging.
 
 Service reference: UT-84032-e35fe702

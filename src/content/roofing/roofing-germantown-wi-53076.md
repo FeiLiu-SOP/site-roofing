@@ -11,24 +11,33 @@ lng: -88.1200
 zipSample: ["53076", "53022"]
 zipCodes: ["53022", "53076"]
 localPaths: ["Washington County / elevation 873 ft band", "Washington County / primary ZIP 53076", "Washington County / ZIP 53076 sector", "Washington County / ZIP 53022 sector", "Washington County / coords 43.2300, -88.1200"]
-zillowHomeValueUsd: 587290
 ---
 
 **Engineering Notice for Germantown:** Structural loading calculated based on 873 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Germantown, WI exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-In Germantown, WI, urgent roof service issues can escalate quickly.
+We coordinate Germantown, WI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 53076/53022 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 53076, 53022 (county grid: Washington County).
+Attic ventilation deficits in Germantown, WI can mimic roof leaks at ceiling penetrations.
+
+FAQ: How long can shingles wait after storm damage? In Germantown, WI, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: counter-flashing reglet depth paired with shingle exposure calibration near ZIP 53076.
+
+Field note: Shingle seal-down timing logged near ZIP 53022/53076.
+
+Regional mesh label Washington County: moisture and logistics baselines are keyed to Germantown, WI before niche-specific work begins.
+
+On-site sector marker: Washington County / ZIP 53022 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53076-7be0d359

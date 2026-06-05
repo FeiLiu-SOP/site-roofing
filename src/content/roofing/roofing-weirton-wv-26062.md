@@ -11,27 +11,31 @@ lng: -80.5700
 zipSample: ["26062"]
 zipCodes: ["26062"]
 localPaths: ["Hancock County / ZIP 26062 sector", "Hancock County / coords 40.4100, -80.5700", "Hancock County / primary ZIP 26062", "Hancock County / elevation 991 ft band"]
-zillowHomeValueUsd: 146988
 ---
 
 **Engineering Notice for Weirton:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Hancock County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in Weirton, WV can fail independently of visible tile cracks.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 26062.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+TPO seam welds in Weirton, WV commercial sections need probe tests after freeze events.
 
-Field note: Access points and staging constraints recorded for ZIP 26062 coverage.
+Our Weirton, WV dispatch packets reference county grid Hancock County and elevation band 991 ft.
 
-Field note: Moisture pathway inspection logged near ZIP 26062 intake.
+FAQ: How long can shingles wait after storm damage? In Weirton, WV, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 26062 (county grid: Hancock County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Scope trace: soffit intake free area plus deck sheathing thickness referenced in Hancock County county grid review.
+
+ZIP-corridor snapshot for Weirton, WV: sampled sectors include 26062; county routing grid remains Hancock County.
+
+Regional mesh label Hancock County: moisture and logistics baselines are keyed to Weirton, WV before niche-specific work begins.
 
 Service reference: WV-26062-ffcdc9fd

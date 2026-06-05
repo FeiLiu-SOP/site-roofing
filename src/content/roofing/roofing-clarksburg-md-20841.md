@@ -11,25 +11,31 @@ lng: -77.2700
 zipSample: ["20841", "20871", "20876"]
 zipCodes: ["20876", "20841", "20871"]
 localPaths: ["Montgomery County / elevation 551 ft band", "Montgomery County / ZIP 20876 sector", "Montgomery County / ZIP 20841 sector", "Montgomery County / ZIP 20871 sector", "Montgomery County / coords 39.2200, -77.2700"]
-zillowHomeValueUsd: 838593
 ---
 
 **Engineering Notice for Clarksburg:** Structural loading calculated based on 551 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Tile underlayment age in Clarksburg, MD can fail independently of visible tile cracks.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 20841.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-We coordinate local dispatch coverage around Clarksburg, MD and nearby ZIP sectors.
+Metal panel oil-canning in Clarksburg, MD may signal clip spacing issues, not wind damage alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20841/20871/20876.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 20841, 20871, 20876 (county grid: Montgomery County).
+Regulatory note: Clarksburg, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roof work brief: shingle exposure calibration and counter-flashing reglet depth were cross-checked for the Clarksburg intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 20841/20871/20876.
+
+On-site sector marker: Montgomery County / elevation 551 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Montgomery County / ZIP 20841 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20841-4ab5a70e

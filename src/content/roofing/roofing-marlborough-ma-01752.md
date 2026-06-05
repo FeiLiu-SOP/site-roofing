@@ -11,26 +11,31 @@ lng: -71.5500
 zipSample: ["01752"]
 zipCodes: ["01752"]
 localPaths: ["Middlesex County / primary ZIP 01752", "Middlesex County / ZIP 01752 sector", "Middlesex County / elevation 440 ft band", "Middlesex County / coords 42.3500, -71.5500"]
-zillowHomeValueUsd: 579211
 ---
 
 **Engineering Notice for Marlborough:** Structural loading calculated based on 440 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Freeze-thaw cycles around Marlborough, MA stress nail pops along eaves and rake edges.
 
-Our service coordination centers on Marlborough, MA coverage windows and verified intake details.
+Regulatory note: Marlborough, MA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Marlborough, MA, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Marlborough, MA.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Tile underlayment age in Marlborough, MA can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 01752 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 01752.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 01752 (county grid: Middlesex County).
+Scope trace: skylight curb height plus synthetic underlayment slip referenced in Middlesex County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 01752.
+
+On-site sector marker: Middlesex County / coords 42.3500, -71.5500 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~440 ft across the Middlesex County area. Coordinates: 42.3500, -71.5500. ZIP sample: 01752. Service perimeter note: Coverage extends through Middlesex County with dispatch centered near ZIP 01752.
 
 Service reference: MA-01752-c37704d1

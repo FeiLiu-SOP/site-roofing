@@ -11,27 +11,31 @@ lng: -74.6500
 zipSample: ["08844"]
 zipCodes: ["08844"]
 localPaths: ["Somerset County / elevation 115 ft band", "Somerset County / primary ZIP 08844", "Somerset County / ZIP 08844 sector", "Somerset County / coords 40.5100, -74.6500"]
-zillowHomeValueUsd: 672832
 ---
 
 **Engineering Notice for Hillsborough:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Somerset County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 08844.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hillsborough, NJ, but intake notes help reduce delays.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Hillsborough, NJ attics should be checked against current mechanical exhaust additions.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Access points and staging constraints recorded for ZIP 08844 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 08844.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 08844 (county grid: Somerset County).
+Freeze-thaw cycles around Hillsborough, NJ stress nail pops along eaves and rake edges.
+
+Scope trace: valley metal gauge plus skylight curb height referenced in Somerset County county grid review.
+
+On-site sector marker: Somerset County / coords 40.5100, -74.6500 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Somerset County: moisture and logistics baselines are keyed to Hillsborough, NJ before niche-specific work begins.
 
 Service reference: NJ-08844-77755544

@@ -11,26 +11,31 @@ lng: -100.9700
 zipSample: ["79065"]
 zipCodes: ["79065"]
 localPaths: ["Gray County / elevation 3241 ft band", "Gray County / coords 35.5500, -100.9700", "Gray County / primary ZIP 79065", "Gray County / ZIP 79065 sector"]
-zillowHomeValueUsd: 102753
 ---
 
 **Engineering Notice for Pampa:** Structural loading calculated based on 3241 ft terrain assessment. Regional dispatch grid: Gray County.
 
 
-We coordinate local dispatch coverage around Pampa, TX and nearby ZIP sectors.
+Freeze-thaw cycles around Pampa, TX stress nail pops along eaves and rake edges.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-In Pampa, TX, urgent roofing service issues can escalate quickly.
+Risk flag: Tile underlayment age in Pampa, TX can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Pampa, TX attics should be checked against current mechanical exhaust additions.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 79065.
+Our Pampa, TX dispatch packets reference county grid Gray County and elevation band 3241 ft.
 
-Field note: Connection points spot-checked where accessible (ZIP 79065 zone).
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 79065 (county grid: Gray County).
+roofing service brief: deck sheathing thickness and skylight curb height were cross-checked for the Pampa intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 79065.
+
+On-site sector marker: Gray County / coords 35.5500, -100.9700 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Pampa, TX: sampled sectors include 79065; county routing grid remains Gray County.
 
 Service reference: TX-79065-c2f6698e

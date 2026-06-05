@@ -11,26 +11,35 @@ lng: -93.3900
 zipSample: ["55316"]
 zipCodes: ["55316"]
 localPaths: ["Hennepin County / elevation 873 ft band", "Hennepin County / ZIP 55316 sector", "Hennepin County / primary ZIP 55316", "Hennepin County / coords 45.1700, -93.3900"]
-zillowHomeValueUsd: 370688
 ---
 
 **Engineering Notice for Champlin:** Structural loading calculated based on 873 ft terrain assessment. Regional dispatch grid: Hennepin County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Champlin, MN, interior stains may track from HVAC condensate rather than roof cladding.
 
-We coordinate local dispatch coverage around Champlin, MN and nearby ZIP sectors.
+Wind-zone note: Champlin, MN exposure class can change starter-strip and cap nail schedules.
 
-Tip: avoid large upfront payments without milestones.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Champlin, MN, but intake notes help reduce delays.
+Low-slope sections in Champlin, MN need positive drainage before membrane repairs are scoped.
 
-Field note: Access points and staging constraints recorded for ZIP 55316 coverage.
+FAQ: Can you tarp only part of the roof? In Champlin, MN, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55316.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 55316 (county grid: Hennepin County).
+Tip: Note recent wind events when filing insurance photos for Champlin, MN.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roof work brief: ice-barrier lap sequence and valley metal gauge were cross-checked for the Champlin intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 55316.
+
+Coordinate-anchored dispatch note: center reference 45.1700, -93.3900 at elevation ~873 ft aligns with Hennepin County intake staging.
+
+On-site sector marker: Hennepin County / primary ZIP 55316 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55316-3e59369c

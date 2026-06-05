@@ -11,24 +11,31 @@ lng: -82.4300
 zipSample: ["25710", "25702", "25718", "25724", "25729"]
 zipCodes: ["25727", "25702", "25729", "25713", "25725", "25711", "25777", "25773", "25721", "25720", "25716", "25708"]
 localPaths: ["Cabell County / ZIP 25718 sector", "Cabell County / coords 38.4100, -82.4300", "Cabell County / ZIP 25710 sector", "Cabell County / elevation 571 ft band", "Cabell County / ZIP 25729 sector"]
-zillowHomeValueUsd: 69319
 ---
 
 **Engineering Notice for Huntington:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Cabell County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Huntington, WV, but intake notes help reduce delays.
+FAQ: When should permanent service start? In Huntington, WV, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Moisture pathway inspection logged near ZIP 25725/25776/25706 intake.
+In Huntington, WV, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Dispatch sectors sampled: ZIP 25725, 25776, 25706, 25704, 25712 (county grid: Cabell County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Scope trace: pipe boot manufacturer match plus skylight curb height referenced in Cabell County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 25755/25721/25714.
+
+On-site sector marker: Cabell County / primary ZIP 25703 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 38.4100, -82.4300 at elevation ~571 ft aligns with Cabell County intake staging.
 
 Service reference: WV-25703-fa361ccc

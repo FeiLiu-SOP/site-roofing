@@ -11,26 +11,29 @@ lng: -88.1000
 zipSample: ["36571"]
 zipCodes: ["36571"]
 localPaths: ["Mobile County / coords 30.8500, -88.1000", "Mobile County / ZIP 36571 sector", "Mobile County / elevation 79 ft band", "Mobile County / primary ZIP 36571"]
-zillowHomeValueUsd: 234293
 ---
 
 **Engineering Notice for Saraland:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Mobile County.
 
 
-We coordinate local dispatch coverage around Saraland, AL and nearby ZIP sectors.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-In Saraland, AL, urgent roof service issues can escalate quickly.
+Low-slope sections in Saraland, AL need positive drainage before membrane repairs are scoped.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Saraland, AL, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Note recent wind events when filing insurance photos for Saraland, AL.
 
-Field note: Access points and staging constraints recorded for ZIP 36571 coverage.
+Code context: Ventilation ratios for Saraland, AL attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 36571 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 36571 (county grid: Mobile County).
+roof service brief: deck sheathing thickness and valley metal gauge were cross-checked for the Saraland intake packet.
+
+On-site sector marker: Mobile County / coords 30.8500, -88.1000 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Mobile County / elevation 79 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36571-56f9dc06

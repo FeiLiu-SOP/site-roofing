@@ -11,25 +11,29 @@ lng: -86.3500
 zipSample: ["37136", "37090", "37087", "37071", "37088"]
 zipCodes: ["37088", "37071", "37090", "37087", "37136"]
 localPaths: ["Wilson County / ZIP 37087 sector", "Wilson County / elevation 597 ft band", "Wilson County / ZIP 37136 sector", "Wilson County / ZIP 37090 sector", "Wilson County / primary ZIP 37087"]
-zillowHomeValueUsd: 439023
 ---
 
 **Engineering Notice for Lebanon:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Wilson County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Tile underlayment age in Lebanon, TN can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our service coordination centers on Lebanon, TN coverage windows and verified intake details.
+Our Lebanon, TN dispatch packets reference county grid Wilson County and elevation band 597 ft.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lebanon, TN, but intake notes help reduce delays.
+FAQ: How long can shingles wait after storm damage? In Lebanon, TN, delayed dry-in can expand insulation and ceiling repairs.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 37087.
+Skylight curb flashing in Lebanon, TN should be sequenced before ridge cap replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 37087/37088/37090 intake.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 37087, 37088, 37090, 37071, 37136 (county grid: Wilson County).
+Wind-zone note: Lebanon, TN exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: counter-flashing reglet depth plus chimney cricket slope referenced in Wilson County county grid review.
+
+On-site sector marker: Wilson County / ZIP 37087 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 36.2000, -86.3500 at elevation ~597 ft aligns with Wilson County intake staging.
 
 Service reference: TN-37087-0623107a

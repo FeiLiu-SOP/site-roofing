@@ -11,25 +11,33 @@ lng: -117.7000
 zipSample: ["91763"]
 zipCodes: ["91763"]
 localPaths: ["San Bernardino County / elevation 1017 ft band", "San Bernardino County / ZIP 91763 sector", "San Bernardino County / primary ZIP 91763", "San Bernardino County / coords 34.0700, -117.7000"]
-zillowHomeValueUsd: 661822
 ---
 
 **Engineering Notice for Montclair:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Montclair, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 91763.
+Risk flag: Tile underlayment age in Montclair, CA can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Moisture pathway inspection logged near ZIP 91763 intake.
+FAQ: When should permanent remediation start? In Montclair, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 91763 (county grid: San Bernardino County).
+Tile and shingle mixes in Montclair, CA require different fastener patterns at transitions.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+roof work brief: skylight curb height and pipe boot manufacturer match were cross-checked for the Montclair intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 91763.
+
+On-site sector marker: San Bernardino County / primary ZIP 91763 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Bernardino County / elevation 1017 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91763-5fe08e64

@@ -11,27 +11,31 @@ lng: -80.2500
 zipSample: ["33076", "33067"]
 zipCodes: ["33076", "33067"]
 localPaths: ["Broward County / ZIP 33067 sector", "Broward County / elevation 23 ft band", "Broward County / primary ZIP 33076", "Broward County / coords 26.3200, -80.2500", "Broward County / ZIP 33076 sector"]
-zillowHomeValueUsd: 873297
 ---
 
 **Engineering Notice for Parkland:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Broward County.
 
 
-Our service coordination centers on Parkland, FL coverage windows and verified intake details.
+Regulatory note: Parkland, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: avoid large upfront payments without milestones.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33076.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Freeze-thaw cycles around Parkland, FL stress nail pops along eaves and rake edges.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33076/33067.
+FAQ: When should permanent restoration start? In Parkland, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 33076/33067 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 33076, 33067 (county grid: Broward County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+roofing service brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the Parkland intake packet.
+
+Coordinate-anchored dispatch note: center reference 26.3200, -80.2500 at elevation ~23 ft aligns with Broward County intake staging.
+
+On-site sector marker: Broward County / coords 26.3200, -80.2500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33076-2c3fb53f

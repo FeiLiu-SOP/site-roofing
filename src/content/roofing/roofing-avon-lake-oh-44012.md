@@ -11,26 +11,31 @@ lng: -82.0200
 zipSample: ["44012"]
 zipCodes: ["44012"]
 localPaths: ["Lorain County / primary ZIP 44012", "Lorain County / ZIP 44012 sector", "Lorain County / elevation 617 ft band", "Lorain County / coords 41.4900, -82.0200"]
-zillowHomeValueUsd: 422247
 ---
 
 **Engineering Notice for Avon Lake:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Lorain County.
 
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for Avon Lake, OH attics should be checked against current mechanical exhaust additions.
 
-Local conditions in Avon Lake, OH can affect timelines and material choices.
+Wood shake courses in Avon Lake, OH require skip-spacing rules at valleys.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Avon Lake, OH, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 44012 coverage.
+FAQ: How long can shingles wait after storm damage? In Avon Lake, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 44012 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 44012 (county grid: Lorain County).
+Scope trace: ridge cap nail schedule plus counter-flashing reglet depth referenced in Lorain County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 44012.
+
+ZIP-corridor snapshot for Avon Lake, OH: sampled sectors include 44012; county routing grid remains Lorain County.
+
+On-site sector marker: Lorain County / primary ZIP 44012 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44012-f06eb1a9

@@ -11,25 +11,31 @@ lng: -73.9500
 zipSample: ["07670"]
 zipCodes: ["07670"]
 localPaths: ["Bergen County / primary ZIP 07670", "Bergen County / ZIP 07670 sector", "Bergen County / coords 40.9200, -73.9500", "Bergen County / elevation 240 ft band"]
-zillowHomeValueUsd: 1260437
 ---
 
 **Engineering Notice for Tenafly:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Bergen County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Tile underlayment age in Tenafly, NJ can fail independently of visible tile cracks.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 07670.
+We coordinate Tenafly, NJ roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Tenafly, NJ, but intake notes help reduce delays.
+FAQ: How long can shingles wait after storm damage? In Tenafly, NJ, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Tenafly, NJ coverage windows and verified intake details.
+TPO seam welds in Tenafly, NJ commercial sections need probe tests after freeze events.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Moisture pathway inspection logged near ZIP 07670 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 07670 (county grid: Bergen County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: drip-edge metal profile plus soffit intake free area referenced in Bergen County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 07670.
+
+ZIP-corridor snapshot for Tenafly, NJ: sampled sectors include 07670; county routing grid remains Bergen County.
+
+On-site sector marker: Bergen County / elevation 240 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07670-ceaa8da3

@@ -11,26 +11,31 @@ lng: -83.0700
 zipSample: ["43015"]
 zipCodes: ["43015"]
 localPaths: ["Delaware County / primary ZIP 43015", "Delaware County / ZIP 43015 sector", "Delaware County / coords 40.2900, -83.0700", "Delaware County / elevation 915 ft band"]
-zillowHomeValueUsd: 408685
 ---
 
 **Engineering Notice for Delaware:** Structural loading calculated based on 915 ft terrain assessment. Regional dispatch grid: Delaware County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Regulatory note: Delaware, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: request a written scope before work starts.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Delaware, OH can fail independently of visible tile cracks.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can you tarp only part of the roof? In Delaware, OH, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hail bruising on Delaware, OH ridges may not breach felt until the next wind event.
 
-Field note: Connection points spot-checked where accessible (ZIP 43015 zone).
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 43015.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 43015 (county grid: Delaware County).
+roof service brief: soffit intake free area and shingle exposure calibration were cross-checked for the Delaware intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 43015.
+
+Regional mesh label Delaware County: moisture and logistics baselines are keyed to Delaware, OH before niche-specific work begins.
+
+ZIP-corridor snapshot for Delaware, OH: sampled sectors include 43015; county routing grid remains Delaware County.
 
 Service reference: OH-43015-51d29013

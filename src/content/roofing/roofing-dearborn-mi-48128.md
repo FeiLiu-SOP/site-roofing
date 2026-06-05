@@ -11,24 +11,29 @@ lng: -83.2100
 zipSample: ["48128", "48120", "48123", "48126", "48124"]
 zipCodes: ["48128", "48126", "48123", "48124", "48121", "48120"]
 localPaths: ["Wayne County / ZIP 48126 sector", "Wayne County / elevation 577 ft band", "Wayne County / ZIP 48120 sector", "Wayne County / ZIP 48124 sector", "Wayne County / ZIP 48128 sector"]
-zillowHomeValueUsd: 305210
 ---
 
 **Engineering Notice for Dearborn:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Dearborn, MI, but intake notes help reduce delays.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-We coordinate local dispatch coverage around Dearborn, MI and nearby ZIP sectors.
+FAQ: Can you tarp only part of the roof? In Dearborn, MI, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 48124/48120/48128 intake.
+Code context: Ventilation ratios for Dearborn, MI attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 48124, 48120, 48128, 48123, 48126 (county grid: Wayne County).
+Hail bruising on Dearborn, MI ridges may not breach felt until the next wind event.
+
+roofing service brief: synthetic underlayment slip and deck sheathing thickness were cross-checked for the Dearborn intake packet.
+
+Regional mesh label Wayne County: moisture and logistics baselines are keyed to Dearborn, MI before niche-specific work begins.
+
+Primary postal anchor 48128 with multi-ZIP overlap in Dearborn; field packets tag Wayne County for county-grid reconciliation.
 
 Service reference: MI-48128-7ea73614

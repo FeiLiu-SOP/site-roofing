@@ -11,26 +11,33 @@ lng: -74.0700
 zipSample: ["10952", "10977"]
 zipCodes: ["10977", "10952"]
 localPaths: ["Rockland County / ZIP 10952 sector", "Rockland County / ZIP 10977 sector", "Rockland County / primary ZIP 10952", "Rockland County / elevation 554 ft band", "Rockland County / coords 41.1200, -74.0700"]
-zillowHomeValueUsd: 1129887
 ---
 
 **Engineering Notice for Monsey:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Rockland County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Skylight curb flashing in Monsey, NY should be sequenced before ridge cap replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Monsey, NY, but intake notes help reduce delays.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-We coordinate local dispatch coverage around Monsey, NY and nearby ZIP sectors.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 10977/10952 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Wind exposure category reviewed for ZIP sector 10977/10952.
+Regulatory note: Monsey, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 10977, 10952 (county grid: Rockland County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: valley metal gauge plus counter-flashing reglet depth referenced in Rockland County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 10977/10952.
+
+Regional mesh label Rockland County: moisture and logistics baselines are keyed to Monsey, NY before niche-specific work begins.
+
+Primary postal anchor 10952 with multi-ZIP overlap in Monsey; field packets tag Rockland County for county-grid reconciliation.
 
 Service reference: NY-10952-f0724292

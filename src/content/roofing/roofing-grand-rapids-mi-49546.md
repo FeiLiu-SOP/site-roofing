@@ -11,26 +11,31 @@ lng: -85.6600
 zipSample: ["49503", "49507", "49508", "49501", "49514"]
 zipCodes: ["49546", "49504", "49555", "49502", "49508", "49503", "49588", "49599", "49505", "49514", "49501", "49506"]
 localPaths: ["Kent County / ZIP 49501 sector", "Kent County / primary ZIP 49546", "Kent County / ZIP 49503 sector", "Kent County / ZIP 49507 sector", "Kent County / elevation 748 ft band"]
-zillowHomeValueUsd: 501041
 ---
 
 **Engineering Notice for Grand Rapids:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Kent County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: In Grand Rapids, MI, algae-resistant granules may be specified for north-facing slopes.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: compare shingle manufacturer wind-zone ratings for Grand Rapids, MI exposure class.
 
-Tip: request a written scope before work starts.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is partial dry-in possible? In Grand Rapids, MI, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 49555/49506/49514 coverage.
+Regulatory note: Grand Rapids, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 49555/49506/49514.
+Attic ventilation deficits in Grand Rapids, MI can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 49555, 49506, 49514, 49507, 49501 (county grid: Kent County).
+Risk flag: Tile underlayment age in Grand Rapids, MI can fail independently of visible tile cracks.
+
+Scope trace: shingle exposure calibration plus ridge cap nail schedule referenced in Kent County county grid review.
+
+On-site sector marker: Kent County / ZIP 49505 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 42.9600, -85.6600 at elevation ~748 ft aligns with Kent County intake staging.
 
 Service reference: MI-49546-a5a29447

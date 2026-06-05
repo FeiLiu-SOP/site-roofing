@@ -11,25 +11,33 @@ lng: -97.6600
 zipSample: ["78665", "78664", "78682", "78683", "78681"]
 zipCodes: ["78664", "78683", "78665", "78681", "78682"]
 localPaths: ["Williamson County / primary ZIP 78681", "Williamson County / ZIP 78683 sector", "Williamson County / elevation 745 ft band", "Williamson County / coords 30.5300, -97.6600", "Williamson County / ZIP 78664 sector"]
-zillowHomeValueUsd: 486096
 ---
 
 **Engineering Notice for Round Rock:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Williamson County.
 
 
-We coordinate local dispatch coverage around Round Rock, TX and nearby ZIP sectors.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 78681.
+Skylight curb flashing in Round Rock, TX should be sequenced before ridge cap replacement.
 
-Tip: request a written scope before work starts.
+Risk flag: Tile underlayment age in Round Rock, TX can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should permanent restoration start? In Round Rock, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Round Rock, TX, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Access points and staging constraints recorded for ZIP 78683/78681/78682 coverage.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 78683, 78681, 78682, 78664, 78665 (county grid: Williamson County).
+We coordinate Round Rock, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Wind-zone note: Round Rock, TX exposure class can change starter-strip and cap nail schedules.
+
+roof work brief: deck sheathing thickness and valley metal gauge were cross-checked for the Round Rock intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 78681/78664/78682.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Williamson County and primary ZIP 78681. Terrain reference: 745 ft. Center point: 30.5300, -97.6600. ZIP sample: 78664, 78682, 78681, 78683, 78665. Regional routing note: Williamson County traffic flow is balanced around ZIP 78681 service demand.
+
+On-site sector marker: Williamson County / ZIP 78681 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78681-30918667

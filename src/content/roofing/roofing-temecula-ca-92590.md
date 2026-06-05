@@ -11,26 +11,29 @@ lng: -117.1300
 zipSample: ["92589", "92591", "92590", "92592", "92593"]
 zipCodes: ["92592", "92590", "92593", "92589", "92591"]
 localPaths: ["Riverside County / primary ZIP 92590", "Riverside County / ZIP 92589 sector", "Riverside County / ZIP 92590 sector", "Riverside County / ZIP 92591 sector", "Riverside County / elevation 1152 ft band"]
-zillowHomeValueUsd: 1488324
 ---
 
 **Engineering Notice for Temecula:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Our Temecula, CA dispatch packets reference county grid Riverside County and elevation band 1152 ft.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Synthetic underlayment slip in Temecula, CA is often tied to deck moisture, not wind alone.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Tile underlayment age in Temecula, CA can fail independently of visible tile cracks.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Wind exposure category reviewed for ZIP sector 92591/92592/92593.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 92591/92592/92593 zone).
+Step: compare shingle manufacturer wind-zone ratings for Temecula, CA exposure class.
 
-Dispatch sectors sampled: ZIP 92591, 92592, 92593, 92589, 92590 (county grid: Riverside County).
+roof service brief: valley metal gauge and starter-strip setback were cross-checked for the Temecula intake packet.
+
+ZIP-corridor snapshot for Temecula, CA: sampled sectors include 92589, 92592, 92590, 92593, 92591; county routing grid remains Riverside County.
+
+Regional mesh label Riverside County: moisture and logistics baselines are keyed to Temecula, CA before niche-specific work begins.
 
 Service reference: CA-92590-12192049

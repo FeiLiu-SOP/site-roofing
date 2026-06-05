@@ -11,24 +11,33 @@ lng: -88.9500
 zipSample: ["39531", "39533", "39530", "39535", "39534"]
 zipCodes: ["39534", "39532", "39531", "39535", "39533", "39530"]
 localPaths: ["Harrison County / ZIP 39534 sector", "Harrison County / ZIP 39531 sector", "Harrison County / primary ZIP 39531", "Harrison County / ZIP 39535 sector", "Harrison County / ZIP 39530 sector"]
-zillowHomeValueUsd: 204199
 ---
 
 **Engineering Notice for Biloxi:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Harrison County.
 
 
-Structured milestones protect both sides when scheduling work.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: stage tear-off debris paths away from landscape drains.
 
-In Biloxi, MS, urgent roof service issues can escalate quickly.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Granule embedment loss on Biloxi, MS north slopes can precede mat exposure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Biloxi, MS, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 39535/39533/39530.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 39535, 39533, 39530, 39532, 39531 (county grid: Harrison County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Regulatory note: Biloxi, MS projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roof service brief: chimney cricket slope and drip-edge metal profile were cross-checked for the Biloxi intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 39530/39535/39534.
+
+Regional mesh label Harrison County: moisture and logistics baselines are keyed to Biloxi, MS before niche-specific work begins.
+
+On-site sector marker: Harrison County / elevation 69 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39531-3a8187a3

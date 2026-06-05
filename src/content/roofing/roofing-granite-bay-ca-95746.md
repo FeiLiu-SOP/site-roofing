@@ -11,24 +11,31 @@ lng: -121.1700
 zipSample: ["95650", "95746"]
 zipCodes: ["95746", "95650"]
 localPaths: ["Placer County / elevation 420 ft band", "Placer County / ZIP 95746 sector", "Placer County / primary ZIP 95746", "Placer County / ZIP 95650 sector", "Placer County / coords 38.7600, -121.1700"]
-zillowHomeValueUsd: 1153364
 ---
 
 **Engineering Notice for Granite Bay:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Placer County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: map ventilation intake and exhaust pairs for Granite Bay, CA attic runs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Granite Bay, CA exposure class can change starter-strip and cap nail schedules.
 
-In Granite Bay, CA, urgent roof work issues can escalate quickly.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Granite Bay, CA, but intake notes help reduce delays.
+Our Granite Bay, CA dispatch packets reference county grid Placer County and elevation band 420 ft.
 
-Field note: Connection points spot-checked where accessible (ZIP 95650/95746 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 95650, 95746 (county grid: Placer County).
+Low-slope sections in Granite Bay, CA need positive drainage before membrane repairs are scoped.
+
+Tip: Note recent wind events when filing insurance photos for Granite Bay, CA.
+
+Field routing: shingle exposure calibration paired with attic baffle spacing near ZIP 95746.
+
+Primary postal anchor 95746 with multi-ZIP overlap in Granite Bay; field packets tag Placer County for county-grid reconciliation.
+
+On-site sector marker: Placer County / coords 38.7600, -121.1700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95746-e46e5884

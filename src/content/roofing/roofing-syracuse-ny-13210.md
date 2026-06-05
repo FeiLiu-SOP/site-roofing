@@ -11,26 +11,31 @@ lng: -76.1400
 zipSample: ["13218", "13202", "13244", "13217", "13206"]
 zipCodes: ["13252", "13218", "13217", "13208", "13204", "13244", "13201", "13221", "13261", "13203", "13290", "13235"]
 localPaths: ["Onondaga County / ZIP 13218 sector", "Onondaga County / ZIP 13217 sector", "Onondaga County / ZIP 13244 sector", "Onondaga County / ZIP 13206 sector", "Onondaga County / coords 43.0400, -76.1400"]
-zillowHomeValueUsd: 254844
 ---
 
 **Engineering Notice for Syracuse:** Structural loading calculated based on 410 ft terrain assessment. Regional dispatch grid: Onondaga County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Syracuse, NY exposure class can change starter-strip and cap nail schedules.
 
-Tip: request a written scope before work starts.
+We coordinate Syracuse, NY roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 13218/13290/13244 zone).
+Synthetic underlayment slip in Syracuse, NY is often tied to deck moisture, not wind alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 13218/13290/13244.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 13210.
 
-Dispatch sectors sampled: ZIP 13218, 13290, 13244, 13235, 13214 (county grid: Onondaga County).
+Field routing: soffit intake free area paired with chimney cricket slope near ZIP 13210.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 13261/13218/13217.
+
+On-site sector marker: Onondaga County / elevation 410 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Onondaga County. Reference elevation: 410 ft. Primary coordinates: 43.0400, -76.1400. ZIP sample: 13290, 13203, 13214, 13261, 13244. Service perimeter note: Coverage extends through Onondaga County with dispatch centered near ZIP 13210.
 
 Service reference: NY-13210-341d1de3

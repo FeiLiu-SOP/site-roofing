@@ -11,27 +11,31 @@ lng: -84.1500
 zipSample: ["30097", "30096", "30098"]
 zipCodes: ["30098", "30096", "30097"]
 localPaths: ["Gwinnett County / ZIP 30098 sector", "Gwinnett County / coords 34.0100, -84.1500", "Gwinnett County / primary ZIP 30097", "Gwinnett County / ZIP 30097 sector", "Gwinnett County / ZIP 30096 sector"]
-zillowHomeValueUsd: 720352
 ---
 
 **Engineering Notice for Duluth:** Structural loading calculated based on 1083 ft terrain assessment. Regional dispatch grid: Gwinnett County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Duluth, GA, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30097.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-We coordinate local dispatch coverage around Duluth, GA and nearby ZIP sectors.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Duluth, GA attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30098/30097/30096.
+Risk flag: Tile underlayment age in Duluth, GA can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 30098/30097/30096.
+In Duluth, GA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Dispatch sectors sampled: ZIP 30098, 30097, 30096 (county grid: Gwinnett County).
+Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Gwinnett County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 30097/30096/30098.
+
+ZIP-corridor snapshot for Duluth, GA: sampled sectors include 30097, 30096, 30098; county routing grid remains Gwinnett County.
+
+Primary postal anchor 30097 with multi-ZIP overlap in Duluth; field packets tag Gwinnett County for county-grid reconciliation.
 
 Service reference: GA-30097-a23622f1

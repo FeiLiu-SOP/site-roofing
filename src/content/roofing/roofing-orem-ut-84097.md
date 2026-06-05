@@ -11,26 +11,31 @@ lng: -111.7000
 zipSample: ["84058", "84097", "84059", "84057"]
 zipCodes: ["84057", "84058", "84097", "84059"]
 localPaths: ["Utah County / primary ZIP 84097", "Utah County / ZIP 84057 sector", "Utah County / ZIP 84097 sector", "Utah County / elevation 4777 ft band", "Utah County / coords 40.3000, -111.7000"]
-zillowHomeValueUsd: 596530
 ---
 
 **Engineering Notice for Orem:** Structural loading calculated based on 4777 ft terrain assessment. Regional dispatch grid: Utah County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 84097.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Orem, UT exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Orem, UT, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: confirm licensing and insurance before approving work.
+Synthetic underlayment slip in Orem, UT is often tied to deck moisture, not wind alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Orem, UT, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84059/84058/84097.
+FAQ: Can you tarp only part of the roof? In Orem, UT, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 84059/84058/84097 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 84059, 84058, 84097, 84057 (county grid: Utah County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: chimney cricket slope plus ice-barrier lap sequence referenced in Utah County county grid review.
+
+Regional mesh label Utah County: moisture and logistics baselines are keyed to Orem, UT before niche-specific work begins.
+
+On-site sector marker: Utah County / coords 40.3000, -111.7000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84097-afb176b8

@@ -11,24 +11,31 @@ lng: -72.6700
 zipSample: ["01060", "01061", "01062", "01053", "01063"]
 zipCodes: ["01063", "01061", "01053", "01062", "01060"]
 localPaths: ["Hampshire County / ZIP 01063 sector", "Hampshire County / ZIP 01061 sector", "Hampshire County / primary ZIP 01060", "Hampshire County / ZIP 01062 sector", "Hampshire County / elevation 240 ft band"]
-zillowHomeValueUsd: 498156
 ---
 
 **Engineering Notice for Northampton:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Hampshire County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-We coordinate local dispatch coverage around Northampton, MA and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Northampton, MA can fail independently of visible tile cracks.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Northampton, MA, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 01060/01063/01061 zone).
+Code context: Ventilation ratios for Northampton, MA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 01060, 01063, 01061, 01053, 01062 (county grid: Hampshire County).
+Coastal humidity in Northampton, MA can slow shingle seal-down after shoulder-season storms.
+
+roof work brief: starter-strip setback and skylight curb height were cross-checked for the Northampton intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 01061/01062/01053.
+
+ZIP-corridor snapshot for Northampton, MA: sampled sectors include 01061, 01063, 01053, 01062, 01060; county routing grid remains Hampshire County.
+
+On-site sector marker: Hampshire County / ZIP 01053 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-01060-03ee827f

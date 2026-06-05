@@ -11,24 +11,31 @@ lng: -74.4500
 zipSample: ["08405", "08401", "08404"]
 zipCodes: ["08404", "08405", "08401"]
 localPaths: ["Atlantic County / elevation 7 ft band", "Atlantic County / coords 39.3800, -74.4500", "Atlantic County / primary ZIP 08401", "Atlantic County / ZIP 08405 sector", "Atlantic County / ZIP 08401 sector"]
-zillowHomeValueUsd: 215878
 ---
 
 **Engineering Notice for Atlantic City:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Atlantic County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Homeowners in Atlantic City, NJ often face sudden roofing service problems that require fast action.
+Our Atlantic City, NJ dispatch packets reference county grid Atlantic County and elevation band 7 ft.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Atlantic City, NJ attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Atlantic City, NJ, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 08404/08401/08405.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 08404, 08401, 08405 (county grid: Atlantic County).
+Parapet coping movement in Atlantic City, NJ can channel water behind wall cladding.
+
+roofing service brief: counter-flashing reglet depth and ridge cap nail schedule were cross-checked for the Atlantic City intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 08405/08404/08401.
+
+On-site sector marker: Atlantic County / coords 39.3800, -74.4500 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~7 ft across the Atlantic County area. Coordinates: 39.3800, -74.4500. ZIP sample: 08401, 08405, 08404. Service perimeter note: Coverage extends through Atlantic County with dispatch centered near ZIP 08401.
 
 Service reference: NJ-08401-f1113f5f

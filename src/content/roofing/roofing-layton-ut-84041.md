@@ -11,24 +11,29 @@ lng: -111.9600
 zipSample: ["84041", "84040"]
 zipCodes: ["84040", "84041"]
 localPaths: ["Davis County / primary ZIP 84041", "Davis County / ZIP 84041 sector", "Davis County / coords 41.0800, -111.9600", "Davis County / elevation 4462 ft band", "Davis County / ZIP 84040 sector"]
-zillowHomeValueUsd: 484858
 ---
 
 **Engineering Notice for Layton:** Structural loading calculated based on 4462 ft terrain assessment. Regional dispatch grid: Davis County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Layton, UT, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Layton, UT.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Layton, UT coverage windows and verified intake details.
+TPO seam welds in Layton, UT commercial sections need probe tests after freeze events.
 
-Field note: Wind exposure category reviewed for ZIP sector 84040/84041.
+Risk flag: In Layton, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 84040, 84041 (county grid: Davis County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Scope trace: wind uplift clip spacing plus ridge cap nail schedule referenced in Davis County county grid review.
+
+On-site sector marker: Davis County / elevation 4462 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Davis County / coords 41.0800, -111.9600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84041-a384074f

@@ -11,26 +11,31 @@ lng: -81.9900
 zipSample: ["32163", "32162", "32159"]
 zipCodes: ["32162", "32159", "32163"]
 localPaths: ["Sumter County / ZIP 32163 sector", "Sumter County / ZIP 32162 sector", "Sumter County / coords 28.9000, -81.9900", "Sumter County / elevation 56 ft band", "Sumter County / ZIP 32159 sector"]
-zillowHomeValueUsd: 482753
 ---
 
 **Engineering Notice for The Villages:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Sumter County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in The Villages, FL, but intake notes help reduce delays.
+Low-slope sections in The Villages, FL need positive drainage before membrane repairs are scoped.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Our service coordination centers on The Villages, FL coverage windows and verified intake details.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32163/32159/32162.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 32163/32159/32162 zone).
+We coordinate The Villages, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 32163, 32159, 32162 (county grid: Sumter County).
+Code context: Ventilation ratios for The Villages, FL attics should be checked against current mechanical exhaust additions.
+
+Scope trace: counter-flashing reglet depth plus starter-strip setback referenced in Sumter County county grid review.
+
+On-site sector marker: Sumter County / primary ZIP 32163 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 28.9000, -81.9900 at elevation ~56 ft aligns with Sumter County intake staging.
 
 Service reference: FL-32163-ed27d499

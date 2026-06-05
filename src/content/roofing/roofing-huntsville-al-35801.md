@@ -11,26 +11,29 @@ lng: -86.6400
 zipSample: ["35814", "35893", "35897", "35802", "35810"]
 zipCodes: ["35810", "35893", "35809", "35804", "35895", "35824", "35894", "35806", "35815", "35762", "35807", "35811"]
 localPaths: ["Madison County / ZIP 35802 sector", "Madison County / ZIP 35897 sector", "Madison County / ZIP 35893 sector", "Madison County / primary ZIP 35801", "Madison County / ZIP 35814 sector"]
-zillowHomeValueUsd: 394323
 ---
 
 **Engineering Notice for Huntsville:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Madison County.
 
 
-We coordinate local dispatch coverage around Huntsville, AL and nearby ZIP sectors.
+Synthetic underlayment slip in Huntsville, AL is often tied to deck moisture, not wind alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Tile underlayment age in Huntsville, AL can fail independently of visible tile cracks.
 
-Structured milestones protect both sides when scheduling work.
+Our Huntsville, AL dispatch packets reference county grid Madison County and elevation band 650 ft.
 
-In Huntsville, AL, seasonal demand can change scheduling windows.
+Regulatory note: Huntsville, AL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Wind exposure category reviewed for ZIP sector 35811/35803/35805.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35811/35803/35805.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 35811, 35803, 35805, 35894, 35806 (county grid: Madison County).
+Scope trace: synthetic underlayment slip plus starter-strip setback referenced in Madison County county grid review.
+
+ZIP-corridor snapshot for Huntsville, AL: sampled sectors include 35801, 35763, 35809, 35815, 35893, 35762, 35741, 35897; county routing grid remains Madison County.
+
+On-site sector marker: Madison County / ZIP 35801 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35801-b1dda18a

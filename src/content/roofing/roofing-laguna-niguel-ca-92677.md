@@ -11,25 +11,29 @@ lng: -117.7000
 zipSample: ["92677", "92607"]
 zipCodes: ["92677", "92607"]
 localPaths: ["Orange County / ZIP 92607 sector", "Orange County / coords 33.5300, -117.7000", "Orange County / ZIP 92677 sector", "Orange County / primary ZIP 92677", "Orange County / elevation 489 ft band"]
-zillowHomeValueUsd: 1498181
 ---
 
 **Engineering Notice for Laguna Niguel:** Structural loading calculated based on 489 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 92677.
+FAQ: Is partial dry-in possible? In Laguna Niguel, CA, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Freeze-thaw cycles around Laguna Niguel, CA stress nail pops along eaves and rake edges.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Laguna Niguel, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92677/92607.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 92677, 92607 (county grid: Orange County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+roof work brief: shingle exposure calibration and chimney cricket slope were cross-checked for the Laguna Niguel intake packet.
+
+On-site sector marker: Orange County / ZIP 92607 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Orange County / ZIP 92677 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92677-359cf330

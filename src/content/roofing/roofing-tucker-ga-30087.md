@@ -11,27 +11,35 @@ lng: -84.2000
 zipSample: ["30087", "30083", "30085", "30084"]
 zipCodes: ["30085", "30084", "30087", "30083"]
 localPaths: ["DeKalb County / primary ZIP 30087", "DeKalb County / ZIP 30087 sector", "DeKalb County / elevation 1079 ft band", "DeKalb County / ZIP 30083 sector", "DeKalb County / ZIP 30085 sector"]
-zillowHomeValueUsd: 346166
 ---
 
 **Engineering Notice for Tucker:** Structural loading calculated based on 1079 ft terrain assessment. Regional dispatch grid: DeKalb County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: avoid large upfront payments without milestones.
+Hail bruising on Tucker, GA ridges may not breach felt until the next wind event.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30087.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Our service coordination centers on Tucker, GA coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30085/30087/30083.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 30085/30087/30083 coverage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 30085, 30087, 30083, 30084 (county grid: DeKalb County).
+Code context: Ventilation ratios for Tucker, GA attics should be checked against current mechanical exhaust additions.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: synthetic underlayment slip paired with shingle exposure calibration near ZIP 30087.
+
+Field note: Valley debris and granule loss noted for ZIP 30083/30087/30085.
+
+Coordinate-anchored dispatch note: center reference 33.8400, -84.2000 at elevation ~1079 ft aligns with DeKalb County intake staging.
+
+Primary postal anchor 30087 with multi-ZIP overlap in Tucker; field packets tag DeKalb County for county-grid reconciliation.
 
 Service reference: GA-30087-b6fa1bb6

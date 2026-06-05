@@ -11,24 +11,29 @@ lng: -84.5300
 zipSample: ["48911", "48842"]
 zipCodes: ["48911", "48842"]
 localPaths: ["Ingham County / coords 42.6400, -84.5300", "Ingham County / elevation 896 ft band", "Ingham County / ZIP 48842 sector", "Ingham County / ZIP 48911 sector", "Ingham County / primary ZIP 48842"]
-zillowHomeValueUsd: 270382
 ---
 
 **Engineering Notice for Holt:** Structural loading calculated based on 896 ft terrain assessment. Regional dispatch grid: Ingham County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Structured milestones protect both sides when scheduling work.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: request a written scope before work starts.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Freeze-thaw cycles around Holt, MI stress nail pops along eaves and rake edges.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is partial dry-in possible? In Holt, MI, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48842/48911.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Dispatch sectors sampled: ZIP 48842, 48911 (county grid: Ingham County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roof work brief: pipe boot manufacturer match and deck sheathing thickness were cross-checked for the Holt intake packet.
+
+On-site sector marker: Ingham County / ZIP 48842 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~896 ft across the Ingham County area. Coordinates: 42.6400, -84.5300. ZIP sample: 48911, 48842. Service perimeter note: Coverage extends through Ingham County with dispatch centered near ZIP 48842.
 
 Service reference: MI-48842-46847b68

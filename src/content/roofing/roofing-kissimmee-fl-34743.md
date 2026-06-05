@@ -11,26 +11,35 @@ lng: -81.4200
 zipSample: ["34746", "34745", "34741", "34743", "34744"]
 zipCodes: ["34745", "34741", "34744", "34743", "34746"]
 localPaths: ["Osceola County / ZIP 34741 sector", "Osceola County / elevation 85 ft band", "Osceola County / ZIP 34746 sector", "Osceola County / ZIP 34745 sector", "Osceola County / ZIP 34743 sector"]
-zillowHomeValueUsd: 339182
 ---
 
 **Engineering Notice for Kissimmee:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Osceola County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: In Kissimmee, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Access points and staging constraints recorded for ZIP 34743/34744/34745 coverage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Wind exposure category reviewed for ZIP sector 34743/34744/34745.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 34743, 34744, 34745, 34741, 34746 (county grid: Osceola County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Synthetic underlayment slip in Kissimmee, FL is often tied to deck moisture, not wind alone.
+
+Field routing: drip-edge metal profile paired with attic baffle spacing near ZIP 34743.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 34744/34743/34745.
+
+On-site sector marker: Osceola County / ZIP 34741 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 34743 with multi-ZIP overlap in Kissimmee; field packets tag Osceola County for county-grid reconciliation.
 
 Service reference: FL-34743-3cb36909

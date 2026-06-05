@@ -11,26 +11,31 @@ lng: -87.8100
 zipSample: ["60701", "60714"]
 zipCodes: ["60714", "60701"]
 localPaths: ["Cook County / ZIP 60714 sector", "Cook County / elevation 653 ft band", "Cook County / primary ZIP 60714", "Cook County / coords 42.0300, -87.8100", "Cook County / ZIP 60701 sector"]
-zillowHomeValueUsd: 398476
 ---
 
 **Engineering Notice for Niles:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Niles, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Niles, IL coverage windows and verified intake details.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Moisture pathway inspection logged near ZIP 60714/60701 intake.
+Granule embedment loss on Niles, IL north slopes can precede mat exposure.
 
-Field note: Connection points spot-checked where accessible (ZIP 60714/60701 zone).
+Code context: Ventilation ratios for Niles, IL attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 60714, 60701 (county grid: Cook County).
+roof service brief: ice-barrier lap sequence and pipe boot manufacturer match were cross-checked for the Niles intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 60714/60701.
+
+Primary postal anchor 60714 with multi-ZIP overlap in Niles; field packets tag Cook County for county-grid reconciliation.
+
+On-site sector marker: Cook County / ZIP 60714 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60714-f0dba95d

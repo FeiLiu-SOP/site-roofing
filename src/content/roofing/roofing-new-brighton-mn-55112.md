@@ -11,24 +11,31 @@ lng: -93.2100
 zipSample: ["55112"]
 zipCodes: ["55112"]
 localPaths: ["Ramsey County / elevation 869 ft band", "Ramsey County / ZIP 55112 sector", "Ramsey County / primary ZIP 55112", "Ramsey County / coords 45.0700, -93.2100"]
-zillowHomeValueUsd: 377312
 ---
 
 **Engineering Notice for New Brighton:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Ramsey County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Our New Brighton, MN dispatch packets reference county grid Ramsey County and elevation band 869 ft.
 
-In New Brighton, MN, seasonal demand can change scheduling windows.
+Risk flag: Tile underlayment age in New Brighton, MN can fail independently of visible tile cracks.
 
-In New Brighton, MN, urgent roof work issues can escalate quickly.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Brighton, MN, but intake notes help reduce delays.
+Hail bruising on New Brighton, MN ridges may not breach felt until the next wind event.
 
-Field note: Connection points spot-checked where accessible (ZIP 55112 zone).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 55112 (county grid: Ramsey County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Step: compare shingle manufacturer wind-zone ratings for New Brighton, MN exposure class.
+
+Scope trace: wind uplift clip spacing plus chimney cricket slope referenced in Ramsey County county grid review.
+
+On-site sector marker: Ramsey County / elevation 869 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 45.0700, -93.2100 at elevation ~869 ft aligns with Ramsey County intake staging.
 
 Service reference: MN-55112-cc78891f

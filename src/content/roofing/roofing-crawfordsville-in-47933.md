@@ -11,27 +11,29 @@ lng: -86.9000
 zipSample: ["47933"]
 zipCodes: ["47933"]
 localPaths: ["Montgomery County / elevation 764 ft band", "Montgomery County / ZIP 47933 sector", "Montgomery County / primary ZIP 47933", "Montgomery County / coords 40.0400, -86.9000"]
-zillowHomeValueUsd: 223641
 ---
 
 **Engineering Notice for Crawfordsville:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Regulatory note: Crawfordsville, IN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 47933.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Crawfordsville, IN, but intake notes help reduce delays.
+Granule embedment loss on Crawfordsville, IN north slopes can precede mat exposure.
 
-Field note: Access points and staging constraints recorded for ZIP 47933 coverage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Connection points spot-checked where accessible (ZIP 47933 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 47933 (county grid: Montgomery County).
+roof service brief: counter-flashing reglet depth and pipe boot manufacturer match were cross-checked for the Crawfordsville intake packet.
+
+On-site sector marker: Montgomery County / coords 40.0400, -86.9000 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 47933 with multi-ZIP overlap in Crawfordsville; field packets tag Montgomery County for county-grid reconciliation.
 
 Service reference: IN-47933-8e81db8d

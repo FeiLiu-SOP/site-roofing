@@ -11,26 +11,31 @@ lng: -107.7500
 zipSample: ["88031", "88030"]
 zipCodes: ["88031", "88030"]
 localPaths: ["Luna County / elevation 4334 ft band", "Luna County / primary ZIP 88030", "Luna County / ZIP 88030 sector", "Luna County / coords 32.2600, -107.7500", "Luna County / ZIP 88031 sector"]
-zillowHomeValueUsd: 163703
 ---
 
 **Engineering Notice for Deming:** Structural loading calculated based on 4334 ft terrain assessment. Regional dispatch grid: Luna County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Granule embedment loss on Deming, NM north slopes can precede mat exposure.
 
-Local conditions in Deming, NM can affect timelines and material choices.
+Risk flag: Tile underlayment age in Deming, NM can fail independently of visible tile cracks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: map ventilation intake and exhaust pairs for Deming, NM attic runs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Moisture pathway inspection logged near ZIP 88030/88031 intake.
+Our Deming, NM dispatch packets reference county grid Luna County and elevation band 4334 ft.
 
-Field note: Access points and staging constraints recorded for ZIP 88030/88031 coverage.
+Wind-zone note: Deming, NM exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 88030, 88031 (county grid: Luna County).
+roofing service brief: deck sheathing thickness and pipe boot manufacturer match were cross-checked for the Deming intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 88031/88030.
+
+On-site sector marker: Luna County / ZIP 88030 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Luna County: moisture and logistics baselines are keyed to Deming, NM before niche-specific work begins.
 
 Service reference: NM-88030-9c9c4ae5

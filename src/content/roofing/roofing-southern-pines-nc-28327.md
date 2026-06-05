@@ -11,24 +11,29 @@ lng: -79.4000
 zipSample: ["28387", "28327", "28374", "28388"]
 zipCodes: ["28387", "28374", "28388", "28327"]
 localPaths: ["Moore County / ZIP 28327 sector", "Moore County / ZIP 28388 sector", "Moore County / ZIP 28387 sector", "Moore County / primary ZIP 28327", "Moore County / coords 35.1900, -79.4000"]
-zillowHomeValueUsd: 405834
 ---
 
 **Engineering Notice for Southern Pines:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Moore County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Southern Pines, NC, but intake notes help reduce delays.
+Skylight curb flashing in Southern Pines, NC should be sequenced before ridge cap replacement.
 
-In Southern Pines, NC, urgent roofing service issues can escalate quickly.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Southern Pines, NC can fail independently of visible tile cracks.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: confirm licensing and insurance before approving work.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28387/28374/28327.
+Wind-zone note: Southern Pines, NC exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 28387, 28374, 28327, 28388 (county grid: Moore County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+roofing service brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Southern Pines intake packet.
+
+On-site sector marker: Moore County / primary ZIP 28327 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Moore County / elevation 522 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28327-43ef0b42

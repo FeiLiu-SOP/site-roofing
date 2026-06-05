@@ -11,26 +11,29 @@ lng: -80.1700
 zipSample: ["33168", "33181", "33261", "33161", "33167"]
 zipCodes: ["33181", "33161", "33167", "33160", "33261", "33168"]
 localPaths: ["Miami-Dade County / ZIP 33161 sector", "Miami-Dade County / ZIP 33181 sector", "Miami-Dade County / ZIP 33167 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.9000, -80.1700"]
-zillowHomeValueUsd: 462262
 ---
 
 **Engineering Notice for North Miami:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in North Miami, FL, but intake notes help reduce delays.
+Wind-zone note: North Miami, FL exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Metal panel oil-canning in North Miami, FL may signal clip spacing issues, not wind damage alone.
 
-We coordinate local dispatch coverage around North Miami, FL and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for North Miami, FL.
 
-Structured milestones protect both sides when scheduling work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 33168/33161/33261 intake.
+Step: map ventilation intake and exhaust pairs for North Miami, FL attic runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33168/33161/33261.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 33168, 33161, 33261, 33181, 33160 (county grid: Miami-Dade County).
+Scope trace: wind uplift clip spacing plus drip-edge metal profile referenced in Miami-Dade County county grid review.
+
+Primary postal anchor 33167 with multi-ZIP overlap in North Miami; field packets tag Miami-Dade County for county-grid reconciliation.
+
+On-site sector marker: Miami-Dade County / ZIP 33168 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33167-748f5951

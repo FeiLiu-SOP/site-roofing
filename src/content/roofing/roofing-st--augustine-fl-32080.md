@@ -11,26 +11,35 @@ lng: -81.3100
 zipSample: ["32084", "32095", "32080"]
 zipCodes: ["32084", "32080", "32095"]
 localPaths: ["St. Johns County / ZIP 32080 sector", "St. Johns County / elevation 0 ft band", "St. Johns County / ZIP 32095 sector", "St. Johns County / primary ZIP 32080", "St. Johns County / coords 29.9000, -81.3100"]
-zillowHomeValueUsd: 538462
 ---
 
 **Engineering Notice for St. Augustine:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: St. Johns County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in St. Augustine, FL, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-We coordinate local dispatch coverage around St. Augustine, FL and nearby ZIP sectors.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Transparent pricing helps you compare like-for-like scope items.
+Attic ventilation deficits in St. Augustine, FL can mimic roof leaks at ceiling penetrations.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: St. Augustine, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 32095/32080/32084 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 32095/32080/32084 zone).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 32080.
 
-Dispatch sectors sampled: ZIP 32095, 32080, 32084 (county grid: St. Johns County).
+Risk flag: Tile underlayment age in St. Augustine, FL can fail independently of visible tile cracks.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+roofing service brief: starter-strip setback and drip-edge metal profile were cross-checked for the St. Augustine intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 32084/32095/32080.
+
+On-site sector marker: St. Johns County / primary ZIP 32080 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Johns County / ZIP 32095 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32080-e7a0d77a

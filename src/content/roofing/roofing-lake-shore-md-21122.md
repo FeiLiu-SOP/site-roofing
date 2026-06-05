@@ -11,26 +11,33 @@ lng: -76.4900
 zipSample: ["21122"]
 zipCodes: ["21122"]
 localPaths: ["Anne Arundel County / coords 39.1000, -76.4900", "Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / primary ZIP 21122", "Anne Arundel County / elevation 75 ft band"]
-zillowHomeValueUsd: 454581
 ---
 
 **Engineering Notice for Lake Shore:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hail bruising on Lake Shore, MD ridges may not breach felt until the next wind event.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-A written scope helps prevent rework and mismatched expectations.
+Code context: Ventilation ratios for Lake Shore, MD attics should be checked against current mechanical exhaust additions.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lake Shore, MD, but intake notes help reduce delays.
+Step: map ventilation intake and exhaust pairs for Lake Shore, MD attic runs.
 
-Field note: Wind exposure category reviewed for ZIP sector 21122.
+Material note: In Lake Shore, MD, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Moisture pathway inspection logged near ZIP 21122 intake.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 21122 (county grid: Anne Arundel County).
+We coordinate Lake Shore, MD roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Field routing: chimney cricket slope paired with ice-barrier lap sequence near ZIP 21122.
+
+Field note: Shingle seal-down timing logged near ZIP 21122.
+
+On-site sector marker: Anne Arundel County / ZIP 21122 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Anne Arundel County / coords 39.1000, -76.4900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21122-21e3ae4b

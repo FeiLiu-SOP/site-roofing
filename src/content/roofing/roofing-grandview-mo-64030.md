@@ -11,27 +11,35 @@ lng: -94.5200
 zipSample: ["64030"]
 zipCodes: ["64030"]
 localPaths: ["Jackson County / primary ZIP 64030", "Jackson County / coords 38.8800, -94.5200", "Jackson County / elevation 1020 ft band", "Jackson County / ZIP 64030 sector"]
-zillowHomeValueUsd: 216650
 ---
 
 **Engineering Notice for Grandview:** Structural loading calculated based on 1020 ft terrain assessment. Regional dispatch grid: Jackson County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 64030.
+Low-slope sections in Grandview, MO need positive drainage before membrane repairs are scoped.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Grandview, MO, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-We coordinate local dispatch coverage around Grandview, MO and nearby ZIP sectors.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 64030.
+Code context: Ventilation ratios for Grandview, MO attics should be checked against current mechanical exhaust additions.
 
-Field note: Connection points spot-checked where accessible (ZIP 64030 zone).
+Risk flag: Tile underlayment age in Grandview, MO can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 64030 (county grid: Jackson County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+TPO seam welds in Grandview, MO commercial sections need probe tests after freeze events.
+
+roof service brief: counter-flashing reglet depth and ice-barrier lap sequence were cross-checked for the Grandview intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 64030.
+
+ZIP-corridor snapshot for Grandview, MO: sampled sectors include 64030; county routing grid remains Jackson County.
+
+**Regional Infrastructure Brief:** Grid anchor set to Jackson County. Reference elevation: 1020 ft. Primary coordinates: 38.8800, -94.5200. ZIP sample: 64030. Regional routing note: Jackson County traffic flow is balanced around ZIP 64030 service demand.
 
 Service reference: MO-64030-b686c423

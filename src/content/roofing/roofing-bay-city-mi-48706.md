@@ -11,27 +11,29 @@ lng: -83.8900
 zipSample: ["48706", "48708"]
 zipCodes: ["48706", "48708"]
 localPaths: ["Bay County / elevation 600 ft band", "Bay County / ZIP 48706 sector", "Bay County / coords 43.5900, -83.8900", "Bay County / primary ZIP 48706", "Bay County / ZIP 48708 sector"]
-zillowHomeValueUsd: 184974
 ---
 
 **Engineering Notice for Bay City:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Bay County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Bay City, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 48706.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: avoid large upfront payments without milestones.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Connection points spot-checked where accessible (ZIP 48708/48706 zone).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 48708/48706.
+Tile and shingle mixes in Bay City, MI require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 48708, 48706 (county grid: Bay County).
+roof service brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the Bay City intake packet.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Bay County. Reference elevation: 600 ft. Primary coordinates: 43.5900, -83.8900. ZIP sample: 48706, 48708. Service perimeter note: Coverage extends through Bay County with dispatch centered near ZIP 48706.
+
+On-site sector marker: Bay County / primary ZIP 48706 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48706-b9421b58

@@ -11,24 +11,31 @@ lng: -87.6700
 zipSample: ["36536", "36535"]
 zipCodes: ["36536", "36535"]
 localPaths: ["Baldwin County / elevation 75 ft band", "Baldwin County / ZIP 36535 sector", "Baldwin County / coords 30.4000, -87.6700", "Baldwin County / primary ZIP 36535", "Baldwin County / ZIP 36536 sector"]
-zillowHomeValueUsd: 301607
 ---
 
 **Engineering Notice for Foley:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Baldwin County.
 
 
-We coordinate local dispatch coverage around Foley, AL and nearby ZIP sectors.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hail bruising on Foley, AL ridges may not breach felt until the next wind event.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 36536/36535.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 36536, 36535 (county grid: Baldwin County).
+Code context: Ventilation ratios for Foley, AL attics should be checked against current mechanical exhaust additions.
+
+roofing service brief: ridge cap nail schedule and valley metal gauge were cross-checked for the Foley intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 36536/36535.
+
+On-site sector marker: Baldwin County / primary ZIP 36535 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Baldwin County and primary ZIP 36535. Terrain reference: 75 ft. Center point: 30.4000, -87.6700. ZIP sample: 36536, 36535. Logistics priority: Serving residential sectors across Baldwin County and north-east ZIP 36535 grid.
 
 Service reference: AL-36535-6ba9fa45

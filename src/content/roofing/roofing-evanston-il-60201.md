@@ -11,26 +11,33 @@ lng: -87.6900
 zipSample: ["60208", "60204", "60201", "60202"]
 zipCodes: ["60201", "60202", "60204", "60208"]
 localPaths: ["Cook County / coords 42.0500, -87.6900", "Cook County / ZIP 60208 sector", "Cook County / ZIP 60202 sector", "Cook County / primary ZIP 60201", "Cook County / elevation 614 ft band"]
-zillowHomeValueUsd: 556325
 ---
 
 **Engineering Notice for Evanston:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: Evanston, IL exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Our Evanston, IL dispatch packets reference county grid Cook County and elevation band 614 ft.
 
-We coordinate local dispatch coverage around Evanston, IL and nearby ZIP sectors.
+Coastal humidity in Evanston, IL can slow shingle seal-down after shoulder-season storms.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Evanston, IL, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Evanston, IL.
 
-Field note: Moisture pathway inspection logged near ZIP 60204/60208/60201 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Wind exposure category reviewed for ZIP sector 60204/60208/60201.
+Risk flag: Tile underlayment age in Evanston, IL can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 60204, 60208, 60201, 60202 (county grid: Cook County).
+Step: separate emergency tarp scope from permanent remediation line items.
+
+Scope trace: starter-strip setback plus chimney cricket slope referenced in Cook County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 60208/60202/60204.
+
+On-site sector marker: Cook County / ZIP 60208 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 60201 with multi-ZIP overlap in Evanston; field packets tag Cook County for county-grid reconciliation.
 
 Service reference: IL-60201-4157d26c

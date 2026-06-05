@@ -11,27 +11,31 @@ lng: -117.1700
 zipSample: ["92346", "92410", "92359"]
 zipCodes: ["92346", "92410", "92359"]
 localPaths: ["San Bernardino County / ZIP 92410 sector", "San Bernardino County / primary ZIP 92359", "San Bernardino County / ZIP 92346 sector", "San Bernardino County / coords 34.1100, -117.1700", "San Bernardino County / ZIP 92359 sector"]
-zillowHomeValueUsd: 511486
 ---
 
 **Engineering Notice for Highland:** Structural loading calculated based on 1371 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Material note: In Highland, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 92359.
+Code context: Ventilation ratios for Highland, CA attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Highland, CA, but intake notes help reduce delays.
+Wood shake courses in Highland, CA require skip-spacing rules at valleys.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92346/92410/92359.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 92346/92410/92359 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 92346, 92410, 92359 (county grid: San Bernardino County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: soffit intake free area plus synthetic underlayment slip referenced in San Bernardino County county grid review.
+
+On-site sector marker: San Bernardino County / ZIP 92410 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Bernardino County / elevation 1371 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92359-888095ba

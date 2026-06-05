@@ -11,26 +11,29 @@ lng: -74.5600
 zipSample: ["07801"]
 zipCodes: ["07801"]
 localPaths: ["Morris County / elevation 577 ft band", "Morris County / primary ZIP 07801", "Morris County / ZIP 07801 sector", "Morris County / coords 40.8900, -74.5600"]
-zillowHomeValueUsd: 500434
 ---
 
 **Engineering Notice for Dover:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Morris County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic ventilation deficits in Dover, NJ can mimic roof leaks at ceiling penetrations.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Dover, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: avoid large upfront payments without milestones.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 07801.
+Tip: Note recent wind events when filing insurance photos for Dover, NJ.
 
-Field note: Connection points spot-checked where accessible (ZIP 07801 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 07801 (county grid: Morris County).
+Scope trace: wind uplift clip spacing plus valley metal gauge referenced in Morris County county grid review.
+
+On-site sector marker: Morris County / primary ZIP 07801 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Morris County / elevation 577 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07801-de061eb7

@@ -11,24 +11,33 @@ lng: -104.8900
 zipSample: ["80231", "80247"]
 zipCodes: ["80247", "80231"]
 localPaths: ["Arapahoe County / coords 39.6800, -104.8900", "Arapahoe County / primary ZIP 80231", "Arapahoe County / ZIP 80231 sector", "Arapahoe County / ZIP 80247 sector", "Arapahoe County / elevation 5456 ft band"]
-zillowHomeValueUsd: 412619
 ---
 
 **Engineering Notice for Four Square Mile:** Structural loading calculated based on 5456 ft terrain assessment. Regional dispatch grid: Arapahoe County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should permanent remediation start? In Four Square Mile, CO, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Four Square Mile, CO can fail independently of visible tile cracks.
 
-We coordinate local dispatch coverage around Four Square Mile, CO and nearby ZIP sectors.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Four Square Mile, CO, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: avoid large upfront payments without milestones.
+Wind-zone note: Four Square Mile, CO exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 80231/80247 zone).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 80231, 80247 (county grid: Arapahoe County).
+Wood shake courses in Four Square Mile, CO require skip-spacing rules at valleys.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: deck sheathing thickness paired with ice-barrier lap sequence near ZIP 80231.
+
+Field note: Attic moisture pathway scan referenced ZIP 80231/80247.
+
+ZIP-corridor snapshot for Four Square Mile, CO: sampled sectors include 80231, 80247; county routing grid remains Arapahoe County.
+
+Coordinate-anchored dispatch note: center reference 39.6800, -104.8900 at elevation ~5456 ft aligns with Arapahoe County intake staging.
 
 Service reference: CO-80231-e555a682

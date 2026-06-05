@@ -11,27 +11,33 @@ lng: -85.6600
 zipSample: ["46952", "46953"]
 zipCodes: ["46953", "46952"]
 localPaths: ["Grant County / coords 40.5500, -85.6600", "Grant County / ZIP 46952 sector", "Grant County / primary ZIP 46953", "Grant County / elevation 817 ft band", "Grant County / ZIP 46953 sector"]
-zillowHomeValueUsd: 107749
 ---
 
 **Engineering Notice for Marion:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Grant County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 46953.
+Material note: In Marion, IN, algae-resistant granules may be specified for north-facing slopes.
 
-Our service coordination centers on Marion, IN coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Marion, IN, but intake notes help reduce delays.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: address recurring issues early to prevent bigger damage.
+Valley metal in Marion, IN should be reviewed whenever granule loss tracks the water line.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46953/46952.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 46953/46952.
+Risk flag: In Marion, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 46953, 46952 (county grid: Grant County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Grant County county grid review.
+
+On-site sector marker: Grant County / ZIP 46952 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Grant County. Reference elevation: 817 ft. Primary coordinates: 40.5500, -85.6600. ZIP sample: 46953, 46952. Regional routing note: Grant County traffic flow is balanced around ZIP 46953 service demand.
 
 Service reference: IN-46953-c9358271

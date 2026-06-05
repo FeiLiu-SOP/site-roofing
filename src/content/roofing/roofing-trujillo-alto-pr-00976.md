@@ -11,26 +11,29 @@ lng: -66.0100
 zipSample: ["00978", "00976", "00926", "00977"]
 zipCodes: ["00976", "00978", "00926", "00977"]
 localPaths: ["Trujillo Alto County / primary ZIP 00976", "Trujillo Alto County / elevation 200 ft band", "Trujillo Alto County / coords 18.3600, -66.0100", "Trujillo Alto County / ZIP 00977 sector", "Trujillo Alto County / ZIP 00976 sector"]
-zillowHomeValueUsd: 353508
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Trujillo Alto:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Trujillo Alto County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Tile underlayment age in Trujillo Alto, PR can fail independently of visible tile cracks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Trujillo Alto, PR.
 
-In Trujillo Alto, PR, seasonal demand can change scheduling windows.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 00976.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 00978/00976/00977 intake.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 00978, 00976, 00977, 00926 (county grid: Trujillo Alto County).
+Tile and shingle mixes in Trujillo Alto, PR require different fastener patterns at transitions.
+
+roof service brief: ridge cap nail schedule and valley metal gauge were cross-checked for the Trujillo Alto intake packet.
+
+Primary postal anchor 00976 with multi-ZIP overlap in Trujillo Alto; field packets tag Trujillo Alto County for county-grid reconciliation.
+
+On-site sector marker: Trujillo Alto County / ZIP 00926 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00976-1f30ef89

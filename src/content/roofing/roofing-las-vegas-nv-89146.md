@@ -11,26 +11,33 @@ lng: -115.2700
 zipSample: ["89108", "89151", "89129", "89117", "89152"]
 zipCodes: ["89128", "89155", "89105", "89133", "89110", "89124", "89104", "89153", "89163", "89102", "89114", "89137"]
 localPaths: ["Clark County / ZIP 89129 sector", "Clark County / elevation 2362 ft band", "Clark County / ZIP 89117 sector", "Clark County / ZIP 89152 sector", "Clark County / ZIP 89151 sector"]
-zillowHomeValueUsd: 400953
 ---
 
 **Engineering Notice for Las Vegas:** Structural loading calculated based on 2362 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Las Vegas, NV, but intake notes help reduce delays.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-We coordinate local dispatch coverage around Las Vegas, NV and nearby ZIP sectors.
+Parapet coping movement in Las Vegas, NV can channel water behind wall cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 89145/89195/89128.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 89145/89195/89128 zone).
+Risk flag: Tile underlayment age in Las Vegas, NV can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 89145, 89195, 89128, 89107, 89104 (county grid: Clark County).
+TPO seam welds in Las Vegas, NV commercial sections need probe tests after freeze events.
+
+Material note: In Las Vegas, NV, algae-resistant granules may be specified for north-facing slopes.
+
+roofing service brief: soffit intake free area and shingle exposure calibration were cross-checked for the Las Vegas intake packet.
+
+On-site sector marker: Clark County / ZIP 89137 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Clark County / ZIP 89152 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89146-3c65d1ef

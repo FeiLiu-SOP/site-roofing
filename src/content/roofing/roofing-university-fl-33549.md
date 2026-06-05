@@ -11,24 +11,33 @@ lng: -82.4300
 zipSample: ["33549", "33559", "33612", "33613"]
 zipCodes: ["33612", "33549", "33559", "33613"]
 localPaths: ["Hillsborough County / ZIP 33612 sector", "Hillsborough County / elevation 69 ft band", "Hillsborough County / ZIP 33613 sector", "Hillsborough County / ZIP 33549 sector", "Hillsborough County / ZIP 33559 sector"]
-zillowHomeValueUsd: 436478
 ---
 
 **Engineering Notice for University:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In University, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Local conditions in University, FL can affect timelines and material choices.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around University, FL and nearby ZIP sectors.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 33549.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 33549/33559/33612 intake.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 33549, 33559, 33612, 33613 (county grid: Hillsborough County).
+Material note: In University, FL, algae-resistant granules may be specified for north-facing slopes.
+
+Hail bruising on University, FL ridges may not breach felt until the next wind event.
+
+Wind-zone note: University, FL exposure class can change starter-strip and cap nail schedules.
+
+Field routing: valley metal gauge paired with wind uplift clip spacing near ZIP 33549.
+
+On-site sector marker: Hillsborough County / primary ZIP 33549 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 28.0800, -82.4300 at elevation ~69 ft aligns with Hillsborough County intake staging.
 
 Service reference: FL-33549-1aada427

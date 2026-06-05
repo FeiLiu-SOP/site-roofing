@@ -11,26 +11,31 @@ lng: -122.5600
 zipSample: ["94947", "94945", "94998", "94949"]
 zipCodes: ["94998", "94949", "94945", "94947"]
 localPaths: ["Marin County / elevation 10 ft band", "Marin County / primary ZIP 94949", "Marin County / coords 38.0900, -122.5600", "Marin County / ZIP 94947 sector", "Marin County / ZIP 94945 sector"]
-zillowHomeValueUsd: 1237180
 ---
 
 **Engineering Notice for Novato:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Marin County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: compare shingle manufacturer wind-zone ratings for Novato, CA exposure class.
 
-In Novato, CA, urgent roof work issues can escalate quickly.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Our service coordination centers on Novato, CA coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Novato, CA, but intake notes help reduce delays.
+Regulatory note: Novato, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: compare at least two estimates for scope and timeline.
+Granule embedment loss on Novato, CA north slopes can precede mat exposure.
 
-Field note: Wind exposure category reviewed for ZIP sector 94947/94945/94998.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 94947/94945/94998 zone).
+FAQ: Can you tarp only part of the roof? In Novato, CA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 94947, 94945, 94998, 94949 (county grid: Marin County).
+Field routing: valley metal gauge paired with pipe boot manufacturer match near ZIP 94949.
+
+Field note: Shingle seal-down timing logged near ZIP 94945/94998/94949.
+
+ZIP-corridor snapshot for Novato, CA: sampled sectors include 94998, 94945, 94947, 94949; county routing grid remains Marin County.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Marin County. Reference elevation: 10 ft. Primary coordinates: 38.0900, -122.5600. ZIP sample: 94949, 94998, 94945, 94947. Service perimeter note: Coverage extends through Marin County with dispatch centered near ZIP 94949.
 
 Service reference: CA-94949-90da0ae9

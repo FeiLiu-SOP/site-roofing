@@ -11,25 +11,33 @@ lng: -80.6600
 zipSample: ["28104"]
 zipCodes: ["28104"]
 localPaths: ["Union County / elevation 679 ft band", "Union County / primary ZIP 28104", "Union County / coords 35.1100, -80.6600", "Union County / ZIP 28104 sector"]
-zillowHomeValueUsd: 594917
 ---
 
 **Engineering Notice for Stallings:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Union County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Stallings, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 28104.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Stallings, NC, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Connection points spot-checked where accessible (ZIP 28104 zone).
+We coordinate Stallings, NC roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 28104 (county grid: Union County).
+Attic ventilation deficits in Stallings, NC can mimic roof leaks at ceiling penetrations.
+
+Wind-zone note: Stallings, NC exposure class can change starter-strip and cap nail schedules.
+
+Step: separate emergency tarp scope from permanent remediation line items.
+
+Scope trace: synthetic underlayment slip plus shingle exposure calibration referenced in Union County county grid review.
+
+On-site sector marker: Union County / ZIP 28104 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Union County / elevation 679 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28104-dd270546

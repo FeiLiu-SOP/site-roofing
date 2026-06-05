@@ -11,26 +11,31 @@ lng: -74.3200
 zipSample: ["08872", "08859", "08871", "08879"]
 zipCodes: ["08859", "08879", "08871", "08872"]
 localPaths: ["Middlesex County / ZIP 08871 sector", "Middlesex County / ZIP 08859 sector", "Middlesex County / elevation 30 ft band", "Middlesex County / ZIP 08879 sector", "Middlesex County / coords 40.4700, -74.3200"]
-zillowHomeValueUsd: 538504
 ---
 
 **Engineering Notice for Sayreville:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Tip: avoid large upfront payments without milestones.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tile and shingle mixes in Sayreville, NJ require different fastener patterns at transitions.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on Sayreville, NJ coverage windows and verified intake details.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Access points and staging constraints recorded for ZIP 08879/08872/08859 coverage.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 08879/08872/08859.
+Code context: Ventilation ratios for Sayreville, NJ attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 08879, 08872, 08859, 08871 (county grid: Middlesex County).
+roof work brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Sayreville intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 08871/08859/08879.
+
+Coordinate-anchored dispatch note: center reference 40.4700, -74.3200 at elevation ~30 ft aligns with Middlesex County intake staging.
+
+Regional mesh label Middlesex County: moisture and logistics baselines are keyed to Sayreville, NJ before niche-specific work begins.
 
 Service reference: NJ-08872-18a5d2fa

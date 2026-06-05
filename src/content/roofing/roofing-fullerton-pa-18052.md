@@ -11,26 +11,29 @@ lng: -75.4800
 zipSample: ["18052"]
 zipCodes: ["18052"]
 localPaths: ["Lehigh County / ZIP 18052 sector", "Lehigh County / elevation 348 ft band", "Lehigh County / coords 40.6300, -75.4800", "Lehigh County / primary ZIP 18052"]
-zillowHomeValueUsd: 335085
 ---
 
 **Engineering Notice for Fullerton:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Lehigh County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: compare shingle manufacturer wind-zone ratings for Fullerton, PA exposure class.
 
-We coordinate local dispatch coverage around Fullerton, PA and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+Hail bruising on Fullerton, PA ridges may not breach felt until the next wind event.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fullerton, PA, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Access points and staging constraints recorded for ZIP 18052 coverage.
+Code context: Ventilation ratios for Fullerton, PA attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 18052.
+Risk flag: Tile underlayment age in Fullerton, PA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 18052 (county grid: Lehigh County).
+Field routing: drip-edge metal profile paired with attic baffle spacing near ZIP 18052.
+
+On-site sector marker: Lehigh County / coords 40.6300, -75.4800 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lehigh County / primary ZIP 18052 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-18052-6b976b33

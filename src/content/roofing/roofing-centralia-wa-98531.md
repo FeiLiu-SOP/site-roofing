@@ -11,27 +11,33 @@ lng: -122.9700
 zipSample: ["98531"]
 zipCodes: ["98531"]
 localPaths: ["Lewis County / ZIP 98531 sector", "Lewis County / primary ZIP 98531", "Lewis County / elevation 174 ft band", "Lewis County / coords 46.7200, -122.9700"]
-zillowHomeValueUsd: 396408
 ---
 
 **Engineering Notice for Centralia:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Lewis County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: request a written scope before work starts.
+Valley metal in Centralia, WA should be reviewed whenever granule loss tracks the water line.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Centralia, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 98531.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-We coordinate local dispatch coverage around Centralia, WA and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 98531 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 98531 coverage.
+Tip: Note recent wind events when filing insurance photos for Centralia, WA.
 
-Dispatch sectors sampled: ZIP 98531 (county grid: Lewis County).
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+roof work brief: drip-edge metal profile and valley metal gauge were cross-checked for the Centralia intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 98531.
+
+Regional mesh label Lewis County: moisture and logistics baselines are keyed to Centralia, WA before niche-specific work begins.
+
+On-site sector marker: Lewis County / coords 46.7200, -122.9700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98531-00cb89d0

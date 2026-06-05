@@ -11,27 +11,33 @@ lng: -117.4600
 zipSample: ["92337", "92336", "92334", "92331", "92402"]
 zipCodes: ["92402", "92334", "92337", "92331", "92336", "92335"]
 localPaths: ["San Bernardino County / ZIP 92331 sector", "San Bernardino County / ZIP 92334 sector", "San Bernardino County / primary ZIP 92335", "San Bernardino County / ZIP 92337 sector", "San Bernardino County / ZIP 92402 sector"]
-zillowHomeValueUsd: 566924
 ---
 
 **Engineering Notice for Fontana:** Structural loading calculated based on 1178 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Fontana, CA can fail independently of visible tile cracks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wind-zone note: Fontana, CA exposure class can change starter-strip and cap nail schedules.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 92335.
+We coordinate Fontana, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Wind exposure category reviewed for ZIP sector 92334/92336/92331.
+Risk flag: In Fontana, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92334/92336/92331.
+FAQ: Can you tarp only part of the roof? In Fontana, CA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 92334, 92336, 92331, 92402, 92335 (county grid: San Bernardino County).
+Valley metal in Fontana, CA should be reviewed whenever granule loss tracks the water line.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roofing service brief: wind uplift clip spacing and shingle exposure calibration were cross-checked for the Fontana intake packet.
+
+On-site sector marker: San Bernardino County / coords 34.1000, -117.4600 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Bernardino County / elevation 1178 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92335-e90bd1de

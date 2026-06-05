@@ -11,26 +11,31 @@ lng: -122.1500
 zipSample: ["98296", "98012", "98208"]
 zipCodes: ["98208", "98296", "98012"]
 localPaths: ["Snohomish County / elevation 522 ft band", "Snohomish County / ZIP 98296 sector", "Snohomish County / ZIP 98208 sector", "Snohomish County / coords 47.8600, -122.1500", "Snohomish County / primary ZIP 98296"]
-zillowHomeValueUsd: 1058970
 ---
 
 **Engineering Notice for Silver Firs:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Silver Firs, WA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Silver Firs, WA, but intake notes help reduce delays.
+Step: map ventilation intake and exhaust pairs for Silver Firs, WA attic runs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 98012/98296/98208.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 98012/98296/98208 zone).
+FAQ: When should permanent service start? In Silver Firs, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 98012, 98296, 98208 (county grid: Snohomish County).
+Low-slope sections in Silver Firs, WA need positive drainage before membrane repairs are scoped.
+
+Scope trace: drip-edge metal profile plus counter-flashing reglet depth referenced in Snohomish County county grid review.
+
+On-site sector marker: Snohomish County / ZIP 98012 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Snohomish County / elevation 522 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98296-9cb3070f

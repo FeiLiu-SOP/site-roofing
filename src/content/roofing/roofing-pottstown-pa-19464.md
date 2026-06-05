@@ -11,24 +11,29 @@ lng: -75.6400
 zipSample: ["19464"]
 zipCodes: ["19464"]
 localPaths: ["Montgomery County / coords 40.2500, -75.6400", "Montgomery County / elevation 190 ft band", "Montgomery County / primary ZIP 19464", "Montgomery County / ZIP 19464 sector"]
-zillowHomeValueUsd: 306426
 ---
 
 **Engineering Notice for Pottstown:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pottstown, PA, but intake notes help reduce delays.
+Low-slope sections in Pottstown, PA need positive drainage before membrane repairs are scoped.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Wind exposure category reviewed for ZIP sector 19464.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 19464 (county grid: Montgomery County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: drip-edge metal profile paired with chimney cricket slope near ZIP 19464.
+
+On-site sector marker: Montgomery County / ZIP 19464 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Montgomery County / primary ZIP 19464 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-19464-651ba132

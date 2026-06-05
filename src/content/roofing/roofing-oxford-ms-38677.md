@@ -11,26 +11,31 @@ lng: -89.5300
 zipSample: ["38655", "38677"]
 zipCodes: ["38655", "38677"]
 localPaths: ["Lafayette County / ZIP 38677 sector", "Lafayette County / elevation 486 ft band", "Lafayette County / ZIP 38655 sector", "Lafayette County / coords 34.3600, -89.5300", "Lafayette County / primary ZIP 38677"]
-zillowHomeValueUsd: 413631
 ---
 
 **Engineering Notice for Oxford:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Lafayette County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Metal panel oil-canning in Oxford, MS may signal clip spacing issues, not wind damage alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Oxford, MS, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Oxford, MS can fail independently of visible tile cracks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 38677.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 38677/38655 intake.
+We coordinate Oxford, MS roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 38677/38655 zone).
+Wind-zone note: Oxford, MS exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 38677, 38655 (county grid: Lafayette County).
+roofing service brief: skylight curb height and chimney cricket slope were cross-checked for the Oxford intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 38677/38655.
+
+ZIP-corridor snapshot for Oxford, MS: sampled sectors include 38655, 38677; county routing grid remains Lafayette County.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Lafayette County and primary ZIP 38677. Terrain reference: 486 ft. Center point: 34.3600, -89.5300. ZIP sample: 38655, 38677. Logistics priority: Serving residential sectors across Lafayette County and north-east ZIP 38677 grid.
 
 Service reference: MS-38677-6cfed2ca

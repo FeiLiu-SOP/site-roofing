@@ -11,27 +11,31 @@ lng: -81.1100
 zipSample: ["29212", "29210", "29221"]
 zipCodes: ["29212", "29221", "29210"]
 localPaths: ["Richland County / ZIP 29221 sector", "Richland County / elevation 305 ft band", "Richland County / coords 34.0500, -81.1100", "Richland County / ZIP 29212 sector", "Richland County / ZIP 29210 sector"]
-zillowHomeValueUsd: 277791
 ---
 
 **Engineering Notice for St. Andrews:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Richland County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: St. Andrews, SC exposure class can change starter-strip and cap nail schedules.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 29212.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Can you tarp only part of the roof? In St. Andrews, SC, yes—if slope and anchor points support safe tie-offs.
 
-We coordinate local dispatch coverage around St. Andrews, SC and nearby ZIP sectors.
+Attic ventilation deficits in St. Andrews, SC can mimic roof leaks at ceiling penetrations.
 
-Field note: Connection points spot-checked where accessible (ZIP 29210/29221/29212 zone).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Wind exposure category reviewed for ZIP sector 29210/29221/29212.
+Risk flag: Tile underlayment age in St. Andrews, SC can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 29210, 29221, 29212 (county grid: Richland County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: skylight curb height paired with ice-barrier lap sequence near ZIP 29212.
+
+Coordinate-anchored dispatch note: center reference 34.0500, -81.1100 at elevation ~305 ft aligns with Richland County intake staging.
+
+Regional mesh label Richland County: moisture and logistics baselines are keyed to St. Andrews, SC before niche-specific work begins.
 
 Service reference: SC-29212-493479e3

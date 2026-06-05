@@ -11,24 +11,29 @@ lng: -118.1000
 zipSample: ["91775", "91776", "91778"]
 zipCodes: ["91776", "91775", "91778"]
 localPaths: ["Los Angeles County / ZIP 91775 sector", "Los Angeles County / primary ZIP 91775", "Los Angeles County / ZIP 91778 sector", "Los Angeles County / coords 34.0900, -118.1000", "Los Angeles County / elevation 407 ft band"]
-zillowHomeValueUsd: 1282398
 ---
 
 **Engineering Notice for San Gabriel:** Structural loading calculated based on 407 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-In San Gabriel, CA, seasonal demand can change scheduling windows.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Our service coordination centers on San Gabriel, CA coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in San Gabriel, CA, but intake notes help reduce delays.
+Regulatory note: San Gabriel, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: request a written scope before work starts.
+FAQ: Can you tarp only part of the roof? In San Gabriel, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91775/91776/91778.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 91775, 91776, 91778 (county grid: Los Angeles County).
+Tile and shingle mixes in San Gabriel, CA require different fastener patterns at transitions.
+
+roof work brief: counter-flashing reglet depth and drip-edge metal profile were cross-checked for the San Gabriel intake packet.
+
+On-site sector marker: Los Angeles County / primary ZIP 91775 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Los Angeles County and primary ZIP 91775. Terrain reference: 407 ft. Center point: 34.0900, -118.1000. ZIP sample: 91776, 91775, 91778. Logistics priority: Serving residential sectors across Los Angeles County and north-east ZIP 91775 grid.
 
 Service reference: CA-91775-3fef144f

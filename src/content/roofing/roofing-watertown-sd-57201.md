@@ -11,24 +11,31 @@ lng: -97.1500
 zipSample: ["57201"]
 zipCodes: ["57201"]
 localPaths: ["Codington County / coords 44.9100, -97.1500", "Codington County / primary ZIP 57201", "Codington County / elevation 1726 ft band", "Codington County / ZIP 57201 sector"]
-zillowHomeValueUsd: 319570
 ---
 
 **Engineering Notice for Watertown:** Structural loading calculated based on 1726 ft terrain assessment. Regional dispatch grid: Codington County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Watertown, SD, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-A written scope helps prevent rework and mismatched expectations.
+Code context: Ventilation ratios for Watertown, SD attics should be checked against current mechanical exhaust additions.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Wind exposure category reviewed for ZIP sector 57201.
+FAQ: How long can shingles wait after storm damage? In Watertown, SD, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 57201 (county grid: Codington County).
+Valley metal in Watertown, SD should be reviewed whenever granule loss tracks the water line.
+
+Material note: In Watertown, SD, algae-resistant granules may be specified for north-facing slopes.
+
+Scope trace: pipe boot manufacturer match plus wind uplift clip spacing referenced in Codington County county grid review.
+
+Primary postal anchor 57201 with multi-ZIP overlap in Watertown; field packets tag Codington County for county-grid reconciliation.
+
+On-site sector marker: Codington County / coords 44.9100, -97.1500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SD-57201-7bba602e

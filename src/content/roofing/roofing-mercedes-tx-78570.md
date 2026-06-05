@@ -11,24 +11,33 @@ lng: -97.9100
 zipSample: ["78570"]
 zipCodes: ["78570"]
 localPaths: ["Hidalgo County / elevation 82 ft band", "Hidalgo County / ZIP 78570 sector", "Hidalgo County / coords 26.1500, -97.9100", "Hidalgo County / primary ZIP 78570"]
-zillowHomeValueUsd: 141030
 ---
 
 **Engineering Notice for Mercedes:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Hidalgo County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Coastal humidity in Mercedes, TX can slow shingle seal-down after shoulder-season storms.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should permanent remediation start? In Mercedes, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Local conditions in Mercedes, TX can affect timelines and material choices.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Wind exposure category reviewed for ZIP sector 78570.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 78570 (county grid: Hidalgo County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Wind-zone note: Mercedes, TX exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: valley metal gauge plus ice-barrier lap sequence referenced in Hidalgo County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 78570.
+
+Regional mesh label Hidalgo County: moisture and logistics baselines are keyed to Mercedes, TX before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 26.1500, -97.9100 at elevation ~82 ft aligns with Hidalgo County intake staging.
 
 Service reference: TX-78570-e49ede6e

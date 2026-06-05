@@ -11,26 +11,29 @@ lng: -71.8200
 zipSample: ["01420"]
 zipCodes: ["01420"]
 localPaths: ["Worcester County / ZIP 01420 sector", "Worcester County / coords 42.5900, -71.8200", "Worcester County / primary ZIP 01420", "Worcester County / elevation 712 ft band"]
-zillowHomeValueUsd: 396166
 ---
 
 **Engineering Notice for Fitchburg:** Structural loading calculated based on 712 ft terrain assessment. Regional dispatch grid: Worcester County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 01420.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Fitchburg, MA exposure class can change starter-strip and cap nail schedules.
 
-Homeowners in Fitchburg, MA often face sudden roof service problems that require fast action.
+Step: map ventilation intake and exhaust pairs for Fitchburg, MA attic runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 01420.
+Low-slope sections in Fitchburg, MA need positive drainage before membrane repairs are scoped.
 
-Field note: Wind exposure category reviewed for ZIP sector 01420.
+FAQ: How long can shingles wait after storm damage? In Fitchburg, MA, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 01420 (county grid: Worcester County).
+Field routing: synthetic underlayment slip paired with skylight curb height near ZIP 01420.
+
+ZIP-corridor snapshot for Fitchburg, MA: sampled sectors include 01420; county routing grid remains Worcester County.
+
+Primary postal anchor 01420 with multi-ZIP overlap in Fitchburg; field packets tag Worcester County for county-grid reconciliation.
 
 Service reference: MA-01420-82d72e8b

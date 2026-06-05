@@ -11,26 +11,35 @@ lng: -97.3300
 zipSample: ["76028", "76097"]
 zipCodes: ["76028", "76097"]
 localPaths: ["Johnson County / ZIP 76028 sector", "Johnson County / primary ZIP 76028", "Johnson County / coords 32.5200, -97.3300", "Johnson County / elevation 748 ft band", "Johnson County / ZIP 76097 sector"]
-zillowHomeValueUsd: 339895
 ---
 
 **Engineering Notice for Burleson:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Johnson County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: confirm licensing and insurance before approving work.
+Freeze-thaw cycles around Burleson, TX stress nail pops along eaves and rake edges.
 
-Tip: address recurring issues early to prevent bigger damage.
+Request dry-in and remediation phases as separate line items. Serving ZIP Code: 76028.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: stage tear-off debris paths away from landscape drains.
 
-In Burleson, TX, urgent roof service issues can escalate quickly.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 76028/76097 coverage.
+Tip: Note recent wind events when filing insurance photos for Burleson, TX.
 
-Field note: Wind exposure category reviewed for ZIP sector 76028/76097.
+Risk flag: In Burleson, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 76028, 76097 (county grid: Johnson County).
+Code context: Ventilation ratios for Burleson, TX attics should be checked against current mechanical exhaust additions.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roof service brief: wind uplift clip spacing and skylight curb height were cross-checked for the Burleson intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 76097/76028.
+
+Primary postal anchor 76028 with multi-ZIP overlap in Burleson; field packets tag Johnson County for county-grid reconciliation.
+
+On-site sector marker: Johnson County / ZIP 76097 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76028-92b517f3

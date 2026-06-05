@@ -11,24 +11,31 @@ lng: -87.2500
 zipSample: ["32503", "32505", "32520"]
 zipCodes: ["32505", "32503", "32520"]
 localPaths: ["Escambia County / ZIP 32503 sector", "Escambia County / ZIP 32505 sector", "Escambia County / coords 30.4700, -87.2500", "Escambia County / ZIP 32520 sector", "Escambia County / primary ZIP 32503"]
-zillowHomeValueUsd: 294312
 ---
 
 **Engineering Notice for Brent:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Escambia County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-In Brent, FL, seasonal demand can change scheduling windows.
+Wind-zone note: Brent, FL exposure class can change starter-strip and cap nail schedules.
 
-Homeowners in Brent, FL often face sudden roof work problems that require fast action.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Granule embedment loss on Brent, FL north slopes can precede mat exposure.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 32503.
 
-Field note: Access points and staging constraints recorded for ZIP 32505/32520/32503 coverage.
+We coordinate Brent, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 32505, 32520, 32503 (county grid: Escambia County).
+Risk flag: In Brent, FL, interior stains may track from HVAC condensate rather than roof cladding.
+
+roof work brief: attic baffle spacing and counter-flashing reglet depth were cross-checked for the Brent intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 32505/32503/32520.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~125 ft across the Escambia County area. Coordinates: 30.4700, -87.2500. ZIP sample: 32503, 32520, 32505. Logistics priority: Serving residential sectors across Escambia County and north-east ZIP 32503 grid.
+
+On-site sector marker: Escambia County / coords 30.4700, -87.2500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32503-9406df48

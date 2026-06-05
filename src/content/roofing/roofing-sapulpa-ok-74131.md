@@ -11,24 +11,35 @@ lng: -96.1000
 zipSample: ["74131", "74067", "74066"]
 zipCodes: ["74067", "74131", "74066"]
 localPaths: ["Creek County / ZIP 74066 sector", "Creek County / elevation 719 ft band", "Creek County / ZIP 74131 sector", "Creek County / ZIP 74067 sector", "Creek County / primary ZIP 74131"]
-zillowHomeValueUsd: 277147
 ---
 
 **Engineering Notice for Sapulpa:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Creek County.
 
 
-Tip: request a written scope before work starts.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sapulpa, OK, but intake notes help reduce delays.
+Schedule a roof inspection with written scope before permanent restoration. Serving ZIP Code: 74131.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-In Sapulpa, OK, urgent roof service issues can escalate quickly.
+We coordinate Sapulpa, OK roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-We coordinate local dispatch coverage around Sapulpa, OK and nearby ZIP sectors.
+Risk flag: In Sapulpa, OK, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 74131/74067/74066 zone).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 74131, 74067, 74066 (county grid: Creek County).
+In Sapulpa, OK, wind-driven rain can lift shingle tabs before owners notice deck staining.
+
+Code context: Ventilation ratios for Sapulpa, OK attics should be checked against current mechanical exhaust additions.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Scope trace: wind uplift clip spacing plus drip-edge metal profile referenced in Creek County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 74131/74066/74067.
+
+On-site sector marker: Creek County / primary ZIP 74131 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Sapulpa, OK: sampled sectors include 74131, 74066, 74067; county routing grid remains Creek County.
 
 Service reference: OK-74131-3520a400

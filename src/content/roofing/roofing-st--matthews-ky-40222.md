@@ -11,27 +11,31 @@ lng: -85.6400
 zipSample: ["40222", "40207"]
 zipCodes: ["40207", "40222"]
 localPaths: ["Jefferson County / elevation 545 ft band", "Jefferson County / ZIP 40207 sector", "Jefferson County / primary ZIP 40222", "Jefferson County / ZIP 40222 sector", "Jefferson County / coords 38.2500, -85.6400"]
-zillowHomeValueUsd: 391858
 ---
 
 **Engineering Notice for St. Matthews:** Structural loading calculated based on 545 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 40222.
+Risk flag: Tile underlayment age in St. Matthews, KY can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in St. Matthews, KY, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: St. Matthews, KY exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around St. Matthews, KY and nearby ZIP sectors.
+TPO seam welds in St. Matthews, KY commercial sections need probe tests after freeze events.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 40207/40222.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 40207/40222.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 40207, 40222 (county grid: Jefferson County).
+Scope trace: starter-strip setback plus shingle exposure calibration referenced in Jefferson County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 40222/40207.
+
+On-site sector marker: Jefferson County / primary ZIP 40222 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 40222 with multi-ZIP overlap in St. Matthews; field packets tag Jefferson County for county-grid reconciliation.
 
 Service reference: KY-40222-7330d800

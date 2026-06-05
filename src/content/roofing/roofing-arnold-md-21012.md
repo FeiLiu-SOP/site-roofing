@@ -11,27 +11,33 @@ lng: -76.5000
 zipSample: ["21012"]
 zipCodes: ["21012"]
 localPaths: ["Anne Arundel County / ZIP 21012 sector", "Anne Arundel County / coords 39.0400, -76.5000", "Anne Arundel County / primary ZIP 21012", "Anne Arundel County / elevation 138 ft band"]
-zillowHomeValueUsd: 597095
 ---
 
 **Engineering Notice for Arnold:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Transparent pricing helps you compare like-for-like scope items.
+Skylight curb flashing in Arnold, MD should be sequenced before ridge cap replacement.
 
-We coordinate local dispatch coverage around Arnold, MD and nearby ZIP sectors.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 21012.
+Regulatory note: Arnold, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 21012.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Connection points spot-checked where accessible (ZIP 21012 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 21012 (county grid: Anne Arundel County).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: chimney cricket slope paired with valley metal gauge near ZIP 21012.
+
+On-site sector marker: Anne Arundel County / elevation 138 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Anne Arundel County / coords 39.0400, -76.5000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21012-cb710430

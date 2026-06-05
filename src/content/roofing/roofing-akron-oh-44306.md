@@ -11,26 +11,33 @@ lng: -81.5200
 zipSample: ["44396", "44313", "44398", "44305", "44311"]
 zipCodes: ["44311", "44306", "44328", "44312", "44305", "44307", "44303", "44317", "44325", "44313", "44319", "44314"]
 localPaths: ["Summit County / ZIP 44313 sector", "Summit County / ZIP 44396 sector", "Summit County / ZIP 44305 sector", "Summit County / ZIP 44398 sector", "Summit County / primary ZIP 44306"]
-zillowHomeValueUsd: 89589
 ---
 
 **Engineering Notice for Akron:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Summit County.
 
 
-We coordinate local dispatch coverage around Akron, OH and nearby ZIP sectors.
+FAQ: Is partial dry-in possible? In Akron, OH, yes—if slope and anchor points support safe tie-offs.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Local conditions in Akron, OH can affect timelines and material choices.
+Wood shake courses in Akron, OH require skip-spacing rules at valleys.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Moisture pathway inspection logged near ZIP 44328/44326/44316 intake.
+Risk flag: In Akron, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 44328/44326/44316 zone).
+Code context: Ventilation ratios for Akron, OH attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 44328, 44326, 44316, 44319, 44309 (county grid: Summit County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+roof work brief: ice-barrier lap sequence and synthetic underlayment slip were cross-checked for the Akron intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 44320/44313/44314.
+
+Primary postal anchor 44306 with multi-ZIP overlap in Akron; field packets tag Summit County for county-grid reconciliation.
+
+On-site sector marker: Summit County / ZIP 44311 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44306-5853a987

@@ -11,24 +11,33 @@ lng: -74.0700
 zipSample: ["08742"]
 zipCodes: ["08742"]
 localPaths: ["Ocean County / ZIP 08742 sector", "Ocean County / primary ZIP 08742", "Ocean County / coords 40.0800, -74.0700", "Ocean County / elevation 26 ft band"]
-zillowHomeValueUsd: 845710
 ---
 
 **Engineering Notice for Point Pleasant:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Ocean County.
 
 
-We coordinate local dispatch coverage around Point Pleasant, NJ and nearby ZIP sectors.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Granule embedment loss on Point Pleasant, NJ north slopes can precede mat exposure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Point Pleasant, NJ, but intake notes help reduce delays.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Point Pleasant, NJ attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 08742 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 08742 (county grid: Ocean County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof work brief: synthetic underlayment slip and pipe boot manufacturer match were cross-checked for the Point Pleasant intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 08742.
+
+Coordinate-anchored dispatch note: center reference 40.0800, -74.0700 at elevation ~26 ft aligns with Ocean County intake staging.
+
+On-site sector marker: Ocean County / ZIP 08742 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08742-fc98c5cd

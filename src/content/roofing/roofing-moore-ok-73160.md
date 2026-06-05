@@ -11,26 +11,31 @@ lng: -97.4800
 zipSample: ["73153", "73160"]
 zipCodes: ["73153", "73160"]
 localPaths: ["Cleveland County / elevation 1227 ft band", "Cleveland County / ZIP 73160 sector", "Cleveland County / ZIP 73153 sector", "Cleveland County / coords 35.3300, -97.4800", "Cleveland County / primary ZIP 73160"]
-zillowHomeValueUsd: 223872
 ---
 
 **Engineering Notice for Moore:** Structural loading calculated based on 1227 ft terrain assessment. Regional dispatch grid: Cleveland County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Moore, OK coverage windows and verified intake details.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 73160.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Our Moore, OK dispatch packets reference county grid Cleveland County and elevation band 1227 ft.
 
-A written scope helps prevent rework and mismatched expectations.
+Wood shake courses in Moore, OK require skip-spacing rules at valleys.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is partial dry-in possible? In Moore, OK, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 73153/73160.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Access points and staging constraints recorded for ZIP 73153/73160 coverage.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Dispatch sectors sampled: ZIP 73153, 73160 (county grid: Cleveland County).
+Field routing: ice-barrier lap sequence paired with wind uplift clip spacing near ZIP 73160.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 73153/73160.
+
+Primary postal anchor 73160 with multi-ZIP overlap in Moore; field packets tag Cleveland County for county-grid reconciliation.
+
+On-site sector marker: Cleveland County / coords 35.3300, -97.4800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73160-9e0a4e11

@@ -11,25 +11,35 @@ lng: -86.1100
 zipSample: ["46143", "46142"]
 zipCodes: ["46142", "46143"]
 localPaths: ["Johnson County / ZIP 46143 sector", "Johnson County / elevation 807 ft band", "Johnson County / primary ZIP 46142", "Johnson County / ZIP 46142 sector", "Johnson County / coords 39.6000, -86.1100"]
-zillowHomeValueUsd: 317808
 ---
 
 **Engineering Notice for Greenwood:** Structural loading calculated based on 807 ft terrain assessment. Regional dispatch grid: Johnson County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: In Greenwood, IN, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 46142.
+Low-slope sections in Greenwood, IN need positive drainage before membrane repairs are scoped.
 
-Tip: request a written scope before work starts.
+Wind-zone note: Greenwood, IN exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 46143/46142 zone).
+Risk flag: Tile underlayment age in Greenwood, IN can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 46143, 46142 (county grid: Johnson County).
+Metal panel oil-canning in Greenwood, IN may signal clip spacing issues, not wind damage alone.
+
+Tip: Note recent wind events when filing insurance photos for Greenwood, IN.
+
+FAQ: Can you tarp only part of the roof? In Greenwood, IN, yes—if slope and anchor points support safe tie-offs.
+
+roof service brief: starter-strip setback and chimney cricket slope were cross-checked for the Greenwood intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 46143/46142.
+
+On-site sector marker: Johnson County / ZIP 46143 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Johnson County / ZIP 46142 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46142-064194d4

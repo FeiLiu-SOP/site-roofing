@@ -11,24 +11,31 @@ lng: -83.8000
 zipSample: ["45504", "45503", "45506", "45501", "45505"]
 zipCodes: ["45503", "45506", "45501", "45505", "45504"]
 localPaths: ["Clark County / ZIP 45505 sector", "Clark County / coords 39.9300, -83.8000", "Clark County / ZIP 45501 sector", "Clark County / ZIP 45503 sector", "Clark County / elevation 925 ft band"]
-zillowHomeValueUsd: 192808
 ---
 
 **Engineering Notice for Springfield:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Springfield, OH can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can you tarp only part of the roof? In Springfield, OH, yes—if slope and anchor points support safe tie-offs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Moisture pathway inspection logged near ZIP 45506/45501/45505 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 45506, 45501, 45505, 45504, 45503 (county grid: Clark County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Valley metal in Springfield, OH should be reviewed whenever granule loss tracks the water line.
+
+roof work brief: counter-flashing reglet depth and ice-barrier lap sequence were cross-checked for the Springfield intake packet.
+
+ZIP-corridor snapshot for Springfield, OH: sampled sectors include 45505, 45503, 45506, 45501, 45504; county routing grid remains Clark County.
+
+On-site sector marker: Clark County / ZIP 45503 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45503-4a2b2434

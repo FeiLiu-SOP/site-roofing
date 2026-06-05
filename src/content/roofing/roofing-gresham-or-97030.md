@@ -11,25 +11,29 @@ lng: -122.4400
 zipSample: ["97230", "97233", "97080", "97030"]
 zipCodes: ["97233", "97030", "97080", "97230"]
 localPaths: ["Multnomah County / coords 45.5000, -122.4400", "Multnomah County / ZIP 97230 sector", "Multnomah County / ZIP 97030 sector", "Multnomah County / primary ZIP 97030", "Multnomah County / ZIP 97080 sector"]
-zillowHomeValueUsd: 439096
 ---
 
 **Engineering Notice for Gresham:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Multnomah County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 97030.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Gresham, OR coverage windows and verified intake details.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: request a written scope before work starts.
+Across Gresham, OR, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Regulatory note: Gresham, OR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 97230/97233/97080 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 97230, 97233, 97080, 97030 (county grid: Multnomah County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+roof service brief: attic baffle spacing and starter-strip setback were cross-checked for the Gresham intake packet.
+
+On-site sector marker: Multnomah County / elevation 381 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Gresham, OR: sampled sectors include 97080, 97230, 97233, 97030; county routing grid remains Multnomah County.
 
 Service reference: OR-97030-2c7335f0

@@ -11,26 +11,33 @@ lng: -120.0100
 zipSample: ["98944"]
 zipCodes: ["98944"]
 localPaths: ["Yakima County / primary ZIP 98944", "Yakima County / coords 46.3200, -120.0100", "Yakima County / ZIP 98944 sector", "Yakima County / elevation 732 ft band"]
-zillowHomeValueUsd: 323244
 ---
 
 **Engineering Notice for Sunnyside:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Yakima County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Sunnyside, WA coverage windows and verified intake details.
+We coordinate Sunnyside, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sunnyside, WA, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When should permanent remediation start? In Sunnyside, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 98944.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Connection points spot-checked where accessible (ZIP 98944 zone).
+Synthetic underlayment slip in Sunnyside, WA is often tied to deck moisture, not wind alone.
 
-Dispatch sectors sampled: ZIP 98944 (county grid: Yakima County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof work brief: ridge cap nail schedule and chimney cricket slope were cross-checked for the Sunnyside intake packet.
+
+On-site sector marker: Yakima County / coords 46.3200, -120.0100 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Sunnyside, WA: sampled sectors include 98944; county routing grid remains Yakima County.
 
 Service reference: WA-98944-69bc1c98

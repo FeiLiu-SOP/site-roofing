@@ -11,26 +11,35 @@ lng: -96.3000
 zipSample: ["77845", "77842", "77840", "77841", "77843"]
 zipCodes: ["77840", "77845", "77844", "77881", "77842", "77841", "77843"]
 localPaths: ["Brazos County / ZIP 77840 sector", "Brazos County / elevation 302 ft band", "Brazos County / ZIP 77843 sector", "Brazos County / ZIP 77841 sector", "Brazos County / ZIP 77842 sector"]
-zillowHomeValueUsd: 366362
 ---
 
 **Engineering Notice for College Station:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Brazos County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Structured milestones protect both sides when scheduling work.
+Across College Station, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in College Station, TX can fail independently of visible tile cracks.
 
-Our service coordination centers on College Station, TX coverage windows and verified intake details.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 77842/77841/77844 zone).
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Moisture pathway inspection logged near ZIP 77842/77841/77844 intake.
+Material note: In College Station, TX, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 77842, 77841, 77844, 77840, 77845 (county grid: Brazos County).
+Low-slope sections in College Station, TX need positive drainage before membrane repairs are scoped.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Scope trace: ice-barrier lap sequence plus soffit intake free area referenced in Brazos County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 77843/77845/77881.
+
+On-site sector marker: Brazos County / ZIP 77844 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Brazos County / ZIP 77842 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77843-3cb8f79e

@@ -11,25 +11,33 @@ lng: -119.4000
 zipSample: ["93618"]
 zipCodes: ["93618"]
 localPaths: ["Tulare County / ZIP 93618 sector", "Tulare County / primary ZIP 93618", "Tulare County / coords 36.5500, -119.4000", "Tulare County / elevation 338 ft band"]
-zillowHomeValueUsd: 357664
 ---
 
 **Engineering Notice for Dinuba:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Tulare County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 93618.
+We coordinate Dinuba, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 93618.
 
-Tip: confirm licensing and insurance before approving work.
+Granule embedment loss on Dinuba, CA north slopes can precede mat exposure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 93618 coverage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 93618 (county grid: Tulare County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roof service brief: counter-flashing reglet depth and ice-barrier lap sequence were cross-checked for the Dinuba intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 93618.
+
+Primary postal anchor 93618 with multi-ZIP overlap in Dinuba; field packets tag Tulare County for county-grid reconciliation.
+
+Regional mesh label Tulare County: moisture and logistics baselines are keyed to Dinuba, CA before niche-specific work begins.
 
 Service reference: CA-93618-7dcedffd

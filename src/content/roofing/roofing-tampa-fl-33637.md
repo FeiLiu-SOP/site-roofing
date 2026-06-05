@@ -11,26 +11,31 @@ lng: -82.4400
 zipSample: ["33623", "33650", "33677", "33646", "33620"]
 zipCodes: ["33611", "33619", "33673", "33637", "33621", "33606", "33616", "33677", "33650", "33608", "33630", "33684"]
 localPaths: ["Hillsborough County / elevation 75 ft band", "Hillsborough County / ZIP 33623 sector", "Hillsborough County / ZIP 33650 sector", "Hillsborough County / coords 27.9900, -82.4400", "Hillsborough County / primary ZIP 33637"]
-zillowHomeValueUsd: 295110
 ---
 
 **Engineering Notice for Tampa:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-A written scope helps prevent rework and mismatched expectations.
+Freeze-thaw cycles around Tampa, FL stress nail pops along eaves and rake edges.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Tampa, FL, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33605/33603/33686.
+Wind-zone note: Tampa, FL exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 33605/33603/33686 intake.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 33605, 33603, 33686, 33631, 33679 (county grid: Hillsborough County).
+roof work brief: valley metal gauge and shingle exposure calibration were cross-checked for the Tampa intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 33674/33605/33672.
+
+Coordinate-anchored dispatch note: center reference 27.9900, -82.4400 at elevation ~75 ft aligns with Hillsborough County intake staging.
+
+On-site sector marker: Hillsborough County / ZIP 33655 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33637-540bf727

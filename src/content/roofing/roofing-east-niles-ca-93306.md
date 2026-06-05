@@ -11,26 +11,29 @@ lng: -118.9200
 zipSample: ["93307", "93306"]
 zipCodes: ["93306", "93307"]
 localPaths: ["Kern County / coords 35.3700, -118.9200", "Kern County / primary ZIP 93306", "Kern County / elevation 479 ft band", "Kern County / ZIP 93307 sector", "Kern County / ZIP 93306 sector"]
-zillowHomeValueUsd: 348706
 ---
 
 **Engineering Notice for East Niles:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Kern County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+TPO seam welds in East Niles, CA commercial sections need probe tests after freeze events.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in East Niles, CA, but intake notes help reduce delays.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 93307/93306 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Connection points spot-checked where accessible (ZIP 93307/93306 zone).
+Risk flag: Tile underlayment age in East Niles, CA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 93307, 93306 (county grid: Kern County).
+Field routing: wind uplift clip spacing paired with shingle exposure calibration near ZIP 93306.
+
+Regional mesh label Kern County: moisture and logistics baselines are keyed to East Niles, CA before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 35.3700, -118.9200 at elevation ~479 ft aligns with Kern County intake staging.
 
 Service reference: CA-93306-22a74d7e

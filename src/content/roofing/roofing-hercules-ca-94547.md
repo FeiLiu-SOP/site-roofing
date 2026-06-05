@@ -11,24 +11,31 @@ lng: -122.2600
 zipSample: ["94572", "94547"]
 zipCodes: ["94547", "94572"]
 localPaths: ["Contra Costa County / ZIP 94547 sector", "Contra Costa County / elevation 154 ft band", "Contra Costa County / coords 38.0100, -122.2600", "Contra Costa County / primary ZIP 94547", "Contra Costa County / ZIP 94572 sector"]
-zillowHomeValueUsd: 754550
 ---
 
 **Engineering Notice for Hercules:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Coastal humidity in Hercules, CA can slow shingle seal-down after shoulder-season storms.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hercules, CA, but intake notes help reduce delays.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Hercules, CA coverage windows and verified intake details.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 94547/94572 zone).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 94547, 94572 (county grid: Contra Costa County).
+Wind-zone note: Hercules, CA exposure class can change starter-strip and cap nail schedules.
+
+FAQ: Can you tarp only part of the roof? In Hercules, CA, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: attic baffle spacing paired with deck sheathing thickness near ZIP 94547.
+
+On-site sector marker: Contra Costa County / coords 38.0100, -122.2600 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Hercules, CA: sampled sectors include 94547, 94572; county routing grid remains Contra Costa County.
 
 Service reference: CA-94547-d56aff94

@@ -11,25 +11,29 @@ lng: -120.9900
 zipSample: ["95672", "95682"]
 zipCodes: ["95672", "95682"]
 localPaths: ["El Dorado County / ZIP 95682 sector", "El Dorado County / primary ZIP 95672", "El Dorado County / ZIP 95672 sector", "El Dorado County / coords 38.6700, -120.9900", "El Dorado County / elevation 1217 ft band"]
-zillowHomeValueUsd: 827398
 ---
 
 **Engineering Notice for Cameron Park:** Structural loading calculated based on 1217 ft terrain assessment. Regional dispatch grid: El Dorado County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cameron Park, CA, but intake notes help reduce delays.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-We coordinate local dispatch coverage around Cameron Park, CA and nearby ZIP sectors.
+Freeze-thaw cycles around Cameron Park, CA stress nail pops along eaves and rake edges.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 95672.
+Code context: Ventilation ratios for Cameron Park, CA attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 95672/95682.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 95672, 95682 (county grid: El Dorado County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: ice-barrier lap sequence plus deck sheathing thickness referenced in El Dorado County county grid review.
+
+Primary postal anchor 95672 with multi-ZIP overlap in Cameron Park; field packets tag El Dorado County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Cameron Park, CA: sampled sectors include 95682, 95672; county routing grid remains El Dorado County.
 
 Service reference: CA-95672-a79a2234

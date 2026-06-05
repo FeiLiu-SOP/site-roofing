@@ -11,24 +11,35 @@ lng: -74.9900
 zipSample: ["08021"]
 zipCodes: ["08021"]
 localPaths: ["Camden County / ZIP 08021 sector", "Camden County / coords 39.8200, -74.9900", "Camden County / primary ZIP 08021", "Camden County / elevation 75 ft band"]
-zillowHomeValueUsd: 285559
 ---
 
 **Engineering Notice for Lindenwold:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Camden County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 08021.
 
-Local conditions in Lindenwold, NJ can affect timelines and material choices.
+Risk flag: In Lindenwold, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Lindenwold, NJ exposure class can change starter-strip and cap nail schedules.
 
-Field note: Access points and staging constraints recorded for ZIP 08021 coverage.
+Step: compare shingle manufacturer wind-zone ratings for Lindenwold, NJ exposure class.
 
-Dispatch sectors sampled: ZIP 08021 (county grid: Camden County).
+Valley metal in Lindenwold, NJ should be reviewed whenever granule loss tracks the water line.
+
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: shingle exposure calibration plus valley metal gauge referenced in Camden County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 08021.
+
+On-site sector marker: Camden County / primary ZIP 08021 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Camden County / elevation 75 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08021-18379cbf

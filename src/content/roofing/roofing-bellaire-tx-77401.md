@@ -11,24 +11,31 @@ lng: -95.4600
 zipSample: ["77401", "77402"]
 zipCodes: ["77402", "77401"]
 localPaths: ["Harris County / ZIP 77401 sector", "Harris County / primary ZIP 77401", "Harris County / elevation 72 ft band", "Harris County / ZIP 77402 sector", "Harris County / coords 29.7000, -95.4600"]
-zillowHomeValueUsd: 1162691
 ---
 
 **Engineering Notice for Bellaire:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Harris County.
 
 
-We coordinate local dispatch coverage around Bellaire, TX and nearby ZIP sectors.
+FAQ: How long can shingles wait after storm damage? In Bellaire, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Local conditions in Bellaire, TX can affect timelines and material choices.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77401/77402.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 77401, 77402 (county grid: Harris County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+TPO seam welds in Bellaire, TX commercial sections need probe tests after freeze events.
+
+roof service brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Bellaire intake packet.
+
+Coordinate-anchored dispatch note: center reference 29.7000, -95.4600 at elevation ~72 ft aligns with Harris County intake staging.
+
+Primary postal anchor 77401 with multi-ZIP overlap in Bellaire; field packets tag Harris County for county-grid reconciliation.
 
 Service reference: TX-77401-8b0fa384

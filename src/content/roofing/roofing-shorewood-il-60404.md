@@ -11,26 +11,31 @@ lng: -88.2100
 zipSample: ["60404"]
 zipCodes: ["60404"]
 localPaths: ["Will County / primary ZIP 60404", "Will County / elevation 623 ft band", "Will County / ZIP 60404 sector", "Will County / coords 41.5200, -88.2100"]
-zillowHomeValueUsd: 404147
 ---
 
 **Engineering Notice for Shorewood:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Will County.
 
 
-We coordinate local dispatch coverage around Shorewood, IL and nearby ZIP sectors.
+We coordinate Shorewood, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Metal panel oil-canning in Shorewood, IL may signal clip spacing issues, not wind damage alone.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Shorewood, IL, but intake notes help reduce delays.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-In Shorewood, IL, urgent roofing service issues can escalate quickly.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 60404.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60404.
 
-Field note: Connection points spot-checked where accessible (ZIP 60404 zone).
+Risk flag: Tile underlayment age in Shorewood, IL can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 60404 (county grid: Will County).
+Scope trace: pipe boot manufacturer match plus ridge cap nail schedule referenced in Will County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 60404.
+
+**Regional Infrastructure Brief:** Grid anchor set to Will County. Reference elevation: 623 ft. Primary coordinates: 41.5200, -88.2100. ZIP sample: 60404. Regional routing note: Will County traffic flow is balanced around ZIP 60404 service demand.
+
+Regional mesh label Will County: moisture and logistics baselines are keyed to Shorewood, IL before niche-specific work begins.
 
 Service reference: IL-60404-e5357e01

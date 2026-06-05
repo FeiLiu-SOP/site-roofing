@@ -11,25 +11,31 @@ lng: -118.6300
 zipSample: ["91384", "91310"]
 zipCodes: ["91384", "91310"]
 localPaths: ["Los Angeles County / elevation 1699 ft band", "Los Angeles County / coords 34.4800, -118.6300", "Los Angeles County / ZIP 91384 sector", "Los Angeles County / primary ZIP 91384", "Los Angeles County / ZIP 91310 sector"]
-zillowHomeValueUsd: 805407
 ---
 
 **Engineering Notice for Castaic:** Structural loading calculated based on 1699 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 91384.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Freeze-thaw cycles around Castaic, CA stress nail pops along eaves and rake edges.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around Castaic, CA and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 91384/91310 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 91384, 91310 (county grid: Los Angeles County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+roofing service brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Castaic intake packet.
+
+On-site sector marker: Los Angeles County / ZIP 91310 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / coords 34.4800, -118.6300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91384-1e272643

@@ -11,27 +11,33 @@ lng: -95.1200
 zipSample: ["77571", "77536"]
 zipCodes: ["77571", "77536"]
 localPaths: ["Harris County / elevation 39 ft band", "Harris County / ZIP 77571 sector", "Harris County / ZIP 77536 sector", "Harris County / coords 29.6900, -95.1200", "Harris County / primary ZIP 77571"]
-zillowHomeValueUsd: 257135
 ---
 
 **Engineering Notice for Deer Park:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Harris County.
 
 
-In Deer Park, TX, seasonal demand can change scheduling windows.
+We coordinate Deer Park, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 77571.
+Code context: Ventilation ratios for Deer Park, TX attics should be checked against current mechanical exhaust additions.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Our service coordination centers on Deer Park, TX coverage windows and verified intake details.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: request a written scope before work starts.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77571/77536.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 77571/77536 coverage.
+FAQ: Can you tarp only part of the roof? In Deer Park, TX, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 77571, 77536 (county grid: Harris County).
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Metal panel oil-canning in Deer Park, TX may signal clip spacing issues, not wind damage alone.
+
+roof service brief: ice-barrier lap sequence and pipe boot manufacturer match were cross-checked for the Deer Park intake packet.
+
+Primary postal anchor 77571 with multi-ZIP overlap in Deer Park; field packets tag Harris County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 29.6900, -95.1200 at elevation ~39 ft aligns with Harris County intake staging.
 
 Service reference: TX-77571-0569e657

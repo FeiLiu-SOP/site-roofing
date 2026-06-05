@@ -11,25 +11,31 @@ lng: -82.0200
 zipSample: ["44039"]
 zipCodes: ["44039"]
 localPaths: ["Lorain County / elevation 728 ft band", "Lorain County / ZIP 44039 sector", "Lorain County / coords 41.3900, -82.0200", "Lorain County / primary ZIP 44039"]
-zillowHomeValueUsd: 324748
 ---
 
 **Engineering Notice for North Ridgeville:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Lorain County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 44039.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Our service coordination centers on North Ridgeville, OH coverage windows and verified intake details.
+Step: log deck soundings near vents before tear-off is approved.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Ridgeville, OH, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 44039 intake.
+Risk flag: In North Ridgeville, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 44039 (county grid: Lorain County).
+Tile and shingle mixes in North Ridgeville, OH require different fastener patterns at transitions.
+
+Field routing: deck sheathing thickness paired with counter-flashing reglet depth near ZIP 44039.
+
+Field note: Valley debris and granule loss noted for ZIP 44039.
+
+On-site sector marker: Lorain County / coords 41.3900, -82.0200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lorain County / ZIP 44039 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44039-74c3ddda

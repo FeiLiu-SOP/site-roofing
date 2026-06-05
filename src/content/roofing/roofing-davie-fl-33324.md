@@ -11,24 +11,35 @@ lng: -80.2900
 zipSample: ["33330", "33325", "33314", "33324", "33328"]
 zipCodes: ["33328", "33330", "33324", "33331", "33355", "33325", "33314"]
 localPaths: ["Broward County / primary ZIP 33324", "Broward County / ZIP 33324 sector", "Broward County / ZIP 33325 sector", "Broward County / ZIP 33314 sector", "Broward County / ZIP 33328 sector"]
-zillowHomeValueUsd: 359213
 ---
 
 **Engineering Notice for Davie:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.
 
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Is partial dry-in possible? In Davie, FL, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: avoid large upfront payments without milestones.
+Code context: Ventilation ratios for Davie, FL attics should be checked against current mechanical exhaust additions.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Davie, FL can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 33328/33330/33314 intake.
+Low-slope sections in Davie, FL need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 33328, 33330, 33314, 33325, 33331 (county grid: Broward County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+In Davie, FL, wind-driven rain can lift shingle tabs before owners notice deck staining.
+
+Scope trace: counter-flashing reglet depth plus skylight curb height referenced in Broward County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 33324/33314/33331.
+
+On-site sector marker: Broward County / ZIP 33355 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 33324 with multi-ZIP overlap in Davie; field packets tag Broward County for county-grid reconciliation.
 
 Service reference: FL-33324-d89f99d5

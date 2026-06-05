@@ -11,25 +11,35 @@ lng: -84.3600
 zipSample: ["30297", "30298", "30294"]
 zipCodes: ["30294", "30297", "30298"]
 localPaths: ["Clayton County / elevation 1004 ft band", "Clayton County / primary ZIP 30297", "Clayton County / ZIP 30297 sector", "Clayton County / ZIP 30298 sector", "Clayton County / ZIP 30294 sector"]
-zillowHomeValueUsd: 164955
 ---
 
 **Engineering Notice for Forest Park:** Structural loading calculated based on 1004 ft terrain assessment. Regional dispatch grid: Clayton County.
 
 
-In Forest Park, GA, urgent roof work issues can escalate quickly.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 30297.
+Risk flag: Tile underlayment age in Forest Park, GA can fail independently of visible tile cracks.
 
-Our service coordination centers on Forest Park, GA coverage windows and verified intake details.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should permanent service start? In Forest Park, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Access points and staging constraints recorded for ZIP 30294/30298/30297 coverage.
+Coastal humidity in Forest Park, GA can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 30294, 30298, 30297 (county grid: Clayton County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: wind uplift clip spacing plus skylight curb height referenced in Clayton County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 30298/30294/30297.
+
+Coordinate-anchored dispatch note: center reference 33.6200, -84.3600 at elevation ~1004 ft aligns with Clayton County intake staging.
+
+**Regional Infrastructure Brief:** Grid anchor set to Clayton County. Reference elevation: 1004 ft. Primary coordinates: 33.6200, -84.3600. ZIP sample: 30294, 30297, 30298. Logistics priority: Serving residential sectors across Clayton County and north-east ZIP 30297 grid.
 
 Service reference: GA-30297-8bcad65b

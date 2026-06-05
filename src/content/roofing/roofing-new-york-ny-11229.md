@@ -11,25 +11,29 @@ lng: -73.9200
 zipSample: ["10032", "10268", "10155", "10116", "11418"]
 zipCodes: ["10163", "10109", "10055", "10130", "11230", "10040", "11202", "11374", "11693", "10271", "11413", "10270"]
 localPaths: ["Queens County / ZIP 10268 sector", "Queens County / primary ZIP 11229", "Queens County / ZIP 11418 sector", "Queens County / ZIP 10116 sector", "Queens County / elevation 66 ft band"]
-zillowHomeValueUsd: 767705
 ---
 
 **Engineering Notice for New York:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Queens County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Our New York, NY dispatch packets reference county grid Queens County and elevation band 66 ft.
 
-Homeowners in New York, NY often face sudden roof work problems that require fast action.
+Risk flag: In New York, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 11229.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Regulatory note: New York, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11371/11201/10465.
+Parapet coping movement in New York, NY can channel water behind wall cladding.
 
-Dispatch sectors sampled: ZIP 11371, 11201, 10465, 10133, 10107 (county grid: Queens County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Scope trace: counter-flashing reglet depth plus synthetic underlayment slip referenced in Queens County county grid review.
+
+Coordinate-anchored dispatch note: center reference 40.6900, -73.9200 at elevation ~66 ft aligns with Queens County intake staging.
+
+On-site sector marker: Queens County / ZIP 11237 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11229-9c4db6b1

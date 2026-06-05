@@ -11,27 +11,35 @@ lng: -73.6800
 zipSample: ["11010"]
 zipCodes: ["11010"]
 localPaths: ["Nassau County / primary ZIP 11010", "Nassau County / ZIP 11010 sector", "Nassau County / elevation 59 ft band", "Nassau County / coords 40.7000, -73.6800"]
-zillowHomeValueUsd: 810363
 ---
 
 **Engineering Notice for Franklin Square:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-Our service coordination centers on Franklin Square, NY coverage windows and verified intake details.
+Code context: Ventilation ratios for Franklin Square, NY attics should be checked against current mechanical exhaust additions.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tile and shingle mixes in Franklin Square, NY require different fastener patterns at transitions.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 11010.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Franklin Square, NY, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: request a written scope before work starts.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Access points and staging constraints recorded for ZIP 11010 coverage.
+Hail bruising on Franklin Square, NY ridges may not breach felt until the next wind event.
 
-Field note: Moisture pathway inspection logged near ZIP 11010 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 11010 (county grid: Nassau County).
+FAQ: Is partial dry-in possible? In Franklin Square, NY, yes—if slope and anchor points support safe tie-offs.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: drip-edge metal profile paired with shingle exposure calibration near ZIP 11010.
+
+Field note: Valley debris and granule loss noted for ZIP 11010.
+
+Coordinate-anchored dispatch note: center reference 40.7000, -73.6800 at elevation ~59 ft aligns with Nassau County intake staging.
+
+On-site sector marker: Nassau County / ZIP 11010 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11010-b115ae52

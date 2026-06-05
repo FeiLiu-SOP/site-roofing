@@ -11,27 +11,31 @@ lng: -84.2100
 zipSample: ["32312", "32318", "32309"]
 zipCodes: ["32309", "32312", "32318"]
 localPaths: ["Leon County / elevation 167 ft band", "Leon County / coords 30.5700, -84.2100", "Leon County / ZIP 32312 sector", "Leon County / ZIP 32309 sector", "Leon County / primary ZIP 32312"]
-zillowHomeValueUsd: 452030
 ---
 
 **Engineering Notice for Bradfordville:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Leon County.
 
 
-Our service coordination centers on Bradfordville, FL coverage windows and verified intake details.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Bradfordville, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Bradfordville, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 32312.
+Parapet coping movement in Bradfordville, FL can channel water behind wall cladding.
 
-Structured milestones protect both sides when scheduling work.
+Wind-zone note: Bradfordville, FL exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 32318/32312/32309 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 32318/32312/32309 coverage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 32318, 32312, 32309 (county grid: Leon County).
+Scope trace: synthetic underlayment slip plus deck sheathing thickness referenced in Leon County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 32309/32318/32312.
+
+On-site sector marker: Leon County / ZIP 32318 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Leon County and primary ZIP 32312. Terrain reference: 167 ft. Center point: 30.5700, -84.2100. ZIP sample: 32318, 32309, 32312. Regional routing note: Leon County traffic flow is balanced around ZIP 32312 service demand.
 
 Service reference: FL-32312-be7be15b

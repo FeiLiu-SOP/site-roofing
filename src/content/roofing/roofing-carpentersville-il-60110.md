@@ -11,27 +11,33 @@ lng: -88.2900
 zipSample: ["60110"]
 zipCodes: ["60110"]
 localPaths: ["Kane County / coords 42.1200, -88.2900", "Kane County / elevation 722 ft band", "Kane County / ZIP 60110 sector", "Kane County / primary ZIP 60110"]
-zillowHomeValueUsd: 284250
 ---
 
 **Engineering Notice for Carpentersville:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Kane County.
 
 
-Tip: request a written scope before work starts.
+Tip: Note recent wind events when filing insurance photos for Carpentersville, IL.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can you tarp only part of the roof? In Carpentersville, IL, yes—if slope and anchor points support safe tie-offs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 60110.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Carpentersville, IL attics should be checked against current mechanical exhaust additions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Carpentersville, IL, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 60110 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60110.
+Material note: In Carpentersville, IL, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 60110 (county grid: Kane County).
+Granule embedment loss on Carpentersville, IL north slopes can precede mat exposure.
+
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Scope trace: deck sheathing thickness plus chimney cricket slope referenced in Kane County county grid review.
+
+Coordinate-anchored dispatch note: center reference 42.1200, -88.2900 at elevation ~722 ft aligns with Kane County intake staging.
+
+Regional mesh label Kane County: moisture and logistics baselines are keyed to Carpentersville, IL before niche-specific work begins.
 
 Service reference: IL-60110-850a3838

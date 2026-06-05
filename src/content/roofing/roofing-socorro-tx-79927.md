@@ -11,24 +11,33 @@ lng: -106.2600
 zipSample: ["79927"]
 zipCodes: ["79927"]
 localPaths: ["El Paso County / ZIP 79927 sector", "El Paso County / primary ZIP 79927", "El Paso County / coords 31.6400, -106.2600", "El Paso County / elevation 3632 ft band"]
-zillowHomeValueUsd: 204004
 ---
 
 **Engineering Notice for Socorro:** Structural loading calculated based on 3632 ft terrain assessment. Regional dispatch grid: El Paso County.
 
 
-Tip: request a written scope before work starts.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: stage tear-off debris paths away from landscape drains.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+TPO seam welds in Socorro, TX commercial sections need probe tests after freeze events.
 
-We coordinate local dispatch coverage around Socorro, TX and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Access points and staging constraints recorded for ZIP 79927 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 79927 (county grid: El Paso County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Valley metal in Socorro, TX should be reviewed whenever granule loss tracks the water line.
+
+roofing service brief: ice-barrier lap sequence and shingle exposure calibration were cross-checked for the Socorro intake packet.
+
+Regional mesh label El Paso County: moisture and logistics baselines are keyed to Socorro, TX before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~3632 ft across the El Paso County area. Coordinates: 31.6400, -106.2600. ZIP sample: 79927. Logistics priority: Serving residential sectors across El Paso County and north-east ZIP 79927 grid.
 
 Service reference: TX-79927-a7a2285a

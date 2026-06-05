@@ -11,25 +11,33 @@ lng: -86.6000
 zipSample: ["37077", "37075"]
 zipCodes: ["37075", "37077"]
 localPaths: ["Sumner County / coords 36.3100, -86.6000", "Sumner County / ZIP 37075 sector", "Sumner County / primary ZIP 37075", "Sumner County / ZIP 37077 sector", "Sumner County / elevation 502 ft band"]
-zillowHomeValueUsd: 515378
 ---
 
 **Engineering Notice for Hendersonville:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Sumner County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Our Hendersonville, TN dispatch packets reference county grid Sumner County and elevation band 502 ft.
 
-Tip: confirm licensing and insurance before approving work.
+Schedule a roof inspection with written scope before permanent remediation. Serving ZIP Code: 37075.
 
-Tip: compare at least two estimates for scope and timeline.
+Tile and shingle mixes in Hendersonville, TN require different fastener patterns at transitions.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 37075.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 37075/37077 zone).
+Regulatory note: Hendersonville, TN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 37075, 37077 (county grid: Sumner County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+roof work brief: valley metal gauge and ridge cap nail schedule were cross-checked for the Hendersonville intake packet.
+
+On-site sector marker: Sumner County / primary ZIP 37075 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Sumner County / ZIP 37075 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37075-bd9c492b

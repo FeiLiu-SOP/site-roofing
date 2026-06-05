@@ -11,24 +11,33 @@ lng: -120.8400
 zipSample: ["93635"]
 zipCodes: ["93635"]
 localPaths: ["Merced County / primary ZIP 93635", "Merced County / ZIP 93635 sector", "Merced County / elevation 118 ft band", "Merced County / coords 37.0600, -120.8400"]
-zillowHomeValueUsd: 462280
 ---
 
 **Engineering Notice for Los Banos:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Merced County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Our service coordination centers on Los Banos, CA coverage windows and verified intake details.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 93635.
+Tile and shingle mixes in Los Banos, CA require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 93635 (county grid: Merced County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Material note: In Los Banos, CA, algae-resistant granules may be specified for north-facing slopes.
+
+Scope trace: synthetic underlayment slip plus valley metal gauge referenced in Merced County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 93635.
+
+Primary postal anchor 93635 with multi-ZIP overlap in Los Banos; field packets tag Merced County for county-grid reconciliation.
+
+On-site sector marker: Merced County / coords 37.0600, -120.8400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93635-7681db95

@@ -11,25 +11,31 @@ lng: -111.9100
 zipSample: ["84025"]
 zipCodes: ["84025"]
 localPaths: ["Davis County / primary ZIP 84025", "Davis County / ZIP 84025 sector", "Davis County / coords 40.9800, -111.9100", "Davis County / elevation 4249 ft band"]
-zillowHomeValueUsd: 692180
 ---
 
 **Engineering Notice for Farmington:** Structural loading calculated based on 4249 ft terrain assessment. Regional dispatch grid: Davis County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Synthetic underlayment slip in Farmington, UT is often tied to deck moisture, not wind alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When should permanent service start? In Farmington, UT, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 84025.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Access points and staging constraints recorded for ZIP 84025 coverage.
+Regulatory note: Farmington, UT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 84025 (county grid: Davis County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Step: map ventilation intake and exhaust pairs for Farmington, UT attic runs.
+
+Field routing: ice-barrier lap sequence paired with starter-strip setback near ZIP 84025.
+
+Coordinate-anchored dispatch note: center reference 40.9800, -111.9100 at elevation ~4249 ft aligns with Davis County intake staging.
+
+On-site sector marker: Davis County / ZIP 84025 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84025-da1e92d1

@@ -11,24 +11,33 @@ lng: -83.0300
 zipSample: ["48312", "48311", "48314", "48310", "48313"]
 zipCodes: ["48313", "48312", "48314", "48311", "48310"]
 localPaths: ["Macomb County / ZIP 48312 sector", "Macomb County / primary ZIP 48310", "Macomb County / ZIP 48313 sector", "Macomb County / ZIP 48314 sector", "Macomb County / coords 42.5800, -83.0300"]
-zillowHomeValueUsd: 317612
 ---
 
 **Engineering Notice for Sterling Heights:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: Macomb County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Sterling Heights, MI attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Skylight curb flashing in Sterling Heights, MI should be sequenced before ridge cap replacement.
 
-We coordinate local dispatch coverage around Sterling Heights, MI and nearby ZIP sectors.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Sterling Heights, MI, but intake notes help reduce delays.
+Wind-zone note: Sterling Heights, MI exposure class can change starter-strip and cap nail schedules.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 48311/48312/48314 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 48311, 48312, 48314, 48310, 48313 (county grid: Macomb County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 48310.
+
+Step: map ventilation intake and exhaust pairs for Sterling Heights, MI attic runs.
+
+Our Sterling Heights, MI dispatch packets reference county grid Macomb County and elevation band 620 ft.
+
+Scope trace: skylight curb height plus starter-strip setback referenced in Macomb County county grid review.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~620 ft across the Macomb County area. Coordinates: 42.5800, -83.0300. ZIP sample: 48311, 48310, 48314, 48313, 48312. Regional routing note: Macomb County traffic flow is balanced around ZIP 48310 service demand.
+
+On-site sector marker: Macomb County / coords 42.5800, -83.0300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48310-2357a32d

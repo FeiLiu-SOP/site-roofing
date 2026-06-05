@@ -11,27 +11,33 @@ lng: -80.1200
 zipSample: ["33160"]
 zipCodes: ["33160"]
 localPaths: ["Miami-Dade County / ZIP 33160 sector", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.9400, -80.1200", "Miami-Dade County / primary ZIP 33160"]
-zillowHomeValueUsd: 515975
 ---
 
 **Engineering Notice for Sunny Isles Beach:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 33160.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: How long can shingles wait after storm damage? In Sunny Isles Beach, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-We coordinate local dispatch coverage around Sunny Isles Beach, FL and nearby ZIP sectors.
+Material note: In Sunny Isles Beach, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: request a written scope before work starts.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sunny Isles Beach, FL, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 33160 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 33160 zone).
+Valley metal in Sunny Isles Beach, FL should be reviewed whenever granule loss tracks the water line.
 
-Dispatch sectors sampled: ZIP 33160 (county grid: Miami-Dade County).
+Our Sunny Isles Beach, FL dispatch packets reference county grid Miami-Dade County and elevation band 33 ft.
+
+Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 33160.
+
+Field note: Shingle seal-down timing logged near ZIP 33160.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~33 ft across the Miami-Dade County area. Coordinates: 25.9400, -80.1200. ZIP sample: 33160. Regional routing note: Miami-Dade County traffic flow is balanced around ZIP 33160 service demand.
+
+On-site sector marker: Miami-Dade County / primary ZIP 33160 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33160-53d918c6

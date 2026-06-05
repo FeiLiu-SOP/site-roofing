@@ -11,24 +11,29 @@ lng: -122.2800
 zipSample: ["98087", "98037"]
 zipCodes: ["98087", "98037"]
 localPaths: ["Snohomish County / ZIP 98087 sector", "Snohomish County / coords 47.8500, -122.2800", "Snohomish County / primary ZIP 98087", "Snohomish County / ZIP 98037 sector", "Snohomish County / elevation 558 ft band"]
-zillowHomeValueUsd: 751085
 ---
 
 **Engineering Notice for North Lynnwood:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in North Lynnwood, WA can fail independently of visible tile cracks.
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In North Lynnwood, WA, yes—if slope and anchor points support safe tie-offs.
 
-We coordinate local dispatch coverage around North Lynnwood, WA and nearby ZIP sectors.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Clear documentation helps align materials, labor, and timeline.
+Valley metal in North Lynnwood, WA should be reviewed whenever granule loss tracks the water line.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98037/98087.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Dispatch sectors sampled: ZIP 98037, 98087 (county grid: Snohomish County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roof service brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the North Lynnwood intake packet.
+
+On-site sector marker: Snohomish County / primary ZIP 98087 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Snohomish County / coords 47.8500, -122.2800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98087-58684dc9

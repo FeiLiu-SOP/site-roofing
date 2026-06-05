@@ -11,27 +11,35 @@ lng: -93.4400
 zipSample: ["65802", "65619", "65738"]
 zipCodes: ["65619", "65738", "65802"]
 localPaths: ["Greene County / ZIP 65619 sector", "Greene County / primary ZIP 65738", "Greene County / coords 37.1500, -93.4400", "Greene County / elevation 1273 ft band", "Greene County / ZIP 65802 sector"]
-zillowHomeValueUsd: 266738
 ---
 
 **Engineering Notice for Republic:** Structural loading calculated based on 1273 ft terrain assessment. Regional dispatch grid: Greene County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Tile underlayment age in Republic, MO can fail independently of visible tile cracks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+TPO seam welds in Republic, MO commercial sections need probe tests after freeze events.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 65738.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Republic, MO, delayed dry-in can expand insulation and ceiling repairs.
 
-We coordinate local dispatch coverage around Republic, MO and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for Republic, MO.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 65738/65619/65802.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Access points and staging constraints recorded for ZIP 65738/65619/65802 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 65738, 65619, 65802 (county grid: Greene County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+FAQ: Is partial dry-in possible? In Republic, MO, yes—if slope and anchor points support safe tie-offs.
+
+roofing service brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Republic intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 65738/65802/65619.
+
+On-site sector marker: Greene County / ZIP 65802 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Greene County / ZIP 65619 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-65738-6869a7e3

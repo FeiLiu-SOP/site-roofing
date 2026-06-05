@@ -11,26 +11,29 @@ lng: -117.0500
 zipSample: ["92311"]
 zipCodes: ["92311"]
 localPaths: ["San Bernardino County / elevation 2680 ft band", "San Bernardino County / coords 34.8700, -117.0500", "San Bernardino County / ZIP 92311 sector", "San Bernardino County / primary ZIP 92311"]
-zillowHomeValueUsd: 263386
 ---
 
 **Engineering Notice for Barstow:** Structural loading calculated based on 2680 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Barstow, CA attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Barstow, CA can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: How long can shingles wait after storm damage? In Barstow, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Note recent wind events when filing insurance photos for Barstow, CA.
 
-Field note: Moisture pathway inspection logged near ZIP 92311 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 92311 zone).
+Wood shake courses in Barstow, CA require skip-spacing rules at valleys.
 
-Dispatch sectors sampled: ZIP 92311 (county grid: San Bernardino County).
+Field routing: ridge cap nail schedule paired with deck sheathing thickness near ZIP 92311.
+
+Regional mesh label San Bernardino County: moisture and logistics baselines are keyed to Barstow, CA before niche-specific work begins.
+
+On-site sector marker: San Bernardino County / ZIP 92311 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92311-c2220b80

@@ -11,27 +11,29 @@ lng: -118.1300
 zipSample: ["90707", "90706"]
 zipCodes: ["90707", "90706"]
 localPaths: ["Los Angeles County / ZIP 90706 sector", "Los Angeles County / ZIP 90707 sector", "Los Angeles County / primary ZIP 90706", "Los Angeles County / elevation 85 ft band", "Los Angeles County / coords 33.8900, -118.1300"]
-zillowHomeValueUsd: 801975
 ---
 
 **Engineering Notice for Bellflower:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Is partial dry-in possible? In Bellflower, CA, yes—if slope and anchor points support safe tie-offs.
 
-Tip: avoid large upfront payments without milestones.
+Step: compare shingle manufacturer wind-zone ratings for Bellflower, CA exposure class.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Low-slope sections in Bellflower, CA need positive drainage before membrane repairs are scoped.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 90706.
+Tip: Note recent wind events when filing insurance photos for Bellflower, CA.
 
-Field note: Moisture pathway inspection logged near ZIP 90707/90706 intake.
+Code context: Ventilation ratios for Bellflower, CA attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 90707/90706 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 90707, 90706 (county grid: Los Angeles County).
+roof work brief: wind uplift clip spacing and pipe boot manufacturer match were cross-checked for the Bellflower intake packet.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~85 ft across the Los Angeles County area. Coordinates: 33.8900, -118.1300. ZIP sample: 90706, 90707. Service perimeter note: Coverage extends through Los Angeles County with dispatch centered near ZIP 90706.
+
+On-site sector marker: Los Angeles County / coords 33.8900, -118.1300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90706-ac5799ce

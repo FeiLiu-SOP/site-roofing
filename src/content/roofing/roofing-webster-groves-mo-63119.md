@@ -11,25 +11,29 @@ lng: -90.3500
 zipSample: ["63119"]
 zipCodes: ["63119"]
 localPaths: ["St. Louis County / coords 38.5900, -90.3500", "St. Louis County / ZIP 63119 sector", "St. Louis County / elevation 581 ft band", "St. Louis County / primary ZIP 63119"]
-zillowHomeValueUsd: 378623
 ---
 
 **Engineering Notice for Webster Groves:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 63119.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Webster Groves, MO coverage windows and verified intake details.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Webster Groves, MO, but intake notes help reduce delays.
+FAQ: Can you tarp only part of the roof? In Webster Groves, MO, yes—if slope and anchor points support safe tie-offs.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: Webster Groves, MO exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 63119 zone).
+TPO seam welds in Webster Groves, MO commercial sections need probe tests after freeze events.
 
-Dispatch sectors sampled: ZIP 63119 (county grid: St. Louis County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: pipe boot manufacturer match plus starter-strip setback referenced in St. Louis County county grid review.
+
+On-site sector marker: St. Louis County / coords 38.5900, -90.3500 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Louis County / ZIP 63119 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63119-eff7fa71

@@ -11,26 +11,33 @@ lng: -122.2700
 zipSample: ["94501", "94502"]
 zipCodes: ["94501", "94502"]
 localPaths: ["Alameda County / coords 37.7700, -122.2700", "Alameda County / elevation 16 ft band", "Alameda County / primary ZIP 94501", "Alameda County / ZIP 94502 sector", "Alameda County / ZIP 94501 sector"]
-zillowHomeValueUsd: 1146611
 ---
 
 **Engineering Notice for Alameda:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Alameda County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Alameda, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Code context: Ventilation ratios for Alameda, CA attics should be checked against current mechanical exhaust additions.
 
-Our service coordination centers on Alameda, CA coverage windows and verified intake details.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: confirm licensing and insurance before approving work.
+We coordinate Alameda, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 94501/94502 zone).
+FAQ: Can you tarp only part of the roof? In Alameda, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94501/94502.
+Granule embedment loss on Alameda, CA north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 94501, 94502 (county grid: Alameda County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+roof work brief: skylight curb height and starter-strip setback were cross-checked for the Alameda intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 94502/94501.
+
+Primary postal anchor 94501 with multi-ZIP overlap in Alameda; field packets tag Alameda County for county-grid reconciliation.
+
+Regional mesh label Alameda County: moisture and logistics baselines are keyed to Alameda, CA before niche-specific work begins.
 
 Service reference: CA-94501-a50ff265

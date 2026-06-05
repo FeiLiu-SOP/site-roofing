@@ -11,24 +11,29 @@ lng: -73.0100
 zipSample: ["11727", "11784", "11776"]
 zipCodes: ["11784", "11727", "11776"]
 localPaths: ["Suffolk County / ZIP 11727 sector", "Suffolk County / ZIP 11784 sector", "Suffolk County / primary ZIP 11727", "Suffolk County / ZIP 11776 sector", "Suffolk County / elevation 108 ft band"]
-zillowHomeValueUsd: 547371
 ---
 
 **Engineering Notice for Coram:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-In Coram, NY, urgent roof work issues can escalate quickly.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: address recurring issues early to prevent bigger damage.
+Granule embedment loss on Coram, NY north slopes can precede mat exposure.
 
-Clear documentation helps align materials, labor, and timeline.
+Our Coram, NY dispatch packets reference county grid Suffolk County and elevation band 108 ft.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Coram, NY, but intake notes help reduce delays.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Wind exposure category reviewed for ZIP sector 11776/11784/11727.
+FAQ: How long can shingles wait after storm damage? In Coram, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 11776, 11784, 11727 (county grid: Suffolk County).
+Code context: Ventilation ratios for Coram, NY attics should be checked against current mechanical exhaust additions.
+
+Field routing: wind uplift clip spacing paired with starter-strip setback near ZIP 11727.
+
+On-site sector marker: Suffolk County / primary ZIP 11727 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Coram, NY: sampled sectors include 11784, 11727, 11776; county routing grid remains Suffolk County.
 
 Service reference: NY-11727-e8315cac

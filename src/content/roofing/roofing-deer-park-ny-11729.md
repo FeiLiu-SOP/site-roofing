@@ -11,24 +11,31 @@ lng: -73.3200
 zipSample: ["11729"]
 zipCodes: ["11729"]
 localPaths: ["Suffolk County / primary ZIP 11729", "Suffolk County / ZIP 11729 sector", "Suffolk County / elevation 82 ft band", "Suffolk County / coords 40.7600, -73.3200"]
-zillowHomeValueUsd: 639021
 ---
 
 **Engineering Notice for Deer Park:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Tile underlayment age in Deer Park, NY can fail independently of visible tile cracks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Low-slope sections in Deer Park, NY need positive drainage before membrane repairs are scoped.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Deer Park, NY, but intake notes help reduce delays.
+Wind-zone note: Deer Park, NY exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 11729 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 11729 (county grid: Suffolk County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+roof service brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Deer Park intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 11729.
+
+Regional mesh label Suffolk County: moisture and logistics baselines are keyed to Deer Park, NY before niche-specific work begins.
+
+On-site sector marker: Suffolk County / elevation 82 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11729-fdb554f0

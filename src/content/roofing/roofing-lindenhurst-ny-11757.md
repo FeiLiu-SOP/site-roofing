@@ -11,24 +11,31 @@ lng: -73.3700
 zipSample: ["11757"]
 zipCodes: ["11757"]
 localPaths: ["Suffolk County / ZIP 11757 sector", "Suffolk County / coords 40.6900, -73.3700", "Suffolk County / primary ZIP 11757", "Suffolk County / elevation 30 ft band"]
-zillowHomeValueUsd: 600975
 ---
 
 **Engineering Notice for Lindenhurst:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Our Lindenhurst, NY dispatch packets reference county grid Suffolk County and elevation band 30 ft.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lindenhurst, NY, but intake notes help reduce delays.
+FAQ: When should permanent service start? In Lindenhurst, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Structured milestones protect both sides when scheduling work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-We coordinate local dispatch coverage around Lindenhurst, NY and nearby ZIP sectors.
+Skylight curb flashing in Lindenhurst, NY should be sequenced before ridge cap replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 11757.
 
-Field note: Moisture pathway inspection logged near ZIP 11757 intake.
+Regulatory note: Lindenhurst, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 11757 (county grid: Suffolk County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Risk flag: In Lindenhurst, NY, interior stains may track from HVAC condensate rather than roof cladding.
+
+roofing service brief: starter-strip setback and valley metal gauge were cross-checked for the Lindenhurst intake packet.
+
+Coordinate-anchored dispatch note: center reference 40.6900, -73.3700 at elevation ~30 ft aligns with Suffolk County intake staging.
+
+On-site sector marker: Suffolk County / primary ZIP 11757 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11757-e8980ef2

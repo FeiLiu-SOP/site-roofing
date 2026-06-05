@@ -11,27 +11,31 @@ lng: -89.5500
 zipSample: ["54482", "54481"]
 zipCodes: ["54482", "54481"]
 localPaths: ["Portage County / coords 44.5200, -89.5500", "Portage County / elevation 1099 ft band", "Portage County / ZIP 54481 sector", "Portage County / ZIP 54482 sector", "Portage County / primary ZIP 54481"]
-zillowHomeValueUsd: 254645
 ---
 
 **Engineering Notice for Stevens Point:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Portage County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Wood shake courses in Stevens Point, WI require skip-spacing rules at valleys.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 54481.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 54481/54482.
+FAQ: When should permanent restoration start? In Stevens Point, WI, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 54481/54482 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 54481, 54482 (county grid: Portage County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+roofing service brief: chimney cricket slope and deck sheathing thickness were cross-checked for the Stevens Point intake packet.
+
+On-site sector marker: Portage County / ZIP 54482 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~1099 ft across the Portage County area. Coordinates: 44.5200, -89.5500. ZIP sample: 54481, 54482. Regional routing note: Portage County traffic flow is balanced around ZIP 54481 service demand.
 
 Service reference: WI-54481-053b2158

@@ -11,25 +11,33 @@ lng: -78.8700
 zipSample: ["27539", "27502", "27523"]
 zipCodes: ["27539", "27523", "27502"]
 localPaths: ["Wake County / ZIP 27502 sector", "Wake County / ZIP 27539 sector", "Wake County / primary ZIP 27502", "Wake County / coords 35.7200, -78.8700", "Wake County / elevation 436 ft band"]
-zillowHomeValueUsd: 569706
 ---
 
 **Engineering Notice for Apex:** Structural loading calculated based on 436 ft terrain assessment. Regional dispatch grid: Wake County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 27502.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Apex, NC, but intake notes help reduce delays.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on Apex, NC coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for Apex, NC.
 
-Structured milestones protect both sides when scheduling work.
+Wind-zone note: Apex, NC exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 27523/27502/27539 intake.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 27523, 27502, 27539 (county grid: Wake County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Low-slope sections in Apex, NC need positive drainage before membrane repairs are scoped.
+
+roof work brief: shingle exposure calibration and pipe boot manufacturer match were cross-checked for the Apex intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 27523/27539/27502.
+
+On-site sector marker: Wake County / ZIP 27523 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Apex, NC: sampled sectors include 27502, 27523, 27539; county routing grid remains Wake County.
 
 Service reference: NC-27502-2d578db2

@@ -11,26 +11,33 @@ lng: -101.7200
 zipSample: ["79072"]
 zipCodes: ["79072"]
 localPaths: ["Hale County / elevation 3389 ft band", "Hale County / primary ZIP 79072", "Hale County / coords 34.1900, -101.7200", "Hale County / ZIP 79072 sector"]
-zillowHomeValueUsd: 116080
 ---
 
 **Engineering Notice for Plainview:** Structural loading calculated based on 3389 ft terrain assessment. Regional dispatch grid: Hale County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Plainview, TX, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Clear documentation helps align materials, labor, and timeline.
+Granule embedment loss on Plainview, TX north slopes can precede mat exposure.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-We coordinate local dispatch coverage around Plainview, TX and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Connection points spot-checked where accessible (ZIP 79072 zone).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Moisture pathway inspection logged near ZIP 79072 intake.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 79072 (county grid: Hale County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Hale County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 79072.
+
+On-site sector marker: Hale County / coords 34.1900, -101.7200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hale County / ZIP 79072 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79072-780d0e53

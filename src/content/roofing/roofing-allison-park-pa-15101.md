@@ -11,26 +11,33 @@ lng: -79.9600
 zipSample: ["15091", "15101"]
 zipCodes: ["15101", "15091"]
 localPaths: ["Allegheny County / coords 40.5700, -79.9600", "Allegheny County / ZIP 15101 sector", "Allegheny County / elevation 1112 ft band", "Allegheny County / ZIP 15091 sector", "Allegheny County / primary ZIP 15101"]
-zillowHomeValueUsd: 378238
 ---
 
 **Engineering Notice for Allison Park:** Structural loading calculated based on 1112 ft terrain assessment. Regional dispatch grid: Allegheny County.
 
 
-Our service coordination centers on Allison Park, PA coverage windows and verified intake details.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Allison Park, PA, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Allison Park, PA exposure class.
 
-Tip: request a written scope before work starts.
+Tip: Note recent wind events when filing insurance photos for Allison Park, PA.
 
-Homeowners in Allison Park, PA often face sudden roof service problems that require fast action.
+Coastal humidity in Allison Park, PA can slow shingle seal-down after shoulder-season storms.
 
-Field note: Wind exposure category reviewed for ZIP sector 15091/15101.
+Regulatory note: Allison Park, PA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 15091/15101 zone).
+Material note: In Allison Park, PA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 15091, 15101 (county grid: Allegheny County).
+FAQ: Is partial dry-in possible? In Allison Park, PA, yes—if slope and anchor points support safe tie-offs.
+
+Risk flag: In Allison Park, PA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: drip-edge metal profile plus pipe boot manufacturer match referenced in Allegheny County county grid review.
+
+On-site sector marker: Allegheny County / ZIP 15091 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Allegheny County: moisture and logistics baselines are keyed to Allison Park, PA before niche-specific work begins.
 
 Service reference: PA-15101-d011bd2f

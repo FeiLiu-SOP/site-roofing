@@ -11,25 +11,31 @@ lng: -89.4700
 zipSample: ["61550", "61650"]
 zipCodes: ["61550", "61650"]
 localPaths: ["Tazewell County / ZIP 61550 sector", "Tazewell County / elevation 722 ft band", "Tazewell County / ZIP 61650 sector", "Tazewell County / coords 40.6100, -89.4700", "Tazewell County / primary ZIP 61550"]
-zillowHomeValueUsd: 280467
 ---
 
 **Engineering Notice for Morton:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Tazewell County.
 
 
-Our service coordination centers on Morton, IL coverage windows and verified intake details.
+Our Morton, IL dispatch packets reference county grid Tazewell County and elevation band 722 ft.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: In Morton, IL, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Morton, IL exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 61550.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 61550/61650 zone).
+FAQ: When should permanent remediation start? In Morton, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 61550, 61650 (county grid: Tazewell County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Valley metal in Morton, IL should be reviewed whenever granule loss tracks the water line.
+
+Scope trace: chimney cricket slope plus counter-flashing reglet depth referenced in Tazewell County county grid review.
+
+On-site sector marker: Tazewell County / primary ZIP 61550 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 61550 with multi-ZIP overlap in Morton; field packets tag Tazewell County for county-grid reconciliation.
 
 Service reference: IL-61550-9f0e366a

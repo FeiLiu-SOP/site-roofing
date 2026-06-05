@@ -11,24 +11,35 @@ lng: -96.5500
 zipSample: ["75409"]
 zipCodes: ["75409"]
 localPaths: ["Collin County / coords 33.3500, -96.5500", "Collin County / ZIP 75409 sector", "Collin County / primary ZIP 75409", "Collin County / elevation 702 ft band"]
-zillowHomeValueUsd: 348204
 ---
 
 **Engineering Notice for Anna:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Collin County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: In Anna, TX, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Anna, TX, but intake notes help reduce delays.
+Parapet coping movement in Anna, TX can channel water behind wall cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When should permanent remediation start? In Anna, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Anna, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 75409 intake.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 75409 (county grid: Collin County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Risk flag: Tile underlayment age in Anna, TX can fail independently of visible tile cracks.
+
+Scope trace: attic baffle spacing plus counter-flashing reglet depth referenced in Collin County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 75409.
+
+Primary postal anchor 75409 with multi-ZIP overlap in Anna; field packets tag Collin County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 33.3500, -96.5500 at elevation ~702 ft aligns with Collin County intake staging.
 
 Service reference: TX-75409-7deb997e

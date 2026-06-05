@@ -11,24 +11,29 @@ lng: -73.7000
 zipSample: ["11581", "11582", "11580"]
 zipCodes: ["11580", "11582", "11581"]
 localPaths: ["Nassau County / ZIP 11581 sector", "Nassau County / ZIP 11582 sector", "Nassau County / coords 40.6600, -73.7000", "Nassau County / primary ZIP 11580", "Nassau County / elevation 23 ft band"]
-zillowHomeValueUsd: 743761
 ---
 
 **Engineering Notice for Valley Stream:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-Our service coordination centers on Valley Stream, NY coverage windows and verified intake details.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-In Valley Stream, NY, seasonal demand can change scheduling windows.
+Wood shake courses in Valley Stream, NY require skip-spacing rules at valleys.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Valley Stream, NY exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 11582/11580/11581 intake.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 11582, 11580, 11581 (county grid: Nassau County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: valley metal gauge plus wind uplift clip spacing referenced in Nassau County county grid review.
+
+Primary postal anchor 11580 with multi-ZIP overlap in Valley Stream; field packets tag Nassau County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Nassau County and primary ZIP 11580. Terrain reference: 23 ft. Center point: 40.6600, -73.7000. ZIP sample: 11580, 11582, 11581. Regional routing note: Nassau County traffic flow is balanced around ZIP 11580 service demand.
 
 Service reference: NY-11580-84f9b9a3

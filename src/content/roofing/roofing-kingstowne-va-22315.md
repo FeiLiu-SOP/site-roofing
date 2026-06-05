@@ -11,24 +11,35 @@ lng: -77.1400
 zipSample: ["22315"]
 zipCodes: ["22315"]
 localPaths: ["Fairfax County / elevation 220 ft band", "Fairfax County / ZIP 22315 sector", "Fairfax County / coords 38.7600, -77.1400", "Fairfax County / primary ZIP 22315"]
-zillowHomeValueUsd: 676478
 ---
 
 **Engineering Notice for Kingstowne:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-Our service coordination centers on Kingstowne, VA coverage windows and verified intake details.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Kingstowne, VA exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Metal panel oil-canning in Kingstowne, VA may signal clip spacing issues, not wind damage alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 22315.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 22315 (county grid: Fairfax County).
+Step: log deck soundings near vents before tear-off is approved.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: ridge cap nail schedule paired with counter-flashing reglet depth near ZIP 22315.
+
+Field note: Attic moisture pathway scan referenced ZIP 22315.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Fairfax County. Reference elevation: 220 ft. Primary coordinates: 38.7600, -77.1400. ZIP sample: 22315. Service perimeter note: Coverage extends through Fairfax County with dispatch centered near ZIP 22315.
+
+On-site sector marker: Fairfax County / elevation 220 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22315-058621f3

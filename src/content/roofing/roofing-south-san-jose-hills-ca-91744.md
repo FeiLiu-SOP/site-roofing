@@ -11,24 +11,29 @@ lng: -117.9000
 zipSample: ["91744"]
 zipCodes: ["91744"]
 localPaths: ["Los Angeles County / primary ZIP 91744", "Los Angeles County / coords 34.0100, -117.9000", "Los Angeles County / ZIP 91744 sector", "Los Angeles County / elevation 420 ft band"]
-zillowHomeValueUsd: 740938
 ---
 
 **Engineering Notice for South San Jose Hills:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: request a written scope before work starts.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: South San Jose Hills, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+In South San Jose Hills, CA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 91744 intake.
+FAQ: Is partial dry-in possible? In South San Jose Hills, CA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 91744 (county grid: Los Angeles County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Scope trace: ridge cap nail schedule plus chimney cricket slope referenced in Los Angeles County county grid review.
+
+On-site sector marker: Los Angeles County / ZIP 91744 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Los Angeles County. Reference elevation: 420 ft. Primary coordinates: 34.0100, -117.9000. ZIP sample: 91744. Service perimeter note: Coverage extends through Los Angeles County with dispatch centered near ZIP 91744.
 
 Service reference: CA-91744-4314cf2b

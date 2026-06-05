@@ -11,24 +11,29 @@ lng: -87.6500
 zipSample: ["60426"]
 zipCodes: ["60426"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / ZIP 60426 sector", "Cook County / coords 41.6100, -87.6500", "Cook County / primary ZIP 60426"]
-zillowHomeValueUsd: 101350
 ---
 
 **Engineering Notice for Harvey:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Homeowners in Harvey, IL often face sudden roofing service problems that require fast action.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-We coordinate local dispatch coverage around Harvey, IL and nearby ZIP sectors.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Harvey, IL attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 60426.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 60426 (county grid: Cook County).
+Valley metal in Harvey, IL should be reviewed whenever granule loss tracks the water line.
+
+Field routing: starter-strip setback paired with chimney cricket slope near ZIP 60426.
+
+On-site sector marker: Cook County / ZIP 60426 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Cook County: moisture and logistics baselines are keyed to Harvey, IL before niche-specific work begins.
 
 Service reference: IL-60426-7e95d193

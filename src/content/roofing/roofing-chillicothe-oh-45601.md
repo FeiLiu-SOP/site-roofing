@@ -11,26 +11,35 @@ lng: -82.9900
 zipSample: ["45601"]
 zipCodes: ["45601"]
 localPaths: ["Ross County / ZIP 45601 sector", "Ross County / primary ZIP 45601", "Ross County / elevation 640 ft band", "Ross County / coords 39.3400, -82.9900"]
-zillowHomeValueUsd: 196923
 ---
 
 **Engineering Notice for Chillicothe:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Ross County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 45601.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: compare shingle manufacturer wind-zone ratings for Chillicothe, OH exposure class.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 45601.
+FAQ: How long can shingles wait after storm damage? In Chillicothe, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: In Chillicothe, OH, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Chillicothe, OH, but intake notes help reduce delays.
+Regulatory note: Chillicothe, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 45601 zone).
+Attic ventilation deficits in Chillicothe, OH can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 45601 (county grid: Ross County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Step: log deck soundings near vents before tear-off is approved.
+
+Scope trace: shingle exposure calibration plus skylight curb height referenced in Ross County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 45601.
+
+On-site sector marker: Ross County / elevation 640 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 39.3400, -82.9900 at elevation ~640 ft aligns with Ross County intake staging.
 
 Service reference: OH-45601-acf97726

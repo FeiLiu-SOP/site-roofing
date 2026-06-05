@@ -11,26 +11,31 @@ lng: -73.1100
 zipSample: ["11779", "11767"]
 zipCodes: ["11779", "11767"]
 localPaths: ["Suffolk County / coords 40.8300, -73.1100", "Suffolk County / ZIP 11767 sector", "Suffolk County / ZIP 11779 sector", "Suffolk County / elevation 89 ft band", "Suffolk County / primary ZIP 11767"]
-zillowHomeValueUsd: 758734
 ---
 
 **Engineering Notice for Lake Ronkonkoma:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-Structured milestones protect both sides when scheduling work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: request a written scope before work starts.
+Coastal humidity in Lake Ronkonkoma, NY can slow shingle seal-down after shoulder-season storms.
 
-Our service coordination centers on Lake Ronkonkoma, NY coverage windows and verified intake details.
+Our Lake Ronkonkoma, NY dispatch packets reference county grid Suffolk County and elevation band 89 ft.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 11767/11779 intake.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Connection points spot-checked where accessible (ZIP 11767/11779 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 11767, 11779 (county grid: Suffolk County).
+Scope trace: drip-edge metal profile plus ice-barrier lap sequence referenced in Suffolk County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 11779/11767.
+
+Primary postal anchor 11767 with multi-ZIP overlap in Lake Ronkonkoma; field packets tag Suffolk County for county-grid reconciliation.
+
+On-site sector marker: Suffolk County / elevation 89 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11767-cbc38f17

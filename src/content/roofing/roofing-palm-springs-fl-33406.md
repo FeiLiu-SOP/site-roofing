@@ -11,24 +11,29 @@ lng: -80.1000
 zipSample: ["33461", "33406"]
 zipCodes: ["33406", "33461"]
 localPaths: ["Palm Beach County / ZIP 33461 sector", "Palm Beach County / coords 26.6300, -80.1000", "Palm Beach County / primary ZIP 33406", "Palm Beach County / ZIP 33406 sector", "Palm Beach County / elevation 36 ft band"]
-zillowHomeValueUsd: 422237
 ---
 
 **Engineering Notice for Palm Springs:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Palm Beach County.
 
 
-We coordinate local dispatch coverage around Palm Springs, FL and nearby ZIP sectors.
+Skylight curb flashing in Palm Springs, FL should be sequenced before ridge cap replacement.
 
-Local conditions in Palm Springs, FL can affect timelines and material choices.
+FAQ: How long can shingles wait after storm damage? In Palm Springs, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: avoid large upfront payments without milestones.
+We coordinate Palm Springs, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Note recent wind events when filing insurance photos for Palm Springs, FL.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33406/33461.
+Code context: Ventilation ratios for Palm Springs, FL attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 33406, 33461 (county grid: Palm Beach County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: ice-barrier lap sequence plus attic baffle spacing referenced in Palm Beach County county grid review.
+
+Primary postal anchor 33406 with multi-ZIP overlap in Palm Springs; field packets tag Palm Beach County for county-grid reconciliation.
+
+On-site sector marker: Palm Beach County / ZIP 33461 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33406-0939c516

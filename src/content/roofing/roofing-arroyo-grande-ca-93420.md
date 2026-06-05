@@ -11,27 +11,33 @@ lng: -120.5800
 zipSample: ["93420", "93421"]
 zipCodes: ["93420", "93421"]
 localPaths: ["San Luis Obispo County / elevation 217 ft band", "San Luis Obispo County / ZIP 93421 sector", "San Luis Obispo County / primary ZIP 93420", "San Luis Obispo County / coords 35.1200, -120.5800", "San Luis Obispo County / ZIP 93420 sector"]
-zillowHomeValueUsd: 1049977
 ---
 
 **Engineering Notice for Arroyo Grande:** Structural loading calculated based on 217 ft terrain assessment. Regional dispatch grid: San Luis Obispo County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 93420.
+In Arroyo Grande, CA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-We coordinate local dispatch coverage around Arroyo Grande, CA and nearby ZIP sectors.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Arroyo Grande, CA, but intake notes help reduce delays.
+Synthetic underlayment slip in Arroyo Grande, CA is often tied to deck moisture, not wind alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Arroyo Grande, CA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 93421/93420 zone).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Wind exposure category reviewed for ZIP sector 93421/93420.
+Risk flag: Tile underlayment age in Arroyo Grande, CA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 93421, 93420 (county grid: San Luis Obispo County).
+We coordinate Arroyo Grande, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in San Luis Obispo County county grid review.
+
+On-site sector marker: San Luis Obispo County / ZIP 93421 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Luis Obispo County / ZIP 93420 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93420-928da1ad

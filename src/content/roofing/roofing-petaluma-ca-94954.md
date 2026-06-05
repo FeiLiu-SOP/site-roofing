@@ -11,24 +11,31 @@ lng: -122.6300
 zipSample: ["94954", "94953", "94952"]
 zipCodes: ["94952", "94954", "94953"]
 localPaths: ["Sonoma County / primary ZIP 94954", "Sonoma County / elevation 13 ft band", "Sonoma County / ZIP 94954 sector", "Sonoma County / ZIP 94953 sector", "Sonoma County / coords 38.2400, -122.6300"]
-zillowHomeValueUsd: 836255
 ---
 
 **Engineering Notice for Petaluma:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Sonoma County.
 
 
-Homeowners in Petaluma, CA often face sudden roofing service problems that require fast action.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Petaluma, CA, but intake notes help reduce delays.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: How long can shingles wait after storm damage? In Petaluma, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Metal panel oil-canning in Petaluma, CA may signal clip spacing issues, not wind damage alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 94953/94954/94952.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 94953, 94954, 94952 (county grid: Sonoma County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: pipe boot manufacturer match paired with deck sheathing thickness near ZIP 94954.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 94953/94952/94954.
+
+ZIP-corridor snapshot for Petaluma, CA: sampled sectors include 94953, 94952, 94954; county routing grid remains Sonoma County.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~13 ft across the Sonoma County area. Coordinates: 38.2400, -122.6300. ZIP sample: 94954, 94953, 94952. Service perimeter note: Coverage extends through Sonoma County with dispatch centered near ZIP 94954.
 
 Service reference: CA-94954-4ec61767

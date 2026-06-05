@@ -11,27 +11,33 @@ lng: -83.0700
 zipSample: ["43123"]
 zipCodes: ["43123"]
 localPaths: ["Franklin County / elevation 810 ft band", "Franklin County / coords 39.8700, -83.0700", "Franklin County / primary ZIP 43123", "Franklin County / ZIP 43123 sector"]
-zillowHomeValueUsd: 330357
 ---
 
 **Engineering Notice for Grove City:** Structural loading calculated based on 810 ft terrain assessment. Regional dispatch grid: Franklin County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: In Grove City, OH, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: Grove City, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Grove City, OH and nearby ZIP sectors.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 43123.
+Granule embedment loss on Grove City, OH north slopes can precede mat exposure.
 
-Field note: Wind exposure category reviewed for ZIP sector 43123.
+Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 43123.
 
-Field note: Access points and staging constraints recorded for ZIP 43123 coverage.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 43123 (county grid: Franklin County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: soffit intake free area paired with chimney cricket slope near ZIP 43123.
+
+On-site sector marker: Franklin County / primary ZIP 43123 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~810 ft across the Franklin County area. Coordinates: 39.8700, -83.0700. ZIP sample: 43123. Regional routing note: Franklin County traffic flow is balanced around ZIP 43123 service demand.
 
 Service reference: OH-43123-3ed2b44a

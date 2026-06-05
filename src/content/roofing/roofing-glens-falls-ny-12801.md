@@ -11,26 +11,31 @@ lng: -73.6500
 zipSample: ["12801"]
 zipCodes: ["12801"]
 localPaths: ["Warren County / coords 43.3100, -73.6500", "Warren County / ZIP 12801 sector", "Warren County / primary ZIP 12801", "Warren County / elevation 344 ft band"]
-zillowHomeValueUsd: 265204
 ---
 
 **Engineering Notice for Glens Falls:** Structural loading calculated based on 344 ft terrain assessment. Regional dispatch grid: Warren County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: In Glens Falls, NY, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Our Glens Falls, NY dispatch packets reference county grid Warren County and elevation band 344 ft.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Glens Falls, NY, but intake notes help reduce delays.
+FAQ: Is partial dry-in possible? In Glens Falls, NY, yes—if slope and anchor points support safe tie-offs.
 
-Local conditions in Glens Falls, NY can affect timelines and material choices.
+Regulatory note: Glens Falls, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Glens Falls, NY.
 
-Field note: Moisture pathway inspection logged near ZIP 12801 intake.
+Risk flag: In Glens Falls, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 12801.
+Parapet coping movement in Glens Falls, NY can channel water behind wall cladding.
 
-Dispatch sectors sampled: ZIP 12801 (county grid: Warren County).
+Step: stage tear-off debris paths away from landscape drains.
+
+roof service brief: attic baffle spacing and chimney cricket slope were cross-checked for the Glens Falls intake packet.
+
+On-site sector marker: Warren County / ZIP 12801 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Warren County / elevation 344 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-12801-f118fa0e

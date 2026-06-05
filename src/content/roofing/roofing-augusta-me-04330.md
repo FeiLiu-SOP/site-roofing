@@ -11,24 +11,33 @@ lng: -69.7300
 zipSample: ["04332", "04336", "04333", "04330", "04338"]
 zipCodes: ["04333", "04332", "04336", "04330", "04338"]
 localPaths: ["Kennebec County / ZIP 04332 sector", "Kennebec County / elevation 174 ft band", "Kennebec County / ZIP 04338 sector", "Kennebec County / ZIP 04333 sector", "Kennebec County / primary ZIP 04330"]
-zillowHomeValueUsd: 285965
 ---
 
 **Engineering Notice for Augusta:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Kennebec County.
 
 
-Tip: request a written scope before work starts.
+Regulatory note: Augusta, ME projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-In Augusta, ME, seasonal demand can change scheduling windows.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map ventilation intake and exhaust pairs for Augusta, ME attic runs.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-We coordinate local dispatch coverage around Augusta, ME and nearby ZIP sectors.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Moisture pathway inspection logged near ZIP 04330/04333/04332 intake.
+FAQ: Is partial dry-in possible? In Augusta, ME, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 04330, 04333, 04332, 04338, 04336 (county grid: Kennebec County).
+Hail bruising on Augusta, ME ridges may not breach felt until the next wind event.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Scope trace: synthetic underlayment slip plus drip-edge metal profile referenced in Kennebec County county grid review.
+
+Coordinate-anchored dispatch note: center reference 44.3300, -69.7300 at elevation ~174 ft aligns with Kennebec County intake staging.
+
+On-site sector marker: Kennebec County / ZIP 04330 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ME-04330-d9d19ba5

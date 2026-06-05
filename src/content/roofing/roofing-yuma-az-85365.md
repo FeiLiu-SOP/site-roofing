@@ -11,26 +11,35 @@ lng: -114.5500
 zipSample: ["85365", "85369", "85364"]
 zipCodes: ["85365", "85369", "85364"]
 localPaths: ["Yuma County / ZIP 85364 sector", "Yuma County / coords 32.6000, -114.5500", "Yuma County / primary ZIP 85365", "Yuma County / ZIP 85369 sector", "Yuma County / elevation 194 ft band"]
-zillowHomeValueUsd: 331161
 ---
 
 **Engineering Notice for Yuma:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Yuma County.
 
 
-In Yuma, AZ, seasonal demand can change scheduling windows.
+Regulatory note: Yuma, AZ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our service coordination centers on Yuma, AZ coverage windows and verified intake details.
+Risk flag: In Yuma, AZ, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Coastal humidity in Yuma, AZ can slow shingle seal-down after shoulder-season storms.
 
-Field note: Connection points spot-checked where accessible (ZIP 85369/85364/85365 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 85369/85364/85365.
+Tip: Note recent wind events when filing insurance photos for Yuma, AZ.
 
-Dispatch sectors sampled: ZIP 85369, 85364, 85365 (county grid: Yuma County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Parapet coping movement in Yuma, AZ can channel water behind wall cladding.
+
+roof service brief: skylight curb height and starter-strip setback were cross-checked for the Yuma intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 85369/85364/85365.
+
+Coordinate-anchored dispatch note: center reference 32.6000, -114.5500 at elevation ~194 ft aligns with Yuma County intake staging.
+
+Primary postal anchor 85365 with multi-ZIP overlap in Yuma; field packets tag Yuma County for county-grid reconciliation.
 
 Service reference: AZ-85365-7f92cd6a

@@ -11,26 +11,35 @@ lng: -113.1000
 zipSample: ["84721", "84720"]
 zipCodes: ["84720", "84721"]
 localPaths: ["Iron County / ZIP 84721 sector", "Iron County / ZIP 84720 sector", "Iron County / coords 37.6800, -113.1000", "Iron County / elevation 5682 ft band", "Iron County / primary ZIP 84720"]
-zillowHomeValueUsd: 430513
 ---
 
 **Engineering Notice for Cedar City:** Structural loading calculated based on 5682 ft terrain assessment. Regional dispatch grid: Iron County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cedar City, UT, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Cedar City, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: address recurring issues early to prevent bigger damage.
+TPO seam welds in Cedar City, UT commercial sections need probe tests after freeze events.
 
-Field note: Wind exposure category reviewed for ZIP sector 84721/84720.
+Regulatory note: Cedar City, UT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 84721/84720 intake.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 84721, 84720 (county grid: Iron County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+FAQ: How long can shingles wait after storm damage? In Cedar City, UT, delayed dry-in can expand insulation and ceiling repairs.
+
+roof service brief: shingle exposure calibration and deck sheathing thickness were cross-checked for the Cedar City intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 84720/84721.
+
+Primary postal anchor 84720 with multi-ZIP overlap in Cedar City; field packets tag Iron County for county-grid reconciliation.
+
+On-site sector marker: Iron County / ZIP 84721 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84720-a2b48a01

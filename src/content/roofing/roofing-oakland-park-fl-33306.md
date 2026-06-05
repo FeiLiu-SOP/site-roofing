@@ -11,24 +11,31 @@ lng: -80.1500
 zipSample: ["33335", "33309", "33310", "33334", "33306"]
 zipCodes: ["33309", "33335", "33334", "33306", "33310"]
 localPaths: ["Broward County / ZIP 33306 sector", "Broward County / elevation 23 ft band", "Broward County / ZIP 33309 sector", "Broward County / ZIP 33335 sector", "Broward County / ZIP 33334 sector"]
-zillowHomeValueUsd: 583680
 ---
 
 **Engineering Notice for Oakland Park:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Broward County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Oakland Park, FL, but intake notes help reduce delays.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: request a written scope before work starts.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Oakland Park, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: map ventilation intake and exhaust pairs for Oakland Park, FL attic runs.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Connection points spot-checked where accessible (ZIP 33335/33309/33310 zone).
+Material note: In Oakland Park, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 33335, 33309, 33310, 33334, 33306 (county grid: Broward County).
+Code context: Ventilation ratios for Oakland Park, FL attics should be checked against current mechanical exhaust additions.
+
+TPO seam welds in Oakland Park, FL commercial sections need probe tests after freeze events.
+
+Scope trace: starter-strip setback plus deck sheathing thickness referenced in Broward County county grid review.
+
+ZIP-corridor snapshot for Oakland Park, FL: sampled sectors include 33334, 33309, 33335, 33310, 33306; county routing grid remains Broward County.
+
+On-site sector marker: Broward County / elevation 23 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33306-1890a12c

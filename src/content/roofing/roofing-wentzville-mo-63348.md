@@ -11,24 +11,33 @@ lng: -90.8700
 zipSample: ["63348", "63385"]
 zipCodes: ["63348", "63385"]
 localPaths: ["St. Charles County / coords 38.8200, -90.8700", "St. Charles County / primary ZIP 63348", "St. Charles County / ZIP 63348 sector", "St. Charles County / elevation 620 ft band", "St. Charles County / ZIP 63385 sector"]
-zillowHomeValueUsd: 439318
 ---
 
 **Engineering Notice for Wentzville:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: St. Charles County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can you tarp only part of the roof? In Wentzville, MO, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Wentzville, MO.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Tile underlayment age in Wentzville, MO can fail independently of visible tile cracks.
 
-In Wentzville, MO, urgent roof work issues can escalate quickly.
+Code context: Ventilation ratios for Wentzville, MO attics should be checked against current mechanical exhaust additions.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Moisture pathway inspection logged near ZIP 63385/63348 intake.
+Step: compare shingle manufacturer wind-zone ratings for Wentzville, MO exposure class.
 
-Dispatch sectors sampled: ZIP 63385, 63348 (county grid: St. Charles County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+TPO seam welds in Wentzville, MO commercial sections need probe tests after freeze events.
+
+Field routing: counter-flashing reglet depth paired with deck sheathing thickness near ZIP 63348.
+
+Field note: Shingle seal-down timing logged near ZIP 63348/63385.
+
+Coordinate-anchored dispatch note: center reference 38.8200, -90.8700 at elevation ~620 ft aligns with St. Charles County intake staging.
+
+Primary postal anchor 63348 with multi-ZIP overlap in Wentzville; field packets tag St. Charles County for county-grid reconciliation.
 
 Service reference: MO-63348-053b0832

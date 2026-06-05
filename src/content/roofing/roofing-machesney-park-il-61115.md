@@ -11,24 +11,33 @@ lng: -89.0300
 zipSample: ["61115"]
 zipCodes: ["61115"]
 localPaths: ["Winnebago County / primary ZIP 61115", "Winnebago County / elevation 735 ft band", "Winnebago County / coords 42.3700, -89.0300", "Winnebago County / ZIP 61115 sector"]
-zillowHomeValueUsd: 201365
 ---
 
 **Engineering Notice for Machesney Park:** Structural loading calculated based on 735 ft terrain assessment. Regional dispatch grid: Winnebago County.
 
 
-We coordinate local dispatch coverage around Machesney Park, IL and nearby ZIP sectors.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Machesney Park, IL, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 61115 coverage.
+Skylight curb flashing in Machesney Park, IL should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 61115 (county grid: Winnebago County).
+Risk flag: Tile underlayment age in Machesney Park, IL can fail independently of visible tile cracks.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Code context: Ventilation ratios for Machesney Park, IL attics should be checked against current mechanical exhaust additions.
+
+roof work brief: ice-barrier lap sequence and synthetic underlayment slip were cross-checked for the Machesney Park intake packet.
+
+On-site sector marker: Winnebago County / elevation 735 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Winnebago County / primary ZIP 61115 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61115-07bf8a40

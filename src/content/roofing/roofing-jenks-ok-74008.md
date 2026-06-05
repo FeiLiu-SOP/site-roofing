@@ -11,24 +11,29 @@ lng: -95.9700
 zipSample: ["74037", "74008"]
 zipCodes: ["74008", "74037"]
 localPaths: ["Tulsa County / ZIP 74037 sector", "Tulsa County / coords 36.0000, -95.9700", "Tulsa County / primary ZIP 74008", "Tulsa County / ZIP 74008 sector", "Tulsa County / elevation 696 ft band"]
-zillowHomeValueUsd: 349669
 ---
 
 **Engineering Notice for Jenks:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Tulsa County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Jenks, OK attics should be checked against current mechanical exhaust additions.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-In Jenks, OK, seasonal demand can change scheduling windows.
+Step: compare shingle manufacturer wind-zone ratings for Jenks, OK exposure class.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 74008/74037 coverage.
+Tip: Note recent wind events when filing insurance photos for Jenks, OK.
 
-Dispatch sectors sampled: ZIP 74008, 74037 (county grid: Tulsa County).
+Freeze-thaw cycles around Jenks, OK stress nail pops along eaves and rake edges.
+
+Field routing: valley metal gauge paired with wind uplift clip spacing near ZIP 74008.
+
+On-site sector marker: Tulsa County / ZIP 74008 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 36.0000, -95.9700 at elevation ~696 ft aligns with Tulsa County intake staging.
 
 Service reference: OK-74008-8bd21076

@@ -11,24 +11,35 @@ lng: -110.9700
 zipSample: ["85614", "85629"]
 zipCodes: ["85629", "85614"]
 localPaths: ["Pima County / coords 31.9300, -110.9700", "Pima County / primary ZIP 85629", "Pima County / elevation 2749 ft band", "Pima County / ZIP 85614 sector", "Pima County / ZIP 85629 sector"]
-zillowHomeValueUsd: 338537
 ---
 
 **Engineering Notice for Sahuarita:** Structural loading calculated based on 2749 ft terrain assessment. Regional dispatch grid: Pima County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Sahuarita, AZ, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Sahuarita, AZ, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+Material note: In Sahuarita, AZ, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85629/85614.
+Regulatory note: Sahuarita, AZ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 85629, 85614 (county grid: Pima County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Coastal humidity in Sahuarita, AZ can slow shingle seal-down after shoulder-season storms.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+roof work brief: attic baffle spacing and pipe boot manufacturer match were cross-checked for the Sahuarita intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 85629/85614.
+
+Primary postal anchor 85629 with multi-ZIP overlap in Sahuarita; field packets tag Pima County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Sahuarita, AZ: sampled sectors include 85614, 85629; county routing grid remains Pima County.
 
 Service reference: AZ-85629-801dec58

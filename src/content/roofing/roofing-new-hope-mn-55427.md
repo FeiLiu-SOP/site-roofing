@@ -11,26 +11,35 @@ lng: -93.3900
 zipSample: ["55428", "55427"]
 zipCodes: ["55427", "55428"]
 localPaths: ["Hennepin County / elevation 922 ft band", "Hennepin County / ZIP 55428 sector", "Hennepin County / ZIP 55427 sector", "Hennepin County / coords 45.0400, -93.3900", "Hennepin County / primary ZIP 55427"]
-zillowHomeValueUsd: 367326
 ---
 
 **Engineering Notice for New Hope:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Hennepin County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in New Hope, MN, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can you tarp only part of the roof? In New Hope, MN, yes—if slope and anchor points support safe tie-offs.
 
-Tip: confirm licensing and insurance before approving work.
+Across New Hope, MN, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: New Hope, MN exposure class can change starter-strip and cap nail schedules.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In New Hope, MN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 55427/55428 coverage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Moisture pathway inspection logged near ZIP 55427/55428 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 55427, 55428 (county grid: Hennepin County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Skylight curb flashing in New Hope, MN should be sequenced before ridge cap replacement.
+
+Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Hennepin County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 55427/55428.
+
+Primary postal anchor 55427 with multi-ZIP overlap in New Hope; field packets tag Hennepin County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Grid anchor set to Hennepin County. Reference elevation: 922 ft. Primary coordinates: 45.0400, -93.3900. ZIP sample: 55427, 55428. Logistics priority: Serving residential sectors across Hennepin County and north-east ZIP 55427 grid.
 
 Service reference: MN-55427-c7f0572c

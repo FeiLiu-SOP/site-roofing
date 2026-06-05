@@ -11,28 +11,35 @@ lng: -97.4200
 zipSample: ["68701", "68702"]
 zipCodes: ["68701", "68702"]
 localPaths: ["Madison County / coords 42.0300, -97.4200", "Madison County / ZIP 68702 sector", "Madison County / elevation 1532 ft band", "Madison County / ZIP 68701 sector", "Madison County / primary ZIP 68701"]
-zillowHomeValueUsd: 256055
 ---
 
 **Engineering Notice for Norfolk:** Structural loading calculated based on 1532 ft terrain assessment. Regional dispatch grid: Madison County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 68701.
+Confirm ventilation balance during the same appointment. Serving ZIP Code: 68701.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Norfolk, NE, but intake notes help reduce delays.
+Regulatory note: Norfolk, NE projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 68701.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Access points and staging constraints recorded for ZIP 68702/68701 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Wind exposure category reviewed for ZIP sector 68702/68701.
+Freeze-thaw cycles around Norfolk, NE stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 68702, 68701 (county grid: Madison County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+FAQ: How long can shingles wait after storm damage? In Norfolk, NE, delayed dry-in can expand insulation and ceiling repairs.
+
+roofing service brief: counter-flashing reglet depth and synthetic underlayment slip were cross-checked for the Norfolk intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 68702/68701.
+
+On-site sector marker: Madison County / coords 42.0300, -97.4200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Madison County / elevation 1532 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-68701-50b6c083

@@ -11,24 +11,31 @@ lng: -122.8400
 zipSample: ["97140"]
 zipCodes: ["97140"]
 localPaths: ["Washington County / elevation 210 ft band", "Washington County / ZIP 97140 sector", "Washington County / coords 45.3600, -122.8400", "Washington County / primary ZIP 97140"]
-zillowHomeValueUsd: 632886
 ---
 
 **Engineering Notice for Sherwood:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+In Sherwood, OR, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 97140.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 97140 (county grid: Washington County).
+FAQ: Can you tarp only part of the roof? In Sherwood, OR, yes—if slope and anchor points support safe tie-offs.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: chimney cricket slope paired with valley metal gauge near ZIP 97140.
+
+On-site sector marker: Washington County / ZIP 97140 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 97140 with multi-ZIP overlap in Sherwood; field packets tag Washington County for county-grid reconciliation.
 
 Service reference: OR-97140-ef90e4ca

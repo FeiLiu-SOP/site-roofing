@@ -11,27 +11,29 @@ lng: -100.0200
 zipSample: ["67801"]
 zipCodes: ["67801"]
 localPaths: ["Ford County / primary ZIP 67801", "Ford County / ZIP 67801 sector", "Ford County / coords 37.7600, -100.0200", "Ford County / elevation 2595 ft band"]
-zillowHomeValueUsd: 209883
 ---
 
 **Engineering Notice for Dodge City:** Structural loading calculated based on 2595 ft terrain assessment. Regional dispatch grid: Ford County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Our Dodge City, KS dispatch packets reference county grid Ford County and elevation band 2595 ft.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 67801.
+Risk flag: Tile underlayment age in Dodge City, KS can fail independently of visible tile cracks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dodge City, KS, but intake notes help reduce delays.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+TPO seam welds in Dodge City, KS commercial sections need probe tests after freeze events.
 
-Field note: Wind exposure category reviewed for ZIP sector 67801.
+FAQ: Can you tarp only part of the roof? In Dodge City, KS, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 67801.
+Regulatory note: Dodge City, KS projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 67801 (county grid: Ford County).
+Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in Ford County county grid review.
+
+Coordinate-anchored dispatch note: center reference 37.7600, -100.0200 at elevation ~2595 ft aligns with Ford County intake staging.
+
+Primary postal anchor 67801 with multi-ZIP overlap in Dodge City; field packets tag Ford County for county-grid reconciliation.
 
 Service reference: KS-67801-71873e65

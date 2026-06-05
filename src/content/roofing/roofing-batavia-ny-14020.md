@@ -11,27 +11,31 @@ lng: -78.1800
 zipSample: ["14020"]
 zipCodes: ["14020"]
 localPaths: ["Genesee County / elevation 906 ft band", "Genesee County / ZIP 14020 sector", "Genesee County / coords 43.0000, -78.1800", "Genesee County / primary ZIP 14020"]
-zillowHomeValueUsd: 197627
 ---
 
 **Engineering Notice for Batavia:** Structural loading calculated based on 906 ft terrain assessment. Regional dispatch grid: Genesee County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 14020.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Homeowners in Batavia, NY often face sudden roof work problems that require fast action.
+Regulatory note: Batavia, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our service coordination centers on Batavia, NY coverage windows and verified intake details.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: compare at least two estimates for scope and timeline.
+In Batavia, NY, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Connection points spot-checked where accessible (ZIP 14020 zone).
+We coordinate Batavia, NY roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 14020.
+FAQ: Can you tarp only part of the roof? In Batavia, NY, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 14020 (county grid: Genesee County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+roof work brief: wind uplift clip spacing and deck sheathing thickness were cross-checked for the Batavia intake packet.
+
+ZIP-corridor snapshot for Batavia, NY: sampled sectors include 14020; county routing grid remains Genesee County.
+
+On-site sector marker: Genesee County / coords 43.0000, -78.1800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14020-63212850

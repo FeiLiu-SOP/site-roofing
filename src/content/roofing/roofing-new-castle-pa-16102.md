@@ -11,25 +11,33 @@ lng: -80.3500
 zipSample: ["16102", "16103", "16101", "16107", "16105"]
 zipCodes: ["16102", "16101", "16103", "16107", "16105"]
 localPaths: ["Lawrence County / ZIP 16101 sector", "Lawrence County / primary ZIP 16102", "Lawrence County / ZIP 16102 sector", "Lawrence County / elevation 801 ft band", "Lawrence County / ZIP 16105 sector"]
-zillowHomeValueUsd: 113539
 ---
 
 **Engineering Notice for New Castle:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Lawrence County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: avoid large upfront payments without milestones.
+Step: map ventilation intake and exhaust pairs for New Castle, PA attic runs.
 
-In New Castle, PA, urgent roofing service issues can escalate quickly.
+Regulatory note: New Castle, PA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 16102.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Our New Castle, PA dispatch packets reference county grid Lawrence County and elevation band 801 ft.
 
-Field note: Access points and staging constraints recorded for ZIP 16102/16105/16103 coverage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 16102, 16105, 16103, 16107, 16101 (county grid: Lawrence County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Coastal humidity in New Castle, PA can slow shingle seal-down after shoulder-season storms.
+
+Material note: In New Castle, PA, algae-resistant granules may be specified for north-facing slopes.
+
+Field routing: skylight curb height paired with shingle exposure calibration near ZIP 16102.
+
+On-site sector marker: Lawrence County / primary ZIP 16102 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 16102 with multi-ZIP overlap in New Castle; field packets tag Lawrence County for county-grid reconciliation.
 
 Service reference: PA-16102-c12dad01

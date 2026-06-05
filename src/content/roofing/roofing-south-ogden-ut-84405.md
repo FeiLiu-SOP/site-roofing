@@ -11,26 +11,31 @@ lng: -111.9600
 zipSample: ["84405", "84403"]
 zipCodes: ["84403", "84405"]
 localPaths: ["Weber County / ZIP 84405 sector", "Weber County / primary ZIP 84405", "Weber County / elevation 4688 ft band", "Weber County / ZIP 84403 sector", "Weber County / coords 41.1700, -111.9600"]
-zillowHomeValueUsd: 460478
 ---
 
 **Engineering Notice for South Ogden:** Structural loading calculated based on 4688 ft terrain assessment. Regional dispatch grid: Weber County.
 
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Our service coordination centers on South Ogden, UT coverage windows and verified intake details.
+In South Ogden, UT, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: In South Ogden, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84403/84405.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 84403/84405 intake.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 84403, 84405 (county grid: Weber County).
+FAQ: How long can shingles wait after storm damage? In South Ogden, UT, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: attic baffle spacing paired with wind uplift clip spacing near ZIP 84405.
+
+On-site sector marker: Weber County / ZIP 84403 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for South Ogden, UT: sampled sectors include 84403, 84405; county routing grid remains Weber County.
 
 Service reference: UT-84405-4dd825c1

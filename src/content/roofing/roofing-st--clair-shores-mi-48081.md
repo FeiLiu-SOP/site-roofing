@@ -11,24 +11,31 @@ lng: -82.9000
 zipSample: ["48082", "48080", "48090", "48081"]
 zipCodes: ["48082", "48081", "48080", "48090"]
 localPaths: ["Macomb County / coords 42.4900, -82.9000", "Macomb County / ZIP 48090 sector", "Macomb County / primary ZIP 48081", "Macomb County / elevation 597 ft band", "Macomb County / ZIP 48081 sector"]
-zillowHomeValueUsd: 238809
 ---
 
 **Engineering Notice for St. Clair Shores:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Macomb County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for St. Clair Shores, MI attics should be checked against current mechanical exhaust additions.
 
-Homeowners in St. Clair Shores, MI often face sudden roof work problems that require fast action.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 48081.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In St. Clair Shores, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48082/48080/48090.
+Granule embedment loss on St. Clair Shores, MI north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 48082, 48080, 48090, 48081 (county grid: Macomb County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+roof work brief: counter-flashing reglet depth and synthetic underlayment slip were cross-checked for the St. Clair Shores intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 48081/48080/48082.
+
+On-site sector marker: Macomb County / ZIP 48081 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Macomb County / primary ZIP 48081 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48081-a37d00d3

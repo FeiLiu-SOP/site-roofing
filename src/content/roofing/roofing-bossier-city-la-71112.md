@@ -11,24 +11,33 @@ lng: -93.6700
 zipSample: ["71172", "71111", "71113", "71171", "71112"]
 zipCodes: ["71111", "71110", "71112", "71172", "71113", "71171"]
 localPaths: ["Bossier Parish / ZIP 71171 sector", "Bossier Parish / ZIP 71172 sector", "Bossier Parish / elevation 167 ft band", "Bossier Parish / primary ZIP 71112", "Bossier Parish / ZIP 71111 sector"]
-zillowHomeValueUsd: 182388
 ---
 
 **Engineering Notice for Bossier City:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Bossier Parish.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 71112.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should permanent remediation start? In Bossier City, LA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bossier City, LA, but intake notes help reduce delays.
+Hail bruising on Bossier City, LA ridges may not breach felt until the next wind event.
 
-Field note: Access points and staging constraints recorded for ZIP 71172/71113/71111 coverage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 71172, 71113, 71111, 71171, 71112 (county grid: Bossier Parish).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: shingle exposure calibration paired with synthetic underlayment slip near ZIP 71112.
+
+On-site sector marker: Bossier Parish / coords 32.5200, -93.6700 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Bossier Parish / ZIP 71171 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-71112-9d3a425b

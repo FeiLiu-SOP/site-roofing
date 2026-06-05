@@ -11,24 +11,33 @@ lng: -86.1500
 zipSample: ["46033", "46082", "46280", "46290", "46032"]
 zipCodes: ["46074", "46290", "46082", "46280", "46032", "46033"]
 localPaths: ["Hamilton County / ZIP 46280 sector", "Hamilton County / ZIP 46082 sector", "Hamilton County / ZIP 46290 sector", "Hamilton County / ZIP 46033 sector", "Hamilton County / elevation 843 ft band"]
-zillowHomeValueUsd: 573216
 ---
 
 **Engineering Notice for Carmel:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Hamilton County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Tile underlayment age in Carmel, IN can fail independently of visible tile cracks.
 
-We coordinate local dispatch coverage around Carmel, IN and nearby ZIP sectors.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How long can shingles wait after storm damage? In Carmel, IN, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Skylight curb flashing in Carmel, IN should be sequenced before ridge cap replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46032/46033/46082.
+Material note: In Carmel, IN, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 46032, 46033, 46082, 46290, 46074 (county grid: Hamilton County).
+Regulatory note: Carmel, IN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: pipe boot manufacturer match paired with wind uplift clip spacing near ZIP 46290.
+
+Field note: Shingle seal-down timing logged near ZIP 46033/46074/46082.
+
+Regional mesh label Hamilton County: moisture and logistics baselines are keyed to Carmel, IN before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 39.9700, -86.1500 at elevation ~843 ft aligns with Hamilton County intake staging.
 
 Service reference: IN-46290-8d6e0bda

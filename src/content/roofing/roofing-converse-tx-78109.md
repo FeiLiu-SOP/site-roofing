@@ -11,26 +11,31 @@ lng: -98.3100
 zipSample: ["78109"]
 zipCodes: ["78109"]
 localPaths: ["Bexar County / ZIP 78109 sector", "Bexar County / primary ZIP 78109", "Bexar County / elevation 686 ft band", "Bexar County / coords 29.5100, -98.3100"]
-zillowHomeValueUsd: 246227
 ---
 
 **Engineering Notice for Converse:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Bexar County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: avoid large upfront payments without milestones.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Local conditions in Converse, TX can affect timelines and material choices.
+Valley metal in Converse, TX should be reviewed whenever granule loss tracks the water line.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78109.
+Regulatory note: Converse, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 78109 coverage.
+FAQ: Is partial dry-in possible? In Converse, TX, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 78109 (county grid: Bexar County).
+Step: separate emergency tarp scope from permanent service line items.
+
+Field routing: shingle exposure calibration paired with soffit intake free area near ZIP 78109.
+
+Coordinate-anchored dispatch note: center reference 29.5100, -98.3100 at elevation ~686 ft aligns with Bexar County intake staging.
+
+Regional mesh label Bexar County: moisture and logistics baselines are keyed to Converse, TX before niche-specific work begins.
 
 Service reference: TX-78109-a00a9ea8

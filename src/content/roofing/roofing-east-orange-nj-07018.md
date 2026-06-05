@@ -11,24 +11,29 @@ lng: -74.2100
 zipSample: ["07018", "07019", "07017"]
 zipCodes: ["07019", "07017", "07018"]
 localPaths: ["Essex County / elevation 197 ft band", "Essex County / coords 40.7700, -74.2100", "Essex County / primary ZIP 07018", "Essex County / ZIP 07018 sector", "Essex County / ZIP 07019 sector"]
-zillowHomeValueUsd: 463556
 ---
 
 **Engineering Notice for East Orange:** Structural loading calculated based on 197 ft terrain assessment. Regional dispatch grid: Essex County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+TPO seam welds in East Orange, NJ commercial sections need probe tests after freeze events.
 
-Tip: confirm licensing and insurance before approving work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for East Orange, NJ attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 07017/07019/07018.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 07018.
 
-Dispatch sectors sampled: ZIP 07017, 07019, 07018 (county grid: Essex County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Scope trace: ice-barrier lap sequence plus shingle exposure calibration referenced in Essex County county grid review.
+
+ZIP-corridor snapshot for East Orange, NJ: sampled sectors include 07019, 07018, 07017; county routing grid remains Essex County.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Essex County and primary ZIP 07018. Terrain reference: 197 ft. Center point: 40.7700, -74.2100. ZIP sample: 07017, 07019, 07018. Service perimeter note: Coverage extends through Essex County with dispatch centered near ZIP 07018.
 
 Service reference: NJ-07018-364d0459

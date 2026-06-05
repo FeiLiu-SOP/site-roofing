@@ -11,24 +11,31 @@ lng: -103.2200
 zipSample: ["57701", "57703", "57702"]
 zipCodes: ["57702", "57701", "57703"]
 localPaths: ["Pennington County / ZIP 57701 sector", "Pennington County / ZIP 57703 sector", "Pennington County / elevation 3379 ft band", "Pennington County / coords 44.0700, -103.2200", "Pennington County / ZIP 57702 sector"]
-zillowHomeValueUsd: 448743
 ---
 
 **Engineering Notice for Rapid City:** Structural loading calculated based on 3379 ft terrain assessment. Regional dispatch grid: Pennington County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+TPO seam welds in Rapid City, SD commercial sections need probe tests after freeze events.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Rapid City, SD, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-In Rapid City, SD, urgent roof service issues can escalate quickly.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-We coordinate local dispatch coverage around Rapid City, SD and nearby ZIP sectors.
+FAQ: When should permanent restoration start? In Rapid City, SD, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 57702/57701/57703.
+Risk flag: Tile underlayment age in Rapid City, SD can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 57702, 57701, 57703 (county grid: Pennington County).
+Code context: Ventilation ratios for Rapid City, SD attics should be checked against current mechanical exhaust additions.
+
+Tip: Note recent wind events when filing insurance photos for Rapid City, SD.
+
+Scope trace: wind uplift clip spacing plus soffit intake free area referenced in Pennington County county grid review.
+
+On-site sector marker: Pennington County / coords 44.0700, -103.2200 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 57702 with multi-ZIP overlap in Rapid City; field packets tag Pennington County for county-grid reconciliation.
 
 Service reference: SD-57702-3275bff5

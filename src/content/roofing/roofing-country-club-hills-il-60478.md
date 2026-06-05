@@ -11,27 +11,35 @@ lng: -87.7300
 zipSample: ["60478"]
 zipCodes: ["60478"]
 localPaths: ["Cook County / coords 41.5600, -87.7300", "Cook County / ZIP 60478 sector", "Cook County / elevation 689 ft band", "Cook County / primary ZIP 60478"]
-zillowHomeValueUsd: 200154
 ---
 
 **Engineering Notice for Country Club Hills:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60478.
+We coordinate Country Club Hills, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wood shake courses in Country Club Hills, IL require skip-spacing rules at valleys.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60478.
+Skylight curb flashing in Country Club Hills, IL should be sequenced before ridge cap replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 60478.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 60478 (county grid: Cook County).
+Code context: Ventilation ratios for Country Club Hills, IL attics should be checked against current mechanical exhaust additions.
+
+Step: log deck soundings near vents before tear-off is approved.
+
+Field routing: valley metal gauge paired with soffit intake free area near ZIP 60478.
+
+Field note: Valley debris and granule loss noted for ZIP 60478.
+
+On-site sector marker: Cook County / primary ZIP 60478 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Country Club Hills, IL: sampled sectors include 60478; county routing grid remains Cook County.
 
 Service reference: IL-60478-5ced769e

@@ -11,26 +11,33 @@ lng: -88.4300
 zipSample: ["60142"]
 zipCodes: ["60142"]
 localPaths: ["McHenry County / primary ZIP 60142", "McHenry County / elevation 869 ft band", "McHenry County / coords 42.1600, -88.4300", "McHenry County / ZIP 60142 sector"]
-zillowHomeValueUsd: 417924
 ---
 
 **Engineering Notice for Huntley:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: McHenry County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: request a written scope before work starts.
+Our Huntley, IL dispatch packets reference county grid McHenry County and elevation band 869 ft.
 
-Local conditions in Huntley, IL can affect timelines and material choices.
+Tip: Note recent wind events when filing insurance photos for Huntley, IL.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Is partial dry-in possible? In Huntley, IL, yes—if slope and anchor points support safe tie-offs.
 
-Our service coordination centers on Huntley, IL coverage windows and verified intake details.
+Material note: In Huntley, IL, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Moisture pathway inspection logged near ZIP 60142 intake.
+Risk flag: In Huntley, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60142.
+Code context: Ventilation ratios for Huntley, IL attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 60142 (county grid: McHenry County).
+Freeze-thaw cycles around Huntley, IL stress nail pops along eaves and rake edges.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: wind uplift clip spacing plus deck sheathing thickness referenced in McHenry County county grid review.
+
+On-site sector marker: McHenry County / primary ZIP 60142 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: McHenry County / ZIP 60142 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60142-40f1a493

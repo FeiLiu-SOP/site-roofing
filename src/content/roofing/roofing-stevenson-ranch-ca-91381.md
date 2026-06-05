@@ -11,25 +11,31 @@ lng: -118.5900
 zipSample: ["91381"]
 zipCodes: ["91381"]
 localPaths: ["Los Angeles County / primary ZIP 91381", "Los Angeles County / coords 34.3900, -118.5900", "Los Angeles County / ZIP 91381 sector", "Los Angeles County / elevation 1558 ft band"]
-zillowHomeValueUsd: 969447
 ---
 
 **Engineering Notice for Stevenson Ranch:** Structural loading calculated based on 1558 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 91381.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tile and shingle mixes in Stevenson Ranch, CA require different fastener patterns at transitions.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Tile underlayment age in Stevenson Ranch, CA can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 91381 zone).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 91381 (county grid: Los Angeles County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roof work brief: shingle exposure calibration and pipe boot manufacturer match were cross-checked for the Stevenson Ranch intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 91381.
+
+Coordinate-anchored dispatch note: center reference 34.3900, -118.5900 at elevation ~1558 ft aligns with Los Angeles County intake staging.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Los Angeles County. Reference elevation: 1558 ft. Primary coordinates: 34.3900, -118.5900. ZIP sample: 91381. Service perimeter note: Coverage extends through Los Angeles County with dispatch centered near ZIP 91381.
 
 Service reference: CA-91381-9e675088

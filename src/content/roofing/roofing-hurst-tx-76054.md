@@ -11,26 +11,33 @@ lng: -97.1800
 zipSample: ["76053", "76054"]
 zipCodes: ["76053", "76054"]
 localPaths: ["Tarrant County / ZIP 76053 sector", "Tarrant County / ZIP 76054 sector", "Tarrant County / coords 32.8400, -97.1800", "Tarrant County / primary ZIP 76054", "Tarrant County / elevation 591 ft band"]
-zillowHomeValueUsd: 420968
 ---
 
 **Engineering Notice for Hurst:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Tarrant County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hurst, TX, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Local conditions in Hurst, TX can affect timelines and material choices.
+We coordinate Hurst, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: compare at least two estimates for scope and timeline.
+Code context: Ventilation ratios for Hurst, TX attics should be checked against current mechanical exhaust additions.
 
-Tip: confirm licensing and insurance before approving work.
+Freeze-thaw cycles around Hurst, TX stress nail pops along eaves and rake edges.
 
-Field note: Wind exposure category reviewed for ZIP sector 76054/76053.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Access points and staging constraints recorded for ZIP 76054/76053 coverage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 76054, 76053 (county grid: Tarrant County).
+Risk flag: In Hurst, TX, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: synthetic underlayment slip plus valley metal gauge referenced in Tarrant County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 76054/76053.
+
+ZIP-corridor snapshot for Hurst, TX: sampled sectors include 76054, 76053; county routing grid remains Tarrant County.
+
+Regional mesh label Tarrant County: moisture and logistics baselines are keyed to Hurst, TX before niche-specific work begins.
 
 Service reference: TX-76054-67c507d8

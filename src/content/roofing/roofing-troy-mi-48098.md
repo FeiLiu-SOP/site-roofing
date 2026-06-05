@@ -11,26 +11,31 @@ lng: -83.1500
 zipSample: ["48098", "48084", "48085", "48007", "48083"]
 zipCodes: ["48007", "48098", "48084", "48085", "48083", "48099"]
 localPaths: ["Oakland County / ZIP 48007 sector", "Oakland County / coords 42.5800, -83.1500", "Oakland County / ZIP 48084 sector", "Oakland County / primary ZIP 48098", "Oakland County / ZIP 48083 sector"]
-zillowHomeValueUsd: 583235
 ---
 
 **Engineering Notice for Troy:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Oakland County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Troy, MI, but intake notes help reduce delays.
+Wind-zone note: Troy, MI exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: log deck soundings near vents before tear-off is approved.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Our Troy, MI dispatch packets reference county grid Oakland County and elevation band 689 ft.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Note recent wind events when filing insurance photos for Troy, MI.
 
-Field note: Connection points spot-checked where accessible (ZIP 48083/48007/48099 zone).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48083/48007/48099.
+Skylight curb flashing in Troy, MI should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 48083, 48007, 48099, 48084, 48098 (county grid: Oakland County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+roofing service brief: soffit intake free area and valley metal gauge were cross-checked for the Troy intake packet.
+
+On-site sector marker: Oakland County / ZIP 48007 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 42.5800, -83.1500 at elevation ~689 ft aligns with Oakland County intake staging.
 
 Service reference: MI-48098-4baf3bee

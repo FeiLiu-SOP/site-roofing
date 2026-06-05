@@ -11,27 +11,31 @@ lng: -84.2100
 zipSample: ["30071"]
 zipCodes: ["30071"]
 localPaths: ["Gwinnett County / elevation 991 ft band", "Gwinnett County / ZIP 30071 sector", "Gwinnett County / coords 33.9400, -84.2100", "Gwinnett County / primary ZIP 30071"]
-zillowHomeValueUsd: 360248
 ---
 
 **Engineering Notice for Norcross:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Gwinnett County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 30071.
+Risk flag: Tile underlayment age in Norcross, GA can fail independently of visible tile cracks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Skylight curb flashing in Norcross, GA should be sequenced before ridge cap replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Our service coordination centers on Norcross, GA coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Norcross, GA, but intake notes help reduce delays.
+Code context: Ventilation ratios for Norcross, GA attics should be checked against current mechanical exhaust additions.
 
-Field note: Connection points spot-checked where accessible (ZIP 30071 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30071.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 30071 (county grid: Gwinnett County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+roofing service brief: ridge cap nail schedule and synthetic underlayment slip were cross-checked for the Norcross intake packet.
+
+ZIP-corridor snapshot for Norcross, GA: sampled sectors include 30071; county routing grid remains Gwinnett County.
+
+Regional mesh label Gwinnett County: moisture and logistics baselines are keyed to Norcross, GA before niche-specific work begins.
 
 Service reference: GA-30071-a791c310

@@ -11,24 +11,29 @@ lng: -96.6100
 zipSample: ["75094"]
 zipCodes: ["75094"]
 localPaths: ["Collin County / elevation 584 ft band", "Collin County / ZIP 75094 sector", "Collin County / primary ZIP 75094", "Collin County / coords 33.0200, -96.6100"]
-zillowHomeValueUsd: 569613
 ---
 
 **Engineering Notice for Murphy:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Collin County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should permanent remediation start? In Murphy, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: compare shingle manufacturer wind-zone ratings for Murphy, TX exposure class.
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: Murphy, TX exposure class can change starter-strip and cap nail schedules.
 
-Our service coordination centers on Murphy, TX coverage windows and verified intake details.
+Parapet coping movement in Murphy, TX can channel water behind wall cladding.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 75094 coverage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 75094 (county grid: Collin County).
+Risk flag: Tile underlayment age in Murphy, TX can fail independently of visible tile cracks.
+
+roofing service brief: shingle exposure calibration and pipe boot manufacturer match were cross-checked for the Murphy intake packet.
+
+Coordinate-anchored dispatch note: center reference 33.0200, -96.6100 at elevation ~584 ft aligns with Collin County intake staging.
+
+ZIP-corridor snapshot for Murphy, TX: sampled sectors include 75094; county routing grid remains Collin County.
 
 Service reference: TX-75094-df2b096c

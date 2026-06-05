@@ -11,25 +11,35 @@ lng: -122.3200
 zipSample: ["98125", "98164", "98136", "98127", "98195"]
 zipCodes: ["98165", "98139", "98111", "98181", "98141", "98119", "98195", "98107", "98185", "98124", "98144", "98104"]
 localPaths: ["King County / ZIP 98164 sector", "King County / ZIP 98195 sector", "King County / primary ZIP 98109", "King County / ZIP 98125 sector", "King County / elevation 305 ft band"]
-zillowHomeValueUsd: 758198
 ---
 
 **Engineering Notice for Seattle:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: King County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Seattle, WA attics should be checked against current mechanical exhaust additions.
 
-Our service coordination centers on Seattle, WA coverage windows and verified intake details.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: request a written scope before work starts.
+Our Seattle, WA dispatch packets reference county grid King County and elevation band 305 ft.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 98109.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Seattle, WA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Connection points spot-checked where accessible (ZIP 98115/98107/98117 zone).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 98115, 98107, 98117, 98146, 98124 (county grid: King County).
+FAQ: When should permanent restoration start? In Seattle, WA, delayed dry-in can expand insulation and ceiling repairs.
+
+Hail bruising on Seattle, WA ridges may not breach felt until the next wind event.
+
+Risk flag: In Seattle, WA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: synthetic underlayment slip plus soffit intake free area referenced in King County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 98126/98114/98118.
+
+Primary postal anchor 98109 with multi-ZIP overlap in Seattle; field packets tag King County for county-grid reconciliation.
+
+On-site sector marker: King County / ZIP 98126 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98109-201a85fc

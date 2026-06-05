@@ -11,24 +11,31 @@ lng: -86.6900
 zipSample: ["35215"]
 zipCodes: ["35215"]
 localPaths: ["Jefferson County / coords 33.6400, -86.6900", "Jefferson County / elevation 853 ft band", "Jefferson County / ZIP 35215 sector", "Jefferson County / primary ZIP 35215"]
-zillowHomeValueUsd: 150970
 ---
 
 **Engineering Notice for Center Point:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Tile underlayment age in Center Point, AL can fail independently of visible tile cracks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on Center Point, AL coverage windows and verified intake details.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hail bruising on Center Point, AL ridges may not breach felt until the next wind event.
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 35215 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 35215 (county grid: Jefferson County).
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+roof work brief: ridge cap nail schedule and ice-barrier lap sequence were cross-checked for the Center Point intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 35215.
+
+Regional mesh label Jefferson County: moisture and logistics baselines are keyed to Center Point, AL before niche-specific work begins.
+
+On-site sector marker: Jefferson County / coords 33.6400, -86.6900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35215-ae33f16e

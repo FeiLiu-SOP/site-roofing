@@ -11,26 +11,31 @@ lng: -85.5900
 zipSample: ["49024", "49002", "49081"]
 zipCodes: ["49024", "49002", "49081"]
 localPaths: ["Kalamazoo County / elevation 869 ft band", "Kalamazoo County / primary ZIP 49002", "Kalamazoo County / ZIP 49024 sector", "Kalamazoo County / coords 42.2000, -85.5900", "Kalamazoo County / ZIP 49081 sector"]
-zillowHomeValueUsd: 268934
 ---
 
 **Engineering Notice for Portage:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Kalamazoo County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Portage, MI, but intake notes help reduce delays.
+We coordinate Portage, MI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: request a written scope before work starts.
+Regulatory note: Portage, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Metal panel oil-canning in Portage, MI may signal clip spacing issues, not wind damage alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 49081/49002/49024 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 49081/49002/49024.
+FAQ: Can you tarp only part of the roof? In Portage, MI, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 49081, 49002, 49024 (county grid: Kalamazoo County).
+Step: log deck soundings near vents before tear-off is approved.
+
+Scope trace: starter-strip setback plus shingle exposure calibration referenced in Kalamazoo County county grid review.
+
+Regional mesh label Kalamazoo County: moisture and logistics baselines are keyed to Portage, MI before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 42.2000, -85.5900 at elevation ~869 ft aligns with Kalamazoo County intake staging.
 
 Service reference: MI-49002-0253bc15

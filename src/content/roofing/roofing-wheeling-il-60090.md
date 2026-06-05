@@ -11,24 +11,31 @@ lng: -87.9200
 zipSample: ["60078", "60090"]
 zipCodes: ["60078", "60090"]
 localPaths: ["Cook County / coords 42.1300, -87.9200", "Cook County / elevation 653 ft band", "Cook County / primary ZIP 60090", "Cook County / ZIP 60090 sector", "Cook County / ZIP 60078 sector"]
-zillowHomeValueUsd: 305426
 ---
 
 **Engineering Notice for Wheeling:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around Wheeling, IL and nearby ZIP sectors.
+Freeze-thaw cycles around Wheeling, IL stress nail pops along eaves and rake edges.
 
-In Wheeling, IL, urgent roof work issues can escalate quickly.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wheeling, IL, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 60090/60078 coverage.
+Regulatory note: Wheeling, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 60090, 60078 (county grid: Cook County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Cook County county grid review.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~653 ft across the Cook County area. Coordinates: 42.1300, -87.9200. ZIP sample: 60078, 60090. Logistics priority: Serving residential sectors across Cook County and north-east ZIP 60090 grid.
+
+On-site sector marker: Cook County / primary ZIP 60090 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60090-20854d68

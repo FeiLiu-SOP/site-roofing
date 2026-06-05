@@ -11,24 +11,31 @@ lng: -84.1800
 zipSample: ["31706", "31705", "31721", "31702", "31703"]
 zipCodes: ["31702", "31707", "31708", "31701", "31721", "31705", "31703", "31706"]
 localPaths: ["Dougherty County / primary ZIP 31705", "Dougherty County / elevation 220 ft band", "Dougherty County / coords 31.5800, -84.1800", "Dougherty County / ZIP 31721 sector", "Dougherty County / ZIP 31702 sector"]
-zillowHomeValueUsd: 91144
 ---
 
 **Engineering Notice for Albany:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Dougherty County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Albany, GA, but intake notes help reduce delays.
+Valley metal in Albany, GA should be reviewed whenever granule loss tracks the water line.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Albany, GA, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Albany, GA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Moisture pathway inspection logged near ZIP 31703/31705/31708 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 31703, 31705, 31708, 31707, 31721 (county grid: Dougherty County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Scope trace: soffit intake free area plus chimney cricket slope referenced in Dougherty County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 31707/31702/31701.
+
+On-site sector marker: Dougherty County / elevation 220 ft band — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 31705 with multi-ZIP overlap in Albany; field packets tag Dougherty County for county-grid reconciliation.
 
 Service reference: GA-31705-fdda8644

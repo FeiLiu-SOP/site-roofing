@@ -11,26 +11,35 @@ lng: -117.7000
 zipSample: ["92629", "92624"]
 zipCodes: ["92629", "92624"]
 localPaths: ["Orange County / primary ZIP 92629", "Orange County / elevation 285 ft band", "Orange County / coords 33.4700, -117.7000", "Orange County / ZIP 92624 sector", "Orange County / ZIP 92629 sector"]
-zillowHomeValueUsd: 1753668
 ---
 
 **Engineering Notice for Dana Point:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Our service coordination centers on Dana Point, CA coverage windows and verified intake details.
+Risk flag: In Dana Point, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 92629.
+FAQ: Is partial dry-in possible? In Dana Point, CA, yes—if slope and anchor points support safe tie-offs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 92629.
+Risk flag: Tile underlayment age in Dana Point, CA can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 92629/92624.
+Tile and shingle mixes in Dana Point, CA require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 92629, 92624 (county grid: Orange County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Regulatory note: Dana Point, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Orange County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 92624/92629.
+
+On-site sector marker: Orange County / primary ZIP 92629 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Orange County: moisture and logistics baselines are keyed to Dana Point, CA before niche-specific work begins.
 
 Service reference: CA-92629-7623ad49

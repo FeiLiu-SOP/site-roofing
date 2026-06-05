@@ -11,24 +11,35 @@ lng: -117.9100
 zipSample: ["91793", "91790", "91791", "91792"]
 zipCodes: ["91791", "91792", "91790", "91793"]
 localPaths: ["Los Angeles County / ZIP 91792 sector", "Los Angeles County / elevation 446 ft band", "Los Angeles County / coords 34.0600, -117.9100", "Los Angeles County / ZIP 91791 sector", "Los Angeles County / ZIP 91790 sector"]
-zillowHomeValueUsd: 818996
 ---
 
 **Engineering Notice for West Covina:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In West Covina, CA, yes—if slope and anchor points support safe tie-offs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In West Covina, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-A written scope helps prevent rework and mismatched expectations.
+Low-slope sections in West Covina, CA need positive drainage before membrane repairs are scoped.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: West Covina, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in West Covina, CA, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 91790/91791/91793 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 91790, 91791, 91793, 91792 (county grid: Los Angeles County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Scope trace: counter-flashing reglet depth plus chimney cricket slope referenced in Los Angeles County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 91790/91793/91792.
+
+On-site sector marker: Los Angeles County / ZIP 91793 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / ZIP 91792 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91792-373e7f3f

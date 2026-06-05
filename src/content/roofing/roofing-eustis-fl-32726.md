@@ -11,27 +11,29 @@ lng: -81.6800
 zipSample: ["32727", "32736", "32726"]
 zipCodes: ["32727", "32726", "32736"]
 localPaths: ["Lake County / ZIP 32726 sector", "Lake County / coords 28.8600, -81.6800", "Lake County / ZIP 32736 sector", "Lake County / elevation 105 ft band", "Lake County / primary ZIP 32726"]
-zillowHomeValueUsd: 286694
 ---
 
 **Engineering Notice for Eustis:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Our service coordination centers on Eustis, FL coverage windows and verified intake details.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 32726.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Hail bruising on Eustis, FL ridges may not breach felt until the next wind event.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 32726.
+Code context: Ventilation ratios for Eustis, FL attics should be checked against current mechanical exhaust additions.
 
-In Eustis, FL, seasonal demand can change scheduling windows.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 32727/32736/32726 coverage.
+Step: separate emergency tarp scope from permanent service line items.
 
-Field note: Moisture pathway inspection logged near ZIP 32727/32736/32726 intake.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 32727, 32736, 32726 (county grid: Lake County).
+Scope trace: synthetic underlayment slip plus deck sheathing thickness referenced in Lake County county grid review.
+
+On-site sector marker: Lake County / ZIP 32736 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lake County / coords 28.8600, -81.6800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32726-aa6a7787

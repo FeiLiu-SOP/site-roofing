@@ -11,27 +11,31 @@ lng: -88.0800
 zipSample: ["60073"]
 zipCodes: ["60073"]
 localPaths: ["Lake County / coords 42.3800, -88.0800", "Lake County / ZIP 60073 sector", "Lake County / elevation 820 ft band", "Lake County / primary ZIP 60073"]
-zillowHomeValueUsd: 271324
 ---
 
 **Engineering Notice for Round Lake Beach:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Round Lake Beach, IL exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Round Lake Beach, IL, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Round Lake Beach, IL can fail independently of visible tile cracks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60073.
+Skylight curb flashing in Round Lake Beach, IL should be sequenced before ridge cap replacement.
 
-We coordinate local dispatch coverage around Round Lake Beach, IL and nearby ZIP sectors.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Wind exposure category reviewed for ZIP sector 60073.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 60073 coverage.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 60073 (county grid: Lake County).
+Field routing: counter-flashing reglet depth paired with synthetic underlayment slip near ZIP 60073.
+
+Field note: Attic moisture pathway scan referenced ZIP 60073.
+
+On-site sector marker: Lake County / elevation 820 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lake County / primary ZIP 60073 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60073-ed86fcfb

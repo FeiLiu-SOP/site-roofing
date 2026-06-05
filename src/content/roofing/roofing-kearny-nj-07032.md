@@ -11,28 +11,33 @@ lng: -74.1200
 zipSample: ["07032", "07099"]
 zipCodes: ["07032", "07099"]
 localPaths: ["Hudson County / elevation -1 ft band", "Hudson County / coords 40.7500, -74.1200", "Hudson County / primary ZIP 07032", "Hudson County / ZIP 07099 sector", "Hudson County / ZIP 07032 sector"]
-zillowHomeValueUsd: 583852
 ---
 
 **Engineering Notice for Kearny:** Structural loading calculated based on -1 ft terrain assessment. Regional dispatch grid: Hudson County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 07032.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 07032.
+Request dry-in and remediation phases as separate line items. Serving ZIP Code: 07032.
 
-Tip: compare at least two estimates for scope and timeline.
+Across Kearny, NJ, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-We coordinate local dispatch coverage around Kearny, NJ and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 07099/07032 coverage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Moisture pathway inspection logged near ZIP 07099/07032 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 07099, 07032 (county grid: Hudson County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Field routing: deck sheathing thickness paired with synthetic underlayment slip near ZIP 07032.
+
+Regional mesh label Hudson County: moisture and logistics baselines are keyed to Kearny, NJ before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 40.7500, -74.1200 at elevation ~-1 ft aligns with Hudson County intake staging.
 
 Service reference: NJ-07032-4231f73e

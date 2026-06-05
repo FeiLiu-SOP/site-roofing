@@ -11,27 +11,31 @@ lng: -118.1400
 zipSample: ["91105", "91102", "91117", "91125", "91126"]
 zipCodes: ["91189", "91102", "91109", "91184", "91188", "91103", "91117", "91101", "91105", "91182", "91110", "91104"]
 localPaths: ["Los Angeles County / ZIP 91105 sector", "Los Angeles County / primary ZIP 91103", "Los Angeles County / ZIP 91102 sector", "Los Angeles County / ZIP 91126 sector", "Los Angeles County / ZIP 91125 sector"]
-zillowHomeValueUsd: 1083813
 ---
 
 **Engineering Notice for Pasadena:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pasadena, CA, but intake notes help reduce delays.
+Step: separate emergency tarp scope from permanent service line items.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Pasadena, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 91103.
+TPO seam welds in Pasadena, CA commercial sections need probe tests after freeze events.
 
-Field note: Access points and staging constraints recorded for ZIP 91105/91121/91101 coverage.
+Code context: Ventilation ratios for Pasadena, CA attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 91105/91121/91101 intake.
+FAQ: Is partial dry-in possible? In Pasadena, CA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 91105, 91121, 91101, 91182, 91104 (county grid: Los Angeles County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: starter-strip setback plus ice-barrier lap sequence referenced in Los Angeles County county grid review.
+
+On-site sector marker: Los Angeles County / ZIP 91102 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / elevation 928 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91103-fa2bc16a

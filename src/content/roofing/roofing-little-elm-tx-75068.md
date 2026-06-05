@@ -11,27 +11,33 @@ lng: -96.9300
 zipSample: ["75068", "76227"]
 zipCodes: ["76227", "75068"]
 localPaths: ["Denton County / elevation 525 ft band", "Denton County / primary ZIP 75068", "Denton County / ZIP 76227 sector", "Denton County / coords 33.1900, -96.9300", "Denton County / ZIP 75068 sector"]
-zillowHomeValueUsd: 405186
 ---
 
 **Engineering Notice for Little Elm:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Denton County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+In Little Elm, TX, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: avoid large upfront payments without milestones.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 75068.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Little Elm, TX exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Moisture pathway inspection logged near ZIP 76227/75068 intake.
+Material note: In Little Elm, TX, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Access points and staging constraints recorded for ZIP 76227/75068 coverage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 76227, 75068 (county grid: Denton County).
+FAQ: When should permanent service start? In Little Elm, TX, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: ridge cap nail schedule paired with skylight curb height near ZIP 75068.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 75068/76227.
+
+On-site sector marker: Denton County / primary ZIP 75068 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Denton County / coords 33.1900, -96.9300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75068-c05209a3

@@ -11,26 +11,31 @@ lng: -80.7400
 zipSample: ["28173"]
 zipCodes: ["28173"]
 localPaths: ["Union County / coords 34.9400, -80.7400", "Union County / primary ZIP 28173", "Union County / elevation 627 ft band", "Union County / ZIP 28173 sector"]
-zillowHomeValueUsd: 702765
 ---
 
 **Engineering Notice for Waxhaw:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Union County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: In Waxhaw, NC, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Waxhaw, NC exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 28173.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28173.
+Tip: Note recent wind events when filing insurance photos for Waxhaw, NC.
 
-Dispatch sectors sampled: ZIP 28173 (county grid: Union County).
+TPO seam welds in Waxhaw, NC commercial sections need probe tests after freeze events.
+
+Field routing: synthetic underlayment slip paired with attic baffle spacing near ZIP 28173.
+
+Primary postal anchor 28173 with multi-ZIP overlap in Waxhaw; field packets tag Union County for county-grid reconciliation.
+
+Regional mesh label Union County: moisture and logistics baselines are keyed to Waxhaw, NC before niche-specific work begins.
 
 Service reference: NC-28173-da6e1f96

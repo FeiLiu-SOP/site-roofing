@@ -11,24 +11,33 @@ lng: -122.2300
 zipSample: ["98012", "98208", "98037", "98087"]
 zipCodes: ["98037", "98087", "98208", "98012"]
 localPaths: ["Snohomish County / coords 47.8500, -122.2300", "Snohomish County / ZIP 98208 sector", "Snohomish County / primary ZIP 98087", "Snohomish County / ZIP 98012 sector", "Snohomish County / ZIP 98087 sector"]
-zillowHomeValueUsd: 751084
 ---
 
 **Engineering Notice for Martha Lake:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Martha Lake, WA attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Martha Lake, WA and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for Martha Lake, WA.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 98208/98037/98012 intake.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Dispatch sectors sampled: ZIP 98208, 98037, 98012, 98087 (county grid: Snohomish County).
+Granule embedment loss on Martha Lake, WA north slopes can precede mat exposure.
+
+FAQ: How long can shingles wait after storm damage? In Martha Lake, WA, delayed dry-in can expand insulation and ceiling repairs.
+
+roofing service brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Martha Lake intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98208/98012/98087.
+
+On-site sector marker: Snohomish County / ZIP 98087 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Snohomish County / ZIP 98208 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98087-2e22a0c5

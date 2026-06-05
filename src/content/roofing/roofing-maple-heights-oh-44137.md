@@ -11,24 +11,33 @@ lng: -81.5600
 zipSample: ["44137"]
 zipCodes: ["44137"]
 localPaths: ["Cuyahoga County / primary ZIP 44137", "Cuyahoga County / elevation 932 ft band", "Cuyahoga County / ZIP 44137 sector", "Cuyahoga County / coords 41.4100, -81.5600"]
-zillowHomeValueUsd: 131577
 ---
 
 **Engineering Notice for Maple Heights:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Maple Heights, OH exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-We coordinate local dispatch coverage around Maple Heights, OH and nearby ZIP sectors.
+We coordinate Maple Heights, OH roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-In Maple Heights, OH, urgent roof work issues can escalate quickly.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Skylight curb flashing in Maple Heights, OH should be sequenced before ridge cap replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44137.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 44137 (county grid: Cuyahoga County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roof work brief: valley metal gauge and attic baffle spacing were cross-checked for the Maple Heights intake packet.
+
+On-site sector marker: Cuyahoga County / primary ZIP 44137 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cuyahoga County / elevation 932 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44137-210d0b88

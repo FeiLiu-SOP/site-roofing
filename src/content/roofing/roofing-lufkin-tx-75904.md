@@ -11,27 +11,33 @@ lng: -94.7300
 zipSample: ["75915", "75904", "75903", "75901"]
 zipCodes: ["75904", "75903", "75901", "75915"]
 localPaths: ["Angelina County / elevation 282 ft band", "Angelina County / ZIP 75903 sector", "Angelina County / ZIP 75915 sector", "Angelina County / primary ZIP 75904", "Angelina County / ZIP 75904 sector"]
-zillowHomeValueUsd: 207433
 ---
 
 **Engineering Notice for Lufkin:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Angelina County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: In Lufkin, TX, algae-resistant granules may be specified for north-facing slopes.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 75904.
+We coordinate Lufkin, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 75904/75915/75903 zone).
+Hail bruising on Lufkin, TX ridges may not breach felt until the next wind event.
 
-Field note: Moisture pathway inspection logged near ZIP 75904/75915/75903 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 75904, 75915, 75903, 75901 (county grid: Angelina County).
+Risk flag: In Lufkin, TX, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: chimney cricket slope paired with counter-flashing reglet depth near ZIP 75904.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 75901/75903/75915.
+
+On-site sector marker: Angelina County / ZIP 75904 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~282 ft across the Angelina County area. Coordinates: 31.3200, -94.7300. ZIP sample: 75901, 75903, 75915, 75904. Logistics priority: Serving residential sectors across Angelina County and north-east ZIP 75904 grid.
 
 Service reference: TX-75904-2b8af701

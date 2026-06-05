@@ -11,24 +11,33 @@ lng: -97.3900
 zipSample: ["57078"]
 zipCodes: ["57078"]
 localPaths: ["Yankton County / ZIP 57078 sector", "Yankton County / coords 42.8900, -97.3900", "Yankton County / primary ZIP 57078", "Yankton County / elevation 1253 ft band"]
-zillowHomeValueUsd: 270847
 ---
 
 **Engineering Notice for Yankton:** Structural loading calculated based on 1253 ft terrain assessment. Regional dispatch grid: Yankton County.
 
 
-Tip: request a written scope before work starts.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-We coordinate local dispatch coverage around Yankton, SD and nearby ZIP sectors.
+Freeze-thaw cycles around Yankton, SD stress nail pops along eaves and rake edges.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 57078 intake.
+Risk flag: Tile underlayment age in Yankton, SD can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 57078 (county grid: Yankton County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Field routing: soffit intake free area paired with starter-strip setback near ZIP 57078.
+
+Coordinate-anchored dispatch note: center reference 42.8900, -97.3900 at elevation ~1253 ft aligns with Yankton County intake staging.
+
+ZIP-corridor snapshot for Yankton, SD: sampled sectors include 57078; county routing grid remains Yankton County.
 
 Service reference: SD-57078-bfc93e37

@@ -11,26 +11,35 @@ lng: -88.7500
 zipSample: ["60115"]
 zipCodes: ["60115"]
 localPaths: ["DeKalb County / primary ZIP 60115", "DeKalb County / elevation 889 ft band", "DeKalb County / ZIP 60115 sector", "DeKalb County / coords 41.9300, -88.7500"]
-zillowHomeValueUsd: 252753
 ---
 
 **Engineering Notice for DeKalb:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: DeKalb County.
 
 
-Tip: request a written scope before work starts.
+FAQ: When should permanent service start? In DeKalb, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Homeowners in DeKalb, IL often face sudden roof work problems that require fast action.
+Wind-zone note: DeKalb, IL exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Access points and staging constraints recorded for ZIP 60115 coverage.
+Freeze-thaw cycles around DeKalb, IL stress nail pops along eaves and rake edges.
 
-Field note: Moisture pathway inspection logged near ZIP 60115 intake.
+Material note: In DeKalb, IL, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 60115 (county grid: DeKalb County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+We coordinate DeKalb, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Field routing: pipe boot manufacturer match paired with counter-flashing reglet depth near ZIP 60115.
+
+Field note: Attic moisture pathway scan referenced ZIP 60115.
+
+On-site sector marker: DeKalb County / primary ZIP 60115 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: DeKalb County / elevation 889 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60115-80d3bf98

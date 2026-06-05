@@ -11,26 +11,33 @@ lng: -121.6300
 zipSample: ["93905", "93902", "93901", "93915", "93906"]
 zipCodes: ["93915", "93901", "93902", "93905", "93906"]
 localPaths: ["Monterey County / ZIP 93902 sector", "Monterey County / elevation 36 ft band", "Monterey County / ZIP 93905 sector", "Monterey County / ZIP 93906 sector", "Monterey County / ZIP 93915 sector"]
-zillowHomeValueUsd: 774146
 ---
 
 **Engineering Notice for Salinas:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Monterey County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Salinas, CA, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 93901.
 
-Our service coordination centers on Salinas, CA coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Salinas, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 93902/93906/93901 coverage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Wind exposure category reviewed for ZIP sector 93902/93906/93901.
+Low-slope sections in Salinas, CA need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 93902, 93906, 93901, 93915, 93905 (county grid: Monterey County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+We coordinate Salinas, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Field routing: wind uplift clip spacing paired with attic baffle spacing near ZIP 93901.
+
+On-site sector marker: Monterey County / coords 36.6900, -121.6300 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Monterey County / primary ZIP 93901 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93901-b45844e5

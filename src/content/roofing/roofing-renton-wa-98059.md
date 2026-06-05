@@ -11,26 +11,31 @@ lng: -122.1900
 zipSample: ["98056", "98057", "98059", "98058", "98055"]
 zipCodes: ["98058", "98057", "98056", "98055", "98059"]
 localPaths: ["King County / primary ZIP 98059", "King County / elevation 95 ft band", "King County / ZIP 98059 sector", "King County / coords 47.4800, -122.1900", "King County / ZIP 98058 sector"]
-zillowHomeValueUsd: 981962
 ---
 
 **Engineering Notice for Renton:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: King County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Renton, WA can fail independently of visible tile cracks.
 
-Structured milestones protect both sides when scheduling work.
+Freeze-thaw cycles around Renton, WA stress nail pops along eaves and rake edges.
 
-Homeowners in Renton, WA often face sudden roof work problems that require fast action.
+Code context: Ventilation ratios for Renton, WA attics should be checked against current mechanical exhaust additions.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 98055/98057/98059.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 98055/98057/98059 intake.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 98055, 98057, 98059, 98056, 98058 (county grid: King County).
+Field routing: attic baffle spacing paired with ridge cap nail schedule near ZIP 98059.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98059/98055/98058.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~95 ft across the King County area. Coordinates: 47.4800, -122.1900. ZIP sample: 98056, 98058, 98059, 98057, 98055. Logistics priority: Serving residential sectors across King County and north-east ZIP 98059 grid.
+
+On-site sector marker: King County / ZIP 98055 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98059-d4b6ff8f

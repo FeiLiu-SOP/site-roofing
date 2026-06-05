@@ -11,26 +11,31 @@ lng: -97.1300
 zipSample: ["73402", "73401", "73403"]
 zipCodes: ["73402", "73403", "73401"]
 localPaths: ["Carter County / ZIP 73401 sector", "Carter County / coords 34.1900, -97.1300", "Carter County / ZIP 73402 sector", "Carter County / ZIP 73403 sector", "Carter County / elevation 899 ft band"]
-zillowHomeValueUsd: 181329
 ---
 
 **Engineering Notice for Ardmore:** Structural loading calculated based on 899 ft terrain assessment. Regional dispatch grid: Carter County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: avoid large upfront payments without milestones.
+Regulatory note: Ardmore, OK projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should permanent remediation start? In Ardmore, OK, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Ardmore, OK coverage windows and verified intake details.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 73401/73402/73403 zone).
+Across Ardmore, OK, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Moisture pathway inspection logged near ZIP 73401/73402/73403 intake.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 73401, 73402, 73403 (county grid: Carter County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roof work brief: drip-edge metal profile and chimney cricket slope were cross-checked for the Ardmore intake packet.
+
+On-site sector marker: Carter County / primary ZIP 73401 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Carter County / ZIP 73403 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73401-80f55708

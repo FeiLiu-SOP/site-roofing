@@ -11,27 +11,31 @@ lng: -82.9300
 zipSample: ["48225", "48265"]
 zipCodes: ["48225", "48265"]
 localPaths: ["Wayne County / primary ZIP 48225", "Wayne County / ZIP 48265 sector", "Wayne County / elevation 597 ft band", "Wayne County / ZIP 48225 sector", "Wayne County / coords 42.4400, -82.9300"]
-zillowHomeValueUsd: 150465
 ---
 
 **Engineering Notice for Harper Woods:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Granule embedment loss on Harper Woods, MI north slopes can precede mat exposure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 48225.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48265/48225.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 48265/48225 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 48265, 48225 (county grid: Wayne County).
+Field routing: wind uplift clip spacing paired with starter-strip setback near ZIP 48225.
+
+Field note: Attic moisture pathway scan referenced ZIP 48225/48265.
+
+On-site sector marker: Wayne County / coords 42.4400, -82.9300 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Wayne County / ZIP 48225 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48225-092a1744

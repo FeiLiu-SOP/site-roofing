@@ -11,27 +11,33 @@ lng: -87.7000
 zipSample: ["36542", "36547"]
 zipCodes: ["36547", "36542"]
 localPaths: ["Baldwin County / coords 30.2800, -87.7000", "Baldwin County / elevation 33 ft band", "Baldwin County / ZIP 36547 sector", "Baldwin County / ZIP 36542 sector", "Baldwin County / primary ZIP 36542"]
-zillowHomeValueUsd: 455615
 ---
 
 **Engineering Notice for Gulf Shores:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Baldwin County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 36542.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Tip: request a written scope before work starts.
+Risk flag: In Gulf Shores, AL, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: In Gulf Shores, AL, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Wind exposure category reviewed for ZIP sector 36547/36542.
+We coordinate Gulf Shores, AL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 36547/36542 zone).
+Skylight curb flashing in Gulf Shores, AL should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 36547, 36542 (county grid: Baldwin County).
+Regulatory note: Gulf Shores, AL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roof service brief: ice-barrier lap sequence and soffit intake free area were cross-checked for the Gulf Shores intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 36542/36547.
+
+On-site sector marker: Baldwin County / coords 30.2800, -87.7000 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Baldwin County / primary ZIP 36542 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36542-27122359

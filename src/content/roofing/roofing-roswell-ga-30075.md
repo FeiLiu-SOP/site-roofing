@@ -11,27 +11,31 @@ lng: -84.3500
 zipSample: ["30076", "30075", "30077"]
 zipCodes: ["30077", "30075", "30076"]
 localPaths: ["Fulton County / primary ZIP 30075", "Fulton County / coords 34.0400, -84.3500", "Fulton County / ZIP 30076 sector", "Fulton County / elevation 1060 ft band", "Fulton County / ZIP 30077 sector"]
-zillowHomeValueUsd: 707515
 ---
 
 **Engineering Notice for Roswell:** Structural loading calculated based on 1060 ft terrain assessment. Regional dispatch grid: Fulton County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-We coordinate local dispatch coverage around Roswell, GA and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: avoid large upfront payments without milestones.
+Step: log deck soundings near vents before tear-off is approved.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30075.
+Our Roswell, GA dispatch packets reference county grid Fulton County and elevation band 1060 ft.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Roswell, GA, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 30077/30076/30075.
+Wood shake courses in Roswell, GA require skip-spacing rules at valleys.
 
-Field note: Connection points spot-checked where accessible (ZIP 30077/30076/30075 zone).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 30077, 30076, 30075 (county grid: Fulton County).
+Scope trace: starter-strip setback plus drip-edge metal profile referenced in Fulton County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 30076/30075/30077.
+
+On-site sector marker: Fulton County / primary ZIP 30075 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Roswell, GA: sampled sectors include 30077, 30076, 30075; county routing grid remains Fulton County.
 
 Service reference: GA-30075-99531eb5

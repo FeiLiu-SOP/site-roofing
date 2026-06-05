@@ -11,27 +11,31 @@ lng: -89.5400
 zipSample: ["53593"]
 zipCodes: ["53593"]
 localPaths: ["Dane County / coords 42.9900, -89.5400", "Dane County / ZIP 53593 sector", "Dane County / elevation 1004 ft band", "Dane County / primary ZIP 53593"]
-zillowHomeValueUsd: 593061
 ---
 
 **Engineering Notice for Verona:** Structural loading calculated based on 1004 ft terrain assessment. Regional dispatch grid: Dane County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 53593.
+In Verona, WI, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for Verona, WI attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Verona, WI, but intake notes help reduce delays.
+FAQ: When should permanent service start? In Verona, WI, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 53593.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 53593 coverage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 53593 (county grid: Dane County).
+Field routing: skylight curb height paired with starter-strip setback near ZIP 53593.
+
+Field note: Shingle seal-down timing logged near ZIP 53593.
+
+Coordinate-anchored dispatch note: center reference 42.9900, -89.5400 at elevation ~1004 ft aligns with Dane County intake staging.
+
+On-site sector marker: Dane County / elevation 1004 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53593-53453648

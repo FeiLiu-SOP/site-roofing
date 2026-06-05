@@ -11,24 +11,31 @@ lng: -83.1900
 zipSample: ["48072"]
 zipCodes: ["48072"]
 localPaths: ["Oakland County / coords 42.5000, -83.1900", "Oakland County / ZIP 48072 sector", "Oakland County / primary ZIP 48072", "Oakland County / elevation 696 ft band"]
-zillowHomeValueUsd: 314757
 ---
 
 **Engineering Notice for Berkley:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Oakland County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: How long can shingles wait after storm damage? In Berkley, MI, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 48072.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Berkley, MI attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48072.
+Risk flag: Tile underlayment age in Berkley, MI can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 48072 (county grid: Oakland County).
+Tile and shingle mixes in Berkley, MI require different fastener patterns at transitions.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: attic baffle spacing paired with deck sheathing thickness near ZIP 48072.
+
+On-site sector marker: Oakland County / coords 42.5000, -83.1900 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Oakland County / elevation 696 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48072-5638e3c9

@@ -11,26 +11,33 @@ lng: -111.8100
 zipSample: ["84121", "84171", "84093"]
 zipCodes: ["84121", "84171", "84093"]
 localPaths: ["Salt Lake County / ZIP 84121 sector", "Salt Lake County / ZIP 84171 sector", "Salt Lake County / primary ZIP 84093", "Salt Lake County / elevation 4849 ft band", "Salt Lake County / ZIP 84093 sector"]
-zillowHomeValueUsd: 800624
 ---
 
 **Engineering Notice for Cottonwood Heights:** Structural loading calculated based on 4849 ft terrain assessment. Regional dispatch grid: Salt Lake County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cottonwood Heights, UT, but intake notes help reduce delays.
+Synthetic underlayment slip in Cottonwood Heights, UT is often tied to deck moisture, not wind alone.
 
-In Cottonwood Heights, UT, seasonal demand can change scheduling windows.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-We coordinate local dispatch coverage around Cottonwood Heights, UT and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84171/84093/84121.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Connection points spot-checked where accessible (ZIP 84171/84093/84121 zone).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 84171, 84093, 84121 (county grid: Salt Lake County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Field routing: pipe boot manufacturer match paired with synthetic underlayment slip near ZIP 84093.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 84121/84171/84093.
+
+On-site sector marker: Salt Lake County / ZIP 84093 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Salt Lake County / ZIP 84121 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84093-38eeafdf

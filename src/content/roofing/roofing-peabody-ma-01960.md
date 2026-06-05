@@ -11,26 +11,33 @@ lng: -70.9700
 zipSample: ["01960", "01961"]
 zipCodes: ["01961", "01960"]
 localPaths: ["Essex County / ZIP 01960 sector", "Essex County / ZIP 01961 sector", "Essex County / coords 42.5300, -70.9700", "Essex County / elevation 184 ft band", "Essex County / primary ZIP 01960"]
-zillowHomeValueUsd: 695243
 ---
 
 **Engineering Notice for Peabody:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Essex County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-We coordinate local dispatch coverage around Peabody, MA and nearby ZIP sectors.
+Material note: In Peabody, MA, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 01961/01960 coverage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 01961/01960 zone).
+TPO seam welds in Peabody, MA commercial sections need probe tests after freeze events.
 
-Dispatch sectors sampled: ZIP 01961, 01960 (county grid: Essex County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 01960.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+roof work brief: starter-strip setback and synthetic underlayment slip were cross-checked for the Peabody intake packet.
+
+ZIP-corridor snapshot for Peabody, MA: sampled sectors include 01960, 01961; county routing grid remains Essex County.
+
+Coordinate-anchored dispatch note: center reference 42.5300, -70.9700 at elevation ~184 ft aligns with Essex County intake staging.
 
 Service reference: MA-01960-533ab8b8

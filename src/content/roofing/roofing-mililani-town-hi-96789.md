@@ -11,26 +11,33 @@ lng: -158.0100
 zipSample: ["96789"]
 zipCodes: ["96789"]
 localPaths: ["Honolulu County / elevation 636 ft band", "Honolulu County / coords 21.4500, -158.0100", "Honolulu County / ZIP 96789 sector", "Honolulu County / primary ZIP 96789"]
-zillowHomeValueUsd: 881724
 ---
 
 **Engineering Notice for Mililani Town:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Honolulu County.
 
 
-Tip: confirm licensing and insurance before approving work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Homeowners in Mililani Town, HI often face sudden roof service problems that require fast action.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Mililani Town, HI exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 96789.
+Step: compare shingle manufacturer wind-zone ratings for Mililani Town, HI exposure class.
 
-Field note: Access points and staging constraints recorded for ZIP 96789 coverage.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 96789 (county grid: Honolulu County).
+Material note: In Mililani Town, HI, algae-resistant granules may be specified for north-facing slopes.
+
+Freeze-thaw cycles around Mililani Town, HI stress nail pops along eaves and rake edges.
+
+roof service brief: deck sheathing thickness and skylight curb height were cross-checked for the Mililani Town intake packet.
+
+ZIP-corridor snapshot for Mililani Town, HI: sampled sectors include 96789; county routing grid remains Honolulu County.
+
+On-site sector marker: Honolulu County / primary ZIP 96789 — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96789-895818dc

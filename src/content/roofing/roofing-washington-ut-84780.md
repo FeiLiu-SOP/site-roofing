@@ -11,26 +11,31 @@ lng: -113.4900
 zipSample: ["84771", "84780"]
 zipCodes: ["84780", "84771"]
 localPaths: ["Washington County / ZIP 84780 sector", "Washington County / ZIP 84771 sector", "Washington County / primary ZIP 84780", "Washington County / coords 37.1300, -113.4900", "Washington County / elevation 2841 ft band"]
-zillowHomeValueUsd: 544571
 ---
 
 **Engineering Notice for Washington:** Structural loading calculated based on 2841 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Washington, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Washington, UT coverage windows and verified intake details.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is partial dry-in possible? In Washington, UT, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84771/84780.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Connection points spot-checked where accessible (ZIP 84771/84780 zone).
+Low-slope sections in Washington, UT need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 84771, 84780 (county grid: Washington County).
+Scope trace: deck sheathing thickness plus starter-strip setback referenced in Washington County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 84771/84780.
+
+Coordinate-anchored dispatch note: center reference 37.1300, -113.4900 at elevation ~2841 ft aligns with Washington County intake staging.
+
+Primary postal anchor 84780 with multi-ZIP overlap in Washington; field packets tag Washington County for county-grid reconciliation.
 
 Service reference: UT-84780-51fb5b53

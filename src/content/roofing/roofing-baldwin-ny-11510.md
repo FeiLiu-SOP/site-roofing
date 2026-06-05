@@ -11,26 +11,29 @@ lng: -73.6100
 zipSample: ["11510"]
 zipCodes: ["11510"]
 localPaths: ["Nassau County / elevation 26 ft band", "Nassau County / ZIP 11510 sector", "Nassau County / coords 40.6500, -73.6100", "Nassau County / primary ZIP 11510"]
-zillowHomeValueUsd: 714457
 ---
 
 **Engineering Notice for Baldwin:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-Homeowners in Baldwin, NY often face sudden roofing service problems that require fast action.
+Synthetic underlayment slip in Baldwin, NY is often tied to deck moisture, not wind alone.
 
-We coordinate local dispatch coverage around Baldwin, NY and nearby ZIP sectors.
+Regulatory note: Baldwin, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 11510.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Baldwin, NY, but intake notes help reduce delays.
+Risk flag: In Baldwin, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Moisture pathway inspection logged near ZIP 11510 intake.
+FAQ: When should permanent service start? In Baldwin, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11510.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 11510 (county grid: Nassau County).
+roofing service brief: drip-edge metal profile and wind uplift clip spacing were cross-checked for the Baldwin intake packet.
+
+On-site sector marker: Nassau County / coords 40.6500, -73.6100 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 40.6500, -73.6100 at elevation ~26 ft aligns with Nassau County intake staging.
 
 Service reference: NY-11510-26588f42

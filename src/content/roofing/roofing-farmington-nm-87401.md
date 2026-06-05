@@ -11,25 +11,33 @@ lng: -108.1800
 zipSample: ["87401", "87402"]
 zipCodes: ["87401", "87402"]
 localPaths: ["San Juan County / coords 36.7600, -108.1800", "San Juan County / ZIP 87402 sector", "San Juan County / elevation 5482 ft band", "San Juan County / primary ZIP 87401", "San Juan County / ZIP 87401 sector"]
-zillowHomeValueUsd: 265289
 ---
 
 **Engineering Notice for Farmington:** Structural loading calculated based on 5482 ft terrain assessment. Regional dispatch grid: San Juan County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Farmington, NM, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 87401.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in Farmington, NM can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How long can shingles wait after storm damage? In Farmington, NM, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Farmington, NM coverage windows and verified intake details.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Wind exposure category reviewed for ZIP sector 87402/87401.
+Our Farmington, NM dispatch packets reference county grid San Juan County and elevation band 5482 ft.
 
-Dispatch sectors sampled: ZIP 87402, 87401 (county grid: San Juan County).
+Code context: Ventilation ratios for Farmington, NM attics should be checked against current mechanical exhaust additions.
+
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Scope trace: drip-edge metal profile plus starter-strip setback referenced in San Juan County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 87401/87402.
+
+On-site sector marker: San Juan County / ZIP 87401 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label San Juan County: moisture and logistics baselines are keyed to Farmington, NM before niche-specific work begins.
 
 Service reference: NM-87401-bfc10aaa

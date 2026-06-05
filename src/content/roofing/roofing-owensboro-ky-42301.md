@@ -11,26 +11,33 @@ lng: -87.1200
 zipSample: ["42304", "42303", "42301"]
 zipCodes: ["42303", "42301", "42304"]
 localPaths: ["Daviess County / elevation 433 ft band", "Daviess County / primary ZIP 42301", "Daviess County / ZIP 42301 sector", "Daviess County / coords 37.7600, -87.1200", "Daviess County / ZIP 42304 sector"]
-zillowHomeValueUsd: 205711
 ---
 
 **Engineering Notice for Owensboro:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Daviess County.
 
 
-In Owensboro, KY, seasonal demand can change scheduling windows.
+Risk flag: Tile underlayment age in Owensboro, KY can fail independently of visible tile cracks.
 
-Our service coordination centers on Owensboro, KY coverage windows and verified intake details.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Owensboro, KY, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Owensboro, KY, but intake notes help reduce delays.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 42304/42303/42301.
+Regulatory note: Owensboro, KY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 42304/42303/42301 coverage.
+FAQ: How long can shingles wait after storm damage? In Owensboro, KY, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 42304, 42303, 42301 (county grid: Daviess County).
+Step: log deck soundings near vents before tear-off is approved.
+
+Skylight curb flashing in Owensboro, KY should be sequenced before ridge cap replacement.
+
+Scope trace: chimney cricket slope plus synthetic underlayment slip referenced in Daviess County county grid review.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~433 ft across the Daviess County area. Coordinates: 37.7600, -87.1200. ZIP sample: 42301, 42304, 42303. Regional routing note: Daviess County traffic flow is balanced around ZIP 42301 service demand.
+
+On-site sector marker: Daviess County / elevation 433 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-42301-3dc40749

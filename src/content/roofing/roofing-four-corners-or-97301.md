@@ -11,24 +11,35 @@ lng: -122.9700
 zipSample: ["97317", "97301"]
 zipCodes: ["97317", "97301"]
 localPaths: ["Marion County / primary ZIP 97301", "Marion County / coords 44.9300, -122.9700", "Marion County / ZIP 97317 sector", "Marion County / elevation 226 ft band", "Marion County / ZIP 97301 sector"]
-zillowHomeValueUsd: 370476
 ---
 
 **Engineering Notice for Four Corners:** Structural loading calculated based on 226 ft terrain assessment. Regional dispatch grid: Marion County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Local conditions in Four Corners, OR can affect timelines and material choices.
+Code context: Ventilation ratios for Four Corners, OR attics should be checked against current mechanical exhaust additions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Four Corners, OR, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97317/97301.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 97317, 97301 (county grid: Marion County).
+Tip: Note recent wind events when filing insurance photos for Four Corners, OR.
+
+Valley metal in Four Corners, OR should be reviewed whenever granule loss tracks the water line.
+
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+roof work brief: shingle exposure calibration and soffit intake free area were cross-checked for the Four Corners intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 97301/97317.
+
+On-site sector marker: Marion County / ZIP 97301 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Marion County / ZIP 97317 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97301-131109e3

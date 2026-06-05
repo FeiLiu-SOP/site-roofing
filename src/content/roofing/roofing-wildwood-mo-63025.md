@@ -11,26 +11,29 @@ lng: -90.6700
 zipSample: ["63069", "63005", "63038", "63011", "63040"]
 zipCodes: ["63005", "63011", "63021", "63040", "63069", "63038", "63025"]
 localPaths: ["St. Louis County / ZIP 63040 sector", "St. Louis County / primary ZIP 63025", "St. Louis County / coords 38.5800, -90.6700", "St. Louis County / ZIP 63069 sector", "St. Louis County / ZIP 63011 sector"]
-zillowHomeValueUsd: 415529
 ---
 
 **Engineering Notice for Wildwood:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wildwood, MO, but intake notes help reduce delays.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Wildwood, MO exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 63021/63038/63025 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 63021/63038/63025.
+Low-slope sections in Wildwood, MO need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 63021, 63038, 63025, 63069, 63040 (county grid: St. Louis County).
+roofing service brief: deck sheathing thickness and soffit intake free area were cross-checked for the Wildwood intake packet.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to St. Louis County. Reference elevation: 781 ft. Primary coordinates: 38.5800, -90.6700. ZIP sample: 63011, 63005, 63025, 63040, 63069. Logistics priority: Serving residential sectors across St. Louis County and north-east ZIP 63025 grid.
+
+ZIP-corridor snapshot for Wildwood, MO: sampled sectors include 63005, 63038, 63025, 63021, 63040, 63011, 63069; county routing grid remains St. Louis County.
 
 Service reference: MO-63025-ceb1f216

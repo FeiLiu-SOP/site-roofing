@@ -11,26 +11,31 @@ lng: -94.1700
 zipSample: ["56393", "56301", "56303", "56372", "56302"]
 zipCodes: ["56304", "56301", "56303", "56372", "56302", "56396", "56393", "56395"]
 localPaths: ["Stearns County / coords 45.5300, -94.1700", "Stearns County / ZIP 56302 sector", "Stearns County / elevation 1020 ft band", "Stearns County / ZIP 56372 sector", "Stearns County / ZIP 56393 sector"]
-zillowHomeValueUsd: 265942
 ---
 
 **Engineering Notice for St. Cloud:** Structural loading calculated based on 1020 ft terrain assessment. Regional dispatch grid: Stearns County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Note recent wind events when filing insurance photos for St. Cloud, MN.
 
-We coordinate local dispatch coverage around St. Cloud, MN and nearby ZIP sectors.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is partial dry-in possible? In St. Cloud, MN, yes—if slope and anchor points support safe tie-offs.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: In St. Cloud, MN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 56303/56302/56301 zone).
+Valley metal in St. Cloud, MN should be reviewed whenever granule loss tracks the water line.
 
-Field note: Wind exposure category reviewed for ZIP sector 56303/56302/56301.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 56303, 56302, 56301, 56372, 56396 (county grid: Stearns County).
+roofing service brief: soffit intake free area and drip-edge metal profile were cross-checked for the St. Cloud intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 56302/56396/56304.
+
+On-site sector marker: Stearns County / ZIP 56303 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Stearns County / ZIP 56395 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-56304-0422d358

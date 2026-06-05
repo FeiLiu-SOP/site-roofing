@@ -11,24 +11,35 @@ lng: -110.7400
 zipSample: ["85749", "85748"]
 zipCodes: ["85749", "85748"]
 localPaths: ["Pima County / coords 32.2700, -110.7400", "Pima County / elevation 2667 ft band", "Pima County / primary ZIP 85749", "Pima County / ZIP 85748 sector", "Pima County / ZIP 85749 sector"]
-zillowHomeValueUsd: 649160
 ---
 
 **Engineering Notice for Tanque Verde:** Structural loading calculated based on 2667 ft terrain assessment. Regional dispatch grid: Pima County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Freeze-thaw cycles around Tanque Verde, AZ stress nail pops along eaves and rake edges.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Tanque Verde, AZ coverage windows and verified intake details.
+FAQ: When should permanent restoration start? In Tanque Verde, AZ, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Tanque Verde, AZ attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 85749/85748 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 85749, 85748 (county grid: Pima County).
+Regulatory note: Tanque Verde, AZ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: wind uplift clip spacing paired with soffit intake free area near ZIP 85749.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 85749/85748.
+
+On-site sector marker: Pima County / elevation 2667 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Tanque Verde, AZ: sampled sectors include 85748, 85749; county routing grid remains Pima County.
 
 Service reference: AZ-85749-880759fb

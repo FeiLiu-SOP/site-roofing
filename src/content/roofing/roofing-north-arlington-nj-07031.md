@@ -11,26 +11,31 @@ lng: -74.1300
 zipSample: ["07031"]
 zipCodes: ["07031"]
 localPaths: ["Bergen County / ZIP 07031 sector", "Bergen County / coords 40.7900, -74.1300", "Bergen County / elevation 92 ft band", "Bergen County / primary ZIP 07031"]
-zillowHomeValueUsd: 619413
 ---
 
 **Engineering Notice for North Arlington:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Bergen County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Regulatory note: North Arlington, NJ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Metal panel oil-canning in North Arlington, NJ may signal clip spacing issues, not wind damage alone.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: map ventilation intake and exhaust pairs for North Arlington, NJ attic runs.
 
-We coordinate local dispatch coverage around North Arlington, NJ and nearby ZIP sectors.
+We coordinate North Arlington, NJ roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In North Arlington, NJ, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 07031 intake.
+Risk flag: Tile underlayment age in North Arlington, NJ can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07031.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 07031 (county grid: Bergen County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 07031.
+
+Scope trace: soffit intake free area plus synthetic underlayment slip referenced in Bergen County county grid review.
+
+On-site sector marker: Bergen County / elevation 92 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 40.7900, -74.1300 at elevation ~92 ft aligns with Bergen County intake staging.
 
 Service reference: NJ-07031-e3b012e2

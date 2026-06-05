@@ -11,25 +11,33 @@ lng: -115.4900
 zipSample: ["92232", "92231"]
 zipCodes: ["92232", "92231"]
 localPaths: ["Imperial County / ZIP 92231 sector", "Imperial County / elevation 0 ft band", "Imperial County / coords 32.6800, -115.4900", "Imperial County / primary ZIP 92231", "Imperial County / ZIP 92232 sector"]
-zillowHomeValueUsd: 391748
 ---
 
 **Engineering Notice for Calexico:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Imperial County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Calexico, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 92231.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: In Calexico, CA, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should permanent remediation start? In Calexico, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-We coordinate local dispatch coverage around Calexico, CA and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for Calexico, CA.
 
-Field note: Wind exposure category reviewed for ZIP sector 92232/92231.
+Wind-zone note: Calexico, CA exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 92232, 92231 (county grid: Imperial County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+TPO seam welds in Calexico, CA commercial sections need probe tests after freeze events.
+
+Field routing: valley metal gauge paired with counter-flashing reglet depth near ZIP 92231.
+
+Field note: Valley debris and granule loss noted for ZIP 92231/92232.
+
+ZIP-corridor snapshot for Calexico, CA: sampled sectors include 92231, 92232; county routing grid remains Imperial County.
+
+On-site sector marker: Imperial County / primary ZIP 92231 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92231-89ff5d11

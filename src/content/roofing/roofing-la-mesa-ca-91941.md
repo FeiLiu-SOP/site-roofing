@@ -11,25 +11,31 @@ lng: -117.0200
 zipSample: ["91942", "91941", "91944", "91943"]
 zipCodes: ["91944", "91942", "91941", "91943"]
 localPaths: ["San Diego County / ZIP 91943 sector", "San Diego County / ZIP 91941 sector", "San Diego County / primary ZIP 91941", "San Diego County / coords 32.7700, -117.0200", "San Diego County / ZIP 91944 sector"]
-zillowHomeValueUsd: 1030851
 ---
 
 **Engineering Notice for La Mesa:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: San Diego County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-We coordinate local dispatch coverage around La Mesa, CA and nearby ZIP sectors.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: compare at least two estimates for scope and timeline.
+We coordinate La Mesa, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 91941.
+Regulatory note: La Mesa, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In La Mesa, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 91941/91942/91943 zone).
+Metal panel oil-canning in La Mesa, CA may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 91941, 91942, 91943, 91944 (county grid: San Diego County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roof service brief: starter-strip setback and synthetic underlayment slip were cross-checked for the La Mesa intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 91943/91941/91942.
+
+On-site sector marker: San Diego County / coords 32.7700, -117.0200 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 32.7700, -117.0200 at elevation ~554 ft aligns with San Diego County intake staging.
 
 Service reference: CA-91941-b3e1ac1f

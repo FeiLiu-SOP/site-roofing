@@ -11,24 +11,33 @@ lng: -83.1600
 zipSample: ["48192"]
 zipCodes: ["48192"]
 localPaths: ["Wayne County / ZIP 48192 sector", "Wayne County / coords 42.2100, -83.1600", "Wayne County / primary ZIP 48192", "Wayne County / elevation 577 ft band"]
-zillowHomeValueUsd: 186218
 ---
 
 **Engineering Notice for Wyandotte:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Wyandotte, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Tile and shingle mixes in Wyandotte, MI require different fastener patterns at transitions.
 
-Local conditions in Wyandotte, MI can affect timelines and material choices.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How long can shingles wait after storm damage? In Wyandotte, MI, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 48192 coverage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 48192 (county grid: Wayne County).
+Code context: Ventilation ratios for Wyandotte, MI attics should be checked against current mechanical exhaust additions.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: deck sheathing thickness plus wind uplift clip spacing referenced in Wayne County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 48192.
+
+Regional mesh label Wayne County: moisture and logistics baselines are keyed to Wyandotte, MI before niche-specific work begins.
+
+On-site sector marker: Wayne County / elevation 577 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48192-20556450

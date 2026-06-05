@@ -11,24 +11,31 @@ lng: -85.5700
 zipSample: ["40223", "40299", "40220", "40224"]
 zipCodes: ["40299", "40220", "40223", "40224"]
 localPaths: ["Jefferson County / ZIP 40299 sector", "Jefferson County / ZIP 40220 sector", "Jefferson County / coords 38.2000, -85.5700", "Jefferson County / ZIP 40224 sector", "Jefferson County / elevation 659 ft band"]
-zillowHomeValueUsd: 338882
 ---
 
 **Engineering Notice for Jeffersontown:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: In Jeffersontown, KY, algae-resistant granules may be specified for north-facing slopes.
 
-Transparent pricing helps you compare like-for-like scope items.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Homeowners in Jeffersontown, KY often face sudden roof service problems that require fast action.
+Step: map ventilation intake and exhaust pairs for Jeffersontown, KY attic runs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Our Jeffersontown, KY dispatch packets reference county grid Jefferson County and elevation band 659 ft.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Jeffersontown, KY, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Access points and staging constraints recorded for ZIP 40224/40220/40223 coverage.
+Risk flag: Tile underlayment age in Jeffersontown, KY can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 40224, 40220, 40223, 40299 (county grid: Jefferson County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+FAQ: Can you tarp only part of the roof? In Jeffersontown, KY, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: attic baffle spacing paired with deck sheathing thickness near ZIP 40299.
+
+On-site sector marker: Jefferson County / elevation 659 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 38.2000, -85.5700 at elevation ~659 ft aligns with Jefferson County intake staging.
 
 Service reference: KY-40299-048826e4

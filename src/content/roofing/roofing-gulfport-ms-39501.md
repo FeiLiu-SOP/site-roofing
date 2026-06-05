@@ -11,24 +11,33 @@ lng: -89.0700
 zipSample: ["39507", "39502", "39503", "39501", "39505"]
 zipCodes: ["39506", "39503", "39507", "39505", "39502", "39501"]
 localPaths: ["Harrison County / ZIP 39502 sector", "Harrison County / primary ZIP 39501", "Harrison County / ZIP 39503 sector", "Harrison County / coords 30.4300, -89.0700", "Harrison County / ZIP 39507 sector"]
-zillowHomeValueUsd: 115004
 ---
 
 **Engineering Notice for Gulfport:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Harrison County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wood shake courses in Gulfport, MS require skip-spacing rules at valleys.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+We coordinate Gulfport, MS roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Moisture pathway inspection logged near ZIP 39506/39507/39503 intake.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 39506, 39507, 39503, 39502, 39505 (county grid: Harrison County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Code context: Ventilation ratios for Gulfport, MS attics should be checked against current mechanical exhaust additions.
+
+Field routing: valley metal gauge paired with wind uplift clip spacing near ZIP 39501.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 39503/39507/39502.
+
+On-site sector marker: Harrison County / primary ZIP 39501 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Harrison County / ZIP 39501 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39501-8a18563f

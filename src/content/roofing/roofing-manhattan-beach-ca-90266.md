@@ -11,26 +11,29 @@ lng: -118.4000
 zipSample: ["90267", "90266"]
 zipCodes: ["90267", "90266"]
 localPaths: ["Los Angeles County / coords 33.8900, -118.4000", "Los Angeles County / ZIP 90266 sector", "Los Angeles County / elevation 135 ft band", "Los Angeles County / ZIP 90267 sector", "Los Angeles County / primary ZIP 90266"]
-zillowHomeValueUsd: 3229604
 ---
 
 **Engineering Notice for Manhattan Beach:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-In Manhattan Beach, CA, urgent roofing service issues can escalate quickly.
+FAQ: When should permanent restoration start? In Manhattan Beach, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Code context: Ventilation ratios for Manhattan Beach, CA attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Manhattan Beach, CA, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 90266/90267 coverage.
+Skylight curb flashing in Manhattan Beach, CA should be sequenced before ridge cap replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 90266/90267 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 90266, 90267 (county grid: Los Angeles County).
+roofing service brief: ice-barrier lap sequence and soffit intake free area were cross-checked for the Manhattan Beach intake packet.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Los Angeles County. Reference elevation: 135 ft. Primary coordinates: 33.8900, -118.4000. ZIP sample: 90267, 90266. Service perimeter note: Coverage extends through Los Angeles County with dispatch centered near ZIP 90266.
+
+Coordinate-anchored dispatch note: center reference 33.8900, -118.4000 at elevation ~135 ft aligns with Los Angeles County intake staging.
 
 Service reference: CA-90266-c750b0d1

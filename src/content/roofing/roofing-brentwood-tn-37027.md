@@ -11,27 +11,35 @@ lng: -86.7800
 zipSample: ["37027", "37024"]
 zipCodes: ["37024", "37027"]
 localPaths: ["Williamson County / ZIP 37027 sector", "Williamson County / primary ZIP 37027", "Williamson County / coords 35.9900, -86.7800", "Williamson County / elevation 735 ft band", "Williamson County / ZIP 37024 sector"]
-zillowHomeValueUsd: 1222848
 ---
 
 **Engineering Notice for Brentwood:** Structural loading calculated based on 735 ft terrain assessment. Regional dispatch grid: Williamson County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Tile underlayment age in Brentwood, TN can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 37027.
+Synthetic underlayment slip in Brentwood, TN is often tied to deck moisture, not wind alone.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 37027/37024 zone).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 37027/37024.
+Wind-zone note: Brentwood, TN exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 37027, 37024 (county grid: Williamson County).
+Coastal humidity in Brentwood, TN can slow shingle seal-down after shoulder-season storms.
+
+Material note: In Brentwood, TN, algae-resistant granules may be specified for north-facing slopes.
+
+roof work brief: soffit intake free area and valley metal gauge were cross-checked for the Brentwood intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 37024/37027.
+
+Primary postal anchor 37027 with multi-ZIP overlap in Brentwood; field packets tag Williamson County for county-grid reconciliation.
+
+On-site sector marker: Williamson County / ZIP 37024 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37027-96560362

@@ -11,26 +11,35 @@ lng: -158.0200
 zipSample: ["96786"]
 zipCodes: ["96786"]
 localPaths: ["Honolulu County / elevation 991 ft band", "Honolulu County / ZIP 96786 sector", "Honolulu County / primary ZIP 96786", "Honolulu County / coords 21.5000, -158.0200"]
-zillowHomeValueUsd: 850655
 ---
 
 **Engineering Notice for Wahiawa:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Honolulu County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Wahiawa, HI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: avoid large upfront payments without milestones.
+Freeze-thaw cycles around Wahiawa, HI stress nail pops along eaves and rake edges.
 
-We coordinate local dispatch coverage around Wahiawa, HI and nearby ZIP sectors.
+Parapet coping movement in Wahiawa, HI can channel water behind wall cladding.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Wahiawa, HI can fail independently of visible tile cracks.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Moisture pathway inspection logged near ZIP 96786 intake.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96786.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 96786 (county grid: Honolulu County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Regulatory note: Wahiawa, HI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roof service brief: skylight curb height and attic baffle spacing were cross-checked for the Wahiawa intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 96786.
+
+Regional mesh label Honolulu County: moisture and logistics baselines are keyed to Wahiawa, HI before niche-specific work begins.
+
+On-site sector marker: Honolulu County / coords 21.5000, -158.0200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96786-2f4acce6

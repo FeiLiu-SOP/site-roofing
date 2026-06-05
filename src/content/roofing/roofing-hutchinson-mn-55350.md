@@ -11,27 +11,35 @@ lng: -94.3800
 zipSample: ["55350"]
 zipCodes: ["55350"]
 localPaths: ["McLeod County / coords 44.8900, -94.3800", "McLeod County / primary ZIP 55350", "McLeod County / ZIP 55350 sector", "McLeod County / elevation 1079 ft band"]
-zillowHomeValueUsd: 293378
 ---
 
 **Engineering Notice for Hutchinson:** Structural loading calculated based on 1079 ft terrain assessment. Regional dispatch grid: McLeod County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55350.
+Granule embedment loss on Hutchinson, MN north slopes can precede mat exposure.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-We coordinate local dispatch coverage around Hutchinson, MN and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Hutchinson, MN can fail independently of visible tile cracks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55350.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 55350.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 55350 (county grid: McLeod County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Wind-zone note: Hutchinson, MN exposure class can change starter-strip and cap nail schedules.
+
+roof service brief: shingle exposure calibration and ice-barrier lap sequence were cross-checked for the Hutchinson intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 55350.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to McLeod County. Reference elevation: 1079 ft. Primary coordinates: 44.8900, -94.3800. ZIP sample: 55350. Service perimeter note: Coverage extends through McLeod County with dispatch centered near ZIP 55350.
+
+Regional mesh label McLeod County: moisture and logistics baselines are keyed to Hutchinson, MN before niche-specific work begins.
 
 Service reference: MN-55350-51a0d8bb

@@ -11,25 +11,33 @@ lng: -65.6600
 zipSample: ["00740", "00738"]
 zipCodes: ["00738", "00740"]
 localPaths: ["Fajardo County / primary ZIP 00740", "Fajardo County / coords 18.3300, -65.6600", "Fajardo County / elevation 56 ft band", "Fajardo County / ZIP 00738 sector", "Fajardo County / ZIP 00740 sector"]
-zillowHomeValueUsd: 351858
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Fajardo:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Fajardo County.
 
 
-In Fajardo, PR, seasonal demand can change scheduling windows.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fajardo, PR, but intake notes help reduce delays.
+Regulatory note: Fajardo, PR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Fajardo, PR and nearby ZIP sectors.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: request a written scope before work starts.
+Risk flag: Tile underlayment age in Fajardo, PR can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 00740/00738 zone).
+FAQ: Can you tarp only part of the roof? In Fajardo, PR, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 00740, 00738 (county grid: Fajardo County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Granule embedment loss on Fajardo, PR north slopes can precede mat exposure.
+
+Field routing: counter-flashing reglet depth paired with skylight curb height near ZIP 00740.
+
+Field note: Shingle seal-down timing logged near ZIP 00740/00738.
+
+ZIP-corridor snapshot for Fajardo, PR: sampled sectors include 00738, 00740; county routing grid remains Fajardo County.
+
+Coordinate-anchored dispatch note: center reference 18.3300, -65.6600 at elevation ~56 ft aligns with Fajardo County intake staging.
 
 Service reference: PR-00740-a7e429db

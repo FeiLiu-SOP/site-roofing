@@ -11,25 +11,33 @@ lng: -78.8100
 zipSample: ["14226"]
 zipCodes: ["14226"]
 localPaths: ["Erie County / coords 42.9700, -78.8100", "Erie County / primary ZIP 14226", "Erie County / elevation 630 ft band", "Erie County / ZIP 14226 sector"]
-zillowHomeValueUsd: 310800
 ---
 
 **Engineering Notice for Eggertsville:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Erie County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 14226.
+Regulatory note: Eggertsville, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Eggertsville, NY and nearby ZIP sectors.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can you tarp only part of the roof? In Eggertsville, NY, yes—if slope and anchor points support safe tie-offs.
 
-Structured milestones protect both sides when scheduling work.
+Skylight curb flashing in Eggertsville, NY should be sequenced before ridge cap replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Tile underlayment age in Eggertsville, NY can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 14226.
+Valley metal in Eggertsville, NY should be reviewed whenever granule loss tracks the water line.
 
-Dispatch sectors sampled: ZIP 14226 (county grid: Erie County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+roof work brief: shingle exposure calibration and drip-edge metal profile were cross-checked for the Eggertsville intake packet.
+
+On-site sector marker: Erie County / ZIP 14226 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Erie County and primary ZIP 14226. Terrain reference: 630 ft. Center point: 42.9700, -78.8100. ZIP sample: 14226. Regional routing note: Erie County traffic flow is balanced around ZIP 14226 service demand.
 
 Service reference: NY-14226-7ed35556

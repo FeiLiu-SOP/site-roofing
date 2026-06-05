@@ -11,24 +11,33 @@ lng: -117.0300
 zipSample: ["91945", "91946"]
 zipCodes: ["91945", "91946"]
 localPaths: ["San Diego County / elevation 420 ft band", "San Diego County / ZIP 91945 sector", "San Diego County / coords 32.7300, -117.0300", "San Diego County / primary ZIP 91945", "San Diego County / ZIP 91946 sector"]
-zillowHomeValueUsd: 762167
 ---
 
 **Engineering Notice for Lemon Grove:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: San Diego County.
 
 
-Our service coordination centers on Lemon Grove, CA coverage windows and verified intake details.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Note recent wind events when filing insurance photos for Lemon Grove, CA.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lemon Grove, CA, but intake notes help reduce delays.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Structured milestones protect both sides when scheduling work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+Wind-zone note: Lemon Grove, CA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Access points and staging constraints recorded for ZIP 91945/91946 coverage.
+Valley metal in Lemon Grove, CA should be reviewed whenever granule loss tracks the water line.
 
-Dispatch sectors sampled: ZIP 91945, 91946 (county grid: San Diego County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Risk flag: In Lemon Grove, CA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: ridge cap nail schedule paired with soffit intake free area near ZIP 91945.
+
+Field note: Attic moisture pathway scan referenced ZIP 91945/91946.
+
+ZIP-corridor snapshot for Lemon Grove, CA: sampled sectors include 91946, 91945; county routing grid remains San Diego County.
+
+On-site sector marker: San Diego County / ZIP 91946 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91945-a98b2120

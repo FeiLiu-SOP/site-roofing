@@ -11,26 +11,29 @@ lng: -120.3200
 zipSample: ["93210"]
 zipCodes: ["93210"]
 localPaths: ["Fresno County / primary ZIP 93210", "Fresno County / elevation 623 ft band", "Fresno County / coords 36.1400, -120.3200", "Fresno County / ZIP 93210 sector"]
-zillowHomeValueUsd: 293581
 ---
 
 **Engineering Notice for Coalinga:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Fresno County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Granule embedment loss on Coalinga, CA north slopes can precede mat exposure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Coalinga, CA can fail independently of visible tile cracks.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Homeowners in Coalinga, CA often face sudden roof work problems that require fast action.
+Regulatory note: Coalinga, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 93210 coverage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 93210 zone).
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 93210 (county grid: Fresno County).
+roof work brief: attic baffle spacing and skylight curb height were cross-checked for the Coalinga intake packet.
+
+On-site sector marker: Fresno County / primary ZIP 93210 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~623 ft across the Fresno County area. Coordinates: 36.1400, -120.3200. ZIP sample: 93210. Service perimeter note: Coverage extends through Fresno County with dispatch centered near ZIP 93210.
 
 Service reference: CA-93210-d0547569

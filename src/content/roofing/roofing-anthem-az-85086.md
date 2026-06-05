@@ -11,24 +11,35 @@ lng: -112.1200
 zipSample: ["85086"]
 zipCodes: ["85086"]
 localPaths: ["Maricopa County / ZIP 85086 sector", "Maricopa County / primary ZIP 85086", "Maricopa County / elevation 1860 ft band", "Maricopa County / coords 33.8600, -112.1200"]
-zillowHomeValueUsd: 624716
 ---
 
 **Engineering Notice for Anthem:** Structural loading calculated based on 1860 ft terrain assessment. Regional dispatch grid: Maricopa County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: In Anthem, AZ, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Coastal humidity in Anthem, AZ can slow shingle seal-down after shoulder-season storms.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Can you tarp only part of the roof? In Anthem, AZ, yes—if slope and anchor points support safe tie-offs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Anthem, AZ, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 85086 zone).
+Regulatory note: Anthem, AZ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 85086 (county grid: Maricopa County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Field routing: wind uplift clip spacing paired with soffit intake free area near ZIP 85086.
+
+Field note: Attic moisture pathway scan referenced ZIP 85086.
+
+Coordinate-anchored dispatch note: center reference 33.8600, -112.1200 at elevation ~1860 ft aligns with Maricopa County intake staging.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Maricopa County and primary ZIP 85086. Terrain reference: 1860 ft. Center point: 33.8600, -112.1200. ZIP sample: 85086. Regional routing note: Maricopa County traffic flow is balanced around ZIP 85086 service demand.
 
 Service reference: AZ-85086-246c8b50

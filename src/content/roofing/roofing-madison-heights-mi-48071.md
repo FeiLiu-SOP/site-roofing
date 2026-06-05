@@ -11,26 +11,31 @@ lng: -83.1000
 zipSample: ["48071"]
 zipCodes: ["48071"]
 localPaths: ["Oakland County / elevation 633 ft band", "Oakland County / primary ZIP 48071", "Oakland County / coords 42.5100, -83.1000", "Oakland County / ZIP 48071 sector"]
-zillowHomeValueUsd: 219542
 ---
 
 **Engineering Notice for Madison Heights:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Oakland County.
 
 
-Structured milestones protect both sides when scheduling work.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: log deck soundings near vents before tear-off is approved.
 
-Our service coordination centers on Madison Heights, MI coverage windows and verified intake details.
+Code context: Ventilation ratios for Madison Heights, MI attics should be checked against current mechanical exhaust additions.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Madison Heights, MI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 48071 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 48071.
+Tile and shingle mixes in Madison Heights, MI require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 48071 (county grid: Oakland County).
+Field routing: drip-edge metal profile paired with attic baffle spacing near ZIP 48071.
+
+Field note: Attic moisture pathway scan referenced ZIP 48071.
+
+On-site sector marker: Oakland County / coords 42.5100, -83.1000 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Oakland County. Reference elevation: 633 ft. Primary coordinates: 42.5100, -83.1000. ZIP sample: 48071. Logistics priority: Serving residential sectors across Oakland County and north-east ZIP 48071 grid.
 
 Service reference: MI-48071-e82c87a3

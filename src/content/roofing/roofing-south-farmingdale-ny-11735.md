@@ -11,24 +11,35 @@ lng: -73.4500
 zipSample: ["11735"]
 zipCodes: ["11735"]
 localPaths: ["Nassau County / primary ZIP 11735", "Nassau County / coords 40.7200, -73.4500", "Nassau County / ZIP 11735 sector", "Nassau County / elevation 52 ft band"]
-zillowHomeValueUsd: 716927
 ---
 
 **Engineering Notice for South Farmingdale:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: log deck soundings near vents before tear-off is approved.
 
-Local conditions in South Farmingdale, NY can affect timelines and material choices.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-We coordinate local dispatch coverage around South Farmingdale, NY and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Wind exposure category reviewed for ZIP sector 11735.
+FAQ: How long can shingles wait after storm damage? In South Farmingdale, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 11735 (county grid: Nassau County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Granule embedment loss on South Farmingdale, NY north slopes can precede mat exposure.
+
+Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Nassau County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 11735.
+
+On-site sector marker: Nassau County / elevation 52 ft band — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 11735 with multi-ZIP overlap in South Farmingdale; field packets tag Nassau County for county-grid reconciliation.
 
 Service reference: NY-11735-43200944

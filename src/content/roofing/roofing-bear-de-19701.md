@@ -11,26 +11,29 @@ lng: -75.6800
 zipSample: ["19701", "19702"]
 zipCodes: ["19702", "19701"]
 localPaths: ["New Castle County / ZIP 19702 sector", "New Castle County / coords 39.6200, -75.6800", "New Castle County / elevation 69 ft band", "New Castle County / primary ZIP 19701", "New Castle County / ZIP 19701 sector"]
-zillowHomeValueUsd: 420853
 ---
 
 **Engineering Notice for Bear:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: New Castle County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should permanent restoration start? In Bear, DE, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Freeze-thaw cycles around Bear, DE stress nail pops along eaves and rake edges.
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 19701/19702 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 19701/19702 coverage.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 19701, 19702 (county grid: New Castle County).
+roof work brief: synthetic underlayment slip and skylight curb height were cross-checked for the Bear intake packet.
+
+Primary postal anchor 19701 with multi-ZIP overlap in Bear; field packets tag New Castle County for county-grid reconciliation.
+
+On-site sector marker: New Castle County / elevation 69 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: DE-19701-8f71b299

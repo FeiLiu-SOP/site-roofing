@@ -11,25 +11,29 @@ lng: -86.7400
 zipSample: ["35297", "35253", "35223", "35213", "35243"]
 zipCodes: ["35243", "35213", "35297", "35253", "35223"]
 localPaths: ["Jefferson County / elevation 971 ft band", "Jefferson County / ZIP 35297 sector", "Jefferson County / coords 33.4900, -86.7400", "Jefferson County / ZIP 35253 sector", "Jefferson County / primary ZIP 35213"]
-zillowHomeValueUsd: 853332
 ---
 
 **Engineering Notice for Mountain Brook:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Homeowners in Mountain Brook, AL often face sudden roof service problems that require fast action.
+Coastal humidity in Mountain Brook, AL can slow shingle seal-down after shoulder-season storms.
 
-We coordinate local dispatch coverage around Mountain Brook, AL and nearby ZIP sectors.
+Risk flag: In Mountain Brook, AL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 35213.
+Tip: Note recent wind events when filing insurance photos for Mountain Brook, AL.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Mountain Brook, AL exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 35223/35297/35253.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 35223, 35297, 35253, 35243, 35213 (county grid: Jefferson County).
+We coordinate Mountain Brook, AL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Scope trace: valley metal gauge plus ice-barrier lap sequence referenced in Jefferson County county grid review.
+
+On-site sector marker: Jefferson County / ZIP 35297 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Jefferson County. Reference elevation: 971 ft. Primary coordinates: 33.4900, -86.7400. ZIP sample: 35223, 35297, 35213, 35253, 35243. Service perimeter note: Coverage extends through Jefferson County with dispatch centered near ZIP 35213.
 
 Service reference: AL-35213-6b89ccf5

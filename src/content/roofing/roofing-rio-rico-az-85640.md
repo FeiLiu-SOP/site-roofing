@@ -11,26 +11,33 @@ lng: -110.9900
 zipSample: ["85640", "85648"]
 zipCodes: ["85648", "85640"]
 localPaths: ["Santa Cruz County / ZIP 85648 sector", "Santa Cruz County / ZIP 85640 sector", "Santa Cruz County / coords 31.5000, -110.9900", "Santa Cruz County / primary ZIP 85640", "Santa Cruz County / elevation 3461 ft band"]
-zillowHomeValueUsd: 408338
 ---
 
 **Engineering Notice for Rio Rico:** Structural loading calculated based on 3461 ft terrain assessment. Regional dispatch grid: Santa Cruz County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rio Rico, AZ, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: request a written scope before work starts.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-We coordinate local dispatch coverage around Rio Rico, AZ and nearby ZIP sectors.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Wind-zone note: Rio Rico, AZ exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 85648/85640 zone).
+Freeze-thaw cycles around Rio Rico, AZ stress nail pops along eaves and rake edges.
 
-Field note: Access points and staging constraints recorded for ZIP 85648/85640 coverage.
+Hail bruising on Rio Rico, AZ ridges may not breach felt until the next wind event.
 
-Dispatch sectors sampled: ZIP 85648, 85640 (county grid: Santa Cruz County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+FAQ: Can you tarp only part of the roof? In Rio Rico, AZ, yes—if slope and anchor points support safe tie-offs.
+
+roofing service brief: wind uplift clip spacing and chimney cricket slope were cross-checked for the Rio Rico intake packet.
+
+On-site sector marker: Santa Cruz County / elevation 3461 ft band — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 85640 with multi-ZIP overlap in Rio Rico; field packets tag Santa Cruz County for county-grid reconciliation.
 
 Service reference: AZ-85640-d1c85b55

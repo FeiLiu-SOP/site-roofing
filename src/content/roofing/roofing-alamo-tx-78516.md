@@ -11,24 +11,31 @@ lng: -98.1200
 zipSample: ["78516"]
 zipCodes: ["78516"]
 localPaths: ["Hidalgo County / ZIP 78516 sector", "Hidalgo County / primary ZIP 78516", "Hidalgo County / elevation 118 ft band", "Hidalgo County / coords 26.1800, -98.1200"]
-zillowHomeValueUsd: 169100
 ---
 
 **Engineering Notice for Alamo:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Hidalgo County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Granule embedment loss on Alamo, TX north slopes can precede mat exposure.
 
-We coordinate local dispatch coverage around Alamo, TX and nearby ZIP sectors.
+Our Alamo, TX dispatch packets reference county grid Hidalgo County and elevation band 118 ft.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Alamo, TX can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Alamo, TX, but intake notes help reduce delays.
+Wind-zone note: Alamo, TX exposure class can change starter-strip and cap nail schedules.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78516.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 78516 (county grid: Hidalgo County).
+FAQ: Is partial dry-in possible? In Alamo, TX, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: starter-strip setback plus valley metal gauge referenced in Hidalgo County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 78516.
+
+Coordinate-anchored dispatch note: center reference 26.1800, -98.1200 at elevation ~118 ft aligns with Hidalgo County intake staging.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Hidalgo County and primary ZIP 78516. Terrain reference: 118 ft. Center point: 26.1800, -98.1200. ZIP sample: 78516. Service perimeter note: Coverage extends through Hidalgo County with dispatch centered near ZIP 78516.
 
 Service reference: TX-78516-acc9d945

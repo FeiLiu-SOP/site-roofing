@@ -11,24 +11,33 @@ lng: -118.3500
 zipSample: ["90250", "90310", "90251", "90304"]
 zipCodes: ["90250", "90310", "90251", "90304"]
 localPaths: ["Los Angeles County / primary ZIP 90304", "Los Angeles County / ZIP 90310 sector", "Los Angeles County / ZIP 90251 sector", "Los Angeles County / ZIP 90250 sector", "Los Angeles County / ZIP 90304 sector"]
-zillowHomeValueUsd: 739001
 ---
 
 **Engineering Notice for Hawthorne:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Hawthorne, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Homeowners in Hawthorne, CA often face sudden roofing service problems that require fast action.
+Risk flag: Tile underlayment age in Hawthorne, CA can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: map ventilation intake and exhaust pairs for Hawthorne, CA attic runs.
 
-A written scope helps prevent rework and mismatched expectations.
+Across Hawthorne, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-We coordinate local dispatch coverage around Hawthorne, CA and nearby ZIP sectors.
+Regulatory note: Hawthorne, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 90251/90310/90250 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 90251, 90310, 90250, 90304 (county grid: Los Angeles County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roofing service brief: ridge cap nail schedule and ice-barrier lap sequence were cross-checked for the Hawthorne intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 90250/90304/90310.
+
+Primary postal anchor 90304 with multi-ZIP overlap in Hawthorne; field packets tag Los Angeles County for county-grid reconciliation.
+
+On-site sector marker: Los Angeles County / ZIP 90310 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90304-7630ea6c

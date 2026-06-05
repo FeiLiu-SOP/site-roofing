@@ -11,26 +11,31 @@ lng: -117.8600
 zipSample: ["92811", "92871", "92870"]
 zipCodes: ["92870", "92811", "92871"]
 localPaths: ["Orange County / elevation 289 ft band", "Orange County / ZIP 92871 sector", "Orange County / ZIP 92870 sector", "Orange County / ZIP 92811 sector", "Orange County / coords 33.8800, -117.8600"]
-zillowHomeValueUsd: 1115876
 ---
 
 **Engineering Notice for Placentia:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Our service coordination centers on Placentia, CA coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Local conditions in Placentia, CA can affect timelines and material choices.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tile and shingle mixes in Placentia, CA require different fastener patterns at transitions.
 
-Field note: Connection points spot-checked where accessible (ZIP 92871/92870/92811 zone).
+Code context: Ventilation ratios for Placentia, CA attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 92871/92870/92811 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 92871, 92870, 92811 (county grid: Orange County).
+Step: map ventilation intake and exhaust pairs for Placentia, CA attic runs.
+
+Field routing: synthetic underlayment slip paired with valley metal gauge near ZIP 92870.
+
+On-site sector marker: Orange County / ZIP 92811 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Placentia, CA: sampled sectors include 92870, 92871, 92811; county routing grid remains Orange County.
 
 Service reference: CA-92870-28527bca

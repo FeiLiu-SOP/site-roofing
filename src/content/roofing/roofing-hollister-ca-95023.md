@@ -11,24 +11,29 @@ lng: -121.4000
 zipSample: ["95024", "95023"]
 zipCodes: ["95023", "95024"]
 localPaths: ["San Benito County / coords 36.8600, -121.4000", "San Benito County / primary ZIP 95023", "San Benito County / ZIP 95023 sector", "San Benito County / ZIP 95024 sector", "San Benito County / elevation 282 ft band"]
-zillowHomeValueUsd: 763157
 ---
 
 **Engineering Notice for Hollister:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: San Benito County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: request a written scope before work starts.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Our service coordination centers on Hollister, CA coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Hollister, CA can fail independently of visible tile cracks.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Clear documentation helps align materials, labor, and timeline.
+Across Hollister, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Moisture pathway inspection logged near ZIP 95023/95024 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 95023, 95024 (county grid: San Benito County).
+Code context: Ventilation ratios for Hollister, CA attics should be checked against current mechanical exhaust additions.
+
+roofing service brief: deck sheathing thickness and skylight curb height were cross-checked for the Hollister intake packet.
+
+Coordinate-anchored dispatch note: center reference 36.8600, -121.4000 at elevation ~282 ft aligns with San Benito County intake staging.
+
+Regional mesh label San Benito County: moisture and logistics baselines are keyed to Hollister, CA before niche-specific work begins.
 
 Service reference: CA-95023-d63ea041

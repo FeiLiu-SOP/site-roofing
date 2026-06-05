@@ -11,25 +11,33 @@ lng: -90.2800
 zipSample: ["63034"]
 zipCodes: ["63034"]
 localPaths: ["St. Louis County / ZIP 63034 sector", "St. Louis County / elevation 558 ft band", "St. Louis County / primary ZIP 63034", "St. Louis County / coords 38.8400, -90.2800"]
-zillowHomeValueUsd: 272158
 ---
 
 **Engineering Notice for Old Jamestown:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Regulatory note: Old Jamestown, MO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Old Jamestown, MO, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Valley metal in Old Jamestown, MO should be reviewed whenever granule loss tracks the water line.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 63034.
+TPO seam welds in Old Jamestown, MO commercial sections need probe tests after freeze events.
 
-In Old Jamestown, MO, urgent roof work issues can escalate quickly.
+We coordinate Old Jamestown, MO roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 63034.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 63034 (county grid: St. Louis County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+FAQ: Is partial dry-in possible? In Old Jamestown, MO, yes—if slope and anchor points support safe tie-offs.
+
+roof work brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Old Jamestown intake packet.
+
+ZIP-corridor snapshot for Old Jamestown, MO: sampled sectors include 63034; county routing grid remains St. Louis County.
+
+On-site sector marker: St. Louis County / elevation 558 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63034-5d932cf8

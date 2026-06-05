@@ -11,24 +11,31 @@ lng: -111.0500
 zipSample: ["85746", "85757"]
 zipCodes: ["85746", "85757"]
 localPaths: ["Pima County / coords 32.1500, -111.0500", "Pima County / elevation 2664 ft band", "Pima County / ZIP 85757 sector", "Pima County / primary ZIP 85757", "Pima County / ZIP 85746 sector"]
-zillowHomeValueUsd: 324443
 ---
 
 **Engineering Notice for Drexel Heights:** Structural loading calculated based on 2664 ft terrain assessment. Regional dispatch grid: Pima County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Drexel Heights, AZ, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Drexel Heights, AZ can fail independently of visible tile cracks.
 
-Our service coordination centers on Drexel Heights, AZ coverage windows and verified intake details.
+FAQ: When should permanent service start? In Drexel Heights, AZ, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: map ventilation intake and exhaust pairs for Drexel Heights, AZ attic runs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: avoid large upfront payments without milestones.
+Low-slope sections in Drexel Heights, AZ need positive drainage before membrane repairs are scoped.
 
-Field note: Wind exposure category reviewed for ZIP sector 85757/85746.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 85757, 85746 (county grid: Pima County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: attic baffle spacing paired with wind uplift clip spacing near ZIP 85757.
+
+Field note: Valley debris and granule loss noted for ZIP 85746/85757.
+
+Primary postal anchor 85757 with multi-ZIP overlap in Drexel Heights; field packets tag Pima County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Grid anchor set to Pima County. Reference elevation: 2664 ft. Primary coordinates: 32.1500, -111.0500. ZIP sample: 85746, 85757. Regional routing note: Pima County traffic flow is balanced around ZIP 85757 service demand.
 
 Service reference: AZ-85757-8faa4bf0

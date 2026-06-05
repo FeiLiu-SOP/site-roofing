@@ -11,27 +11,29 @@ lng: -93.4600
 zipSample: ["55305", "55345", "55391", "55343"]
 zipCodes: ["55305", "55345", "55391", "55343"]
 localPaths: ["Hennepin County / primary ZIP 55345", "Hennepin County / ZIP 55345 sector", "Hennepin County / ZIP 55305 sector", "Hennepin County / ZIP 55391 sector", "Hennepin County / coords 44.9300, -93.4600"]
-zillowHomeValueUsd: 534586
 ---
 
 **Engineering Notice for Minnetonka:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Hennepin County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55345.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Minnetonka, MN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: How long can shingles wait after storm damage? In Minnetonka, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Access points and staging constraints recorded for ZIP 55343/55391/55345 coverage.
+Granule embedment loss on Minnetonka, MN north slopes can precede mat exposure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55343/55391/55345.
+Our Minnetonka, MN dispatch packets reference county grid Hennepin County and elevation band 991 ft.
 
-Dispatch sectors sampled: ZIP 55343, 55391, 55345, 55305 (county grid: Hennepin County).
+roofing service brief: starter-strip setback and deck sheathing thickness were cross-checked for the Minnetonka intake packet.
+
+ZIP-corridor snapshot for Minnetonka, MN: sampled sectors include 55305, 55345, 55391, 55343; county routing grid remains Hennepin County.
+
+Coordinate-anchored dispatch note: center reference 44.9300, -93.4600 at elevation ~991 ft aligns with Hennepin County intake staging.
 
 Service reference: MN-55345-9cc9e037

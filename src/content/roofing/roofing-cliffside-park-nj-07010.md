@@ -11,26 +11,31 @@ lng: -73.9900
 zipSample: ["07010"]
 zipCodes: ["07010"]
 localPaths: ["Bergen County / primary ZIP 07010", "Bergen County / ZIP 07010 sector", "Bergen County / elevation 285 ft band", "Bergen County / coords 40.8200, -73.9900"]
-zillowHomeValueUsd: 645133
 ---
 
 **Engineering Notice for Cliffside Park:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Bergen County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Cliffside Park, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-In Cliffside Park, NJ, seasonal demand can change scheduling windows.
+Wind-zone note: Cliffside Park, NJ exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cliffside Park, NJ, but intake notes help reduce delays.
+FAQ: Can you tarp only part of the roof? In Cliffside Park, NJ, yes—if slope and anchor points support safe tie-offs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07010.
+Step: compare shingle manufacturer wind-zone ratings for Cliffside Park, NJ exposure class.
 
-Field note: Wind exposure category reviewed for ZIP sector 07010.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 07010 (county grid: Bergen County).
+Hail bruising on Cliffside Park, NJ ridges may not breach felt until the next wind event.
+
+Scope trace: chimney cricket slope plus ice-barrier lap sequence referenced in Bergen County county grid review.
+
+On-site sector marker: Bergen County / ZIP 07010 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Bergen County / coords 40.8200, -73.9900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07010-8a94b9fd

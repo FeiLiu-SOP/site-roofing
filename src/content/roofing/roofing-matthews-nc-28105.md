@@ -11,26 +11,31 @@ lng: -80.7100
 zipSample: ["28105", "28106"]
 zipCodes: ["28105", "28106"]
 localPaths: ["Mecklenburg County / primary ZIP 28105", "Mecklenburg County / ZIP 28106 sector", "Mecklenburg County / ZIP 28105 sector", "Mecklenburg County / coords 35.1200, -80.7100", "Mecklenburg County / elevation 745 ft band"]
-zillowHomeValueUsd: 490609
 ---
 
 **Engineering Notice for Matthews:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Matthews, NC, but intake notes help reduce delays.
+Wind-zone note: Matthews, NC exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around Matthews, NC and nearby ZIP sectors.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 28105/28106 coverage.
+Attic ventilation deficits in Matthews, NC can mimic roof leaks at ceiling penetrations.
 
-Field note: Connection points spot-checked where accessible (ZIP 28105/28106 zone).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 28105, 28106 (county grid: Mecklenburg County).
+Step: stage tear-off debris paths away from landscape drains.
+
+roofing service brief: ridge cap nail schedule and counter-flashing reglet depth were cross-checked for the Matthews intake packet.
+
+Regional mesh label Mecklenburg County: moisture and logistics baselines are keyed to Matthews, NC before niche-specific work begins.
+
+On-site sector marker: Mecklenburg County / elevation 745 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28105-e07cc51a

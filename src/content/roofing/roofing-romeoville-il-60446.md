@@ -11,26 +11,35 @@ lng: -88.1000
 zipSample: ["60446"]
 zipCodes: ["60446"]
 localPaths: ["Will County / elevation 682 ft band", "Will County / ZIP 60446 sector", "Will County / primary ZIP 60446", "Will County / coords 41.6300, -88.1000"]
-zillowHomeValueUsd: 313687
 ---
 
 **Engineering Notice for Romeoville:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Will County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Note recent wind events when filing insurance photos for Romeoville, IL.
 
-Local conditions in Romeoville, IL can affect timelines and material choices.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is partial dry-in possible? In Romeoville, IL, yes—if slope and anchor points support safe tie-offs.
 
-We coordinate local dispatch coverage around Romeoville, IL and nearby ZIP sectors.
+In Romeoville, IL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60446.
+Wind-zone note: Romeoville, IL exposure class can change starter-strip and cap nail schedules.
 
-Field note: Access points and staging constraints recorded for ZIP 60446 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 60446 (county grid: Will County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: shingle exposure calibration plus ridge cap nail schedule referenced in Will County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 60446.
+
+Regional mesh label Will County: moisture and logistics baselines are keyed to Romeoville, IL before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 41.6300, -88.1000 at elevation ~682 ft aligns with Will County intake staging.
 
 Service reference: IL-60446-09c1217a

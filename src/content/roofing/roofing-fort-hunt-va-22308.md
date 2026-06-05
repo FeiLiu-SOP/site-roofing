@@ -11,24 +11,31 @@ lng: -77.0600
 zipSample: ["22307", "22308"]
 zipCodes: ["22307", "22308"]
 localPaths: ["Fairfax County / ZIP 22308 sector", "Fairfax County / coords 38.7400, -77.0600", "Fairfax County / primary ZIP 22308", "Fairfax County / ZIP 22307 sector", "Fairfax County / elevation 39 ft band"]
-zillowHomeValueUsd: 975990
 ---
 
 **Engineering Notice for Fort Hunt:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Granule embedment loss on Fort Hunt, VA north slopes can precede mat exposure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fort Hunt, VA, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-In Fort Hunt, VA, seasonal demand can change scheduling windows.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 22308.
 
-Transparent pricing helps you compare like-for-like scope items.
+We coordinate Fort Hunt, VA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22308/22307.
+Material note: In Fort Hunt, VA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 22308, 22307 (county grid: Fairfax County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: attic baffle spacing paired with starter-strip setback near ZIP 22308.
+
+On-site sector marker: Fairfax County / elevation 39 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Fairfax County. Reference elevation: 39 ft. Primary coordinates: 38.7400, -77.0600. ZIP sample: 22307, 22308. Service perimeter note: Coverage extends through Fairfax County with dispatch centered near ZIP 22308.
 
 Service reference: VA-22308-231a28f1

@@ -11,26 +11,33 @@ lng: -86.4700
 zipSample: ["32588", "32578"]
 zipCodes: ["32588", "32578"]
 localPaths: ["Okaloosa County / elevation 105 ft band", "Okaloosa County / ZIP 32578 sector", "Okaloosa County / primary ZIP 32578", "Okaloosa County / ZIP 32588 sector", "Okaloosa County / coords 30.5300, -86.4700"]
-zillowHomeValueUsd: 437576
 ---
 
 **Engineering Notice for Niceville:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Okaloosa County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Niceville, FL exposure class can change starter-strip and cap nail schedules.
 
-Structured milestones protect both sides when scheduling work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Niceville, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-We coordinate local dispatch coverage around Niceville, FL and nearby ZIP sectors.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 32578/32588 coverage.
+Granule embedment loss on Niceville, FL north slopes can precede mat exposure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32578/32588.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 32578, 32588 (county grid: Okaloosa County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Field routing: skylight curb height paired with attic baffle spacing near ZIP 32578.
+
+Field note: Attic moisture pathway scan referenced ZIP 32588/32578.
+
+On-site sector marker: Okaloosa County / elevation 105 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Okaloosa County / coords 30.5300, -86.4700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32578-aa4d4728

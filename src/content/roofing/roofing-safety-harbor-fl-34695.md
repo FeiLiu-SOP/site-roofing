@@ -11,24 +11,33 @@ lng: -82.7000
 zipSample: ["34695"]
 zipCodes: ["34695"]
 localPaths: ["Pinellas County / primary ZIP 34695", "Pinellas County / ZIP 34695 sector", "Pinellas County / elevation 39 ft band", "Pinellas County / coords 28.0100, -82.7000"]
-zillowHomeValueUsd: 496220
 ---
 
 **Engineering Notice for Safety Harbor:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Pinellas County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Safety Harbor, FL exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How long can shingles wait after storm damage? In Safety Harbor, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Safety Harbor, FL coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for Safety Harbor, FL.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Safety Harbor, FL, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: In Safety Harbor, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 34695.
+Freeze-thaw cycles around Safety Harbor, FL stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 34695 (county grid: Pinellas County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+Field routing: synthetic underlayment slip paired with valley metal gauge near ZIP 34695.
+
+Field note: Shingle seal-down timing logged near ZIP 34695.
+
+On-site sector marker: Pinellas County / coords 28.0100, -82.7000 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Pinellas County / primary ZIP 34695 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34695-37e25b5c

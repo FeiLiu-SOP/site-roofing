@@ -11,24 +11,33 @@ lng: -98.1100
 zipSample: ["78130", "78131", "78135", "78132"]
 zipCodes: ["78130", "78135", "78131", "78132"]
 localPaths: ["Comal County / ZIP 78132 sector", "Comal County / ZIP 78131 sector", "Comal County / coords 29.7000, -98.1100", "Comal County / ZIP 78135 sector", "Comal County / primary ZIP 78132"]
-zillowHomeValueUsd: 561006
 ---
 
 **Engineering Notice for New Braunfels:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Comal County.
 
 
-In New Braunfels, TX, seasonal demand can change scheduling windows.
+Low-slope sections in New Braunfels, TX need positive drainage before membrane repairs are scoped.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: In New Braunfels, TX, algae-resistant granules may be specified for north-facing slopes.
 
-Our service coordination centers on New Braunfels, TX coverage windows and verified intake details.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: confirm licensing and insurance before approving work.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Braunfels, TX, but intake notes help reduce delays.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Wind exposure category reviewed for ZIP sector 78132/78130/78135.
+Risk flag: In New Braunfels, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 78132, 78130, 78135, 78131 (county grid: Comal County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Field routing: shingle exposure calibration paired with pipe boot manufacturer match near ZIP 78132.
+
+ZIP-corridor snapshot for New Braunfels, TX: sampled sectors include 78131, 78135, 78130, 78132; county routing grid remains Comal County.
+
+Primary postal anchor 78132 with multi-ZIP overlap in New Braunfels; field packets tag Comal County for county-grid reconciliation.
 
 Service reference: TX-78132-3107f3dd

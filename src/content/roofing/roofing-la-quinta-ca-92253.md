@@ -11,26 +11,33 @@ lng: -116.2800
 zipSample: ["92202", "92253", "92248", "92247"]
 zipCodes: ["92247", "92202", "92253", "92248"]
 localPaths: ["Riverside County / primary ZIP 92253", "Riverside County / ZIP 92202 sector", "Riverside County / ZIP 92253 sector", "Riverside County / elevation 13 ft band", "Riverside County / coords 33.6500, -116.2800"]
-zillowHomeValueUsd: 746834
 ---
 
 **Engineering Notice for La Quinta:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-Structured milestones protect both sides when scheduling work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in La Quinta, CA, but intake notes help reduce delays.
+Wind-zone note: La Quinta, CA exposure class can change starter-strip and cap nail schedules.
 
-Tip: request a written scope before work starts.
+Freeze-thaw cycles around La Quinta, CA stress nail pops along eaves and rake edges.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92202/92247/92248.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 92202/92247/92248 zone).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 92202, 92247, 92248, 92253 (county grid: Riverside County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: synthetic underlayment slip paired with chimney cricket slope near ZIP 92253.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 92202/92247/92248.
+
+ZIP-corridor snapshot for La Quinta, CA: sampled sectors include 92253, 92248, 92202, 92247; county routing grid remains Riverside County.
+
+Coordinate-anchored dispatch note: center reference 33.6500, -116.2800 at elevation ~13 ft aligns with Riverside County intake staging.
 
 Service reference: CA-92253-ec8a75a4

@@ -11,27 +11,33 @@ lng: -80.4100
 zipSample: ["33183", "33175"]
 zipCodes: ["33175", "33183"]
 localPaths: ["Miami-Dade County / coords 25.7100, -80.4100", "Miami-Dade County / ZIP 33175 sector", "Miami-Dade County / ZIP 33183 sector", "Miami-Dade County / primary ZIP 33175", "Miami-Dade County / elevation 33 ft band"]
-zillowHomeValueUsd: 622032
 ---
 
 **Engineering Notice for Kendale Lakes:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Our Kendale Lakes, FL dispatch packets reference county grid Miami-Dade County and elevation band 33 ft.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 33175.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-We coordinate local dispatch coverage around Kendale Lakes, FL and nearby ZIP sectors.
+Synthetic underlayment slip in Kendale Lakes, FL is often tied to deck moisture, not wind alone.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 33175/33183.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Access points and staging constraints recorded for ZIP 33175/33183 coverage.
+FAQ: Can you tarp only part of the roof? In Kendale Lakes, FL, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 33175, 33183 (county grid: Miami-Dade County).
+Code context: Ventilation ratios for Kendale Lakes, FL attics should be checked against current mechanical exhaust additions.
+
+roof service brief: synthetic underlayment slip and chimney cricket slope were cross-checked for the Kendale Lakes intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 33183/33175.
+
+On-site sector marker: Miami-Dade County / ZIP 33175 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Miami-Dade County. Reference elevation: 33 ft. Primary coordinates: 25.7100, -80.4100. ZIP sample: 33183, 33175. Regional routing note: Miami-Dade County traffic flow is balanced around ZIP 33175 service demand.
 
 Service reference: FL-33175-d01de4cd

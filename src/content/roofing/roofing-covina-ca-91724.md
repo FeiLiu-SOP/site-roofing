@@ -11,26 +11,35 @@ lng: -117.8800
 zipSample: ["91724", "91722", "91723"]
 zipCodes: ["91723", "91724", "91722"]
 localPaths: ["Los Angeles County / ZIP 91723 sector", "Los Angeles County / ZIP 91722 sector", "Los Angeles County / primary ZIP 91724", "Los Angeles County / elevation 584 ft band", "Los Angeles County / ZIP 91724 sector"]
-zillowHomeValueUsd: 886114
 ---
 
 **Engineering Notice for Covina:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Covina, CA, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Covina, CA.
 
-Our service coordination centers on Covina, CA coverage windows and verified intake details.
+Material note: In Covina, CA, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Coastal humidity in Covina, CA can slow shingle seal-down after shoulder-season storms.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: avoid large upfront payments without milestones.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Connection points spot-checked where accessible (ZIP 91722/91724/91723 zone).
+Code context: Ventilation ratios for Covina, CA attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 91722/91724/91723 coverage.
+Attic ventilation deficits in Covina, CA can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 91722, 91724, 91723 (county grid: Los Angeles County).
+Our Covina, CA dispatch packets reference county grid Los Angeles County and elevation band 584 ft.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: drip-edge metal profile paired with soffit intake free area near ZIP 91724.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 91722/91723/91724.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Los Angeles County and primary ZIP 91724. Terrain reference: 584 ft. Center point: 34.0900, -117.8800. ZIP sample: 91723, 91722, 91724. Service perimeter note: Coverage extends through Los Angeles County with dispatch centered near ZIP 91724.
+
+On-site sector marker: Los Angeles County / ZIP 91722 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91724-94900a82

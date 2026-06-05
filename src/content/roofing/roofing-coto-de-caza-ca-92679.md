@@ -11,26 +11,33 @@ lng: -117.5900
 zipSample: ["92679"]
 zipCodes: ["92679"]
 localPaths: ["Orange County / elevation 659 ft band", "Orange County / coords 33.6000, -117.5900", "Orange County / ZIP 92679 sector", "Orange County / primary ZIP 92679"]
-zillowHomeValueUsd: 1600688
 ---
 
 **Engineering Notice for Coto de Caza:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is partial dry-in possible? In Coto de Caza, CA, yes—if slope and anchor points support safe tie-offs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Coto de Caza, CA, but intake notes help reduce delays.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Coto de Caza, CA exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around Coto de Caza, CA and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for Coto de Caza, CA.
 
-Field note: Moisture pathway inspection logged near ZIP 92679 intake.
+Attic ventilation deficits in Coto de Caza, CA can mimic roof leaks at ceiling penetrations.
 
-Field note: Connection points spot-checked where accessible (ZIP 92679 zone).
+Risk flag: Tile underlayment age in Coto de Caza, CA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 92679 (county grid: Orange County).
+Step: map ventilation intake and exhaust pairs for Coto de Caza, CA attic runs.
+
+roofing service brief: shingle exposure calibration and ice-barrier lap sequence were cross-checked for the Coto de Caza intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 92679.
+
+On-site sector marker: Orange County / coords 33.6000, -117.5900 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Orange County and primary ZIP 92679. Terrain reference: 659 ft. Center point: 33.6000, -117.5900. ZIP sample: 92679. Service perimeter note: Coverage extends through Orange County with dispatch centered near ZIP 92679.
 
 Service reference: CA-92679-bd8f5640

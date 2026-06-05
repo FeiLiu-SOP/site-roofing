@@ -11,26 +11,33 @@ lng: -90.3700
 zipSample: ["63010"]
 zipCodes: ["63010"]
 localPaths: ["Jefferson County / primary ZIP 63010", "Jefferson County / coords 38.4300, -90.3700", "Jefferson County / elevation 531 ft band", "Jefferson County / ZIP 63010 sector"]
-zillowHomeValueUsd: 272878
 ---
 
 **Engineering Notice for Arnold:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Tip: request a written scope before work starts.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-We coordinate local dispatch coverage around Arnold, MO and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Metal panel oil-canning in Arnold, MO may signal clip spacing issues, not wind damage alone.
 
-Local conditions in Arnold, MO can affect timelines and material choices.
+Material note: In Arnold, MO, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Arnold, MO, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 63010.
+Step: map ventilation intake and exhaust pairs for Arnold, MO attic runs.
 
-Field note: Access points and staging constraints recorded for ZIP 63010 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 63010 (county grid: Jefferson County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: counter-flashing reglet depth paired with pipe boot manufacturer match near ZIP 63010.
+
+Field note: Attic moisture pathway scan referenced ZIP 63010.
+
+On-site sector marker: Jefferson County / elevation 531 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Jefferson County / primary ZIP 63010 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63010-ee341bdc

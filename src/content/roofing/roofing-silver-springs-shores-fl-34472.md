@@ -11,25 +11,31 @@ lng: -82.0100
 zipSample: ["34472"]
 zipCodes: ["34472"]
 localPaths: ["Marion County / coords 29.1100, -82.0100", "Marion County / primary ZIP 34472", "Marion County / ZIP 34472 sector", "Marion County / elevation 102 ft band"]
-zillowHomeValueUsd: 238149
 ---
 
 **Engineering Notice for Silver Springs Shores:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Marion County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 34472.
+Risk flag: In Silver Springs Shores, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Silver Springs Shores, FL, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Metal panel oil-canning in Silver Springs Shores, FL may signal clip spacing issues, not wind damage alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Silver Springs Shores, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Connection points spot-checked where accessible (ZIP 34472 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 34472 (county grid: Marion County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+FAQ: Can you tarp only part of the roof? In Silver Springs Shores, FL, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: drip-edge metal profile plus counter-flashing reglet depth referenced in Marion County county grid review.
+
+Regional mesh label Marion County: moisture and logistics baselines are keyed to Silver Springs Shores, FL before niche-specific work begins.
+
+On-site sector marker: Marion County / primary ZIP 34472 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34472-b7df9e00

@@ -11,24 +11,35 @@ lng: -87.8600
 zipSample: ["60901"]
 zipCodes: ["60901"]
 localPaths: ["Kankakee County / coords 41.1000, -87.8600", "Kankakee County / ZIP 60901 sector", "Kankakee County / elevation 633 ft band", "Kankakee County / primary ZIP 60901"]
-zillowHomeValueUsd: 154633
 ---
 
 **Engineering Notice for Kankakee:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Kankakee County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kankakee, IL, but intake notes help reduce delays.
+Step: map ventilation intake and exhaust pairs for Kankakee, IL attic runs.
 
-Local conditions in Kankakee, IL can affect timelines and material choices.
+Freeze-thaw cycles around Kankakee, IL stress nail pops along eaves and rake edges.
 
-We coordinate local dispatch coverage around Kankakee, IL and nearby ZIP sectors.
+FAQ: Can you tarp only part of the roof? In Kankakee, IL, yes—if slope and anchor points support safe tie-offs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Kankakee, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Kankakee, IL attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 60901 intake.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 60901 (county grid: Kankakee County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Step: log deck soundings near vents before tear-off is approved.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: shingle exposure calibration plus pipe boot manufacturer match referenced in Kankakee County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 60901.
+
+ZIP-corridor snapshot for Kankakee, IL: sampled sectors include 60901; county routing grid remains Kankakee County.
+
+Primary postal anchor 60901 with multi-ZIP overlap in Kankakee; field packets tag Kankakee County for county-grid reconciliation.
 
 Service reference: IL-60901-296a3931

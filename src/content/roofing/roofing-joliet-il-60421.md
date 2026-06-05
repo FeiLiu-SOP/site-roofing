@@ -11,26 +11,35 @@ lng: -88.1500
 zipSample: ["60435", "60434", "60421", "60436", "60432"]
 zipCodes: ["60421", "60431", "60586", "60433", "60436", "60435", "60432", "60434"]
 localPaths: ["Will County / ZIP 60432 sector", "Will County / ZIP 60435 sector", "Will County / elevation 614 ft band", "Will County / coords 41.5200, -88.1500", "Will County / ZIP 60436 sector"]
-zillowHomeValueUsd: 311107
 ---
 
 **Engineering Notice for Joliet:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Will County.
 
 
-We coordinate local dispatch coverage around Joliet, IL and nearby ZIP sectors.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-In Joliet, IL, urgent roof service issues can escalate quickly.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 60432/60421/60586.
+Step: separate emergency tarp scope from permanent service line items.
 
-Field note: Connection points spot-checked where accessible (ZIP 60432/60421/60586 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 60432, 60421, 60586, 60435, 60433 (county grid: Will County).
+Wind-zone note: Joliet, IL exposure class can change starter-strip and cap nail schedules.
+
+Freeze-thaw cycles around Joliet, IL stress nail pops along eaves and rake edges.
+
+roof service brief: pipe boot manufacturer match and valley metal gauge were cross-checked for the Joliet intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 60433/60436/60435.
+
+On-site sector marker: Will County / coords 41.5200, -88.1500 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 41.5200, -88.1500 at elevation ~614 ft aligns with Will County intake staging.
 
 Service reference: IL-60421-d2c6d310

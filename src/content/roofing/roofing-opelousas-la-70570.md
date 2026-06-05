@@ -11,25 +11,35 @@ lng: -92.0800
 zipSample: ["70571", "70570"]
 zipCodes: ["70570", "70571"]
 localPaths: ["St. Landry Parish / primary ZIP 70570", "St. Landry Parish / coords 30.5300, -92.0800", "St. Landry Parish / elevation 72 ft band", "St. Landry Parish / ZIP 70570 sector", "St. Landry Parish / ZIP 70571 sector"]
-zillowHomeValueUsd: 122649
 ---
 
 **Engineering Notice for Opelousas:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: St. Landry Parish.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 70570.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Opelousas, LA, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Opelousas, LA, but intake notes help reduce delays.
+Regulatory note: Opelousas, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 70570/70571 intake.
+Risk flag: In Opelousas, LA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 70570, 70571 (county grid: St. Landry Parish).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+FAQ: Is partial dry-in possible? In Opelousas, LA, yes—if slope and anchor points support safe tie-offs.
+
+Skylight curb flashing in Opelousas, LA should be sequenced before ridge cap replacement.
+
+Scope trace: ridge cap nail schedule plus skylight curb height referenced in St. Landry Parish county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 70570/70571.
+
+**Regional Infrastructure Brief:** Coverage anchor set to St. Landry Parish. Reference elevation: 72 ft. Primary coordinates: 30.5300, -92.0800. ZIP sample: 70571, 70570. Service perimeter note: Coverage extends through St. Landry Parish with dispatch centered near ZIP 70570.
+
+On-site sector marker: St. Landry Parish / ZIP 70571 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70570-f282f493

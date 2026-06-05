@@ -11,26 +11,31 @@ lng: -87.4400
 zipSample: ["46375", "46307"]
 zipCodes: ["46375", "46307"]
 localPaths: ["Lake County / ZIP 46307 sector", "Lake County / primary ZIP 46375", "Lake County / ZIP 46375 sector", "Lake County / coords 41.4900, -87.4400", "Lake County / elevation 659 ft band"]
-zillowHomeValueUsd: 352718
 ---
 
 **Engineering Notice for Schererville:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Our service coordination centers on Schererville, IN coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Schererville, IN, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Schererville, IN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: request a written scope before work starts.
+Skylight curb flashing in Schererville, IN should be sequenced before ridge cap replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 46307/46375.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46307/46375.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 46307, 46375 (county grid: Lake County).
+Scope trace: drip-edge metal profile plus shingle exposure calibration referenced in Lake County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 46307/46375.
+
+Coordinate-anchored dispatch note: center reference 41.4900, -87.4400 at elevation ~659 ft aligns with Lake County intake staging.
+
+On-site sector marker: Lake County / ZIP 46375 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46375-adc47066

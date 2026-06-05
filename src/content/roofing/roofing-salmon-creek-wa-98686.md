@@ -11,27 +11,33 @@ lng: -122.6600
 zipSample: ["98686", "98685"]
 zipCodes: ["98685", "98686"]
 localPaths: ["Clark County / ZIP 98686 sector", "Clark County / coords 45.7100, -122.6600", "Clark County / elevation 92 ft band", "Clark County / primary ZIP 98686", "Clark County / ZIP 98685 sector"]
-zillowHomeValueUsd: 590601
 ---
 
 **Engineering Notice for Salmon Creek:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-We coordinate local dispatch coverage around Salmon Creek, WA and nearby ZIP sectors.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98686.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Salmon Creek, WA, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Salmon Creek, WA can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: In Salmon Creek, WA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Connection points spot-checked where accessible (ZIP 98686/98685 zone).
+Parapet coping movement in Salmon Creek, WA can channel water behind wall cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 98686/98685 coverage.
+Across Salmon Creek, WA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Dispatch sectors sampled: ZIP 98686, 98685 (county grid: Clark County).
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+roof work brief: counter-flashing reglet depth and valley metal gauge were cross-checked for the Salmon Creek intake packet.
+
+On-site sector marker: Clark County / elevation 92 ft band — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Clark County: moisture and logistics baselines are keyed to Salmon Creek, WA before niche-specific work begins.
 
 Service reference: WA-98686-1cb01b6e

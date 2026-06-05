@@ -11,24 +11,31 @@ lng: -81.6400
 zipSample: ["33970", "33976", "33971", "33936", "33974"]
 zipCodes: ["33971", "33970", "33973", "33936", "33974", "33976", "33972"]
 localPaths: ["Lee County / elevation 43 ft band", "Lee County / ZIP 33936 sector", "Lee County / primary ZIP 33936", "Lee County / coords 26.6100, -81.6400", "Lee County / ZIP 33970 sector"]
-zillowHomeValueUsd: 242990
 ---
 
 **Engineering Notice for Lehigh Acres:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Lee County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lehigh Acres, FL, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: request a written scope before work starts.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-We coordinate local dispatch coverage around Lehigh Acres, FL and nearby ZIP sectors.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: address recurring issues early to prevent bigger damage.
+Parapet coping movement in Lehigh Acres, FL can channel water behind wall cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33936/33976/33973.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 33936, 33976, 33973, 33972, 33974 (county grid: Lee County).
+Regulatory note: Lehigh Acres, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+roofing service brief: chimney cricket slope and deck sheathing thickness were cross-checked for the Lehigh Acres intake packet.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Lee County and primary ZIP 33936. Terrain reference: 43 ft. Center point: 26.6100, -81.6400. ZIP sample: 33974, 33973, 33971, 33970, 33936. Logistics priority: Serving residential sectors across Lee County and north-east ZIP 33936 grid.
+
+On-site sector marker: Lee County / ZIP 33976 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33936-61a6bc27

@@ -11,24 +11,35 @@ lng: -91.0000
 zipSample: ["70817"]
 zipCodes: ["70817"]
 localPaths: ["East Baton Rouge Parish / coords 30.4000, -91.0000", "East Baton Rouge Parish / ZIP 70817 sector", "East Baton Rouge Parish / elevation 56 ft band", "East Baton Rouge Parish / primary ZIP 70817"]
-zillowHomeValueUsd: 303814
 ---
 
 **Engineering Notice for Shenandoah:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Shenandoah, LA, but intake notes help reduce delays.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Local conditions in Shenandoah, LA can affect timelines and material choices.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Shenandoah, LA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Granule embedment loss on Shenandoah, LA north slopes can precede mat exposure.
 
-We coordinate local dispatch coverage around Shenandoah, LA and nearby ZIP sectors.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70817.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 70817 (county grid: East Baton Rouge Parish).
+We coordinate Shenandoah, LA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 70817.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+roof work brief: ridge cap nail schedule and valley metal gauge were cross-checked for the Shenandoah intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 70817.
+
+On-site sector marker: East Baton Rouge Parish / primary ZIP 70817 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label East Baton Rouge Parish: moisture and logistics baselines are keyed to Shenandoah, LA before niche-specific work begins.
 
 Service reference: LA-70817-d47fd16a

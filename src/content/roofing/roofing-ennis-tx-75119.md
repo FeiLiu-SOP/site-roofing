@@ -11,26 +11,33 @@ lng: -96.6300
 zipSample: ["75119", "75120"]
 zipCodes: ["75119", "75120"]
 localPaths: ["Ellis County / primary ZIP 75119", "Ellis County / coords 32.3300, -96.6300", "Ellis County / ZIP 75120 sector", "Ellis County / ZIP 75119 sector", "Ellis County / elevation 548 ft band"]
-zillowHomeValueUsd: 265418
 ---
 
 **Engineering Notice for Ennis:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: Ellis County.
 
 
-We coordinate local dispatch coverage around Ennis, TX and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Clear documentation helps align materials, labor, and timeline.
+Attic ventilation deficits in Ennis, TX can mimic roof leaks at ceiling penetrations.
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: Ennis, TX exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ennis, TX, but intake notes help reduce delays.
+Material note: In Ennis, TX, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Access points and staging constraints recorded for ZIP 75120/75119 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75120/75119.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 75120, 75119 (county grid: Ellis County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Scope trace: attic baffle spacing plus wind uplift clip spacing referenced in Ellis County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 75119/75120.
+
+Regional mesh label Ellis County: moisture and logistics baselines are keyed to Ennis, TX before niche-specific work begins.
+
+On-site sector marker: Ellis County / coords 32.3300, -96.6300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75119-aac2ef04

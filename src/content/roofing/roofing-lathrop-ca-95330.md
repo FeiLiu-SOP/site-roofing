@@ -11,26 +11,31 @@ lng: -121.3100
 zipSample: ["95330", "95231"]
 zipCodes: ["95330", "95231"]
 localPaths: ["San Joaquin County / primary ZIP 95330", "San Joaquin County / elevation 3 ft band", "San Joaquin County / ZIP 95330 sector", "San Joaquin County / coords 37.8100, -121.3100", "San Joaquin County / ZIP 95231 sector"]
-zillowHomeValueUsd: 645821
 ---
 
 **Engineering Notice for Lathrop:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: San Joaquin County.
 
 
-In Lathrop, CA, urgent roof service issues can escalate quickly.
+Code context: Ventilation ratios for Lathrop, CA attics should be checked against current mechanical exhaust additions.
 
-Tip: confirm licensing and insurance before approving work.
+Synthetic underlayment slip in Lathrop, CA is often tied to deck moisture, not wind alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should permanent restoration start? In Lathrop, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Lathrop, CA can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 95231/95330 intake.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Wind exposure category reviewed for ZIP sector 95231/95330.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 95231, 95330 (county grid: San Joaquin County).
+Scope trace: starter-strip setback plus valley metal gauge referenced in San Joaquin County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 95330/95231.
+
+Primary postal anchor 95330 with multi-ZIP overlap in Lathrop; field packets tag San Joaquin County for county-grid reconciliation.
+
+On-site sector marker: San Joaquin County / coords 37.8100, -121.3100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95330-34444d02

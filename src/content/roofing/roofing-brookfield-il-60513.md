@@ -11,27 +11,33 @@ lng: -87.8500
 zipSample: ["60513"]
 zipCodes: ["60513"]
 localPaths: ["Cook County / coords 41.8200, -87.8500", "Cook County / ZIP 60513 sector", "Cook County / primary ZIP 60513", "Cook County / elevation 633 ft band"]
-zillowHomeValueUsd: 345439
 ---
 
 **Engineering Notice for Brookfield:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Tip: request a written scope before work starts.
+Step: separate emergency tarp scope from permanent service line items.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Brookfield, IL, but intake notes help reduce delays.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Our service coordination centers on Brookfield, IL coverage windows and verified intake details.
+Skylight curb flashing in Brookfield, IL should be sequenced before ridge cap replacement.
 
-A written scope helps prevent rework and mismatched expectations.
+Code context: Ventilation ratios for Brookfield, IL attics should be checked against current mechanical exhaust additions.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60513.
+Risk flag: Tile underlayment age in Brookfield, IL can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 60513 intake.
+Attic ventilation deficits in Brookfield, IL can mimic roof leaks at ceiling penetrations.
 
-Field note: Access points and staging constraints recorded for ZIP 60513 coverage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 60513 (county grid: Cook County).
+Material note: In Brookfield, IL, algae-resistant granules may be specified for north-facing slopes.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Scope trace: soffit intake free area plus skylight curb height referenced in Cook County county grid review.
+
+ZIP-corridor snapshot for Brookfield, IL: sampled sectors include 60513; county routing grid remains Cook County.
+
+On-site sector marker: Cook County / primary ZIP 60513 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60513-1cf1d32e

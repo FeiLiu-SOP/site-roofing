@@ -11,25 +11,35 @@ lng: -90.0100
 zipSample: ["62234"]
 zipCodes: ["62234"]
 localPaths: ["Madison County / coords 38.6800, -90.0100", "Madison County / primary ZIP 62234", "Madison County / elevation 548 ft band", "Madison County / ZIP 62234 sector"]
-zillowHomeValueUsd: 192529
 ---
 
 **Engineering Notice for Collinsville:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: Madison County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 62234.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Collinsville, IL, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Wind exposure category reviewed for ZIP sector 62234.
+Regulatory note: Collinsville, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 62234 (county grid: Madison County).
+Tile and shingle mixes in Collinsville, IL require different fastener patterns at transitions.
+
+Low-slope sections in Collinsville, IL need positive drainage before membrane repairs are scoped.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Scope trace: skylight curb height plus deck sheathing thickness referenced in Madison County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 62234.
+
+Regional mesh label Madison County: moisture and logistics baselines are keyed to Collinsville, IL before niche-specific work begins.
+
+On-site sector marker: Madison County / primary ZIP 62234 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62234-3e4efa36

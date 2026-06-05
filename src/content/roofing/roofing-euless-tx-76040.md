@@ -11,26 +11,33 @@ lng: -97.0800
 zipSample: ["76039", "76040", "75261"]
 zipCodes: ["76039", "75261", "76040"]
 localPaths: ["Tarrant County / ZIP 76039 sector", "Tarrant County / ZIP 76040 sector", "Tarrant County / coords 32.8500, -97.0800", "Tarrant County / ZIP 75261 sector", "Tarrant County / primary ZIP 76040"]
-zillowHomeValueUsd: 357209
 ---
 
 **Engineering Notice for Euless:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Tarrant County.
 
 
-Our service coordination centers on Euless, TX coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Euless, TX can fail independently of visible tile cracks.
 
-Structured milestones protect both sides when scheduling work.
+Material note: In Euless, TX, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Euless, TX, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Parapet coping movement in Euless, TX can channel water behind wall cladding.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Moisture pathway inspection logged near ZIP 75261/76040/76039 intake.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75261/76040/76039.
+Code context: Ventilation ratios for Euless, TX attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 75261, 76040, 76039 (county grid: Tarrant County).
+FAQ: How long can shingles wait after storm damage? In Euless, TX, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: starter-strip setback plus deck sheathing thickness referenced in Tarrant County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 76039/75261/76040.
+
+On-site sector marker: Tarrant County / ZIP 75261 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Tarrant County / primary ZIP 76040 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76040-40524e7e

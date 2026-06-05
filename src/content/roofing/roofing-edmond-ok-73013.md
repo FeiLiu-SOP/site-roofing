@@ -11,26 +11,35 @@ lng: -97.4200
 zipSample: ["73007", "73013", "73034", "73003"]
 zipCodes: ["73003", "73013", "73007", "73034"]
 localPaths: ["Oklahoma County / ZIP 73003 sector", "Oklahoma County / elevation 1148 ft band", "Oklahoma County / coords 35.6700, -97.4200", "Oklahoma County / ZIP 73034 sector", "Oklahoma County / ZIP 73013 sector"]
-zillowHomeValueUsd: 326232
 ---
 
 **Engineering Notice for Edmond:** Structural loading calculated based on 1148 ft terrain assessment. Regional dispatch grid: Oklahoma County.
 
 
-We coordinate local dispatch coverage around Edmond, OK and nearby ZIP sectors.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Structured milestones protect both sides when scheduling work.
+We coordinate Edmond, OK roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Edmond, OK, but intake notes help reduce delays.
+Wood shake courses in Edmond, OK require skip-spacing rules at valleys.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: request a written scope before work starts.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Connection points spot-checked where accessible (ZIP 73034/73003/73013 zone).
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Moisture pathway inspection logged near ZIP 73034/73003/73013 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 73034, 73003, 73013, 73007 (county grid: Oklahoma County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Scope trace: ridge cap nail schedule plus drip-edge metal profile referenced in Oklahoma County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 73013/73034/73007.
+
+ZIP-corridor snapshot for Edmond, OK: sampled sectors include 73003, 73007, 73034, 73013; county routing grid remains Oklahoma County.
+
+Regional mesh label Oklahoma County: moisture and logistics baselines are keyed to Edmond, OK before niche-specific work begins.
 
 Service reference: OK-73013-eb4e2124

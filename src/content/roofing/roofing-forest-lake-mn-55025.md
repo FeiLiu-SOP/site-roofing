@@ -11,27 +11,31 @@ lng: -92.9600
 zipSample: ["55025"]
 zipCodes: ["55025"]
 localPaths: ["Washington County / coords 45.2500, -92.9600", "Washington County / primary ZIP 55025", "Washington County / elevation 932 ft band", "Washington County / ZIP 55025 sector"]
-zillowHomeValueUsd: 431143
 ---
 
 **Engineering Notice for Forest Lake:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55025.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: address recurring issues early to prevent bigger damage.
+Parapet coping movement in Forest Lake, MN can channel water behind wall cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In Forest Lake, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Forest Lake, MN coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: request a written scope before work starts.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Wind exposure category reviewed for ZIP sector 55025.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Connection points spot-checked where accessible (ZIP 55025 zone).
+Wind-zone note: Forest Lake, MN exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 55025 (county grid: Washington County).
+Scope trace: soffit intake free area plus wind uplift clip spacing referenced in Washington County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 55025.
+
+Primary postal anchor 55025 with multi-ZIP overlap in Forest Lake; field packets tag Washington County for county-grid reconciliation.
+
+On-site sector marker: Washington County / coords 45.2500, -92.9600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55025-b82c0ab2

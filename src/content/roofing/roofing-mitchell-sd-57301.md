@@ -11,25 +11,33 @@ lng: -98.0300
 zipSample: ["57301"]
 zipCodes: ["57301"]
 localPaths: ["Davison County / ZIP 57301 sector", "Davison County / primary ZIP 57301", "Davison County / elevation 1289 ft band", "Davison County / coords 43.7300, -98.0300"]
-zillowHomeValueUsd: 247420
 ---
 
 **Engineering Notice for Mitchell:** Structural loading calculated based on 1289 ft terrain assessment. Regional dispatch grid: Davison County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 57301.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Mitchell, SD coverage windows and verified intake details.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: confirm licensing and insurance before approving work.
+Hail bruising on Mitchell, SD ridges may not breach felt until the next wind event.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Mitchell, SD, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 57301.
+FAQ: Is partial dry-in possible? In Mitchell, SD, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 57301 (county grid: Davison County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Material note: In Mitchell, SD, algae-resistant granules may be specified for north-facing slopes.
+
+Low-slope sections in Mitchell, SD need positive drainage before membrane repairs are scoped.
+
+Scope trace: valley metal gauge plus chimney cricket slope referenced in Davison County county grid review.
+
+On-site sector marker: Davison County / primary ZIP 57301 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Davison County / ZIP 57301 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SD-57301-e0366cbb

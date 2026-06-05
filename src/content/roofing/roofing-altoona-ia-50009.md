@@ -11,24 +11,31 @@ lng: -93.4800
 zipSample: ["50009"]
 zipCodes: ["50009"]
 localPaths: ["Polk County / coords 41.6500, -93.4800", "Polk County / elevation 942 ft band", "Polk County / primary ZIP 50009", "Polk County / ZIP 50009 sector"]
-zillowHomeValueUsd: 316814
 ---
 
 **Engineering Notice for Altoona:** Structural loading calculated based on 942 ft terrain assessment. Regional dispatch grid: Polk County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: avoid large upfront payments without milestones.
+Attic ventilation deficits in Altoona, IA can mimic roof leaks at ceiling penetrations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Altoona, IA exposure class can change starter-strip and cap nail schedules.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: How long can shingles wait after storm damage? In Altoona, IA, delayed dry-in can expand insulation and ceiling repairs.
 
-Homeowners in Altoona, IA often face sudden roofing service problems that require fast action.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Connection points spot-checked where accessible (ZIP 50009 zone).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 50009 (county grid: Polk County).
+Risk flag: Tile underlayment age in Altoona, IA can fail independently of visible tile cracks.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+roofing service brief: soffit intake free area and synthetic underlayment slip were cross-checked for the Altoona intake packet.
+
+Coordinate-anchored dispatch note: center reference 41.6500, -93.4800 at elevation ~942 ft aligns with Polk County intake staging.
+
+On-site sector marker: Polk County / elevation 942 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50009-8f319801

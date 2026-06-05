@@ -11,27 +11,35 @@ lng: -72.7600
 zipSample: ["01085", "01086"]
 zipCodes: ["01085", "01086"]
 localPaths: ["Hampden County / elevation 230 ft band", "Hampden County / ZIP 01085 sector", "Hampden County / coords 42.1400, -72.7600", "Hampden County / primary ZIP 01085", "Hampden County / ZIP 01086 sector"]
-zillowHomeValueUsd: 380483
 ---
 
 **Engineering Notice for Westfield:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Hampden County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 01085.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 01086/01085.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Moisture pathway inspection logged near ZIP 01086/01085 intake.
+Granule embedment loss on Westfield, MA north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 01086, 01085 (county grid: Hampden County).
+Step: separate emergency tarp scope from permanent restoration line items.
+
+Regulatory note: Westfield, MA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: wind uplift clip spacing paired with ice-barrier lap sequence near ZIP 01085.
+
+Field note: Attic moisture pathway scan referenced ZIP 01085/01086.
+
+Coordinate-anchored dispatch note: center reference 42.1400, -72.7600 at elevation ~230 ft aligns with Hampden County intake staging.
+
+On-site sector marker: Hampden County / coords 42.1400, -72.7600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-01085-13061e92

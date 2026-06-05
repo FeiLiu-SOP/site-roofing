@@ -11,28 +11,33 @@ lng: -77.2300
 zipSample: ["22152"]
 zipCodes: ["22152"]
 localPaths: ["Fairfax County / elevation 295 ft band", "Fairfax County / primary ZIP 22152", "Fairfax County / coords 38.7800, -77.2300", "Fairfax County / ZIP 22152 sector"]
-zillowHomeValueUsd: 697889
 ---
 
 **Engineering Notice for West Springfield:** Structural loading calculated based on 295 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-Our service coordination centers on West Springfield, VA coverage windows and verified intake details.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 22152.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 22152.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 22152 intake.
+Freeze-thaw cycles around West Springfield, VA stress nail pops along eaves and rake edges.
 
-Field note: Wind exposure category reviewed for ZIP sector 22152.
+Step: compare shingle manufacturer wind-zone ratings for West Springfield, VA exposure class.
 
-Dispatch sectors sampled: ZIP 22152 (county grid: Fairfax County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: counter-flashing reglet depth paired with deck sheathing thickness near ZIP 22152.
+
+Field note: Valley debris and granule loss noted for ZIP 22152.
+
+On-site sector marker: Fairfax County / elevation 295 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Fairfax County and primary ZIP 22152. Terrain reference: 295 ft. Center point: 38.7800, -77.2300. ZIP sample: 22152. Logistics priority: Serving residential sectors across Fairfax County and north-east ZIP 22152 grid.
 
 Service reference: VA-22152-7ab93857

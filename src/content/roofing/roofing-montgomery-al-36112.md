@@ -11,26 +11,31 @@ lng: -86.2700
 zipSample: ["36135", "36117", "36113", "36131", "36130"]
 zipCodes: ["36132", "36101", "36111", "36120", "36177", "36107", "36108", "36112", "36110", "36131", "36141", "36135"]
 localPaths: ["Montgomery County / ZIP 36135 sector", "Montgomery County / elevation 276 ft band", "Montgomery County / ZIP 36131 sector", "Montgomery County / primary ZIP 36112", "Montgomery County / ZIP 36117 sector"]
-zillowHomeValueUsd: 256551
 ---
 
 **Engineering Notice for Montgomery:** Structural loading calculated based on 276 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Montgomery, AL, but intake notes help reduce delays.
+Our Montgomery, AL dispatch packets reference county grid Montgomery County and elevation band 276 ft.
 
-In Montgomery, AL, seasonal demand can change scheduling windows.
+Risk flag: In Montgomery, AL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: confirm licensing and insurance before approving work.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 36107/36108/36116 intake.
+Wind-zone note: Montgomery, AL exposure class can change starter-strip and cap nail schedules.
 
-Field note: Access points and staging constraints recorded for ZIP 36107/36108/36116 coverage.
+Tile and shingle mixes in Montgomery, AL require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 36107, 36108, 36116, 36117, 36106 (county grid: Montgomery County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: shingle exposure calibration plus wind uplift clip spacing referenced in Montgomery County county grid review.
+
+On-site sector marker: Montgomery County / ZIP 36109 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Montgomery County / ZIP 36120 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36112-49f59359

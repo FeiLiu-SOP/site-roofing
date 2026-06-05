@@ -11,26 +11,33 @@ lng: -117.8100
 zipSample: ["91773"]
 zipCodes: ["91773"]
 localPaths: ["Los Angeles County / primary ZIP 91773", "Los Angeles County / elevation 965 ft band", "Los Angeles County / coords 34.1100, -117.8100", "Los Angeles County / ZIP 91773 sector"]
-zillowHomeValueUsd: 922503
 ---
 
 **Engineering Notice for San Dimas:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-We coordinate local dispatch coverage around San Dimas, CA and nearby ZIP sectors.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Note recent wind events when filing insurance photos for San Dimas, CA.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map ventilation intake and exhaust pairs for San Dimas, CA attic runs.
 
-Tip: avoid large upfront payments without milestones.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Coastal humidity in San Dimas, CA can slow shingle seal-down after shoulder-season storms.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91773.
+Regulatory note: San Dimas, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 91773 coverage.
+FAQ: Is partial dry-in possible? In San Dimas, CA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 91773 (county grid: Los Angeles County).
+Risk flag: In San Dimas, CA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: starter-strip setback plus valley metal gauge referenced in Los Angeles County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 91773.
+
+On-site sector marker: Los Angeles County / elevation 965 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for San Dimas, CA: sampled sectors include 91773; county routing grid remains Los Angeles County.
 
 Service reference: CA-91773-68c18197

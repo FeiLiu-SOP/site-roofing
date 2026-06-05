@@ -11,24 +11,31 @@ lng: -118.2200
 zipSample: ["93560"]
 zipCodes: ["93560"]
 localPaths: ["Kern County / elevation 2411 ft band", "Kern County / ZIP 93560 sector", "Kern County / coords 34.8700, -118.2200", "Kern County / primary ZIP 93560"]
-zillowHomeValueUsd: 410944
 ---
 
 **Engineering Notice for Rosamond:** Structural loading calculated based on 2411 ft terrain assessment. Regional dispatch grid: Kern County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Rosamond, CA, but intake notes help reduce delays.
+Parapet coping movement in Rosamond, CA can channel water behind wall cladding.
 
-We coordinate local dispatch coverage around Rosamond, CA and nearby ZIP sectors.
+FAQ: Can you tarp only part of the roof? In Rosamond, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 93560 coverage.
+Tip: Note recent wind events when filing insurance photos for Rosamond, CA.
 
-Dispatch sectors sampled: ZIP 93560 (county grid: Kern County).
+Risk flag: Tile underlayment age in Rosamond, CA can fail independently of visible tile cracks.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: wind uplift clip spacing plus synthetic underlayment slip referenced in Kern County county grid review.
+
+ZIP-corridor snapshot for Rosamond, CA: sampled sectors include 93560; county routing grid remains Kern County.
+
+On-site sector marker: Kern County / ZIP 93560 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93560-39d9545a

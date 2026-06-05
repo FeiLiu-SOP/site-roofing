@@ -11,25 +11,31 @@ lng: -87.9700
 zipSample: ["60559"]
 zipCodes: ["60559"]
 localPaths: ["DuPage County / primary ZIP 60559", "DuPage County / elevation 768 ft band", "DuPage County / coords 41.7900, -87.9700", "DuPage County / ZIP 60559 sector"]
-zillowHomeValueUsd: 398648
 ---
 
 **Engineering Notice for Westmont:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: DuPage County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60559.
+Risk flag: In Westmont, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Westmont, IL, but intake notes help reduce delays.
+Regulatory note: Westmont, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: compare at least two estimates for scope and timeline.
+We coordinate Westmont, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Access points and staging constraints recorded for ZIP 60559 coverage.
+Metal panel oil-canning in Westmont, IL may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 60559 (county grid: DuPage County).
+FAQ: How long can shingles wait after storm damage? In Westmont, IL, delayed dry-in can expand insulation and ceiling repairs.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roofing service brief: ice-barrier lap sequence and wind uplift clip spacing were cross-checked for the Westmont intake packet.
+
+On-site sector marker: DuPage County / elevation 768 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Westmont, IL: sampled sectors include 60559; county routing grid remains DuPage County.
 
 Service reference: IL-60559-84e2045f

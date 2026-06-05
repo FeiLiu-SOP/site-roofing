@@ -11,24 +11,29 @@ lng: -81.0200
 zipSample: ["29733", "29730", "29731", "29732"]
 zipCodes: ["29732", "29730", "29731", "29733"]
 localPaths: ["York County / primary ZIP 29732", "York County / ZIP 29733 sector", "York County / coords 34.9400, -81.0200", "York County / ZIP 29732 sector", "York County / ZIP 29731 sector"]
-zillowHomeValueUsd: 354341
 ---
 
 **Engineering Notice for Rock Hill:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: York County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Structured milestones protect both sides when scheduling work.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Homeowners in Rock Hill, SC often face sudden roof service problems that require fast action.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Rock Hill, SC coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Connection points spot-checked where accessible (ZIP 29730/29731/29733 zone).
+FAQ: When should permanent restoration start? In Rock Hill, SC, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 29730, 29731, 29733, 29732 (county grid: York County).
+Synthetic underlayment slip in Rock Hill, SC is often tied to deck moisture, not wind alone.
+
+Scope trace: chimney cricket slope plus attic baffle spacing referenced in York County county grid review.
+
+Primary postal anchor 29732 with multi-ZIP overlap in Rock Hill; field packets tag York County for county-grid reconciliation.
+
+On-site sector marker: York County / ZIP 29733 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29732-cbeebafe

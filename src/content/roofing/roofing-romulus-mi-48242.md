@@ -11,25 +11,31 @@ lng: -83.3700
 zipSample: ["48242", "48174"]
 zipCodes: ["48174", "48242"]
 localPaths: ["Wayne County / ZIP 48242 sector", "Wayne County / elevation 636 ft band", "Wayne County / coords 42.2200, -83.3700", "Wayne County / primary ZIP 48242", "Wayne County / ZIP 48174 sector"]
-zillowHomeValueUsd: 215266
 ---
 
 **Engineering Notice for Romulus:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can you tarp only part of the roof? In Romulus, MI, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48242.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-In Romulus, MI, seasonal demand can change scheduling windows.
+Step: map ventilation intake and exhaust pairs for Romulus, MI attic runs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48242/48174.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 48242, 48174 (county grid: Wayne County).
+Coastal humidity in Romulus, MI can slow shingle seal-down after shoulder-season storms.
+
+Field routing: ice-barrier lap sequence paired with synthetic underlayment slip near ZIP 48242.
+
+Field note: Valley debris and granule loss noted for ZIP 48174/48242.
+
+On-site sector marker: Wayne County / ZIP 48174 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Wayne County: moisture and logistics baselines are keyed to Romulus, MI before niche-specific work begins.
 
 Service reference: MI-48242-6bf3a3ee

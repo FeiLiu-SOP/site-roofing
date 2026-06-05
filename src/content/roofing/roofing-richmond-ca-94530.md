@@ -11,27 +11,33 @@ lng: -122.3400
 zipSample: ["94801", "94802", "94806", "94807", "94805"]
 zipCodes: ["94803", "94850", "94530", "94808", "94807", "94806", "94801", "94804", "94802", "94805"]
 localPaths: ["Contra Costa County / coords 37.9500, -122.3400", "Contra Costa County / ZIP 94801 sector", "Contra Costa County / elevation 75 ft band", "Contra Costa County / primary ZIP 94530", "Contra Costa County / ZIP 94802 sector"]
-zillowHomeValueUsd: 1139667
 ---
 
 **Engineering Notice for Richmond:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 94530.
+TPO seam welds in Richmond, CA commercial sections need probe tests after freeze events.
 
-Tip: request a written scope before work starts.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Our service coordination centers on Richmond, CA coverage windows and verified intake details.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94801/94802/94805.
+Risk flag: Tile underlayment age in Richmond, CA can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 94801/94802/94805 zone).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 94801, 94802, 94805, 94808, 94807 (county grid: Contra Costa County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+roofing service brief: chimney cricket slope and ice-barrier lap sequence were cross-checked for the Richmond intake packet.
+
+On-site sector marker: Contra Costa County / ZIP 94807 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 94530 with multi-ZIP overlap in Richmond; field packets tag Contra Costa County for county-grid reconciliation.
 
 Service reference: CA-94530-afa942ec

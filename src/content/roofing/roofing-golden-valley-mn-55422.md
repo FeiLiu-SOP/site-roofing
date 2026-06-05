@@ -11,24 +11,33 @@ lng: -93.3600
 zipSample: ["55416", "55427", "55426", "55422"]
 zipCodes: ["55416", "55426", "55422", "55427"]
 localPaths: ["Hennepin County / primary ZIP 55422", "Hennepin County / coords 44.9900, -93.3600", "Hennepin County / ZIP 55422 sector", "Hennepin County / ZIP 55426 sector", "Hennepin County / ZIP 55416 sector"]
-zillowHomeValueUsd: 339110
 ---
 
 **Engineering Notice for Golden Valley:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Hennepin County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Golden Valley, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Golden Valley, MN and nearby ZIP sectors.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: request a written scope before work starts.
+Material note: In Golden Valley, MN, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Golden Valley, MN, but intake notes help reduce delays.
+FAQ: Is partial dry-in possible? In Golden Valley, MN, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 55422/55427/55426 intake.
+Coastal humidity in Golden Valley, MN can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 55422, 55427, 55426, 55416 (county grid: Hennepin County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: ridge cap nail schedule paired with deck sheathing thickness near ZIP 55422.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 55426/55416/55427.
+
+ZIP-corridor snapshot for Golden Valley, MN: sampled sectors include 55427, 55426, 55416, 55422; county routing grid remains Hennepin County.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Hennepin County. Reference elevation: 869 ft. Primary coordinates: 44.9900, -93.3600. ZIP sample: 55426, 55422, 55427, 55416. Regional routing note: Hennepin County traffic flow is balanced around ZIP 55422 service demand.
 
 Service reference: MN-55422-00783d5d

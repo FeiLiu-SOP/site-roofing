@@ -11,26 +11,29 @@ lng: -87.3500
 zipSample: ["46409", "46406", "46403", "46404", "46407"]
 zipCodes: ["46403", "46405", "46408", "46407", "46409", "46404", "46402", "46406"]
 localPaths: ["Lake County / ZIP 46407 sector", "Lake County / ZIP 46406 sector", "Lake County / elevation 607 ft band", "Lake County / ZIP 46409 sector", "Lake County / coords 41.5900, -87.3500"]
-zillowHomeValueUsd: 79183
 ---
 
 **Engineering Notice for Gary:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-We coordinate local dispatch coverage around Gary, IN and nearby ZIP sectors.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Gary, IN, but intake notes help reduce delays.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Gary, IN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Valley metal in Gary, IN should be reviewed whenever granule loss tracks the water line.
 
-Field note: Wind exposure category reviewed for ZIP sector 46409/46405/46404.
+Risk flag: In Gary, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 46409/46405/46404 intake.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 46409, 46405, 46404, 46408, 46402 (county grid: Lake County).
+Scope trace: counter-flashing reglet depth plus deck sheathing thickness referenced in Lake County county grid review.
+
+Primary postal anchor 46409 with multi-ZIP overlap in Gary; field packets tag Lake County for county-grid reconciliation.
+
+Regional mesh label Lake County: moisture and logistics baselines are keyed to Gary, IN before niche-specific work begins.
 
 Service reference: IN-46409-93fc696a

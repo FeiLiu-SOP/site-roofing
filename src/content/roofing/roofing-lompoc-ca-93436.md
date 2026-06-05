@@ -11,26 +11,31 @@ lng: -120.4700
 zipSample: ["93438", "93436"]
 zipCodes: ["93436", "93438"]
 localPaths: ["Santa Barbara County / coords 34.6600, -120.4700", "Santa Barbara County / elevation 85 ft band", "Santa Barbara County / ZIP 93436 sector", "Santa Barbara County / ZIP 93438 sector", "Santa Barbara County / primary ZIP 93436"]
-zillowHomeValueUsd: 590071
 ---
 
 **Engineering Notice for Lompoc:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Granule embedment loss on Lompoc, CA north slopes can precede mat exposure.
 
-We coordinate local dispatch coverage around Lompoc, CA and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Local conditions in Lompoc, CA can affect timelines and material choices.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: compare shingle manufacturer wind-zone ratings for Lompoc, CA exposure class.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 93438/93436 coverage.
+Tip: Note recent wind events when filing insurance photos for Lompoc, CA.
 
-Field note: Wind exposure category reviewed for ZIP sector 93438/93436.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 93438, 93436 (county grid: Santa Barbara County).
+Scope trace: pipe boot manufacturer match plus ice-barrier lap sequence referenced in Santa Barbara County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 93436/93438.
+
+ZIP-corridor snapshot for Lompoc, CA: sampled sectors include 93436, 93438; county routing grid remains Santa Barbara County.
+
+On-site sector marker: Santa Barbara County / ZIP 93436 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93436-d854e2b0

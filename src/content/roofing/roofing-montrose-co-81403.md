@@ -11,24 +11,31 @@ lng: -107.8600
 zipSample: ["81403", "81401", "81402"]
 zipCodes: ["81401", "81402", "81403"]
 localPaths: ["Montrose County / ZIP 81403 sector", "Montrose County / primary ZIP 81403", "Montrose County / elevation 5879 ft band", "Montrose County / ZIP 81402 sector", "Montrose County / coords 38.4700, -107.8600"]
-zillowHomeValueUsd: 600788
 ---
 
 **Engineering Notice for Montrose:** Structural loading calculated based on 5879 ft terrain assessment. Regional dispatch grid: Montrose County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Montrose, CO exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 81403.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: In Montrose, CO, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in Montrose, CO can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 81402/81403/81401 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 81402, 81403, 81401 (county grid: Montrose County).
+Low-slope sections in Montrose, CO need positive drainage before membrane repairs are scoped.
+
+Step: map ventilation intake and exhaust pairs for Montrose, CO attic runs.
+
+roof work brief: attic baffle spacing and skylight curb height were cross-checked for the Montrose intake packet.
+
+On-site sector marker: Montrose County / primary ZIP 81403 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Montrose County: moisture and logistics baselines are keyed to Montrose, CO before niche-specific work begins.
 
 Service reference: CO-81403-c12d6869

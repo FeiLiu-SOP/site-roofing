@@ -11,24 +11,29 @@ lng: -95.8800
 zipSample: ["74008"]
 zipCodes: ["74008"]
 localPaths: ["Tulsa County / coords 35.9500, -95.8800", "Tulsa County / primary ZIP 74008", "Tulsa County / elevation 617 ft band", "Tulsa County / ZIP 74008 sector"]
-zillowHomeValueUsd: 349668
 ---
 
 **Engineering Notice for Bixby:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Tulsa County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Structured milestones protect both sides when scheduling work.
+Granule embedment loss on Bixby, OK north slopes can precede mat exposure.
 
-Our service coordination centers on Bixby, OK coverage windows and verified intake details.
+Regulatory note: Bixby, OK projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Bixby, OK.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 74008.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 74008 (county grid: Tulsa County).
+Risk flag: Tile underlayment age in Bixby, OK can fail independently of visible tile cracks.
+
+Scope trace: synthetic underlayment slip plus skylight curb height referenced in Tulsa County county grid review.
+
+On-site sector marker: Tulsa County / elevation 617 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Tulsa County / primary ZIP 74008 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74008-5e2ad906

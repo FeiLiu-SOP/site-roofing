@@ -11,27 +11,33 @@ lng: -80.4500
 zipSample: ["33030", "33035", "33033"]
 zipCodes: ["33033", "33030", "33035"]
 localPaths: ["Miami-Dade County / ZIP 33033 sector", "Miami-Dade County / coords 25.4700, -80.4500", "Miami-Dade County / ZIP 33035 sector", "Miami-Dade County / primary ZIP 33035", "Miami-Dade County / elevation 20 ft band"]
-zillowHomeValueUsd: 338331
 ---
 
 **Engineering Notice for Homestead:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Our service coordination centers on Homestead, FL coverage windows and verified intake details.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 33035.
 
-Homeowners in Homestead, FL often face sudden roof work problems that require fast action.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 33035.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33030/33033/33035.
+Valley metal in Homestead, FL should be reviewed whenever granule loss tracks the water line.
 
-Field note: Connection points spot-checked where accessible (ZIP 33030/33033/33035 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 33030, 33033, 33035 (county grid: Miami-Dade County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roof work brief: shingle exposure calibration and deck sheathing thickness were cross-checked for the Homestead intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 33035/33030/33033.
+
+Regional mesh label Miami-Dade County: moisture and logistics baselines are keyed to Homestead, FL before niche-specific work begins.
+
+On-site sector marker: Miami-Dade County / ZIP 33030 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33035-6cfd55de

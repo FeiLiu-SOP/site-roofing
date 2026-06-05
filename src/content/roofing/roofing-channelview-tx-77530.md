@@ -11,27 +11,33 @@ lng: -95.1100
 zipSample: ["77530"]
 zipCodes: ["77530"]
 localPaths: ["Harris County / coords 29.7900, -95.1100", "Harris County / ZIP 77530 sector", "Harris County / elevation 49 ft band", "Harris County / primary ZIP 77530"]
-zillowHomeValueUsd: 210957
 ---
 
 **Engineering Notice for Channelview:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Harris County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 77530.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Clear documentation helps align materials, labor, and timeline.
+Code context: Ventilation ratios for Channelview, TX attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Channelview, TX, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Channelview, TX exposure class.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77530.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Access points and staging constraints recorded for ZIP 77530 coverage.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 77530 (county grid: Harris County).
+Skylight curb flashing in Channelview, TX should be sequenced before ridge cap replacement.
+
+Scope trace: drip-edge metal profile plus wind uplift clip spacing referenced in Harris County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 77530.
+
+Coordinate-anchored dispatch note: center reference 29.7900, -95.1100 at elevation ~49 ft aligns with Harris County intake staging.
+
+On-site sector marker: Harris County / primary ZIP 77530 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77530-520737f1

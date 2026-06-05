@@ -11,26 +11,31 @@ lng: -94.3500
 zipSample: ["72957", "72956"]
 zipCodes: ["72956", "72957"]
 localPaths: ["Crawford County / elevation 653 ft band", "Crawford County / primary ZIP 72956", "Crawford County / ZIP 72957 sector", "Crawford County / ZIP 72956 sector", "Crawford County / coords 35.4500, -94.3500"]
-zillowHomeValueUsd: 205171
 ---
 
 **Engineering Notice for Van Buren:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Crawford County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Van Buren, AR, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: request a written scope before work starts.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Across Van Buren, AR, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Van Buren, AR, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 72957/72956 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 72957/72956 intake.
+FAQ: How long can shingles wait after storm damage? In Van Buren, AR, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 72957, 72956 (county grid: Crawford County).
+Wind-zone note: Van Buren, AR exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: chimney cricket slope plus attic baffle spacing referenced in Crawford County county grid review.
+
+ZIP-corridor snapshot for Van Buren, AR: sampled sectors include 72956, 72957; county routing grid remains Crawford County.
+
+On-site sector marker: Crawford County / coords 35.4500, -94.3500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72956-0aadd862

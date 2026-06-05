@@ -11,24 +11,29 @@ lng: -83.1100
 zipSample: ["43420"]
 zipCodes: ["43420"]
 localPaths: ["Sandusky County / ZIP 43420 sector", "Sandusky County / elevation 577 ft band", "Sandusky County / primary ZIP 43420", "Sandusky County / coords 41.3500, -83.1100"]
-zillowHomeValueUsd: 173652
 ---
 
 **Engineering Notice for Fremont:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Sandusky County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fremont, OH, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Our service coordination centers on Fremont, OH coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Fremont, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 43420.
+Freeze-thaw cycles around Fremont, OH stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 43420 (county grid: Sandusky County).
+We coordinate Fremont, OH roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Field routing: wind uplift clip spacing paired with skylight curb height near ZIP 43420.
+
+Coordinate-anchored dispatch note: center reference 41.3500, -83.1100 at elevation ~577 ft aligns with Sandusky County intake staging.
+
+On-site sector marker: Sandusky County / primary ZIP 43420 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43420-6fbae80f

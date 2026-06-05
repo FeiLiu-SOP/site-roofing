@@ -11,24 +11,31 @@ lng: -72.5400
 zipSample: ["01107", "01139", "01104", "01102", "01118"]
 zipCodes: ["01118", "01144", "01101", "01108", "01151", "01119", "01111", "01115", "01102", "01138", "01139", "01103"]
 localPaths: ["Hampden County / ZIP 01102 sector", "Hampden County / coords 42.1200, -72.5400", "Hampden County / ZIP 01104 sector", "Hampden County / primary ZIP 01151", "Hampden County / ZIP 01107 sector"]
-zillowHomeValueUsd: 284069
 ---
 
 **Engineering Notice for Springfield:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Hampden County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-In Springfield, MA, seasonal demand can change scheduling windows.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-We coordinate local dispatch coverage around Springfield, MA and nearby ZIP sectors.
+Code context: Ventilation ratios for Springfield, MA attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 01105/01107/01108.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 01105, 01107, 01108, 01109, 01103 (county grid: Hampden County).
+Freeze-thaw cycles around Springfield, MA stress nail pops along eaves and rake edges.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: valley metal gauge plus counter-flashing reglet depth referenced in Hampden County county grid review.
+
+On-site sector marker: Hampden County / ZIP 01139 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hampden County / ZIP 01129 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-01151-97de06cf

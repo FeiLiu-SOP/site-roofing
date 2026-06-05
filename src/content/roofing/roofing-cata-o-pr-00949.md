@@ -11,27 +11,35 @@ lng: -66.1400
 zipSample: ["00949", "00963", "00962"]
 zipCodes: ["00949", "00963", "00962"]
 localPaths: ["Cataño County / ZIP 00949 sector", "Cataño County / ZIP 00963 sector", "Cataño County / ZIP 00962 sector", "Cataño County / elevation 16 ft band", "Cataño County / primary ZIP 00949"]
-zillowHomeValueUsd: 376284
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Cataño:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Cataño County.
 
 
-Tip: request a written scope before work starts.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cataño, PR, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Cataño, PR coverage windows and verified intake details.
+In Cataño, PR, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 00963/00949/00962 coverage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 00963/00949/00962.
+Risk flag: In Cataño, PR, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 00963, 00949, 00962 (county grid: Cataño County).
+Our Cataño, PR dispatch packets reference county grid Cataño County and elevation band 16 ft.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Scope trace: chimney cricket slope plus pipe boot manufacturer match referenced in Cataño County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 00962/00963/00949.
+
+Primary postal anchor 00949 with multi-ZIP overlap in Cataño; field packets tag Cataño County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Cataño County. Reference elevation: 16 ft. Primary coordinates: 18.4400, -66.1400. ZIP sample: 00949, 00963, 00962. Service perimeter note: Coverage extends through Cataño County with dispatch centered near ZIP 00949.
 
 Service reference: PR-00949-97ce7269

@@ -11,27 +11,33 @@ lng: -77.1800
 zipSample: ["22159", "22151", "22156", "22150", "22161"]
 zipCodes: ["22313", "22156", "22159", "22151", "22161", "22150"]
 localPaths: ["Fairfax County / ZIP 22156 sector", "Fairfax County / coords 38.7800, -77.1800", "Fairfax County / ZIP 22151 sector", "Fairfax County / ZIP 22161 sector", "Fairfax County / ZIP 22159 sector"]
-zillowHomeValueUsd: 718950
 ---
 
 **Engineering Notice for Springfield:** Structural loading calculated based on 256 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 22151.
+Freeze-thaw cycles around Springfield, VA stress nail pops along eaves and rake edges.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Springfield, VA, but intake notes help reduce delays.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Springfield, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 22161/22156/22159.
+Material note: In Springfield, VA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Moisture pathway inspection logged near ZIP 22161/22156/22159 intake.
+Code context: Ventilation ratios for Springfield, VA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 22161, 22156, 22159, 22151, 22150 (county grid: Fairfax County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+roofing service brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Springfield intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 22156/22313/22159.
+
+On-site sector marker: Fairfax County / ZIP 22313 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Fairfax County / ZIP 22161 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22151-11cc4278

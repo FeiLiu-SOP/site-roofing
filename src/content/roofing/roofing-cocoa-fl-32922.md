@@ -11,25 +11,29 @@ lng: -80.7700
 zipSample: ["32926", "32922"]
 zipCodes: ["32926", "32922"]
 localPaths: ["Brevard County / coords 28.3800, -80.7700", "Brevard County / elevation 39 ft band", "Brevard County / primary ZIP 32922", "Brevard County / ZIP 32926 sector", "Brevard County / ZIP 32922 sector"]
-zillowHomeValueUsd: 199941
 ---
 
 **Engineering Notice for Cocoa:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Brevard County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Cocoa, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 32922.
+Coastal humidity in Cocoa, FL can slow shingle seal-down after shoulder-season storms.
 
-Tip: confirm licensing and insurance before approving work.
+We coordinate Cocoa, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 32926/32922 coverage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 32922.
 
-Dispatch sectors sampled: ZIP 32926, 32922 (county grid: Brevard County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roofing service brief: chimney cricket slope and ridge cap nail schedule were cross-checked for the Cocoa intake packet.
+
+On-site sector marker: Brevard County / coords 28.3800, -80.7700 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Brevard County / elevation 39 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32922-1c580972

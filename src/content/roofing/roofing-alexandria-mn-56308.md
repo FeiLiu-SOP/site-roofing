@@ -11,24 +11,33 @@ lng: -95.3800
 zipSample: ["56308"]
 zipCodes: ["56308"]
 localPaths: ["Douglas County / elevation 1417 ft band", "Douglas County / ZIP 56308 sector", "Douglas County / coords 45.8800, -95.3800", "Douglas County / primary ZIP 56308"]
-zillowHomeValueUsd: 352475
 ---
 
 **Engineering Notice for Alexandria:** Structural loading calculated based on 1417 ft terrain assessment. Regional dispatch grid: Douglas County.
 
 
-Our service coordination centers on Alexandria, MN coverage windows and verified intake details.
+Attic ventilation deficits in Alexandria, MN can mimic roof leaks at ceiling penetrations.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Alexandria, MN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: Alexandria, MN exposure class can change starter-strip and cap nail schedules.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Access points and staging constraints recorded for ZIP 56308 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 56308 (county grid: Douglas County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Our Alexandria, MN dispatch packets reference county grid Douglas County and elevation band 1417 ft.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+roof service brief: attic baffle spacing and ridge cap nail schedule were cross-checked for the Alexandria intake packet.
+
+ZIP-corridor snapshot for Alexandria, MN: sampled sectors include 56308; county routing grid remains Douglas County.
+
+On-site sector marker: Douglas County / primary ZIP 56308 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-56308-3064a528

@@ -11,27 +11,33 @@ lng: -94.5000
 zipSample: ["64802", "64804", "64801", "64803"]
 zipCodes: ["64801", "64803", "64802", "64804"]
 localPaths: ["Jasper County / coords 37.0800, -94.5000", "Jasper County / ZIP 64803 sector", "Jasper County / ZIP 64801 sector", "Jasper County / elevation 1010 ft band", "Jasper County / primary ZIP 64804"]
-zillowHomeValueUsd: 225053
 ---
 
 **Engineering Notice for Joplin:** Structural loading calculated based on 1010 ft terrain assessment. Regional dispatch grid: Jasper County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Valley metal in Joplin, MO should be reviewed whenever granule loss tracks the water line.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 64804.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: map ventilation intake and exhaust pairs for Joplin, MO attic runs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Joplin, MO, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 64802/64804/64803 zone).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 64802/64804/64803.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 64802, 64804, 64803, 64801 (county grid: Jasper County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+roof work brief: starter-strip setback and drip-edge metal profile were cross-checked for the Joplin intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 64802/64801/64803.
+
+On-site sector marker: Jasper County / ZIP 64804 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Jasper County / elevation 1010 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64804-d10d783e

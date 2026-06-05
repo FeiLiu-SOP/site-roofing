@@ -11,24 +11,33 @@ lng: -86.1300
 zipSample: ["46965", "46901", "46903", "46902"]
 zipCodes: ["46902", "46903", "46901", "46965"]
 localPaths: ["Howard County / ZIP 46902 sector", "Howard County / elevation 827 ft band", "Howard County / coords 40.4600, -86.1300", "Howard County / ZIP 46965 sector", "Howard County / primary ZIP 46902"]
-zillowHomeValueUsd: 198893
 ---
 
 **Engineering Notice for Kokomo:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: Howard County.
 
 
-Our service coordination centers on Kokomo, IN coverage windows and verified intake details.
+FAQ: When should permanent remediation start? In Kokomo, IN, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: confirm licensing and insurance before approving work.
+Parapet coping movement in Kokomo, IN can channel water behind wall cladding.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: map ventilation intake and exhaust pairs for Kokomo, IN attic runs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Moisture pathway inspection logged near ZIP 46965/46903/46902 intake.
+Our Kokomo, IN dispatch packets reference county grid Howard County and elevation band 827 ft.
 
-Dispatch sectors sampled: ZIP 46965, 46903, 46902, 46901 (county grid: Howard County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Risk flag: Tile underlayment age in Kokomo, IN can fail independently of visible tile cracks.
+
+Field routing: deck sheathing thickness paired with attic baffle spacing near ZIP 46902.
+
+Field note: Attic moisture pathway scan referenced ZIP 46901/46902/46965.
+
+On-site sector marker: Howard County / primary ZIP 46902 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Howard County: moisture and logistics baselines are keyed to Kokomo, IN before niche-specific work begins.
 
 Service reference: IN-46902-b14d55aa

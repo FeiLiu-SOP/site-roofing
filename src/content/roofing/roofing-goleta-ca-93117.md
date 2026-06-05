@@ -11,26 +11,29 @@ lng: -119.8600
 zipSample: ["93117", "93118"]
 zipCodes: ["93118", "93117"]
 localPaths: ["Santa Barbara County / ZIP 93118 sector", "Santa Barbara County / ZIP 93117 sector", "Santa Barbara County / primary ZIP 93117", "Santa Barbara County / elevation 46 ft band", "Santa Barbara County / coords 34.4400, -119.8600"]
-zillowHomeValueUsd: 1378725
 ---
 
 **Engineering Notice for Goleta:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 93117.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Goleta, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 93117.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on Goleta, CA coverage windows and verified intake details.
+Granule embedment loss on Goleta, CA north slopes can precede mat exposure.
 
-Field note: Wind exposure category reviewed for ZIP sector 93118/93117.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 93118, 93117 (county grid: Santa Barbara County).
+Wind-zone note: Goleta, CA exposure class can change starter-strip and cap nail schedules.
+
+roof work brief: synthetic underlayment slip and shingle exposure calibration were cross-checked for the Goleta intake packet.
+
+Regional mesh label Santa Barbara County: moisture and logistics baselines are keyed to Goleta, CA before niche-specific work begins.
+
+Primary postal anchor 93117 with multi-ZIP overlap in Goleta; field packets tag Santa Barbara County for county-grid reconciliation.
 
 Service reference: CA-93117-05d4870c

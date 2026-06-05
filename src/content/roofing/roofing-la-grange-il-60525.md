@@ -11,26 +11,33 @@ lng: -87.8700
 zipSample: ["60525"]
 zipCodes: ["60525"]
 localPaths: ["Cook County / elevation 656 ft band", "Cook County / coords 41.8100, -87.8700", "Cook County / ZIP 60525 sector", "Cook County / primary ZIP 60525"]
-zillowHomeValueUsd: 485367
 ---
 
 **Engineering Notice for La Grange:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-We coordinate local dispatch coverage around La Grange, IL and nearby ZIP sectors.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can you tarp only part of the roof? In La Grange, IL, yes—if slope and anchor points support safe tie-offs.
 
-Local conditions in La Grange, IL can affect timelines and material choices.
+Valley metal in La Grange, IL should be reviewed whenever granule loss tracks the water line.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60525.
 
-Field note: Moisture pathway inspection logged near ZIP 60525 intake.
+Regulatory note: La Grange, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 60525 zone).
+Risk flag: Tile underlayment age in La Grange, IL can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 60525 (county grid: Cook County).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+roofing service brief: ice-barrier lap sequence and synthetic underlayment slip were cross-checked for the La Grange intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 60525.
+
+Coordinate-anchored dispatch note: center reference 41.8100, -87.8700 at elevation ~656 ft aligns with Cook County intake staging.
+
+Primary postal anchor 60525 with multi-ZIP overlap in La Grange; field packets tag Cook County for county-grid reconciliation.
 
 Service reference: IL-60525-731b4fc9

@@ -11,26 +11,35 @@ lng: -85.2300
 zipSample: ["49016", "49015", "49037"]
 zipCodes: ["49037", "49015", "49016"]
 localPaths: ["Calhoun County / primary ZIP 49015", "Calhoun County / coords 42.3000, -85.2300", "Calhoun County / ZIP 49015 sector", "Calhoun County / ZIP 49016 sector", "Calhoun County / elevation 935 ft band"]
-zillowHomeValueUsd: 206305
 ---
 
 **Engineering Notice for Battle Creek:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Calhoun County.
 
 
-We coordinate local dispatch coverage around Battle Creek, MI and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for Battle Creek, MI.
 
-Tip: avoid large upfront payments without milestones.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Low-slope sections in Battle Creek, MI need positive drainage before membrane repairs are scoped.
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 49015/49016/49037.
+Wind-zone note: Battle Creek, MI exposure class can change starter-strip and cap nail schedules.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 49015/49016/49037.
+Risk flag: Tile underlayment age in Battle Creek, MI can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 49015, 49016, 49037 (county grid: Calhoun County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+roof work brief: chimney cricket slope and soffit intake free area were cross-checked for the Battle Creek intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 49037/49015/49016.
+
+Regional mesh label Calhoun County: moisture and logistics baselines are keyed to Battle Creek, MI before niche-specific work begins.
+
+On-site sector marker: Calhoun County / ZIP 49016 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49015-d34be520

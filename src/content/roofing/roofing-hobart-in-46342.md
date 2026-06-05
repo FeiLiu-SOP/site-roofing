@@ -11,24 +11,31 @@ lng: -87.2700
 zipSample: ["46410", "46342"]
 zipCodes: ["46410", "46342"]
 localPaths: ["Lake County / elevation 636 ft band", "Lake County / ZIP 46342 sector", "Lake County / ZIP 46410 sector", "Lake County / primary ZIP 46342", "Lake County / coords 41.5100, -87.2700"]
-zillowHomeValueUsd: 234710
 ---
 
 **Engineering Notice for Hobart:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Homeowners in Hobart, IN often face sudden roofing service problems that require fast action.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Clear documentation helps align materials, labor, and timeline.
+Granule embedment loss on Hobart, IN north slopes can precede mat exposure.
 
-We coordinate local dispatch coverage around Hobart, IN and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46342/46410.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 46342, 46410 (county grid: Lake County).
+Risk flag: In Hobart, IN, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: skylight curb height plus starter-strip setback referenced in Lake County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 46410/46342.
+
+On-site sector marker: Lake County / elevation 636 ft band — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Lake County: moisture and logistics baselines are keyed to Hobart, IN before niche-specific work begins.
 
 Service reference: IN-46342-8ecf6a2c

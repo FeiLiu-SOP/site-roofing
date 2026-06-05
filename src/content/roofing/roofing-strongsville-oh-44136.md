@@ -11,27 +11,33 @@ lng: -81.8300
 zipSample: ["44149", "44136"]
 zipCodes: ["44149", "44136"]
 localPaths: ["Cuyahoga County / elevation 932 ft band", "Cuyahoga County / primary ZIP 44136", "Cuyahoga County / ZIP 44149 sector", "Cuyahoga County / ZIP 44136 sector", "Cuyahoga County / coords 41.3100, -81.8300"]
-zillowHomeValueUsd: 353776
 ---
 
 **Engineering Notice for Strongsville:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 44136.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Strongsville, OH coverage windows and verified intake details.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Moisture pathway inspection logged near ZIP 44149/44136 intake.
+FAQ: Can you tarp only part of the roof? In Strongsville, OH, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 44149/44136 coverage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 44149, 44136 (county grid: Cuyahoga County).
+Wood shake courses in Strongsville, OH require skip-spacing rules at valleys.
+
+roof work brief: counter-flashing reglet depth and valley metal gauge were cross-checked for the Strongsville intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 44136/44149.
+
+Primary postal anchor 44136 with multi-ZIP overlap in Strongsville; field packets tag Cuyahoga County for county-grid reconciliation.
+
+On-site sector marker: Cuyahoga County / ZIP 44149 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44136-37f938ca

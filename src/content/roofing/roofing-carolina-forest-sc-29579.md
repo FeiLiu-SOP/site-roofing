@@ -11,27 +11,31 @@ lng: -78.9100
 zipSample: ["29579"]
 zipCodes: ["29579"]
 localPaths: ["Horry County / ZIP 29579 sector", "Horry County / elevation 30 ft band", "Horry County / coords 33.7700, -78.9100", "Horry County / primary ZIP 29579"]
-zillowHomeValueUsd: 354994
 ---
 
 **Engineering Notice for Carolina Forest:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Horry County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Carolina Forest, SC, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Carolina Forest, SC coverage windows and verified intake details.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 29579.
+Hail bruising on Carolina Forest, SC ridges may not breach felt until the next wind event.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29579.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 29579 zone).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 29579 (county grid: Horry County).
+roofing service brief: skylight curb height and drip-edge metal profile were cross-checked for the Carolina Forest intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 29579.
+
+On-site sector marker: Horry County / coords 33.7700, -78.9100 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 33.7700, -78.9100 at elevation ~30 ft aligns with Horry County intake staging.
 
 Service reference: SC-29579-8a54e901

@@ -11,27 +11,33 @@ lng: -119.9800
 zipSample: ["96150", "96154", "96151", "96158", "96157"]
 zipCodes: ["96157", "96158", "96151", "96150", "96154", "96152"]
 localPaths: ["El Dorado County / ZIP 96151 sector", "El Dorado County / ZIP 96157 sector", "El Dorado County / primary ZIP 96150", "El Dorado County / ZIP 96158 sector", "El Dorado County / ZIP 96154 sector"]
-zillowHomeValueUsd: 663209
 ---
 
 **Engineering Notice for South Lake Tahoe:** Structural loading calculated based on 6289 ft terrain assessment. Regional dispatch grid: El Dorado County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-We coordinate local dispatch coverage around South Lake Tahoe, CA and nearby ZIP sectors.
+Wind-zone note: South Lake Tahoe, CA exposure class can change starter-strip and cap nail schedules.
 
-Tip: request a written scope before work starts.
+Request dry-in and service phases as separate line items. Serving ZIP Code: 96150.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 96150.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in South Lake Tahoe, CA, but intake notes help reduce delays.
+FAQ: When should permanent remediation start? In South Lake Tahoe, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 96154/96151/96150 intake.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96154/96151/96150.
+Material note: In South Lake Tahoe, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 96154, 96151, 96150, 96157, 96152 (county grid: El Dorado County).
+Granule embedment loss on South Lake Tahoe, CA north slopes can precede mat exposure.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Scope trace: shingle exposure calibration plus ridge cap nail schedule referenced in El Dorado County county grid review.
+
+Coordinate-anchored dispatch note: center reference 38.9400, -119.9800 at elevation ~6289 ft aligns with El Dorado County intake staging.
+
+On-site sector marker: El Dorado County / ZIP 96154 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-96150-4e644634

@@ -11,26 +11,31 @@ lng: -97.5200
 zipSample: ["78653"]
 zipCodes: ["78653"]
 localPaths: ["Travis County / coords 30.3600, -97.5200", "Travis County / elevation 568 ft band", "Travis County / primary ZIP 78653", "Travis County / ZIP 78653 sector"]
-zillowHomeValueUsd: 324780
 ---
 
 **Engineering Notice for Manor:** Structural loading calculated based on 568 ft terrain assessment. Regional dispatch grid: Travis County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Manor, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Manor, TX, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: address recurring issues early to prevent bigger damage.
+Our Manor, TX dispatch packets reference county grid Travis County and elevation band 568 ft.
 
-Clear documentation helps align materials, labor, and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Access points and staging constraints recorded for ZIP 78653 coverage.
+Freeze-thaw cycles around Manor, TX stress nail pops along eaves and rake edges.
 
-Field note: Connection points spot-checked where accessible (ZIP 78653 zone).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 78653 (county grid: Travis County).
+Field routing: pipe boot manufacturer match paired with synthetic underlayment slip near ZIP 78653.
+
+Field note: Attic moisture pathway scan referenced ZIP 78653.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~568 ft across the Travis County area. Coordinates: 30.3600, -97.5200. ZIP sample: 78653. Regional routing note: Travis County traffic flow is balanced around ZIP 78653 service demand.
+
+On-site sector marker: Travis County / primary ZIP 78653 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78653-25b4df5f

@@ -11,25 +11,31 @@ lng: -73.1200
 zipSample: ["11779"]
 zipCodes: ["11779"]
 localPaths: ["Suffolk County / primary ZIP 11779", "Suffolk County / elevation 112 ft band", "Suffolk County / coords 40.8000, -73.1200", "Suffolk County / ZIP 11779 sector"]
-zillowHomeValueUsd: 619147
 ---
 
 **Engineering Notice for Ronkonkoma:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Granule embedment loss on Ronkonkoma, NY north slopes can precede mat exposure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Ronkonkoma, NY roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 11779.
+Tip: Note recent wind events when filing insurance photos for Ronkonkoma, NY.
 
-We coordinate local dispatch coverage around Ronkonkoma, NY and nearby ZIP sectors.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: How long can shingles wait after storm damage? In Ronkonkoma, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11779.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 11779 (county grid: Suffolk County).
+Regulatory note: Ronkonkoma, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: attic baffle spacing plus pipe boot manufacturer match referenced in Suffolk County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 11779.
+
+On-site sector marker: Suffolk County / ZIP 11779 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 11779 with multi-ZIP overlap in Ronkonkoma; field packets tag Suffolk County for county-grid reconciliation.
 
 Service reference: NY-11779-e8b74531

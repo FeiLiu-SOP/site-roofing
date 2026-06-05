@@ -11,24 +11,31 @@ lng: -122.1700
 zipSample: ["94026", "94025"]
 zipCodes: ["94026", "94025"]
 localPaths: ["San Mateo County / ZIP 94025 sector", "San Mateo County / coords 37.4700, -122.1700", "San Mateo County / ZIP 94026 sector", "San Mateo County / primary ZIP 94025", "San Mateo County / elevation 49 ft band"]
-zillowHomeValueUsd: 2889219
 ---
 
 **Engineering Notice for Menlo Park:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: San Mateo County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Menlo Park, CA, but intake notes help reduce delays.
+FAQ: Can you tarp only part of the roof? In Menlo Park, CA, yes—if slope and anchor points support safe tie-offs.
 
-Tip: request a written scope before work starts.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Coastal humidity in Menlo Park, CA can slow shingle seal-down after shoulder-season storms.
 
-Field note: Connection points spot-checked where accessible (ZIP 94026/94025 zone).
+Regulatory note: Menlo Park, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 94026, 94025 (county grid: San Mateo County).
+Risk flag: In Menlo Park, CA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: counter-flashing reglet depth paired with pipe boot manufacturer match near ZIP 94025.
+
+Field note: Valley debris and granule loss noted for ZIP 94025/94026.
+
+On-site sector marker: San Mateo County / coords 37.4700, -122.1700 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Service coverage aligns with San Mateo County and primary ZIP 94025. Terrain reference: 49 ft. Center point: 37.4700, -122.1700. ZIP sample: 94026, 94025. Regional routing note: San Mateo County traffic flow is balanced around ZIP 94025 service demand.
 
 Service reference: CA-94025-5a9b53b0

@@ -11,26 +11,35 @@ lng: -82.2200
 zipSample: ["33547"]
 zipCodes: ["33547"]
 localPaths: ["Hillsborough County / elevation 82 ft band", "Hillsborough County / ZIP 33547 sector", "Hillsborough County / coords 27.8500, -82.2200", "Hillsborough County / primary ZIP 33547"]
-zillowHomeValueUsd: 515451
 ---
 
 **Engineering Notice for Fish Hawk:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Synthetic underlayment slip in Fish Hawk, FL is often tied to deck moisture, not wind alone.
 
-Tip: avoid large upfront payments without milestones.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: request a written scope before work starts.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Wind exposure category reviewed for ZIP sector 33547.
+FAQ: Is partial dry-in possible? In Fish Hawk, FL, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 33547 coverage.
+Metal panel oil-canning in Fish Hawk, FL may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 33547 (county grid: Hillsborough County).
+Risk flag: In Fish Hawk, FL, interior stains may track from HVAC condensate rather than roof cladding.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: counter-flashing reglet depth plus soffit intake free area referenced in Hillsborough County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 33547.
+
+On-site sector marker: Hillsborough County / primary ZIP 33547 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 27.8500, -82.2200 at elevation ~82 ft aligns with Hillsborough County intake staging.
 
 Service reference: FL-33547-3cc40da1

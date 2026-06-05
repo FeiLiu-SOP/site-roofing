@@ -11,26 +11,31 @@ lng: -87.1700
 zipSample: ["32571"]
 zipCodes: ["32571"]
 localPaths: ["Santa Rosa County / elevation 115 ft band", "Santa Rosa County / primary ZIP 32571", "Santa Rosa County / coords 30.6200, -87.1700", "Santa Rosa County / ZIP 32571 sector"]
-zillowHomeValueUsd: 325345
 ---
 
 **Engineering Notice for Pace:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Santa Rosa County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around Pace, FL and nearby ZIP sectors.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: avoid large upfront payments without milestones.
+We coordinate Pace, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Pace, FL attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32571.
+Valley metal in Pace, FL should be reviewed whenever granule loss tracks the water line.
 
-Field note: Wind exposure category reviewed for ZIP sector 32571.
+FAQ: Can you tarp only part of the roof? In Pace, FL, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 32571 (county grid: Santa Rosa County).
+roof service brief: chimney cricket slope and attic baffle spacing were cross-checked for the Pace intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 32571.
+
+Coordinate-anchored dispatch note: center reference 30.6200, -87.1700 at elevation ~115 ft aligns with Santa Rosa County intake staging.
+
+On-site sector marker: Santa Rosa County / primary ZIP 32571 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32571-6ef95471

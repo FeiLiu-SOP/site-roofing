@@ -11,27 +11,31 @@ lng: -94.0800
 zipSample: ["75503", "75501", "75599"]
 zipCodes: ["75503", "75501", "75599"]
 localPaths: ["Bowie County / primary ZIP 75501", "Bowie County / ZIP 75599 sector", "Bowie County / ZIP 75503 sector", "Bowie County / coords 33.4500, -94.0800", "Bowie County / elevation 348 ft band"]
-zillowHomeValueUsd: 154016
 ---
 
 **Engineering Notice for Texarkana:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Bowie County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wood shake courses in Texarkana, TX require skip-spacing rules at valleys.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+Our Texarkana, TX dispatch packets reference county grid Bowie County and elevation band 348 ft.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 75501.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Texarkana, TX, but intake notes help reduce delays.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75599/75501/75503.
+Risk flag: Tile underlayment age in Texarkana, TX can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 75599/75501/75503 coverage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 75599, 75501, 75503 (county grid: Bowie County).
+Scope trace: counter-flashing reglet depth plus wind uplift clip spacing referenced in Bowie County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 75503/75599/75501.
+
+ZIP-corridor snapshot for Texarkana, TX: sampled sectors include 75501, 75599, 75503; county routing grid remains Bowie County.
+
+Coordinate-anchored dispatch note: center reference 33.4500, -94.0800 at elevation ~348 ft aligns with Bowie County intake staging.
 
 Service reference: TX-75501-4326715d

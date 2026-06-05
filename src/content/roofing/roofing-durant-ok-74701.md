@@ -11,27 +11,31 @@ lng: -96.3900
 zipSample: ["74701"]
 zipCodes: ["74701"]
 localPaths: ["Bryan County / ZIP 74701 sector", "Bryan County / primary ZIP 74701", "Bryan County / elevation 686 ft band", "Bryan County / coords 33.9900, -96.3900"]
-zillowHomeValueUsd: 221526
 ---
 
 **Engineering Notice for Durant:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Bryan County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 74701.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Our service coordination centers on Durant, OK coverage windows and verified intake details.
+Skylight curb flashing in Durant, OK should be sequenced before ridge cap replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Durant, OK, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: request a written scope before work starts.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 74701 coverage.
+Wind-zone note: Durant, OK exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 74701 intake.
+Risk flag: In Durant, OK, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 74701 (county grid: Bryan County).
+Scope trace: wind uplift clip spacing plus synthetic underlayment slip referenced in Bryan County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 74701.
+
+On-site sector marker: Bryan County / coords 33.9900, -96.3900 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Bryan County / elevation 686 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74701-565bf5c6

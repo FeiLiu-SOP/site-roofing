@@ -11,24 +11,35 @@ lng: -93.3500
 zipSample: ["55444", "55445", "55428", "55429", "55443"]
 zipCodes: ["55429", "55445", "55443", "55444", "55428"]
 localPaths: ["Hennepin County / primary ZIP 55429", "Hennepin County / ZIP 55429 sector", "Hennepin County / elevation 856 ft band", "Hennepin County / ZIP 55444 sector", "Hennepin County / ZIP 55445 sector"]
-zillowHomeValueUsd: 298857
 ---
 
 **Engineering Notice for Brooklyn Park:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Hennepin County.
 
 
-Homeowners in Brooklyn Park, MN often face sudden roofing service problems that require fast action.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wood shake courses in Brooklyn Park, MN require skip-spacing rules at valleys.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 55428/55445/55444 intake.
+Wind-zone note: Brooklyn Park, MN exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 55428, 55445, 55444, 55429, 55443 (county grid: Hennepin County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+roofing service brief: soffit intake free area and valley metal gauge were cross-checked for the Brooklyn Park intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 55444/55429/55443.
+
+On-site sector marker: Hennepin County / ZIP 55429 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 55429 with multi-ZIP overlap in Brooklyn Park; field packets tag Hennepin County for county-grid reconciliation.
 
 Service reference: MN-55429-ccc0e73d

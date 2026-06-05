@@ -11,25 +11,31 @@ lng: -80.6700
 zipSample: ["32937", "32954", "32953", "32952"]
 zipCodes: ["32952", "32953", "32954", "32937"]
 localPaths: ["Brevard County / elevation 0 ft band", "Brevard County / primary ZIP 32952", "Brevard County / ZIP 32937 sector", "Brevard County / ZIP 32954 sector", "Brevard County / coords 28.3100, -80.6700"]
-zillowHomeValueUsd: 432977
 ---
 
 **Engineering Notice for Merritt Island:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Brevard County.
 
 
-In Merritt Island, FL, seasonal demand can change scheduling windows.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: stage tear-off debris paths away from landscape drains.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 32952.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Synthetic underlayment slip in Merritt Island, FL is often tied to deck moisture, not wind alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32953/32937/32954.
+Risk flag: Tile underlayment age in Merritt Island, FL can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 32953, 32937, 32954, 32952 (county grid: Brevard County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Wind-zone note: Merritt Island, FL exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: wind uplift clip spacing plus skylight curb height referenced in Brevard County county grid review.
+
+Primary postal anchor 32952 with multi-ZIP overlap in Merritt Island; field packets tag Brevard County for county-grid reconciliation.
+
+On-site sector marker: Brevard County / ZIP 32952 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32952-0ab83f97

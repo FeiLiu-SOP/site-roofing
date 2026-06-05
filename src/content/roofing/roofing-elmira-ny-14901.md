@@ -11,27 +11,31 @@ lng: -76.8100
 zipSample: ["14904", "14901", "14905", "14902"]
 zipCodes: ["14904", "14905", "14901", "14902"]
 localPaths: ["Chemung County / coords 42.0900, -76.8100", "Chemung County / ZIP 14901 sector", "Chemung County / ZIP 14902 sector", "Chemung County / ZIP 14905 sector", "Chemung County / primary ZIP 14901"]
-zillowHomeValueUsd: 105448
 ---
 
 **Engineering Notice for Elmira:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Chemung County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wood shake courses in Elmira, NY require skip-spacing rules at valleys.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Note recent wind events when filing insurance photos for Elmira, NY.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: stage tear-off debris paths away from landscape drains.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 14901.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How long can shingles wait after storm damage? In Elmira, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 14904/14901/14902.
+Our Elmira, NY dispatch packets reference county grid Chemung County and elevation band 866 ft.
 
-Field note: Wind exposure category reviewed for ZIP sector 14904/14901/14902.
+Code context: Ventilation ratios for Elmira, NY attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 14904, 14901, 14902, 14905 (county grid: Chemung County).
+Scope trace: starter-strip setback plus skylight curb height referenced in Chemung County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 14901/14904/14902.
+
+On-site sector marker: Chemung County / ZIP 14905 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Chemung County / primary ZIP 14901 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14901-98133bbf

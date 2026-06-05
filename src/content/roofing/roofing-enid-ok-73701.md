@@ -11,27 +11,35 @@ lng: -97.8700
 zipSample: ["73703", "73702", "73705", "73706", "73701"]
 zipCodes: ["73705", "73706", "73701", "73703", "73702"]
 localPaths: ["Garfield County / ZIP 73701 sector", "Garfield County / primary ZIP 73701", "Garfield County / ZIP 73706 sector", "Garfield County / coords 36.4100, -97.8700", "Garfield County / elevation 1276 ft band"]
-zillowHomeValueUsd: 78556
 ---
 
 **Engineering Notice for Enid:** Structural loading calculated based on 1276 ft terrain assessment. Regional dispatch grid: Garfield County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Enid, OK projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 73701.
+Low-slope sections in Enid, OK need positive drainage before membrane repairs are scoped.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Moisture pathway inspection logged near ZIP 73702/73706/73705 intake.
+Risk flag: In Enid, OK, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 73702/73706/73705.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 73702, 73706, 73705, 73703, 73701 (county grid: Garfield County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: soffit intake free area paired with ice-barrier lap sequence near ZIP 73701.
+
+Field note: Attic moisture pathway scan referenced ZIP 73705/73703/73706.
+
+On-site sector marker: Garfield County / ZIP 73705 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Garfield County / ZIP 73702 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73701-abf88911

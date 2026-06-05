@@ -11,26 +11,35 @@ lng: -83.1800
 zipSample: ["48237"]
 zipCodes: ["48237"]
 localPaths: ["Oakland County / ZIP 48237 sector", "Oakland County / primary ZIP 48237", "Oakland County / coords 42.4600, -83.1800", "Oakland County / elevation 673 ft band"]
-zillowHomeValueUsd: 232976
 ---
 
 **Engineering Notice for Oak Park:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Oakland County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Oak Park, MI, but intake notes help reduce delays.
+We coordinate Oak Park, MI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic ventilation deficits in Oak Park, MI can mimic roof leaks at ceiling penetrations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: compare shingle manufacturer wind-zone ratings for Oak Park, MI exposure class.
 
-Field note: Moisture pathway inspection logged near ZIP 48237 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 48237 coverage.
+Code context: Ventilation ratios for Oak Park, MI attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 48237 (county grid: Oakland County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Scope trace: chimney cricket slope plus skylight curb height referenced in Oakland County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 48237.
+
+Primary postal anchor 48237 with multi-ZIP overlap in Oak Park; field packets tag Oakland County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 42.4600, -83.1800 at elevation ~673 ft aligns with Oakland County intake staging.
 
 Service reference: MI-48237-32cdea01

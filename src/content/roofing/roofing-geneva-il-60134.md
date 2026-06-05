@@ -11,26 +11,33 @@ lng: -88.3200
 zipSample: ["60134"]
 zipCodes: ["60134"]
 localPaths: ["Kane County / coords 41.8800, -88.3200", "Kane County / elevation 741 ft band", "Kane County / primary ZIP 60134", "Kane County / ZIP 60134 sector"]
-zillowHomeValueUsd: 532136
 ---
 
 **Engineering Notice for Geneva:** Structural loading calculated based on 741 ft terrain assessment. Regional dispatch grid: Kane County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Geneva, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: In Geneva, IL, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Our Geneva, IL dispatch packets reference county grid Kane County and elevation band 741 ft.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 60134 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 60134 zone).
+Risk flag: In Geneva, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 60134 (county grid: Kane County).
+FAQ: How long can shingles wait after storm damage? In Geneva, IL, delayed dry-in can expand insulation and ceiling repairs.
+
+Coastal humidity in Geneva, IL can slow shingle seal-down after shoulder-season storms.
+
+Field routing: deck sheathing thickness paired with drip-edge metal profile near ZIP 60134.
+
+On-site sector marker: Kane County / elevation 741 ft band — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Kane County: moisture and logistics baselines are keyed to Geneva, IL before niche-specific work begins.
 
 Service reference: IL-60134-eedcf897

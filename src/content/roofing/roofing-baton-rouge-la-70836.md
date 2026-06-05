@@ -11,26 +11,31 @@ lng: -91.1300
 zipSample: ["70827", "70801", "70836", "70816", "70813"]
 zipCodes: ["70835", "70805", "70821", "70822", "70809", "70820", "70823", "70816", "70802", "70893", "70898", "70827"]
 localPaths: ["East Baton Rouge Parish / ZIP 70813 sector", "East Baton Rouge Parish / elevation 72 ft band", "East Baton Rouge Parish / coords 30.4400, -91.1300", "East Baton Rouge Parish / ZIP 70836 sector", "East Baton Rouge Parish / ZIP 70816 sector"]
-zillowHomeValueUsd: 331319
 ---
 
 **Engineering Notice for Baton Rouge:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wood shake courses in Baton Rouge, LA require skip-spacing rules at valleys.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Baton Rouge, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Baton Rouge, LA can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 70816/70814/70809 zone).
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70816/70814/70809.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 70816, 70814, 70809, 70813, 70808 (county grid: East Baton Rouge Parish).
+FAQ: Is partial dry-in possible? In Baton Rouge, LA, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: soffit intake free area plus counter-flashing reglet depth referenced in East Baton Rouge Parish county grid review.
+
+Regional mesh label East Baton Rouge Parish: moisture and logistics baselines are keyed to Baton Rouge, LA before niche-specific work begins.
+
+Primary postal anchor 70836 with multi-ZIP overlap in Baton Rouge; field packets tag East Baton Rouge Parish for county-grid reconciliation.
 
 Service reference: LA-70836-d0d0eab4

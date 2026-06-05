@@ -11,26 +11,33 @@ lng: -122.2400
 zipSample: ["98178"]
 zipCodes: ["98178"]
 localPaths: ["King County / primary ZIP 98178", "King County / coords 47.4900, -122.2400", "King County / elevation 387 ft band", "King County / ZIP 98178 sector"]
-zillowHomeValueUsd: 670393
 ---
 
 **Engineering Notice for Bryn Mawr-Skyway:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: King County.
 
 
-We coordinate local dispatch coverage around Bryn Mawr-Skyway, WA and nearby ZIP sectors.
+Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 98178.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: address recurring issues early to prevent bigger damage.
+TPO seam welds in Bryn Mawr-Skyway, WA commercial sections need probe tests after freeze events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98178.
+Tip: Note recent wind events when filing insurance photos for Bryn Mawr-Skyway, WA.
 
-Field note: Moisture pathway inspection logged near ZIP 98178 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 98178 (county grid: King County).
+Risk flag: Tile underlayment age in Bryn Mawr-Skyway, WA can fail independently of visible tile cracks.
+
+FAQ: Can you tarp only part of the roof? In Bryn Mawr-Skyway, WA, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: wind uplift clip spacing plus shingle exposure calibration referenced in King County county grid review.
+
+On-site sector marker: King County / elevation 387 ft band — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 98178 with multi-ZIP overlap in Bryn Mawr-Skyway; field packets tag King County for county-grid reconciliation.
 
 Service reference: WA-98178-c10ac137

@@ -11,26 +11,31 @@ lng: -78.7100
 zipSample: ["29597", "29566", "29582", "29568"]
 zipCodes: ["29582", "29568", "29566", "29597"]
 localPaths: ["Horry County / ZIP 29582 sector", "Horry County / ZIP 29597 sector", "Horry County / ZIP 29568 sector", "Horry County / coords 33.8200, -78.7100", "Horry County / elevation 7 ft band"]
-zillowHomeValueUsd: 393248
 ---
 
 **Engineering Notice for North Myrtle Beach:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Horry County.
 
 
-Tip: request a written scope before work starts.
+We coordinate North Myrtle Beach, SC roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Our service coordination centers on North Myrtle Beach, SC coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 29582.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 29568/29582/29566 zone).
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29568/29582/29566.
+FAQ: When should permanent remediation start? In North Myrtle Beach, SC, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 29568, 29582, 29566, 29597 (county grid: Horry County).
+Skylight curb flashing in North Myrtle Beach, SC should be sequenced before ridge cap replacement.
+
+roofing service brief: deck sheathing thickness and starter-strip setback were cross-checked for the North Myrtle Beach intake packet.
+
+On-site sector marker: Horry County / coords 33.8200, -78.7100 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Horry County / ZIP 29568 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29582-627e9e77

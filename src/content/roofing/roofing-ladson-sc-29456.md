@@ -11,26 +11,29 @@ lng: -80.1100
 zipSample: ["29456"]
 zipCodes: ["29456"]
 localPaths: ["Berkeley County / coords 33.0100, -80.1100", "Berkeley County / elevation 59 ft band", "Berkeley County / ZIP 29456 sector", "Berkeley County / primary ZIP 29456"]
-zillowHomeValueUsd: 315454
 ---
 
 **Engineering Notice for Ladson:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Berkeley County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Homeowners in Ladson, SC often face sudden roof service problems that require fast action.
+Step: log deck soundings near vents before tear-off is approved.
 
-Local conditions in Ladson, SC can affect timelines and material choices.
+Granule embedment loss on Ladson, SC north slopes can precede mat exposure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Ladson, SC, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 29456 zone).
+Regulatory note: Ladson, SC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 29456 coverage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 29456 (county grid: Berkeley County).
+Field routing: ice-barrier lap sequence paired with soffit intake free area near ZIP 29456.
+
+ZIP-corridor snapshot for Ladson, SC: sampled sectors include 29456; county routing grid remains Berkeley County.
+
+Coordinate-anchored dispatch note: center reference 33.0100, -80.1100 at elevation ~59 ft aligns with Berkeley County intake staging.
 
 Service reference: SC-29456-fdb08fe8

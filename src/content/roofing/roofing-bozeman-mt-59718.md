@@ -11,26 +11,29 @@ lng: -111.0600
 zipSample: ["59719", "59718", "59715"]
 zipCodes: ["59718", "59715", "59719"]
 localPaths: ["Gallatin County / ZIP 59715 sector", "Gallatin County / elevation 4803 ft band", "Gallatin County / ZIP 59719 sector", "Gallatin County / primary ZIP 59718", "Gallatin County / ZIP 59718 sector"]
-zillowHomeValueUsd: 647327
 ---
 
 **Engineering Notice for Bozeman:** Structural loading calculated based on 4803 ft terrain assessment. Regional dispatch grid: Gallatin County.
 
 
-Our service coordination centers on Bozeman, MT coverage windows and verified intake details.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should permanent service start? In Bozeman, MT, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: avoid large upfront payments without milestones.
+In Bozeman, MT, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-A written scope helps prevent rework and mismatched expectations.
+Wind-zone note: Bozeman, MT exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 59718/59715/59719 intake.
+Risk flag: In Bozeman, MT, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 59718/59715/59719.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 59718, 59715, 59719 (county grid: Gallatin County).
+Field routing: skylight curb height paired with chimney cricket slope near ZIP 59718.
+
+On-site sector marker: Gallatin County / elevation 4803 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Gallatin County / ZIP 59719 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59718-551f9a35

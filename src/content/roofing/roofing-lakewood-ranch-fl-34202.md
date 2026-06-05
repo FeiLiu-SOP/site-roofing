@@ -11,27 +11,31 @@ lng: -82.3900
 zipSample: ["34212", "34202", "34240", "34211"]
 zipCodes: ["34211", "34240", "34212", "34202"]
 localPaths: ["Manatee County / coords 27.4200, -82.3900", "Manatee County / primary ZIP 34202", "Manatee County / ZIP 34211 sector", "Manatee County / ZIP 34212 sector", "Manatee County / ZIP 34202 sector"]
-zillowHomeValueUsd: 666442
 ---
 
 **Engineering Notice for Lakewood Ranch:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Manatee County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: compare shingle manufacturer wind-zone ratings for Lakewood Ranch, FL exposure class.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lakewood Ranch, FL, but intake notes help reduce delays.
+Wind-zone note: Lakewood Ranch, FL exposure class can change starter-strip and cap nail schedules.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 34202.
+Low-slope sections in Lakewood Ranch, FL need positive drainage before membrane repairs are scoped.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34202/34212/34211.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 34202.
 
-Field note: Moisture pathway inspection logged near ZIP 34202/34212/34211 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 34202, 34212, 34211, 34240 (county grid: Manatee County).
+Scope trace: attic baffle spacing plus wind uplift clip spacing referenced in Manatee County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 34212/34202/34240.
+
+ZIP-corridor snapshot for Lakewood Ranch, FL: sampled sectors include 34212, 34202, 34211, 34240; county routing grid remains Manatee County.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~43 ft across the Manatee County area. Coordinates: 27.4200, -82.3900. ZIP sample: 34211, 34240, 34202, 34212. Regional routing note: Manatee County traffic flow is balanced around ZIP 34202 service demand.
 
 Service reference: FL-34202-6eb1543c

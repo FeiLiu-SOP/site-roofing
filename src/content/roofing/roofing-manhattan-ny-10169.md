@@ -11,28 +11,31 @@ lng: -73.9700
 zipSample: ["10126", "10037", "10033", "10038", "10213"]
 zipCodes: ["10110", "10177", "10002", "10286", "10039", "10075", "10017", "10033", "10249", "10106", "10242", "10279"]
 localPaths: ["New York County / ZIP 10213 sector", "New York County / ZIP 10037 sector", "New York County / ZIP 10126 sector", "New York County / ZIP 10038 sector", "New York County / ZIP 10033 sector"]
-zillowHomeValueUsd: 471483
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Manhattan:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: New York County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Manhattan, NY exposure class can change starter-strip and cap nail schedules.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Manhattan, NY can fail independently of visible tile cracks.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 10169.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Moisture pathway inspection logged near ZIP 10116/10279/10065 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 10116/10279/10065.
+Skylight curb flashing in Manhattan, NY should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 10116, 10279, 10065, 10256, 10126 (county grid: New York County).
+roof work brief: attic baffle spacing and chimney cricket slope were cross-checked for the Manhattan intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 10160/10159/10249.
+
+Primary postal anchor 10169 with multi-ZIP overlap in Manhattan; field packets tag New York County for county-grid reconciliation.
+
+Regional mesh label New York County: moisture and logistics baselines are keyed to Manhattan, NY before niche-specific work begins.
 
 Service reference: NY-10169-3cd4d710

@@ -11,26 +11,31 @@ lng: -82.9300
 zipSample: ["31040", "31021"]
 zipCodes: ["31040", "31021"]
 localPaths: ["Laurens County / coords 32.5400, -82.9300", "Laurens County / ZIP 31021 sector", "Laurens County / ZIP 31040 sector", "Laurens County / elevation 279 ft band", "Laurens County / primary ZIP 31021"]
-zillowHomeValueUsd: 191952
 ---
 
 **Engineering Notice for Dublin:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Laurens County.
 
 
-Tip: request a written scope before work starts.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Transparent pricing helps you compare like-for-like scope items.
+Granule embedment loss on Dublin, GA north slopes can precede mat exposure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Dublin, GA, but intake notes help reduce delays.
+Step: separate emergency tarp scope from permanent service line items.
 
-We coordinate local dispatch coverage around Dublin, GA and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 31021/31040 coverage.
+Wind-zone note: Dublin, GA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 31021/31040.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 31021, 31040 (county grid: Laurens County).
+roof service brief: shingle exposure calibration and skylight curb height were cross-checked for the Dublin intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 31021/31040.
+
+Regional mesh label Laurens County: moisture and logistics baselines are keyed to Dublin, GA before niche-specific work begins.
+
+On-site sector marker: Laurens County / ZIP 31021 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31021-2af27421

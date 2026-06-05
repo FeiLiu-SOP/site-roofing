@@ -11,24 +11,31 @@ lng: -84.4900
 zipSample: ["30115", "30114"]
 zipCodes: ["30115", "30114"]
 localPaths: ["Cherokee County / coords 34.2500, -84.4900", "Cherokee County / primary ZIP 30114", "Cherokee County / elevation 958 ft band", "Cherokee County / ZIP 30114 sector", "Cherokee County / ZIP 30115 sector"]
-zillowHomeValueUsd: 470365
 ---
 
 **Engineering Notice for Canton:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Cherokee County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Canton, GA, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-We coordinate local dispatch coverage around Canton, GA and nearby ZIP sectors.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 30114.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Clear documentation helps align materials, labor, and timeline.
+Regulatory note: Canton, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30115/30114.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 30115, 30114 (county grid: Cherokee County).
+Freeze-thaw cycles around Canton, GA stress nail pops along eaves and rake edges.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: ridge cap nail schedule plus counter-flashing reglet depth referenced in Cherokee County county grid review.
+
+Primary postal anchor 30114 with multi-ZIP overlap in Canton; field packets tag Cherokee County for county-grid reconciliation.
+
+On-site sector marker: Cherokee County / coords 34.2500, -84.4900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30114-b50ef459

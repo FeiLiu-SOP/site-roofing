@@ -11,26 +11,31 @@ lng: -117.9500
 zipSample: ["92708", "92728"]
 zipCodes: ["92708", "92728"]
 localPaths: ["Orange County / elevation 52 ft band", "Orange County / ZIP 92728 sector", "Orange County / primary ZIP 92708", "Orange County / ZIP 92708 sector", "Orange County / coords 33.7100, -117.9500"]
-zillowHomeValueUsd: 1395097
 ---
 
 **Engineering Notice for Fountain Valley:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Local conditions in Fountain Valley, CA can affect timelines and material choices.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Fountain Valley, CA can fail independently of visible tile cracks.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Regulatory note: Fountain Valley, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 92708/92728 intake.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92708/92728.
+Attic ventilation deficits in Fountain Valley, CA can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 92708, 92728 (county grid: Orange County).
+roofing service brief: attic baffle spacing and shingle exposure calibration were cross-checked for the Fountain Valley intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 92728/92708.
+
+On-site sector marker: Orange County / ZIP 92708 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Orange County / primary ZIP 92708 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92708-7217d0ab

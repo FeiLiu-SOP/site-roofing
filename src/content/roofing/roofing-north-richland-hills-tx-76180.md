@@ -11,24 +11,29 @@ lng: -97.2200
 zipSample: ["76180", "76185", "76182"]
 zipCodes: ["76182", "76180", "76185"]
 localPaths: ["Tarrant County / ZIP 76180 sector", "Tarrant County / ZIP 76185 sector", "Tarrant County / ZIP 76182 sector", "Tarrant County / elevation 636 ft band", "Tarrant County / primary ZIP 76180"]
-zillowHomeValueUsd: 336920
 ---
 
 **Engineering Notice for North Richland Hills:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Tarrant County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around North Richland Hills, TX and nearby ZIP sectors.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: request a written scope before work starts.
+We coordinate North Richland Hills, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: address recurring issues early to prevent bigger damage.
+Regulatory note: North Richland Hills, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 76180/76185/76182 zone).
+Risk flag: In North Richland Hills, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 76180, 76185, 76182 (county grid: Tarrant County).
+TPO seam welds in North Richland Hills, TX commercial sections need probe tests after freeze events.
+
+Scope trace: chimney cricket slope plus ice-barrier lap sequence referenced in Tarrant County county grid review.
+
+Primary postal anchor 76180 with multi-ZIP overlap in North Richland Hills; field packets tag Tarrant County for county-grid reconciliation.
+
+On-site sector marker: Tarrant County / coords 32.8600, -97.2200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76180-3334f5bf

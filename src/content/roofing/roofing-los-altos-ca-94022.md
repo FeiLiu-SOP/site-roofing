@@ -11,27 +11,31 @@ lng: -122.1000
 zipSample: ["94024", "94022", "94023"]
 zipCodes: ["94023", "94022", "94024"]
 localPaths: ["Santa Clara County / ZIP 94024 sector", "Santa Clara County / coords 37.3700, -122.1000", "Santa Clara County / ZIP 94022 sector", "Santa Clara County / ZIP 94023 sector", "Santa Clara County / primary ZIP 94022"]
-zillowHomeValueUsd: 5191300
 ---
 
 **Engineering Notice for Los Altos:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Santa Clara County.
 
 
-Local conditions in Los Altos, CA can affect timelines and material choices.
+Parapet coping movement in Los Altos, CA can channel water behind wall cladding.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Los Altos, CA attics should be checked against current mechanical exhaust additions.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Los Altos, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 94022.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 94022/94023/94024 coverage.
+Tip: Note recent wind events when filing insurance photos for Los Altos, CA.
 
-Field note: Wind exposure category reviewed for ZIP sector 94022/94023/94024.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 94022, 94023, 94024 (county grid: Santa Clara County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: ice-barrier lap sequence paired with attic baffle spacing near ZIP 94022.
+
+On-site sector marker: Santa Clara County / ZIP 94022 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Santa Clara County / ZIP 94023 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94022-231f57bc

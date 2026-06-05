@@ -11,26 +11,29 @@ lng: -81.7600
 zipSample: ["44130"]
 zipCodes: ["44130"]
 localPaths: ["Cuyahoga County / elevation 853 ft band", "Cuyahoga County / coords 41.3900, -81.7600", "Cuyahoga County / primary ZIP 44130", "Cuyahoga County / ZIP 44130 sector"]
-zillowHomeValueUsd: 232771
 ---
 
 **Engineering Notice for Parma Heights:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Wood shake courses in Parma Heights, OH require skip-spacing rules at valleys.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: avoid large upfront payments without milestones.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Local conditions in Parma Heights, OH can affect timelines and material choices.
+Regulatory note: Parma Heights, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 44130 coverage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44130.
+Risk flag: In Parma Heights, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 44130 (county grid: Cuyahoga County).
+Field routing: soffit intake free area paired with deck sheathing thickness near ZIP 44130.
+
+ZIP-corridor snapshot for Parma Heights, OH: sampled sectors include 44130; county routing grid remains Cuyahoga County.
+
+On-site sector marker: Cuyahoga County / elevation 853 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44130-b0ef22e4

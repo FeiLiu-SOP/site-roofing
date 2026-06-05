@@ -11,24 +11,33 @@ lng: -122.6300
 zipSample: ["98277"]
 zipCodes: ["98277"]
 localPaths: ["Island County / elevation 164 ft band", "Island County / coords 48.3000, -122.6300", "Island County / primary ZIP 98277", "Island County / ZIP 98277 sector"]
-zillowHomeValueUsd: 528453
 ---
 
 **Engineering Notice for Oak Harbor:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Island County.
 
 
-Our service coordination centers on Oak Harbor, WA coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Structured milestones protect both sides when scheduling work.
+Wood shake courses in Oak Harbor, WA require skip-spacing rules at valleys.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Oak Harbor, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 98277.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Connection points spot-checked where accessible (ZIP 98277 zone).
+FAQ: Is partial dry-in possible? In Oak Harbor, WA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 98277 (county grid: Island County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Code context: Ventilation ratios for Oak Harbor, WA attics should be checked against current mechanical exhaust additions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: chimney cricket slope plus starter-strip setback referenced in Island County county grid review.
+
+Primary postal anchor 98277 with multi-ZIP overlap in Oak Harbor; field packets tag Island County for county-grid reconciliation.
+
+On-site sector marker: Island County / coords 48.3000, -122.6300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98277-01431fc5

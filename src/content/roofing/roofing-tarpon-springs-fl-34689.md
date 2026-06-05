@@ -11,26 +11,33 @@ lng: -82.7600
 zipSample: ["34689"]
 zipCodes: ["34689"]
 localPaths: ["Pinellas County / primary ZIP 34689", "Pinellas County / elevation 23 ft band", "Pinellas County / ZIP 34689 sector", "Pinellas County / coords 28.1500, -82.7600"]
-zillowHomeValueUsd: 365434
 ---
 
 **Engineering Notice for Tarpon Springs:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Pinellas County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Tile underlayment age in Tarpon Springs, FL can fail independently of visible tile cracks.
 
-Our service coordination centers on Tarpon Springs, FL coverage windows and verified intake details.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 34689 intake.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Connection points spot-checked where accessible (ZIP 34689 zone).
+Wind-zone note: Tarpon Springs, FL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 34689 (county grid: Pinellas County).
+Hail bruising on Tarpon Springs, FL ridges may not breach felt until the next wind event.
+
+Field routing: attic baffle spacing paired with synthetic underlayment slip near ZIP 34689.
+
+Field note: Attic moisture pathway scan referenced ZIP 34689.
+
+On-site sector marker: Pinellas County / elevation 23 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Tarpon Springs, FL: sampled sectors include 34689; county routing grid remains Pinellas County.
 
 Service reference: FL-34689-7b1fb0db

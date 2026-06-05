@@ -11,24 +11,31 @@ lng: -74.5000
 zipSample: ["08846"]
 zipCodes: ["08846"]
 localPaths: ["Middlesex County / coords 40.5700, -74.5000", "Middlesex County / primary ZIP 08846", "Middlesex County / ZIP 08846 sector", "Middlesex County / elevation 52 ft band"]
-zillowHomeValueUsd: 537802
 ---
 
 **Engineering Notice for Middlesex:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Metal panel oil-canning in Middlesex, NJ may signal clip spacing issues, not wind damage alone.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wind-zone note: Middlesex, NJ exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: How long can shingles wait after storm damage? In Middlesex, NJ, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: request a written scope before work starts.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Moisture pathway inspection logged near ZIP 08846 intake.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 08846 (county grid: Middlesex County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roofing service brief: ridge cap nail schedule and synthetic underlayment slip were cross-checked for the Middlesex intake packet.
+
+On-site sector marker: Middlesex County / elevation 52 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Middlesex, NJ: sampled sectors include 08846; county routing grid remains Middlesex County.
 
 Service reference: NJ-08846-94288d78

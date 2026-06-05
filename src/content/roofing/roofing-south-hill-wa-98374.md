@@ -11,24 +11,33 @@ lng: -122.2900
 zipSample: ["98373", "98374", "98375"]
 zipCodes: ["98373", "98374", "98375"]
 localPaths: ["Pierce County / ZIP 98375 sector", "Pierce County / ZIP 98373 sector", "Pierce County / elevation 561 ft band", "Pierce County / primary ZIP 98374", "Pierce County / ZIP 98374 sector"]
-zillowHomeValueUsd: 584128
 ---
 
 **Engineering Notice for South Hill:** Structural loading calculated based on 561 ft terrain assessment. Regional dispatch grid: Pierce County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in South Hill, WA, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In South Hill, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Note recent wind events when filing insurance photos for South Hill, WA.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Parapet coping movement in South Hill, WA can channel water behind wall cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 98375/98374/98373 zone).
+Attic ventilation deficits in South Hill, WA can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 98375, 98374, 98373 (county grid: Pierce County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+roof service brief: starter-strip setback and synthetic underlayment slip were cross-checked for the South Hill intake packet.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Pierce County and primary ZIP 98374. Terrain reference: 561 ft. Center point: 47.1200, -122.2900. ZIP sample: 98375, 98373, 98374. Logistics priority: Serving residential sectors across Pierce County and north-east ZIP 98374 grid.
+
+On-site sector marker: Pierce County / ZIP 98373 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98374-56146462

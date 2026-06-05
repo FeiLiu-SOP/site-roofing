@@ -11,26 +11,33 @@ lng: -81.8300
 zipSample: ["33905", "33916", "33902", "33907", "33994"]
 zipCodes: ["33916", "33902", "33994", "33901", "33907", "33913", "33966", "33905"]
 localPaths: ["Lee County / ZIP 33994 sector", "Lee County / ZIP 33907 sector", "Lee County / ZIP 33916 sector", "Lee County / elevation 39 ft band", "Lee County / primary ZIP 33913"]
-zillowHomeValueUsd: 444967
 ---
 
 **Engineering Notice for Fort Myers:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Lee County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Fort Myers, FL exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hail bruising on Fort Myers, FL ridges may not breach felt until the next wind event.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 33901/33902/33994 intake.
+Regulatory note: Fort Myers, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 33901/33902/33994 zone).
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 33901, 33902, 33994, 33916, 33905 (county grid: Lee County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Scope trace: drip-edge metal profile plus skylight curb height referenced in Lee County county grid review.
+
+On-site sector marker: Lee County / ZIP 33994 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lee County / ZIP 33905 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33913-62b1ce00

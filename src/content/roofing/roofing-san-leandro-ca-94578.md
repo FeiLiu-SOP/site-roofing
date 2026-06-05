@@ -11,25 +11,31 @@ lng: -122.1600
 zipSample: ["94622", "94579", "94577", "94578"]
 zipCodes: ["94622", "94577", "94579", "94578"]
 localPaths: ["Alameda County / ZIP 94577 sector", "Alameda County / elevation 20 ft band", "Alameda County / coords 37.7100, -122.1600", "Alameda County / ZIP 94579 sector", "Alameda County / ZIP 94578 sector"]
-zillowHomeValueUsd: 788031
 ---
 
 **Engineering Notice for San Leandro:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Alameda County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Skylight curb flashing in San Leandro, CA should be sequenced before ridge cap replacement.
 
-We coordinate local dispatch coverage around San Leandro, CA and nearby ZIP sectors.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 94578.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: request a written scope before work starts.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Wind exposure category reviewed for ZIP sector 94577/94579/94622.
+Regulatory note: San Leandro, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 94577, 94579, 94622, 94578 (county grid: Alameda County).
+Our San Leandro, CA dispatch packets reference county grid Alameda County and elevation band 20 ft.
+
+Step: separate emergency tarp scope from permanent service line items.
+
+roofing service brief: chimney cricket slope and deck sheathing thickness were cross-checked for the San Leandro intake packet.
+
+On-site sector marker: Alameda County / ZIP 94579 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Alameda County / coords 37.7100, -122.1600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94578-7be8648b

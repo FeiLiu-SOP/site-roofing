@@ -11,25 +11,33 @@ lng: -96.6000
 zipSample: ["66502", "66506", "66505", "66503"]
 zipCodes: ["66502", "66505", "66506", "66503"]
 localPaths: ["Riley County / primary ZIP 66506", "Riley County / ZIP 66505 sector", "Riley County / ZIP 66506 sector", "Riley County / ZIP 66502 sector", "Riley County / coords 39.1900, -96.6000"]
-zillowHomeValueUsd: 258255
 ---
 
 **Engineering Notice for Manhattan:** Structural loading calculated based on 1066 ft terrain assessment. Regional dispatch grid: Riley County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 66506.
+Freeze-thaw cycles around Manhattan, KS stress nail pops along eaves and rake edges.
 
-Our service coordination centers on Manhattan, KS coverage windows and verified intake details.
+We coordinate Manhattan, KS roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent service line items.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Manhattan, KS, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 66502/66505/66506.
+Wind-zone note: Manhattan, KS exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 66502, 66505, 66506, 66503 (county grid: Riley County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: pipe boot manufacturer match plus attic baffle spacing referenced in Riley County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 66503/66506/66505.
+
+On-site sector marker: Riley County / elevation 1066 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Manhattan, KS: sampled sectors include 66506, 66502, 66505, 66503; county routing grid remains Riley County.
 
 Service reference: KS-66506-030d46d3

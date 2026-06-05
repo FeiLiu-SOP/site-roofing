@@ -11,26 +11,33 @@ lng: -80.8700
 zipSample: ["28677", "28687", "28625"]
 zipCodes: ["28687", "28625", "28677"]
 localPaths: ["Iredell County / coords 35.7800, -80.8700", "Iredell County / ZIP 28687 sector", "Iredell County / ZIP 28677 sector", "Iredell County / elevation 879 ft band", "Iredell County / ZIP 28625 sector"]
-zillowHomeValueUsd: 307529
 ---
 
 **Engineering Notice for Statesville:** Structural loading calculated based on 879 ft terrain assessment. Regional dispatch grid: Iredell County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Statesville, NC, but intake notes help reduce delays.
+Regulatory note: Statesville, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: In Statesville, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Note recent wind events when filing insurance photos for Statesville, NC.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When should permanent service start? In Statesville, NC, delayed dry-in can expand insulation and ceiling repairs.
 
-We coordinate local dispatch coverage around Statesville, NC and nearby ZIP sectors.
+We coordinate Statesville, NC roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28677/28625/28687.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Access points and staging constraints recorded for ZIP 28677/28625/28687 coverage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 28677, 28625, 28687 (county grid: Iredell County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Hail bruising on Statesville, NC ridges may not breach felt until the next wind event.
+
+Field routing: chimney cricket slope paired with starter-strip setback near ZIP 28625.
+
+Primary postal anchor 28625 with multi-ZIP overlap in Statesville; field packets tag Iredell County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Iredell County. Reference elevation: 879 ft. Primary coordinates: 35.7800, -80.8700. ZIP sample: 28687, 28625, 28677. Service perimeter note: Coverage extends through Iredell County with dispatch centered near ZIP 28625.
 
 Service reference: NC-28625-acbd74b7

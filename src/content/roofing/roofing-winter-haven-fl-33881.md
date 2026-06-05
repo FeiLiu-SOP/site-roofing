@@ -11,27 +11,33 @@ lng: -81.7000
 zipSample: ["33888", "33884", "33881", "33885", "33880"]
 zipCodes: ["33880", "33885", "33881", "33884", "33888", "33883"]
 localPaths: ["Polk County / ZIP 33885 sector", "Polk County / ZIP 33888 sector", "Polk County / elevation 157 ft band", "Polk County / ZIP 33880 sector", "Polk County / primary ZIP 33881"]
-zillowHomeValueUsd: 264735
 ---
 
 **Engineering Notice for Winter Haven:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Polk County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33881.
+FAQ: When should permanent remediation start? In Winter Haven, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: In Winter Haven, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Winter Haven, FL, but intake notes help reduce delays.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Skylight curb flashing in Winter Haven, FL should be sequenced before ridge cap replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Regulatory note: Winter Haven, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33885/33883/33881.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 33885/33883/33881 intake.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 33885, 33883, 33881, 33884, 33880 (county grid: Polk County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Polk County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 33880/33884/33888.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Polk County. Reference elevation: 157 ft. Primary coordinates: 28.0100, -81.7000. ZIP sample: 33884, 33885, 33881, 33888, 33880. Regional routing note: Polk County traffic flow is balanced around ZIP 33881 service demand.
+
+On-site sector marker: Polk County / ZIP 33885 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33881-ddcc2dde

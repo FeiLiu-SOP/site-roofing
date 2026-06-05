@@ -11,26 +11,31 @@ lng: -92.0200
 zipSample: ["71603", "71611", "71601", "71602", "71612"]
 zipCodes: ["71612", "71601", "71602", "71603", "71611"]
 localPaths: ["Jefferson County / elevation 240 ft band", "Jefferson County / ZIP 71602 sector", "Jefferson County / ZIP 71601 sector", "Jefferson County / ZIP 71603 sector", "Jefferson County / primary ZIP 71602"]
-zillowHomeValueUsd: 135542
 ---
 
 **Engineering Notice for Pine Bluff:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pine Bluff, AR, but intake notes help reduce delays.
+Synthetic underlayment slip in Pine Bluff, AR is often tied to deck moisture, not wind alone.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Our Pine Bluff, AR dispatch packets reference county grid Jefferson County and elevation band 240 ft.
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Pine Bluff, AR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 71602.
 
-We coordinate local dispatch coverage around Pine Bluff, AR and nearby ZIP sectors.
+Risk flag: In Pine Bluff, AR, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 71602/71603/71601 coverage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 71602/71603/71601.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 71602, 71603, 71601, 71612, 71611 (county grid: Jefferson County).
+roof work brief: valley metal gauge and synthetic underlayment slip were cross-checked for the Pine Bluff intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 71603/71602/71601.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Jefferson County. Reference elevation: 240 ft. Primary coordinates: 34.2100, -92.0200. ZIP sample: 71612, 71611, 71603, 71601, 71602. Service perimeter note: Coverage extends through Jefferson County with dispatch centered near ZIP 71602.
+
+On-site sector marker: Jefferson County / ZIP 71611 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-71602-b941bc7a

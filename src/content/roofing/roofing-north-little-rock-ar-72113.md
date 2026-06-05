@@ -11,26 +11,33 @@ lng: -92.2400
 zipSample: ["72118", "72124", "72214", "72116", "72115"]
 zipCodes: ["72214", "72116", "72113", "72124", "72117", "72115", "72118", "72190", "72114"]
 localPaths: ["Pulaski County / ZIP 72214 sector", "Pulaski County / ZIP 72116 sector", "Pulaski County / ZIP 72115 sector", "Pulaski County / coords 34.7800, -92.2400", "Pulaski County / ZIP 72118 sector"]
-zillowHomeValueUsd: 303745
 ---
 
 **Engineering Notice for North Little Rock:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: Pulaski County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Little Rock, AR, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for North Little Rock, AR exposure class.
 
-In North Little Rock, AR, seasonal demand can change scheduling windows.
+Wind-zone note: North Little Rock, AR exposure class can change starter-strip and cap nail schedules.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Note recent wind events when filing insurance photos for North Little Rock, AR.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Freeze-thaw cycles around North Little Rock, AR stress nail pops along eaves and rake edges.
 
-Field note: Moisture pathway inspection logged near ZIP 72118/72214/72117 intake.
+FAQ: How long can shingles wait after storm damage? In North Little Rock, AR, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 72118/72214/72117 coverage.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 72118, 72214, 72117, 72190, 72115 (county grid: Pulaski County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Scope trace: attic baffle spacing plus synthetic underlayment slip referenced in Pulaski County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 72117/72124/72115.
+
+On-site sector marker: Pulaski County / ZIP 72118 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Pulaski County / ZIP 72117 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72113-27f432d8

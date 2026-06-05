@@ -11,24 +11,35 @@ lng: -77.5700
 zipSample: ["23235"]
 zipCodes: ["23235"]
 localPaths: ["Chesterfield County / ZIP 23235 sector", "Chesterfield County / coords 37.5200, -77.5700", "Chesterfield County / primary ZIP 23235", "Chesterfield County / elevation 322 ft band"]
-zillowHomeValueUsd: 412265
 ---
 
 **Engineering Notice for Bon Air:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Chesterfield County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-A written scope helps prevent rework and mismatched expectations.
+Code context: Ventilation ratios for Bon Air, VA attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bon Air, VA, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-In Bon Air, VA, seasonal demand can change scheduling windows.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 23235 coverage.
+FAQ: How long can shingles wait after storm damage? In Bon Air, VA, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 23235 (county grid: Chesterfield County).
+Hail bruising on Bon Air, VA ridges may not breach felt until the next wind event.
+
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 23235.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Field routing: wind uplift clip spacing paired with synthetic underlayment slip near ZIP 23235.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 23235.
+
+Coordinate-anchored dispatch note: center reference 37.5200, -77.5700 at elevation ~322 ft aligns with Chesterfield County intake staging.
+
+On-site sector marker: Chesterfield County / elevation 322 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23235-3ff3f8e0

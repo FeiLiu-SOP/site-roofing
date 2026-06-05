@@ -11,27 +11,33 @@ lng: -81.4400
 zipSample: ["44663"]
 zipCodes: ["44663"]
 localPaths: ["Tuscarawas County / primary ZIP 44663", "Tuscarawas County / elevation 889 ft band", "Tuscarawas County / ZIP 44663 sector", "Tuscarawas County / coords 40.4900, -81.4400"]
-zillowHomeValueUsd: 201199
 ---
 
 **Engineering Notice for New Philadelphia:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: Tuscarawas County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Philadelphia, OH, but intake notes help reduce delays.
+Wind-zone note: New Philadelphia, OH exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Our service coordination centers on New Philadelphia, OH coverage windows and verified intake details.
+Parapet coping movement in New Philadelphia, OH can channel water behind wall cladding.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 44663.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 44663 zone).
+Risk flag: Tile underlayment age in New Philadelphia, OH can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 44663.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 44663 (county grid: Tuscarawas County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+roof work brief: attic baffle spacing and ridge cap nail schedule were cross-checked for the New Philadelphia intake packet.
+
+Regional mesh label Tuscarawas County: moisture and logistics baselines are keyed to New Philadelphia, OH before niche-specific work begins.
+
+On-site sector marker: Tuscarawas County / coords 40.4900, -81.4400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44663-64c43c09

@@ -11,27 +11,29 @@ lng: -84.5700
 zipSample: ["30269", "31169"]
 zipCodes: ["31169", "30269"]
 localPaths: ["Fayette County / primary ZIP 30269", "Fayette County / ZIP 31169 sector", "Fayette County / elevation 817 ft band", "Fayette County / coords 33.3900, -84.5700", "Fayette County / ZIP 30269 sector"]
-zillowHomeValueUsd: 577644
 ---
 
 **Engineering Notice for Peachtree City:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Fayette County.
 
 
-Structured milestones protect both sides when scheduling work.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30269.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Peachtree City, GA, but intake notes help reduce delays.
+Wind-zone note: Peachtree City, GA exposure class can change starter-strip and cap nail schedules.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-We coordinate local dispatch coverage around Peachtree City, GA and nearby ZIP sectors.
+Risk flag: In Peachtree City, GA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 31169/30269 intake.
+TPO seam welds in Peachtree City, GA commercial sections need probe tests after freeze events.
 
-Field note: Connection points spot-checked where accessible (ZIP 31169/30269 zone).
+FAQ: Is partial dry-in possible? In Peachtree City, GA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 31169, 30269 (county grid: Fayette County).
+Field routing: shingle exposure calibration paired with attic baffle spacing near ZIP 30269.
+
+Regional mesh label Fayette County: moisture and logistics baselines are keyed to Peachtree City, GA before niche-specific work begins.
+
+On-site sector marker: Fayette County / ZIP 31169 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30269-bf420567

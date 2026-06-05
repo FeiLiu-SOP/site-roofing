@@ -11,27 +11,35 @@ lng: -122.7000
 zipSample: ["97035", "97036", "97034"]
 zipCodes: ["97036", "97035", "97034"]
 localPaths: ["Clackamas County / coords 45.4100, -122.7000", "Clackamas County / ZIP 97036 sector", "Clackamas County / ZIP 97035 sector", "Clackamas County / ZIP 97034 sector", "Clackamas County / elevation 272 ft band"]
-zillowHomeValueUsd: 1121968
 ---
 
 **Engineering Notice for Lake Oswego:** Structural loading calculated based on 272 ft terrain assessment. Regional dispatch grid: Clackamas County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 97034.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Skylight curb flashing in Lake Oswego, OR should be sequenced before ridge cap replacement.
 
-Local conditions in Lake Oswego, OR can affect timelines and material choices.
+Coastal humidity in Lake Oswego, OR can slow shingle seal-down after shoulder-season storms.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Lake Oswego, OR, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 97035/97036/97034 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 97035/97036/97034 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 97035, 97036, 97034 (county grid: Clackamas County).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roofing service brief: valley metal gauge and drip-edge metal profile were cross-checked for the Lake Oswego intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 97035/97034/97036.
+
+On-site sector marker: Clackamas County / primary ZIP 97034 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~272 ft across the Clackamas County area. Coordinates: 45.4100, -122.7000. ZIP sample: 97035, 97036, 97034. Logistics priority: Serving residential sectors across Clackamas County and north-east ZIP 97034 grid.
 
 Service reference: OR-97034-f9737b07

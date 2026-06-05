@@ -11,25 +11,33 @@ lng: -116.9900
 zipSample: ["92071", "92040"]
 zipCodes: ["92071", "92040"]
 localPaths: ["San Diego County / ZIP 92071 sector", "San Diego County / ZIP 92040 sector", "San Diego County / primary ZIP 92071", "San Diego County / elevation 472 ft band", "San Diego County / coords 32.8600, -116.9900"]
-zillowHomeValueUsd: 808583
 ---
 
 **Engineering Notice for Santee:** Structural loading calculated based on 472 ft terrain assessment. Regional dispatch grid: San Diego County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can you tarp only part of the roof? In Santee, CA, yes—if slope and anchor points support safe tie-offs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 92071.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Our service coordination centers on Santee, CA coverage windows and verified intake details.
+In Santee, CA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Santee, CA, but intake notes help reduce delays.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: In Santee, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Moisture pathway inspection logged near ZIP 92040/92071 intake.
+Our Santee, CA dispatch packets reference county grid San Diego County and elevation band 472 ft.
 
-Dispatch sectors sampled: ZIP 92040, 92071 (county grid: San Diego County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Code context: Ventilation ratios for Santee, CA attics should be checked against current mechanical exhaust additions.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: synthetic underlayment slip paired with skylight curb height near ZIP 92071.
+
+Primary postal anchor 92071 with multi-ZIP overlap in Santee; field packets tag San Diego County for county-grid reconciliation.
+
+On-site sector marker: San Diego County / primary ZIP 92071 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92071-48e50168

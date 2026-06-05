@@ -11,24 +11,35 @@ lng: -83.6000
 zipSample: ["30549"]
 zipCodes: ["30549"]
 localPaths: ["Jackson County / primary ZIP 30549", "Jackson County / elevation 866 ft band", "Jackson County / ZIP 30549 sector", "Jackson County / coords 34.1400, -83.6000"]
-zillowHomeValueUsd: 413732
 ---
 
 **Engineering Notice for Jefferson:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Jackson County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How long can shingles wait after storm damage? In Jefferson, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Jefferson, GA coverage windows and verified intake details.
+Across Jefferson, GA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Jefferson, GA, but intake notes help reduce delays.
+Code context: Ventilation ratios for Jefferson, GA attics should be checked against current mechanical exhaust additions.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 30549.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Dispatch sectors sampled: ZIP 30549 (county grid: Jackson County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Coastal humidity in Jefferson, GA can slow shingle seal-down after shoulder-season storms.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Field routing: starter-strip setback paired with skylight curb height near ZIP 30549.
+
+Field note: Shingle seal-down timing logged near ZIP 30549.
+
+ZIP-corridor snapshot for Jefferson, GA: sampled sectors include 30549; county routing grid remains Jackson County.
+
+On-site sector marker: Jackson County / primary ZIP 30549 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30549-a638e393

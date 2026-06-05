@@ -11,25 +11,31 @@ lng: -89.9700
 zipSample: ["38101", "38112", "38148", "38159", "38188"]
 zipCodes: ["38108", "38132", "38187", "38104", "38109", "38117", "38119", "38124", "38174", "38194", "38163", "38103"]
 localPaths: ["Shelby County / ZIP 38112 sector", "Shelby County / elevation 315 ft band", "Shelby County / ZIP 38101 sector", "Shelby County / ZIP 38159 sector", "Shelby County / ZIP 38148 sector"]
-zillowHomeValueUsd: 423517
 ---
 
 **Engineering Notice for Memphis:** Structural loading calculated based on 315 ft terrain assessment. Regional dispatch grid: Shelby County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Wind-zone note: Memphis, TN exposure class can change starter-strip and cap nail schedules.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 38120.
+FAQ: Can you tarp only part of the roof? In Memphis, TN, yes—if slope and anchor points support safe tie-offs.
 
-Tip: request a written scope before work starts.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Memphis, TN.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+In Memphis, TN, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Wind exposure category reviewed for ZIP sector 38182/38148/38016.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 38182, 38148, 38016, 38116, 38152 (county grid: Shelby County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: shingle exposure calibration plus attic baffle spacing referenced in Shelby County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 38141/38127/38118.
+
+Coordinate-anchored dispatch note: center reference 35.1100, -89.9700 at elevation ~315 ft aligns with Shelby County intake staging.
+
+On-site sector marker: Shelby County / elevation 315 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-38120-6aab51e5

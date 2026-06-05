@@ -11,26 +11,31 @@ lng: -80.2100
 zipSample: ["33128", "33126", "33136", "33231", "33233"]
 zipCodes: ["33255", "33132", "33138", "33133", "33150", "33125", "33135", "33195", "33128", "33142", "33145", "33101"]
 localPaths: ["Miami-Dade County / ZIP 33233 sector", "Miami-Dade County / primary ZIP 33128", "Miami-Dade County / ZIP 33126 sector", "Miami-Dade County / ZIP 33136 sector", "Miami-Dade County / ZIP 33231 sector"]
-zillowHomeValueUsd: 430575
 ---
 
 **Engineering Notice for Miami:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Miami, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Miami, FL coverage windows and verified intake details.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: confirm licensing and insurance before approving work.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Wind exposure category reviewed for ZIP sector 33222/33145/33135.
+Wood shake courses in Miami, FL require skip-spacing rules at valleys.
 
-Field note: Connection points spot-checked where accessible (ZIP 33222/33145/33135 zone).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 33222, 33145, 33135, 33137, 33195 (county grid: Miami-Dade County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: valley metal gauge plus synthetic underlayment slip referenced in Miami-Dade County county grid review.
+
+On-site sector marker: Miami-Dade County / ZIP 33233 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Miami-Dade County: moisture and logistics baselines are keyed to Miami, FL before niche-specific work begins.
 
 Service reference: FL-33128-63e63d00

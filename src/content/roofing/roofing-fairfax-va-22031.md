@@ -11,26 +11,33 @@ lng: -77.3000
 zipSample: ["22037", "22030", "22031"]
 zipCodes: ["22031", "22037", "22030"]
 localPaths: ["Fairfax County / coords 38.8500, -77.3000", "Fairfax County / elevation 387 ft band", "Fairfax County / ZIP 22037 sector", "Fairfax County / ZIP 22031 sector", "Fairfax County / primary ZIP 22031"]
-zillowHomeValueUsd: 774734
 ---
 
 **Engineering Notice for Fairfax:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Coastal humidity in Fairfax, VA can slow shingle seal-down after shoulder-season storms.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fairfax, VA, but intake notes help reduce delays.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Fairfax, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22030/22031/22037.
+Material note: In Fairfax, VA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Wind exposure category reviewed for ZIP sector 22030/22031/22037.
+We coordinate Fairfax, VA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 22030, 22031, 22037 (county grid: Fairfax County).
+Risk flag: In Fairfax, VA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: ice-barrier lap sequence paired with pipe boot manufacturer match near ZIP 22031.
+
+Field note: Shingle seal-down timing logged near ZIP 22037/22031/22030.
+
+ZIP-corridor snapshot for Fairfax, VA: sampled sectors include 22031, 22030, 22037; county routing grid remains Fairfax County.
+
+On-site sector marker: Fairfax County / ZIP 22031 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22031-9bcda28b

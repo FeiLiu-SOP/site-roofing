@@ -11,27 +11,35 @@ lng: -117.0200
 zipSample: ["92074", "92064"]
 zipCodes: ["92064", "92074"]
 localPaths: ["San Diego County / ZIP 92064 sector", "San Diego County / ZIP 92074 sector", "San Diego County / primary ZIP 92064", "San Diego County / coords 32.9900, -117.0200", "San Diego County / elevation 705 ft band"]
-zillowHomeValueUsd: 1234993
 ---
 
 **Engineering Notice for Poway:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: San Diego County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 92064.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Our Poway, CA dispatch packets reference county grid San Diego County and elevation band 705 ft.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Granule embedment loss on Poway, CA north slopes can precede mat exposure.
 
-Homeowners in Poway, CA often face sudden roof service problems that require fast action.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When should permanent restoration start? In Poway, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 92064/92074 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 92064/92074.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 92064.
 
-Dispatch sectors sampled: ZIP 92064, 92074 (county grid: San Diego County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Code context: Ventilation ratios for Poway, CA attics should be checked against current mechanical exhaust additions.
+
+Field routing: valley metal gauge paired with soffit intake free area near ZIP 92064.
+
+Field note: Shingle seal-down timing logged near ZIP 92064/92074.
+
+ZIP-corridor snapshot for Poway, CA: sampled sectors include 92074, 92064; county routing grid remains San Diego County.
+
+On-site sector marker: San Diego County / ZIP 92064 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92064-b6e5d11f

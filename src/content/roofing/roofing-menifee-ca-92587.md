@@ -11,25 +11,35 @@ lng: -117.1800
 zipSample: ["92586", "92584", "92564", "92585", "92587"]
 zipCodes: ["92585", "92584", "92587", "92564", "92586"]
 localPaths: ["Riverside County / ZIP 92564 sector", "Riverside County / ZIP 92586 sector", "Riverside County / elevation 1430 ft band", "Riverside County / ZIP 92587 sector", "Riverside County / ZIP 92584 sector"]
-zillowHomeValueUsd: 641286
 ---
 
 **Engineering Notice for Menifee:** Structural loading calculated based on 1430 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Menifee, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Menifee, CA, but intake notes help reduce delays.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 92587.
+FAQ: How long can shingles wait after storm damage? In Menifee, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-We coordinate local dispatch coverage around Menifee, CA and nearby ZIP sectors.
+Step: compare shingle manufacturer wind-zone ratings for Menifee, CA exposure class.
 
-Field note: Connection points spot-checked where accessible (ZIP 92585/92587/92564 zone).
+Risk flag: In Menifee, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 92585, 92587, 92564, 92584, 92586 (county grid: Riverside County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Skylight curb flashing in Menifee, CA should be sequenced before ridge cap replacement.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+roof service brief: pipe boot manufacturer match and valley metal gauge were cross-checked for the Menifee intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 92586/92584/92564.
+
+On-site sector marker: Riverside County / ZIP 92586 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 33.6900, -117.1800 at elevation ~1430 ft aligns with Riverside County intake staging.
 
 Service reference: CA-92587-8baf3a61

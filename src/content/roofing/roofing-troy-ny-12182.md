@@ -11,24 +11,29 @@ lng: -73.6800
 zipSample: ["12181", "12182", "12180"]
 zipCodes: ["12181", "12182", "12180"]
 localPaths: ["Rensselaer County / primary ZIP 12182", "Rensselaer County / ZIP 12181 sector", "Rensselaer County / ZIP 12180 sector", "Rensselaer County / ZIP 12182 sector", "Rensselaer County / coords 42.7400, -73.6800"]
-zillowHomeValueUsd: 256194
 ---
 
 **Engineering Notice for Troy:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Rensselaer County.
 
 
-Our service coordination centers on Troy, NY coverage windows and verified intake details.
+Synthetic underlayment slip in Troy, NY is often tied to deck moisture, not wind alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+We coordinate Troy, NY roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Homeowners in Troy, NY often face sudden roof work problems that require fast action.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 12180/12181/12182 coverage.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Dispatch sectors sampled: ZIP 12180, 12181, 12182 (county grid: Rensselaer County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roof work brief: attic baffle spacing and valley metal gauge were cross-checked for the Troy intake packet.
+
+Regional mesh label Rensselaer County: moisture and logistics baselines are keyed to Troy, NY before niche-specific work begins.
+
+On-site sector marker: Rensselaer County / ZIP 12182 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-12182-76c59002

@@ -11,25 +11,33 @@ lng: -84.8000
 zipSample: ["30121", "30120"]
 zipCodes: ["30121", "30120"]
 localPaths: ["Bartow County / ZIP 30121 sector", "Bartow County / primary ZIP 30121", "Bartow County / ZIP 30120 sector", "Bartow County / coords 34.1600, -84.8000", "Bartow County / elevation 771 ft band"]
-zillowHomeValueUsd: 314398
 ---
 
 **Engineering Notice for Cartersville:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Bartow County.
 
 
-We coordinate local dispatch coverage around Cartersville, GA and nearby ZIP sectors.
+Code context: Ventilation ratios for Cartersville, GA attics should be checked against current mechanical exhaust additions.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When should permanent restoration start? In Cartersville, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cartersville, GA, but intake notes help reduce delays.
+Material note: In Cartersville, GA, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30121.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 30120/30121 coverage.
+Freeze-thaw cycles around Cartersville, GA stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 30120, 30121 (county grid: Bartow County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+Field routing: chimney cricket slope paired with pipe boot manufacturer match near ZIP 30121.
+
+Field note: Shingle seal-down timing logged near ZIP 30121/30120.
+
+ZIP-corridor snapshot for Cartersville, GA: sampled sectors include 30121, 30120; county routing grid remains Bartow County.
+
+On-site sector marker: Bartow County / ZIP 30121 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30121-f2cab434

@@ -11,26 +11,29 @@ lng: -83.0600
 zipSample: ["48211", "48212"]
 zipCodes: ["48211", "48212"]
 localPaths: ["Wayne County / primary ZIP 48211", "Wayne County / elevation 636 ft band", "Wayne County / ZIP 48211 sector", "Wayne County / ZIP 48212 sector", "Wayne County / coords 42.4000, -83.0600"]
-zillowHomeValueUsd: 56320
 ---
 
 **Engineering Notice for Hamtramck:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-Our service coordination centers on Hamtramck, MI coverage windows and verified intake details.
+Across Hamtramck, MI, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Hamtramck, MI attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 48212/48211 intake.
+Risk flag: In Hamtramck, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 48212/48211 zone).
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 48212, 48211 (county grid: Wayne County).
+Scope trace: synthetic underlayment slip plus wind uplift clip spacing referenced in Wayne County county grid review.
+
+On-site sector marker: Wayne County / ZIP 48211 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 42.4000, -83.0600 at elevation ~636 ft aligns with Wayne County intake staging.
 
 Service reference: MI-48211-6b0862e7

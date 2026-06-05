@@ -11,27 +11,33 @@ lng: -91.6100
 zipSample: ["52317"]
 zipCodes: ["52317"]
 localPaths: ["Johnson County / elevation 768 ft band", "Johnson County / ZIP 52317 sector", "Johnson County / primary ZIP 52317", "Johnson County / coords 41.7400, -91.6100"]
-zillowHomeValueUsd: 307493
 ---
 
 **Engineering Notice for North Liberty:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Johnson County.
 
 
-Tip: request a written scope before work starts.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-In North Liberty, IA, urgent roof service issues can escalate quickly.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in North Liberty, IA, but intake notes help reduce delays.
+Risk flag: In North Liberty, IA, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate North Liberty, IA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 52317.
+Code context: Ventilation ratios for North Liberty, IA attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 52317 coverage.
+Hail bruising on North Liberty, IA ridges may not breach felt until the next wind event.
 
-Field note: Connection points spot-checked where accessible (ZIP 52317 zone).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 52317 (county grid: Johnson County).
+FAQ: How long can shingles wait after storm damage? In North Liberty, IA, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: soffit intake free area paired with pipe boot manufacturer match near ZIP 52317.
+
+Field note: Valley debris and granule loss noted for ZIP 52317.
+
+Regional mesh label Johnson County: moisture and logistics baselines are keyed to North Liberty, IA before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 41.7400, -91.6100 at elevation ~768 ft aligns with Johnson County intake staging.
 
 Service reference: IA-52317-e2370f60

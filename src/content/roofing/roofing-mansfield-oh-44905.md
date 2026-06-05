@@ -11,26 +11,31 @@ lng: -82.5300
 zipSample: ["44902", "44906", "44907", "44905", "44903"]
 zipCodes: ["44905", "44901", "44903", "44906", "44902", "44907"]
 localPaths: ["Richland County / primary ZIP 44905", "Richland County / elevation 1204 ft band", "Richland County / coords 40.7700, -82.5300", "Richland County / ZIP 44903 sector", "Richland County / ZIP 44907 sector"]
-zillowHomeValueUsd: 151638
 ---
 
 **Engineering Notice for Mansfield:** Structural loading calculated based on 1204 ft terrain assessment. Regional dispatch grid: Richland County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Our service coordination centers on Mansfield, OH coverage windows and verified intake details.
+FAQ: When should permanent restoration start? In Mansfield, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Hail bruising on Mansfield, OH ridges may not breach felt until the next wind event.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 44905.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 44901/44907/44903 coverage.
+Risk flag: Tile underlayment age in Mansfield, OH can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 44901/44907/44903.
+Code context: Ventilation ratios for Mansfield, OH attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 44901, 44907, 44903, 44906, 44902 (county grid: Richland County).
+Scope trace: soffit intake free area plus skylight curb height referenced in Richland County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 44907/44903/44902.
+
+ZIP-corridor snapshot for Mansfield, OH: sampled sectors include 44901, 44903, 44902, 44906, 44905, 44907; county routing grid remains Richland County.
+
+On-site sector marker: Richland County / ZIP 44902 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44905-2efbb2a6

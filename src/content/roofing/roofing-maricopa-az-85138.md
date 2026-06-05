@@ -11,25 +11,31 @@ lng: -112.0000
 zipSample: ["85139", "85138"]
 zipCodes: ["85138", "85139"]
 localPaths: ["Pinal County / coords 33.0400, -112.0000", "Pinal County / ZIP 85138 sector", "Pinal County / elevation 1181 ft band", "Pinal County / primary ZIP 85138", "Pinal County / ZIP 85139 sector"]
-zillowHomeValueUsd: 347803
 ---
 
 **Engineering Notice for Maricopa:** Structural loading calculated based on 1181 ft terrain assessment. Regional dispatch grid: Pinal County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+In Maricopa, AZ, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Maricopa, AZ, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 85138.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Tile underlayment age in Maricopa, AZ can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85138/85139.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 85138, 85139 (county grid: Pinal County).
+FAQ: Can you tarp only part of the roof? In Maricopa, AZ, yes—if slope and anchor points support safe tie-offs.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Scope trace: starter-strip setback plus deck sheathing thickness referenced in Pinal County county grid review.
+
+Regional mesh label Pinal County: moisture and logistics baselines are keyed to Maricopa, AZ before niche-specific work begins.
+
+On-site sector marker: Pinal County / ZIP 85139 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85138-54fde765

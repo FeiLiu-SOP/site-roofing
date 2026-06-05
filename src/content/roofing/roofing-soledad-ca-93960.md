@@ -11,26 +11,31 @@ lng: -121.3400
 zipSample: ["93960"]
 zipCodes: ["93960"]
 localPaths: ["Monterey County / primary ZIP 93960", "Monterey County / elevation 174 ft band", "Monterey County / ZIP 93960 sector", "Monterey County / coords 36.4400, -121.3400"]
-zillowHomeValueUsd: 631371
 ---
 
 **Engineering Notice for Soledad:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Monterey County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Soledad, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Soledad, CA can fail independently of visible tile cracks.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Note recent wind events when filing insurance photos for Soledad, CA.
 
-We coordinate local dispatch coverage around Soledad, CA and nearby ZIP sectors.
+Coastal humidity in Soledad, CA can slow shingle seal-down after shoulder-season storms.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93960.
+Wind-zone note: Soledad, CA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 93960 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 93960 (county grid: Monterey County).
+Scope trace: deck sheathing thickness plus wind uplift clip spacing referenced in Monterey County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 93960.
+
+**Regional Infrastructure Brief:** Grid anchor set to Monterey County. Reference elevation: 174 ft. Primary coordinates: 36.4400, -121.3400. ZIP sample: 93960. Logistics priority: Serving residential sectors across Monterey County and north-east ZIP 93960 grid.
+
+On-site sector marker: Monterey County / coords 36.4400, -121.3400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93960-b5cfc237

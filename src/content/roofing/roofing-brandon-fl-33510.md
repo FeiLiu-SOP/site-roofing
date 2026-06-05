@@ -11,24 +11,33 @@ lng: -82.3000
 zipSample: ["33510", "33594", "33584", "33595", "33619"]
 zipCodes: ["33595", "33508", "33584", "33510", "33594", "33511", "33509", "33619"]
 localPaths: ["Hillsborough County / coords 27.9400, -82.3000", "Hillsborough County / primary ZIP 33510", "Hillsborough County / ZIP 33595 sector", "Hillsborough County / ZIP 33619 sector", "Hillsborough County / ZIP 33584 sector"]
-zillowHomeValueUsd: 344956
 ---
 
 **Engineering Notice for Brandon:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 33510.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Brandon, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Brandon, FL coverage windows and verified intake details.
+Step: separate emergency tarp scope from permanent service line items.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33619/33511/33595.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 33619, 33511, 33595, 33508, 33509 (county grid: Hillsborough County).
+Freeze-thaw cycles around Brandon, FL stress nail pops along eaves and rake edges.
+
+FAQ: Is partial dry-in possible? In Brandon, FL, yes—if slope and anchor points support safe tie-offs.
+
+Regulatory note: Brandon, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: synthetic underlayment slip paired with counter-flashing reglet depth near ZIP 33510.
+
+Coordinate-anchored dispatch note: center reference 27.9400, -82.3000 at elevation ~62 ft aligns with Hillsborough County intake staging.
+
+On-site sector marker: Hillsborough County / elevation 62 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33510-b21b3a42

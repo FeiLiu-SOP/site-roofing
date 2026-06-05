@@ -11,28 +11,33 @@ lng: -74.4200
 zipSample: ["10940"]
 zipCodes: ["10940"]
 localPaths: ["Orange County / coords 41.4500, -74.4200", "Orange County / primary ZIP 10940", "Orange County / elevation 568 ft band", "Orange County / ZIP 10940 sector"]
-zillowHomeValueUsd: 390348
 ---
 
 **Engineering Notice for Middletown:** Structural loading calculated based on 568 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: request a written scope before work starts.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 10940.
+Hail bruising on Middletown, NY ridges may not breach felt until the next wind event.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 10940.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 10940.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 10940.
+Wind-zone note: Middletown, NY exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 10940 intake.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 10940 (county grid: Orange County).
+FAQ: When should permanent restoration start? In Middletown, NY, delayed dry-in can expand insulation and ceiling repairs.
+
+Risk flag: In Middletown, NY, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: counter-flashing reglet depth plus synthetic underlayment slip referenced in Orange County county grid review.
+
+Primary postal anchor 10940 with multi-ZIP overlap in Middletown; field packets tag Orange County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 41.4500, -74.4200 at elevation ~568 ft aligns with Orange County intake staging.
 
 Service reference: NY-10940-329ffaf5

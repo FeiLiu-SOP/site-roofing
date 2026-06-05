@@ -11,26 +11,31 @@ lng: -118.8200
 zipSample: ["97801"]
 zipCodes: ["97801"]
 localPaths: ["Umatilla County / primary ZIP 97801", "Umatilla County / coords 45.6800, -118.8200", "Umatilla County / ZIP 97801 sector", "Umatilla County / elevation 1115 ft band"]
-zillowHomeValueUsd: 293534
 ---
 
 **Engineering Notice for Pendleton:** Structural loading calculated based on 1115 ft terrain assessment. Regional dispatch grid: Umatilla County.
 
 
-We coordinate local dispatch coverage around Pendleton, OR and nearby ZIP sectors.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: confirm licensing and insurance before approving work.
+Coastal humidity in Pendleton, OR can slow shingle seal-down after shoulder-season storms.
 
-Field note: Connection points spot-checked where accessible (ZIP 97801 zone).
+Material note: In Pendleton, OR, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Moisture pathway inspection logged near ZIP 97801 intake.
+Risk flag: In Pendleton, OR, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 97801 (county grid: Umatilla County).
+Wind-zone note: Pendleton, OR exposure class can change starter-strip and cap nail schedules.
+
+Field routing: pipe boot manufacturer match paired with synthetic underlayment slip near ZIP 97801.
+
+**Regional Infrastructure Brief:** Grid anchor set to Umatilla County. Reference elevation: 1115 ft. Primary coordinates: 45.6800, -118.8200. ZIP sample: 97801. Logistics priority: Serving residential sectors across Umatilla County and north-east ZIP 97801 grid.
+
+Coordinate-anchored dispatch note: center reference 45.6800, -118.8200 at elevation ~1115 ft aligns with Umatilla County intake staging.
 
 Service reference: OR-97801-fb7afd50

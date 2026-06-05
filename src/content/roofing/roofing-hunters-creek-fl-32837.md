@@ -11,26 +11,29 @@ lng: -81.4400
 zipSample: ["32837"]
 zipCodes: ["32837"]
 localPaths: ["Orange County / primary ZIP 32837", "Orange County / elevation 69 ft band", "Orange County / coords 28.3600, -81.4400", "Orange County / ZIP 32837 sector"]
-zillowHomeValueUsd: 411447
 ---
 
 **Engineering Notice for Hunters Creek:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-We coordinate local dispatch coverage around Hunters Creek, FL and nearby ZIP sectors.
+TPO seam welds in Hunters Creek, FL commercial sections need probe tests after freeze events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is partial dry-in possible? In Hunters Creek, FL, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hunters Creek, FL, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Hunters Creek, FL.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Regulatory note: Hunters Creek, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 32837 zone).
+Risk flag: Tile underlayment age in Hunters Creek, FL can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 32837 intake.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 32837 (county grid: Orange County).
+roof work brief: deck sheathing thickness and shingle exposure calibration were cross-checked for the Hunters Creek intake packet.
+
+ZIP-corridor snapshot for Hunters Creek, FL: sampled sectors include 32837; county routing grid remains Orange County.
+
+Primary postal anchor 32837 with multi-ZIP overlap in Hunters Creek; field packets tag Orange County for county-grid reconciliation.
 
 Service reference: FL-32837-e16ea9bc

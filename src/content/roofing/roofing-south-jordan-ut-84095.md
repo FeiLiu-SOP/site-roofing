@@ -11,26 +11,29 @@ lng: -111.9800
 zipSample: ["84095", "84009", "84096"]
 zipCodes: ["84096", "84095", "84009"]
 localPaths: ["Salt Lake County / ZIP 84096 sector", "Salt Lake County / ZIP 84009 sector", "Salt Lake County / elevation 4672 ft band", "Salt Lake County / coords 40.5600, -111.9800", "Salt Lake County / ZIP 84095 sector"]
-zillowHomeValueUsd: 759212
 ---
 
 **Engineering Notice for South Jordan:** Structural loading calculated based on 4672 ft terrain assessment. Regional dispatch grid: Salt Lake County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Note recent wind events when filing insurance photos for South Jordan, UT.
 
-We coordinate local dispatch coverage around South Jordan, UT and nearby ZIP sectors.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in South Jordan, UT, but intake notes help reduce delays.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-In South Jordan, UT, urgent roofing service issues can escalate quickly.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84095/84096/84009.
+Risk flag: In South Jordan, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 84095/84096/84009 coverage.
+Coastal humidity in South Jordan, UT can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 84095, 84096, 84009 (county grid: Salt Lake County).
+Scope trace: deck sheathing thickness plus attic baffle spacing referenced in Salt Lake County county grid review.
+
+Primary postal anchor 84095 with multi-ZIP overlap in South Jordan; field packets tag Salt Lake County for county-grid reconciliation.
+
+On-site sector marker: Salt Lake County / coords 40.5600, -111.9800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84095-310f2a54

@@ -11,26 +11,31 @@ lng: -97.4600
 zipSample: ["76116", "76126"]
 zipCodes: ["76126", "76116"]
 localPaths: ["Tarrant County / ZIP 76126 sector", "Tarrant County / elevation 725 ft band", "Tarrant County / ZIP 76116 sector", "Tarrant County / coords 32.6800, -97.4600", "Tarrant County / primary ZIP 76116"]
-zillowHomeValueUsd: 295773
 ---
 
 **Engineering Notice for Benbrook:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Tarrant County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Benbrook, TX, but intake notes help reduce delays.
+TPO seam welds in Benbrook, TX commercial sections need probe tests after freeze events.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: compare shingle manufacturer wind-zone ratings for Benbrook, TX exposure class.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Connection points spot-checked where accessible (ZIP 76116/76126 zone).
+FAQ: Can you tarp only part of the roof? In Benbrook, TX, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 76116/76126.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 76116, 76126 (county grid: Tarrant County).
+Regulatory note: Benbrook, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: chimney cricket slope plus attic baffle spacing referenced in Tarrant County county grid review.
+
+Regional mesh label Tarrant County: moisture and logistics baselines are keyed to Benbrook, TX before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Tarrant County and primary ZIP 76116. Terrain reference: 725 ft. Center point: 32.6800, -97.4600. ZIP sample: 76116, 76126. Logistics priority: Serving residential sectors across Tarrant County and north-east ZIP 76116 grid.
 
 Service reference: TX-76116-bcf8aedc

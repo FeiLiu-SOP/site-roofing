@@ -11,26 +11,31 @@ lng: -122.5400
 zipSample: ["98110", "98061"]
 zipCodes: ["98061", "98110"]
 localPaths: ["Kitsap County / primary ZIP 98110", "Kitsap County / elevation 220 ft band", "Kitsap County / ZIP 98061 sector", "Kitsap County / coords 47.6400, -122.5400", "Kitsap County / ZIP 98110 sector"]
-zillowHomeValueUsd: 1175760
 ---
 
 **Engineering Notice for Bainbridge Island:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Kitsap County.
 
 
-Tip: request a written scope before work starts.
+Tip: Note recent wind events when filing insurance photos for Bainbridge Island, WA.
 
-Step: share symptoms and recent history so the intake notes are complete.
+In Bainbridge Island, WA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Structured milestones protect both sides when scheduling work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Bainbridge Island, WA coverage windows and verified intake details.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 98061/98110 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 98061/98110 zone).
+We coordinate Bainbridge Island, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 98061, 98110 (county grid: Kitsap County).
+Material note: In Bainbridge Island, WA, algae-resistant granules may be specified for north-facing slopes.
+
+Field routing: synthetic underlayment slip paired with valley metal gauge near ZIP 98110.
+
+Primary postal anchor 98110 with multi-ZIP overlap in Bainbridge Island; field packets tag Kitsap County for county-grid reconciliation.
+
+On-site sector marker: Kitsap County / primary ZIP 98110 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98110-57aa5b4d

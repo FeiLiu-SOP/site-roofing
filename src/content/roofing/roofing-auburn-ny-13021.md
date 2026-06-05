@@ -11,26 +11,29 @@ lng: -76.5700
 zipSample: ["13024", "13021", "13022"]
 zipCodes: ["13022", "13021", "13024"]
 localPaths: ["Cayuga County / ZIP 13022 sector", "Cayuga County / ZIP 13021 sector", "Cayuga County / primary ZIP 13021", "Cayuga County / elevation 669 ft band", "Cayuga County / coords 42.9300, -76.5700"]
-zillowHomeValueUsd: 214975
 ---
 
 **Engineering Notice for Auburn:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Cayuga County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Auburn, NY, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our service coordination centers on Auburn, NY coverage windows and verified intake details.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should permanent restoration start? In Auburn, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: avoid large upfront payments without milestones.
+Code context: Ventilation ratios for Auburn, NY attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 13021/13022/13024 coverage.
+TPO seam welds in Auburn, NY commercial sections need probe tests after freeze events.
 
-Field note: Moisture pathway inspection logged near ZIP 13021/13022/13024 intake.
+Our Auburn, NY dispatch packets reference county grid Cayuga County and elevation band 669 ft.
 
-Dispatch sectors sampled: ZIP 13021, 13022, 13024 (county grid: Cayuga County).
+Scope trace: valley metal gauge plus pipe boot manufacturer match referenced in Cayuga County county grid review.
+
+On-site sector marker: Cayuga County / primary ZIP 13021 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Auburn, NY: sampled sectors include 13022, 13024, 13021; county routing grid remains Cayuga County.
 
 Service reference: NY-13021-70444af1

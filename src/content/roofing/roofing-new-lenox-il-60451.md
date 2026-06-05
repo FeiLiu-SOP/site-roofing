@@ -11,24 +11,31 @@ lng: -87.9700
 zipSample: ["60451"]
 zipCodes: ["60451"]
 localPaths: ["Will County / ZIP 60451 sector", "Will County / primary ZIP 60451", "Will County / coords 41.5100, -87.9700", "Will County / elevation 692 ft band"]
-zillowHomeValueUsd: 439902
 ---
 
 **Engineering Notice for New Lenox:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Will County.
 
 
-Structured milestones protect both sides when scheduling work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Our service coordination centers on New Lenox, IL coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Wind exposure category reviewed for ZIP sector 60451.
+Code context: Ventilation ratios for New Lenox, IL attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 60451 (county grid: Will County).
+Synthetic underlayment slip in New Lenox, IL is often tied to deck moisture, not wind alone.
+
+roof work brief: valley metal gauge and wind uplift clip spacing were cross-checked for the New Lenox intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 60451.
+
+On-site sector marker: Will County / ZIP 60451 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Will County: moisture and logistics baselines are keyed to New Lenox, IL before niche-specific work begins.
 
 Service reference: IL-60451-8b65e009

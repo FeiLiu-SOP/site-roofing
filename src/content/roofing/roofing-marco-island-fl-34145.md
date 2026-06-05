@@ -11,26 +11,31 @@ lng: -81.7000
 zipSample: ["34145", "34146", "34140"]
 zipCodes: ["34145", "34146", "34140"]
 localPaths: ["Collier County / ZIP 34140 sector", "Collier County / primary ZIP 34145", "Collier County / ZIP 34145 sector", "Collier County / ZIP 34146 sector", "Collier County / coords 25.9300, -81.7000"]
-zillowHomeValueUsd: 867750
 ---
 
 **Engineering Notice for Marco Island:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Collier County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Our Marco Island, FL dispatch packets reference county grid Collier County and elevation band 30 ft.
 
-Transparent pricing helps you compare like-for-like scope items.
+Material note: In Marco Island, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Our service coordination centers on Marco Island, FL coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 34146/34145/34140 intake.
+Metal panel oil-canning in Marco Island, FL may signal clip spacing issues, not wind damage alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 34146/34145/34140 zone).
+FAQ: Can you tarp only part of the roof? In Marco Island, FL, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 34146, 34145, 34140 (county grid: Collier County).
+Code context: Ventilation ratios for Marco Island, FL attics should be checked against current mechanical exhaust additions.
+
+Field routing: shingle exposure calibration paired with chimney cricket slope near ZIP 34145.
+
+On-site sector marker: Collier County / ZIP 34145 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 25.9300, -81.7000 at elevation ~30 ft aligns with Collier County intake staging.
 
 Service reference: FL-34145-6bb2a402

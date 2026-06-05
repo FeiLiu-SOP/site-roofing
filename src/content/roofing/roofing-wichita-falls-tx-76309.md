@@ -11,24 +11,33 @@ lng: -98.5300
 zipSample: ["76305", "76301", "76310", "76309", "76306"]
 zipCodes: ["76309", "76306", "76301", "76307", "76308", "76310", "76302", "76311", "76305"]
 localPaths: ["Wichita County / coords 33.9100, -98.5300", "Wichita County / ZIP 76310 sector", "Wichita County / elevation 961 ft band", "Wichita County / ZIP 76301 sector", "Wichita County / ZIP 76306 sector"]
-zillowHomeValueUsd: 121394
 ---
 
 **Engineering Notice for Wichita Falls:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Wichita County.
 
 
-Tip: confirm licensing and insurance before approving work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Our service coordination centers on Wichita Falls, TX coverage windows and verified intake details.
+Wind-zone note: Wichita Falls, TX exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Wichita Falls, TX can fail independently of visible tile cracks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Homeowners in Wichita Falls, TX often face sudden roof work problems that require fast action.
+Material note: In Wichita Falls, TX, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Wind exposure category reviewed for ZIP sector 76308/76301/76302.
+Low-slope sections in Wichita Falls, TX need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 76308, 76301, 76302, 76311, 76306 (county grid: Wichita County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Step: separate emergency tarp scope from permanent remediation line items.
+
+roof work brief: soffit intake free area and drip-edge metal profile were cross-checked for the Wichita Falls intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 76302/76301/76307.
+
+On-site sector marker: Wichita County / ZIP 76306 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 76309 with multi-ZIP overlap in Wichita Falls; field packets tag Wichita County for county-grid reconciliation.
 
 Service reference: TX-76309-784b1c15

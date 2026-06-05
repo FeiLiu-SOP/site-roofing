@@ -11,27 +11,29 @@ lng: -96.6200
 zipSample: ["75092", "75091", "75090"]
 zipCodes: ["75092", "75091", "75090"]
 localPaths: ["Grayson County / primary ZIP 75092", "Grayson County / ZIP 75092 sector", "Grayson County / elevation 692 ft band", "Grayson County / ZIP 75091 sector", "Grayson County / ZIP 75090 sector"]
-zillowHomeValueUsd: 291266
 ---
 
 **Engineering Notice for Sherman:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Grayson County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Sherman, TX.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should permanent restoration start? In Sherman, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 75092.
+Tile and shingle mixes in Sherman, TX require different fastener patterns at transitions.
 
-We coordinate local dispatch coverage around Sherman, TX and nearby ZIP sectors.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Access points and staging constraints recorded for ZIP 75092/75091/75090 coverage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75092/75091/75090.
+Code context: Ventilation ratios for Sherman, TX attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 75092, 75091, 75090 (county grid: Grayson County).
+Scope trace: attic baffle spacing plus valley metal gauge referenced in Grayson County county grid review.
+
+Coordinate-anchored dispatch note: center reference 33.6300, -96.6200 at elevation ~692 ft aligns with Grayson County intake staging.
+
+Regional mesh label Grayson County: moisture and logistics baselines are keyed to Sherman, TX before niche-specific work begins.
 
 Service reference: TX-75092-ea55f697

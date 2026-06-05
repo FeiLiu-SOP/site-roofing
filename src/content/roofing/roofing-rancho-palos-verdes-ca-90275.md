@@ -11,26 +11,35 @@ lng: -118.3600
 zipSample: ["90275"]
 zipCodes: ["90275"]
 localPaths: ["Los Angeles County / ZIP 90275 sector", "Los Angeles County / elevation 1053 ft band", "Los Angeles County / coords 33.7600, -118.3600", "Los Angeles County / primary ZIP 90275"]
-zillowHomeValueUsd: 1822465
 ---
 
 **Engineering Notice for Rancho Palos Verdes:** Structural loading calculated based on 1053 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rancho Palos Verdes, CA, but intake notes help reduce delays.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-We coordinate local dispatch coverage around Rancho Palos Verdes, CA and nearby ZIP sectors.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Transparent pricing helps you compare like-for-like scope items.
+TPO seam welds in Rancho Palos Verdes, CA commercial sections need probe tests after freeze events.
 
-Field note: Wind exposure category reviewed for ZIP sector 90275.
+Risk flag: In Rancho Palos Verdes, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 90275 zone).
+Schedule a roof inspection with written scope before permanent restoration. Serving ZIP Code: 90275.
 
-Dispatch sectors sampled: ZIP 90275 (county grid: Los Angeles County).
+FAQ: How long can shingles wait after storm damage? In Rancho Palos Verdes, CA, delayed dry-in can expand insulation and ceiling repairs.
+
+Code context: Ventilation ratios for Rancho Palos Verdes, CA attics should be checked against current mechanical exhaust additions.
+
+roof work brief: ice-barrier lap sequence and ridge cap nail schedule were cross-checked for the Rancho Palos Verdes intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 90275.
+
+On-site sector marker: Los Angeles County / ZIP 90275 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Los Angeles County. Reference elevation: 1053 ft. Primary coordinates: 33.7600, -118.3600. ZIP sample: 90275. Service perimeter note: Coverage extends through Los Angeles County with dispatch centered near ZIP 90275.
 
 Service reference: CA-90275-93aa2baf

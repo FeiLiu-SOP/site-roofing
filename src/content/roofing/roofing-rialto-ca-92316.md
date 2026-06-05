@@ -11,26 +11,33 @@ lng: -117.3900
 zipSample: ["92316", "92377", "92376"]
 zipCodes: ["92376", "92377", "92316"]
 localPaths: ["San Bernardino County / elevation 1342 ft band", "San Bernardino County / ZIP 92377 sector", "San Bernardino County / ZIP 92316 sector", "San Bernardino County / primary ZIP 92316", "San Bernardino County / coords 34.1200, -117.3900"]
-zillowHomeValueUsd: 564809
 ---
 
 **Engineering Notice for Rialto:** Structural loading calculated based on 1342 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-In Rialto, CA, seasonal demand can change scheduling windows.
+Risk flag: Tile underlayment age in Rialto, CA can fail independently of visible tile cracks.
 
-Our service coordination centers on Rialto, CA coverage windows and verified intake details.
+Step: stage tear-off debris paths away from landscape drains.
 
-Homeowners in Rialto, CA often face sudden roof work problems that require fast action.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+Regulatory note: Rialto, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wood shake courses in Rialto, CA require skip-spacing rules at valleys.
 
-Field note: Wind exposure category reviewed for ZIP sector 92316/92377/92376.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 92316/92377/92376 intake.
+We coordinate Rialto, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 92316, 92377, 92376 (county grid: San Bernardino County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Tip: Note recent wind events when filing insurance photos for Rialto, CA.
+
+Scope trace: soffit intake free area plus chimney cricket slope referenced in San Bernardino County county grid review.
+
+ZIP-corridor snapshot for Rialto, CA: sampled sectors include 92376, 92377, 92316; county routing grid remains San Bernardino County.
+
+On-site sector marker: San Bernardino County / ZIP 92376 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92316-8c975890

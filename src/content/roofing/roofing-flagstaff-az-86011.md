@@ -11,27 +11,33 @@ lng: -111.6200
 zipSample: ["86011", "86005", "86004", "86001", "86002"]
 zipCodes: ["86001", "86011", "86004", "86002", "86005"]
 localPaths: ["Coconino County / elevation 6837 ft band", "Coconino County / ZIP 86011 sector", "Coconino County / primary ZIP 86011", "Coconino County / ZIP 86005 sector", "Coconino County / ZIP 86004 sector"]
-zillowHomeValueUsd: 666873
 ---
 
 **Engineering Notice for Flagstaff:** Structural loading calculated based on 6837 ft terrain assessment. Regional dispatch grid: Coconino County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 86011.
+Regulatory note: Flagstaff, AZ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+Granule embedment loss on Flagstaff, AZ north slopes can precede mat exposure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 86005/86002/86004.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Moisture pathway inspection logged near ZIP 86005/86002/86004 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 86005, 86002, 86004, 86001, 86011 (county grid: Coconino County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Field routing: counter-flashing reglet depth paired with soffit intake free area near ZIP 86011.
+
+Field note: Attic moisture pathway scan referenced ZIP 86011/86005/86002.
+
+On-site sector marker: Coconino County / ZIP 86004 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Coconino County / ZIP 86005 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-86011-d0a4595f

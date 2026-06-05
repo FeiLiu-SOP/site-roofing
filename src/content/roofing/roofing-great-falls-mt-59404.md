@@ -11,26 +11,33 @@ lng: -111.3000
 zipSample: ["59405", "59404", "59406", "59401"]
 zipCodes: ["59401", "59405", "59406", "59404"]
 localPaths: ["Cascade County / ZIP 59401 sector", "Cascade County / ZIP 59406 sector", "Cascade County / elevation 3327 ft band", "Cascade County / ZIP 59405 sector", "Cascade County / ZIP 59404 sector"]
-zillowHomeValueUsd: 386900
 ---
 
 **Engineering Notice for Great Falls:** Structural loading calculated based on 3327 ft terrain assessment. Regional dispatch grid: Cascade County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Attic ventilation deficits in Great Falls, MT can mimic roof leaks at ceiling penetrations.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Great Falls, MT, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Great Falls, MT, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-We coordinate local dispatch coverage around Great Falls, MT and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for Great Falls, MT.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 59401/59404/59405 coverage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 59401/59404/59405.
+Code context: Ventilation ratios for Great Falls, MT attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 59401, 59404, 59405, 59406 (county grid: Cascade County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Risk flag: Tile underlayment age in Great Falls, MT can fail independently of visible tile cracks.
+
+Field routing: deck sheathing thickness paired with soffit intake free area near ZIP 59404.
+
+On-site sector marker: Cascade County / ZIP 59406 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cascade County / ZIP 59405 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59404-3b2e034b

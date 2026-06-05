@@ -11,24 +11,31 @@ lng: -94.9700
 zipSample: ["75455", "75456"]
 zipCodes: ["75456", "75455"]
 localPaths: ["Titus County / primary ZIP 75455", "Titus County / ZIP 75455 sector", "Titus County / ZIP 75456 sector", "Titus County / elevation 410 ft band", "Titus County / coords 33.1600, -94.9700"]
-zillowHomeValueUsd: 227620
 ---
 
 **Engineering Notice for Mount Pleasant:** Structural loading calculated based on 410 ft terrain assessment. Regional dispatch grid: Titus County.
 
 
-Homeowners in Mount Pleasant, TX often face sudden roof work problems that require fast action.
+We coordinate Mount Pleasant, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Mount Pleasant, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Low-slope sections in Mount Pleasant, TX need positive drainage before membrane repairs are scoped.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Mount Pleasant, TX exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 75456/75455 intake.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 75456, 75455 (county grid: Titus County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: counter-flashing reglet depth paired with soffit intake free area near ZIP 75455.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 75455/75456.
+
+Regional mesh label Titus County: moisture and logistics baselines are keyed to Mount Pleasant, TX before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 33.1600, -94.9700 at elevation ~410 ft aligns with Titus County intake staging.
 
 Service reference: TX-75455-dd5ea0be

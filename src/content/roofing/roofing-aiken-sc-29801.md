@@ -11,27 +11,31 @@ lng: -81.7300
 zipSample: ["29803", "29802", "29801"]
 zipCodes: ["29801", "29803", "29802"]
 localPaths: ["Aiken County / primary ZIP 29801", "Aiken County / elevation 525 ft band", "Aiken County / ZIP 29803 sector", "Aiken County / ZIP 29801 sector", "Aiken County / ZIP 29802 sector"]
-zillowHomeValueUsd: 214741
 ---
 
 **Engineering Notice for Aiken:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Aiken County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Aiken, SC, but intake notes help reduce delays.
+Attic ventilation deficits in Aiken, SC can mimic roof leaks at ceiling penetrations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-In Aiken, SC, urgent roof work issues can escalate quickly.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Tile underlayment age in Aiken, SC can fail independently of visible tile cracks.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 29801.
+Regulatory note: Aiken, SC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 29802/29801/29803 coverage.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29802/29801/29803.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 29802, 29801, 29803 (county grid: Aiken County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: pipe boot manufacturer match plus wind uplift clip spacing referenced in Aiken County county grid review.
+
+ZIP-corridor snapshot for Aiken, SC: sampled sectors include 29801, 29803, 29802; county routing grid remains Aiken County.
+
+On-site sector marker: Aiken County / coords 33.5300, -81.7300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29801-dd1d6587

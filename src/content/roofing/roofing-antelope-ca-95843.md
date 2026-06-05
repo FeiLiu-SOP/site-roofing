@@ -11,26 +11,33 @@ lng: -121.3600
 zipSample: ["95843"]
 zipCodes: ["95843"]
 localPaths: ["Sacramento County / elevation 128 ft band", "Sacramento County / ZIP 95843 sector", "Sacramento County / coords 38.7200, -121.3600", "Sacramento County / primary ZIP 95843"]
-zillowHomeValueUsd: 503958
 ---
 
 **Engineering Notice for Antelope:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: Sacramento County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Antelope, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-In Antelope, CA, urgent roof service issues can escalate quickly.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: avoid large upfront payments without milestones.
+Material note: In Antelope, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Wind exposure category reviewed for ZIP sector 95843.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Connection points spot-checked where accessible (ZIP 95843 zone).
+Code context: Ventilation ratios for Antelope, CA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 95843 (county grid: Sacramento County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Field routing: ridge cap nail schedule paired with drip-edge metal profile near ZIP 95843.
+
+On-site sector marker: Sacramento County / elevation 128 ft band — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Sacramento County: moisture and logistics baselines are keyed to Antelope, CA before niche-specific work begins.
 
 Service reference: CA-95843-b3309a55

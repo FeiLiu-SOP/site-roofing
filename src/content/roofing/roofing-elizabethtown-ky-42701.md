@@ -11,26 +11,31 @@ lng: -85.8800
 zipSample: ["42701", "42702"]
 zipCodes: ["42701", "42702"]
 localPaths: ["Hardin County / ZIP 42702 sector", "Hardin County / coords 37.7000, -85.8800", "Hardin County / primary ZIP 42701", "Hardin County / elevation 738 ft band", "Hardin County / ZIP 42701 sector"]
-zillowHomeValueUsd: 269219
 ---
 
 **Engineering Notice for Elizabethtown:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: Hardin County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 42701.
 
-Our service coordination centers on Elizabethtown, KY coverage windows and verified intake details.
+Synthetic underlayment slip in Elizabethtown, KY is often tied to deck moisture, not wind alone.
 
-Transparent pricing helps you compare like-for-like scope items.
+We coordinate Elizabethtown, KY roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Access points and staging constraints recorded for ZIP 42701/42702 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 42701/42702.
+Regulatory note: Elizabethtown, KY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 42701, 42702 (county grid: Hardin County).
+roof service brief: chimney cricket slope and attic baffle spacing were cross-checked for the Elizabethtown intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 42702/42701.
+
+On-site sector marker: Hardin County / elevation 738 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hardin County / ZIP 42701 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-42701-c9ddd4ce

@@ -11,25 +11,35 @@ lng: -70.6900
 zipSample: ["01931", "01930"]
 zipCodes: ["01930", "01931"]
 localPaths: ["Essex County / elevation 3 ft band", "Essex County / coords 42.6300, -70.6900", "Essex County / ZIP 01931 sector", "Essex County / ZIP 01930 sector", "Essex County / primary ZIP 01930"]
-zillowHomeValueUsd: 760871
 ---
 
 **Engineering Notice for Gloucester:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Essex County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Gloucester, MA, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-A written scope helps prevent rework and mismatched expectations.
+Regulatory note: Gloucester, MA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 01930.
+Risk flag: In Gloucester, MA, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 01931/01930.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 01931, 01930 (county grid: Essex County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Low-slope sections in Gloucester, MA need positive drainage before membrane repairs are scoped.
+
+Field routing: attic baffle spacing paired with drip-edge metal profile near ZIP 01930.
+
+Field note: Shingle seal-down timing logged near ZIP 01930/01931.
+
+Regional mesh label Essex County: moisture and logistics baselines are keyed to Gloucester, MA before niche-specific work begins.
+
+On-site sector marker: Essex County / coords 42.6300, -70.6900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-01930-6a1d613e

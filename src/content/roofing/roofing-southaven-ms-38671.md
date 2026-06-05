@@ -11,26 +11,35 @@ lng: -89.9800
 zipSample: ["38651", "38671", "38672"]
 zipCodes: ["38651", "38671", "38672"]
 localPaths: ["DeSoto County / elevation 331 ft band", "DeSoto County / ZIP 38672 sector", "DeSoto County / ZIP 38671 sector", "DeSoto County / primary ZIP 38671", "DeSoto County / ZIP 38651 sector"]
-zillowHomeValueUsd: 235191
 ---
 
 **Engineering Notice for Southaven:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: DeSoto County.
 
 
-In Southaven, MS, urgent roof work issues can escalate quickly.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: avoid large upfront payments without milestones.
+Parapet coping movement in Southaven, MS can channel water behind wall cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Local conditions in Southaven, MS can affect timelines and material choices.
+Wind-zone note: Southaven, MS exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 38672/38651/38671 intake.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Connection points spot-checked where accessible (ZIP 38672/38651/38671 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 38672, 38651, 38671 (county grid: DeSoto County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: pipe boot manufacturer match paired with soffit intake free area near ZIP 38671.
+
+Field note: Attic moisture pathway scan referenced ZIP 38672/38671/38651.
+
+On-site sector marker: DeSoto County / elevation 331 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Southaven, MS: sampled sectors include 38672, 38651, 38671; county routing grid remains DeSoto County.
 
 Service reference: MS-38671-390f0aeb

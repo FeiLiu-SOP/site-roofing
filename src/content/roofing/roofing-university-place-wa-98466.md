@@ -11,26 +11,31 @@ lng: -122.5500
 zipSample: ["98466", "98467", "98464"]
 zipCodes: ["98466", "98467", "98464"]
 localPaths: ["Pierce County / coords 47.2100, -122.5500", "Pierce County / elevation 413 ft band", "Pierce County / primary ZIP 98466", "Pierce County / ZIP 98464 sector", "Pierce County / ZIP 98466 sector"]
-zillowHomeValueUsd: 630779
 ---
 
 **Engineering Notice for University Place:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Pierce County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in University Place, WA, but intake notes help reduce delays.
+Risk flag: In University Place, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on University Place, WA coverage windows and verified intake details.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: When should permanent remediation start? In University Place, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98467/98466/98464.
+Wood shake courses in University Place, WA require skip-spacing rules at valleys.
 
-Field note: Connection points spot-checked where accessible (ZIP 98467/98466/98464 zone).
+Regulatory note: University Place, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 98467, 98466, 98464 (county grid: Pierce County).
+Field routing: starter-strip setback paired with attic baffle spacing near ZIP 98466.
+
+Field note: Valley debris and granule loss noted for ZIP 98464/98467/98466.
+
+Primary postal anchor 98466 with multi-ZIP overlap in University Place; field packets tag Pierce County for county-grid reconciliation.
+
+On-site sector marker: Pierce County / primary ZIP 98466 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98466-ad3eec63

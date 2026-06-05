@@ -11,24 +11,33 @@ lng: -88.1200
 zipSample: ["53045", "53008", "53005"]
 zipCodes: ["53008", "53045", "53005"]
 localPaths: ["Waukesha County / ZIP 53008 sector", "Waukesha County / ZIP 53005 sector", "Waukesha County / coords 43.0600, -88.1200", "Waukesha County / primary ZIP 53005", "Waukesha County / elevation 886 ft band"]
-zillowHomeValueUsd: 498281
 ---
 
 **Engineering Notice for Brookfield:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Waukesha County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hail bruising on Brookfield, WI ridges may not breach felt until the next wind event.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: In Brookfield, WI, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can you tarp only part of the roof? In Brookfield, WI, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 53045/53008/53005 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 53045, 53008, 53005 (county grid: Waukesha County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Wind-zone note: Brookfield, WI exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: deck sheathing thickness plus ice-barrier lap sequence referenced in Waukesha County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 53008/53045/53005.
+
+Primary postal anchor 53005 with multi-ZIP overlap in Brookfield; field packets tag Waukesha County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 43.0600, -88.1200 at elevation ~886 ft aligns with Waukesha County intake staging.
 
 Service reference: WI-53005-f54f9a7d

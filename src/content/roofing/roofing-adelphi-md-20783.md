@@ -11,26 +11,35 @@ lng: -76.9600
 zipSample: ["20787", "20783"]
 zipCodes: ["20783", "20787"]
 localPaths: ["Prince George's County / ZIP 20787 sector", "Prince George's County / coords 39.0000, -76.9600", "Prince George's County / ZIP 20783 sector", "Prince George's County / primary ZIP 20783", "Prince George's County / elevation 203 ft band"]
-zillowHomeValueUsd: 405933
 ---
 
 **Engineering Notice for Adelphi:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Prince George's County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: request a written scope before work starts.
+Risk flag: Tile underlayment age in Adelphi, MD can fail independently of visible tile cracks.
 
-Our service coordination centers on Adelphi, MD coverage windows and verified intake details.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Our Adelphi, MD dispatch packets reference county grid Prince George's County and elevation band 203 ft.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Moisture pathway inspection logged near ZIP 20787/20783 intake.
+Freeze-thaw cycles around Adelphi, MD stress nail pops along eaves and rake edges.
 
-Field note: Connection points spot-checked where accessible (ZIP 20787/20783 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 20787, 20783 (county grid: Prince George's County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Material note: In Adelphi, MD, algae-resistant granules may be specified for north-facing slopes.
+
+Scope trace: skylight curb height plus ice-barrier lap sequence referenced in Prince George's County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 20787/20783.
+
+On-site sector marker: Prince George's County / elevation 203 ft band — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Prince George's County: moisture and logistics baselines are keyed to Adelphi, MD before niche-specific work begins.
 
 Service reference: MD-20783-a2bb515e

@@ -11,25 +11,29 @@ lng: -121.5400
 zipSample: ["95391"]
 zipCodes: ["95391"]
 localPaths: ["San Joaquin County / elevation 75 ft band", "San Joaquin County / primary ZIP 95391", "San Joaquin County / coords 37.7700, -121.5400", "San Joaquin County / ZIP 95391 sector"]
-zillowHomeValueUsd: 927569
 ---
 
 **Engineering Notice for Mountain House:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: San Joaquin County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 95391.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 95391.
 
-We coordinate local dispatch coverage around Mountain House, CA and nearby ZIP sectors.
+FAQ: When should permanent remediation start? In Mountain House, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Mountain House, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mountain House, CA, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Mountain House, CA exposure class.
 
-Tip: avoid large upfront payments without milestones.
+Across Mountain House, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95391.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 95391 (county grid: San Joaquin County).
+Risk flag: In Mountain House, CA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: soffit intake free area paired with drip-edge metal profile near ZIP 95391.
+
+On-site sector marker: San Joaquin County / elevation 75 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~75 ft across the San Joaquin County area. Coordinates: 37.7700, -121.5400. ZIP sample: 95391. Regional routing note: San Joaquin County traffic flow is balanced around ZIP 95391 service demand.
 
 Service reference: CA-95391-281fffcc

@@ -11,27 +11,31 @@ lng: -80.4200
 zipSample: ["33032"]
 zipCodes: ["33032"]
 localPaths: ["Miami-Dade County / primary ZIP 33032", "Miami-Dade County / ZIP 33032 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / coords 25.5200, -80.4200"]
-zillowHomeValueUsd: 454899
 ---
 
 **Engineering Notice for Naranja:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 33032.
+Risk flag: In Naranja, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-We coordinate local dispatch coverage around Naranja, FL and nearby ZIP sectors.
+Regulatory note: Naranja, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 33032 intake.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Wind exposure category reviewed for ZIP sector 33032.
+TPO seam welds in Naranja, FL commercial sections need probe tests after freeze events.
 
-Dispatch sectors sampled: ZIP 33032 (county grid: Miami-Dade County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Scope trace: drip-edge metal profile plus starter-strip setback referenced in Miami-Dade County county grid review.
+
+On-site sector marker: Miami-Dade County / ZIP 33032 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Naranja, FL: sampled sectors include 33032; county routing grid remains Miami-Dade County.
 
 Service reference: FL-33032-5d8c663a

@@ -11,24 +11,35 @@ lng: -156.4500
 zipSample: ["96753"]
 zipCodes: ["96753"]
 localPaths: ["Maui County / primary ZIP 96753", "Maui County / elevation 75 ft band", "Maui County / ZIP 96753 sector", "Maui County / coords 20.7700, -156.4500"]
-zillowHomeValueUsd: 1012203
 ---
 
 **Engineering Notice for Kihei:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Maui County.
 
 
-In Kihei, HI, seasonal demand can change scheduling windows.
+Step: compare shingle manufacturer wind-zone ratings for Kihei, HI exposure class.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: request a written scope before work starts.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Our service coordination centers on Kihei, HI coverage windows and verified intake details.
+Coastal humidity in Kihei, HI can slow shingle seal-down after shoulder-season storms.
 
-Field note: Connection points spot-checked where accessible (ZIP 96753 zone).
+FAQ: Is partial dry-in possible? In Kihei, HI, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 96753 (county grid: Maui County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Regulatory note: Kihei, HI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: valley metal gauge paired with attic baffle spacing near ZIP 96753.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 96753.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~75 ft across the Maui County area. Coordinates: 20.7700, -156.4500. ZIP sample: 96753. Logistics priority: Serving residential sectors across Maui County and north-east ZIP 96753 grid.
+
+ZIP-corridor snapshot for Kihei, HI: sampled sectors include 96753; county routing grid remains Maui County.
 
 Service reference: HI-96753-3285b553

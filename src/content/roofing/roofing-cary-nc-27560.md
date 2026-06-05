@@ -11,27 +11,31 @@ lng: -78.8200
 zipSample: ["27513", "27519", "27511", "27560", "27512"]
 zipCodes: ["27560", "27519", "27511", "27512", "27518", "27513"]
 localPaths: ["Wake County / primary ZIP 27560", "Wake County / elevation 420 ft band", "Wake County / coords 35.7800, -78.8200", "Wake County / ZIP 27511 sector", "Wake County / ZIP 27560 sector"]
-zillowHomeValueUsd: 501895
 ---
 
 **Engineering Notice for Cary:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Wake County.
 
 
-We coordinate local dispatch coverage around Cary, NC and nearby ZIP sectors.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 27560.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cary, NC, but intake notes help reduce delays.
+Granule embedment loss on Cary, NC north slopes can precede mat exposure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 27511/27512/27518.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 27511/27512/27518.
+Risk flag: Tile underlayment age in Cary, NC can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 27511, 27512, 27518, 27513, 27560 (county grid: Wake County).
+Scope trace: soffit intake free area plus ice-barrier lap sequence referenced in Wake County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 27519/27560/27518.
+
+Primary postal anchor 27560 with multi-ZIP overlap in Cary; field packets tag Wake County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Cary, NC: sampled sectors include 27560, 27512, 27511, 27519, 27513, 27518; county routing grid remains Wake County.
 
 Service reference: NC-27560-01814399

@@ -11,26 +11,31 @@ lng: -122.8400
 zipSample: ["97229"]
 zipCodes: ["97229"]
 localPaths: ["Washington County / coords 45.5600, -122.8400", "Washington County / primary ZIP 97229", "Washington County / elevation 272 ft band", "Washington County / ZIP 97229 sector"]
-zillowHomeValueUsd: 743082
 ---
 
 **Engineering Notice for Bethany:** Structural loading calculated based on 272 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can you tarp only part of the roof? In Bethany, OR, yes—if slope and anchor points support safe tie-offs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Homeowners in Bethany, OR often face sudden roof work problems that require fast action.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 97229 zone).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Wind exposure category reviewed for ZIP sector 97229.
+Valley metal in Bethany, OR should be reviewed whenever granule loss tracks the water line.
 
-Dispatch sectors sampled: ZIP 97229 (county grid: Washington County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Scope trace: starter-strip setback plus soffit intake free area referenced in Washington County county grid review.
+
+On-site sector marker: Washington County / elevation 272 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 45.5600, -122.8400 at elevation ~272 ft aligns with Washington County intake staging.
 
 Service reference: OR-97229-db45a6ea

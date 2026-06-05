@@ -11,24 +11,31 @@ lng: -73.0400
 zipSample: ["06706", "06704", "06720", "06701", "06721"]
 zipCodes: ["06703", "06708", "06701", "06725", "06710", "06723", "06705", "06704", "06720", "06702", "06726", "06724"]
 localPaths: ["Naugatuck Valley County / ZIP 06721 sector", "Naugatuck Valley County / primary ZIP 06708", "Naugatuck Valley County / ZIP 06720 sector", "Naugatuck Valley County / ZIP 06706 sector", "Naugatuck Valley County / ZIP 06704 sector"]
-zillowHomeValueUsd: 297131
 ---
 
 **Engineering Notice for Waterbury:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Naugatuck Valley County.
 
 
-Tip: confirm licensing and insurance before approving work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-We coordinate local dispatch coverage around Waterbury, CT and nearby ZIP sectors.
+Risk flag: In Waterbury, CT, interior stains may track from HVAC condensate rather than roof cladding.
 
-A written scope helps prevent rework and mismatched expectations.
+Regulatory note: Waterbury, CT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: avoid large upfront payments without milestones.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wood shake courses in Waterbury, CT require skip-spacing rules at valleys.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 06726/06721/06720.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 06726, 06721, 06720, 06706, 06724 (county grid: Naugatuck Valley County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Tip: Note recent wind events when filing insurance photos for Waterbury, CT.
+
+roof service brief: ice-barrier lap sequence and counter-flashing reglet depth were cross-checked for the Waterbury intake packet.
+
+On-site sector marker: Naugatuck Valley County / ZIP 06721 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Waterbury, CT: sampled sectors include 06725, 06710, 06703, 06705, 06721, 06722, 06723, 06702; county routing grid remains Naugatuck Valley County.
 
 Service reference: CT-06708-4cae23dc

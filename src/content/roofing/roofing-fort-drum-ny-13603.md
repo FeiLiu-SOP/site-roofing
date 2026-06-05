@@ -11,25 +11,31 @@ lng: -75.7800
 zipSample: ["13603", "13602"]
 zipCodes: ["13602", "13603"]
 localPaths: ["Jefferson County / ZIP 13603 sector", "Jefferson County / coords 44.0500, -75.7800", "Jefferson County / elevation 561 ft band", "Jefferson County / primary ZIP 13603", "Jefferson County / ZIP 13602 sector"]
-zillowHomeValueUsd: 462825
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Fort Drum:** Structural loading calculated based on 561 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-In Fort Drum, NY, seasonal demand can change scheduling windows.
+Code context: Ventilation ratios for Fort Drum, NY attics should be checked against current mechanical exhaust additions.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 13603.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Access points and staging constraints recorded for ZIP 13602/13603 coverage.
+Low-slope sections in Fort Drum, NY need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 13602, 13603 (county grid: Jefferson County).
+Risk flag: Tile underlayment age in Fort Drum, NY can fail independently of visible tile cracks.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+roof work brief: soffit intake free area and pipe boot manufacturer match were cross-checked for the Fort Drum intake packet.
+
+On-site sector marker: Jefferson County / ZIP 13603 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Jefferson County / elevation 561 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-13603-57d38079

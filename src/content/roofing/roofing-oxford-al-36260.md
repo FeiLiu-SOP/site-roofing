@@ -11,26 +11,35 @@ lng: -85.8700
 zipSample: ["36260", "36203", "36253"]
 zipCodes: ["36203", "36260", "36253"]
 localPaths: ["Calhoun County / ZIP 36260 sector", "Calhoun County / primary ZIP 36260", "Calhoun County / elevation 646 ft band", "Calhoun County / ZIP 36253 sector", "Calhoun County / ZIP 36203 sector"]
-zillowHomeValueUsd: 186808
 ---
 
 **Engineering Notice for Oxford:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Calhoun County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Oxford, AL attics should be checked against current mechanical exhaust additions.
 
-In Oxford, AL, seasonal demand can change scheduling windows.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 36203/36260/36253 coverage.
+Across Oxford, AL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Moisture pathway inspection logged near ZIP 36203/36260/36253 intake.
+Risk flag: In Oxford, AL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 36203, 36260, 36253 (county grid: Calhoun County).
+Step: log deck soundings near vents before tear-off is approved.
+
+FAQ: Can you tarp only part of the roof? In Oxford, AL, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: attic baffle spacing plus valley metal gauge referenced in Calhoun County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 36253/36260/36203.
+
+Primary postal anchor 36260 with multi-ZIP overlap in Oxford; field packets tag Calhoun County for county-grid reconciliation.
+
+On-site sector marker: Calhoun County / primary ZIP 36260 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36260-d70468ab

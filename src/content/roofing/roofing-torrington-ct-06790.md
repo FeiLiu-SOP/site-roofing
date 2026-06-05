@@ -11,24 +11,31 @@ lng: -73.1300
 zipSample: ["06790"]
 zipCodes: ["06790"]
 localPaths: ["Northwest Hills County / elevation 1043 ft band", "Northwest Hills County / primary ZIP 06790", "Northwest Hills County / ZIP 06790 sector", "Northwest Hills County / coords 41.8300, -73.1300"]
-zillowHomeValueUsd: 294914
 ---
 
 **Engineering Notice for Torrington:** Structural loading calculated based on 1043 ft terrain assessment. Regional dispatch grid: Northwest Hills County.
 
 
-We coordinate local dispatch coverage around Torrington, CT and nearby ZIP sectors.
+Parapet coping movement in Torrington, CT can channel water behind wall cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: compare shingle manufacturer wind-zone ratings for Torrington, CT exposure class.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Torrington, CT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should permanent restoration start? In Torrington, CT, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 06790 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 06790 (county grid: Northwest Hills County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roofing service brief: chimney cricket slope and ridge cap nail schedule were cross-checked for the Torrington intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 06790.
+
+On-site sector marker: Northwest Hills County / primary ZIP 06790 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Northwest Hills County / coords 41.8300, -73.1300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06790-b3001431

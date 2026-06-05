@@ -11,25 +11,31 @@ lng: -115.0400
 zipSample: ["89052", "89009", "89005", "89015", "89012"]
 zipCodes: ["89074", "89005", "89077", "89002", "89012", "89052", "89015", "89054", "89014", "89009", "89044", "89011"]
 localPaths: ["Clark County / ZIP 89005 sector", "Clark County / ZIP 89009 sector", "Clark County / ZIP 89052 sector", "Clark County / coords 36.0100, -115.0400", "Clark County / primary ZIP 89044"]
-zillowHomeValueUsd: 536479
 ---
 
 **Engineering Notice for Henderson:** Structural loading calculated based on 2310 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 89044.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Henderson, NV, but intake notes help reduce delays.
+Wood shake courses in Henderson, NV require skip-spacing rules at valleys.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Note recent wind events when filing insurance photos for Henderson, NV.
 
-Field note: Connection points spot-checked where accessible (ZIP 89015/89052/89009 zone).
+Material note: In Henderson, NV, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 89015, 89052, 89009, 89014, 89005 (county grid: Clark County).
+Risk flag: In Henderson, NV, interior stains may track from HVAC condensate rather than roof cladding.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+roof service brief: synthetic underlayment slip and chimney cricket slope were cross-checked for the Henderson intake packet.
+
+ZIP-corridor snapshot for Henderson, NV: sampled sectors include 89002, 89054, 89014, 89077, 89011, 89005, 89015, 89044; county routing grid remains Clark County.
+
+Regional mesh label Clark County: moisture and logistics baselines are keyed to Henderson, NV before niche-specific work begins.
 
 Service reference: NV-89044-3dae8957

@@ -11,26 +11,33 @@ lng: -87.9400
 zipSample: ["60126"]
 zipCodes: ["60126"]
 localPaths: ["DuPage County / elevation 705 ft band", "DuPage County / primary ZIP 60126", "DuPage County / coords 41.9000, -87.9400", "DuPage County / ZIP 60126 sector"]
-zillowHomeValueUsd: 611450
 ---
 
 **Engineering Notice for Elmhurst:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: DuPage County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: map ventilation intake and exhaust pairs for Elmhurst, IL attic runs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wood shake courses in Elmhurst, IL require skip-spacing rules at valleys.
 
-We coordinate local dispatch coverage around Elmhurst, IL and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for Elmhurst, IL.
 
-Field note: Access points and staging constraints recorded for ZIP 60126 coverage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 60126 intake.
+Regulatory note: Elmhurst, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 60126 (county grid: DuPage County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Our Elmhurst, IL dispatch packets reference county grid DuPage County and elevation band 705 ft.
+
+roof service brief: valley metal gauge and synthetic underlayment slip were cross-checked for the Elmhurst intake packet.
+
+On-site sector marker: DuPage County / coords 41.9000, -87.9400 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: DuPage County / ZIP 60126 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60126-2e613bff

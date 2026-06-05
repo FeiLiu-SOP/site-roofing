@@ -11,24 +11,31 @@ lng: -120.1800
 zipSample: ["96160", "96161"]
 zipCodes: ["96161", "96160"]
 localPaths: ["Nevada County / ZIP 96160 sector", "Nevada County / coords 39.3500, -120.1800", "Nevada County / elevation 6201 ft band", "Nevada County / ZIP 96161 sector", "Nevada County / primary ZIP 96161"]
-zillowHomeValueUsd: 1014754
 ---
 
 **Engineering Notice for Truckee:** Structural loading calculated based on 6201 ft terrain assessment. Regional dispatch grid: Nevada County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: request a written scope before work starts.
+Risk flag: Tile underlayment age in Truckee, CA can fail independently of visible tile cracks.
 
-In Truckee, CA, urgent roof service issues can escalate quickly.
+FAQ: How long can shingles wait after storm damage? In Truckee, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Access points and staging constraints recorded for ZIP 96161/96160 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 96161, 96160 (county grid: Nevada County).
+Wind-zone note: Truckee, CA exposure class can change starter-strip and cap nail schedules.
+
+Valley metal in Truckee, CA should be reviewed whenever granule loss tracks the water line.
+
+roof service brief: ice-barrier lap sequence and synthetic underlayment slip were cross-checked for the Truckee intake packet.
+
+On-site sector marker: Nevada County / primary ZIP 96161 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Nevada County / ZIP 96160 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-96161-a367acd8

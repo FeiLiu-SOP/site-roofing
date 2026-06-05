@@ -11,25 +11,35 @@ lng: -121.6000
 zipSample: ["94505"]
 zipCodes: ["94505"]
 localPaths: ["Contra Costa County / ZIP 94505 sector", "Contra Costa County / primary ZIP 94505", "Contra Costa County / coords 37.9100, -121.6000", "Contra Costa County / elevation 10 ft band"]
-zillowHomeValueUsd: 794989
 ---
 
 **Engineering Notice for Discovery Bay:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: In Discovery Bay, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tile and shingle mixes in Discovery Bay, CA require different fastener patterns at transitions.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 94505.
+Wind-zone note: Discovery Bay, CA exposure class can change starter-strip and cap nail schedules.
 
-Our service coordination centers on Discovery Bay, CA coverage windows and verified intake details.
+We coordinate Discovery Bay, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Discovery Bay, CA, but intake notes help reduce delays.
+Low-slope sections in Discovery Bay, CA need positive drainage before membrane repairs are scoped.
 
-Field note: Access points and staging constraints recorded for ZIP 94505 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 94505 (county grid: Contra Costa County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Risk flag: In Discovery Bay, CA, interior stains may track from HVAC condensate rather than roof cladding.
+
+FAQ: Is partial dry-in possible? In Discovery Bay, CA, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: valley metal gauge plus ridge cap nail schedule referenced in Contra Costa County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 94505.
+
+Regional mesh label Contra Costa County: moisture and logistics baselines are keyed to Discovery Bay, CA before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Grid anchor set to Contra Costa County. Reference elevation: 10 ft. Primary coordinates: 37.9100, -121.6000. ZIP sample: 94505. Regional routing note: Contra Costa County traffic flow is balanced around ZIP 94505 service demand.
 
 Service reference: CA-94505-f03718ac

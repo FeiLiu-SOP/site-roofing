@@ -11,24 +11,31 @@ lng: -119.7200
 zipSample: ["93101", "93109", "93120", "93130", "93102"]
 zipCodes: ["93120", "93103", "93130", "93190", "93121", "93101", "93140", "93105", "93102", "93109"]
 localPaths: ["Santa Barbara County / primary ZIP 93105", "Santa Barbara County / ZIP 93101 sector", "Santa Barbara County / ZIP 93120 sector", "Santa Barbara County / ZIP 93102 sector", "Santa Barbara County / coords 34.4300, -119.7200"]
-zillowHomeValueUsd: 1912134
 ---
 
 **Engineering Notice for Santa Barbara:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tile and shingle mixes in Santa Barbara, CA require different fastener patterns at transitions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Santa Barbara, CA can fail independently of visible tile cracks.
 
-Local conditions in Santa Barbara, CA can affect timelines and material choices.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Homeowners in Santa Barbara, CA often face sudden roof service problems that require fast action.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Santa Barbara, CA, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 93105/93121/93101 zone).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 93105, 93121, 93101, 93130, 93109 (county grid: Santa Barbara County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Wind-zone note: Santa Barbara, CA exposure class can change starter-strip and cap nail schedules.
+
+Field routing: counter-flashing reglet depth paired with soffit intake free area near ZIP 93105.
+
+ZIP-corridor snapshot for Santa Barbara, CA: sampled sectors include 93105, 93109, 93120, 93103, 93101, 93140, 93190, 93102; county routing grid remains Santa Barbara County.
+
+On-site sector marker: Santa Barbara County / ZIP 93190 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93105-20f5442b

@@ -11,24 +11,33 @@ lng: -88.2300
 zipSample: ["60186", "60185"]
 zipCodes: ["60186", "60185"]
 localPaths: ["DuPage County / ZIP 60185 sector", "DuPage County / coords 41.9000, -88.2300", "DuPage County / ZIP 60186 sector", "DuPage County / elevation 768 ft band", "DuPage County / primary ZIP 60185"]
-zillowHomeValueUsd: 382817
 ---
 
 **Engineering Notice for West Chicago:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: DuPage County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Valley metal in West Chicago, IL should be reviewed whenever granule loss tracks the water line.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in West Chicago, IL can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+Our West Chicago, IL dispatch packets reference county grid DuPage County and elevation band 768 ft.
 
-Field note: Connection points spot-checked where accessible (ZIP 60186/60185 zone).
+Wind-zone note: West Chicago, IL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 60186, 60185 (county grid: DuPage County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Across West Chicago, IL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Scope trace: deck sheathing thickness plus chimney cricket slope referenced in DuPage County county grid review.
+
+Regional mesh label DuPage County: moisture and logistics baselines are keyed to West Chicago, IL before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 41.9000, -88.2300 at elevation ~768 ft aligns with DuPage County intake staging.
 
 Service reference: IL-60185-b879ab86

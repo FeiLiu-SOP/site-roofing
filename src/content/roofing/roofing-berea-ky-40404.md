@@ -11,24 +11,29 @@ lng: -84.2900
 zipSample: ["40403", "40404"]
 zipCodes: ["40403", "40404"]
 localPaths: ["Madison County / primary ZIP 40404", "Madison County / ZIP 40404 sector", "Madison County / ZIP 40403 sector", "Madison County / coords 37.5900, -84.2900", "Madison County / elevation 961 ft band"]
-zillowHomeValueUsd: 252769
 ---
 
 **Engineering Notice for Berea:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Madison County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can you tarp only part of the roof? In Berea, KY, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Berea, KY roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Berea, KY, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-We coordinate local dispatch coverage around Berea, KY and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 40404/40403 coverage.
+Wind-zone note: Berea, KY exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 40404, 40403 (county grid: Madison County).
+TPO seam welds in Berea, KY commercial sections need probe tests after freeze events.
+
+roofing service brief: soffit intake free area and drip-edge metal profile were cross-checked for the Berea intake packet.
+
+On-site sector marker: Madison County / elevation 961 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Berea, KY: sampled sectors include 40404, 40403; county routing grid remains Madison County.
 
 Service reference: KY-40404-65714351

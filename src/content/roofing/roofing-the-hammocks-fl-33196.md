@@ -11,25 +11,29 @@ lng: -80.4500
 zipSample: ["33196", "33186"]
 zipCodes: ["33186", "33196"]
 localPaths: ["Miami-Dade County / primary ZIP 33196", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / coords 25.6700, -80.4500", "Miami-Dade County / ZIP 33196 sector", "Miami-Dade County / ZIP 33186 sector"]
-zillowHomeValueUsd: 567229
 ---
 
 **Engineering Notice for The Hammocks:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33196.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: confirm licensing and insurance before approving work.
+Metal panel oil-canning in The Hammocks, FL may signal clip spacing issues, not wind damage alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in The Hammocks, FL, but intake notes help reduce delays.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-We coordinate local dispatch coverage around The Hammocks, FL and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33186/33196.
+Wind-zone note: The Hammocks, FL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 33186, 33196 (county grid: Miami-Dade County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+roof work brief: ridge cap nail schedule and attic baffle spacing were cross-checked for the The Hammocks intake packet.
+
+Primary postal anchor 33196 with multi-ZIP overlap in The Hammocks; field packets tag Miami-Dade County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Miami-Dade County. Reference elevation: 33 ft. Primary coordinates: 25.6700, -80.4500. ZIP sample: 33186, 33196. Service perimeter note: Coverage extends through Miami-Dade County with dispatch centered near ZIP 33196.
 
 Service reference: FL-33196-86d83ac8

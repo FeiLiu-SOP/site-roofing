@@ -11,26 +11,31 @@ lng: -76.3500
 zipSample: ["23708", "23709", "23702", "23704", "23705"]
 zipCodes: ["23702", "23701", "23703", "23709", "23707", "23705", "23704", "23708"]
 localPaths: ["Portsmouth County / ZIP 23704 sector", "Portsmouth County / elevation 0 ft band", "Portsmouth County / ZIP 23702 sector", "Portsmouth County / primary ZIP 23709", "Portsmouth County / ZIP 23709 sector"]
-zillowHomeValueUsd: 315687
 ---
 
 **Engineering Notice for Portsmouth:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Portsmouth County.
 
 
-Tip: request a written scope before work starts.
+Granule embedment loss on Portsmouth, VA north slopes can precede mat exposure.
 
-Clear documentation helps align materials, labor, and timeline.
+Our Portsmouth, VA dispatch packets reference county grid Portsmouth County and elevation band 0 ft.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: compare shingle manufacturer wind-zone ratings for Portsmouth, VA exposure class.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is partial dry-in possible? In Portsmouth, VA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 23708/23709/23702.
+Wind-zone note: Portsmouth, VA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 23708/23709/23702 zone).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 23708, 23709, 23702, 23705, 23707 (county grid: Portsmouth County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: valley metal gauge plus deck sheathing thickness referenced in Portsmouth County county grid review.
+
+On-site sector marker: Portsmouth County / ZIP 23707 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 36.8500, -76.3500 at elevation ~0 ft aligns with Portsmouth County intake staging.
 
 Service reference: VA-23709-3793b32c

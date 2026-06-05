@@ -11,24 +11,31 @@ lng: -122.1700
 zipSample: ["98203", "98208", "98204", "98207", "98206"]
 zipCodes: ["98204", "98207", "98213", "98208", "98201", "98206", "98203"]
 localPaths: ["Snohomish County / ZIP 98206 sector", "Snohomish County / primary ZIP 98207", "Snohomish County / ZIP 98204 sector", "Snohomish County / coords 47.9500, -122.1700", "Snohomish County / elevation 0 ft band"]
-zillowHomeValueUsd: 771422
 ---
 
 **Engineering Notice for Everett:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Local conditions in Everett, WA can affect timelines and material choices.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: request a written scope before work starts.
+Low-slope sections in Everett, WA need positive drainage before membrane repairs are scoped.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Everett, WA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98207/98208/98201.
+Step: compare shingle manufacturer wind-zone ratings for Everett, WA exposure class.
 
-Dispatch sectors sampled: ZIP 98207, 98208, 98201, 98204, 98206 (county grid: Snohomish County).
+FAQ: Can you tarp only part of the roof? In Everett, WA, yes—if slope and anchor points support safe tie-offs.
+
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 98207.
+
+Field routing: ice-barrier lap sequence paired with chimney cricket slope near ZIP 98207.
+
+Coordinate-anchored dispatch note: center reference 47.9500, -122.1700 at elevation ~0 ft aligns with Snohomish County intake staging.
+
+ZIP-corridor snapshot for Everett, WA: sampled sectors include 98201, 98213, 98208, 98206, 98204, 98207, 98203; county routing grid remains Snohomish County.
 
 Service reference: WA-98207-2a05ced1

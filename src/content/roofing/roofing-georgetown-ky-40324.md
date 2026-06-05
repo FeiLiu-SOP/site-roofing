@@ -11,24 +11,29 @@ lng: -84.5500
 zipSample: ["40324"]
 zipCodes: ["40324"]
 localPaths: ["Scott County / elevation 827 ft band", "Scott County / primary ZIP 40324", "Scott County / coords 38.2200, -84.5500", "Scott County / ZIP 40324 sector"]
-zillowHomeValueUsd: 336302
 ---
 
 **Engineering Notice for Georgetown:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: Scott County.
 
 
-Tip: request a written scope before work starts.
+FAQ: Can you tarp only part of the roof? In Georgetown, KY, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Georgetown, KY coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Georgetown, KY can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: log deck soundings near vents before tear-off is approved.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 40324.
+Synthetic underlayment slip in Georgetown, KY is often tied to deck moisture, not wind alone.
 
-Dispatch sectors sampled: ZIP 40324 (county grid: Scott County).
+Code context: Ventilation ratios for Georgetown, KY attics should be checked against current mechanical exhaust additions.
+
+Field routing: ridge cap nail schedule paired with counter-flashing reglet depth near ZIP 40324.
+
+ZIP-corridor snapshot for Georgetown, KY: sampled sectors include 40324; county routing grid remains Scott County.
+
+Coordinate-anchored dispatch note: center reference 38.2200, -84.5500 at elevation ~827 ft aligns with Scott County intake staging.
 
 Service reference: KY-40324-71646a51

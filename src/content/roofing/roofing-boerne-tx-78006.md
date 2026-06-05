@@ -11,24 +11,31 @@ lng: -98.7300
 zipSample: ["78006"]
 zipCodes: ["78006"]
 localPaths: ["Kendall County / coords 29.7800, -98.7300", "Kendall County / primary ZIP 78006", "Kendall County / elevation 1463 ft band", "Kendall County / ZIP 78006 sector"]
-zillowHomeValueUsd: 590462
 ---
 
 **Engineering Notice for Boerne:** Structural loading calculated based on 1463 ft terrain assessment. Regional dispatch grid: Kendall County.
 
 
-Tip: request a written scope before work starts.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Boerne, TX, but intake notes help reduce delays.
+Wind-zone note: Boerne, TX exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Our Boerne, TX dispatch packets reference county grid Kendall County and elevation band 1463 ft.
 
-In Boerne, TX, urgent roofing service issues can escalate quickly.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+TPO seam welds in Boerne, TX commercial sections need probe tests after freeze events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78006.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 78006 (county grid: Kendall County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: ice-barrier lap sequence plus deck sheathing thickness referenced in Kendall County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 78006.
+
+ZIP-corridor snapshot for Boerne, TX: sampled sectors include 78006; county routing grid remains Kendall County.
+
+Primary postal anchor 78006 with multi-ZIP overlap in Boerne; field packets tag Kendall County for county-grid reconciliation.
 
 Service reference: TX-78006-6aa4fb1f

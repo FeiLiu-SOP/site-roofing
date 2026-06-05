@@ -11,27 +11,31 @@ lng: -74.0000
 zipSample: ["12402", "12401"]
 zipCodes: ["12401", "12402"]
 localPaths: ["Ulster County / ZIP 12402 sector", "Ulster County / primary ZIP 12401", "Ulster County / coords 41.9300, -74.0000", "Ulster County / ZIP 12401 sector", "Ulster County / elevation 190 ft band"]
-zillowHomeValueUsd: 380924
 ---
 
 **Engineering Notice for Kingston:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Ulster County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Attic ventilation deficits in Kingston, NY can mimic roof leaks at ceiling penetrations.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 12401.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kingston, NY, but intake notes help reduce delays.
+Risk flag: In Kingston, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 12401/12402 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 12401/12402.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 12401, 12402 (county grid: Ulster County).
+Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in Ulster County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 12401/12402.
+
+Primary postal anchor 12401 with multi-ZIP overlap in Kingston; field packets tag Ulster County for county-grid reconciliation.
+
+Regional mesh label Ulster County: moisture and logistics baselines are keyed to Kingston, NY before niche-specific work begins.
 
 Service reference: NY-12401-20de5da5

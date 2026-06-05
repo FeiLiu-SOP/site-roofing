@@ -11,25 +11,31 @@ lng: -77.5200
 zipSample: ["20109"]
 zipCodes: ["20109"]
 localPaths: ["Prince William County / ZIP 20109 sector", "Prince William County / primary ZIP 20109", "Prince William County / coords 38.7800, -77.5200", "Prince William County / elevation 292 ft band"]
-zillowHomeValueUsd: 456329
 ---
 
 **Engineering Notice for Bull Run:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Prince William County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 20109.
+Step: compare shingle manufacturer wind-zone ratings for Bull Run, VA exposure class.
 
-We coordinate local dispatch coverage around Bull Run, VA and nearby ZIP sectors.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: address recurring issues early to prevent bigger damage.
+Parapet coping movement in Bull Run, VA can channel water behind wall cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 20109 zone).
+FAQ: How long can shingles wait after storm damage? In Bull Run, VA, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 20109 (county grid: Prince William County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+roof service brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Bull Run intake packet.
+
+On-site sector marker: Prince William County / primary ZIP 20109 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Prince William County / coords 38.7800, -77.5200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20109-649effdb

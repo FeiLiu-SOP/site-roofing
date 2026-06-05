@@ -11,24 +11,33 @@ lng: -80.9300
 zipSample: ["29910"]
 zipCodes: ["29910"]
 localPaths: ["Beaufort County / ZIP 29910 sector", "Beaufort County / elevation 59 ft band", "Beaufort County / coords 32.2100, -80.9300", "Beaufort County / primary ZIP 29910"]
-zillowHomeValueUsd: 520577
 ---
 
 **Engineering Notice for Bluffton:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Beaufort County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Attic ventilation deficits in Bluffton, SC can mimic roof leaks at ceiling penetrations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29910.
+Granule embedment loss on Bluffton, SC north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 29910 (county grid: Beaufort County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+FAQ: Can you tarp only part of the roof? In Bluffton, SC, yes—if slope and anchor points support safe tie-offs.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: counter-flashing reglet depth paired with pipe boot manufacturer match near ZIP 29910.
+
+On-site sector marker: Beaufort County / ZIP 29910 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Bluffton, SC: sampled sectors include 29910; county routing grid remains Beaufort County.
 
 Service reference: SC-29910-27629833

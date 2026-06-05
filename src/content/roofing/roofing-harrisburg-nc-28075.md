@@ -11,26 +11,35 @@ lng: -80.6500
 zipSample: ["28075"]
 zipCodes: ["28075"]
 localPaths: ["Cabarrus County / elevation 597 ft band", "Cabarrus County / ZIP 28075 sector", "Cabarrus County / primary ZIP 28075", "Cabarrus County / coords 35.3100, -80.6500"]
-zillowHomeValueUsd: 502631
 ---
 
 **Engineering Notice for Harrisburg:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Cabarrus County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-In Harrisburg, NC, urgent roofing service issues can escalate quickly.
+Wind-zone note: Harrisburg, NC exposure class can change starter-strip and cap nail schedules.
 
-Clear documentation helps align materials, labor, and timeline.
+In Harrisburg, NC, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Access points and staging constraints recorded for ZIP 28075 coverage.
+Risk flag: In Harrisburg, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 28075.
+Low-slope sections in Harrisburg, NC need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 28075 (county grid: Cabarrus County).
+FAQ: How long can shingles wait after storm damage? In Harrisburg, NC, delayed dry-in can expand insulation and ceiling repairs.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: synthetic underlayment slip paired with deck sheathing thickness near ZIP 28075.
+
+Field note: Shingle seal-down timing logged near ZIP 28075.
+
+On-site sector marker: Cabarrus County / elevation 597 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cabarrus County / primary ZIP 28075 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28075-7a11741e

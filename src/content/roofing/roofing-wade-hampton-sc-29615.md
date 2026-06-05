@@ -11,27 +11,31 @@ lng: -82.3300
 zipSample: ["29687", "29615", "29606"]
 zipCodes: ["29615", "29606", "29687"]
 localPaths: ["Greenville County / ZIP 29615 sector", "Greenville County / ZIP 29606 sector", "Greenville County / primary ZIP 29615", "Greenville County / coords 34.8800, -82.3300", "Greenville County / ZIP 29687 sector"]
-zillowHomeValueUsd: 437326
 ---
 
 **Engineering Notice for Wade Hampton:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Greenville County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 29615.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-In Wade Hampton, SC, urgent roofing service issues can escalate quickly.
+FAQ: Is partial dry-in possible? In Wade Hampton, SC, yes—if slope and anchor points support safe tie-offs.
 
-Our service coordination centers on Wade Hampton, SC coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29687/29606/29615.
+Risk flag: Tile underlayment age in Wade Hampton, SC can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 29687/29606/29615 intake.
+Attic ventilation deficits in Wade Hampton, SC can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 29687, 29606, 29615 (county grid: Greenville County).
+Field routing: pipe boot manufacturer match paired with wind uplift clip spacing near ZIP 29615.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 29615/29606/29687.
+
+On-site sector marker: Greenville County / ZIP 29615 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Greenville County / elevation 928 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29615-f6733e7e

@@ -11,27 +11,33 @@ lng: -80.1900
 zipSample: ["33023"]
 zipCodes: ["33023"]
 localPaths: ["Broward County / coords 25.9800, -80.1900", "Broward County / elevation 30 ft band", "Broward County / ZIP 33023 sector", "Broward County / primary ZIP 33023"]
-zillowHomeValueUsd: 450417
 ---
 
 **Engineering Notice for West Park:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33023.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: avoid large upfront payments without milestones.
+Step: map ventilation intake and exhaust pairs for West Park, FL attic runs.
 
-Homeowners in West Park, FL often face sudden roof work problems that require fast action.
+Tile and shingle mixes in West Park, FL require different fastener patterns at transitions.
 
-Our service coordination centers on West Park, FL coverage windows and verified intake details.
+Wind-zone note: West Park, FL exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Wind exposure category reviewed for ZIP sector 33023.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Moisture pathway inspection logged near ZIP 33023 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 33023 (county grid: Broward County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: wind uplift clip spacing paired with chimney cricket slope near ZIP 33023.
+
+On-site sector marker: Broward County / coords 25.9800, -80.1900 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Broward County / elevation 30 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33023-0dbb2e2b

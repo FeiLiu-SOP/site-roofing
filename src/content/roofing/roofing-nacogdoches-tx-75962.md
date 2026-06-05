@@ -11,26 +11,35 @@ lng: -94.6500
 zipSample: ["75961", "75964", "75962", "75965", "75963"]
 zipCodes: ["75961", "75964", "75962", "75963", "75965"]
 localPaths: ["Nacogdoches County / coords 31.6100, -94.6500", "Nacogdoches County / ZIP 75965 sector", "Nacogdoches County / ZIP 75963 sector", "Nacogdoches County / ZIP 75964 sector", "Nacogdoches County / primary ZIP 75962"]
-zillowHomeValueUsd: 187090
 ---
 
 **Engineering Notice for Nacogdoches:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Nacogdoches County.
 
 
-Our service coordination centers on Nacogdoches, TX coverage windows and verified intake details.
+Code context: Ventilation ratios for Nacogdoches, TX attics should be checked against current mechanical exhaust additions.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: How long can shingles wait after storm damage? In Nacogdoches, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-In Nacogdoches, TX, seasonal demand can change scheduling windows.
+Material note: In Nacogdoches, TX, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Nacogdoches, TX, but intake notes help reduce delays.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Connection points spot-checked where accessible (ZIP 75963/75961/75964 zone).
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Wind exposure category reviewed for ZIP sector 75963/75961/75964.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 75963, 75961, 75964, 75962, 75965 (county grid: Nacogdoches County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Tile and shingle mixes in Nacogdoches, TX require different fastener patterns at transitions.
+
+roofing service brief: drip-edge metal profile and wind uplift clip spacing were cross-checked for the Nacogdoches intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 75962/75961/75964.
+
+**Regional Infrastructure Brief:** Grid anchor set to Nacogdoches County. Reference elevation: 338 ft. Primary coordinates: 31.6100, -94.6500. ZIP sample: 75965, 75963, 75962, 75961, 75964. Regional routing note: Nacogdoches County traffic flow is balanced around ZIP 75962 service demand.
+
+On-site sector marker: Nacogdoches County / primary ZIP 75962 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75962-85d302f8

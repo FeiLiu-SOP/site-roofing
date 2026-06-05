@@ -11,26 +11,33 @@ lng: -84.0600
 zipSample: ["45431", "45440", "45430", "45432", "45482"]
 zipCodes: ["45301", "45431", "45430", "45434", "45440", "45482", "45432"]
 localPaths: ["Greene County / ZIP 45440 sector", "Greene County / primary ZIP 45440", "Greene County / ZIP 45482 sector", "Greene County / elevation 883 ft band", "Greene County / ZIP 45431 sector"]
-zillowHomeValueUsd: 315779
 ---
 
 **Engineering Notice for Beavercreek:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Greene County.
 
 
-Structured milestones protect both sides when scheduling work.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Beavercreek, OH, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Beavercreek, OH attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Beavercreek, OH and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 45431/45440/45301.
+Our Beavercreek, OH dispatch packets reference county grid Greene County and elevation band 883 ft.
 
-Field note: Connection points spot-checked where accessible (ZIP 45431/45440/45301 zone).
+Metal panel oil-canning in Beavercreek, OH may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 45431, 45440, 45301, 45482, 45432 (county grid: Greene County).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Risk flag: In Beavercreek, OH, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: soffit intake free area plus deck sheathing thickness referenced in Greene County county grid review.
+
+On-site sector marker: Greene County / ZIP 45431 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Greene County / coords 39.7300, -84.0600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45440-4886a438

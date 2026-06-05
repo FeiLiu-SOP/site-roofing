@@ -11,27 +11,33 @@ lng: -104.9700
 zipSample: ["80516", "80504", "80514", "80530"]
 zipCodes: ["80504", "80514", "80516", "80530"]
 localPaths: ["Weld County / primary ZIP 80504", "Weld County / ZIP 80530 sector", "Weld County / ZIP 80514 sector", "Weld County / ZIP 80516 sector", "Weld County / coords 40.1100, -104.9700"]
-zillowHomeValueUsd: 580979
 ---
 
 **Engineering Notice for Frederick:** Structural loading calculated based on 4928 ft terrain assessment. Regional dispatch grid: Weld County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: log deck soundings near vents before tear-off is approved.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 80504.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+Across Frederick, CO, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Connection points spot-checked where accessible (ZIP 80530/80504/80514 zone).
+Regulatory note: Frederick, CO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 80530/80504/80514.
+FAQ: How long can shingles wait after storm damage? In Frederick, CO, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 80530, 80504, 80514, 80516 (county grid: Weld County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 80504.
+
+Wood shake courses in Frederick, CO require skip-spacing rules at valleys.
+
+Field routing: shingle exposure calibration paired with wind uplift clip spacing near ZIP 80504.
+
+On-site sector marker: Weld County / elevation 4928 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~4928 ft across the Weld County area. Coordinates: 40.1100, -104.9700. ZIP sample: 80514, 80504, 80530, 80516. Service perimeter note: Coverage extends through Weld County with dispatch centered near ZIP 80504.
 
 Service reference: CO-80504-cae0b566

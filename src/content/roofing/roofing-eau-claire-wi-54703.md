@@ -11,25 +11,29 @@ lng: -91.4900
 zipSample: ["54701", "54702", "54703"]
 zipCodes: ["54703", "54701", "54702"]
 localPaths: ["Eau Claire County / ZIP 54702 sector", "Eau Claire County / primary ZIP 54703", "Eau Claire County / ZIP 54701 sector", "Eau Claire County / ZIP 54703 sector", "Eau Claire County / coords 44.8200, -91.4900"]
-zillowHomeValueUsd: 287470
 ---
 
 **Engineering Notice for Eau Claire:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Eau Claire County.
 
 
-Our service coordination centers on Eau Claire, WI coverage windows and verified intake details.
+In Eau Claire, WI, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 54703.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: request a written scope before work starts.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 54703/54701/54702.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 54703, 54701, 54702 (county grid: Eau Claire County).
+Regulatory note: Eau Claire, WI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: drip-edge metal profile plus valley metal gauge referenced in Eau Claire County county grid review.
+
+On-site sector marker: Eau Claire County / elevation 869 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Eau Claire County. Reference elevation: 869 ft. Primary coordinates: 44.8200, -91.4900. ZIP sample: 54701, 54702, 54703. Regional routing note: Eau Claire County traffic flow is balanced around ZIP 54703 service demand.
 
 Service reference: WI-54703-c5568164

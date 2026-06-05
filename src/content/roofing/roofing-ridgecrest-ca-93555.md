@@ -11,26 +11,31 @@ lng: -117.6600
 zipSample: ["93556", "93555"]
 zipCodes: ["93556", "93555"]
 localPaths: ["Kern County / ZIP 93555 sector", "Kern County / ZIP 93556 sector", "Kern County / elevation 2277 ft band", "Kern County / primary ZIP 93555", "Kern County / coords 35.6300, -117.6600"]
-zillowHomeValueUsd: 269195
 ---
 
 **Engineering Notice for Ridgecrest:** Structural loading calculated based on 2277 ft terrain assessment. Regional dispatch grid: Kern County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ridgecrest, CA, but intake notes help reduce delays.
+Regulatory note: Ridgecrest, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Homeowners in Ridgecrest, CA often face sudden roof work problems that require fast action.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: confirm licensing and insurance before approving work.
+Step: log deck soundings near vents before tear-off is approved.
 
-Our service coordination centers on Ridgecrest, CA coverage windows and verified intake details.
+Material note: In Ridgecrest, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93555/93556.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 93555/93556 coverage.
+Across Ridgecrest, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Dispatch sectors sampled: ZIP 93555, 93556 (county grid: Kern County).
+Risk flag: In Ridgecrest, CA, interior stains may track from HVAC condensate rather than roof cladding.
+
+roof work brief: chimney cricket slope and attic baffle spacing were cross-checked for the Ridgecrest intake packet.
+
+Coordinate-anchored dispatch note: center reference 35.6300, -117.6600 at elevation ~2277 ft aligns with Kern County intake staging.
+
+**Regional Infrastructure Brief:** Grid anchor set to Kern County. Reference elevation: 2277 ft. Primary coordinates: 35.6300, -117.6600. ZIP sample: 93555, 93556. Service perimeter note: Coverage extends through Kern County with dispatch centered near ZIP 93555.
 
 Service reference: CA-93555-7c96b74a

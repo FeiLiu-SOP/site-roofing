@@ -11,26 +11,35 @@ lng: -117.9500
 zipSample: ["91009", "91010"]
 zipCodes: ["91010", "91009"]
 localPaths: ["Los Angeles County / ZIP 91010 sector", "Los Angeles County / primary ZIP 91010", "Los Angeles County / elevation 1617 ft band", "Los Angeles County / ZIP 91009 sector", "Los Angeles County / coords 34.1600, -117.9500"]
-zillowHomeValueUsd: 785070
 ---
 
 **Engineering Notice for Duarte:** Structural loading calculated based on 1617 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Duarte, CA, but intake notes help reduce delays.
+FAQ: When should permanent remediation start? In Duarte, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-We coordinate local dispatch coverage around Duarte, CA and nearby ZIP sectors.
+Code context: Ventilation ratios for Duarte, CA attics should be checked against current mechanical exhaust additions.
 
-In Duarte, CA, seasonal demand can change scheduling windows.
+We coordinate Duarte, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 91010/91009 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 91010/91009.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 91010, 91009 (county grid: Los Angeles County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Skylight curb flashing in Duarte, CA should be sequenced before ridge cap replacement.
+
+Field routing: drip-edge metal profile paired with deck sheathing thickness near ZIP 91010.
+
+Field note: Shingle seal-down timing logged near ZIP 91010/91009.
+
+On-site sector marker: Los Angeles County / ZIP 91010 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 34.1600, -117.9500 at elevation ~1617 ft aligns with Los Angeles County intake staging.
 
 Service reference: CA-91010-2df2cf37

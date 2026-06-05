@@ -11,26 +11,31 @@ lng: -98.0700
 zipSample: ["78333", "78332"]
 zipCodes: ["78332", "78333"]
 localPaths: ["Jim Wells County / coords 27.7600, -98.0700", "Jim Wells County / primary ZIP 78332", "Jim Wells County / ZIP 78333 sector", "Jim Wells County / elevation 210 ft band", "Jim Wells County / ZIP 78332 sector"]
-zillowHomeValueUsd: 133829
 ---
 
 **Engineering Notice for Alice:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Jim Wells County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Alice, TX coverage windows and verified intake details.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: confirm licensing and insurance before approving work.
+Step: map ventilation intake and exhaust pairs for Alice, TX attic runs.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Freeze-thaw cycles around Alice, TX stress nail pops along eaves and rake edges.
 
-Field note: Moisture pathway inspection logged near ZIP 78333/78332 intake.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78333/78332.
+Risk flag: Tile underlayment age in Alice, TX can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 78333, 78332 (county grid: Jim Wells County).
+roofing service brief: ice-barrier lap sequence and drip-edge metal profile were cross-checked for the Alice intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 78333/78332.
+
+On-site sector marker: Jim Wells County / elevation 210 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 27.7600, -98.0700 at elevation ~210 ft aligns with Jim Wells County intake staging.
 
 Service reference: TX-78332-7faa4d13

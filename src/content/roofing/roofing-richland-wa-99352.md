@@ -11,27 +11,31 @@ lng: -119.2900
 zipSample: ["99352", "99354"]
 zipCodes: ["99352", "99354"]
 localPaths: ["Benton County / ZIP 99352 sector", "Benton County / primary ZIP 99352", "Benton County / elevation 400 ft band", "Benton County / ZIP 99354 sector", "Benton County / coords 46.2800, -119.2900"]
-zillowHomeValueUsd: 500565
 ---
 
 **Engineering Notice for Richland:** Structural loading calculated based on 400 ft terrain assessment. Regional dispatch grid: Benton County.
 
 
-Our service coordination centers on Richland, WA coverage windows and verified intake details.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Richland, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 99352.
+Granule embedment loss on Richland, WA north slopes can precede mat exposure.
 
-Tip: avoid large upfront payments without milestones.
+Wind-zone note: Richland, WA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 99352/99354.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Connection points spot-checked where accessible (ZIP 99352/99354 zone).
+We coordinate Richland, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 99352, 99354 (county grid: Benton County).
+FAQ: Can you tarp only part of the roof? In Richland, WA, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: valley metal gauge plus soffit intake free area referenced in Benton County county grid review.
+
+ZIP-corridor snapshot for Richland, WA: sampled sectors include 99352, 99354; county routing grid remains Benton County.
+
+Primary postal anchor 99352 with multi-ZIP overlap in Richland; field packets tag Benton County for county-grid reconciliation.
 
 Service reference: WA-99352-8d238278

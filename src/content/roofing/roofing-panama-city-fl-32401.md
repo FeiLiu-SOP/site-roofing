@@ -11,27 +11,29 @@ lng: -85.6000
 zipSample: ["32402", "32412", "32404", "32405", "32401"]
 zipCodes: ["32401", "32412", "32404", "32405", "32402"]
 localPaths: ["Bay County / ZIP 32405 sector", "Bay County / ZIP 32412 sector", "Bay County / primary ZIP 32401", "Bay County / coords 30.2000, -85.6000", "Bay County / ZIP 32402 sector"]
-zillowHomeValueUsd: 212879
 ---
 
 **Engineering Notice for Panama City:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Bay County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 32401.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Homeowners in Panama City, FL often face sudden roofing service problems that require fast action.
+Granule embedment loss on Panama City, FL north slopes can precede mat exposure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Panama City, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 32404/32405/32401 intake.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32404/32405/32401.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 32404, 32405, 32401, 32402, 32412 (county grid: Bay County).
+Scope trace: shingle exposure calibration plus synthetic underlayment slip referenced in Bay County county grid review.
+
+On-site sector marker: Bay County / ZIP 32402 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Bay County / ZIP 32404 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32401-dd6be755

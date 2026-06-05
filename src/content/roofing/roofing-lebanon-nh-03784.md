@@ -11,25 +11,35 @@ lng: -72.2500
 zipSample: ["03766", "03784", "03756"]
 zipCodes: ["03766", "03784", "03756"]
 localPaths: ["Grafton County / ZIP 03756 sector", "Grafton County / elevation 607 ft band", "Grafton County / ZIP 03784 sector", "Grafton County / primary ZIP 03784", "Grafton County / ZIP 03766 sector"]
-zillowHomeValueUsd: 477921
 ---
 
 **Engineering Notice for Lebanon:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Grafton County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 03784.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-We coordinate local dispatch coverage around Lebanon, NH and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+Code context: Ventilation ratios for Lebanon, NH attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 03784/03756/03766.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 03784.
 
-Dispatch sectors sampled: ZIP 03784, 03756, 03766 (county grid: Grafton County).
+Risk flag: In Lebanon, NH, interior stains may track from HVAC condensate rather than roof cladding.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+In Lebanon, NH, wind-driven rain can lift shingle tabs before owners notice deck staining.
+
+Field routing: ice-barrier lap sequence paired with skylight curb height near ZIP 03784.
+
+Field note: Valley debris and granule loss noted for ZIP 03766/03784/03756.
+
+**Regional Infrastructure Brief:** Grid anchor set to Grafton County. Reference elevation: 607 ft. Primary coordinates: 43.6400, -72.2500. ZIP sample: 03784, 03756, 03766. Regional routing note: Grafton County traffic flow is balanced around ZIP 03784 service demand.
+
+On-site sector marker: Grafton County / elevation 607 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NH-03784-f81698d7

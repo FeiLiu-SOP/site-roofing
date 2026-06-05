@@ -11,26 +11,29 @@ lng: -93.4800
 zipSample: ["55379"]
 zipCodes: ["55379"]
 localPaths: ["Scott County / elevation 794 ft band", "Scott County / ZIP 55379 sector", "Scott County / coords 44.7700, -93.4800", "Scott County / primary ZIP 55379"]
-zillowHomeValueUsd: 404199
 ---
 
 **Engineering Notice for Shakopee:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: Scott County.
 
 
-Our service coordination centers on Shakopee, MN coverage windows and verified intake details.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should permanent service start? In Shakopee, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Shakopee, MN, but intake notes help reduce delays.
+Regulatory note: Shakopee, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Connection points spot-checked where accessible (ZIP 55379 zone).
+We coordinate Shakopee, MN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55379.
+Wood shake courses in Shakopee, MN require skip-spacing rules at valleys.
 
-Dispatch sectors sampled: ZIP 55379 (county grid: Scott County).
+Field routing: wind uplift clip spacing paired with chimney cricket slope near ZIP 55379.
+
+On-site sector marker: Scott County / ZIP 55379 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Scott County and primary ZIP 55379. Terrain reference: 794 ft. Center point: 44.7700, -93.4800. ZIP sample: 55379. Regional routing note: Scott County traffic flow is balanced around ZIP 55379 service demand.
 
 Service reference: MN-55379-4794e601

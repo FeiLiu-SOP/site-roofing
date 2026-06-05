@@ -11,24 +11,31 @@ lng: -122.1400
 zipSample: ["98223"]
 zipCodes: ["98223"]
 localPaths: ["Snohomish County / coords 48.1700, -122.1400", "Snohomish County / ZIP 98223 sector", "Snohomish County / primary ZIP 98223", "Snohomish County / elevation 223 ft band"]
-zillowHomeValueUsd: 663349
 ---
 
 **Engineering Notice for Arlington:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: map ventilation intake and exhaust pairs for Arlington, WA attic runs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Homeowners in Arlington, WA often face sudden roofing service problems that require fast action.
+Code context: Ventilation ratios for Arlington, WA attics should be checked against current mechanical exhaust additions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Arlington, WA, but intake notes help reduce delays.
+Hail bruising on Arlington, WA ridges may not breach felt until the next wind event.
 
-Field note: Access points and staging constraints recorded for ZIP 98223 coverage.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 98223 (county grid: Snohomish County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+roofing service brief: starter-strip setback and ice-barrier lap sequence were cross-checked for the Arlington intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 98223.
+
+Regional mesh label Snohomish County: moisture and logistics baselines are keyed to Arlington, WA before niche-specific work begins.
+
+On-site sector marker: Snohomish County / ZIP 98223 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98223-740436ba

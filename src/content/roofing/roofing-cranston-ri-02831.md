@@ -11,26 +11,31 @@ lng: -71.4900
 zipSample: ["02823", "02921", "02910", "02831", "02920"]
 zipCodes: ["02823", "02905", "02920", "02921", "02910", "02831"]
 localPaths: ["Providence County / primary ZIP 02831", "Providence County / ZIP 02831 sector", "Providence County / elevation 157 ft band", "Providence County / ZIP 02910 sector", "Providence County / ZIP 02920 sector"]
-zillowHomeValueUsd: 571629
 ---
 
 **Engineering Notice for Cranston:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Providence County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Cranston, RI can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hail bruising on Cranston, RI ridges may not breach felt until the next wind event.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Tip: request a written scope before work starts.
+FAQ: How long can shingles wait after storm damage? In Cranston, RI, delayed dry-in can expand insulation and ceiling repairs.
 
-Homeowners in Cranston, RI often face sudden roofing service problems that require fast action.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Access points and staging constraints recorded for ZIP 02920/02831/02823 coverage.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Moisture pathway inspection logged near ZIP 02920/02831/02823 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 02920, 02831, 02823, 02910, 02921 (county grid: Providence County).
+Field routing: shingle exposure calibration paired with soffit intake free area near ZIP 02831.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 02921/02905/02920.
+
+Regional mesh label Providence County: moisture and logistics baselines are keyed to Cranston, RI before niche-specific work begins.
+
+On-site sector marker: Providence County / ZIP 02920 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: RI-02831-8214e630

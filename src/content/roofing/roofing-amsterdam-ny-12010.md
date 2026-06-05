@@ -11,26 +11,31 @@ lng: -74.1900
 zipSample: ["12010"]
 zipCodes: ["12010"]
 localPaths: ["Montgomery County / primary ZIP 12010", "Montgomery County / coords 42.9400, -74.1900", "Montgomery County / ZIP 12010 sector", "Montgomery County / elevation 417 ft band"]
-zillowHomeValueUsd: 235758
 ---
 
 **Engineering Notice for Amsterdam:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is partial dry-in possible? In Amsterdam, NY, yes—if slope and anchor points support safe tie-offs.
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Metal panel oil-canning in Amsterdam, NY may signal clip spacing issues, not wind damage alone.
 
-Field note: Access points and staging constraints recorded for ZIP 12010 coverage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 12010.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 12010 (county grid: Montgomery County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Scope trace: chimney cricket slope plus wind uplift clip spacing referenced in Montgomery County county grid review.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Montgomery County. Reference elevation: 417 ft. Primary coordinates: 42.9400, -74.1900. ZIP sample: 12010. Regional routing note: Montgomery County traffic flow is balanced around ZIP 12010 service demand.
+
+On-site sector marker: Montgomery County / ZIP 12010 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-12010-f38408ed

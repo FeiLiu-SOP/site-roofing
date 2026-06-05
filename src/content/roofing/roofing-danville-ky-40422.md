@@ -11,26 +11,35 @@ lng: -84.7800
 zipSample: ["40422", "40423"]
 zipCodes: ["40422", "40423"]
 localPaths: ["Boyle County / primary ZIP 40422", "Boyle County / ZIP 40423 sector", "Boyle County / elevation 961 ft band", "Boyle County / coords 37.6400, -84.7800", "Boyle County / ZIP 40422 sector"]
-zillowHomeValueUsd: 247928
 ---
 
 **Engineering Notice for Danville:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Boyle County.
 
 
-In Danville, KY, seasonal demand can change scheduling windows.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Danville, KY can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is partial dry-in possible? In Danville, KY, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 40422.
 
-We coordinate local dispatch coverage around Danville, KY and nearby ZIP sectors.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 40422/40423.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Access points and staging constraints recorded for ZIP 40422/40423 coverage.
+Regulatory note: Danville, KY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 40422, 40423 (county grid: Boyle County).
+Synthetic underlayment slip in Danville, KY is often tied to deck moisture, not wind alone.
+
+Step: map ventilation intake and exhaust pairs for Danville, KY attic runs.
+
+Scope trace: synthetic underlayment slip plus ridge cap nail schedule referenced in Boyle County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 40423/40422.
+
+On-site sector marker: Boyle County / ZIP 40422 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Boyle County / primary ZIP 40422 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40422-ac5f3c28

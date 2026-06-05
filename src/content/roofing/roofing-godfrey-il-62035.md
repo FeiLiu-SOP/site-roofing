@@ -11,26 +11,31 @@ lng: -90.2200
 zipSample: ["62035"]
 zipCodes: ["62035"]
 localPaths: ["Madison County / ZIP 62035 sector", "Madison County / elevation 587 ft band", "Madison County / coords 38.9600, -90.2200", "Madison County / primary ZIP 62035"]
-zillowHomeValueUsd: 213345
 ---
 
 **Engineering Notice for Godfrey:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Madison County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic ventilation deficits in Godfrey, IL can mimic roof leaks at ceiling penetrations.
 
-Tip: request a written scope before work starts.
+FAQ: Is partial dry-in possible? In Godfrey, IL, yes—if slope and anchor points support safe tie-offs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Regulatory note: Godfrey, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 62035.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 62035.
+We coordinate Godfrey, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 62035 (county grid: Madison County).
+roof service brief: wind uplift clip spacing and shingle exposure calibration were cross-checked for the Godfrey intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 62035.
+
+Regional mesh label Madison County: moisture and logistics baselines are keyed to Godfrey, IL before niche-specific work begins.
+
+Primary postal anchor 62035 with multi-ZIP overlap in Godfrey; field packets tag Madison County for county-grid reconciliation.
 
 Service reference: IL-62035-8160bc38

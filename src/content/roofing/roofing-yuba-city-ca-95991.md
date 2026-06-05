@@ -11,27 +11,33 @@ lng: -121.6400
 zipSample: ["95993", "95991"]
 zipCodes: ["95993", "95991"]
 localPaths: ["Sutter County / ZIP 95993 sector", "Sutter County / elevation 59 ft band", "Sutter County / ZIP 95991 sector", "Sutter County / primary ZIP 95991", "Sutter County / coords 39.1400, -121.6400"]
-zillowHomeValueUsd: 404844
 ---
 
 **Engineering Notice for Yuba City:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Sutter County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: address recurring issues early to prevent bigger damage.
+Hail bruising on Yuba City, CA ridges may not breach felt until the next wind event.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 95991.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 95991/95993 zone).
+FAQ: How long can shingles wait after storm damage? In Yuba City, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 95991/95993 intake.
+Tile and shingle mixes in Yuba City, CA require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 95991, 95993 (county grid: Sutter County).
+Risk flag: In Yuba City, CA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Wind-zone note: Yuba City, CA exposure class can change starter-strip and cap nail schedules.
+
+roofing service brief: synthetic underlayment slip and deck sheathing thickness were cross-checked for the Yuba City intake packet.
+
+Coordinate-anchored dispatch note: center reference 39.1400, -121.6400 at elevation ~59 ft aligns with Sutter County intake staging.
+
+Primary postal anchor 95991 with multi-ZIP overlap in Yuba City; field packets tag Sutter County for county-grid reconciliation.
 
 Service reference: CA-95991-76c9a20b

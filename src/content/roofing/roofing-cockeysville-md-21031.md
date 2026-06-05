@@ -11,26 +11,31 @@ lng: -76.6300
 zipSample: ["21031", "21030", "21065"]
 zipCodes: ["21065", "21030", "21031"]
 localPaths: ["Baltimore County / ZIP 21065 sector", "Baltimore County / primary ZIP 21031", "Baltimore County / ZIP 21030 sector", "Baltimore County / coords 39.4800, -76.6300", "Baltimore County / ZIP 21031 sector"]
-zillowHomeValueUsd: 469175
 ---
 
 **Engineering Notice for Cockeysville:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: Baltimore County.
 
 
-We coordinate local dispatch coverage around Cockeysville, MD and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Cockeysville, MD can fail independently of visible tile cracks.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Structured milestones protect both sides when scheduling work.
+Synthetic underlayment slip in Cockeysville, MD is often tied to deck moisture, not wind alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 21030/21031/21065 intake.
+Wind-zone note: Cockeysville, MD exposure class can change starter-strip and cap nail schedules.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21030/21031/21065.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 21030, 21031, 21065 (county grid: Baltimore County).
+Field routing: skylight curb height paired with wind uplift clip spacing near ZIP 21031.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 21065/21031/21030.
+
+ZIP-corridor snapshot for Cockeysville, MD: sampled sectors include 21030, 21031, 21065; county routing grid remains Baltimore County.
+
+On-site sector marker: Baltimore County / primary ZIP 21031 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21031-a63394b4

@@ -11,26 +11,33 @@ lng: -76.9500
 zipSample: ["20705", "20904"]
 zipCodes: ["20705", "20904"]
 localPaths: ["Montgomery County / elevation 299 ft band", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20705 sector", "Montgomery County / coords 39.0600, -76.9500", "Montgomery County / primary ZIP 20705"]
-zillowHomeValueUsd: 460399
 ---
 
 **Engineering Notice for Calverton:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Calverton, MD roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Our service coordination centers on Calverton, MD coverage windows and verified intake details.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: compare at least two estimates for scope and timeline.
+Code context: Ventilation ratios for Calverton, MD attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Metal panel oil-canning in Calverton, MD may signal clip spacing issues, not wind damage alone.
 
-Local conditions in Calverton, MD can affect timelines and material choices.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 20705/20904.
+FAQ: Can you tarp only part of the roof? In Calverton, MD, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 20705/20904 coverage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 20705, 20904 (county grid: Montgomery County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 20705.
+
+roof service brief: drip-edge metal profile and chimney cricket slope were cross-checked for the Calverton intake packet.
+
+On-site sector marker: Montgomery County / ZIP 20904 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 39.0600, -76.9500 at elevation ~299 ft aligns with Montgomery County intake staging.
 
 Service reference: MD-20705-bd060e87

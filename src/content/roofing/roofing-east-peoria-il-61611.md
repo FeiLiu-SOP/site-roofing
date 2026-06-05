@@ -11,27 +11,33 @@ lng: -89.5400
 zipSample: ["61611", "61635", "61612"]
 zipCodes: ["61611", "61612", "61635"]
 localPaths: ["Tazewell County / coords 40.6700, -89.5400", "Tazewell County / ZIP 61611 sector", "Tazewell County / primary ZIP 61611", "Tazewell County / ZIP 61612 sector", "Tazewell County / elevation 502 ft band"]
-zillowHomeValueUsd: 182655
 ---
 
 **Engineering Notice for East Peoria:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Tazewell County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Wind-zone note: East Peoria, IL exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Our service coordination centers on East Peoria, IL coverage windows and verified intake details.
+Tile and shingle mixes in East Peoria, IL require different fastener patterns at transitions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in East Peoria, IL, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 61611.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Access points and staging constraints recorded for ZIP 61635/61611/61612 coverage.
+Risk flag: Tile underlayment age in East Peoria, IL can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 61635/61611/61612.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 61635, 61611, 61612 (county grid: Tazewell County).
+FAQ: Can you tarp only part of the roof? In East Peoria, IL, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: skylight curb height paired with soffit intake free area near ZIP 61611.
+
+Field note: Shingle seal-down timing logged near ZIP 61611/61612/61635.
+
+On-site sector marker: Tazewell County / elevation 502 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Tazewell County / ZIP 61635 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61611-d37fe720

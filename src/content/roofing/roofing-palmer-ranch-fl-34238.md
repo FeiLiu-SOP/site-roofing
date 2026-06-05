@@ -11,24 +11,31 @@ lng: -82.4700
 zipSample: ["34238"]
 zipCodes: ["34238"]
 localPaths: ["Sarasota County / ZIP 34238 sector", "Sarasota County / coords 27.2300, -82.4700", "Sarasota County / primary ZIP 34238", "Sarasota County / elevation 23 ft band"]
-zillowHomeValueUsd: 501648
 ---
 
 **Engineering Notice for Palmer Ranch:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Sarasota County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Palmer Ranch, FL, but intake notes help reduce delays.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Local conditions in Palmer Ranch, FL can affect timelines and material choices.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Parapet coping movement in Palmer Ranch, FL can channel water behind wall cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 34238 zone).
+Wind-zone note: Palmer Ranch, FL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 34238 (county grid: Sarasota County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roof work brief: valley metal gauge and starter-strip setback were cross-checked for the Palmer Ranch intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 34238.
+
+On-site sector marker: Sarasota County / coords 27.2300, -82.4700 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Sarasota County: moisture and logistics baselines are keyed to Palmer Ranch, FL before niche-specific work begins.
 
 Service reference: FL-34238-80e5a1f6

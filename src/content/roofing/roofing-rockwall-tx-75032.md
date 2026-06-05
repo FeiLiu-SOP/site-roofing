@@ -11,25 +11,31 @@ lng: -96.4400
 zipSample: ["75087", "75032"]
 zipCodes: ["75087", "75032"]
 localPaths: ["Rockwall County / primary ZIP 75032", "Rockwall County / ZIP 75087 sector", "Rockwall County / elevation 568 ft band", "Rockwall County / coords 32.9200, -96.4400", "Rockwall County / ZIP 75032 sector"]
-zillowHomeValueUsd: 531400
 ---
 
 **Engineering Notice for Rockwall:** Structural loading calculated based on 568 ft terrain assessment. Regional dispatch grid: Rockwall County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can you tarp only part of the roof? In Rockwall, TX, yes—if slope and anchor points support safe tie-offs.
 
-In Rockwall, TX, seasonal demand can change scheduling windows.
+Risk flag: In Rockwall, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 75032.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Valley metal in Rockwall, TX should be reviewed whenever granule loss tracks the water line.
 
-Field note: Access points and staging constraints recorded for ZIP 75087/75032 coverage.
+Wind-zone note: Rockwall, TX exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 75087, 75032 (county grid: Rockwall County).
+Tip: Note recent wind events when filing insurance photos for Rockwall, TX.
+
+Field routing: starter-strip setback paired with pipe boot manufacturer match near ZIP 75032.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 75032/75087.
+
+On-site sector marker: Rockwall County / ZIP 75087 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Rockwall County: moisture and logistics baselines are keyed to Rockwall, TX before niche-specific work begins.
 
 Service reference: TX-75032-043f9e27

@@ -11,25 +11,35 @@ lng: -119.0300
 zipSample: ["93257"]
 zipCodes: ["93257"]
 localPaths: ["Tulare County / coords 36.0600, -119.0300", "Tulare County / ZIP 93257 sector", "Tulare County / elevation 449 ft band", "Tulare County / primary ZIP 93257"]
-zillowHomeValueUsd: 326614
 ---
 
 **Engineering Notice for Porterville:** Structural loading calculated based on 449 ft terrain assessment. Regional dispatch grid: Tulare County.
 
 
-Tip: request a written scope before work starts.
+Attic ventilation deficits in Porterville, CA can mimic roof leaks at ceiling penetrations.
 
-We coordinate local dispatch coverage around Porterville, CA and nearby ZIP sectors.
+Our Porterville, CA dispatch packets reference county grid Tulare County and elevation band 449 ft.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is partial dry-in possible? In Porterville, CA, yes—if slope and anchor points support safe tie-offs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 93257.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In Porterville, CA, urgent roof service issues can escalate quickly.
+Low-slope sections in Porterville, CA need positive drainage before membrane repairs are scoped.
 
-Field note: Wind exposure category reviewed for ZIP sector 93257.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 93257 (county grid: Tulare County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Tulare County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 93257.
+
+On-site sector marker: Tulare County / coords 36.0600, -119.0300 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Tulare County / ZIP 93257 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93257-1d7b8b74

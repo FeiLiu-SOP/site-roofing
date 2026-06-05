@@ -11,25 +11,29 @@ lng: -122.4800
 zipSample: ["94044"]
 zipCodes: ["94044"]
 localPaths: ["San Mateo County / primary ZIP 94044", "San Mateo County / elevation 210 ft band", "San Mateo County / coords 37.6100, -122.4800", "San Mateo County / ZIP 94044 sector"]
-zillowHomeValueUsd: 1284844
 ---
 
 **Engineering Notice for Pacifica:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: San Mateo County.
 
 
-Local conditions in Pacifica, CA can affect timelines and material choices.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: request a written scope before work starts.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 94044.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on Pacifica, CA coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 94044.
+Hail bruising on Pacifica, CA ridges may not breach felt until the next wind event.
 
-Dispatch sectors sampled: ZIP 94044 (county grid: San Mateo County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Scope trace: wind uplift clip spacing plus valley metal gauge referenced in San Mateo County county grid review.
+
+Primary postal anchor 94044 with multi-ZIP overlap in Pacifica; field packets tag San Mateo County for county-grid reconciliation.
+
+On-site sector marker: San Mateo County / ZIP 94044 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94044-7ba29b62

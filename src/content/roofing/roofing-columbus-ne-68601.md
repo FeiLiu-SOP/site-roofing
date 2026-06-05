@@ -11,24 +11,31 @@ lng: -97.3600
 zipSample: ["68601", "68602"]
 zipCodes: ["68601", "68602"]
 localPaths: ["Platte County / coords 41.4400, -97.3600", "Platte County / ZIP 68601 sector", "Platte County / ZIP 68602 sector", "Platte County / primary ZIP 68601", "Platte County / elevation 1453 ft band"]
-zillowHomeValueUsd: 271012
 ---
 
 **Engineering Notice for Columbus:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: Platte County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on Columbus, NE coverage windows and verified intake details.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Freeze-thaw cycles around Columbus, NE stress nail pops along eaves and rake edges.
 
-Field note: Moisture pathway inspection logged near ZIP 68601/68602 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 68601, 68602 (county grid: Platte County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 68601.
+
+Field routing: pipe boot manufacturer match paired with chimney cricket slope near ZIP 68601.
+
+Field note: Shingle seal-down timing logged near ZIP 68602/68601.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Platte County and primary ZIP 68601. Terrain reference: 1453 ft. Center point: 41.4400, -97.3600. ZIP sample: 68601, 68602. Regional routing note: Platte County traffic flow is balanced around ZIP 68601 service demand.
+
+Primary postal anchor 68601 with multi-ZIP overlap in Columbus; field packets tag Platte County for county-grid reconciliation.
 
 Service reference: NE-68601-77ece57c

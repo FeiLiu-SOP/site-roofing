@@ -11,24 +11,33 @@ lng: -81.7200
 zipSample: ["34712", "34713", "34711"]
 zipCodes: ["34711", "34712", "34713"]
 localPaths: ["Lake County / coords 28.5300, -81.7200", "Lake County / elevation 141 ft band", "Lake County / ZIP 34711 sector", "Lake County / ZIP 34712 sector", "Lake County / ZIP 34713 sector"]
-zillowHomeValueUsd: 428227
 ---
 
 **Engineering Notice for Clermont:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: How long can shingles wait after storm damage? In Clermont, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Clermont, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Our service coordination centers on Clermont, FL coverage windows and verified intake details.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Clermont, FL, but intake notes help reduce delays.
+Risk flag: In Clermont, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 34711/34713/34712 zone).
+Tip: Note recent wind events when filing insurance photos for Clermont, FL.
 
-Dispatch sectors sampled: ZIP 34711, 34713, 34712 (county grid: Lake County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Tile and shingle mixes in Clermont, FL require different fastener patterns at transitions.
+
+roof service brief: drip-edge metal profile and counter-flashing reglet depth were cross-checked for the Clermont intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 34712/34713/34711.
+
+ZIP-corridor snapshot for Clermont, FL: sampled sectors include 34712, 34711, 34713; county routing grid remains Lake County.
+
+On-site sector marker: Lake County / primary ZIP 34711 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34711-4611285e

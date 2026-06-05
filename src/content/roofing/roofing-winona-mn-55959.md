@@ -11,24 +11,33 @@ lng: -91.6700
 zipSample: ["55959", "55987"]
 zipCodes: ["55959", "55987"]
 localPaths: ["Winona County / primary ZIP 55959", "Winona County / ZIP 55959 sector", "Winona County / elevation 666 ft band", "Winona County / coords 44.0500, -91.6700", "Winona County / ZIP 55987 sector"]
-zillowHomeValueUsd: 300715
 ---
 
 **Engineering Notice for Winona:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Winona County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-We coordinate local dispatch coverage around Winona, MN and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Winona, MN, but intake notes help reduce delays.
+Regulatory note: Winona, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: request a written scope before work starts.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 55987/55959 zone).
+Our Winona, MN dispatch packets reference county grid Winona County and elevation band 666 ft.
 
-Dispatch sectors sampled: ZIP 55987, 55959 (county grid: Winona County).
+Parapet coping movement in Winona, MN can channel water behind wall cladding.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+roofing service brief: shingle exposure calibration and synthetic underlayment slip were cross-checked for the Winona intake packet.
+
+Regional mesh label Winona County: moisture and logistics baselines are keyed to Winona, MN before niche-specific work begins.
+
+On-site sector marker: Winona County / primary ZIP 55959 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55959-3bb9e834

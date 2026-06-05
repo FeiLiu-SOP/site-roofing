@@ -11,24 +11,29 @@ lng: -84.1800
 zipSample: ["37934"]
 zipCodes: ["37934"]
 localPaths: ["Knox County / ZIP 37934 sector", "Knox County / primary ZIP 37934", "Knox County / coords 35.8700, -84.1800", "Knox County / elevation 955 ft band"]
-zillowHomeValueUsd: 648229
 ---
 
 **Engineering Notice for Farragut:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: Knox County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Farragut, TN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-We coordinate local dispatch coverage around Farragut, TN and nearby ZIP sectors.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Access points and staging constraints recorded for ZIP 37934 coverage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 37934.
 
-Dispatch sectors sampled: ZIP 37934 (county grid: Knox County).
+Metal panel oil-canning in Farragut, TN may signal clip spacing issues, not wind damage alone.
+
+roof service brief: valley metal gauge and pipe boot manufacturer match were cross-checked for the Farragut intake packet.
+
+ZIP-corridor snapshot for Farragut, TN: sampled sectors include 37934; county routing grid remains Knox County.
+
+Regional mesh label Knox County: moisture and logistics baselines are keyed to Farragut, TN before niche-specific work begins.
 
 Service reference: TN-37934-b995e318

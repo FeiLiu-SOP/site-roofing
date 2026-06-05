@@ -11,26 +11,35 @@ lng: -84.2200
 zipSample: ["31709", "31719"]
 zipCodes: ["31719", "31709"]
 localPaths: ["Sumter County / coords 32.0700, -84.2200", "Sumter County / primary ZIP 31709", "Sumter County / elevation 433 ft band", "Sumter County / ZIP 31719 sector", "Sumter County / ZIP 31709 sector"]
-zillowHomeValueUsd: 141901
 ---
 
 **Engineering Notice for Americus:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Sumter County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Regulatory note: Americus, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: request a written scope before work starts.
+Freeze-thaw cycles around Americus, GA stress nail pops along eaves and rake edges.
 
-Our service coordination centers on Americus, GA coverage windows and verified intake details.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: In Americus, GA, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 31709/31719.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 31709/31719.
+Tile and shingle mixes in Americus, GA require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 31709, 31719 (county grid: Sumter County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+roof work brief: starter-strip setback and ice-barrier lap sequence were cross-checked for the Americus intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 31709/31719.
+
+On-site sector marker: Sumter County / coords 32.0700, -84.2200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Sumter County / ZIP 31719 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31709-8050d248

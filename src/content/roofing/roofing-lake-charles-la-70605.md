@@ -11,24 +11,31 @@ lng: -93.2100
 zipSample: ["70606", "70605", "70616", "70609", "70602"]
 zipCodes: ["70601", "70607", "70615", "70616", "70602", "70605", "70612", "70609", "70629", "70606"]
 localPaths: ["Calcasieu Parish / primary ZIP 70605", "Calcasieu Parish / ZIP 70606 sector", "Calcasieu Parish / ZIP 70609 sector", "Calcasieu Parish / coords 30.2000, -93.2100", "Calcasieu Parish / elevation 26 ft band"]
-zillowHomeValueUsd: 263725
 ---
 
 **Engineering Notice for Lake Charles:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Calcasieu Parish.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Wind exposure category reviewed for ZIP sector 70605/70606/70602.
+Valley metal in Lake Charles, LA should be reviewed whenever granule loss tracks the water line.
 
-Dispatch sectors sampled: ZIP 70605, 70606, 70602, 70629, 70609 (county grid: Calcasieu Parish).
+Step: compare shingle manufacturer wind-zone ratings for Lake Charles, LA exposure class.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: attic baffle spacing paired with valley metal gauge near ZIP 70605.
+
+Coordinate-anchored dispatch note: center reference 30.2000, -93.2100 at elevation ~26 ft aligns with Calcasieu Parish intake staging.
+
+On-site sector marker: Calcasieu Parish / ZIP 70605 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70605-4c38adad

@@ -11,26 +11,31 @@ lng: -122.1400
 zipSample: ["98058"]
 zipCodes: ["98058"]
 localPaths: ["King County / ZIP 98058 sector", "King County / coords 47.4500, -122.1400", "King County / elevation 509 ft band", "King County / primary ZIP 98058"]
-zillowHomeValueUsd: 742708
 ---
 
 **Engineering Notice for Fairwood:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: King County.
 
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Fairwood, WA exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+In Fairwood, WA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 98058 zone).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Wind exposure category reviewed for ZIP sector 98058.
+Step: compare shingle manufacturer wind-zone ratings for Fairwood, WA exposure class.
 
-Dispatch sectors sampled: ZIP 98058 (county grid: King County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+roof work brief: soffit intake free area and attic baffle spacing were cross-checked for the Fairwood intake packet.
+
+On-site sector marker: King County / elevation 509 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Fairwood, WA: sampled sectors include 98058; county routing grid remains King County.
 
 Service reference: WA-98058-9b893995

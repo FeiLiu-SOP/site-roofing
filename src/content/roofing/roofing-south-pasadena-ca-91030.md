@@ -11,26 +11,35 @@ lng: -118.1600
 zipSample: ["91031", "91030"]
 zipCodes: ["91030", "91031"]
 localPaths: ["Los Angeles County / primary ZIP 91030", "Los Angeles County / elevation 653 ft band", "Los Angeles County / ZIP 91031 sector", "Los Angeles County / coords 34.1100, -118.1600", "Los Angeles County / ZIP 91030 sector"]
-zillowHomeValueUsd: 1693540
 ---
 
 **Engineering Notice for South Pasadena:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In South Pasadena, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Structured milestones protect both sides when scheduling work.
+Step: map ventilation intake and exhaust pairs for South Pasadena, CA attic runs.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Moisture pathway inspection logged near ZIP 91031/91030 intake.
+Coastal humidity in South Pasadena, CA can slow shingle seal-down after shoulder-season storms.
 
-Field note: Connection points spot-checked where accessible (ZIP 91031/91030 zone).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 91031, 91030 (county grid: Los Angeles County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Wind-zone note: South Pasadena, CA exposure class can change starter-strip and cap nail schedules.
+
+Field routing: drip-edge metal profile paired with valley metal gauge near ZIP 91030.
+
+Field note: Attic moisture pathway scan referenced ZIP 91030/91031.
+
+Primary postal anchor 91030 with multi-ZIP overlap in South Pasadena; field packets tag Los Angeles County for county-grid reconciliation.
+
+On-site sector marker: Los Angeles County / ZIP 91030 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91030-5a19a202

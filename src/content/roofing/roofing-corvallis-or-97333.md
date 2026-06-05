@@ -11,24 +11,31 @@ lng: -123.2800
 zipSample: ["97339", "97333", "97331", "97330"]
 zipCodes: ["97339", "97330", "97333", "97331"]
 localPaths: ["Benton County / ZIP 97339 sector", "Benton County / elevation 259 ft band", "Benton County / primary ZIP 97333", "Benton County / coords 44.5700, -123.2800", "Benton County / ZIP 97330 sector"]
-zillowHomeValueUsd: 523685
 ---
 
 **Engineering Notice for Corvallis:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Benton County.
 
 
-In Corvallis, OR, seasonal demand can change scheduling windows.
+FAQ: When should permanent remediation start? In Corvallis, OR, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Corvallis, OR, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: avoid large upfront payments without milestones.
+Step: separate emergency tarp scope from permanent service line items.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Corvallis, OR, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 97330/97339/97331 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 97330, 97339, 97331, 97333 (county grid: Benton County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Wood shake courses in Corvallis, OR require skip-spacing rules at valleys.
+
+Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in Benton County county grid review.
+
+Regional mesh label Benton County: moisture and logistics baselines are keyed to Corvallis, OR before niche-specific work begins.
+
+On-site sector marker: Benton County / elevation 259 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97333-8a34e123

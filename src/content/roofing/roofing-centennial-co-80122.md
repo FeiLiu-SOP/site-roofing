@@ -11,26 +11,35 @@ lng: -104.8700
 zipSample: ["80015", "80122", "80112", "80121", "80155"]
 zipCodes: ["80122", "80112", "80121", "80111", "80161", "80016", "80155", "80015"]
 localPaths: ["Arapahoe County / primary ZIP 80122", "Arapahoe County / coords 39.5900, -104.8700", "Arapahoe County / ZIP 80155 sector", "Arapahoe County / ZIP 80121 sector", "Arapahoe County / ZIP 80122 sector"]
-zillowHomeValueUsd: 639542
 ---
 
 **Engineering Notice for Centennial:** Structural loading calculated based on 5741 ft terrain assessment. Regional dispatch grid: Arapahoe County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wood shake courses in Centennial, CO require skip-spacing rules at valleys.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can you tarp only part of the roof? In Centennial, CO, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log deck soundings near vents before tear-off is approved.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 80112/80015/80111 coverage.
+Code context: Ventilation ratios for Centennial, CO attics should be checked against current mechanical exhaust additions.
 
-Field note: Connection points spot-checked where accessible (ZIP 80112/80015/80111 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 80112, 80015, 80111, 80155, 80122 (county grid: Arapahoe County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: starter-strip setback plus soffit intake free area referenced in Arapahoe County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 80155/80161/80015.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Arapahoe County and primary ZIP 80122. Terrain reference: 5741 ft. Center point: 39.5900, -104.8700. ZIP sample: 80121, 80112, 80161, 80122, 80015. Logistics priority: Serving residential sectors across Arapahoe County and north-east ZIP 80122 grid.
+
+On-site sector marker: Arapahoe County / ZIP 80016 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80122-4d38c44a

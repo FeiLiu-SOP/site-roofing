@@ -11,26 +11,33 @@ lng: -80.6700
 zipSample: ["32904"]
 zipCodes: ["32904"]
 localPaths: ["Brevard County / primary ZIP 32904", "Brevard County / ZIP 32904 sector", "Brevard County / coords 28.0700, -80.6700", "Brevard County / elevation 43 ft band"]
-zillowHomeValueUsd: 377183
 ---
 
 **Engineering Notice for West Melbourne:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Brevard County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West Melbourne, FL, but intake notes help reduce delays.
+Wood shake courses in West Melbourne, FL require skip-spacing rules at valleys.
 
-We coordinate local dispatch coverage around West Melbourne, FL and nearby ZIP sectors.
+FAQ: Is partial dry-in possible? In West Melbourne, FL, yes—if slope and anchor points support safe tie-offs.
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: In West Melbourne, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 32904 zone).
+Code context: Ventilation ratios for West Melbourne, FL attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 32904 coverage.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 32904 (county grid: Brevard County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+roof service brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the West Melbourne intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 32904.
+
+On-site sector marker: Brevard County / primary ZIP 32904 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for West Melbourne, FL: sampled sectors include 32904; county routing grid remains Brevard County.
 
 Service reference: FL-32904-7cb92aff

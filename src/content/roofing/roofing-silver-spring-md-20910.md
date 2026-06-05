@@ -11,27 +11,33 @@ lng: -77.0200
 zipSample: ["20997", "20907", "20901", "20911", "20903"]
 zipCodes: ["20907", "20903", "20911", "20997", "20910", "20901", "20912"]
 localPaths: ["Montgomery County / ZIP 20903 sector", "Montgomery County / ZIP 20901 sector", "Montgomery County / elevation 292 ft band", "Montgomery County / ZIP 20911 sector", "Montgomery County / coords 39.0000, -77.0200"]
-zillowHomeValueUsd: 655246
 ---
 
 **Engineering Notice for Silver Spring:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-Our service coordination centers on Silver Spring, MD coverage windows and verified intake details.
+Coastal humidity in Silver Spring, MD can slow shingle seal-down after shoulder-season storms.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 20910.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 20910.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Access points and staging constraints recorded for ZIP 20903/20912/20901 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 20903/20912/20901 zone).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 20903, 20912, 20901, 20907, 20910 (county grid: Montgomery County).
+Risk flag: In Silver Spring, MD, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: shingle exposure calibration paired with ridge cap nail schedule near ZIP 20910.
+
+Field note: Shingle seal-down timing logged near ZIP 20901/20912/20903.
+
+ZIP-corridor snapshot for Silver Spring, MD: sampled sectors include 20997, 20912, 20907, 20911, 20910, 20903, 20901; county routing grid remains Montgomery County.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Montgomery County. Reference elevation: 292 ft. Primary coordinates: 39.0000, -77.0200. ZIP sample: 20907, 20912, 20911, 20903, 20997. Logistics priority: Serving residential sectors across Montgomery County and north-east ZIP 20910 grid.
 
 Service reference: MD-20910-d5438713

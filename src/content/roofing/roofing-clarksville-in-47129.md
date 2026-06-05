@@ -11,25 +11,35 @@ lng: -85.7700
 zipSample: ["47172", "47129"]
 zipCodes: ["47172", "47129"]
 localPaths: ["Clark County / coords 38.3200, -85.7700", "Clark County / primary ZIP 47129", "Clark County / elevation 472 ft band", "Clark County / ZIP 47172 sector", "Clark County / ZIP 47129 sector"]
-zillowHomeValueUsd: 203425
 ---
 
 **Engineering Notice for Clarksville:** Structural loading calculated based on 472 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-Our service coordination centers on Clarksville, IN coverage windows and verified intake details.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 47129.
+Granule embedment loss on Clarksville, IN north slopes can precede mat exposure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Clarksville, IN exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Step: map ventilation intake and exhaust pairs for Clarksville, IN attic runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 47129/47172 zone).
+Risk flag: Tile underlayment age in Clarksville, IN can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 47129, 47172 (county grid: Clark County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+FAQ: How long can shingles wait after storm damage? In Clarksville, IN, delayed dry-in can expand insulation and ceiling repairs.
+
+roof work brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Clarksville intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 47129/47172.
+
+On-site sector marker: Clark County / ZIP 47172 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Clark County / coords 38.3200, -85.7700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47129-0d47f347

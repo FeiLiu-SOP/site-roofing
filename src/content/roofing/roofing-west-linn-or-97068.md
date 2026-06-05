@@ -11,27 +11,29 @@ lng: -122.6400
 zipSample: ["97068"]
 zipCodes: ["97068"]
 localPaths: ["Clackamas County / elevation 673 ft band", "Clackamas County / ZIP 97068 sector", "Clackamas County / coords 45.3700, -122.6400", "Clackamas County / primary ZIP 97068"]
-zillowHomeValueUsd: 773614
 ---
 
 **Engineering Notice for West Linn:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Clackamas County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: request a written scope before work starts.
+Synthetic underlayment slip in West Linn, OR is often tied to deck moisture, not wind alone.
 
-In West Linn, OR, seasonal demand can change scheduling windows.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 97068.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 97068.
+Regulatory note: West Linn, OR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 97068 intake.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 97068.
 
-Dispatch sectors sampled: ZIP 97068 (county grid: Clackamas County).
+roof work brief: valley metal gauge and counter-flashing reglet depth were cross-checked for the West Linn intake packet.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Clackamas County. Reference elevation: 673 ft. Primary coordinates: 45.3700, -122.6400. ZIP sample: 97068. Logistics priority: Serving residential sectors across Clackamas County and north-east ZIP 97068 grid.
+
+Coordinate-anchored dispatch note: center reference 45.3700, -122.6400 at elevation ~673 ft aligns with Clackamas County intake staging.
 
 Service reference: OR-97068-d3bc535d

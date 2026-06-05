@@ -11,24 +11,33 @@ lng: -93.5600
 zipSample: ["55331", "55318", "55317"]
 zipCodes: ["55317", "55318", "55331"]
 localPaths: ["Carver County / primary ZIP 55331", "Carver County / coords 44.8500, -93.5600", "Carver County / ZIP 55317 sector", "Carver County / ZIP 55331 sector", "Carver County / elevation 938 ft band"]
-zillowHomeValueUsd: 810175
 ---
 
 **Engineering Notice for Chanhassen:** Structural loading calculated based on 938 ft terrain assessment. Regional dispatch grid: Carver County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: When should permanent service start? In Chanhassen, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is partial dry-in possible? In Chanhassen, MN, yes—if slope and anchor points support safe tie-offs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Chanhassen, MN can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Metal panel oil-canning in Chanhassen, MN may signal clip spacing issues, not wind damage alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55331/55317/55318.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 55331, 55317, 55318 (county grid: Carver County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 55331.
+
+Material note: In Chanhassen, MN, algae-resistant granules may be specified for north-facing slopes.
+
+roofing service brief: soffit intake free area and chimney cricket slope were cross-checked for the Chanhassen intake packet.
+
+On-site sector marker: Carver County / ZIP 55331 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Carver County / elevation 938 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55331-866366fb

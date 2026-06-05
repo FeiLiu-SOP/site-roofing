@@ -11,25 +11,29 @@ lng: -122.2300
 zipSample: ["94591", "94589", "94590", "94592"]
 zipCodes: ["94592", "94589", "94590", "94591"]
 localPaths: ["Solano County / coords 38.1100, -122.2300", "Solano County / elevation 66 ft band", "Solano County / ZIP 94591 sector", "Solano County / primary ZIP 94592", "Solano County / ZIP 94592 sector"]
-zillowHomeValueUsd: 721277
 ---
 
 **Engineering Notice for Vallejo:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Solano County.
 
 
-Tip: avoid large upfront payments without milestones.
+Regulatory note: Vallejo, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 94592.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Vallejo, CA can fail independently of visible tile cracks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Wind exposure category reviewed for ZIP sector 94591/94590/94589.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 94591, 94590, 94589, 94592 (county grid: Solano County).
+Freeze-thaw cycles around Vallejo, CA stress nail pops along eaves and rake edges.
+
+Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Solano County county grid review.
+
+On-site sector marker: Solano County / ZIP 94589 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~66 ft across the Solano County area. Coordinates: 38.1100, -122.2300. ZIP sample: 94590, 94591, 94589, 94592. Regional routing note: Solano County traffic flow is balanced around ZIP 94592 service demand.
 
 Service reference: CA-94592-96518f86

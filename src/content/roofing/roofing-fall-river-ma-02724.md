@@ -11,27 +11,29 @@ lng: -71.1000
 zipSample: ["02790", "02717", "02722", "02724", "02720"]
 zipCodes: ["02722", "02747", "02724", "02721", "02717", "02790", "02723", "02720"]
 localPaths: ["Bristol County / ZIP 02720 sector", "Bristol County / ZIP 02722 sector", "Bristol County / ZIP 02724 sector", "Bristol County / ZIP 02717 sector", "Bristol County / primary ZIP 02724"]
-zillowHomeValueUsd: 431379
 ---
 
 **Engineering Notice for Fall River:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Bristol County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fall River, MA, but intake notes help reduce delays.
+Attic ventilation deficits in Fall River, MA can mimic roof leaks at ceiling penetrations.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 02724.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Homeowners in Fall River, MA often face sudden roof service problems that require fast action.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Wind exposure category reviewed for ZIP sector 02724/02721/02720.
+Risk flag: In Fall River, MA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 02724/02721/02720 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 02724, 02721, 02720, 02717, 02790 (county grid: Bristol County).
+Field routing: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 02724.
+
+**Regional Infrastructure Brief:** Grid anchor set to Bristol County. Reference elevation: 108 ft. Primary coordinates: 41.7100, -71.1000. ZIP sample: 02723, 02717, 02722, 02747, 02724. Logistics priority: Serving residential sectors across Bristol County and north-east ZIP 02724 grid.
+
+ZIP-corridor snapshot for Fall River, MA: sampled sectors include 02721, 02790, 02720, 02722, 02747, 02723, 02724, 02717; county routing grid remains Bristol County.
 
 Service reference: MA-02724-1dc8be40

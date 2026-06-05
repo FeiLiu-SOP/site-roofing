@@ -11,24 +11,33 @@ lng: -73.2000
 zipSample: ["06604", "06601", "06605", "06608", "06606"]
 zipCodes: ["06606", "06601", "06602", "06604", "06610", "06605", "06608", "06607"]
 localPaths: ["Greater Bridgeport County / ZIP 06604 sector", "Greater Bridgeport County / ZIP 06605 sector", "Greater Bridgeport County / ZIP 06601 sector", "Greater Bridgeport County / coords 41.1900, -73.2000", "Greater Bridgeport County / ZIP 06606 sector"]
-zillowHomeValueUsd: 372533
 ---
 
 **Engineering Notice for Bridgeport:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Greater Bridgeport County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-We coordinate local dispatch coverage around Bridgeport, CT and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Bridgeport, CT can fail independently of visible tile cracks.
 
-Tip: request a written scope before work starts.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bridgeport, CT, but intake notes help reduce delays.
+Tile and shingle mixes in Bridgeport, CT require different fastener patterns at transitions.
 
-Field note: Connection points spot-checked where accessible (ZIP 06601/06604/06608 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 06601, 06604, 06608, 06602, 06605 (county grid: Greater Bridgeport County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Tip: Note recent wind events when filing insurance photos for Bridgeport, CT.
+
+roof work brief: chimney cricket slope and shingle exposure calibration were cross-checked for the Bridgeport intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 06604/06606/06608.
+
+ZIP-corridor snapshot for Bridgeport, CT: sampled sectors include 06606, 06604, 06601, 06602, 06608, 06605, 06610, 06607; county routing grid remains Greater Bridgeport County.
+
+On-site sector marker: Greater Bridgeport County / ZIP 06601 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06605-000486b2

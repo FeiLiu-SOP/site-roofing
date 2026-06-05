@@ -11,24 +11,29 @@ lng: -87.9800
 zipSample: ["53092", "53097"]
 zipCodes: ["53092", "53097"]
 localPaths: ["Ozaukee County / elevation 666 ft band", "Ozaukee County / ZIP 53097 sector", "Ozaukee County / primary ZIP 53097", "Ozaukee County / ZIP 53092 sector", "Ozaukee County / coords 43.2400, -87.9800"]
-zillowHomeValueUsd: 673220
 ---
 
 **Engineering Notice for Mequon:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Ozaukee County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Mequon, WI exposure class can change starter-strip and cap nail schedules.
 
-Tip: avoid large upfront payments without milestones.
+Hail bruising on Mequon, WI ridges may not breach felt until the next wind event.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Tile underlayment age in Mequon, WI can fail independently of visible tile cracks.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 53092/53097.
+FAQ: How long can shingles wait after storm damage? In Mequon, WI, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 53092, 53097 (county grid: Ozaukee County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Field routing: pipe boot manufacturer match paired with starter-strip setback near ZIP 53097.
+
+ZIP-corridor snapshot for Mequon, WI: sampled sectors include 53092, 53097; county routing grid remains Ozaukee County.
+
+On-site sector marker: Ozaukee County / ZIP 53092 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53097-1108fca2

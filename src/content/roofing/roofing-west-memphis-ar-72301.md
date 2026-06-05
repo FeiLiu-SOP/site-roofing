@@ -11,24 +11,31 @@ lng: -90.2000
 zipSample: ["72301", "72364", "72303"]
 zipCodes: ["72301", "72303", "72364"]
 localPaths: ["Crittenden County / elevation 217 ft band", "Crittenden County / ZIP 72303 sector", "Crittenden County / ZIP 72301 sector", "Crittenden County / coords 35.1500, -90.2000", "Crittenden County / primary ZIP 72301"]
-zillowHomeValueUsd: 132125
 ---
 
 **Engineering Notice for West Memphis:** Structural loading calculated based on 217 ft terrain assessment. Regional dispatch grid: Crittenden County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-In West Memphis, AR, seasonal demand can change scheduling windows.
+TPO seam welds in West Memphis, AR commercial sections need probe tests after freeze events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: When should permanent service start? In West Memphis, AR, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 72303/72364/72301 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 72303, 72364, 72301 (county grid: Crittenden County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: deck sheathing thickness plus synthetic underlayment slip referenced in Crittenden County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 72303/72364/72301.
+
+On-site sector marker: Crittenden County / ZIP 72301 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Crittenden County / primary ZIP 72301 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72301-891debda

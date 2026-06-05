@@ -11,24 +11,33 @@ lng: -89.9700
 zipSample: ["70032", "70044", "70043"]
 zipCodes: ["70032", "70044", "70043"]
 localPaths: ["St. Bernard Parish / ZIP 70032 sector", "St. Bernard Parish / elevation 20 ft band", "St. Bernard Parish / ZIP 70043 sector", "St. Bernard Parish / primary ZIP 70043", "St. Bernard Parish / coords 29.9400, -89.9700"]
-zillowHomeValueUsd: 207612
 ---
 
 **Engineering Notice for Chalmette:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: St. Bernard Parish.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-In Chalmette, LA, urgent roofing service issues can escalate quickly.
+Wood shake courses in Chalmette, LA require skip-spacing rules at valleys.
 
-We coordinate local dispatch coverage around Chalmette, LA and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Schedule a roof inspection with written scope before permanent remediation. Serving ZIP Code: 70043.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Chalmette, LA, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Wind exposure category reviewed for ZIP sector 70044/70032/70043.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 70044, 70032, 70043 (county grid: St. Bernard Parish).
+We coordinate Chalmette, LA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: attic baffle spacing plus starter-strip setback referenced in St. Bernard Parish county grid review.
+
+Coordinate-anchored dispatch note: center reference 29.9400, -89.9700 at elevation ~20 ft aligns with St. Bernard Parish intake staging.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~20 ft across the St. Bernard Parish area. Coordinates: 29.9400, -89.9700. ZIP sample: 70044, 70032, 70043. Regional routing note: St. Bernard Parish traffic flow is balanced around ZIP 70043 service demand.
 
 Service reference: LA-70043-feb5c836

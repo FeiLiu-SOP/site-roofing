@@ -11,25 +11,35 @@ lng: -90.3900
 zipSample: ["63042", "63031", "63044"]
 zipCodes: ["63031", "63042", "63044"]
 localPaths: ["St. Louis County / primary ZIP 63042", "St. Louis County / ZIP 63042 sector", "St. Louis County / elevation 479 ft band", "St. Louis County / coords 38.7900, -90.3900", "St. Louis County / ZIP 63044 sector"]
-zillowHomeValueUsd: 164336
 ---
 
 **Engineering Notice for Hazelwood:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 63042.
+Wood shake courses in Hazelwood, MO require skip-spacing rules at valleys.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hazelwood, MO, but intake notes help reduce delays.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: avoid large upfront payments without milestones.
+Wind-zone note: Hazelwood, MO exposure class can change starter-strip and cap nail schedules.
 
-Our service coordination centers on Hazelwood, MO coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 63031/63042/63044 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 63031, 63042, 63044 (county grid: St. Louis County).
+Step: separate emergency tarp scope from permanent service line items.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: counter-flashing reglet depth paired with wind uplift clip spacing near ZIP 63042.
+
+Field note: Attic moisture pathway scan referenced ZIP 63042/63044/63031.
+
+Coordinate-anchored dispatch note: center reference 38.7900, -90.3900 at elevation ~479 ft aligns with St. Louis County intake staging.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~479 ft across the St. Louis County area. Coordinates: 38.7900, -90.3900. ZIP sample: 63044, 63031, 63042. Logistics priority: Serving residential sectors across St. Louis County and north-east ZIP 63042 grid.
 
 Service reference: MO-63042-fe849e30

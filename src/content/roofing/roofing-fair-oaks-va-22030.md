@@ -11,27 +11,29 @@ lng: -77.3600
 zipSample: ["22035", "22030", "22033"]
 zipCodes: ["22035", "22030", "22033"]
 localPaths: ["Fairfax County / ZIP 22033 sector", "Fairfax County / primary ZIP 22030", "Fairfax County / elevation 420 ft band", "Fairfax County / coords 38.8700, -77.3600", "Fairfax County / ZIP 22035 sector"]
-zillowHomeValueUsd: 819611
 ---
 
 **Engineering Notice for Fair Oaks:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: compare shingle manufacturer wind-zone ratings for Fair Oaks, VA exposure class.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 22030.
+Low-slope sections in Fair Oaks, VA need positive drainage before membrane repairs are scoped.
 
-Tip: request a written scope before work starts.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 22030.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Our Fair Oaks, VA dispatch packets reference county grid Fairfax County and elevation band 420 ft.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fair Oaks, VA, but intake notes help reduce delays.
+FAQ: Is partial dry-in possible? In Fair Oaks, VA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 22033/22030/22035 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 22033/22030/22035.
+Code context: Ventilation ratios for Fair Oaks, VA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 22033, 22030, 22035 (county grid: Fairfax County).
+Field routing: ice-barrier lap sequence paired with chimney cricket slope near ZIP 22030.
+
+Coordinate-anchored dispatch note: center reference 38.8700, -77.3600 at elevation ~420 ft aligns with Fairfax County intake staging.
+
+Primary postal anchor 22030 with multi-ZIP overlap in Fair Oaks; field packets tag Fairfax County for county-grid reconciliation.
 
 Service reference: VA-22030-b81c8fc1

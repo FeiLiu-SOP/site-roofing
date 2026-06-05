@@ -11,27 +11,33 @@ lng: -77.8000
 zipSample: ["27803", "27801", "27804"]
 zipCodes: ["27804", "27801", "27803"]
 localPaths: ["Nash County / primary ZIP 27803", "Nash County / ZIP 27804 sector", "Nash County / coords 35.9700, -77.8000", "Nash County / ZIP 27803 sector", "Nash County / ZIP 27801 sector"]
-zillowHomeValueUsd: 206738
 ---
 
 **Engineering Notice for Rocky Mount:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Nash County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 27803.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-We coordinate local dispatch coverage around Rocky Mount, NC and nearby ZIP sectors.
+Granule embedment loss on Rocky Mount, NC north slopes can precede mat exposure.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Rocky Mount, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rocky Mount, NC, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-In Rocky Mount, NC, urgent roof work issues can escalate quickly.
+Wind-zone note: Rocky Mount, NC exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 27801/27803/27804 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 27801/27803/27804.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 27801, 27803, 27804 (county grid: Nash County).
+Our Rocky Mount, NC dispatch packets reference county grid Nash County and elevation band 102 ft.
+
+Field routing: valley metal gauge paired with starter-strip setback near ZIP 27803.
+
+Field note: Valley debris and granule loss noted for ZIP 27803/27801/27804.
+
+On-site sector marker: Nash County / ZIP 27803 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Nash County / coords 35.9700, -77.8000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27803-da06b8d4

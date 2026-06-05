@@ -11,24 +11,31 @@ lng: -87.9500
 zipSample: ["54311"]
 zipCodes: ["54311"]
 localPaths: ["Brown County / ZIP 54311 sector", "Brown County / coords 44.4600, -87.9500", "Brown County / elevation 682 ft band", "Brown County / primary ZIP 54311"]
-zillowHomeValueUsd: 386520
 ---
 
 **Engineering Notice for Bellevue:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Brown County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: In Bellevue, WI, algae-resistant granules may be specified for north-facing slopes.
 
-We coordinate local dispatch coverage around Bellevue, WI and nearby ZIP sectors.
+Tile and shingle mixes in Bellevue, WI require different fastener patterns at transitions.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Wind exposure category reviewed for ZIP sector 54311.
+FAQ: How long can shingles wait after storm damage? In Bellevue, WI, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 54311 (county grid: Brown County).
+Code context: Ventilation ratios for Bellevue, WI attics should be checked against current mechanical exhaust additions.
+
+Our Bellevue, WI dispatch packets reference county grid Brown County and elevation band 682 ft.
+
+Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in Brown County county grid review.
+
+Coordinate-anchored dispatch note: center reference 44.4600, -87.9500 at elevation ~682 ft aligns with Brown County intake staging.
+
+Regional mesh label Brown County: moisture and logistics baselines are keyed to Bellevue, WI before niche-specific work begins.
 
 Service reference: WI-54311-5a34fe7e

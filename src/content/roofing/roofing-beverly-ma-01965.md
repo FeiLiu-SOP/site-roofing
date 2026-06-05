@@ -11,26 +11,31 @@ lng: -70.8600
 zipSample: ["01965", "01915"]
 zipCodes: ["01965", "01915"]
 localPaths: ["Essex County / primary ZIP 01965", "Essex County / ZIP 01965 sector", "Essex County / elevation 95 ft band", "Essex County / ZIP 01915 sector", "Essex County / coords 42.5700, -70.8600"]
-zillowHomeValueUsd: 755832
 ---
 
 **Engineering Notice for Beverly:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Essex County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-In Beverly, MA, urgent roof work issues can escalate quickly.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: address recurring issues early to prevent bigger damage.
+In Beverly, MA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is partial dry-in possible? In Beverly, MA, yes—if slope and anchor points support safe tie-offs.
 
-We coordinate local dispatch coverage around Beverly, MA and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Beverly, MA can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 01915/01965 zone).
+We coordinate Beverly, MA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Access points and staging constraints recorded for ZIP 01915/01965 coverage.
+Code context: Ventilation ratios for Beverly, MA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 01915, 01965 (county grid: Essex County).
+roof work brief: chimney cricket slope and deck sheathing thickness were cross-checked for the Beverly intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 01965/01915.
+
+On-site sector marker: Essex County / elevation 95 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Essex County / ZIP 01915 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-01965-cd6fd476

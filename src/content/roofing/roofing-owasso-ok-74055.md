@@ -11,24 +11,33 @@ lng: -95.8300
 zipSample: ["74055"]
 zipCodes: ["74055"]
 localPaths: ["Tulsa County / ZIP 74055 sector", "Tulsa County / coords 36.2900, -95.8300", "Tulsa County / elevation 712 ft band", "Tulsa County / primary ZIP 74055"]
-zillowHomeValueUsd: 315521
 ---
 
 **Engineering Notice for Owasso:** Structural loading calculated based on 712 ft terrain assessment. Regional dispatch grid: Tulsa County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Owasso, OK, but intake notes help reduce delays.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our service coordination centers on Owasso, OK coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Owasso, OK, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tile and shingle mixes in Owasso, OK require different fastener patterns at transitions.
 
-Field note: Wind exposure category reviewed for ZIP sector 74055.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 74055 (county grid: Tulsa County).
+Wind-zone note: Owasso, OK exposure class can change starter-strip and cap nail schedules.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Risk flag: In Owasso, OK, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Tulsa County county grid review.
+
+Primary postal anchor 74055 with multi-ZIP overlap in Owasso; field packets tag Tulsa County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 36.2900, -95.8300 at elevation ~712 ft aligns with Tulsa County intake staging.
 
 Service reference: OK-74055-b1fcb9e8

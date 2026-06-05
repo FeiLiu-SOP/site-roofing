@@ -11,26 +11,35 @@ lng: -80.1400
 zipSample: ["33119", "33139", "33140", "33239", "33109"]
 zipCodes: ["33109", "33141", "33239", "33140", "33139", "33119"]
 localPaths: ["Miami-Dade County / ZIP 33239 sector", "Miami-Dade County / coords 25.8200, -80.1400", "Miami-Dade County / ZIP 33140 sector", "Miami-Dade County / ZIP 33109 sector", "Miami-Dade County / elevation 10 ft band"]
-zillowHomeValueUsd: 674405
 ---
 
 **Engineering Notice for Miami Beach:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Local conditions in Miami Beach, FL can affect timelines and material choices.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: confirm licensing and insurance before approving work.
+Wood shake courses in Miami Beach, FL require skip-spacing rules at valleys.
 
-We coordinate local dispatch coverage around Miami Beach, FL and nearby ZIP sectors.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Access points and staging constraints recorded for ZIP 33139/33119/33141 coverage.
+Regulatory note: Miami Beach, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 33139/33119/33141 intake.
+Material note: In Miami Beach, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 33139, 33119, 33141, 33239, 33109 (county grid: Miami-Dade County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Risk flag: In Miami Beach, FL, interior stains may track from HVAC condensate rather than roof cladding.
+
+roof work brief: pipe boot manufacturer match and attic baffle spacing were cross-checked for the Miami Beach intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 33140/33109/33141.
+
+Primary postal anchor 33140 with multi-ZIP overlap in Miami Beach; field packets tag Miami-Dade County for county-grid reconciliation.
+
+On-site sector marker: Miami-Dade County / ZIP 33141 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33140-7a3750f0

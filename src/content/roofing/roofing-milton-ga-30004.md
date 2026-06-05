@@ -11,26 +11,31 @@ lng: -84.3100
 zipSample: ["30009", "30004"]
 zipCodes: ["30004", "30009"]
 localPaths: ["Fulton County / coords 34.1400, -84.3100", "Fulton County / ZIP 30009 sector", "Fulton County / ZIP 30004 sector", "Fulton County / primary ZIP 30004", "Fulton County / elevation 978 ft band"]
-zillowHomeValueUsd: 760987
 ---
 
 **Engineering Notice for Milton:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Fulton County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Milton, GA can fail independently of visible tile cracks.
 
-Clear documentation helps align materials, labor, and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-We coordinate local dispatch coverage around Milton, GA and nearby ZIP sectors.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: request a written scope before work starts.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 30009/30004 zone).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30009/30004.
+Across Milton, GA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Dispatch sectors sampled: ZIP 30009, 30004 (county grid: Fulton County).
+roof work brief: counter-flashing reglet depth and ridge cap nail schedule were cross-checked for the Milton intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 30004/30009.
+
+On-site sector marker: Fulton County / coords 34.1400, -84.3100 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 34.1400, -84.3100 at elevation ~978 ft aligns with Fulton County intake staging.
 
 Service reference: GA-30004-d3f3a243

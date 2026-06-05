@@ -11,24 +11,29 @@ lng: -122.0200
 zipSample: ["94587", "94552"]
 zipCodes: ["94587", "94552"]
 localPaths: ["Alameda County / primary ZIP 94552", "Alameda County / elevation 92 ft band", "Alameda County / ZIP 94587 sector", "Alameda County / ZIP 94552 sector", "Alameda County / coords 37.6000, -122.0200"]
-zillowHomeValueUsd: 1409433
 ---
 
 **Engineering Notice for Union City:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Alameda County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Code context: Ventilation ratios for Union City, CA attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hail bruising on Union City, CA ridges may not breach felt until the next wind event.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: request a written scope before work starts.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Wind exposure category reviewed for ZIP sector 94552/94587.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 94552, 94587 (county grid: Alameda County).
+FAQ: Can you tarp only part of the roof? In Union City, CA, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: ridge cap nail schedule paired with pipe boot manufacturer match near ZIP 94552.
+
+On-site sector marker: Alameda County / ZIP 94587 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Alameda County. Reference elevation: 92 ft. Primary coordinates: 37.6000, -122.0200. ZIP sample: 94587, 94552. Regional routing note: Alameda County traffic flow is balanced around ZIP 94552 service demand.
 
 Service reference: CA-94552-b8bce589

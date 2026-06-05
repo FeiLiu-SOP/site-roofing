@@ -11,26 +11,29 @@ lng: -86.5200
 zipSample: ["46041"]
 zipCodes: ["46041"]
 localPaths: ["Clinton County / ZIP 46041 sector", "Clinton County / primary ZIP 46041", "Clinton County / elevation 866 ft band", "Clinton County / coords 40.2800, -86.5200"]
-zillowHomeValueUsd: 209996
 ---
 
 **Engineering Notice for Frankfort:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Clinton County.
 
 
-Tip: request a written scope before work starts.
+We coordinate Frankfort, IN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our service coordination centers on Frankfort, IN coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for Frankfort, IN.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In Frankfort, IN, yes—if slope and anchor points support safe tie-offs.
 
-Homeowners in Frankfort, IN often face sudden roof service problems that require fast action.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Connection points spot-checked where accessible (ZIP 46041 zone).
+Regulatory note: Frankfort, IN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 46041.
+Parapet coping movement in Frankfort, IN can channel water behind wall cladding.
 
-Dispatch sectors sampled: ZIP 46041 (county grid: Clinton County).
+Field routing: wind uplift clip spacing paired with counter-flashing reglet depth near ZIP 46041.
+
+ZIP-corridor snapshot for Frankfort, IN: sampled sectors include 46041; county routing grid remains Clinton County.
+
+Primary postal anchor 46041 with multi-ZIP overlap in Frankfort; field packets tag Clinton County for county-grid reconciliation.
 
 Service reference: IN-46041-031080d4

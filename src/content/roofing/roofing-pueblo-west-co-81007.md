@@ -11,24 +11,35 @@ lng: -104.7200
 zipSample: ["81007"]
 zipCodes: ["81007"]
 localPaths: ["Pueblo County / elevation 5059 ft band", "Pueblo County / coords 38.3500, -104.7200", "Pueblo County / primary ZIP 81007", "Pueblo County / ZIP 81007 sector"]
-zillowHomeValueUsd: 394651
 ---
 
 **Engineering Notice for Pueblo West:** Structural loading calculated based on 5059 ft terrain assessment. Regional dispatch grid: Pueblo County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: stage tear-off debris paths away from landscape drains.
 
-In Pueblo West, CO, urgent roofing service issues can escalate quickly.
+Valley metal in Pueblo West, CO should be reviewed whenever granule loss tracks the water line.
 
-Local conditions in Pueblo West, CO can affect timelines and material choices.
+Risk flag: In Pueblo West, CO, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: avoid large upfront payments without milestones.
+Wood shake courses in Pueblo West, CO require skip-spacing rules at valleys.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Moisture pathway inspection logged near ZIP 81007 intake.
+Wind-zone note: Pueblo West, CO exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 81007 (county grid: Pueblo County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Tip: Note recent wind events when filing insurance photos for Pueblo West, CO.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Scope trace: deck sheathing thickness plus ice-barrier lap sequence referenced in Pueblo County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 81007.
+
+On-site sector marker: Pueblo County / elevation 5059 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~5059 ft across the Pueblo County area. Coordinates: 38.3500, -104.7200. ZIP sample: 81007. Service perimeter note: Coverage extends through Pueblo County with dispatch centered near ZIP 81007.
 
 Service reference: CO-81007-5ea09dc4

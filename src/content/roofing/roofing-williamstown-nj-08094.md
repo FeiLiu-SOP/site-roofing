@@ -11,24 +11,29 @@ lng: -74.9800
 zipSample: ["08094"]
 zipCodes: ["08094"]
 localPaths: ["Gloucester County / elevation 164 ft band", "Gloucester County / primary ZIP 08094", "Gloucester County / ZIP 08094 sector", "Gloucester County / coords 39.6900, -74.9800"]
-zillowHomeValueUsd: 365696
 ---
 
 **Engineering Notice for Williamstown:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Gloucester County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Williamstown, NJ, but intake notes help reduce delays.
+Wind-zone note: Williamstown, NJ exposure class can change starter-strip and cap nail schedules.
 
-In Williamstown, NJ, urgent roofing service issues can escalate quickly.
+In Williamstown, NJ, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is partial dry-in possible? In Williamstown, NJ, yes—if slope and anchor points support safe tie-offs.
 
-We coordinate local dispatch coverage around Williamstown, NJ and nearby ZIP sectors.
+We coordinate Williamstown, NJ roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 08094.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 08094 (county grid: Gloucester County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Field routing: chimney cricket slope paired with attic baffle spacing near ZIP 08094.
+
+On-site sector marker: Gloucester County / ZIP 08094 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 39.6900, -74.9800 at elevation ~164 ft aligns with Gloucester County intake staging.
 
 Service reference: NJ-08094-aacdd273

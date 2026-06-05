@@ -11,24 +11,35 @@ lng: -72.8700
 zipSample: ["11967"]
 zipCodes: ["11967"]
 localPaths: ["Suffolk County / ZIP 11967 sector", "Suffolk County / primary ZIP 11967", "Suffolk County / coords 40.7900, -72.8700", "Suffolk County / elevation 59 ft band"]
-zillowHomeValueUsd: 531111
 ---
 
 **Engineering Notice for Shirley:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should permanent remediation start? In Shirley, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: request a written scope before work starts.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Shirley, NY, but intake notes help reduce delays.
+Hail bruising on Shirley, NY ridges may not breach felt until the next wind event.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11967.
+Risk flag: In Shirley, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 11967 (county grid: Suffolk County).
+Tip: Note recent wind events when filing insurance photos for Shirley, NY.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+roofing service brief: chimney cricket slope and deck sheathing thickness were cross-checked for the Shirley intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 11967.
+
+Primary postal anchor 11967 with multi-ZIP overlap in Shirley; field packets tag Suffolk County for county-grid reconciliation.
+
+On-site sector marker: Suffolk County / coords 40.7900, -72.8700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11967-8d84e523

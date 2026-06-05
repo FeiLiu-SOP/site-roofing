@@ -11,24 +11,35 @@ lng: -116.2300
 zipSample: ["83704", "83712", "83717", "83701", "83722"]
 zipCodes: ["83715", "83709", "83720", "83756", "83717", "83716", "83724", "83705", "83712", "83701", "83704", "83799"]
 localPaths: ["Ada County / ZIP 83712 sector", "Ada County / ZIP 83704 sector", "Ada County / primary ZIP 83703", "Ada County / ZIP 83701 sector", "Ada County / ZIP 83722 sector"]
-zillowHomeValueUsd: 530666
 ---
 
 **Engineering Notice for Boise:** Structural loading calculated based on 2756 ft terrain assessment. Regional dispatch grid: Ada County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Structured milestones protect both sides when scheduling work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Note recent wind events when filing insurance photos for Boise, ID.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 83728/83712/83706.
+Regulatory note: Boise, ID projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 83728, 83712, 83706, 83701, 83722 (county grid: Ada County).
+We coordinate Boise, ID roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+FAQ: Can you tarp only part of the roof? In Boise, ID, yes—if slope and anchor points support safe tie-offs.
+
+Low-slope sections in Boise, ID need positive drainage before membrane repairs are scoped.
+
+roofing service brief: shingle exposure calibration and ice-barrier lap sequence were cross-checked for the Boise intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 83708/83715/83704.
+
+Primary postal anchor 83703 with multi-ZIP overlap in Boise; field packets tag Ada County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Boise, ID: sampled sectors include 83722, 83716, 83701, 83717, 83728, 83725, 83703, 83708; county routing grid remains Ada County.
 
 Service reference: ID-83703-dc37c40c

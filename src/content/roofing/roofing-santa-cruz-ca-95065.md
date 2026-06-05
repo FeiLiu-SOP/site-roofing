@@ -11,24 +11,35 @@ lng: -122.0300
 zipSample: ["95065", "95061", "95063", "95067", "95064"]
 zipCodes: ["95060", "95067", "95063", "95062", "95064", "95065", "95061"]
 localPaths: ["Santa Cruz County / elevation 226 ft band", "Santa Cruz County / ZIP 95061 sector", "Santa Cruz County / ZIP 95063 sector", "Santa Cruz County / coords 36.9800, -122.0300", "Santa Cruz County / ZIP 95067 sector"]
-zillowHomeValueUsd: 1351087
 ---
 
 **Engineering Notice for Santa Cruz:** Structural loading calculated based on 226 ft terrain assessment. Regional dispatch grid: Santa Cruz County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Confirm ventilation balance during the same appointment. Serving ZIP Code: 95065.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Santa Cruz, CA, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Clear documentation helps align materials, labor, and timeline.
+Code context: Ventilation ratios for Santa Cruz, CA attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 95060/95064/95063 intake.
+Skylight curb flashing in Santa Cruz, CA should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 95060, 95064, 95063, 95061, 95062 (county grid: Santa Cruz County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Field routing: pipe boot manufacturer match paired with attic baffle spacing near ZIP 95065.
+
+Field note: Valley debris and granule loss noted for ZIP 95060/95063/95067.
+
+Primary postal anchor 95065 with multi-ZIP overlap in Santa Cruz; field packets tag Santa Cruz County for county-grid reconciliation.
+
+On-site sector marker: Santa Cruz County / ZIP 95064 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95065-45481f53

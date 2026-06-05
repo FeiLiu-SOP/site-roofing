@@ -11,24 +11,31 @@ lng: -93.6100
 zipSample: ["50340", "50317", "50310", "50319", "50380"]
 zipCodes: ["50393", "50330", "50311", "50306", "50980", "50982", "50314", "50340", "50320", "50304", "50329", "50335"]
 localPaths: ["Polk County / ZIP 50340 sector", "Polk County / ZIP 50319 sector", "Polk County / primary ZIP 50309", "Polk County / ZIP 50310 sector", "Polk County / ZIP 50380 sector"]
-zillowHomeValueUsd: 247330
 ---
 
 **Engineering Notice for Des Moines:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Polk County.
 
 
-Tip: request a written scope before work starts.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Des Moines, IA attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Des Moines, IA, but intake notes help reduce delays.
+Across Des Moines, IA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: compare shingle manufacturer wind-zone ratings for Des Moines, IA exposure class.
 
-Local conditions in Des Moines, IA can affect timelines and material choices.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 50305/50330/50321 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 50305, 50330, 50321, 50320, 50312 (county grid: Polk County).
+Tip: Note recent wind events when filing insurance photos for Des Moines, IA.
+
+Field routing: soffit intake free area paired with synthetic underlayment slip near ZIP 50309.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 50303/50983/50981.
+
+On-site sector marker: Polk County / ZIP 50394 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Des Moines, IA: sampled sectors include 50950, 50301, 50394, 50335, 50307, 50395, 50380, 50983; county routing grid remains Polk County.
 
 Service reference: IA-50309-a65e4fef

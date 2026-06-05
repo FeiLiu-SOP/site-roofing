@@ -11,26 +11,35 @@ lng: -93.3600
 zipSample: ["55428", "55427", "55429", "55422"]
 zipCodes: ["55429", "55428", "55427", "55422"]
 localPaths: ["Hennepin County / ZIP 55422 sector", "Hennepin County / ZIP 55429 sector", "Hennepin County / elevation 892 ft band", "Hennepin County / coords 45.0400, -93.3600", "Hennepin County / ZIP 55428 sector"]
-zillowHomeValueUsd: 339109
 ---
 
 **Engineering Notice for Crystal:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Hennepin County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Skylight curb flashing in Crystal, MN should be sequenced before ridge cap replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Local conditions in Crystal, MN can affect timelines and material choices.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: avoid large upfront payments without milestones.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Moisture pathway inspection logged near ZIP 55428/55427/55429 intake.
+Regulatory note: Crystal, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 55428/55427/55429.
+Material note: In Crystal, MN, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 55428, 55427, 55429, 55422 (county grid: Hennepin County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roof work brief: valley metal gauge and drip-edge metal profile were cross-checked for the Crystal intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 55428/55429/55422.
+
+Primary postal anchor 55422 with multi-ZIP overlap in Crystal; field packets tag Hennepin County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 45.0400, -93.3600 at elevation ~892 ft aligns with Hennepin County intake staging.
 
 Service reference: MN-55422-1decb19d

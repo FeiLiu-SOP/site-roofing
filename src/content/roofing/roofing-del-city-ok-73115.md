@@ -11,26 +11,31 @@ lng: -97.4400
 zipSample: ["73115", "73117"]
 zipCodes: ["73115", "73117"]
 localPaths: ["Oklahoma County / coords 35.4500, -97.4400", "Oklahoma County / elevation 1227 ft band", "Oklahoma County / ZIP 73115 sector", "Oklahoma County / primary ZIP 73115", "Oklahoma County / ZIP 73117 sector"]
-zillowHomeValueUsd: 138422
 ---
 
 **Engineering Notice for Del City:** Structural loading calculated based on 1227 ft terrain assessment. Regional dispatch grid: Oklahoma County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+Granule embedment loss on Del City, OK north slopes can precede mat exposure.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Del City, OK projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our service coordination centers on Del City, OK coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Del City, OK, delayed dry-in can expand insulation and ceiling repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Access points and staging constraints recorded for ZIP 73117/73115 coverage.
+Risk flag: In Del City, OK, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 73117/73115.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 73117, 73115 (county grid: Oklahoma County).
+Field routing: ice-barrier lap sequence paired with chimney cricket slope near ZIP 73115.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 73117/73115.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Oklahoma County and primary ZIP 73115. Terrain reference: 1227 ft. Center point: 35.4500, -97.4400. ZIP sample: 73115, 73117. Regional routing note: Oklahoma County traffic flow is balanced around ZIP 73115 service demand.
+
+Coordinate-anchored dispatch note: center reference 35.4500, -97.4400 at elevation ~1227 ft aligns with Oklahoma County intake staging.
 
 Service reference: OK-73115-95a50f7c

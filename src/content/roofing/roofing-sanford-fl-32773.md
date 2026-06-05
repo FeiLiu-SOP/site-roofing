@@ -11,26 +11,29 @@ lng: -81.2800
 zipSample: ["32771", "32772", "32773"]
 zipCodes: ["32772", "32773", "32771"]
 localPaths: ["Seminole County / ZIP 32771 sector", "Seminole County / ZIP 32772 sector", "Seminole County / primary ZIP 32773", "Seminole County / coords 28.7900, -81.2800", "Seminole County / elevation 56 ft band"]
-zillowHomeValueUsd: 310795
 ---
 
 **Engineering Notice for Sanford:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Seminole County.
 
 
-Homeowners in Sanford, FL often face sudden roof service problems that require fast action.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: compare shingle manufacturer wind-zone ratings for Sanford, FL exposure class.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Our Sanford, FL dispatch packets reference county grid Seminole County and elevation band 56 ft.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Moisture pathway inspection logged near ZIP 32772/32771/32773 intake.
+Granule embedment loss on Sanford, FL north slopes can precede mat exposure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32772/32771/32773.
+FAQ: How long can shingles wait after storm damage? In Sanford, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 32772, 32771, 32773 (county grid: Seminole County).
+Scope trace: skylight curb height plus soffit intake free area referenced in Seminole County county grid review.
+
+Primary postal anchor 32773 with multi-ZIP overlap in Sanford; field packets tag Seminole County for county-grid reconciliation.
+
+Regional mesh label Seminole County: moisture and logistics baselines are keyed to Sanford, FL before niche-specific work begins.
 
 Service reference: FL-32773-1c516b73

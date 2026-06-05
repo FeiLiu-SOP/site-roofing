@@ -11,26 +11,31 @@ lng: -88.1100
 zipSample: ["60073"]
 zipCodes: ["60073"]
 localPaths: ["Lake County / coords 42.3400, -88.1100", "Lake County / ZIP 60073 sector", "Lake County / elevation 778 ft band", "Lake County / primary ZIP 60073"]
-zillowHomeValueUsd: 271325
 ---
 
 **Engineering Notice for Round Lake:** Structural loading calculated based on 778 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Round Lake, IL can fail independently of visible tile cracks.
 
-In Round Lake, IL, urgent roof work issues can escalate quickly.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Round Lake, IL coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Round Lake, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Connection points spot-checked where accessible (ZIP 60073 zone).
+We coordinate Round Lake, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Moisture pathway inspection logged near ZIP 60073 intake.
+Synthetic underlayment slip in Round Lake, IL is often tied to deck moisture, not wind alone.
 
-Dispatch sectors sampled: ZIP 60073 (county grid: Lake County).
+Field routing: soffit intake free area paired with ice-barrier lap sequence near ZIP 60073.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 60073.
+
+On-site sector marker: Lake County / coords 42.3400, -88.1100 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Round Lake, IL: sampled sectors include 60073; county routing grid remains Lake County.
 
 Service reference: IL-60073-614d1255

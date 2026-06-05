@@ -11,26 +11,31 @@ lng: -122.1200
 zipSample: ["94570", "94575", "94556"]
 zipCodes: ["94570", "94575", "94556"]
 localPaths: ["Contra Costa County / ZIP 94570 sector", "Contra Costa County / ZIP 94575 sector", "Contra Costa County / primary ZIP 94556", "Contra Costa County / elevation 594 ft band", "Contra Costa County / coords 37.8400, -122.1200"]
-zillowHomeValueUsd: 1665925
 ---
 
 **Engineering Notice for Moraga:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: In Moraga, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 94556.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 94556.
+Risk flag: In Moraga, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94575/94556/94570.
+Across Moraga, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Dispatch sectors sampled: ZIP 94575, 94556, 94570 (county grid: Contra Costa County).
+FAQ: When should permanent restoration start? In Moraga, CA, delayed dry-in can expand insulation and ceiling repairs.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Field routing: ridge cap nail schedule paired with soffit intake free area near ZIP 94556.
+
+On-site sector marker: Contra Costa County / ZIP 94575 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Contra Costa County / ZIP 94570 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94556-6eea5fa5

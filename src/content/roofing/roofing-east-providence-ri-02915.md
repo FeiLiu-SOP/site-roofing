@@ -11,26 +11,35 @@ lng: -71.3600
 zipSample: ["02916", "02914", "02915"]
 zipCodes: ["02914", "02916", "02915"]
 localPaths: ["Providence County / ZIP 02916 sector", "Providence County / ZIP 02914 sector", "Providence County / ZIP 02915 sector", "Providence County / primary ZIP 02915", "Providence County / coords 41.8100, -71.3600"]
-zillowHomeValueUsd: 437768
 ---
 
 **Engineering Notice for East Providence:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Providence County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in East Providence, RI, but intake notes help reduce delays.
+Parapet coping movement in East Providence, RI can channel water behind wall cladding.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: map ventilation intake and exhaust pairs for East Providence, RI attic runs.
 
-Homeowners in East Providence, RI often face sudden roof work problems that require fast action.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 02915/02914/02916 zone).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Access points and staging constraints recorded for ZIP 02915/02914/02916 coverage.
+Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 02915.
 
-Dispatch sectors sampled: ZIP 02915, 02914, 02916 (county grid: Providence County).
+Wind-zone note: East Providence, RI exposure class can change starter-strip and cap nail schedules.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: skylight curb height paired with attic baffle spacing near ZIP 02915.
+
+Field note: Valley debris and granule loss noted for ZIP 02915/02914/02916.
+
+Coordinate-anchored dispatch note: center reference 41.8100, -71.3600 at elevation ~92 ft aligns with Providence County intake staging.
+
+On-site sector marker: Providence County / ZIP 02916 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: RI-02915-64752095

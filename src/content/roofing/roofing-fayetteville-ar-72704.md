@@ -11,27 +11,35 @@ lng: -94.1700
 zipSample: ["72703", "72701", "72702", "72704"]
 zipCodes: ["72703", "72701", "72704", "72702"]
 localPaths: ["Washington County / ZIP 72702 sector", "Washington County / ZIP 72701 sector", "Washington County / ZIP 72704 sector", "Washington County / primary ZIP 72704", "Washington County / ZIP 72703 sector"]
-zillowHomeValueUsd: 361931
 ---
 
 **Engineering Notice for Fayetteville:** Structural loading calculated based on 1398 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Structured milestones protect both sides when scheduling work.
+Our Fayetteville, AR dispatch packets reference county grid Washington County and elevation band 1398 ft.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: In Fayetteville, AR, algae-resistant granules may be specified for north-facing slopes.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 72704.
+Wood shake courses in Fayetteville, AR require skip-spacing rules at valleys.
 
-Field note: Access points and staging constraints recorded for ZIP 72703/72701/72704 coverage.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Wind exposure category reviewed for ZIP sector 72703/72701/72704.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 72703, 72701, 72704, 72702 (county grid: Washington County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Code context: Ventilation ratios for Fayetteville, AR attics should be checked against current mechanical exhaust additions.
+
+Scope trace: chimney cricket slope plus starter-strip setback referenced in Washington County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 72703/72701/72702.
+
+Coordinate-anchored dispatch note: center reference 36.0700, -94.1700 at elevation ~1398 ft aligns with Washington County intake staging.
+
+On-site sector marker: Washington County / ZIP 72704 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72704-b7b50be3

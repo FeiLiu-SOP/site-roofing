@@ -11,24 +11,31 @@ lng: -82.4100
 zipSample: ["34275", "34292", "34285"]
 zipCodes: ["34275", "34285", "34292"]
 localPaths: ["Sarasota County / ZIP 34292 sector", "Sarasota County / coords 27.1200, -82.4100", "Sarasota County / primary ZIP 34285", "Sarasota County / elevation 20 ft band", "Sarasota County / ZIP 34285 sector"]
-zillowHomeValueUsd: 373410
 ---
 
 **Engineering Notice for Venice:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Sarasota County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Low-slope sections in Venice, FL need positive drainage before membrane repairs are scoped.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Venice, FL coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Clear documentation helps align materials, labor, and timeline.
+We coordinate Venice, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 34292/34275/34285.
+FAQ: How long can shingles wait after storm damage? In Venice, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 34292, 34275, 34285 (county grid: Sarasota County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Wind-zone note: Venice, FL exposure class can change starter-strip and cap nail schedules.
+
+Field routing: ridge cap nail schedule paired with drip-edge metal profile near ZIP 34285.
+
+On-site sector marker: Sarasota County / primary ZIP 34285 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Sarasota County / ZIP 34285 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34285-7303e826

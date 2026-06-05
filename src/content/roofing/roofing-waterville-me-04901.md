@@ -11,24 +11,29 @@ lng: -69.6600
 zipSample: ["04901", "04903"]
 zipCodes: ["04901", "04903"]
 localPaths: ["Kennebec County / coords 44.5400, -69.6600", "Kennebec County / ZIP 04903 sector", "Kennebec County / ZIP 04901 sector", "Kennebec County / elevation 249 ft band", "Kennebec County / primary ZIP 04901"]
-zillowHomeValueUsd: 264546
 ---
 
 **Engineering Notice for Waterville:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Kennebec County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Waterville, ME, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 04901.
 
-Local conditions in Waterville, ME can affect timelines and material choices.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Waterville, ME, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: avoid large upfront payments without milestones.
+Synthetic underlayment slip in Waterville, ME is often tied to deck moisture, not wind alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 04901/04903.
+Code context: Ventilation ratios for Waterville, ME attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 04901, 04903 (county grid: Kennebec County).
+FAQ: Is partial dry-in possible? In Waterville, ME, yes—if slope and anchor points support safe tie-offs.
+
+roof service brief: soffit intake free area and skylight curb height were cross-checked for the Waterville intake packet.
+
+On-site sector marker: Kennebec County / coords 44.5400, -69.6600 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Kennebec County: moisture and logistics baselines are keyed to Waterville, ME before niche-specific work begins.
 
 Service reference: ME-04901-197e76ae

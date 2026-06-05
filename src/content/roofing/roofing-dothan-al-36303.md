@@ -11,25 +11,31 @@ lng: -85.4100
 zipSample: ["36305", "36321", "36303", "36304", "36301"]
 zipCodes: ["36304", "36305", "36301", "36303", "36302", "36321"]
 localPaths: ["Houston County / ZIP 36301 sector", "Houston County / ZIP 36321 sector", "Houston County / ZIP 36305 sector", "Houston County / ZIP 36303 sector", "Houston County / coords 31.2300, -85.4100"]
-zillowHomeValueUsd: 184641
 ---
 
 **Engineering Notice for Dothan:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Houston County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-In Dothan, AL, urgent roofing service issues can escalate quickly.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 36303.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: request a written scope before work starts.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic ventilation deficits in Dothan, AL can mimic roof leaks at ceiling penetrations.
 
-Field note: Wind exposure category reviewed for ZIP sector 36304/36301/36305.
+Wind-zone note: Dothan, AL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 36304, 36301, 36305, 36302, 36303 (county grid: Houston County).
+FAQ: When should permanent service start? In Dothan, AL, delayed dry-in can expand insulation and ceiling repairs.
+
+roofing service brief: ridge cap nail schedule and soffit intake free area were cross-checked for the Dothan intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 36303/36305/36302.
+
+On-site sector marker: Houston County / ZIP 36321 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 31.2300, -85.4100 at elevation ~361 ft aligns with Houston County intake staging.
 
 Service reference: AL-36303-79ef9533

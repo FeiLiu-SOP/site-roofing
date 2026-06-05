@@ -11,24 +11,29 @@ lng: -93.3600
 zipSample: ["55439", "55410", "55424", "55436", "55435"]
 zipCodes: ["55435", "55424", "55439", "55410", "55436"]
 localPaths: ["Hennepin County / ZIP 55435 sector", "Hennepin County / elevation 942 ft band", "Hennepin County / ZIP 55436 sector", "Hennepin County / coords 44.8900, -93.3600", "Hennepin County / ZIP 55424 sector"]
-zillowHomeValueUsd: 1012388
 ---
 
 **Engineering Notice for Edina:** Structural loading calculated based on 942 ft terrain assessment. Regional dispatch grid: Hennepin County.
 
 
-We coordinate local dispatch coverage around Edina, MN and nearby ZIP sectors.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Low-slope sections in Edina, MN need positive drainage before membrane repairs are scoped.
 
-Structured milestones protect both sides when scheduling work.
+Our Edina, MN dispatch packets reference county grid Hennepin County and elevation band 942 ft.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 55424.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In Edina, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 55410/55439/55436 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 55410, 55439, 55436, 55424, 55435 (county grid: Hennepin County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: chimney cricket slope paired with counter-flashing reglet depth near ZIP 55424.
+
+Regional mesh label Hennepin County: moisture and logistics baselines are keyed to Edina, MN before niche-specific work begins.
+
+On-site sector marker: Hennepin County / ZIP 55424 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55424-24a74873

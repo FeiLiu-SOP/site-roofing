@@ -11,27 +11,35 @@ lng: -77.2000
 zipSample: ["20872", "20882"]
 zipCodes: ["20872", "20882"]
 localPaths: ["Montgomery County / primary ZIP 20872", "Montgomery County / elevation 699 ft band", "Montgomery County / ZIP 20872 sector", "Montgomery County / coords 39.2700, -77.2000", "Montgomery County / ZIP 20882 sector"]
-zillowHomeValueUsd: 550643
 ---
 
 **Engineering Notice for Damascus:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Freeze-thaw cycles around Damascus, MD stress nail pops along eaves and rake edges.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Damascus, MD, algae-resistant granules may be specified for north-facing slopes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 20872.
+Risk flag: In Damascus, MD, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Damascus, MD coverage windows and verified intake details.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is partial dry-in possible? In Damascus, MD, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20872/20882.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Connection points spot-checked where accessible (ZIP 20872/20882 zone).
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 20872, 20882 (county grid: Montgomery County).
+Code context: Ventilation ratios for Damascus, MD attics should be checked against current mechanical exhaust additions.
+
+We coordinate Damascus, MD roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Field routing: ice-barrier lap sequence paired with starter-strip setback near ZIP 20872.
+
+Field note: Valley debris and granule loss noted for ZIP 20872/20882.
+
+On-site sector marker: Montgomery County / coords 39.2700, -77.2000 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Montgomery County: moisture and logistics baselines are keyed to Damascus, MD before niche-specific work begins.
 
 Service reference: MD-20872-4474c715

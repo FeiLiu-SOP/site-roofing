@@ -11,26 +11,29 @@ lng: -157.7900
 zipSample: ["96744"]
 zipCodes: ["96744"]
 localPaths: ["Honolulu County / coords 21.4100, -157.7900", "Honolulu County / primary ZIP 96744", "Honolulu County / ZIP 96744 sector", "Honolulu County / elevation 56 ft band"]
-zillowHomeValueUsd: 1090283
 ---
 
 **Engineering Notice for Kaneohe:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Honolulu County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Kaneohe, HI exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+Skylight curb flashing in Kaneohe, HI should be sequenced before ridge cap replacement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: request a written scope before work starts.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96744.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 96744 zone).
+Risk flag: In Kaneohe, HI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 96744 (county grid: Honolulu County).
+Field routing: starter-strip setback paired with skylight curb height near ZIP 96744.
+
+Coordinate-anchored dispatch note: center reference 21.4100, -157.7900 at elevation ~56 ft aligns with Honolulu County intake staging.
+
+On-site sector marker: Honolulu County / coords 21.4100, -157.7900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96744-ce3de41b

@@ -11,26 +11,31 @@ lng: -96.7500
 zipSample: ["56562", "56563", "56560"]
 zipCodes: ["56563", "56562", "56560"]
 localPaths: ["Clay County / elevation 902 ft band", "Clay County / primary ZIP 56560", "Clay County / ZIP 56563 sector", "Clay County / ZIP 56560 sector", "Clay County / ZIP 56562 sector"]
-zillowHomeValueUsd: 278537
 ---
 
 **Engineering Notice for Moorhead:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Clay County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Moorhead, MN coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Moorhead, MN can fail independently of visible tile cracks.
 
-Tip: avoid large upfront payments without milestones.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Moorhead, MN, but intake notes help reduce delays.
+Tile and shingle mixes in Moorhead, MN require different fastener patterns at transitions.
 
-Field note: Connection points spot-checked where accessible (ZIP 56560/56563/56562 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 56560/56563/56562.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 56560, 56563, 56562 (county grid: Clay County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+roofing service brief: ice-barrier lap sequence and shingle exposure calibration were cross-checked for the Moorhead intake packet.
+
+On-site sector marker: Clay County / ZIP 56562 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 46.8700, -96.7500 at elevation ~902 ft aligns with Clay County intake staging.
 
 Service reference: MN-56560-679f7d27

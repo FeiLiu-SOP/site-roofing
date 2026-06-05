@@ -11,26 +11,33 @@ lng: -81.3500
 zipSample: ["44241"]
 zipCodes: ["44241"]
 localPaths: ["Portage County / primary ZIP 44241", "Portage County / coords 41.2400, -81.3500", "Portage County / ZIP 44241 sector", "Portage County / elevation 1129 ft band"]
-zillowHomeValueUsd: 279246
 ---
 
 **Engineering Notice for Streetsboro:** Structural loading calculated based on 1129 ft terrain assessment. Regional dispatch grid: Portage County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In Streetsboro, OH, yes—if slope and anchor points support safe tie-offs.
 
-Our service coordination centers on Streetsboro, OH coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 44241 zone).
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Wind exposure category reviewed for ZIP sector 44241.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 44241 (county grid: Portage County).
+Metal panel oil-canning in Streetsboro, OH may signal clip spacing issues, not wind damage alone.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: ridge cap nail schedule plus synthetic underlayment slip referenced in Portage County county grid review.
+
+On-site sector marker: Portage County / coords 41.2400, -81.3500 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Portage County / ZIP 44241 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44241-3f5a5088

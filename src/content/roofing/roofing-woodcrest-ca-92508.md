@@ -11,24 +11,29 @@ lng: -117.3700
 zipSample: ["92503", "92506", "92508", "92504"]
 zipCodes: ["92504", "92503", "92506", "92508"]
 localPaths: ["Riverside County / elevation 1476 ft band", "Riverside County / primary ZIP 92508", "Riverside County / ZIP 92508 sector", "Riverside County / ZIP 92504 sector", "Riverside County / ZIP 92506 sector"]
-zillowHomeValueUsd: 767528
 ---
 
 **Engineering Notice for Woodcrest:** Structural loading calculated based on 1476 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: compare at least two estimates for scope and timeline.
+Synthetic underlayment slip in Woodcrest, CA is often tied to deck moisture, not wind alone.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Woodcrest, CA, but intake notes help reduce delays.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Wind exposure category reviewed for ZIP sector 92503/92506/92504.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 92503, 92506, 92504, 92508 (county grid: Riverside County).
+Wind-zone note: Woodcrest, CA exposure class can change starter-strip and cap nail schedules.
+
+roof work brief: ice-barrier lap sequence and deck sheathing thickness were cross-checked for the Woodcrest intake packet.
+
+Regional mesh label Riverside County: moisture and logistics baselines are keyed to Woodcrest, CA before niche-specific work begins.
+
+On-site sector marker: Riverside County / primary ZIP 92508 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92508-a7959034

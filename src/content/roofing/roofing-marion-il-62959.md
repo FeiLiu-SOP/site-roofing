@@ -11,26 +11,33 @@ lng: -88.9400
 zipSample: ["62959"]
 zipCodes: ["62959"]
 localPaths: ["Williamson County / ZIP 62959 sector", "Williamson County / primary ZIP 62959", "Williamson County / coords 37.7300, -88.9400", "Williamson County / elevation 443 ft band"]
-zillowHomeValueUsd: 172605
 ---
 
 **Engineering Notice for Marion:** Structural loading calculated based on 443 ft terrain assessment. Regional dispatch grid: Williamson County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: compare at least two estimates for scope and timeline.
+TPO seam welds in Marion, IL commercial sections need probe tests after freeze events.
 
-Our service coordination centers on Marion, IL coverage windows and verified intake details.
+FAQ: When should permanent remediation start? In Marion, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 62959 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 62959 coverage.
+Risk flag: In Marion, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 62959 (county grid: Williamson County).
+Regulatory note: Marion, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: shingle exposure calibration plus wind uplift clip spacing referenced in Williamson County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 62959.
+
+On-site sector marker: Williamson County / elevation 443 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Marion, IL: sampled sectors include 62959; county routing grid remains Williamson County.
 
 Service reference: IL-62959-653957df

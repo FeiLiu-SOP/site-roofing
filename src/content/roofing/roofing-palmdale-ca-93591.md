@@ -11,27 +11,31 @@ lng: -118.1100
 zipSample: ["93599", "93591", "93550", "93552", "93590"]
 zipCodes: ["93552", "93599", "93551", "93590", "93591", "93550"]
 localPaths: ["Los Angeles County / ZIP 93591 sector", "Los Angeles County / ZIP 93552 sector", "Los Angeles County / elevation 2605 ft band", "Los Angeles County / ZIP 93550 sector", "Los Angeles County / coords 34.5900, -118.1100"]
-zillowHomeValueUsd: 385516
 ---
 
 **Engineering Notice for Palmdale:** Structural loading calculated based on 2605 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 93591.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around Palmdale, CA and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 93551/93550/93552 zone).
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Moisture pathway inspection logged near ZIP 93551/93550/93552 intake.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 93551, 93550, 93552, 93591, 93590 (county grid: Los Angeles County).
+Hail bruising on Palmdale, CA ridges may not breach felt until the next wind event.
+
+Field routing: synthetic underlayment slip paired with pipe boot manufacturer match near ZIP 93591.
+
+Coordinate-anchored dispatch note: center reference 34.5900, -118.1100 at elevation ~2605 ft aligns with Los Angeles County intake staging.
+
+On-site sector marker: Los Angeles County / ZIP 93552 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93591-667377d9

@@ -11,26 +11,33 @@ lng: -74.4300
 zipSample: ["08904"]
 zipCodes: ["08904"]
 localPaths: ["Middlesex County / primary ZIP 08904", "Middlesex County / coords 40.5000, -74.4300", "Middlesex County / elevation 85 ft band", "Middlesex County / ZIP 08904 sector"]
-zillowHomeValueUsd: 584968
 ---
 
 **Engineering Notice for Highland Park:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Coastal humidity in Highland Park, NJ can slow shingle seal-down after shoulder-season storms.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Highland Park, NJ, but intake notes help reduce delays.
+Risk flag: In Highland Park, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-We coordinate local dispatch coverage around Highland Park, NJ and nearby ZIP sectors.
+We coordinate Highland Park, NJ roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Local conditions in Highland Park, NJ can affect timelines and material choices.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 08904 coverage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Wind exposure category reviewed for ZIP sector 08904.
+Material note: In Highland Park, NJ, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 08904 (county grid: Middlesex County).
+Wind-zone note: Highland Park, NJ exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Middlesex County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 08904.
+
+On-site sector marker: Middlesex County / coords 40.5000, -74.4300 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Highland Park, NJ: sampled sectors include 08904; county routing grid remains Middlesex County.
 
 Service reference: NJ-08904-8df9343b

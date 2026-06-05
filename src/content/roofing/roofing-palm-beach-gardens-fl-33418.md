@@ -11,26 +11,33 @@ lng: -80.1700
 zipSample: ["33403", "33412", "33418", "33410"]
 zipCodes: ["33418", "33410", "33403", "33412"]
 localPaths: ["Palm Beach County / primary ZIP 33418", "Palm Beach County / ZIP 33410 sector", "Palm Beach County / ZIP 33418 sector", "Palm Beach County / ZIP 33403 sector", "Palm Beach County / elevation 33 ft band"]
-zillowHomeValueUsd: 712861
 ---
 
 **Engineering Notice for Palm Beach Gardens:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Palm Beach County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Structured milestones protect both sides when scheduling work.
+Hail bruising on Palm Beach Gardens, FL ridges may not breach felt until the next wind event.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Palm Beach Gardens, FL, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Homeowners in Palm Beach Gardens, FL often face sudden roof work problems that require fast action.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 33412/33410/33418 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 33412/33410/33418 coverage.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 33412, 33410, 33418, 33403 (county grid: Palm Beach County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof work brief: wind uplift clip spacing and drip-edge metal profile were cross-checked for the Palm Beach Gardens intake packet.
+
+Primary postal anchor 33418 with multi-ZIP overlap in Palm Beach Gardens; field packets tag Palm Beach County for county-grid reconciliation.
+
+Regional mesh label Palm Beach County: moisture and logistics baselines are keyed to Palm Beach Gardens, FL before niche-specific work begins.
 
 Service reference: FL-33418-db2bdcf1

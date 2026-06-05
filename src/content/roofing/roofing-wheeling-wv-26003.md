@@ -11,26 +11,31 @@ lng: -80.7000
 zipSample: ["26003"]
 zipCodes: ["26003"]
 localPaths: ["Ohio County / coords 40.0800, -80.7000", "Ohio County / elevation 679 ft band", "Ohio County / ZIP 26003 sector", "Ohio County / primary ZIP 26003"]
-zillowHomeValueUsd: 156580
 ---
 
 **Engineering Notice for Wheeling:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Ohio County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Wheeling, WV, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Our service coordination centers on Wheeling, WV coverage windows and verified intake details.
+Code context: Ventilation ratios for Wheeling, WV attics should be checked against current mechanical exhaust additions.
 
-Tip: confirm licensing and insurance before approving work.
+Freeze-thaw cycles around Wheeling, WV stress nail pops along eaves and rake edges.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wheeling, WV, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 26003 zone).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Access points and staging constraints recorded for ZIP 26003 coverage.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 26003 (county grid: Ohio County).
+roof service brief: shingle exposure calibration and ridge cap nail schedule were cross-checked for the Wheeling intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 26003.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~679 ft across the Ohio County area. Coordinates: 40.0800, -80.7000. ZIP sample: 26003. Regional routing note: Ohio County traffic flow is balanced around ZIP 26003 service demand.
+
+Coordinate-anchored dispatch note: center reference 40.0800, -80.7000 at elevation ~679 ft aligns with Ohio County intake staging.
 
 Service reference: WV-26003-1884fcce

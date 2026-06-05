@@ -11,24 +11,31 @@ lng: -121.6400
 zipSample: ["95037"]
 zipCodes: ["95037"]
 localPaths: ["Santa Clara County / coords 37.1300, -121.6400", "Santa Clara County / primary ZIP 95037", "Santa Clara County / ZIP 95037 sector", "Santa Clara County / elevation 358 ft band"]
-zillowHomeValueUsd: 1356439
 ---
 
 **Engineering Notice for Morgan Hill:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: Santa Clara County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map ventilation intake and exhaust pairs for Morgan Hill, CA attic runs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Morgan Hill, CA, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Tile underlayment age in Morgan Hill, CA can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 95037 coverage.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 95037 (county grid: Santa Clara County).
+Wind-zone note: Morgan Hill, CA exposure class can change starter-strip and cap nail schedules.
+
+Skylight curb flashing in Morgan Hill, CA should be sequenced before ridge cap replacement.
+
+Field routing: ice-barrier lap sequence paired with wind uplift clip spacing near ZIP 95037.
+
+On-site sector marker: Santa Clara County / ZIP 95037 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~358 ft across the Santa Clara County area. Coordinates: 37.1300, -121.6400. ZIP sample: 95037. Regional routing note: Santa Clara County traffic flow is balanced around ZIP 95037 service demand.
 
 Service reference: CA-95037-bf1529a5

@@ -11,24 +11,31 @@ lng: -85.7800
 zipSample: ["46176"]
 zipCodes: ["46176"]
 localPaths: ["Shelby County / primary ZIP 46176", "Shelby County / coords 39.5400, -85.7800", "Shelby County / elevation 761 ft band", "Shelby County / ZIP 46176 sector"]
-zillowHomeValueUsd: 221675
 ---
 
 **Engineering Notice for Shelbyville:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Shelby County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Shelbyville, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
-In Shelbyville, IN, urgent roofing service issues can escalate quickly.
+Code context: Ventilation ratios for Shelbyville, IN attics should be checked against current mechanical exhaust additions.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: How long can shingles wait after storm damage? In Shelbyville, IN, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tile and shingle mixes in Shelbyville, IN require different fastener patterns at transitions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: compare shingle manufacturer wind-zone ratings for Shelbyville, IN exposure class.
 
-Field note: Connection points spot-checked where accessible (ZIP 46176 zone).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 46176 (county grid: Shelby County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 46176.
+
+Scope trace: deck sheathing thickness plus starter-strip setback referenced in Shelby County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 46176.
+
+Primary postal anchor 46176 with multi-ZIP overlap in Shelbyville; field packets tag Shelby County for county-grid reconciliation.
+
+On-site sector marker: Shelby County / coords 39.5400, -85.7800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46176-76ff96c6

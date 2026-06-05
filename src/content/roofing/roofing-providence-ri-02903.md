@@ -11,27 +11,33 @@ lng: -71.4200
 zipSample: ["02905", "02904", "02901", "02908", "02907"]
 zipCodes: ["02903", "02908", "02901", "02905", "02902", "02918", "02906", "02907", "02940", "02904", "02912", "02909"]
 localPaths: ["Providence County / ZIP 02904 sector", "Providence County / primary ZIP 02903", "Providence County / elevation 82 ft band", "Providence County / ZIP 02901 sector", "Providence County / ZIP 02907 sector"]
-zillowHomeValueUsd: 438246
 ---
 
 **Engineering Notice for Providence:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Providence County.
 
 
-We coordinate local dispatch coverage around Providence, RI and nearby ZIP sectors.
+FAQ: When should permanent remediation start? In Providence, RI, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Providence, RI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 02903.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Providence, RI, but intake notes help reduce delays.
+Low-slope sections in Providence, RI need positive drainage before membrane repairs are scoped.
 
-Field note: Access points and staging constraints recorded for ZIP 02908/02907/02906 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Moisture pathway inspection logged near ZIP 02908/02907/02906 intake.
+Step: compare shingle manufacturer wind-zone ratings for Providence, RI exposure class.
 
-Dispatch sectors sampled: ZIP 02908, 02907, 02906, 02901, 02903 (county grid: Providence County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+roof work brief: wind uplift clip spacing and ice-barrier lap sequence were cross-checked for the Providence intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 02903/02906/02904.
+
+Coordinate-anchored dispatch note: center reference 41.8200, -71.4200 at elevation ~82 ft aligns with Providence County intake staging.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Providence County and primary ZIP 02903. Terrain reference: 82 ft. Center point: 41.8200, -71.4200. ZIP sample: 02903, 02902, 02940, 02918, 02904. Logistics priority: Serving residential sectors across Providence County and north-east ZIP 02903 grid.
 
 Service reference: RI-02903-d03f599a

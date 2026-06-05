@@ -11,26 +11,33 @@ lng: -83.9800
 zipSample: ["37802", "37804", "37801", "37803"]
 zipCodes: ["37801", "37804", "37803", "37802"]
 localPaths: ["Blount County / coords 35.7500, -83.9800", "Blount County / ZIP 37801 sector", "Blount County / ZIP 37803 sector", "Blount County / ZIP 37804 sector", "Blount County / elevation 984 ft band"]
-zillowHomeValueUsd: 352351
 ---
 
 **Engineering Notice for Maryville:** Structural loading calculated based on 984 ft terrain assessment. Regional dispatch grid: Blount County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Maryville, TN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Maryville, TN, but intake notes help reduce delays.
+Code context: Ventilation ratios for Maryville, TN attics should be checked against current mechanical exhaust additions.
 
-Structured milestones protect both sides when scheduling work.
+Metal panel oil-canning in Maryville, TN may signal clip spacing issues, not wind damage alone.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Access points and staging constraints recorded for ZIP 37804/37802/37803 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 37804/37802/37803 intake.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 37804, 37802, 37803, 37801 (county grid: Blount County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Scope trace: ice-barrier lap sequence plus chimney cricket slope referenced in Blount County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 37804/37801/37803.
+
+On-site sector marker: Blount County / ZIP 37801 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Blount County / elevation 984 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37804-1511538e

@@ -11,26 +11,31 @@ lng: -82.8800
 zipSample: ["43216", "43213"]
 zipCodes: ["43213", "43216"]
 localPaths: ["Franklin County / primary ZIP 43213", "Franklin County / coords 39.9700, -82.8800", "Franklin County / elevation 797 ft band", "Franklin County / ZIP 43216 sector", "Franklin County / ZIP 43213 sector"]
-zillowHomeValueUsd: 213930
 ---
 
 **Engineering Notice for Whitehall:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: Franklin County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Whitehall, OH, but intake notes help reduce delays.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Clear documentation helps align materials, labor, and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How long can shingles wait after storm damage? In Whitehall, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 43213/43216.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Wind exposure category reviewed for ZIP sector 43213/43216.
+Coastal humidity in Whitehall, OH can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 43213, 43216 (county grid: Franklin County).
+roof service brief: ridge cap nail schedule and valley metal gauge were cross-checked for the Whitehall intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 43216/43213.
+
+On-site sector marker: Franklin County / ZIP 43216 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Franklin County / primary ZIP 43213 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43213-15d0b2cf

@@ -11,24 +11,33 @@ lng: -87.8800
 zipSample: ["60131"]
 zipCodes: ["60131"]
 localPaths: ["Cook County / coords 41.9400, -87.8800", "Cook County / primary ZIP 60131", "Cook County / elevation 653 ft band", "Cook County / ZIP 60131 sector"]
-zillowHomeValueUsd: 308636
 ---
 
 **Engineering Notice for Franklin Park:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Franklin Park, IL, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Franklin Park, IL attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+In Franklin Park, IL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60131.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 60131 (county grid: Cook County).
+FAQ: When should permanent restoration start? In Franklin Park, IL, delayed dry-in can expand insulation and ceiling repairs.
+
+Material note: In Franklin Park, IL, algae-resistant granules may be specified for north-facing slopes.
+
+roof work brief: pipe boot manufacturer match and chimney cricket slope were cross-checked for the Franklin Park intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 60131.
+
+On-site sector marker: Cook County / primary ZIP 60131 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 60131 with multi-ZIP overlap in Franklin Park; field packets tag Cook County for county-grid reconciliation.
 
 Service reference: IL-60131-620f8a88

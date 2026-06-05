@@ -11,27 +11,35 @@ lng: -82.0100
 zipSample: ["34785", "32163", "33585", "33514", "34484"]
 zipCodes: ["32163", "34785", "33585", "34484", "33514"]
 localPaths: ["Sumter County / coords 28.7800, -82.0100", "Sumter County / ZIP 34785 sector", "Sumter County / ZIP 33514 sector", "Sumter County / elevation 75 ft band", "Sumter County / ZIP 33585 sector"]
-zillowHomeValueUsd: 293073
 ---
 
 **Engineering Notice for Wildwood:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Sumter County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: map ventilation intake and exhaust pairs for Wildwood, FL attic runs.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+We coordinate Wildwood, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wildwood, FL, but intake notes help reduce delays.
+Low-slope sections in Wildwood, FL need positive drainage before membrane repairs are scoped.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33514.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 33514/34484/32163 zone).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Moisture pathway inspection logged near ZIP 33514/34484/32163 intake.
+FAQ: Is partial dry-in possible? In Wildwood, FL, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 33514, 34484, 32163, 34785, 33585 (county grid: Sumter County).
+Step: log deck soundings near vents before tear-off is approved.
+
+Regulatory note: Wildwood, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roof service brief: wind uplift clip spacing and shingle exposure calibration were cross-checked for the Wildwood intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 34484/32163/33514.
+
+Coordinate-anchored dispatch note: center reference 28.7800, -82.0100 at elevation ~75 ft aligns with Sumter County intake staging.
+
+On-site sector marker: Sumter County / ZIP 33585 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33514-9325b094

@@ -11,26 +11,33 @@ lng: -80.3800
 zipSample: ["33172", "33174", "33182", "33112"]
 zipCodes: ["33182", "33174", "33112", "33172"]
 localPaths: ["Miami-Dade County / ZIP 33172 sector", "Miami-Dade County / coords 25.7800, -80.3800", "Miami-Dade County / ZIP 33182 sector", "Miami-Dade County / primary ZIP 33172", "Miami-Dade County / elevation 33 ft band"]
-zillowHomeValueUsd: 300854
 ---
 
 **Engineering Notice for Sweetwater:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should permanent restoration start? In Sweetwater, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Sweetwater, FL, but intake notes help reduce delays.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: avoid large upfront payments without milestones.
+Regulatory note: Sweetwater, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Metal panel oil-canning in Sweetwater, FL may signal clip spacing issues, not wind damage alone.
 
-Field note: Access points and staging constraints recorded for ZIP 33112/33172/33182 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 33112/33172/33182 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 33112, 33172, 33182, 33174 (county grid: Miami-Dade County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+roof service brief: wind uplift clip spacing and drip-edge metal profile were cross-checked for the Sweetwater intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 33172/33112/33182.
+
+Primary postal anchor 33172 with multi-ZIP overlap in Sweetwater; field packets tag Miami-Dade County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 25.7800, -80.3800 at elevation ~33 ft aligns with Miami-Dade County intake staging.
 
 Service reference: FL-33172-e18528a8

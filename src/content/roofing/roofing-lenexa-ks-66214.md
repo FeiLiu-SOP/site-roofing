@@ -11,26 +11,35 @@ lng: -94.8000
 zipSample: ["66250", "66214", "66219", "66215", "66220"]
 zipCodes: ["66227", "66219", "66220", "66215", "66250", "66216", "66214"]
 localPaths: ["Johnson County / coords 38.9600, -94.8000", "Johnson County / ZIP 66215 sector", "Johnson County / ZIP 66219 sector", "Johnson County / ZIP 66214 sector", "Johnson County / ZIP 66250 sector"]
-zillowHomeValueUsd: 389020
 ---
 
 **Engineering Notice for Lenexa:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Johnson County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Wind-zone note: Lenexa, KS exposure class can change starter-strip and cap nail schedules.
 
-A written scope helps prevent rework and mismatched expectations.
+Coastal humidity in Lenexa, KS can slow shingle seal-down after shoulder-season storms.
 
-Field note: Moisture pathway inspection logged near ZIP 66216/66220/66219 intake.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Wind exposure category reviewed for ZIP sector 66216/66220/66219.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 66216, 66220, 66219, 66250, 66214 (county grid: Johnson County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+FAQ: When should permanent service start? In Lenexa, KS, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: synthetic underlayment slip paired with counter-flashing reglet depth near ZIP 66214.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 66250/66219/66216.
+
+Coordinate-anchored dispatch note: center reference 38.9600, -94.8000 at elevation ~886 ft aligns with Johnson County intake staging.
+
+On-site sector marker: Johnson County / ZIP 66250 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-66214-1f054977

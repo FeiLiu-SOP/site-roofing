@@ -11,26 +11,33 @@ lng: -95.1100
 zipSample: ["77574", "77598", "77565", "77511", "77592"]
 zipCodes: ["77511", "77539", "77574", "77598", "77592", "77565", "77573"]
 localPaths: ["Galveston County / ZIP 77574 sector", "Galveston County / ZIP 77565 sector", "Galveston County / ZIP 77598 sector", "Galveston County / primary ZIP 77573", "Galveston County / ZIP 77592 sector"]
-zillowHomeValueUsd: 382847
 ---
 
 **Engineering Notice for League City:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Galveston County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+In League City, TX, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-We coordinate local dispatch coverage around League City, TX and nearby ZIP sectors.
+Regulatory note: League City, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Local conditions in League City, TX can affect timelines and material choices.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Connection points spot-checked where accessible (ZIP 77574/77539/77592 zone).
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Moisture pathway inspection logged near ZIP 77574/77539/77592 intake.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 77574, 77539, 77592, 77573, 77598 (county grid: Galveston County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Field routing: drip-edge metal profile paired with attic baffle spacing near ZIP 77573.
+
+Field note: Shingle seal-down timing logged near ZIP 77565/77598/77539.
+
+On-site sector marker: Galveston County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Galveston County / ZIP 77574 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77573-50e9d73b

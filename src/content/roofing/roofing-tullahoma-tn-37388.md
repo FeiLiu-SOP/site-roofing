@@ -11,24 +11,35 @@ lng: -86.2200
 zipSample: ["37388"]
 zipCodes: ["37388"]
 localPaths: ["Coffee County / primary ZIP 37388", "Coffee County / elevation 1060 ft band", "Coffee County / ZIP 37388 sector", "Coffee County / coords 35.3700, -86.2200"]
-zillowHomeValueUsd: 295815
 ---
 
 **Engineering Notice for Tullahoma:** Structural loading calculated based on 1060 ft terrain assessment. Regional dispatch grid: Coffee County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: avoid large upfront payments without milestones.
+Valley metal in Tullahoma, TN should be reviewed whenever granule loss tracks the water line.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 37388.
+Risk flag: Tile underlayment age in Tullahoma, TN can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 37388 (county grid: Coffee County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+We coordinate Tullahoma, TN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+roof service brief: ridge cap nail schedule and counter-flashing reglet depth were cross-checked for the Tullahoma intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 37388.
+
+**Regional Infrastructure Brief:** Grid anchor set to Coffee County. Reference elevation: 1060 ft. Primary coordinates: 35.3700, -86.2200. ZIP sample: 37388. Logistics priority: Serving residential sectors across Coffee County and north-east ZIP 37388 grid.
+
+On-site sector marker: Coffee County / elevation 1060 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37388-c9e7ccde

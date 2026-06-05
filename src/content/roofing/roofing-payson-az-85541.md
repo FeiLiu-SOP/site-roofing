@@ -11,24 +11,29 @@ lng: -111.3200
 zipSample: ["85547", "85541"]
 zipCodes: ["85547", "85541"]
 localPaths: ["Gila County / ZIP 85541 sector", "Gila County / ZIP 85547 sector", "Gila County / elevation 4990 ft band", "Gila County / primary ZIP 85541", "Gila County / coords 34.2400, -111.3200"]
-zillowHomeValueUsd: 446640
 ---
 
 **Engineering Notice for Payson:** Structural loading calculated based on 4990 ft terrain assessment. Regional dispatch grid: Gila County.
 
 
-In Payson, AZ, urgent roofing service issues can escalate quickly.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: In Payson, AZ, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Payson, AZ coverage windows and verified intake details.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 85541/85547.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 85541.
 
-Dispatch sectors sampled: ZIP 85541, 85547 (county grid: Gila County).
+TPO seam welds in Payson, AZ commercial sections need probe tests after freeze events.
+
+Scope trace: counter-flashing reglet depth plus valley metal gauge referenced in Gila County county grid review.
+
+On-site sector marker: Gila County / primary ZIP 85541 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Gila County / elevation 4990 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85541-97360515

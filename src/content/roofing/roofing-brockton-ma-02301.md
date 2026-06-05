@@ -11,25 +11,33 @@ lng: -71.0200
 zipSample: ["02305", "02302", "02303", "02301", "02304"]
 zipCodes: ["02305", "02303", "02304", "02301", "02302"]
 localPaths: ["Plymouth County / ZIP 02301 sector", "Plymouth County / primary ZIP 02301", "Plymouth County / ZIP 02302 sector", "Plymouth County / ZIP 02303 sector", "Plymouth County / coords 42.0800, -71.0200"]
-zillowHomeValueUsd: 513432
 ---
 
 **Engineering Notice for Brockton:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Plymouth County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 02301.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Our service coordination centers on Brockton, MA coverage windows and verified intake details.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: request a written scope before work starts.
+Tip: Note recent wind events when filing insurance photos for Brockton, MA.
 
-Field note: Access points and staging constraints recorded for ZIP 02301/02304/02302 coverage.
+Attic ventilation deficits in Brockton, MA can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 02301, 02304, 02302, 02305, 02303 (county grid: Plymouth County).
+Step: map ventilation intake and exhaust pairs for Brockton, MA attic runs.
+
+FAQ: Can you tarp only part of the roof? In Brockton, MA, yes—if slope and anchor points support safe tie-offs.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roof work brief: wind uplift clip spacing and pipe boot manufacturer match were cross-checked for the Brockton intake packet.
+
+On-site sector marker: Plymouth County / ZIP 02301 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 02301 with multi-ZIP overlap in Brockton; field packets tag Plymouth County for county-grid reconciliation.
 
 Service reference: MA-02301-27a9c02d

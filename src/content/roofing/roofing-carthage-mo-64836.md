@@ -11,27 +11,33 @@ lng: -94.3200
 zipSample: ["64836"]
 zipCodes: ["64836"]
 localPaths: ["Jasper County / primary ZIP 64836", "Jasper County / ZIP 64836 sector", "Jasper County / coords 37.1500, -94.3200", "Jasper County / elevation 1053 ft band"]
-zillowHomeValueUsd: 240367
 ---
 
 **Engineering Notice for Carthage:** Structural loading calculated based on 1053 ft terrain assessment. Regional dispatch grid: Jasper County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 64836.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Carthage, MO coverage windows and verified intake details.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should permanent service start? In Carthage, MO, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 64836.
+Wind-zone note: Carthage, MO exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 64836.
+Granule embedment loss on Carthage, MO north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 64836 (county grid: Jasper County).
+Step: log deck soundings near vents before tear-off is approved.
+
+Our Carthage, MO dispatch packets reference county grid Jasper County and elevation band 1053 ft.
+
+roof work brief: chimney cricket slope and synthetic underlayment slip were cross-checked for the Carthage intake packet.
+
+Primary postal anchor 64836 with multi-ZIP overlap in Carthage; field packets tag Jasper County for county-grid reconciliation.
+
+On-site sector marker: Jasper County / coords 37.1500, -94.3200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64836-a773988d

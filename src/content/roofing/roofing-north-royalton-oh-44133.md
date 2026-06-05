@@ -11,25 +11,33 @@ lng: -81.7500
 zipSample: ["44133"]
 zipCodes: ["44133"]
 localPaths: ["Cuyahoga County / ZIP 44133 sector", "Cuyahoga County / primary ZIP 44133", "Cuyahoga County / elevation 1037 ft band", "Cuyahoga County / coords 41.3100, -81.7500"]
-zillowHomeValueUsd: 335095
 ---
 
 **Engineering Notice for North Royalton:** Structural loading calculated based on 1037 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 44133.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in North Royalton, OH, but intake notes help reduce delays.
+Wind-zone note: North Royalton, OH exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around North Royalton, OH and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44133.
+Synthetic underlayment slip in North Royalton, OH is often tied to deck moisture, not wind alone.
 
-Dispatch sectors sampled: ZIP 44133 (county grid: Cuyahoga County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+FAQ: Can you tarp only part of the roof? In North Royalton, OH, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: pipe boot manufacturer match plus drip-edge metal profile referenced in Cuyahoga County county grid review.
+
+On-site sector marker: Cuyahoga County / elevation 1037 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cuyahoga County / ZIP 44133 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44133-592b2f57

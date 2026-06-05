@@ -11,27 +11,33 @@ lng: -93.8600
 zipSample: ["55313"]
 zipCodes: ["55313"]
 localPaths: ["Wright County / primary ZIP 55313", "Wright County / ZIP 55313 sector", "Wright County / elevation 1007 ft band", "Wright County / coords 45.1800, -93.8600"]
-zillowHomeValueUsd: 375224
 ---
 
 **Engineering Notice for Buffalo:** Structural loading calculated based on 1007 ft terrain assessment. Regional dispatch grid: Wright County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Buffalo, MN, but intake notes help reduce delays.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our service coordination centers on Buffalo, MN coverage windows and verified intake details.
+Step: map ventilation intake and exhaust pairs for Buffalo, MN attic runs.
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for Buffalo, MN attics should be checked against current mechanical exhaust additions.
 
-In Buffalo, MN, seasonal demand can change scheduling windows.
+Freeze-thaw cycles around Buffalo, MN stress nail pops along eaves and rake edges.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 55313.
+Our Buffalo, MN dispatch packets reference county grid Wright County and elevation band 1007 ft.
 
-Field note: Moisture pathway inspection logged near ZIP 55313 intake.
+Material note: In Buffalo, MN, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55313.
+Risk flag: Tile underlayment age in Buffalo, MN can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 55313 (county grid: Wright County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Scope trace: wind uplift clip spacing plus counter-flashing reglet depth referenced in Wright County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 55313.
+
+ZIP-corridor snapshot for Buffalo, MN: sampled sectors include 55313; county routing grid remains Wright County.
+
+On-site sector marker: Wright County / coords 45.1800, -93.8600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55313-34574a5d

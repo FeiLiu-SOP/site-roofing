@@ -11,26 +11,35 @@ lng: -98.1600
 zipSample: ["78542", "78539", "78541"]
 zipCodes: ["78541", "78542", "78539"]
 localPaths: ["Hidalgo County / primary ZIP 78539", "Hidalgo County / coords 26.3200, -98.1600", "Hidalgo County / ZIP 78542 sector", "Hidalgo County / ZIP 78539 sector", "Hidalgo County / ZIP 78541 sector"]
-zillowHomeValueUsd: 244063
 ---
 
 **Engineering Notice for Edinburg:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Hidalgo County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Edinburg, TX, but intake notes help reduce delays.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: avoid large upfront payments without milestones.
+Material note: In Edinburg, TX, algae-resistant granules may be specified for north-facing slopes.
 
-In Edinburg, TX, seasonal demand can change scheduling windows.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Edinburg, TX coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 78541/78542/78539.
+Synthetic underlayment slip in Edinburg, TX is often tied to deck moisture, not wind alone.
 
-Field note: Access points and staging constraints recorded for ZIP 78541/78542/78539 coverage.
+Metal panel oil-canning in Edinburg, TX may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 78541, 78542, 78539 (county grid: Hidalgo County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Risk flag: In Edinburg, TX, interior stains may track from HVAC condensate rather than roof cladding.
+
+roofing service brief: wind uplift clip spacing and ice-barrier lap sequence were cross-checked for the Edinburg intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 78542/78539/78541.
+
+ZIP-corridor snapshot for Edinburg, TX: sampled sectors include 78542, 78541, 78539; county routing grid remains Hidalgo County.
+
+Primary postal anchor 78539 with multi-ZIP overlap in Edinburg; field packets tag Hidalgo County for county-grid reconciliation.
 
 Service reference: TX-78539-a1b02c49

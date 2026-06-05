@@ -11,27 +11,33 @@ lng: -90.3100
 zipSample: ["63125", "63129"]
 zipCodes: ["63129", "63125"]
 localPaths: ["St. Louis County / coords 38.5000, -90.3100", "St. Louis County / primary ZIP 63129", "St. Louis County / ZIP 63125 sector", "St. Louis County / ZIP 63129 sector", "St. Louis County / elevation 597 ft band"]
-zillowHomeValueUsd: 339997
 ---
 
 **Engineering Notice for Mehlville:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Mehlville, MO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: request a written scope before work starts.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 63129.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Our service coordination centers on Mehlville, MO coverage windows and verified intake details.
+Coastal humidity in Mehlville, MO can slow shingle seal-down after shoulder-season storms.
 
-Field note: Connection points spot-checked where accessible (ZIP 63129/63125 zone).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 63129/63125.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 63129, 63125 (county grid: St. Louis County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+roof work brief: valley metal gauge and ridge cap nail schedule were cross-checked for the Mehlville intake packet.
+
+On-site sector marker: St. Louis County / primary ZIP 63129 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Louis County / ZIP 63129 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63129-f2febae0

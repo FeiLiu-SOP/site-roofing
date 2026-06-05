@@ -11,26 +11,31 @@ lng: -92.1800
 zipSample: ["65106", "65108", "65110", "65103", "65107"]
 zipCodes: ["65107", "65109", "65106", "65105", "65111", "65103", "65110", "65102", "65108", "65101", "65104"]
 localPaths: ["Cole County / ZIP 65108 sector", "Cole County / elevation 659 ft band", "Cole County / ZIP 65110 sector", "Cole County / coords 38.5700, -92.1800", "Cole County / ZIP 65103 sector"]
-zillowHomeValueUsd: 265677
 ---
 
 **Engineering Notice for Jefferson City:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Cole County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Jefferson City, MO, but intake notes help reduce delays.
+Synthetic underlayment slip in Jefferson City, MO is often tied to deck moisture, not wind alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is partial dry-in possible? In Jefferson City, MO, yes—if slope and anchor points support safe tie-offs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Note recent wind events when filing insurance photos for Jefferson City, MO.
 
-Our service coordination centers on Jefferson City, MO coverage windows and verified intake details.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 65109/65103/65101 coverage.
+Risk flag: In Jefferson City, MO, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 65109/65103/65101 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 65109, 65103, 65101, 65105, 65110 (county grid: Cole County).
+Regulatory note: Jefferson City, MO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roof service brief: soffit intake free area and deck sheathing thickness were cross-checked for the Jefferson City intake packet.
+
+Coordinate-anchored dispatch note: center reference 38.5700, -92.1800 at elevation ~659 ft aligns with Cole County intake staging.
+
+On-site sector marker: Cole County / ZIP 65102 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-65101-fd854048

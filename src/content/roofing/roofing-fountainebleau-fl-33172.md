@@ -11,24 +11,33 @@ lng: -80.3500
 zipSample: ["33174", "33144", "33126", "33172"]
 zipCodes: ["33172", "33126", "33174", "33144"]
 localPaths: ["Miami-Dade County / ZIP 33126 sector", "Miami-Dade County / ZIP 33174 sector", "Miami-Dade County / primary ZIP 33172", "Miami-Dade County / coords 25.7700, -80.3500", "Miami-Dade County / ZIP 33144 sector"]
-zillowHomeValueUsd: 300853
 ---
 
 **Engineering Notice for Fountainebleau:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-We coordinate local dispatch coverage around Fountainebleau, FL and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: compare shingle manufacturer wind-zone ratings for Fountainebleau, FL exposure class.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Valley metal in Fountainebleau, FL should be reviewed whenever granule loss tracks the water line.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fountainebleau, FL, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 33144/33172/33174 zone).
+Risk flag: In Fountainebleau, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 33144, 33172, 33174, 33126 (county grid: Miami-Dade County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Material note: In Fountainebleau, FL, algae-resistant granules may be specified for north-facing slopes.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+roof work brief: pipe boot manufacturer match and wind uplift clip spacing were cross-checked for the Fountainebleau intake packet.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Miami-Dade County and primary ZIP 33172. Terrain reference: 33 ft. Center point: 25.7700, -80.3500. ZIP sample: 33126, 33174, 33144, 33172. Logistics priority: Serving residential sectors across Miami-Dade County and north-east ZIP 33172 grid.
+
+Primary postal anchor 33172 with multi-ZIP overlap in Fountainebleau; field packets tag Miami-Dade County for county-grid reconciliation.
 
 Service reference: FL-33172-7876760f

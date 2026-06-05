@@ -11,24 +11,35 @@ lng: -81.4000
 zipSample: ["44720", "44709"]
 zipCodes: ["44709", "44720"]
 localPaths: ["Stark County / primary ZIP 44709", "Stark County / ZIP 44720 sector", "Stark County / elevation 1152 ft band", "Stark County / coords 40.8700, -81.4000", "Stark County / ZIP 44709 sector"]
-zillowHomeValueUsd: 184777
 ---
 
 **Engineering Notice for North Canton:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Stark County.
 
 
-Local conditions in North Canton, OH can affect timelines and material choices.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-We coordinate local dispatch coverage around North Canton, OH and nearby ZIP sectors.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Tile underlayment age in North Canton, OH can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in North Canton, OH, but intake notes help reduce delays.
+Wind-zone note: North Canton, OH exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 44709/44720 zone).
+Step: map ventilation intake and exhaust pairs for North Canton, OH attic runs.
 
-Dispatch sectors sampled: ZIP 44709, 44720 (county grid: Stark County).
+Hail bruising on North Canton, OH ridges may not breach felt until the next wind event.
+
+FAQ: When should permanent service start? In North Canton, OH, delayed dry-in can expand insulation and ceiling repairs.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: attic baffle spacing plus starter-strip setback referenced in Stark County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 44709/44720.
+
+On-site sector marker: Stark County / elevation 1152 ft band — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 44709 with multi-ZIP overlap in North Canton; field packets tag Stark County for county-grid reconciliation.
 
 Service reference: OH-44709-433de545

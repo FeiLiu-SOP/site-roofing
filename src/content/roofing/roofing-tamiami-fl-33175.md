@@ -11,24 +11,33 @@ lng: -80.4000
 zipSample: ["33265", "33182", "33175", "33184"]
 zipCodes: ["33184", "33265", "33182", "33175"]
 localPaths: ["Miami-Dade County / coords 25.7600, -80.4000", "Miami-Dade County / ZIP 33175 sector", "Miami-Dade County / ZIP 33182 sector", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33265 sector"]
-zillowHomeValueUsd: 622033
 ---
 
 **Engineering Notice for Tamiami:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Is partial dry-in possible? In Tamiami, FL, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Tamiami, FL exposure class can change starter-strip and cap nail schedules.
 
-In Tamiami, FL, seasonal demand can change scheduling windows.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-We coordinate local dispatch coverage around Tamiami, FL and nearby ZIP sectors.
+Tile and shingle mixes in Tamiami, FL require different fastener patterns at transitions.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Tamiami, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 33265/33175/33184.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 33265, 33175, 33184, 33182 (county grid: Miami-Dade County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Material note: In Tamiami, FL, algae-resistant granules may be specified for north-facing slopes.
+
+Scope trace: attic baffle spacing plus skylight curb height referenced in Miami-Dade County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 33175/33182/33265.
+
+ZIP-corridor snapshot for Tamiami, FL: sampled sectors include 33265, 33184, 33182, 33175; county routing grid remains Miami-Dade County.
+
+On-site sector marker: Miami-Dade County / ZIP 33182 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33175-525c6cb1

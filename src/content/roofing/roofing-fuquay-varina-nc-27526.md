@@ -11,27 +11,29 @@ lng: -78.7800
 zipSample: ["27526"]
 zipCodes: ["27526"]
 localPaths: ["Wake County / coords 35.6000, -78.7800", "Wake County / elevation 400 ft band", "Wake County / ZIP 27526 sector", "Wake County / primary ZIP 27526"]
-zillowHomeValueUsd: 443006
 ---
 
 **Engineering Notice for Fuquay-Varina:** Structural loading calculated based on 400 ft terrain assessment. Regional dispatch grid: Wake County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 27526.
+Tip: Note recent wind events when filing insurance photos for Fuquay-Varina, NC.
 
-We coordinate local dispatch coverage around Fuquay-Varina, NC and nearby ZIP sectors.
+Step: map ventilation intake and exhaust pairs for Fuquay-Varina, NC attic runs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Fuquay-Varina, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is partial dry-in possible? In Fuquay-Varina, NC, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 27526 coverage.
+Granule embedment loss on Fuquay-Varina, NC north slopes can precede mat exposure.
 
-Field note: Wind exposure category reviewed for ZIP sector 27526.
+Code context: Ventilation ratios for Fuquay-Varina, NC attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 27526 (county grid: Wake County).
+Field routing: ice-barrier lap sequence paired with drip-edge metal profile near ZIP 27526.
+
+On-site sector marker: Wake County / ZIP 27526 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 27526 with multi-ZIP overlap in Fuquay-Varina; field packets tag Wake County for county-grid reconciliation.
 
 Service reference: NC-27526-f43bb56e

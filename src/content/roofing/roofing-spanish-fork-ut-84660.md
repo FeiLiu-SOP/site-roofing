@@ -11,24 +11,29 @@ lng: -111.6400
 zipSample: ["84660"]
 zipCodes: ["84660"]
 localPaths: ["Utah County / primary ZIP 84660", "Utah County / coords 40.1100, -111.6400", "Utah County / ZIP 84660 sector", "Utah County / elevation 4682 ft band"]
-zillowHomeValueUsd: 515211
 ---
 
 **Engineering Notice for Spanish Fork:** Structural loading calculated based on 4682 ft terrain assessment. Regional dispatch grid: Utah County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In Spanish Fork, UT, yes—if slope and anchor points support safe tie-offs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-We coordinate local dispatch coverage around Spanish Fork, UT and nearby ZIP sectors.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Transparent pricing helps you compare like-for-like scope items.
+Wind-zone note: Spanish Fork, UT exposure class can change starter-strip and cap nail schedules.
 
-Tip: address recurring issues early to prevent bigger damage.
+Skylight curb flashing in Spanish Fork, UT should be sequenced before ridge cap replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 84660 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 84660 (county grid: Utah County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: ridge cap nail schedule paired with drip-edge metal profile near ZIP 84660.
+
+On-site sector marker: Utah County / ZIP 84660 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Spanish Fork, UT: sampled sectors include 84660; county routing grid remains Utah County.
 
 Service reference: UT-84660-895b42c9

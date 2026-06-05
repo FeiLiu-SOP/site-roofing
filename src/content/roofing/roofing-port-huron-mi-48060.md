@@ -11,24 +11,31 @@ lng: -82.4400
 zipSample: ["48061", "48060"]
 zipCodes: ["48060", "48061"]
 localPaths: ["St. Clair County / ZIP 48060 sector", "St. Clair County / ZIP 48061 sector", "St. Clair County / elevation 597 ft band", "St. Clair County / primary ZIP 48060", "St. Clair County / coords 42.9800, -82.4400"]
-zillowHomeValueUsd: 170057
 ---
 
 **Engineering Notice for Port Huron:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: St. Clair County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Synthetic underlayment slip in Port Huron, MI is often tied to deck moisture, not wind alone.
 
-Homeowners in Port Huron, MI often face sudden roofing service problems that require fast action.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Local conditions in Port Huron, MI can affect timelines and material choices.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48060/48061.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 48060, 48061 (county grid: St. Clair County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+FAQ: Is partial dry-in possible? In Port Huron, MI, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: drip-edge metal profile paired with shingle exposure calibration near ZIP 48060.
+
+On-site sector marker: St. Clair County / ZIP 48060 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Clair County / elevation 597 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48060-f989b646

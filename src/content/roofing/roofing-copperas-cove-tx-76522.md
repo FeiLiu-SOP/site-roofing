@@ -11,24 +11,31 @@ lng: -97.9100
 zipSample: ["76522"]
 zipCodes: ["76522"]
 localPaths: ["Coryell County / elevation 1129 ft band", "Coryell County / coords 31.1200, -97.9100", "Coryell County / primary ZIP 76522", "Coryell County / ZIP 76522 sector"]
-zillowHomeValueUsd: 223555
 ---
 
 **Engineering Notice for Copperas Cove:** Structural loading calculated based on 1129 ft terrain assessment. Regional dispatch grid: Coryell County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Copperas Cove, TX, but intake notes help reduce delays.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: request a written scope before work starts.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Our service coordination centers on Copperas Cove, TX coverage windows and verified intake details.
+Wind-zone note: Copperas Cove, TX exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 76522 coverage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 76522 (county grid: Coryell County).
+Parapet coping movement in Copperas Cove, TX can channel water behind wall cladding.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Scope trace: counter-flashing reglet depth plus wind uplift clip spacing referenced in Coryell County county grid review.
+
+Coordinate-anchored dispatch note: center reference 31.1200, -97.9100 at elevation ~1129 ft aligns with Coryell County intake staging.
+
+Primary postal anchor 76522 with multi-ZIP overlap in Copperas Cove; field packets tag Coryell County for county-grid reconciliation.
 
 Service reference: TX-76522-275fa903

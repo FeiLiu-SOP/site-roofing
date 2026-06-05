@@ -11,26 +11,31 @@ lng: -111.0100
 zipSample: ["85741", "85742", "85704", "85752"]
 zipCodes: ["85741", "85752", "85742", "85704"]
 localPaths: ["Pima County / ZIP 85741 sector", "Pima County / elevation 2411 ft band", "Pima County / primary ZIP 85704", "Pima County / ZIP 85742 sector", "Pima County / coords 32.3400, -111.0100"]
-zillowHomeValueUsd: 448223
 ---
 
 **Engineering Notice for Casas Adobes:** Structural loading calculated based on 2411 ft terrain assessment. Regional dispatch grid: Pima County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Casas Adobes, AZ can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Our service coordination centers on Casas Adobes, AZ coverage windows and verified intake details.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 85704.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Casas Adobes, AZ attics should be checked against current mechanical exhaust additions.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+In Casas Adobes, AZ, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Moisture pathway inspection logged near ZIP 85742/85704/85741 intake.
+FAQ: How long can shingles wait after storm damage? In Casas Adobes, AZ, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 85742/85704/85741.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 85742, 85704, 85741, 85752 (county grid: Pima County).
+Step: map ventilation intake and exhaust pairs for Casas Adobes, AZ attic runs.
+
+Scope trace: starter-strip setback plus counter-flashing reglet depth referenced in Pima County county grid review.
+
+ZIP-corridor snapshot for Casas Adobes, AZ: sampled sectors include 85704, 85742, 85741, 85752; county routing grid remains Pima County.
+
+On-site sector marker: Pima County / ZIP 85704 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85704-2bcc126f

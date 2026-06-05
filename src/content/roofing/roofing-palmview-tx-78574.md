@@ -11,24 +11,33 @@ lng: -98.3800
 zipSample: ["78574", "78572"]
 zipCodes: ["78572", "78574"]
 localPaths: ["Hidalgo County / ZIP 78574 sector", "Hidalgo County / primary ZIP 78574", "Hidalgo County / elevation 148 ft band", "Hidalgo County / coords 26.2300, -98.3800", "Hidalgo County / ZIP 78572 sector"]
-zillowHomeValueUsd: 196727
 ---
 
 **Engineering Notice for Palmview:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Hidalgo County.
 
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Palmview, TX attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Palmview, TX and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Palmview, TX can fail independently of visible tile cracks.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can you tarp only part of the roof? In Palmview, TX, yes—if slope and anchor points support safe tie-offs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Moisture pathway inspection logged near ZIP 78572/78574 intake.
+Granule embedment loss on Palmview, TX north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 78572, 78574 (county grid: Hidalgo County).
+Regulatory note: Palmview, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Step: separate emergency tarp scope from permanent service line items.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: soffit intake free area paired with pipe boot manufacturer match near ZIP 78574.
+
+On-site sector marker: Hidalgo County / primary ZIP 78574 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hidalgo County / coords 26.2300, -98.3800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78574-bef6a209

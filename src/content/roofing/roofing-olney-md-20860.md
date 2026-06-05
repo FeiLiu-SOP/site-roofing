@@ -11,26 +11,29 @@ lng: -77.0700
 zipSample: ["20833", "20853", "20906", "20832", "20830"]
 zipCodes: ["20833", "20853", "20832", "20830", "20906", "20860"]
 localPaths: ["Montgomery County / ZIP 20833 sector", "Montgomery County / primary ZIP 20860", "Montgomery County / ZIP 20832 sector", "Montgomery County / ZIP 20830 sector", "Montgomery County / ZIP 20853 sector"]
-zillowHomeValueUsd: 821788
 ---
 
 **Engineering Notice for Olney:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Olney, MD, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: log deck soundings near vents before tear-off is approved.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-We coordinate local dispatch coverage around Olney, MD and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 20853/20832/20906 intake.
+FAQ: Can you tarp only part of the roof? In Olney, MD, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 20853/20832/20906.
+Synthetic underlayment slip in Olney, MD is often tied to deck moisture, not wind alone.
 
-Dispatch sectors sampled: ZIP 20853, 20832, 20906, 20860, 20833 (county grid: Montgomery County).
+Scope trace: counter-flashing reglet depth plus chimney cricket slope referenced in Montgomery County county grid review.
+
+On-site sector marker: Montgomery County / ZIP 20833 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Montgomery County / primary ZIP 20860 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20860-ed427d61

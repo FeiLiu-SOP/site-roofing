@@ -11,26 +11,33 @@ lng: -116.4000
 zipSample: ["83646", "83642", "83680"]
 zipCodes: ["83642", "83680", "83646"]
 localPaths: ["Ada County / primary ZIP 83646", "Ada County / ZIP 83642 sector", "Ada County / coords 43.6100, -116.4000", "Ada County / ZIP 83646 sector", "Ada County / elevation 2608 ft band"]
-zillowHomeValueUsd: 524390
 ---
 
 **Engineering Notice for Meridian:** Structural loading calculated based on 2608 ft terrain assessment. Regional dispatch grid: Ada County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wood shake courses in Meridian, ID require skip-spacing rules at valleys.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Meridian, ID, interior stains may track from HVAC condensate rather than roof cladding.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: How long can shingles wait after storm damage? In Meridian, ID, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Our Meridian, ID dispatch packets reference county grid Ada County and elevation band 2608 ft.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 83680/83642/83646 intake.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 83680/83642/83646.
+Wind-zone note: Meridian, ID exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 83680, 83642, 83646 (county grid: Ada County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Field routing: starter-strip setback paired with skylight curb height near ZIP 83646.
+
+Field note: Attic moisture pathway scan referenced ZIP 83680/83646/83642.
+
+On-site sector marker: Ada County / primary ZIP 83646 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Ada County / ZIP 83646 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83646-fc3682e0

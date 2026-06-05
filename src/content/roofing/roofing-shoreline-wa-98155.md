@@ -11,26 +11,31 @@ lng: -122.3400
 zipSample: ["98155", "98133", "98177", "98160"]
 zipCodes: ["98133", "98160", "98177", "98155"]
 localPaths: ["King County / ZIP 98133 sector", "King County / ZIP 98177 sector", "King County / ZIP 98155 sector", "King County / primary ZIP 98155", "King County / coords 47.7600, -122.3400"]
-zillowHomeValueUsd: 853051
 ---
 
 **Engineering Notice for Shoreline:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: King County.
 
 
-Tip: request a written scope before work starts.
+Attic ventilation deficits in Shoreline, WA can mimic roof leaks at ceiling penetrations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Shoreline, WA exposure class can change starter-strip and cap nail schedules.
 
-In Shoreline, WA, urgent roof work issues can escalate quickly.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98133/98160/98155.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 98133/98160/98155.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 98133, 98160, 98155, 98177 (county grid: King County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: attic baffle spacing plus drip-edge metal profile referenced in King County county grid review.
+
+Primary postal anchor 98155 with multi-ZIP overlap in Shoreline; field packets tag King County for county-grid reconciliation.
+
+On-site sector marker: King County / elevation 476 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98155-51ea2287

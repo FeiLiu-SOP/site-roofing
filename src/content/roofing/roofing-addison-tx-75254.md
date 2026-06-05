@@ -11,26 +11,29 @@ lng: -96.8400
 zipSample: ["75001", "75391", "75254"]
 zipCodes: ["75254", "75391", "75001"]
 localPaths: ["Dallas County / ZIP 75254 sector", "Dallas County / coords 32.9600, -96.8400", "Dallas County / ZIP 75391 sector", "Dallas County / elevation 637 ft band", "Dallas County / primary ZIP 75254"]
-zillowHomeValueUsd: 299677
 ---
 
 **Engineering Notice for Addison:** Structural loading calculated based on 637 ft terrain assessment. Regional dispatch grid: Dallas County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Addison, TX, but intake notes help reduce delays.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+In Addison, TX, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Addison, TX attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 75254/75001/75391.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 75254/75001/75391 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 75254, 75001, 75391 (county grid: Dallas County).
+roofing service brief: soffit intake free area and deck sheathing thickness were cross-checked for the Addison intake packet.
+
+On-site sector marker: Dallas County / coords 32.9600, -96.8400 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Dallas County / primary ZIP 75254 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75254-3ea96490

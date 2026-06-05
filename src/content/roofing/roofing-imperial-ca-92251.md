@@ -11,27 +11,33 @@ lng: -115.5700
 zipSample: ["92251"]
 zipCodes: ["92251"]
 localPaths: ["Imperial County / coords 32.8400, -115.5700", "Imperial County / primary ZIP 92251", "Imperial County / elevation -57 ft band", "Imperial County / ZIP 92251 sector"]
-zillowHomeValueUsd: 436905
 ---
 
 **Engineering Notice for Imperial:** Structural loading calculated based on -57 ft terrain assessment. Regional dispatch grid: Imperial County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Our service coordination centers on Imperial, CA coverage windows and verified intake details.
+Code context: Ventilation ratios for Imperial, CA attics should be checked against current mechanical exhaust additions.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 92251.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Local conditions in Imperial, CA can affect timelines and material choices.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92251.
+Tile and shingle mixes in Imperial, CA require different fastener patterns at transitions.
 
-Field note: Connection points spot-checked where accessible (ZIP 92251 zone).
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Dispatch sectors sampled: ZIP 92251 (county grid: Imperial County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roofing service brief: soffit intake free area and ice-barrier lap sequence were cross-checked for the Imperial intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 92251.
+
+On-site sector marker: Imperial County / ZIP 92251 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Imperial County / primary ZIP 92251 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92251-3b8dc865

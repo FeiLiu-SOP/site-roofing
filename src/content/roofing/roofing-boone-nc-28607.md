@@ -11,24 +11,31 @@ lng: -81.6700
 zipSample: ["28607", "28608"]
 zipCodes: ["28608", "28607"]
 localPaths: ["Watauga County / primary ZIP 28607", "Watauga County / ZIP 28608 sector", "Watauga County / coords 36.2100, -81.6700", "Watauga County / elevation 3235 ft band", "Watauga County / ZIP 28607 sector"]
-zillowHomeValueUsd: 491984
 ---
 
 **Engineering Notice for Boone:** Structural loading calculated based on 3235 ft terrain assessment. Regional dispatch grid: Watauga County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Boone, NC exposure class can change starter-strip and cap nail schedules.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: compare shingle manufacturer wind-zone ratings for Boone, NC exposure class.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28607/28608.
+FAQ: Is partial dry-in possible? In Boone, NC, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 28607, 28608 (county grid: Watauga County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Low-slope sections in Boone, NC need positive drainage before membrane repairs are scoped.
+
+roofing service brief: attic baffle spacing and soffit intake free area were cross-checked for the Boone intake packet.
+
+On-site sector marker: Watauga County / coords 36.2100, -81.6700 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Watauga County: moisture and logistics baselines are keyed to Boone, NC before niche-specific work begins.
 
 Service reference: NC-28607-d502196b

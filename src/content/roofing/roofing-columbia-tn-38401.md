@@ -11,26 +11,29 @@ lng: -87.0500
 zipSample: ["38401", "38402"]
 zipCodes: ["38402", "38401"]
 localPaths: ["Maury County / primary ZIP 38401", "Maury County / ZIP 38402 sector", "Maury County / coords 35.6200, -87.0500", "Maury County / ZIP 38401 sector", "Maury County / elevation 745 ft band"]
-zillowHomeValueUsd: 374981
 ---
 
 **Engineering Notice for Columbia:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Maury County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Columbia, TN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tile and shingle mixes in Columbia, TN require different fastener patterns at transitions.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 38402/38401 zone).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 38402/38401.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Dispatch sectors sampled: ZIP 38402, 38401 (county grid: Maury County).
+Field routing: soffit intake free area paired with shingle exposure calibration near ZIP 38401.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~745 ft across the Maury County area. Coordinates: 35.6200, -87.0500. ZIP sample: 38402, 38401. Logistics priority: Serving residential sectors across Maury County and north-east ZIP 38401 grid.
+
+On-site sector marker: Maury County / elevation 745 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-38401-9fa122c7

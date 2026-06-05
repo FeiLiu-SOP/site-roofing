@@ -11,27 +11,35 @@ lng: -122.8700
 zipSample: ["97007", "97003", "97078"]
 zipCodes: ["97078", "97007", "97003"]
 localPaths: ["Washington County / coords 45.4900, -122.8700", "Washington County / primary ZIP 97078", "Washington County / elevation 200 ft band", "Washington County / ZIP 97007 sector", "Washington County / ZIP 97003 sector"]
-zillowHomeValueUsd: 496285
 ---
 
 **Engineering Notice for Aloha:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-We coordinate local dispatch coverage around Aloha, OR and nearby ZIP sectors.
+Wind-zone note: Aloha, OR exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: request a written scope before work starts.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 97078.
+Metal panel oil-canning in Aloha, OR may signal clip spacing issues, not wind damage alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 97007/97078/97003.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 97007/97078/97003 coverage.
+FAQ: Can you tarp only part of the roof? In Aloha, OR, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 97007, 97078, 97003 (county grid: Washington County).
+Step: map ventilation intake and exhaust pairs for Aloha, OR attic runs.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: pipe boot manufacturer match plus chimney cricket slope referenced in Washington County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 97003/97078/97007.
+
+On-site sector marker: Washington County / ZIP 97078 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Washington County / coords 45.4900, -122.8700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97078-f10d8b8d

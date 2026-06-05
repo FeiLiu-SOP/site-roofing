@@ -11,26 +11,33 @@ lng: -77.4400
 zipSample: ["20121", "20120", "20124"]
 zipCodes: ["20121", "20124", "20120"]
 localPaths: ["Fairfax County / elevation 259 ft band", "Fairfax County / primary ZIP 20120", "Fairfax County / ZIP 20120 sector", "Fairfax County / coords 38.8400, -77.4400", "Fairfax County / ZIP 20121 sector"]
-zillowHomeValueUsd: 702184
 ---
 
 **Engineering Notice for Centreville:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Metal panel oil-canning in Centreville, VA may signal clip spacing issues, not wind damage alone.
 
-Local conditions in Centreville, VA can affect timelines and material choices.
+Wind-zone note: Centreville, VA exposure class can change starter-strip and cap nail schedules.
 
-Tip: request a written scope before work starts.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Wind exposure category reviewed for ZIP sector 20121/20124/20120.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20121/20124/20120.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 20121, 20124, 20120 (county grid: Fairfax County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Our Centreville, VA dispatch packets reference county grid Fairfax County and elevation band 259 ft.
+
+roofing service brief: skylight curb height and deck sheathing thickness were cross-checked for the Centreville intake packet.
+
+On-site sector marker: Fairfax County / primary ZIP 20120 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 20120 with multi-ZIP overlap in Centreville; field packets tag Fairfax County for county-grid reconciliation.
 
 Service reference: VA-20120-e62d5088

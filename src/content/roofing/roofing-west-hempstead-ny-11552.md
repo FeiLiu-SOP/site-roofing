@@ -11,24 +11,35 @@ lng: -73.6500
 zipSample: ["11552"]
 zipCodes: ["11552"]
 localPaths: ["Nassau County / ZIP 11552 sector", "Nassau County / coords 40.7000, -73.6500", "Nassau County / primary ZIP 11552", "Nassau County / elevation 69 ft band"]
-zillowHomeValueUsd: 786245
 ---
 
 **Engineering Notice for West Hempstead:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around West Hempstead, NY and nearby ZIP sectors.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 11552 intake.
+Our West Hempstead, NY dispatch packets reference county grid Nassau County and elevation band 69 ft.
 
-Dispatch sectors sampled: ZIP 11552 (county grid: Nassau County).
+Risk flag: Tile underlayment age in West Hempstead, NY can fail independently of visible tile cracks.
+
+Material note: In West Hempstead, NY, algae-resistant granules may be specified for north-facing slopes.
+
+Synthetic underlayment slip in West Hempstead, NY is often tied to deck moisture, not wind alone.
+
+Field routing: attic baffle spacing paired with ridge cap nail schedule near ZIP 11552.
+
+Field note: Attic moisture pathway scan referenced ZIP 11552.
+
+Regional mesh label Nassau County: moisture and logistics baselines are keyed to West Hempstead, NY before niche-specific work begins.
+
+On-site sector marker: Nassau County / ZIP 11552 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11552-607ad27d

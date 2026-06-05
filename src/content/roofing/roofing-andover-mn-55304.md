@@ -11,24 +11,31 @@ lng: -93.3300
 zipSample: ["55304"]
 zipCodes: ["55304"]
 localPaths: ["Anoka County / elevation 876 ft band", "Anoka County / ZIP 55304 sector", "Anoka County / coords 45.2600, -93.3300", "Anoka County / primary ZIP 55304"]
-zillowHomeValueUsd: 451252
 ---
 
 **Engineering Notice for Andover:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Anoka County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Andover, MN coverage windows and verified intake details.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Metal panel oil-canning in Andover, MN may signal clip spacing issues, not wind damage alone.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55304.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 55304 (county grid: Anoka County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Wind-zone note: Andover, MN exposure class can change starter-strip and cap nail schedules.
+
+Field routing: skylight curb height paired with synthetic underlayment slip near ZIP 55304.
+
+Coordinate-anchored dispatch note: center reference 45.2600, -93.3300 at elevation ~876 ft aligns with Anoka County intake staging.
+
+ZIP-corridor snapshot for Andover, MN: sampled sectors include 55304; county routing grid remains Anoka County.
 
 Service reference: MN-55304-af9f52fc

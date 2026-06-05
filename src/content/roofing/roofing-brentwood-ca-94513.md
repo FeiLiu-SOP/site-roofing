@@ -11,24 +11,31 @@ lng: -121.7200
 zipSample: ["94513"]
 zipCodes: ["94513"]
 localPaths: ["Contra Costa County / elevation 85 ft band", "Contra Costa County / coords 37.9400, -121.7200", "Contra Costa County / primary ZIP 94513", "Contra Costa County / ZIP 94513 sector"]
-zillowHomeValueUsd: 805373
 ---
 
 **Engineering Notice for Brentwood:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+We coordinate Brentwood, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Our service coordination centers on Brentwood, CA coverage windows and verified intake details.
+In Brentwood, CA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Local conditions in Brentwood, CA can affect timelines and material choices.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 94513.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Access points and staging constraints recorded for ZIP 94513 coverage.
+Risk flag: In Brentwood, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 94513 (county grid: Contra Costa County).
+Code context: Ventilation ratios for Brentwood, CA attics should be checked against current mechanical exhaust additions.
+
+roof work brief: chimney cricket slope and skylight curb height were cross-checked for the Brentwood intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 94513.
+
+On-site sector marker: Contra Costa County / primary ZIP 94513 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 37.9400, -121.7200 at elevation ~85 ft aligns with Contra Costa County intake staging.
 
 Service reference: CA-94513-b6dcce48

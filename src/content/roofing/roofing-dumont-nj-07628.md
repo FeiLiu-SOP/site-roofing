@@ -11,27 +11,29 @@ lng: -73.9900
 zipSample: ["07628"]
 zipCodes: ["07628"]
 localPaths: ["Bergen County / coords 40.9500, -73.9900", "Bergen County / ZIP 07628 sector", "Bergen County / primary ZIP 07628", "Bergen County / elevation 112 ft band"]
-zillowHomeValueUsd: 667093
 ---
 
 **Engineering Notice for Dumont:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Bergen County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 07628.
+Regulatory note: Dumont, NJ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Dumont, NJ can fail independently of visible tile cracks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-In Dumont, NJ, urgent roof work issues can escalate quickly.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Our service coordination centers on Dumont, NJ coverage windows and verified intake details.
+Valley metal in Dumont, NJ should be reviewed whenever granule loss tracks the water line.
 
-Field note: Connection points spot-checked where accessible (ZIP 07628 zone).
+FAQ: Can you tarp only part of the roof? In Dumont, NJ, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 07628.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 07628 (county grid: Bergen County).
+roof work brief: wind uplift clip spacing and chimney cricket slope were cross-checked for the Dumont intake packet.
+
+On-site sector marker: Bergen County / ZIP 07628 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Bergen County: moisture and logistics baselines are keyed to Dumont, NJ before niche-specific work begins.
 
 Service reference: NJ-07628-5cd46dd5

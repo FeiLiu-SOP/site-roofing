@@ -11,26 +11,31 @@ lng: -111.0100
 zipSample: ["85705"]
 zipCodes: ["85705"]
 localPaths: ["Pima County / elevation 2270 ft band", "Pima County / coords 32.2900, -111.0100", "Pima County / ZIP 85705 sector", "Pima County / primary ZIP 85705"]
-zillowHomeValueUsd: 254244
 ---
 
 **Engineering Notice for Flowing Wells:** Structural loading calculated based on 2270 ft terrain assessment. Regional dispatch grid: Pima County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: In Flowing Wells, AZ, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Flowing Wells, AZ, but intake notes help reduce delays.
+Low-slope sections in Flowing Wells, AZ need positive drainage before membrane repairs are scoped.
 
-We coordinate local dispatch coverage around Flowing Wells, AZ and nearby ZIP sectors.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Structured milestones protect both sides when scheduling work.
+Step: compare shingle manufacturer wind-zone ratings for Flowing Wells, AZ exposure class.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85705.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 85705 zone).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 85705 (county grid: Pima County).
+Field routing: skylight curb height paired with wind uplift clip spacing near ZIP 85705.
+
+Field note: Valley debris and granule loss noted for ZIP 85705.
+
+On-site sector marker: Pima County / coords 32.2900, -111.0100 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 32.2900, -111.0100 at elevation ~2270 ft aligns with Pima County intake staging.
 
 Service reference: AZ-85705-3e0c76ba

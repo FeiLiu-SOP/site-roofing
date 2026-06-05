@@ -11,27 +11,31 @@ lng: -105.9800
 zipSample: ["87507", "87501", "87502", "87503", "87505"]
 zipCodes: ["87507", "87501", "87509", "87505", "87503", "87502"]
 localPaths: ["Santa Fe County / coords 35.6600, -105.9800", "Santa Fe County / elevation 6765 ft band", "Santa Fe County / ZIP 87502 sector", "Santa Fe County / ZIP 87505 sector", "Santa Fe County / ZIP 87507 sector"]
-zillowHomeValueUsd: 563378
 ---
 
 **Engineering Notice for Santa Fe:** Structural loading calculated based on 6765 ft terrain assessment. Regional dispatch grid: Santa Fe County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic ventilation deficits in Santa Fe, NM can mimic roof leaks at ceiling penetrations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 87505.
+Wind-zone note: Santa Fe, NM exposure class can change starter-strip and cap nail schedules.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 87507/87501/87503 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 87507/87501/87503.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 87507, 87501, 87503, 87502, 87505 (county grid: Santa Fe County).
+roofing service brief: pipe boot manufacturer match and attic baffle spacing were cross-checked for the Santa Fe intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 87509/87505/87501.
+
+Primary postal anchor 87505 with multi-ZIP overlap in Santa Fe; field packets tag Santa Fe County for county-grid reconciliation.
+
+On-site sector marker: Santa Fe County / ZIP 87501 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87505-056ffc81

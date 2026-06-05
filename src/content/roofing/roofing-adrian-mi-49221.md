@@ -11,26 +11,31 @@ lng: -84.0400
 zipSample: ["49221"]
 zipCodes: ["49221"]
 localPaths: ["Lenawee County / coords 41.9000, -84.0400", "Lenawee County / primary ZIP 49221", "Lenawee County / ZIP 49221 sector", "Lenawee County / elevation 771 ft band"]
-zillowHomeValueUsd: 207414
 ---
 
 **Engineering Notice for Adrian:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Lenawee County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Adrian, MI.
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Adrian, MI attics should be checked against current mechanical exhaust additions.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+TPO seam welds in Adrian, MI commercial sections need probe tests after freeze events.
 
-We coordinate local dispatch coverage around Adrian, MI and nearby ZIP sectors.
+FAQ: When should permanent remediation start? In Adrian, MI, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Adrian, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 49221 coverage.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Moisture pathway inspection logged near ZIP 49221 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 49221 (county grid: Lenawee County).
+roof work brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Adrian intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 49221.
+
+Coordinate-anchored dispatch note: center reference 41.9000, -84.0400 at elevation ~771 ft aligns with Lenawee County intake staging.
+
+On-site sector marker: Lenawee County / ZIP 49221 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49221-da3b71a4

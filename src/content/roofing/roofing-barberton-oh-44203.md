@@ -11,27 +11,31 @@ lng: -81.6000
 zipSample: ["44203"]
 zipCodes: ["44203"]
 localPaths: ["Summit County / coords 41.0100, -81.6000", "Summit County / ZIP 44203 sector", "Summit County / primary ZIP 44203", "Summit County / elevation 955 ft band"]
-zillowHomeValueUsd: 179039
 ---
 
 **Engineering Notice for Barberton:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: Summit County.
 
 
-Tip: avoid large upfront payments without milestones.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Barberton, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 44203.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 44203 zone).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 44203 coverage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 44203 (county grid: Summit County).
+Coastal humidity in Barberton, OH can slow shingle seal-down after shoulder-season storms.
+
+Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Summit County county grid review.
+
+On-site sector marker: Summit County / coords 41.0100, -81.6000 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Summit County / elevation 955 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44203-6924e3c4

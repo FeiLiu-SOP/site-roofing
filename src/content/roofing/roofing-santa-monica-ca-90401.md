@@ -11,27 +11,31 @@ lng: -118.4800
 zipSample: ["90406", "90403", "90410", "90404", "90407"]
 zipCodes: ["90408", "90410", "90407", "90402", "90406", "90403", "90409", "90405", "90401", "90411", "90404"]
 localPaths: ["Los Angeles County / ZIP 90406 sector", "Los Angeles County / primary ZIP 90401", "Los Angeles County / elevation 135 ft band", "Los Angeles County / ZIP 90403 sector", "Los Angeles County / ZIP 90404 sector"]
-zillowHomeValueUsd: 1317894
 ---
 
 **Engineering Notice for Santa Monica:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Our Santa Monica, CA dispatch packets reference county grid Los Angeles County and elevation band 135 ft.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 90401.
+Risk flag: Tile underlayment age in Santa Monica, CA can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Our service coordination centers on Santa Monica, CA coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Santa Monica, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 90408/90405/90411 intake.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Wind exposure category reviewed for ZIP sector 90408/90405/90411.
+Low-slope sections in Santa Monica, CA need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 90408, 90405, 90411, 90407, 90409 (county grid: Los Angeles County).
+Field routing: soffit intake free area paired with starter-strip setback near ZIP 90401.
+
+Field note: Valley debris and granule loss noted for ZIP 90411/90409/90405.
+
+On-site sector marker: Los Angeles County / ZIP 90402 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 34.0200, -118.4800 at elevation ~135 ft aligns with Los Angeles County intake staging.
 
 Service reference: CA-90401-1eb61a03

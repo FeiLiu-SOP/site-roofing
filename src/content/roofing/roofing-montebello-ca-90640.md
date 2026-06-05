@@ -11,24 +11,33 @@ lng: -118.1100
 zipSample: ["90640"]
 zipCodes: ["90640"]
 localPaths: ["Los Angeles County / coords 34.0200, -118.1100", "Los Angeles County / ZIP 90640 sector", "Los Angeles County / primary ZIP 90640", "Los Angeles County / elevation 200 ft band"]
-zillowHomeValueUsd: 827410
 ---
 
 **Engineering Notice for Montebello:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Montebello, CA, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Homeowners in Montebello, CA often face sudden roofing service problems that require fast action.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Our service coordination centers on Montebello, CA coverage windows and verified intake details.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Connection points spot-checked where accessible (ZIP 90640 zone).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 90640 (county grid: Los Angeles County).
+FAQ: When should permanent remediation start? In Montebello, CA, delayed dry-in can expand insulation and ceiling repairs.
+
+Freeze-thaw cycles around Montebello, CA stress nail pops along eaves and rake edges.
+
+Wind-zone note: Montebello, CA exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: wind uplift clip spacing plus shingle exposure calibration referenced in Los Angeles County county grid review.
+
+On-site sector marker: Los Angeles County / elevation 200 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 34.0200, -118.1100 at elevation ~200 ft aligns with Los Angeles County intake staging.
 
 Service reference: CA-90640-94777541

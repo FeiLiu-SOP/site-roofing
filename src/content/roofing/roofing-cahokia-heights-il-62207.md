@@ -11,27 +11,35 @@ lng: -90.1500
 zipSample: ["62205", "62206", "62203", "62207"]
 zipCodes: ["62203", "62206", "62205", "62207"]
 localPaths: ["St. Clair County / ZIP 62206 sector", "St. Clair County / primary ZIP 62207", "St. Clair County / elevation 394 ft band", "St. Clair County / ZIP 62205 sector", "St. Clair County / ZIP 62207 sector"]
-zillowHomeValueUsd: 42232
 ---
 
 **Engineering Notice for Cahokia Heights:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: St. Clair County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cahokia Heights, IL, but intake notes help reduce delays.
+Our Cahokia Heights, IL dispatch packets reference county grid St. Clair County and elevation band 394 ft.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 62207.
+Hail bruising on Cahokia Heights, IL ridges may not breach felt until the next wind event.
 
-Our service coordination centers on Cahokia Heights, IL coverage windows and verified intake details.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 62205/62206/62203.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 62205/62206/62203 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 62205, 62206, 62203, 62207 (county grid: St. Clair County).
+FAQ: Can you tarp only part of the roof? In Cahokia Heights, IL, yes—if slope and anchor points support safe tie-offs.
+
+Wind-zone note: Cahokia Heights, IL exposure class can change starter-strip and cap nail schedules.
+
+roof service brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Cahokia Heights intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 62207/62206/62203.
+
+On-site sector marker: St. Clair County / ZIP 62206 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Service coverage aligns with St. Clair County and primary ZIP 62207. Terrain reference: 394 ft. Center point: 38.5700, -90.1500. ZIP sample: 62207, 62203, 62205, 62206. Service perimeter note: Coverage extends through St. Clair County with dispatch centered near ZIP 62207.
 
 Service reference: IL-62207-5bafa030

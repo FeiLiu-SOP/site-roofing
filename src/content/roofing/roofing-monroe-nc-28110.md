@@ -11,26 +11,31 @@ lng: -80.5600
 zipSample: ["28110", "28112", "28111"]
 zipCodes: ["28112", "28111", "28110"]
 localPaths: ["Union County / primary ZIP 28110", "Union County / ZIP 28111 sector", "Union County / coords 35.0100, -80.5600", "Union County / elevation 604 ft band", "Union County / ZIP 28110 sector"]
-zillowHomeValueUsd: 373698
 ---
 
 **Engineering Notice for Monroe:** Structural loading calculated based on 604 ft terrain assessment. Regional dispatch grid: Union County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In Monroe, NC, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+TPO seam welds in Monroe, NC commercial sections need probe tests after freeze events.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Tile underlayment age in Monroe, NC can fail independently of visible tile cracks.
 
-In Monroe, NC, seasonal demand can change scheduling windows.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 28111/28112/28110.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28111/28112/28110.
+Code context: Ventilation ratios for Monroe, NC attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 28111, 28112, 28110 (county grid: Union County).
+Scope trace: synthetic underlayment slip plus ice-barrier lap sequence referenced in Union County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 28111/28110/28112.
+
+On-site sector marker: Union County / ZIP 28110 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 28110 with multi-ZIP overlap in Monroe; field packets tag Union County for county-grid reconciliation.
 
 Service reference: NC-28110-26fc44c9

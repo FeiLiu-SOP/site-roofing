@@ -11,26 +11,35 @@ lng: -74.1900
 zipSample: ["07206", "07202", "07207", "07208", "07201"]
 zipCodes: ["07207", "07201", "07202", "07208", "07206"]
 localPaths: ["Union County / ZIP 07207 sector", "Union County / ZIP 07202 sector", "Union County / ZIP 07208 sector", "Union County / primary ZIP 07208", "Union County / coords 40.6700, -74.1900"]
-zillowHomeValueUsd: 572752
 ---
 
 **Engineering Notice for Elizabeth:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Union County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Elizabeth, NJ, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 07208.
+Attic ventilation deficits in Elizabeth, NJ can mimic roof leaks at ceiling penetrations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 07208.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 07201/07208/07202 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 07201, 07208, 07202, 07206, 07207 (county grid: Union County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+FAQ: Is partial dry-in possible? In Elizabeth, NJ, yes—if slope and anchor points support safe tie-offs.
+
+roof service brief: soffit intake free area and ice-barrier lap sequence were cross-checked for the Elizabeth intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 07207/07206/07201.
+
+Primary postal anchor 07208 with multi-ZIP overlap in Elizabeth; field packets tag Union County for county-grid reconciliation.
+
+On-site sector marker: Union County / primary ZIP 07208 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07208-32595f1f

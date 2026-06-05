@@ -11,25 +11,29 @@ lng: -71.0200
 zipSample: ["02269", "02169", "02171", "02170"]
 zipCodes: ["02169", "02170", "02171", "02269"]
 localPaths: ["Norfolk County / ZIP 02169 sector", "Norfolk County / elevation 151 ft band", "Norfolk County / primary ZIP 02169", "Norfolk County / ZIP 02170 sector", "Norfolk County / ZIP 02171 sector"]
-zillowHomeValueUsd: 631222
 ---
 
 **Engineering Notice for Quincy:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Norfolk County.
 
 
-Our service coordination centers on Quincy, MA coverage windows and verified intake details.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 02169.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Quincy, MA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Quincy, MA, but intake notes help reduce delays.
+In Quincy, MA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Wind exposure category reviewed for ZIP sector 02169/02269/02171.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 02169, 02269, 02171, 02170 (county grid: Norfolk County).
+Step: separate emergency tarp scope from permanent restoration line items.
+
+roofing service brief: starter-strip setback and wind uplift clip spacing were cross-checked for the Quincy intake packet.
+
+On-site sector marker: Norfolk County / ZIP 02269 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~151 ft across the Norfolk County area. Coordinates: 42.2500, -71.0200. ZIP sample: 02170, 02171, 02269, 02169. Service perimeter note: Coverage extends through Norfolk County with dispatch centered near ZIP 02169.
 
 Service reference: MA-02169-9d1f7223

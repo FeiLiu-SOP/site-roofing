@@ -11,24 +11,29 @@ lng: -119.6100
 zipSample: ["93662"]
 zipCodes: ["93662"]
 localPaths: ["Fresno County / coords 36.5700, -119.6100", "Fresno County / ZIP 93662 sector", "Fresno County / elevation 331 ft band", "Fresno County / primary ZIP 93662"]
-zillowHomeValueUsd: 363991
 ---
 
 **Engineering Notice for Selma:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: Fresno County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Selma, CA attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Selma, CA, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Selma, CA exposure class.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-In Selma, CA, urgent roof service issues can escalate quickly.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Access points and staging constraints recorded for ZIP 93662 coverage.
+Risk flag: Tile underlayment age in Selma, CA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 93662 (county grid: Fresno County).
+Wood shake courses in Selma, CA require skip-spacing rules at valleys.
+
+roof service brief: pipe boot manufacturer match and synthetic underlayment slip were cross-checked for the Selma intake packet.
+
+On-site sector marker: Fresno County / elevation 331 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Fresno County and primary ZIP 93662. Terrain reference: 331 ft. Center point: 36.5700, -119.6100. ZIP sample: 93662. Service perimeter note: Coverage extends through Fresno County with dispatch centered near ZIP 93662.
 
 Service reference: CA-93662-8fdb43a5

@@ -11,25 +11,35 @@ lng: -93.7200
 zipSample: ["50131"]
 zipCodes: ["50131"]
 localPaths: ["Polk County / coords 41.6900, -93.7200", "Polk County / primary ZIP 50131", "Polk County / ZIP 50131 sector", "Polk County / elevation 820 ft band"]
-zillowHomeValueUsd: 395613
 ---
 
 **Engineering Notice for Johnston:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Polk County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Johnston, IA, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+Metal panel oil-canning in Johnston, IA may signal clip spacing issues, not wind damage alone.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 50131.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 50131 coverage.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 50131 (county grid: Polk County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+FAQ: When should permanent service start? In Johnston, IA, delayed dry-in can expand insulation and ceiling repairs.
+
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+roof work brief: shingle exposure calibration and valley metal gauge were cross-checked for the Johnston intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 50131.
+
+On-site sector marker: Polk County / coords 41.6900, -93.7200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Polk County / ZIP 50131 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50131-82d33a2d

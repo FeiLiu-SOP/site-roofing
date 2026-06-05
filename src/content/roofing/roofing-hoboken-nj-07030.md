@@ -11,27 +11,29 @@ lng: -74.0300
 zipSample: ["07030"]
 zipCodes: ["07030"]
 localPaths: ["Hudson County / coords 40.7500, -74.0300", "Hudson County / primary ZIP 07030", "Hudson County / elevation 43 ft band", "Hudson County / ZIP 07030 sector"]
-zillowHomeValueUsd: 854747
 ---
 
 **Engineering Notice for Hoboken:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hudson County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 07030.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can you tarp only part of the roof? In Hoboken, NJ, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hoboken, NJ, but intake notes help reduce delays.
+Granule embedment loss on Hoboken, NJ north slopes can precede mat exposure.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-We coordinate local dispatch coverage around Hoboken, NJ and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 07030.
+Wind-zone note: Hoboken, NJ exposure class can change starter-strip and cap nail schedules.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07030.
+Risk flag: In Hoboken, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 07030 (county grid: Hudson County).
+Field routing: valley metal gauge paired with attic baffle spacing near ZIP 07030.
+
+Primary postal anchor 07030 with multi-ZIP overlap in Hoboken; field packets tag Hudson County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Hudson County and primary ZIP 07030. Terrain reference: 43 ft. Center point: 40.7500, -74.0300. ZIP sample: 07030. Logistics priority: Serving residential sectors across Hudson County and north-east ZIP 07030 grid.
 
 Service reference: NJ-07030-ad773ecf

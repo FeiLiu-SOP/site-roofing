@@ -11,26 +11,33 @@ lng: -84.5600
 zipSample: ["31192", "30213", "30349", "30291"]
 zipCodes: ["30213", "31192", "30349", "30291"]
 localPaths: ["Fulton County / ZIP 30213 sector", "Fulton County / ZIP 30349 sector", "Fulton County / coords 33.5900, -84.5600", "Fulton County / primary ZIP 30349", "Fulton County / elevation 981 ft band"]
-zillowHomeValueUsd: 251861
 ---
 
 **Engineering Notice for Union City:** Structural loading calculated based on 981 ft terrain assessment. Regional dispatch grid: Fulton County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: avoid large upfront payments without milestones.
+Valley metal in Union City, GA should be reviewed whenever granule loss tracks the water line.
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: Union City, GA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should permanent restoration start? In Union City, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Union City, GA coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30213/30291/31192.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Access points and staging constraints recorded for ZIP 30213/30291/31192 coverage.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 30213, 30291, 31192, 30349 (county grid: Fulton County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Scope trace: attic baffle spacing plus chimney cricket slope referenced in Fulton County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 30349/30213/30291.
+
+On-site sector marker: Fulton County / primary ZIP 30349 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Union City, GA: sampled sectors include 30349, 31192, 30291, 30213; county routing grid remains Fulton County.
 
 Service reference: GA-30349-e3354b6b

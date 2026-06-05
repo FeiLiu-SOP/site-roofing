@@ -11,26 +11,31 @@ lng: -77.5100
 zipSample: ["20152"]
 zipCodes: ["20152"]
 localPaths: ["Loudoun County / ZIP 20152 sector", "Loudoun County / coords 38.9100, -77.5100", "Loudoun County / primary ZIP 20152", "Loudoun County / elevation 285 ft band"]
-zillowHomeValueUsd: 853534
 ---
 
 **Engineering Notice for South Riding:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Loudoun County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South Riding, VA, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in South Riding, VA can fail independently of visible tile cracks.
 
-In South Riding, VA, seasonal demand can change scheduling windows.
+TPO seam welds in South Riding, VA commercial sections need probe tests after freeze events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: request a written scope before work starts.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20152.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 20152 zone).
+Material note: In South Riding, VA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 20152 (county grid: Loudoun County).
+Step: compare shingle manufacturer wind-zone ratings for South Riding, VA exposure class.
+
+Field routing: counter-flashing reglet depth paired with drip-edge metal profile near ZIP 20152.
+
+Regional mesh label Loudoun County: moisture and logistics baselines are keyed to South Riding, VA before niche-specific work begins.
+
+On-site sector marker: Loudoun County / primary ZIP 20152 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20152-9d0fd9f1

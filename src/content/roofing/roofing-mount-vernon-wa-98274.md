@@ -11,26 +11,31 @@ lng: -122.3100
 zipSample: ["98273", "98274"]
 zipCodes: ["98273", "98274"]
 localPaths: ["Skagit County / coords 48.4200, -122.3100", "Skagit County / primary ZIP 98274", "Skagit County / ZIP 98274 sector", "Skagit County / ZIP 98273 sector", "Skagit County / elevation 194 ft band"]
-zillowHomeValueUsd: 621297
 ---
 
 **Engineering Notice for Mount Vernon:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Skagit County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How long can shingles wait after storm damage? In Mount Vernon, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wood shake courses in Mount Vernon, WA require skip-spacing rules at valleys.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mount Vernon, WA, but intake notes help reduce delays.
+Regulatory note: Mount Vernon, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-We coordinate local dispatch coverage around Mount Vernon, WA and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Mount Vernon, WA can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 98273/98274.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 98273/98274 zone).
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 98273, 98274 (county grid: Skagit County).
+Field routing: chimney cricket slope paired with skylight curb height near ZIP 98274.
+
+Field note: Attic moisture pathway scan referenced ZIP 98274/98273.
+
+On-site sector marker: Skagit County / ZIP 98273 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 98274 with multi-ZIP overlap in Mount Vernon; field packets tag Skagit County for county-grid reconciliation.
 
 Service reference: WA-98274-da841eac

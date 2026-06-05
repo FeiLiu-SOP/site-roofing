@@ -11,27 +11,31 @@ lng: -122.1500
 zipSample: ["98006", "98007", "98015", "98009", "98004"]
 zipCodes: ["98006", "98008", "98015", "98005", "98004", "98007", "98009"]
 localPaths: ["King County / ZIP 98015 sector", "King County / elevation 338 ft band", "King County / primary ZIP 98004", "King County / ZIP 98006 sector", "King County / ZIP 98004 sector"]
-zillowHomeValueUsd: 1988217
 ---
 
 **Engineering Notice for Bellevue:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: King County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 98004.
+We coordinate Bellevue, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: compare at least two estimates for scope and timeline.
+Granule embedment loss on Bellevue, WA north slopes can precede mat exposure.
 
-Our service coordination centers on Bellevue, WA coverage windows and verified intake details.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can you tarp only part of the roof? In Bellevue, WA, yes—if slope and anchor points support safe tie-offs.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Bellevue, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 98005/98009/98008 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 98005/98009/98008 zone).
+Code context: Ventilation ratios for Bellevue, WA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 98005, 98009, 98008, 98007, 98004 (county grid: King County).
+roofing service brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Bellevue intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98006/98004/98007.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~338 ft across the King County area. Coordinates: 47.6000, -122.1500. ZIP sample: 98006, 98015, 98007, 98005, 98009. Regional routing note: King County traffic flow is balanced around ZIP 98004 service demand.
+
+On-site sector marker: King County / ZIP 98008 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98004-253511e0

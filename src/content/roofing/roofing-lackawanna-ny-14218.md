@@ -11,26 +11,31 @@ lng: -78.8300
 zipSample: ["14218"]
 zipCodes: ["14218"]
 localPaths: ["Erie County / primary ZIP 14218", "Erie County / coords 42.8200, -78.8300", "Erie County / elevation 591 ft band", "Erie County / ZIP 14218 sector"]
-zillowHomeValueUsd: 212850
 ---
 
 **Engineering Notice for Lackawanna:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Erie County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lackawanna, NY, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: request a written scope before work starts.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around Lackawanna, NY and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Parapet coping movement in Lackawanna, NY can channel water behind wall cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 14218.
+FAQ: Is partial dry-in possible? In Lackawanna, NY, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 14218.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 14218 (county grid: Erie County).
+Field routing: drip-edge metal profile paired with ridge cap nail schedule near ZIP 14218.
+
+Field note: Attic moisture pathway scan referenced ZIP 14218.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Erie County. Reference elevation: 591 ft. Primary coordinates: 42.8200, -78.8300. ZIP sample: 14218. Logistics priority: Serving residential sectors across Erie County and north-east ZIP 14218 grid.
+
+On-site sector marker: Erie County / ZIP 14218 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14218-92693d55

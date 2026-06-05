@@ -11,26 +11,35 @@ lng: -85.5900
 zipSample: ["49005", "49007", "49008", "49006", "49019"]
 zipCodes: ["49019", "49008", "49005", "49074", "49007", "49001", "49006"]
 localPaths: ["Kalamazoo County / ZIP 49006 sector", "Kalamazoo County / ZIP 49007 sector", "Kalamazoo County / ZIP 49019 sector", "Kalamazoo County / ZIP 49008 sector", "Kalamazoo County / ZIP 49005 sector"]
-zillowHomeValueUsd: 163345
 ---
 
 **Engineering Notice for Kalamazoo:** Structural loading calculated based on 784 ft terrain assessment. Regional dispatch grid: Kalamazoo County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Our Kalamazoo, MI dispatch packets reference county grid Kalamazoo County and elevation band 784 ft.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kalamazoo, MI, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-In Kalamazoo, MI, seasonal demand can change scheduling windows.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 49001/49007/49074 intake.
+Granule embedment loss on Kalamazoo, MI north slopes can precede mat exposure.
 
-Field note: Connection points spot-checked where accessible (ZIP 49001/49007/49074 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 49001, 49007, 49074, 49006, 49019 (county grid: Kalamazoo County).
+FAQ: When should permanent remediation start? In Kalamazoo, MI, delayed dry-in can expand insulation and ceiling repairs.
+
+Regulatory note: Kalamazoo, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roofing service brief: soffit intake free area and skylight curb height were cross-checked for the Kalamazoo intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 49005/49019/49074.
+
+Coordinate-anchored dispatch note: center reference 42.2700, -85.5900 at elevation ~784 ft aligns with Kalamazoo County intake staging.
+
+Regional mesh label Kalamazoo County: moisture and logistics baselines are keyed to Kalamazoo, MI before niche-specific work begins.
 
 Service reference: MI-49001-37c541e7

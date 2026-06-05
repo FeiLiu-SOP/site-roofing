@@ -11,27 +11,35 @@ lng: -93.5700
 zipSample: ["55330"]
 zipCodes: ["55330"]
 localPaths: ["Sherburne County / ZIP 55330 sector", "Sherburne County / elevation 1040 ft band", "Sherburne County / coords 45.3300, -93.5700", "Sherburne County / primary ZIP 55330"]
-zillowHomeValueUsd: 410486
 ---
 
 **Engineering Notice for Elk River:** Structural loading calculated based on 1040 ft terrain assessment. Regional dispatch grid: Sherburne County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Our service coordination centers on Elk River, MN coverage windows and verified intake details.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55330.
+Wood shake courses in Elk River, MN require skip-spacing rules at valleys.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Access points and staging constraints recorded for ZIP 55330 coverage.
+Regulatory note: Elk River, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 55330.
+FAQ: When should permanent remediation start? In Elk River, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 55330 (county grid: Sherburne County).
+Risk flag: In Elk River, MN, interior stains may track from HVAC condensate rather than roof cladding.
+
+We coordinate Elk River, MN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Scope trace: starter-strip setback plus soffit intake free area referenced in Sherburne County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 55330.
+
+On-site sector marker: Sherburne County / primary ZIP 55330 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 45.3300, -93.5700 at elevation ~1040 ft aligns with Sherburne County intake staging.
 
 Service reference: MN-55330-d5d863ea

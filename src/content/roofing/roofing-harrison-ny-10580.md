@@ -11,26 +11,29 @@ lng: -73.7200
 zipSample: ["10577", "10528", "10580", "10604"]
 zipCodes: ["10580", "10577", "10604", "10528"]
 localPaths: ["Westchester County / ZIP 10577 sector", "Westchester County / primary ZIP 10580", "Westchester County / coords 41.0200, -73.7200", "Westchester County / ZIP 10604 sector", "Westchester County / ZIP 10528 sector"]
-zillowHomeValueUsd: 2216644
 ---
 
 **Engineering Notice for Harrison:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Westchester County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Harrison, NY, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: confirm licensing and insurance before approving work.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Local conditions in Harrison, NY can affect timelines and material choices.
+Our Harrison, NY dispatch packets reference county grid Westchester County and elevation band 230 ft.
 
-Our service coordination centers on Harrison, NY coverage windows and verified intake details.
+FAQ: When should permanent service start? In Harrison, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Harrison, NY exposure class can change starter-strip and cap nail schedules.
 
-Field note: Access points and staging constraints recorded for ZIP 10528/10577/10580 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 10528/10577/10580.
+Tile and shingle mixes in Harrison, NY require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 10528, 10577, 10580, 10604 (county grid: Westchester County).
+Field routing: counter-flashing reglet depth paired with deck sheathing thickness near ZIP 10580.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~230 ft across the Westchester County area. Coordinates: 41.0200, -73.7200. ZIP sample: 10528, 10604, 10580, 10577. Logistics priority: Serving residential sectors across Westchester County and north-east ZIP 10580 grid.
+
+Primary postal anchor 10580 with multi-ZIP overlap in Harrison; field packets tag Westchester County for county-grid reconciliation.
 
 Service reference: NY-10580-97c1214e

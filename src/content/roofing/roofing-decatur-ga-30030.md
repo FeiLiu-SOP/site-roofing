@@ -11,24 +11,35 @@ lng: -84.3000
 zipSample: ["30036", "30030", "30031"]
 zipCodes: ["30030", "30036", "30031"]
 localPaths: ["DeKalb County / ZIP 30036 sector", "DeKalb County / primary ZIP 30030", "DeKalb County / ZIP 30030 sector", "DeKalb County / ZIP 30031 sector", "DeKalb County / coords 33.7700, -84.3000"]
-zillowHomeValueUsd: 639014
 ---
 
 **Engineering Notice for Decatur:** Structural loading calculated based on 1030 ft terrain assessment. Regional dispatch grid: DeKalb County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When should permanent restoration start? In Decatur, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: request a written scope before work starts.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Decatur, GA, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Decatur, GA can fail independently of visible tile cracks.
 
-We coordinate local dispatch coverage around Decatur, GA and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for Decatur, GA.
 
-Field note: Moisture pathway inspection logged near ZIP 30031/30030/30036 intake.
+Wind-zone note: Decatur, GA exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 30031, 30030, 30036 (county grid: DeKalb County).
+Freeze-thaw cycles around Decatur, GA stress nail pops along eaves and rake edges.
+
+Our Decatur, GA dispatch packets reference county grid DeKalb County and elevation band 1030 ft.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: chimney cricket slope paired with counter-flashing reglet depth near ZIP 30030.
+
+Field note: Shingle seal-down timing logged near ZIP 30030/30031/30036.
+
+On-site sector marker: DeKalb County / primary ZIP 30030 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 33.7700, -84.3000 at elevation ~1030 ft aligns with DeKalb County intake staging.
 
 Service reference: GA-30030-e34f5ce6

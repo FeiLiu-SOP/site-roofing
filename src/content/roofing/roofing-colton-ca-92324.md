@@ -11,27 +11,33 @@ lng: -117.3300
 zipSample: ["92324"]
 zipCodes: ["92324"]
 localPaths: ["San Bernardino County / ZIP 92324 sector", "San Bernardino County / coords 34.0500, -117.3300", "San Bernardino County / primary ZIP 92324", "San Bernardino County / elevation 938 ft band"]
-zillowHomeValueUsd: 496458
 ---
 
 **Engineering Notice for Colton:** Structural loading calculated based on 938 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Colton, CA, but intake notes help reduce delays.
+FAQ: How long can shingles wait after storm damage? In Colton, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 92324.
+Coastal humidity in Colton, CA can slow shingle seal-down after shoulder-season storms.
 
-We coordinate local dispatch coverage around Colton, CA and nearby ZIP sectors.
+Wood shake courses in Colton, CA require skip-spacing rules at valleys.
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Homeowners in Colton, CA often face sudden roof work problems that require fast action.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 92324.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 92324.
 
-Field note: Access points and staging constraints recorded for ZIP 92324 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 92324 (county grid: San Bernardino County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Regulatory note: Colton, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: wind uplift clip spacing plus shingle exposure calibration referenced in San Bernardino County county grid review.
+
+Primary postal anchor 92324 with multi-ZIP overlap in Colton; field packets tag San Bernardino County for county-grid reconciliation.
+
+Regional mesh label San Bernardino County: moisture and logistics baselines are keyed to Colton, CA before niche-specific work begins.
 
 Service reference: CA-92324-43971071

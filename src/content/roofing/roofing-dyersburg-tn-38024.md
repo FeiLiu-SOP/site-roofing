@@ -11,24 +11,29 @@ lng: -89.3800
 zipSample: ["38024", "38025"]
 zipCodes: ["38024", "38025"]
 localPaths: ["Dyer County / ZIP 38024 sector", "Dyer County / ZIP 38025 sector", "Dyer County / elevation 348 ft band", "Dyer County / coords 36.0500, -89.3800", "Dyer County / primary ZIP 38024"]
-zillowHomeValueUsd: 166546
 ---
 
 **Engineering Notice for Dyersburg:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Dyer County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-A written scope helps prevent rework and mismatched expectations.
+Wind-zone note: Dyersburg, TN exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around Dyersburg, TN and nearby ZIP sectors.
+Step: compare shingle manufacturer wind-zone ratings for Dyersburg, TN exposure class.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Tile underlayment age in Dyersburg, TN can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 38024/38025 coverage.
+Parapet coping movement in Dyersburg, TN can channel water behind wall cladding.
 
-Dispatch sectors sampled: ZIP 38024, 38025 (county grid: Dyer County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Scope trace: attic baffle spacing plus valley metal gauge referenced in Dyer County county grid review.
+
+On-site sector marker: Dyer County / ZIP 38024 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 36.0500, -89.3800 at elevation ~348 ft aligns with Dyer County intake staging.
 
 Service reference: TN-38024-2922141e

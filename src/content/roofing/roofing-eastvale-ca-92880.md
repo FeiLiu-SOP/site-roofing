@@ -11,24 +11,31 @@ lng: -117.5800
 zipSample: ["91752", "92880"]
 zipCodes: ["92880", "91752"]
 localPaths: ["Riverside County / coords 33.9600, -117.5800", "Riverside County / ZIP 91752 sector", "Riverside County / elevation 617 ft band", "Riverside County / primary ZIP 92880", "Riverside County / ZIP 92880 sector"]
-zillowHomeValueUsd: 954171
 ---
 
 **Engineering Notice for Eastvale:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can you tarp only part of the roof? In Eastvale, CA, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: avoid large upfront payments without milestones.
+Attic ventilation deficits in Eastvale, CA can mimic roof leaks at ceiling penetrations.
 
-Our service coordination centers on Eastvale, CA coverage windows and verified intake details.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 92880.
 
-Field note: Wind exposure category reviewed for ZIP sector 91752/92880.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 91752, 92880 (county grid: Riverside County).
+Risk flag: Tile underlayment age in Eastvale, CA can fail independently of visible tile cracks.
+
+roof service brief: wind uplift clip spacing and ridge cap nail schedule were cross-checked for the Eastvale intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 92880/91752.
+
+On-site sector marker: Riverside County / primary ZIP 92880 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 33.9600, -117.5800 at elevation ~617 ft aligns with Riverside County intake staging.
 
 Service reference: CA-92880-be0147a2

@@ -11,27 +11,29 @@ lng: -82.7900
 zipSample: ["34697", "34698"]
 zipCodes: ["34697", "34698"]
 localPaths: ["Pinellas County / primary ZIP 34698", "Pinellas County / elevation 30 ft band", "Pinellas County / ZIP 34698 sector", "Pinellas County / coords 28.0300, -82.7900", "Pinellas County / ZIP 34697 sector"]
-zillowHomeValueUsd: 407277
 ---
 
 **Engineering Notice for Dunedin:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Pinellas County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can you tarp only part of the roof? In Dunedin, FL, yes—if slope and anchor points support safe tie-offs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 34698.
+Risk flag: Tile underlayment age in Dunedin, FL can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Dunedin, FL, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Moisture pathway inspection logged near ZIP 34698/34697 intake.
+Step: compare shingle manufacturer wind-zone ratings for Dunedin, FL exposure class.
 
-Field note: Connection points spot-checked where accessible (ZIP 34698/34697 zone).
+Granule embedment loss on Dunedin, FL north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 34698, 34697 (county grid: Pinellas County).
+Scope trace: ice-barrier lap sequence plus chimney cricket slope referenced in Pinellas County county grid review.
+
+On-site sector marker: Pinellas County / ZIP 34697 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Dunedin, FL: sampled sectors include 34697, 34698; county routing grid remains Pinellas County.
 
 Service reference: FL-34698-1846b2d1

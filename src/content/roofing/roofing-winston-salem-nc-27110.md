@@ -11,27 +11,29 @@ lng: -80.2600
 zipSample: ["27109", "27107", "27127", "27150", "27040"]
 zipCodes: ["27198", "27130", "27115", "27120", "27127", "27114", "27106", "27116", "27150", "27102", "27117", "27110"]
 localPaths: ["Forsyth County / ZIP 27109 sector", "Forsyth County / coords 36.1000, -80.2600", "Forsyth County / elevation 801 ft band", "Forsyth County / ZIP 27107 sector", "Forsyth County / ZIP 27150 sector"]
-zillowHomeValueUsd: 243928
 ---
 
 **Engineering Notice for Winston-Salem:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Forsyth County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 27110.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: request a written scope before work starts.
+Parapet coping movement in Winston-Salem, NC can channel water behind wall cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Winston-Salem, NC, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Access points and staging constraints recorded for ZIP 27115/27130/27108 coverage.
+FAQ: Can you tarp only part of the roof? In Winston-Salem, NC, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 27115/27130/27108 zone).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 27115, 27130, 27108, 27117, 27102 (county grid: Forsyth County).
+Field routing: shingle exposure calibration paired with counter-flashing reglet depth near ZIP 27110.
+
+ZIP-corridor snapshot for Winston-Salem, NC: sampled sectors include 27116, 27040, 27114, 27152, 27199, 27110, 27106, 27108; county routing grid remains Forsyth County.
+
+On-site sector marker: Forsyth County / elevation 801 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27110-b1dc2330

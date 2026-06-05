@@ -11,27 +11,35 @@ lng: -120.2300
 zipSample: ["93610"]
 zipCodes: ["93610"]
 localPaths: ["Madera County / ZIP 93610 sector", "Madera County / elevation 262 ft band", "Madera County / coords 37.1100, -120.2300", "Madera County / primary ZIP 93610"]
-zillowHomeValueUsd: 393293
 ---
 
 **Engineering Notice for Chowchilla:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Madera County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Chowchilla, CA can fail independently of visible tile cracks.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 93610.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Our service coordination centers on Chowchilla, CA coverage windows and verified intake details.
+Step: stage tear-off debris paths away from landscape drains.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Note recent wind events when filing insurance photos for Chowchilla, CA.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Connection points spot-checked where accessible (ZIP 93610 zone).
+Code context: Ventilation ratios for Chowchilla, CA attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 93610 coverage.
+Material note: In Chowchilla, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 93610 (county grid: Madera County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Synthetic underlayment slip in Chowchilla, CA is often tied to deck moisture, not wind alone.
+
+Field routing: starter-strip setback paired with attic baffle spacing near ZIP 93610.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 93610.
+
+On-site sector marker: Madera County / elevation 262 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Madera County / ZIP 93610 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93610-b302f5ff

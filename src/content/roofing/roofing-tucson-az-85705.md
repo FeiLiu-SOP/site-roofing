@@ -11,27 +11,33 @@ lng: -110.8800
 zipSample: ["85724", "85713", "85716", "85751", "85721"]
 zipCodes: ["85732", "85734", "85721", "85723", "85775", "85751", "85717", "85724", "85754", "85756", "85709", "85725"]
 localPaths: ["Pima County / primary ZIP 85705", "Pima County / elevation 2677 ft band", "Pima County / coords 32.1500, -110.8800", "Pima County / ZIP 85721 sector", "Pima County / ZIP 85716 sector"]
-zillowHomeValueUsd: 254245
 ---
 
 **Engineering Notice for Tucson:** Structural loading calculated based on 2677 ft terrain assessment. Regional dispatch grid: Pima County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 85705.
+In Tucson, AZ, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Tucson, AZ.
 
-In Tucson, AZ, urgent roof service issues can escalate quickly.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 85713/85725/85730.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 85713/85725/85730 zone).
+Our Tucson, AZ dispatch packets reference county grid Pima County and elevation band 2677 ft.
 
-Dispatch sectors sampled: ZIP 85713, 85725, 85730, 85714, 85716 (county grid: Pima County).
+Wind-zone note: Tucson, AZ exposure class can change starter-strip and cap nail schedules.
+
+Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 85705.
+
+Field note: Valley debris and granule loss noted for ZIP 85715/85756/85726.
+
+On-site sector marker: Pima County / coords 32.1500, -110.8800 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Pima County / ZIP 85713 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85705-5561e0bb

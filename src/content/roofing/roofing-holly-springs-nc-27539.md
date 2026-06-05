@@ -11,24 +11,33 @@ lng: -78.8400
 zipSample: ["27540", "27539"]
 zipCodes: ["27540", "27539"]
 localPaths: ["Wake County / ZIP 27540 sector", "Wake County / elevation 420 ft band", "Wake County / ZIP 27539 sector", "Wake County / coords 35.6500, -78.8400", "Wake County / primary ZIP 27539"]
-zillowHomeValueUsd: 604338
 ---
 
 **Engineering Notice for Holly Springs:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Wake County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Holly Springs, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 27539.
 
-Tip: avoid large upfront payments without milestones.
+Metal panel oil-canning in Holly Springs, NC may signal clip spacing issues, not wind damage alone.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: map ventilation intake and exhaust pairs for Holly Springs, NC attic runs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 27539/27540 intake.
+Code context: Ventilation ratios for Holly Springs, NC attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 27539, 27540 (county grid: Wake County).
+Regulatory note: Holly Springs, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+FAQ: How long can shingles wait after storm damage? In Holly Springs, NC, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: attic baffle spacing paired with soffit intake free area near ZIP 27539.
+
+ZIP-corridor snapshot for Holly Springs, NC: sampled sectors include 27539, 27540; county routing grid remains Wake County.
+
+Regional mesh label Wake County: moisture and logistics baselines are keyed to Holly Springs, NC before niche-specific work begins.
 
 Service reference: NC-27539-b17a7dae

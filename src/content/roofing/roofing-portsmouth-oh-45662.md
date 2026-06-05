@@ -11,26 +11,35 @@ lng: -82.9400
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / elevation 860 ft band", "Scioto County / ZIP 45662 sector", "Scioto County / primary ZIP 45662", "Scioto County / coords 38.7500, -82.9400"]
-zillowHomeValueUsd: 99199
 ---
 
 **Engineering Notice for Portsmouth:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Scioto County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Portsmouth, OH, but intake notes help reduce delays.
+Wind-zone note: Portsmouth, OH exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-In Portsmouth, OH, seasonal demand can change scheduling windows.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Our service coordination centers on Portsmouth, OH coverage windows and verified intake details.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 45662 intake.
+Granule embedment loss on Portsmouth, OH north slopes can precede mat exposure.
 
-Field note: Connection points spot-checked where accessible (ZIP 45662 zone).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 45662 (county grid: Scioto County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Tile and shingle mixes in Portsmouth, OH require different fastener patterns at transitions.
+
+Scope trace: pipe boot manufacturer match plus counter-flashing reglet depth referenced in Scioto County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 45662.
+
+On-site sector marker: Scioto County / coords 38.7500, -82.9400 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Scioto County / primary ZIP 45662 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45662-3a49ee07

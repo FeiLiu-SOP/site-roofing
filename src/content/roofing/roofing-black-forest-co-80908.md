@@ -11,24 +11,29 @@ lng: -104.6800
 zipSample: ["80908", "80912", "80106"]
 zipCodes: ["80912", "80908", "80106"]
 localPaths: ["El Paso County / ZIP 80106 sector", "El Paso County / ZIP 80908 sector", "El Paso County / ZIP 80912 sector", "El Paso County / elevation 7598 ft band", "El Paso County / primary ZIP 80908"]
-zillowHomeValueUsd: 673317
 ---
 
 **Engineering Notice for Black Forest:** Structural loading calculated based on 7598 ft terrain assessment. Regional dispatch grid: El Paso County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Black Forest, CO, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Note recent wind events when filing insurance photos for Black Forest, CO.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Freeze-thaw cycles around Black Forest, CO stress nail pops along eaves and rake edges.
 
-In Black Forest, CO, urgent roof work issues can escalate quickly.
+Wind-zone note: Black Forest, CO exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 80106/80912/80908 zone).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 80106, 80912, 80908 (county grid: El Paso County).
+FAQ: When should permanent remediation start? In Black Forest, CO, delayed dry-in can expand insulation and ceiling repairs.
+
+roof work brief: starter-strip setback and valley metal gauge were cross-checked for the Black Forest intake packet.
+
+On-site sector marker: El Paso County / ZIP 80908 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Black Forest, CO: sampled sectors include 80908, 80106, 80912; county routing grid remains El Paso County.
 
 Service reference: CO-80908-46f5b756

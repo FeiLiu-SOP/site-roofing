@@ -11,26 +11,29 @@ lng: -97.4800
 zipSample: ["76513"]
 zipCodes: ["76513"]
 localPaths: ["Bell County / elevation 620 ft band", "Bell County / coords 31.0500, -97.4800", "Bell County / ZIP 76513 sector", "Bell County / primary ZIP 76513"]
-zillowHomeValueUsd: 306318
 ---
 
 **Engineering Notice for Belton:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: Bell County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Belton, TX can fail independently of visible tile cracks.
 
-Our service coordination centers on Belton, TX coverage windows and verified intake details.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: request a written scope before work starts.
+Low-slope sections in Belton, TX need positive drainage before membrane repairs are scoped.
 
-Tip: avoid large upfront payments without milestones.
+Wind-zone note: Belton, TX exposure class can change starter-strip and cap nail schedules.
 
-Homeowners in Belton, TX often face sudden roofing service problems that require fast action.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 76513 coverage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Moisture pathway inspection logged near ZIP 76513 intake.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 76513 (county grid: Bell County).
+Scope trace: attic baffle spacing plus synthetic underlayment slip referenced in Bell County county grid review.
+
+On-site sector marker: Bell County / ZIP 76513 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 76513 with multi-ZIP overlap in Belton; field packets tag Bell County for county-grid reconciliation.
 
 Service reference: TX-76513-9bffa42e

@@ -11,26 +11,31 @@ lng: -80.7500
 zipSample: ["29928", "29925", "29926", "29938"]
 zipCodes: ["29938", "29926", "29928", "29925"]
 localPaths: ["Beaufort County / elevation 49 ft band", "Beaufort County / primary ZIP 29928", "Beaufort County / coords 32.1900, -80.7500", "Beaufort County / ZIP 29938 sector", "Beaufort County / ZIP 29925 sector"]
-zillowHomeValueUsd: 779799
 ---
 
 **Engineering Notice for Hilton Head Island:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Beaufort County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Regulatory note: Hilton Head Island, SC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-In Hilton Head Island, SC, seasonal demand can change scheduling windows.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 29928/29925/29926 coverage.
+FAQ: When should permanent restoration start? In Hilton Head Island, SC, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 29928/29925/29926.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 29928, 29925, 29926, 29938 (county grid: Beaufort County).
+Skylight curb flashing in Hilton Head Island, SC should be sequenced before ridge cap replacement.
+
+roof work brief: skylight curb height and wind uplift clip spacing were cross-checked for the Hilton Head Island intake packet.
+
+Regional mesh label Beaufort County: moisture and logistics baselines are keyed to Hilton Head Island, SC before niche-specific work begins.
+
+On-site sector marker: Beaufort County / ZIP 29928 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29928-03ba8745

@@ -11,24 +11,31 @@ lng: -84.2100
 zipSample: ["45036"]
 zipCodes: ["45036"]
 localPaths: ["Warren County / elevation 764 ft band", "Warren County / coords 39.4300, -84.2100", "Warren County / primary ZIP 45036", "Warren County / ZIP 45036 sector"]
-zillowHomeValueUsd: 405120
 ---
 
 **Engineering Notice for Lebanon:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Warren County.
 
 
-We coordinate local dispatch coverage around Lebanon, OH and nearby ZIP sectors.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: stage tear-off debris paths away from landscape drains.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Lebanon, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: In Lebanon, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 45036.
+In Lebanon, OH, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Dispatch sectors sampled: ZIP 45036 (county grid: Warren County).
+FAQ: Is partial dry-in possible? In Lebanon, OH, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: starter-strip setback plus ice-barrier lap sequence referenced in Warren County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 45036.
+
+On-site sector marker: Warren County / coords 39.4300, -84.2100 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Warren County / elevation 764 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45036-9cd493ed

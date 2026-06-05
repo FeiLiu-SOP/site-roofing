@@ -11,27 +11,33 @@ lng: -92.3600
 zipSample: ["72209", "72211", "72205", "72223", "72225"]
 zipCodes: ["72212", "72211", "72222", "72219", "72201", "72103", "72225", "72223", "72210", "72205", "72260", "72231"]
 localPaths: ["Pulaski County / ZIP 72205 sector", "Pulaski County / coords 34.7300, -92.3600", "Pulaski County / ZIP 72211 sector", "Pulaski County / primary ZIP 72211", "Pulaski County / ZIP 72223 sector"]
-zillowHomeValueUsd: 280178
 ---
 
 **Engineering Notice for Little Rock:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Pulaski County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 72211.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 72225/72206/72222.
+In Little Rock, AR, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Connection points spot-checked where accessible (ZIP 72225/72206/72222 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 72225, 72206, 72222, 72103, 72210 (county grid: Pulaski County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+FAQ: When should permanent remediation start? In Little Rock, AR, delayed dry-in can expand insulation and ceiling repairs.
+
+roof work brief: attic baffle spacing and ridge cap nail schedule were cross-checked for the Little Rock intake packet.
+
+On-site sector marker: Pulaski County / ZIP 72227 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 34.7300, -92.3600 at elevation ~341 ft aligns with Pulaski County intake staging.
 
 Service reference: AR-72211-f0fb6c12

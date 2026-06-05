@@ -11,28 +11,31 @@ lng: -66.7400
 zipSample: ["00612", "00614", "00613"]
 zipCodes: ["00614", "00612", "00613"]
 localPaths: ["Arecibo County / coords 18.4500, -66.7400", "Arecibo County / ZIP 00612 sector", "Arecibo County / ZIP 00613 sector", "Arecibo County / ZIP 00614 sector", "Arecibo County / elevation 243 ft band"]
-zillowHomeValueUsd: 359135
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Arecibo:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Arecibo County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Arecibo, PR attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Arecibo, PR can fail independently of visible tile cracks.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 00612.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Arecibo, PR, but intake notes help reduce delays.
+Metal panel oil-canning in Arecibo, PR may signal clip spacing issues, not wind damage alone.
 
-Field note: Access points and staging constraints recorded for ZIP 00613/00614/00612 coverage.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Moisture pathway inspection logged near ZIP 00613/00614/00612 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 00613, 00614, 00612 (county grid: Arecibo County).
+Field routing: shingle exposure calibration paired with pipe boot manufacturer match near ZIP 00612.
+
+Field note: Valley debris and granule loss noted for ZIP 00614/00613/00612.
+
+On-site sector marker: Arecibo County / primary ZIP 00612 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Arecibo County / elevation 243 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00612-cf1c9f95

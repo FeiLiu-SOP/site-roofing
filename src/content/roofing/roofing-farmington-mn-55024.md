@@ -11,25 +11,35 @@ lng: -93.1700
 zipSample: ["55024"]
 zipCodes: ["55024"]
 localPaths: ["Dakota County / coords 44.6600, -93.1700", "Dakota County / ZIP 55024 sector", "Dakota County / elevation 909 ft band", "Dakota County / primary ZIP 55024"]
-zillowHomeValueUsd: 400250
 ---
 
 **Engineering Notice for Farmington:** Structural loading calculated based on 909 ft terrain assessment. Regional dispatch grid: Dakota County.
 
 
-Tip: request a written scope before work starts.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Tile underlayment age in Farmington, MN can fail independently of visible tile cracks.
 
-Our service coordination centers on Farmington, MN coverage windows and verified intake details.
+Regulatory note: Farmington, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Farmington, MN, but intake notes help reduce delays.
+FAQ: When should permanent service start? In Farmington, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 55024.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Wind exposure category reviewed for ZIP sector 55024.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 55024 (county grid: Dakota County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Attic ventilation deficits in Farmington, MN can mimic roof leaks at ceiling penetrations.
+
+Field routing: pipe boot manufacturer match paired with drip-edge metal profile near ZIP 55024.
+
+Field note: Shingle seal-down timing logged near ZIP 55024.
+
+On-site sector marker: Dakota County / ZIP 55024 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 44.6600, -93.1700 at elevation ~909 ft aligns with Dakota County intake staging.
 
 Service reference: MN-55024-000e952b

@@ -11,25 +11,31 @@ lng: -80.2400
 zipSample: ["34957", "34994", "34996"]
 zipCodes: ["34957", "34996", "34994"]
 localPaths: ["Martin County / ZIP 34996 sector", "Martin County / ZIP 34957 sector", "Martin County / primary ZIP 34994", "Martin County / elevation 23 ft band", "Martin County / coords 27.2000, -80.2400"]
-zillowHomeValueUsd: 237214
 ---
 
 **Engineering Notice for Stuart:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Martin County.
 
 
-Local conditions in Stuart, FL can affect timelines and material choices.
+Across Stuart, FL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Stuart, FL attics should be checked against current mechanical exhaust additions.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 34994.
+Risk flag: In Stuart, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: map ventilation intake and exhaust pairs for Stuart, FL attic runs.
 
-Field note: Access points and staging constraints recorded for ZIP 34957/34994/34996 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 34957, 34994, 34996 (county grid: Martin County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 34994.
+
+Scope trace: soffit intake free area plus deck sheathing thickness referenced in Martin County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 34996/34957/34994.
+
+On-site sector marker: Martin County / elevation 23 ft band — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 34994 with multi-ZIP overlap in Stuart; field packets tag Martin County for county-grid reconciliation.
 
 Service reference: FL-34994-af6dde11

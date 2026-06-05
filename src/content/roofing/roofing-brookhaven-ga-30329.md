@@ -11,24 +11,31 @@ lng: -84.3300
 zipSample: ["30329", "30324", "31119", "30319"]
 zipCodes: ["30319", "30329", "30324", "31119"]
 localPaths: ["DeKalb County / ZIP 30319 sector", "DeKalb County / ZIP 30329 sector", "DeKalb County / elevation 1024 ft band", "DeKalb County / primary ZIP 30329", "DeKalb County / ZIP 31119 sector"]
-zillowHomeValueUsd: 524006
 ---
 
 **Engineering Notice for Brookhaven:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: DeKalb County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Freeze-thaw cycles around Brookhaven, GA stress nail pops along eaves and rake edges.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Brookhaven, GA, but intake notes help reduce delays.
+Regulatory note: Brookhaven, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Brookhaven, GA and nearby ZIP sectors.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Wind exposure category reviewed for ZIP sector 30319/30324/30329.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 30319, 30324, 30329, 31119 (county grid: DeKalb County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: valley metal gauge plus pipe boot manufacturer match referenced in DeKalb County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 31119/30329/30324.
+
+On-site sector marker: DeKalb County / ZIP 30324 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 30329 with multi-ZIP overlap in Brookhaven; field packets tag DeKalb County for county-grid reconciliation.
 
 Service reference: GA-30329-8ddde1f4

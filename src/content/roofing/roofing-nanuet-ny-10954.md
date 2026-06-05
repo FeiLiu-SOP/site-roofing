@@ -11,25 +11,33 @@ lng: -74.0200
 zipSample: ["10954"]
 zipCodes: ["10954"]
 localPaths: ["Rockland County / elevation 322 ft band", "Rockland County / coords 41.1000, -74.0200", "Rockland County / primary ZIP 10954", "Rockland County / ZIP 10954 sector"]
-zillowHomeValueUsd: 625975
 ---
 
 **Engineering Notice for Nanuet:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Rockland County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Nanuet, NY, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-We coordinate local dispatch coverage around Nanuet, NY and nearby ZIP sectors.
+Our Nanuet, NY dispatch packets reference county grid Rockland County and elevation band 322 ft.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 10954.
+Risk flag: In Nanuet, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+FAQ: When should permanent service start? In Nanuet, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 10954.
+Granule embedment loss on Nanuet, NY north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 10954 (county grid: Rockland County).
+Step: map ventilation intake and exhaust pairs for Nanuet, NY attic runs.
+
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 10954.
+
+roof work brief: ice-barrier lap sequence and drip-edge metal profile were cross-checked for the Nanuet intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 10954.
+
+Regional mesh label Rockland County: moisture and logistics baselines are keyed to Nanuet, NY before niche-specific work begins.
+
+On-site sector marker: Rockland County / coords 41.1000, -74.0200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10954-3ceb1a8d

@@ -11,27 +11,31 @@ lng: -84.4100
 zipSample: ["30287", "30374", "30274", "30296"]
 zipCodes: ["30374", "30274", "30296", "30287"]
 localPaths: ["Clayton County / coords 33.5600, -84.4100", "Clayton County / primary ZIP 30274", "Clayton County / ZIP 30374 sector", "Clayton County / ZIP 30296 sector", "Clayton County / ZIP 30287 sector"]
-zillowHomeValueUsd: 200576
 ---
 
 **Engineering Notice for Riverdale:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Clayton County.
 
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for Riverdale, GA attics should be checked against current mechanical exhaust additions.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30274.
+Hail bruising on Riverdale, GA ridges may not breach felt until the next wind event.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: map ventilation intake and exhaust pairs for Riverdale, GA attic runs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should permanent restoration start? In Riverdale, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Access points and staging constraints recorded for ZIP 30296/30374/30287 coverage.
+Risk flag: Tile underlayment age in Riverdale, GA can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30296/30374/30287.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 30296, 30374, 30287, 30274 (county grid: Clayton County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Field routing: shingle exposure calibration paired with wind uplift clip spacing near ZIP 30274.
+
+On-site sector marker: Clayton County / ZIP 30374 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Clayton County: moisture and logistics baselines are keyed to Riverdale, GA before niche-specific work begins.
 
 Service reference: GA-30274-a0f84aab

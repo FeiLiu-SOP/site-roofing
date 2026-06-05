@@ -11,24 +11,31 @@ lng: -112.0700
 zipSample: ["84015"]
 zipCodes: ["84015"]
 localPaths: ["Davis County / coords 41.1400, -112.0700", "Davis County / elevation 4341 ft band", "Davis County / ZIP 84015 sector", "Davis County / primary ZIP 84015"]
-zillowHomeValueUsd: 465982
 ---
 
 **Engineering Notice for Clinton:** Structural loading calculated based on 4341 ft terrain assessment. Regional dispatch grid: Davis County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-We coordinate local dispatch coverage around Clinton, UT and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tile and shingle mixes in Clinton, UT require different fastener patterns at transitions.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 84015 coverage.
+Risk flag: In Clinton, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 84015 (county grid: Davis County).
+FAQ: When should permanent service start? In Clinton, UT, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: pipe boot manufacturer match paired with deck sheathing thickness near ZIP 84015.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 84015.
+
+On-site sector marker: Davis County / ZIP 84015 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Davis County / elevation 4341 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84015-6dce0091

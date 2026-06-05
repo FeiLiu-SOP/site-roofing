@@ -11,25 +11,33 @@ lng: -87.9800
 zipSample: ["60439"]
 zipCodes: ["60439"]
 localPaths: ["Cook County / primary ZIP 60439", "Cook County / ZIP 60439 sector", "Cook County / coords 41.6700, -87.9800", "Cook County / elevation 745 ft band"]
-zillowHomeValueUsd: 569540
 ---
 
 **Engineering Notice for Lemont:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60439.
+In Lemont, IL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: address recurring issues early to prevent bigger damage.
+Code context: Ventilation ratios for Lemont, IL attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Lemont, IL and nearby ZIP sectors.
+Risk flag: In Lemont, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 60439 coverage.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 60439 (county grid: Cook County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+FAQ: When should permanent restoration start? In Lemont, IL, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: deck sheathing thickness paired with chimney cricket slope near ZIP 60439.
+
+Field note: Attic moisture pathway scan referenced ZIP 60439.
+
+Coordinate-anchored dispatch note: center reference 41.6700, -87.9800 at elevation ~745 ft aligns with Cook County intake staging.
+
+On-site sector marker: Cook County / coords 41.6700, -87.9800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60439-58ac4d44

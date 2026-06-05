@@ -11,25 +11,33 @@ lng: -96.9600
 zipSample: ["75106", "75104"]
 zipCodes: ["75106", "75104"]
 localPaths: ["Dallas County / ZIP 75106 sector", "Dallas County / coords 32.5800, -96.9600", "Dallas County / primary ZIP 75104", "Dallas County / elevation 810 ft band", "Dallas County / ZIP 75104 sector"]
-zillowHomeValueUsd: 310979
 ---
 
 **Engineering Notice for Cedar Hill:** Structural loading calculated based on 810 ft terrain assessment. Regional dispatch grid: Dallas County.
 
 
-Our service coordination centers on Cedar Hill, TX coverage windows and verified intake details.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: address recurring issues early to prevent bigger damage.
+Skylight curb flashing in Cedar Hill, TX should be sequenced before ridge cap replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cedar Hill, TX, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 75104.
+Regulatory note: Cedar Hill, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: compare shingle manufacturer wind-zone ratings for Cedar Hill, TX exposure class.
 
-Field note: Access points and staging constraints recorded for ZIP 75106/75104 coverage.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 75106, 75104 (county grid: Dallas County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+FAQ: How long can shingles wait after storm damage? In Cedar Hill, TX, delayed dry-in can expand insulation and ceiling repairs.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Scope trace: shingle exposure calibration plus soffit intake free area referenced in Dallas County county grid review.
+
+ZIP-corridor snapshot for Cedar Hill, TX: sampled sectors include 75106, 75104; county routing grid remains Dallas County.
+
+On-site sector marker: Dallas County / elevation 810 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75104-2d06ad37

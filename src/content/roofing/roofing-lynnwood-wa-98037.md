@@ -11,26 +11,33 @@ lng: -122.3000
 zipSample: ["98036", "98037", "98046"]
 zipCodes: ["98046", "98037", "98036"]
 localPaths: ["Snohomish County / ZIP 98037 sector", "Snohomish County / coords 47.8300, -122.3000", "Snohomish County / ZIP 98036 sector", "Snohomish County / elevation 423 ft band", "Snohomish County / primary ZIP 98037"]
-zillowHomeValueUsd: 806874
 ---
 
 **Engineering Notice for Lynnwood:** Structural loading calculated based on 423 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-Structured milestones protect both sides when scheduling work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic ventilation deficits in Lynnwood, WA can mimic roof leaks at ceiling penetrations.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around Lynnwood, WA and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 98046/98037/98036 zone).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Moisture pathway inspection logged near ZIP 98046/98037/98036 intake.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 98046, 98037, 98036 (county grid: Snohomish County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Scope trace: pipe boot manufacturer match plus synthetic underlayment slip referenced in Snohomish County county grid review.
+
+Coordinate-anchored dispatch note: center reference 47.8300, -122.3000 at elevation ~423 ft aligns with Snohomish County intake staging.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~423 ft across the Snohomish County area. Coordinates: 47.8300, -122.3000. ZIP sample: 98036, 98037, 98046. Regional routing note: Snohomish County traffic flow is balanced around ZIP 98037 service demand.
 
 Service reference: WA-98037-b371a338

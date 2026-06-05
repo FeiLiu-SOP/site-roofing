@@ -11,26 +11,33 @@ lng: -74.4400
 zipSample: ["08901", "08906", "08875", "08933"]
 zipCodes: ["08875", "08901", "08933", "08906"]
 localPaths: ["Middlesex County / ZIP 08933 sector", "Middlesex County / ZIP 08901 sector", "Middlesex County / coords 40.4900, -74.4400", "Middlesex County / ZIP 08906 sector", "Middlesex County / primary ZIP 08901"]
-zillowHomeValueUsd: 443124
 ---
 
 **Engineering Notice for New Brunswick:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In New Brunswick, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In New Brunswick, NJ, algae-resistant granules may be specified for north-facing slopes.
 
-Homeowners in New Brunswick, NJ often face sudden roofing service problems that require fast action.
+Hail bruising on New Brunswick, NJ ridges may not breach felt until the next wind event.
 
-Field note: Moisture pathway inspection logged near ZIP 08933/08906/08901 intake.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Connection points spot-checked where accessible (ZIP 08933/08906/08901 zone).
+FAQ: Can you tarp only part of the roof? In New Brunswick, NJ, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 08933, 08906, 08901, 08875 (county grid: Middlesex County).
+Regulatory note: New Brunswick, NJ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: starter-strip setback plus chimney cricket slope referenced in Middlesex County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 08875/08906/08933.
+
+Coordinate-anchored dispatch note: center reference 40.4900, -74.4400 at elevation ~62 ft aligns with Middlesex County intake staging.
+
+On-site sector marker: Middlesex County / ZIP 08933 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08901-3f786927

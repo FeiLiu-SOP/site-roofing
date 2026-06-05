@@ -11,26 +11,29 @@ lng: -90.3700
 zipSample: ["63114", "63132"]
 zipCodes: ["63114", "63132"]
 localPaths: ["St. Louis County / elevation 663 ft band", "St. Louis County / coords 38.7000, -90.3700", "St. Louis County / ZIP 63132 sector", "St. Louis County / ZIP 63114 sector", "St. Louis County / primary ZIP 63114"]
-zillowHomeValueUsd: 139361
 ---
 
 **Engineering Notice for Overland:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: log deck soundings near vents before tear-off is approved.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Tile underlayment age in Overland, MO can fail independently of visible tile cracks.
 
-We coordinate local dispatch coverage around Overland, MO and nearby ZIP sectors.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Coastal humidity in Overland, MO can slow shingle seal-down after shoulder-season storms.
 
-Field note: Access points and staging constraints recorded for ZIP 63132/63114 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 63132/63114.
+Code context: Ventilation ratios for Overland, MO attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 63132, 63114 (county grid: St. Louis County).
+Scope trace: soffit intake free area plus wind uplift clip spacing referenced in St. Louis County county grid review.
+
+On-site sector marker: St. Louis County / coords 38.7000, -90.3700 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label St. Louis County: moisture and logistics baselines are keyed to Overland, MO before niche-specific work begins.
 
 Service reference: MO-63114-408eee66

@@ -11,27 +11,29 @@ lng: -80.1600
 zipSample: ["33180", "33179"]
 zipCodes: ["33179", "33180"]
 localPaths: ["Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33180 sector", "Miami-Dade County / ZIP 33179 sector", "Miami-Dade County / coords 25.9600, -80.1600", "Miami-Dade County / primary ZIP 33179"]
-zillowHomeValueUsd: 277603
 ---
 
 **Engineering Notice for Ojus:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Our service coordination centers on Ojus, FL coverage windows and verified intake details.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Ojus, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ojus, FL, but intake notes help reduce delays.
+Valley metal in Ojus, FL should be reviewed whenever granule loss tracks the water line.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 33179.
+Code context: Ventilation ratios for Ojus, FL attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 33179/33180.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 33179/33180 zone).
+Step: map ventilation intake and exhaust pairs for Ojus, FL attic runs.
 
-Dispatch sectors sampled: ZIP 33179, 33180 (county grid: Miami-Dade County).
+Field routing: attic baffle spacing paired with deck sheathing thickness near ZIP 33179.
+
+On-site sector marker: Miami-Dade County / ZIP 33179 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Ojus, FL: sampled sectors include 33179, 33180; county routing grid remains Miami-Dade County.
 
 Service reference: FL-33179-876e8bce

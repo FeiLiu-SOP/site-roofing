@@ -11,27 +11,31 @@ lng: -96.9900
 zipSample: ["75099", "75019"]
 zipCodes: ["75099", "75019"]
 localPaths: ["Dallas County / primary ZIP 75019", "Dallas County / ZIP 75019 sector", "Dallas County / coords 32.9600, -96.9900", "Dallas County / elevation 528 ft band", "Dallas County / ZIP 75099 sector"]
-zillowHomeValueUsd: 622333
 ---
 
 **Engineering Notice for Coppell:** Structural loading calculated based on 528 ft terrain assessment. Regional dispatch grid: Dallas County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 75019.
+FAQ: Can you tarp only part of the roof? In Coppell, TX, yes—if slope and anchor points support safe tie-offs.
 
-In Coppell, TX, urgent roof service issues can escalate quickly.
+Low-slope sections in Coppell, TX need positive drainage before membrane repairs are scoped.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Coppell, TX can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Our service coordination centers on Coppell, TX coverage windows and verified intake details.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Moisture pathway inspection logged near ZIP 75019/75099 intake.
+Regulatory note: Coppell, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 75019/75099.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 75019, 75099 (county grid: Dallas County).
+Field routing: ice-barrier lap sequence paired with drip-edge metal profile near ZIP 75019.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 75019/75099.
+
+On-site sector marker: Dallas County / primary ZIP 75019 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 75019 with multi-ZIP overlap in Coppell; field packets tag Dallas County for county-grid reconciliation.
 
 Service reference: TX-75019-956814cf

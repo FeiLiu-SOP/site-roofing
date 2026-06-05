@@ -11,26 +11,29 @@ lng: -122.2100
 zipSample: ["98064", "98042", "98031", "98032", "98035"]
 zipCodes: ["98030", "98035", "98042", "98032", "98064", "98031", "98089"]
 localPaths: ["King County / primary ZIP 98031", "King County / ZIP 98042 sector", "King County / coords 47.3900, -122.2100", "King County / ZIP 98031 sector", "King County / ZIP 98064 sector"]
-zillowHomeValueUsd: 679952
 ---
 
 **Engineering Notice for Kent:** Structural loading calculated based on 400 ft terrain assessment. Regional dispatch grid: King County.
 
 
-Homeowners in Kent, WA often face sudden roof work problems that require fast action.
+Wind-zone note: Kent, WA exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Our Kent, WA dispatch packets reference county grid King County and elevation band 400 ft.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Across Kent, WA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should permanent service start? In Kent, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Connection points spot-checked where accessible (ZIP 98035/98031/98032 zone).
+Risk flag: In Kent, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 98035/98031/98032 coverage.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 98035, 98031, 98032, 98030, 98042 (county grid: King County).
+Field routing: starter-strip setback paired with drip-edge metal profile near ZIP 98031.
+
+On-site sector marker: King County / ZIP 98032 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 47.3900, -122.2100 at elevation ~400 ft aligns with King County intake staging.
 
 Service reference: WA-98031-daef522a

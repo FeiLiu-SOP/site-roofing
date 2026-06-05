@@ -11,26 +11,29 @@ lng: -119.4000
 zipSample: ["99353", "99320"]
 zipCodes: ["99320", "99353"]
 localPaths: ["Benton County / ZIP 99320 sector", "Benton County / ZIP 99353 sector", "Benton County / primary ZIP 99320", "Benton County / coords 46.3100, -119.4000", "Benton County / elevation 446 ft band"]
-zillowHomeValueUsd: 427991
 ---
 
 **Engineering Notice for West Richland:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Benton County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate West Richland, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-We coordinate local dispatch coverage around West Richland, WA and nearby ZIP sectors.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in West Richland, WA, but intake notes help reduce delays.
+Code context: Ventilation ratios for West Richland, WA attics should be checked against current mechanical exhaust additions.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 99320.
 
-Homeowners in West Richland, WA often face sudden roof service problems that require fast action.
+Risk flag: Tile underlayment age in West Richland, WA can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 99320/99353.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 99320/99353.
+Across West Richland, WA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Dispatch sectors sampled: ZIP 99320, 99353 (county grid: Benton County).
+Field routing: pipe boot manufacturer match paired with counter-flashing reglet depth near ZIP 99320.
+
+On-site sector marker: Benton County / ZIP 99320 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Benton County / elevation 446 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-99320-0b434596

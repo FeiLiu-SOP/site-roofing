@@ -11,27 +11,35 @@ lng: -99.3100
 zipSample: ["73523", "73521", "73522"]
 zipCodes: ["73522", "73521", "73523"]
 localPaths: ["Jackson County / elevation 1371 ft band", "Jackson County / ZIP 73523 sector", "Jackson County / ZIP 73522 sector", "Jackson County / ZIP 73521 sector", "Jackson County / primary ZIP 73521"]
-zillowHomeValueUsd: 107431
 ---
 
 **Engineering Notice for Altus:** Structural loading calculated based on 1371 ft terrain assessment. Regional dispatch grid: Jackson County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can you tarp only part of the roof? In Altus, OK, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 73521.
+Step: stage tear-off debris paths away from landscape drains.
 
-In Altus, OK, seasonal demand can change scheduling windows.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 73523/73521/73522 coverage.
+Low-slope sections in Altus, OK need positive drainage before membrane repairs are scoped.
 
-Field note: Connection points spot-checked where accessible (ZIP 73523/73521/73522 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 73523, 73521, 73522 (county grid: Jackson County).
+Hail bruising on Altus, OK ridges may not breach felt until the next wind event.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: ice-barrier lap sequence plus starter-strip setback referenced in Jackson County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 73523/73521/73522.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Jackson County and primary ZIP 73521. Terrain reference: 1371 ft. Center point: 34.6600, -99.3100. ZIP sample: 73522, 73521, 73523. Logistics priority: Serving residential sectors across Jackson County and north-east ZIP 73521 grid.
+
+On-site sector marker: Jackson County / primary ZIP 73521 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73521-40b0bad0

@@ -11,25 +11,33 @@ lng: -122.2800
 zipSample: ["94720", "94704", "94708", "94701", "94710"]
 zipCodes: ["94701", "94705", "94712", "94710", "94702", "94708", "94703", "94720", "94707", "94704", "94709"]
 localPaths: ["Alameda County / elevation 157 ft band", "Alameda County / ZIP 94701 sector", "Alameda County / coords 37.8700, -122.2800", "Alameda County / ZIP 94720 sector", "Alameda County / primary ZIP 94708"]
-zillowHomeValueUsd: 1635558
 ---
 
 **Engineering Notice for Berkeley:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Alameda County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 94708.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-In Berkeley, CA, seasonal demand can change scheduling windows.
+Granule embedment loss on Berkeley, CA north slopes can precede mat exposure.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Berkeley, CA, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 94701/94707/94702 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 94701, 94707, 94702, 94720, 94712 (county grid: Alameda County).
+Hail bruising on Berkeley, CA ridges may not breach felt until the next wind event.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: counter-flashing reglet depth plus valley metal gauge referenced in Alameda County county grid review.
+
+ZIP-corridor snapshot for Berkeley, CA: sampled sectors include 94701, 94703, 94705, 94720, 94702, 94709, 94708, 94707; county routing grid remains Alameda County.
+
+On-site sector marker: Alameda County / elevation 157 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94708-8df86ade

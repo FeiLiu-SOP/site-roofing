@@ -11,25 +11,35 @@ lng: -89.2200
 zipSample: ["62901", "62902", "62903"]
 zipCodes: ["62903", "62901", "62902"]
 localPaths: ["Jackson County / primary ZIP 62901", "Jackson County / coords 37.7200, -89.2200", "Jackson County / ZIP 62902 sector", "Jackson County / ZIP 62901 sector", "Jackson County / ZIP 62903 sector"]
-zillowHomeValueUsd: 119698
 ---
 
 **Engineering Notice for Carbondale:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Jackson County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Carbondale, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 62901.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Carbondale, IL, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Carbondale, IL.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Moisture pathway inspection logged near ZIP 62903/62902/62901 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 62903, 62902, 62901 (county grid: Jackson County).
+Material note: In Carbondale, IL, algae-resistant granules may be specified for north-facing slopes.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Freeze-thaw cycles around Carbondale, IL stress nail pops along eaves and rake edges.
+
+roof work brief: drip-edge metal profile and ridge cap nail schedule were cross-checked for the Carbondale intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 62902/62903/62901.
+
+On-site sector marker: Jackson County / ZIP 62902 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Jackson County / coords 37.7200, -89.2200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62901-87438306

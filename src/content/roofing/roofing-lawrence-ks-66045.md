@@ -11,26 +11,31 @@ lng: -95.2600
 zipSample: ["66045", "66044", "66049", "66046", "66047"]
 zipCodes: ["66046", "66047", "66045", "66044", "66049"]
 localPaths: ["Douglas County / ZIP 66049 sector", "Douglas County / ZIP 66046 sector", "Douglas County / ZIP 66047 sector", "Douglas County / coords 38.9600, -95.2600", "Douglas County / ZIP 66045 sector"]
-zillowHomeValueUsd: 391697
 ---
 
 **Engineering Notice for Lawrence:** Structural loading calculated based on 1004 ft terrain assessment. Regional dispatch grid: Douglas County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map ventilation intake and exhaust pairs for Lawrence, KS attic runs.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Tile underlayment age in Lawrence, KS can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lawrence, KS, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 66049/66045/66047.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 66049/66045/66047.
+Tile and shingle mixes in Lawrence, KS require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 66049, 66045, 66047, 66046, 66044 (county grid: Douglas County).
+Scope trace: shingle exposure calibration plus pipe boot manufacturer match referenced in Douglas County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 66047/66046/66049.
+
+On-site sector marker: Douglas County / coords 38.9600, -95.2600 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Douglas County / elevation 1004 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-66045-2cc8d810

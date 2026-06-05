@@ -11,26 +11,33 @@ lng: -84.2400
 zipSample: ["45356"]
 zipCodes: ["45356"]
 localPaths: ["Miami County / ZIP 45356 sector", "Miami County / elevation 883 ft band", "Miami County / coords 40.1500, -84.2400", "Miami County / primary ZIP 45356"]
-zillowHomeValueUsd: 180328
 ---
 
 **Engineering Notice for Piqua:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Miami County.
 
 
-We coordinate local dispatch coverage around Piqua, OH and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Piqua, OH can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+In Piqua, OH, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can you tarp only part of the roof? In Piqua, OH, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 45356.
+Regulatory note: Piqua, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 45356.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 45356 (county grid: Miami County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 45356.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Field routing: starter-strip setback paired with valley metal gauge near ZIP 45356.
+
+Regional mesh label Miami County: moisture and logistics baselines are keyed to Piqua, OH before niche-specific work begins.
+
+On-site sector marker: Miami County / coords 40.1500, -84.2400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45356-52fde2c8

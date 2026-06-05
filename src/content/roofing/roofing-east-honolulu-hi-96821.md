@@ -11,25 +11,31 @@ lng: -157.7200
 zipSample: ["96825", "96821", "96824"]
 zipCodes: ["96824", "96825", "96821"]
 localPaths: ["Honolulu County / ZIP 96825 sector", "Honolulu County / coords 21.3000, -157.7200", "Honolulu County / elevation 531 ft band", "Honolulu County / ZIP 96824 sector", "Honolulu County / ZIP 96821 sector"]
-zillowHomeValueUsd: 1812014
 ---
 
 **Engineering Notice for East Honolulu:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: Honolulu County.
 
 
-Our service coordination centers on East Honolulu, HI coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In East Honolulu, HI, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: East Honolulu, HI exposure class can change starter-strip and cap nail schedules.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 96821.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96821/96825/96824.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 96821, 96825, 96824 (county grid: Honolulu County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Skylight curb flashing in East Honolulu, HI should be sequenced before ridge cap replacement.
+
+roof service brief: deck sheathing thickness and drip-edge metal profile were cross-checked for the East Honolulu intake packet.
+
+On-site sector marker: Honolulu County / ZIP 96824 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Honolulu County / ZIP 96821 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96821-afaa7d25

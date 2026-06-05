@@ -11,24 +11,33 @@ lng: -77.3500
 zipSample: ["22193"]
 zipCodes: ["22193"]
 localPaths: ["Prince William County / elevation 262 ft band", "Prince William County / coords 38.6500, -77.3500", "Prince William County / ZIP 22193 sector", "Prince William County / primary ZIP 22193"]
-zillowHomeValueUsd: 508668
 ---
 
 **Engineering Notice for Dale City:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Prince William County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: request a written scope before work starts.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Our service coordination centers on Dale City, VA coverage windows and verified intake details.
+Freeze-thaw cycles around Dale City, VA stress nail pops along eaves and rake edges.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Dale City, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Dale City, VA, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 22193 intake.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 22193 (county grid: Prince William County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 22193.
+
+Field routing: starter-strip setback paired with ice-barrier lap sequence near ZIP 22193.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 22193.
+
+Primary postal anchor 22193 with multi-ZIP overlap in Dale City; field packets tag Prince William County for county-grid reconciliation.
+
+On-site sector marker: Prince William County / ZIP 22193 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22193-85c80a81

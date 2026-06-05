@@ -11,26 +11,33 @@ lng: -88.4100
 zipSample: ["39701", "39705", "39702"]
 zipCodes: ["39705", "39701", "39702"]
 localPaths: ["Lowndes County / ZIP 39701 sector", "Lowndes County / coords 33.5100, -88.4100", "Lowndes County / primary ZIP 39702", "Lowndes County / ZIP 39705 sector", "Lowndes County / ZIP 39702 sector"]
-zillowHomeValueUsd: 173304
 ---
 
 **Engineering Notice for Columbus:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Lowndes County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Columbus, MS, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: In Columbus, MS, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Columbus, MS, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Columbus, MS exposure class.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 39702/39701/39705 intake.
+Wind-zone note: Columbus, MS exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 39702/39701/39705 zone).
+Hail bruising on Columbus, MS ridges may not breach felt until the next wind event.
 
-Dispatch sectors sampled: ZIP 39702, 39701, 39705 (county grid: Lowndes County).
+Our Columbus, MS dispatch packets reference county grid Lowndes County and elevation band 180 ft.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Field routing: ice-barrier lap sequence paired with pipe boot manufacturer match near ZIP 39702.
+
+On-site sector marker: Lowndes County / ZIP 39702 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lowndes County / primary ZIP 39702 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39702-ee5db343

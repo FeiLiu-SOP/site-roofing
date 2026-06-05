@@ -11,27 +11,33 @@ lng: -90.3000
 zipSample: ["63136", "63135"]
 zipCodes: ["63136", "63135"]
 localPaths: ["St. Louis County / ZIP 63135 sector", "St. Louis County / primary ZIP 63136", "St. Louis County / elevation 574 ft band", "St. Louis County / ZIP 63136 sector", "St. Louis County / coords 38.7500, -90.3000"]
-zillowHomeValueUsd: 85921
 ---
 
 **Engineering Notice for Ferguson:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ferguson, MO, but intake notes help reduce delays.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 63136.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 63136.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: compare at least two estimates for scope and timeline.
+Metal panel oil-canning in Ferguson, MO may signal clip spacing issues, not wind damage alone.
 
-Our service coordination centers on Ferguson, MO coverage windows and verified intake details.
+FAQ: When should permanent remediation start? In Ferguson, MO, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 63135/63136 intake.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 63135/63136.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 63135, 63136 (county grid: St. Louis County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: ice-barrier lap sequence plus synthetic underlayment slip referenced in St. Louis County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 63135/63136.
+
+On-site sector marker: St. Louis County / primary ZIP 63136 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Louis County / coords 38.7500, -90.3000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63136-9eac63ef

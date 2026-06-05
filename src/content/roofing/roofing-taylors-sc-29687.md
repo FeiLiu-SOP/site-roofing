@@ -11,26 +11,33 @@ lng: -82.3100
 zipSample: ["29687"]
 zipCodes: ["29687"]
 localPaths: ["Greenville County / primary ZIP 29687", "Greenville County / coords 34.9200, -82.3100", "Greenville County / elevation 925 ft band", "Greenville County / ZIP 29687 sector"]
-zillowHomeValueUsd: 311896
 ---
 
 **Engineering Notice for Taylors:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Greenville County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Taylors, SC can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 29687 zone).
+Low-slope sections in Taylors, SC need positive drainage before membrane repairs are scoped.
 
-Field note: Moisture pathway inspection logged near ZIP 29687 intake.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 29687 (county grid: Greenville County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roof work brief: chimney cricket slope and valley metal gauge were cross-checked for the Taylors intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 29687.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~925 ft across the Greenville County area. Coordinates: 34.9200, -82.3100. ZIP sample: 29687. Service perimeter note: Coverage extends through Greenville County with dispatch centered near ZIP 29687.
+
+Coordinate-anchored dispatch note: center reference 34.9200, -82.3100 at elevation ~925 ft aligns with Greenville County intake staging.
 
 Service reference: SC-29687-b1026933

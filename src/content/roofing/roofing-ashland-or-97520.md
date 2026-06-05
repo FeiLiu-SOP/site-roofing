@@ -11,24 +11,29 @@ lng: -122.7000
 zipSample: ["97520"]
 zipCodes: ["97520"]
 localPaths: ["Jackson County / coords 42.1900, -122.7000", "Jackson County / primary ZIP 97520", "Jackson County / elevation 1972 ft band", "Jackson County / ZIP 97520 sector"]
-zillowHomeValueUsd: 550587
 ---
 
 **Engineering Notice for Ashland:** Structural loading calculated based on 1972 ft terrain assessment. Regional dispatch grid: Jackson County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ashland, OR, but intake notes help reduce delays.
+Skylight curb flashing in Ashland, OR should be sequenced before ridge cap replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Structured milestones protect both sides when scheduling work.
+Step: compare shingle manufacturer wind-zone ratings for Ashland, OR exposure class.
 
-Tip: avoid large upfront payments without milestones.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Wind exposure category reviewed for ZIP sector 97520.
+FAQ: When should permanent service start? In Ashland, OR, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 97520 (county grid: Jackson County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: attic baffle spacing paired with wind uplift clip spacing near ZIP 97520.
+
+Regional mesh label Jackson County: moisture and logistics baselines are keyed to Ashland, OR before niche-specific work begins.
+
+ZIP-corridor snapshot for Ashland, OR: sampled sectors include 97520; county routing grid remains Jackson County.
 
 Service reference: OR-97520-d4e6839b

@@ -11,27 +11,33 @@ lng: -66.1100
 zipSample: ["00784", "00785"]
 zipCodes: ["00785", "00784"]
 localPaths: ["Guayama County / coords 17.9700, -66.1100", "Guayama County / primary ZIP 00784", "Guayama County / ZIP 00784 sector", "Guayama County / ZIP 00785 sector", "Guayama County / elevation 112 ft band"]
-zillowHomeValueUsd: 359431
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Guayama:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Guayama County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Wood shake courses in Guayama, PR require skip-spacing rules at valleys.
 
-Local conditions in Guayama, PR can affect timelines and material choices.
+FAQ: How long can shingles wait after storm damage? In Guayama, PR, delayed dry-in can expand insulation and ceiling repairs.
 
-We coordinate local dispatch coverage around Guayama, PR and nearby ZIP sectors.
+Risk flag: In Guayama, PR, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Connection points spot-checked where accessible (ZIP 00785/00784 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Moisture pathway inspection logged near ZIP 00785/00784 intake.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 00785, 00784 (county grid: Guayama County).
+Code context: Ventilation ratios for Guayama, PR attics should be checked against current mechanical exhaust additions.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Field routing: soffit intake free area paired with counter-flashing reglet depth near ZIP 00784.
+
+ZIP-corridor snapshot for Guayama, PR: sampled sectors include 00784, 00785; county routing grid remains Guayama County.
+
+On-site sector marker: Guayama County / ZIP 00784 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00784-50a5c093

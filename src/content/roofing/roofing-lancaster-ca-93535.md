@@ -11,25 +11,33 @@ lng: -118.1800
 zipSample: ["93535", "93534", "93584", "93539", "93536"]
 zipCodes: ["93535", "93539", "93534", "93584", "93536"]
 localPaths: ["Los Angeles County / coords 34.6900, -118.1800", "Los Angeles County / ZIP 93534 sector", "Los Angeles County / ZIP 93539 sector", "Los Angeles County / ZIP 93535 sector", "Los Angeles County / ZIP 93584 sector"]
-zillowHomeValueUsd: 429993
 ---
 
 **Engineering Notice for Lancaster:** Structural loading calculated based on 2346 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around Lancaster, CA and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 93535.
+Risk flag: In Lancaster, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 93535.
 
-Field note: Moisture pathway inspection logged near ZIP 93539/93534/93584 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 93539, 93534, 93584, 93536, 93535 (county grid: Los Angeles County).
+Code context: Ventilation ratios for Lancaster, CA attics should be checked against current mechanical exhaust additions.
+
+Attic ventilation deficits in Lancaster, CA can mimic roof leaks at ceiling penetrations.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Scope trace: synthetic underlayment slip plus ridge cap nail schedule referenced in Los Angeles County county grid review.
+
+On-site sector marker: Los Angeles County / elevation 2346 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / primary ZIP 93535 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93535-adbb276f

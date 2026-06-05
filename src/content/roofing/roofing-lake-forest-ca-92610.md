@@ -11,24 +11,31 @@ lng: -117.6700
 zipSample: ["92609", "92630", "92610"]
 zipCodes: ["92610", "92609", "92630"]
 localPaths: ["Orange County / ZIP 92609 sector", "Orange County / coords 33.6600, -117.6700", "Orange County / primary ZIP 92610", "Orange County / ZIP 92610 sector", "Orange County / ZIP 92630 sector"]
-zillowHomeValueUsd: 1271988
 ---
 
 **Engineering Notice for Lake Forest:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: confirm licensing and insurance before approving work.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Our service coordination centers on Lake Forest, CA coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 92609/92610/92630 zone).
+Code context: Ventilation ratios for Lake Forest, CA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 92609, 92610, 92630 (county grid: Orange County).
+Tile and shingle mixes in Lake Forest, CA require different fastener patterns at transitions.
+
+Scope trace: deck sheathing thickness plus soffit intake free area referenced in Orange County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 92630/92610/92609.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~679 ft across the Orange County area. Coordinates: 33.6600, -117.6700. ZIP sample: 92609, 92610, 92630. Regional routing note: Orange County traffic flow is balanced around ZIP 92610 service demand.
+
+Regional mesh label Orange County: moisture and logistics baselines are keyed to Lake Forest, CA before niche-specific work begins.
 
 Service reference: CA-92610-f6b34679

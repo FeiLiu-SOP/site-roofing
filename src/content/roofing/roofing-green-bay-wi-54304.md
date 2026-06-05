@@ -11,24 +11,31 @@ lng: -87.9900
 zipSample: ["54305", "54301", "54306", "54303", "54308"]
 zipCodes: ["54302", "54301", "54303", "54311", "54306", "54305", "54308", "54304"]
 localPaths: ["Brown County / ZIP 54306 sector", "Brown County / ZIP 54305 sector", "Brown County / ZIP 54308 sector", "Brown County / ZIP 54301 sector", "Brown County / primary ZIP 54304"]
-zillowHomeValueUsd: 289043
 ---
 
 **Engineering Notice for Green Bay:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Brown County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Green Bay, WI, but intake notes help reduce delays.
+Across Green Bay, WI, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should permanent restoration start? In Green Bay, WI, delayed dry-in can expand insulation and ceiling repairs.
 
-In Green Bay, WI, seasonal demand can change scheduling windows.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: map ventilation intake and exhaust pairs for Green Bay, WI attic runs.
 
-Field note: Wind exposure category reviewed for ZIP sector 54301/54305/54311.
+Regulatory note: Green Bay, WI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 54301, 54305, 54311, 54302, 54308 (county grid: Brown County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roofing service brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Green Bay intake packet.
+
+On-site sector marker: Brown County / coords 44.5100, -87.9900 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 54304 with multi-ZIP overlap in Green Bay; field packets tag Brown County for county-grid reconciliation.
 
 Service reference: WI-54304-55afdbda

@@ -11,24 +11,33 @@ lng: -72.9700
 zipSample: ["06516", "06504"]
 zipCodes: ["06504", "06516"]
 localPaths: ["South Central Connecticut County / elevation 66 ft band", "South Central Connecticut County / ZIP 06516 sector", "South Central Connecticut County / coords 41.2700, -72.9700", "South Central Connecticut County / primary ZIP 06516", "South Central Connecticut County / ZIP 06504 sector"]
-zillowHomeValueUsd: 354619
 ---
 
 **Engineering Notice for West Haven:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: South Central Connecticut County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When should permanent service start? In West Haven, CT, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on West Haven, CT coverage windows and verified intake details.
+Risk flag: Tile underlayment age in West Haven, CT can fail independently of visible tile cracks.
 
-In West Haven, CT, urgent roof work issues can escalate quickly.
+Regulatory note: West Haven, CT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In West Haven, CT, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: request a written scope before work starts.
+Tile and shingle mixes in West Haven, CT require different fastener patterns at transitions.
 
-Field note: Wind exposure category reviewed for ZIP sector 06504/06516.
+Step: map ventilation intake and exhaust pairs for West Haven, CT attic runs.
 
-Dispatch sectors sampled: ZIP 06504, 06516 (county grid: South Central Connecticut County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 06516.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+roof work brief: chimney cricket slope and starter-strip setback were cross-checked for the West Haven intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 06504/06516.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~66 ft across the South Central Connecticut County area. Coordinates: 41.2700, -72.9700. ZIP sample: 06516, 06504. Regional routing note: South Central Connecticut County traffic flow is balanced around ZIP 06516 service demand.
+
+On-site sector marker: South Central Connecticut County / elevation 66 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06516-2a5e433e

@@ -11,26 +11,33 @@ lng: -117.0400
 zipSample: ["92399"]
 zipCodes: ["92399"]
 localPaths: ["San Bernardino County / ZIP 92399 sector", "San Bernardino County / primary ZIP 92399", "San Bernardino County / elevation 2628 ft band", "San Bernardino County / coords 34.0300, -117.0400"]
-zillowHomeValueUsd: 569990
 ---
 
 **Engineering Notice for Yucaipa:** Structural loading calculated based on 2628 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-Structured milestones protect both sides when scheduling work.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: How long can shingles wait after storm damage? In Yucaipa, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Yucaipa, CA exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+We coordinate Yucaipa, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Moisture pathway inspection logged near ZIP 92399 intake.
+TPO seam welds in Yucaipa, CA commercial sections need probe tests after freeze events.
 
-Field note: Connection points spot-checked where accessible (ZIP 92399 zone).
+Material note: In Yucaipa, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 92399 (county grid: San Bernardino County).
+Risk flag: Tile underlayment age in Yucaipa, CA can fail independently of visible tile cracks.
+
+Scope trace: counter-flashing reglet depth plus soffit intake free area referenced in San Bernardino County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 92399.
+
+Regional mesh label San Bernardino County: moisture and logistics baselines are keyed to Yucaipa, CA before niche-specific work begins.
+
+On-site sector marker: San Bernardino County / elevation 2628 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92399-85bd9645

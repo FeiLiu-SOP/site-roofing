@@ -11,25 +11,33 @@ lng: -83.3900
 zipSample: ["48184"]
 zipCodes: ["48184"]
 localPaths: ["Wayne County / coords 42.2800, -83.3900", "Wayne County / ZIP 48184 sector", "Wayne County / elevation 669 ft band", "Wayne County / primary ZIP 48184"]
-zillowHomeValueUsd: 172298
 ---
 
 **Engineering Notice for Wayne:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-Our service coordination centers on Wayne, MI coverage windows and verified intake details.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 48184.
+Wind-zone note: Wayne, MI exposure class can change starter-strip and cap nail schedules.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 48184 zone).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 48184 (county grid: Wayne County).
+Valley metal in Wayne, MI should be reviewed whenever granule loss tracks the water line.
+
+Our Wayne, MI dispatch packets reference county grid Wayne County and elevation band 669 ft.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: skylight curb height paired with pipe boot manufacturer match near ZIP 48184.
+
+Primary postal anchor 48184 with multi-ZIP overlap in Wayne; field packets tag Wayne County for county-grid reconciliation.
+
+On-site sector marker: Wayne County / primary ZIP 48184 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48184-bafde970

@@ -11,27 +11,31 @@ lng: -84.5700
 zipSample: ["30168", "30082", "30126", "30106"]
 zipCodes: ["30126", "30082", "30106", "30168"]
 localPaths: ["Cobb County / ZIP 30126 sector", "Cobb County / coords 33.8100, -84.5700", "Cobb County / ZIP 30082 sector", "Cobb County / elevation 1047 ft band", "Cobb County / primary ZIP 30126"]
-zillowHomeValueUsd: 372292
 ---
 
 **Engineering Notice for Mableton:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: Cobb County.
 
 
-Our service coordination centers on Mableton, GA coverage windows and verified intake details.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 30126.
+Tip: Note recent wind events when filing insurance photos for Mableton, GA.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Our Mableton, GA dispatch packets reference county grid Cobb County and elevation band 1047 ft.
 
-Field note: Wind exposure category reviewed for ZIP sector 30126/30106/30168.
+Material note: In Mableton, GA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30126/30106/30168.
+Regulatory note: Mableton, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 30126, 30106, 30168, 30082 (county grid: Cobb County).
+Parapet coping movement in Mableton, GA can channel water behind wall cladding.
+
+Scope trace: attic baffle spacing plus deck sheathing thickness referenced in Cobb County county grid review.
+
+On-site sector marker: Cobb County / ZIP 30106 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cobb County / elevation 1047 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30126-12658536

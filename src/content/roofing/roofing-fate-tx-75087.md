@@ -11,27 +11,31 @@ lng: -96.3900
 zipSample: ["75189", "75132", "75087"]
 zipCodes: ["75132", "75087", "75189"]
 localPaths: ["Rockwall County / ZIP 75132 sector", "Rockwall County / ZIP 75189 sector", "Rockwall County / coords 32.9400, -96.3900", "Rockwall County / primary ZIP 75087", "Rockwall County / ZIP 75087 sector"]
-zillowHomeValueUsd: 450379
 ---
 
 **Engineering Notice for Fate:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Rockwall County.
 
 
-Tip: avoid large upfront payments without milestones.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Our service coordination centers on Fate, TX coverage windows and verified intake details.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Fate, TX attics should be checked against current mechanical exhaust additions.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 75087.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75087/75132/75189.
+Skylight curb flashing in Fate, TX should be sequenced before ridge cap replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 75087/75132/75189 intake.
+FAQ: When should permanent restoration start? In Fate, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 75087, 75132, 75189 (county grid: Rockwall County).
+roofing service brief: deck sheathing thickness and starter-strip setback were cross-checked for the Fate intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 75132/75087/75189.
+
+On-site sector marker: Rockwall County / coords 32.9400, -96.3900 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Rockwall County / primary ZIP 75087 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75087-7f655fe0

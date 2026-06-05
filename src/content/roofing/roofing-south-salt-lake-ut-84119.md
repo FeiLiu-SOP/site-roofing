@@ -11,27 +11,35 @@ lng: -111.9000
 zipSample: ["84190", "84165", "84119", "84115"]
 zipCodes: ["84119", "84115", "84165", "84190"]
 localPaths: ["Salt Lake County / ZIP 84165 sector", "Salt Lake County / coords 40.7100, -111.9000", "Salt Lake County / ZIP 84190 sector", "Salt Lake County / primary ZIP 84119", "Salt Lake County / ZIP 84115 sector"]
-zillowHomeValueUsd: 437598
 ---
 
 **Engineering Notice for South Salt Lake:** Structural loading calculated based on 4262 ft terrain assessment. Regional dispatch grid: Salt Lake County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 84119.
+We coordinate South Salt Lake, UT roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Metal panel oil-canning in South Salt Lake, UT may signal clip spacing issues, not wind damage alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Homeowners in South Salt Lake, UT often face sudden roof work problems that require fast action.
+Material note: In South Salt Lake, UT, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84190/84119/84115.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 84190/84119/84115 zone).
+Risk flag: In South Salt Lake, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 84190, 84119, 84115, 84165 (county grid: Salt Lake County).
+Regulatory note: South Salt Lake, UT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+FAQ: How long can shingles wait after storm damage? In South Salt Lake, UT, delayed dry-in can expand insulation and ceiling repairs.
+
+roof work brief: ice-barrier lap sequence and starter-strip setback were cross-checked for the South Salt Lake intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 84165/84115/84190.
+
+On-site sector marker: Salt Lake County / primary ZIP 84119 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Salt Lake County / ZIP 84115 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84119-be63ee62

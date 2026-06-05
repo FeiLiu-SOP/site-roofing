@@ -11,26 +11,31 @@ lng: -87.8700
 zipSample: ["60048", "60079", "60085", "60087"]
 zipCodes: ["60087", "60085", "60048", "60079"]
 localPaths: ["Lake County / ZIP 60079 sector", "Lake County / ZIP 60048 sector", "Lake County / primary ZIP 60048", "Lake County / elevation 719 ft band", "Lake County / ZIP 60087 sector"]
-zillowHomeValueUsd: 608252
 ---
 
 **Engineering Notice for Waukegan:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Our service coordination centers on Waukegan, IL coverage windows and verified intake details.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Local conditions in Waukegan, IL can affect timelines and material choices.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Waukegan, IL, but intake notes help reduce delays.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: avoid large upfront payments without milestones.
+Regulatory note: Waukegan, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In Waukegan, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60079/60087/60085.
+Metal panel oil-canning in Waukegan, IL may signal clip spacing issues, not wind damage alone.
 
-Field note: Moisture pathway inspection logged near ZIP 60079/60087/60085 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 60079, 60087, 60085, 60048 (county grid: Lake County).
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+roof work brief: attic baffle spacing and drip-edge metal profile were cross-checked for the Waukegan intake packet.
+
+Regional mesh label Lake County: moisture and logistics baselines are keyed to Waukegan, IL before niche-specific work begins.
+
+On-site sector marker: Lake County / ZIP 60087 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60048-59041210

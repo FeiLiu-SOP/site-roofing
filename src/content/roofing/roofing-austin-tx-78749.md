@@ -11,26 +11,33 @@ lng: -97.7500
 zipSample: ["78754", "78772", "78723", "78725", "78760"]
 zipCodes: ["78719", "78727", "73301", "78759", "78766", "78703", "78713", "78720", "78755", "78711", "78754", "78723"]
 localPaths: ["Travis County / ZIP 78754 sector", "Travis County / ZIP 78723 sector", "Travis County / ZIP 78760 sector", "Travis County / ZIP 78772 sector", "Travis County / coords 30.3000, -97.7500"]
-zillowHomeValueUsd: 555243
 ---
 
 **Engineering Notice for Austin:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Travis County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Code context: Ventilation ratios for Austin, TX attics should be checked against current mechanical exhaust additions.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Our service coordination centers on Austin, TX coverage windows and verified intake details.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Austin, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78617/78718/78713.
+Skylight curb flashing in Austin, TX should be sequenced before ridge cap replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 78617/78718/78713 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 78617, 78718, 78713, 78705, 78719 (county grid: Travis County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: wind uplift clip spacing plus skylight curb height referenced in Travis County county grid review.
+
+ZIP-corridor snapshot for Austin, TX: sampled sectors include 78724, 78725, 78752, 78708, 78760, 78759, 78651, 78772; county routing grid remains Travis County.
+
+Coordinate-anchored dispatch note: center reference 30.3000, -97.7500 at elevation ~630 ft aligns with Travis County intake staging.
 
 Service reference: TX-78749-c808ce6a

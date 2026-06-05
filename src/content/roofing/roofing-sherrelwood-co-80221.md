@@ -11,24 +11,31 @@ lng: -105.0000
 zipSample: ["80221", "80263"]
 zipCodes: ["80221", "80263"]
 localPaths: ["Adams County / primary ZIP 80221", "Adams County / ZIP 80221 sector", "Adams County / ZIP 80263 sector", "Adams County / elevation 5302 ft band", "Adams County / coords 39.8400, -105.0000"]
-zillowHomeValueUsd: 456446
 ---
 
 **Engineering Notice for Sherrelwood:** Structural loading calculated based on 5302 ft terrain assessment. Regional dispatch grid: Adams County.
 
 
-Tip: confirm licensing and insurance before approving work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-We coordinate local dispatch coverage around Sherrelwood, CO and nearby ZIP sectors.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is partial dry-in possible? In Sherrelwood, CO, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 80263/80221.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 80263, 80221 (county grid: Adams County).
+Regulatory note: Sherrelwood, CO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Low-slope sections in Sherrelwood, CO need positive drainage before membrane repairs are scoped.
+
+roofing service brief: deck sheathing thickness and pipe boot manufacturer match were cross-checked for the Sherrelwood intake packet.
+
+Coordinate-anchored dispatch note: center reference 39.8400, -105.0000 at elevation ~5302 ft aligns with Adams County intake staging.
+
+ZIP-corridor snapshot for Sherrelwood, CO: sampled sectors include 80221, 80263; county routing grid remains Adams County.
 
 Service reference: CO-80221-f2c9c697

@@ -11,26 +11,31 @@ lng: -87.6300
 zipSample: ["35674", "35661", "35662"]
 zipCodes: ["35661", "35674", "35662"]
 localPaths: ["Colbert County / ZIP 35662 sector", "Colbert County / primary ZIP 35674", "Colbert County / ZIP 35674 sector", "Colbert County / elevation 535 ft band", "Colbert County / ZIP 35661 sector"]
-zillowHomeValueUsd: 200143
 ---
 
 **Engineering Notice for Muscle Shoals:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Colbert County.
 
 
-Structured milestones protect both sides when scheduling work.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Note recent wind events when filing insurance photos for Muscle Shoals, AL.
 
-Tip: request a written scope before work starts.
+FAQ: How long can shingles wait after storm damage? In Muscle Shoals, AL, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+TPO seam welds in Muscle Shoals, AL commercial sections need probe tests after freeze events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35674/35662/35661.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 35674/35662/35661 zone).
+Wind-zone note: Muscle Shoals, AL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 35674, 35662, 35661 (county grid: Colbert County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+roofing service brief: chimney cricket slope and soffit intake free area were cross-checked for the Muscle Shoals intake packet.
+
+On-site sector marker: Colbert County / ZIP 35674 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Muscle Shoals, AL: sampled sectors include 35661, 35674, 35662; county routing grid remains Colbert County.
 
 Service reference: AL-35674-8c8bbe8f

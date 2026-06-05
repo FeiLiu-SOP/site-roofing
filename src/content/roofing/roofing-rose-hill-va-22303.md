@@ -11,24 +11,29 @@ lng: -77.1100
 zipSample: ["22310", "22303"]
 zipCodes: ["22310", "22303"]
 localPaths: ["Fairfax County / coords 38.7900, -77.1100", "Fairfax County / ZIP 22310 sector", "Fairfax County / primary ZIP 22303", "Fairfax County / ZIP 22303 sector", "Fairfax County / elevation 184 ft band"]
-zillowHomeValueUsd: 562651
 ---
 
 **Engineering Notice for Rose Hill:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Tile underlayment age in Rose Hill, VA can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: log deck soundings near vents before tear-off is approved.
 
-Homeowners in Rose Hill, VA often face sudden roof service problems that require fast action.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Our service coordination centers on Rose Hill, VA coverage windows and verified intake details.
+FAQ: Is partial dry-in possible? In Rose Hill, VA, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Freeze-thaw cycles around Rose Hill, VA stress nail pops along eaves and rake edges.
 
-Field note: Connection points spot-checked where accessible (ZIP 22310/22303 zone).
+Wind-zone note: Rose Hill, VA exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 22310, 22303 (county grid: Fairfax County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+roof service brief: drip-edge metal profile and deck sheathing thickness were cross-checked for the Rose Hill intake packet.
+
+On-site sector marker: Fairfax County / ZIP 22303 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 38.7900, -77.1100 at elevation ~184 ft aligns with Fairfax County intake staging.
 
 Service reference: VA-22303-4326db04

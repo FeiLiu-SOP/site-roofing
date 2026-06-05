@@ -11,24 +11,33 @@ lng: -121.1400
 zipSample: ["95671", "95763", "95630"]
 zipCodes: ["95671", "95630", "95763"]
 localPaths: ["Sacramento County / ZIP 95763 sector", "Sacramento County / ZIP 95630 sector", "Sacramento County / coords 38.6700, -121.1400", "Sacramento County / elevation 328 ft band", "Sacramento County / primary ZIP 95630"]
-zillowHomeValueUsd: 763758
 ---
 
 **Engineering Notice for Folsom:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Sacramento County.
 
 
-In Folsom, CA, seasonal demand can change scheduling windows.
+Material note: In Folsom, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Regulatory note: Folsom, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is partial dry-in possible? In Folsom, CA, yes—if slope and anchor points support safe tie-offs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-We coordinate local dispatch coverage around Folsom, CA and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 95763/95671/95630 zone).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 95763, 95671, 95630 (county grid: Sacramento County).
+Step: map ventilation intake and exhaust pairs for Folsom, CA attic runs.
+
+Metal panel oil-canning in Folsom, CA may signal clip spacing issues, not wind damage alone.
+
+Scope trace: skylight curb height plus shingle exposure calibration referenced in Sacramento County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 95630/95763/95671.
+
+On-site sector marker: Sacramento County / primary ZIP 95630 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Sacramento County: moisture and logistics baselines are keyed to Folsom, CA before niche-specific work begins.
 
 Service reference: CA-95630-ccd7b489

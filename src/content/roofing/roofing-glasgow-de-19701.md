@@ -11,26 +11,31 @@ lng: -75.7500
 zipSample: ["19701", "19702"]
 zipCodes: ["19701", "19702"]
 localPaths: ["New Castle County / elevation 79 ft band", "New Castle County / coords 39.6000, -75.7500", "New Castle County / ZIP 19701 sector", "New Castle County / ZIP 19702 sector", "New Castle County / primary ZIP 19701"]
-zillowHomeValueUsd: 420854
 ---
 
 **Engineering Notice for Glasgow:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: New Castle County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Glasgow, DE, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Code context: Ventilation ratios for Glasgow, DE attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 19701/19702.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Access points and staging constraints recorded for ZIP 19701/19702 coverage.
+FAQ: Is partial dry-in possible? In Glasgow, DE, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 19701, 19702 (county grid: New Castle County).
+Material note: In Glasgow, DE, algae-resistant granules may be specified for north-facing slopes.
+
+roof service brief: soffit intake free area and chimney cricket slope were cross-checked for the Glasgow intake packet.
+
+Primary postal anchor 19701 with multi-ZIP overlap in Glasgow; field packets tag New Castle County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~79 ft across the New Castle County area. Coordinates: 39.6000, -75.7500. ZIP sample: 19702, 19701. Service perimeter note: Coverage extends through New Castle County with dispatch centered near ZIP 19701.
 
 Service reference: DE-19701-c5211117

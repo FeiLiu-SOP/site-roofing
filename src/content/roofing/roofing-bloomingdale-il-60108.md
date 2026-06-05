@@ -11,25 +11,31 @@ lng: -88.0900
 zipSample: ["60108", "60117"]
 zipCodes: ["60108", "60117"]
 localPaths: ["DuPage County / ZIP 60117 sector", "DuPage County / primary ZIP 60108", "DuPage County / elevation 794 ft band", "DuPage County / coords 41.9500, -88.0900", "DuPage County / ZIP 60108 sector"]
-zillowHomeValueUsd: 432915
 ---
 
 **Engineering Notice for Bloomingdale:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: DuPage County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+TPO seam welds in Bloomingdale, IL commercial sections need probe tests after freeze events.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bloomingdale, IL, but intake notes help reduce delays.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 60108.
+Risk flag: Tile underlayment age in Bloomingdale, IL can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60108/60117.
+Code context: Ventilation ratios for Bloomingdale, IL attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 60108, 60117 (county grid: DuPage County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+roofing service brief: starter-strip setback and wind uplift clip spacing were cross-checked for the Bloomingdale intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 60117/60108.
+
+Coordinate-anchored dispatch note: center reference 41.9500, -88.0900 at elevation ~794 ft aligns with DuPage County intake staging.
+
+On-site sector marker: DuPage County / primary ZIP 60108 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60108-44c3318d

@@ -11,26 +11,35 @@ lng: -96.5200
 zipSample: ["75166", "75098", "75173"]
 zipCodes: ["75098", "75173", "75166"]
 localPaths: ["Collin County / primary ZIP 75098", "Collin County / ZIP 75098 sector", "Collin County / ZIP 75166 sector", "Collin County / elevation 525 ft band", "Collin County / ZIP 75173 sector"]
-zillowHomeValueUsd: 423159
 ---
 
 **Engineering Notice for Wylie:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Collin County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+In Wylie, TX, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Structured milestones protect both sides when scheduling work.
+Wind-zone note: Wylie, TX exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Wood shake courses in Wylie, TX require skip-spacing rules at valleys.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 75166/75173/75098 coverage.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75166/75173/75098.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 75166, 75173, 75098 (county grid: Collin County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+FAQ: How long can shingles wait after storm damage? In Wylie, TX, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in Collin County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 75098/75173/75166.
+
+On-site sector marker: Collin County / coords 33.0400, -96.5200 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 75098 with multi-ZIP overlap in Wylie; field packets tag Collin County for county-grid reconciliation.
 
 Service reference: TX-75098-424e354d

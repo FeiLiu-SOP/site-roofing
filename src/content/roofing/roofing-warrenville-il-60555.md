@@ -11,27 +11,31 @@ lng: -88.1900
 zipSample: ["60555"]
 zipCodes: ["60555"]
 localPaths: ["DuPage County / ZIP 60555 sector", "DuPage County / coords 41.8200, -88.1900", "DuPage County / elevation 705 ft band", "DuPage County / primary ZIP 60555"]
-zillowHomeValueUsd: 349934
 ---
 
 **Engineering Notice for Warrenville:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: DuPage County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: request a written scope before work starts.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60555.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Warrenville, IL, but intake notes help reduce delays.
+Parapet coping movement in Warrenville, IL can channel water behind wall cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 60555 coverage.
+Wind-zone note: Warrenville, IL exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 60555 intake.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 60555 (county grid: DuPage County).
+roof work brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Warrenville intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 60555.
+
+On-site sector marker: DuPage County / primary ZIP 60555 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Warrenville, IL: sampled sectors include 60555; county routing grid remains DuPage County.
 
 Service reference: IL-60555-e1a6a0c4

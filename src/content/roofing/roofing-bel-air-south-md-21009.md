@@ -11,26 +11,31 @@ lng: -76.3100
 zipSample: ["21014", "21015", "21009"]
 zipCodes: ["21009", "21014", "21015"]
 localPaths: ["Harford County / coords 39.5000, -76.3100", "Harford County / ZIP 21015 sector", "Harford County / elevation 213 ft band", "Harford County / ZIP 21014 sector", "Harford County / ZIP 21009 sector"]
-zillowHomeValueUsd: 374709
 ---
 
 **Engineering Notice for Bel Air South:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Harford County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Bel Air South, MD can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bel Air South, MD, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-We coordinate local dispatch coverage around Bel Air South, MD and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Homeowners in Bel Air South, MD often face sudden roof work problems that require fast action.
+Code context: Ventilation ratios for Bel Air South, MD attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 21009/21014/21015 coverage.
+Attic ventilation deficits in Bel Air South, MD can mimic roof leaks at ceiling penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21009/21014/21015.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 21009, 21014, 21015 (county grid: Harford County).
+roof work brief: chimney cricket slope and counter-flashing reglet depth were cross-checked for the Bel Air South intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 21015/21009/21014.
+
+On-site sector marker: Harford County / coords 39.5000, -76.3100 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Harford County / primary ZIP 21009 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21009-20cf9845

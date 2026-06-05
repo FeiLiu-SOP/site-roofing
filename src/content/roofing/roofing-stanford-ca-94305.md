@@ -11,27 +11,35 @@ lng: -122.1700
 zipSample: ["94304", "94305", "94309"]
 zipCodes: ["94309", "94304", "94305"]
 localPaths: ["Santa Clara County / coords 37.4300, -122.1700", "Santa Clara County / ZIP 94304 sector", "Santa Clara County / elevation 115 ft band", "Santa Clara County / ZIP 94309 sector", "Santa Clara County / primary ZIP 94305"]
-zillowHomeValueUsd: 3346456
 ---
 
 **Engineering Notice for Stanford:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Santa Clara County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wood shake courses in Stanford, CA require skip-spacing rules at valleys.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Regulatory note: Stanford, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 94305.
+Our Stanford, CA dispatch packets reference county grid Santa Clara County and elevation band 115 ft.
 
-We coordinate local dispatch coverage around Stanford, CA and nearby ZIP sectors.
+FAQ: Is partial dry-in possible? In Stanford, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94305/94304/94309.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Moisture pathway inspection logged near ZIP 94305/94304/94309 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 94305, 94304, 94309 (county grid: Santa Clara County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Field routing: wind uplift clip spacing paired with deck sheathing thickness near ZIP 94305.
+
+Field note: Attic moisture pathway scan referenced ZIP 94304/94305/94309.
+
+On-site sector marker: Santa Clara County / ZIP 94309 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Santa Clara County / elevation 115 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94305-b7dde330

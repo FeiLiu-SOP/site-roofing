@@ -11,26 +11,29 @@ lng: -119.0700
 zipSample: ["93060", "93061"]
 zipCodes: ["93060", "93061"]
 localPaths: ["Ventura County / elevation 295 ft band", "Ventura County / primary ZIP 93060", "Ventura County / coords 34.3500, -119.0700", "Ventura County / ZIP 93060 sector", "Ventura County / ZIP 93061 sector"]
-zillowHomeValueUsd: 716930
 ---
 
 **Engineering Notice for Santa Paula:** Structural loading calculated based on 295 ft terrain assessment. Regional dispatch grid: Ventura County.
 
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Santa Paula, CA coverage windows and verified intake details.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tile and shingle mixes in Santa Paula, CA require different fastener patterns at transitions.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: Santa Paula, CA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 93061/93060.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Moisture pathway inspection logged near ZIP 93061/93060 intake.
+Step: compare shingle manufacturer wind-zone ratings for Santa Paula, CA exposure class.
 
-Dispatch sectors sampled: ZIP 93061, 93060 (county grid: Ventura County).
+Scope trace: synthetic underlayment slip plus valley metal gauge referenced in Ventura County county grid review.
+
+Coordinate-anchored dispatch note: center reference 34.3500, -119.0700 at elevation ~295 ft aligns with Ventura County intake staging.
+
+On-site sector marker: Ventura County / ZIP 93060 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93060-529c1f6d

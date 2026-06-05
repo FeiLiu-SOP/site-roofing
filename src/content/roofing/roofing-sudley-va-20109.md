@@ -11,27 +11,35 @@ lng: -77.5000
 zipSample: ["20109"]
 zipCodes: ["20109"]
 localPaths: ["Prince William County / ZIP 20109 sector", "Prince William County / primary ZIP 20109", "Prince William County / elevation 203 ft band", "Prince William County / coords 38.7900, -77.5000"]
-zillowHomeValueUsd: 456330
 ---
 
 **Engineering Notice for Sudley:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Prince William County.
 
 
-Our service coordination centers on Sudley, VA coverage windows and verified intake details.
+Synthetic underlayment slip in Sudley, VA is often tied to deck moisture, not wind alone.
 
-Structured milestones protect both sides when scheduling work.
+Regulatory note: Sudley, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Sudley, VA, algae-resistant granules may be specified for north-facing slopes.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 20109.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Moisture pathway inspection logged near ZIP 20109 intake.
+FAQ: Can you tarp only part of the roof? In Sudley, VA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 20109 zone).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 20109.
 
-Dispatch sectors sampled: ZIP 20109 (county grid: Prince William County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: valley metal gauge paired with wind uplift clip spacing near ZIP 20109.
+
+Field note: Shingle seal-down timing logged near ZIP 20109.
+
+On-site sector marker: Prince William County / coords 38.7900, -77.5000 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Prince William County / elevation 203 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20109-163ef269

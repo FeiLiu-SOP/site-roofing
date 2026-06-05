@@ -11,24 +11,31 @@ lng: -81.3500
 zipSample: ["32750"]
 zipCodes: ["32750"]
 localPaths: ["Seminole County / primary ZIP 32750", "Seminole County / ZIP 32750 sector", "Seminole County / elevation 92 ft band", "Seminole County / coords 28.7000, -81.3500"]
-zillowHomeValueUsd: 399188
 ---
 
 **Engineering Notice for Longwood:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Seminole County.
 
 
-Local conditions in Longwood, FL can affect timelines and material choices.
+Code context: Ventilation ratios for Longwood, FL attics should be checked against current mechanical exhaust additions.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tile and shingle mixes in Longwood, FL require different fastener patterns at transitions.
 
-We coordinate local dispatch coverage around Longwood, FL and nearby ZIP sectors.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Our Longwood, FL dispatch packets reference county grid Seminole County and elevation band 92 ft.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32750.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 32750 (county grid: Seminole County).
+Material note: In Longwood, FL, algae-resistant granules may be specified for north-facing slopes.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: starter-strip setback paired with drip-edge metal profile near ZIP 32750.
+
+Primary postal anchor 32750 with multi-ZIP overlap in Longwood; field packets tag Seminole County for county-grid reconciliation.
+
+On-site sector marker: Seminole County / elevation 92 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32750-b1b79b45

@@ -11,26 +11,33 @@ lng: -77.2300
 zipSample: ["22102", "22182"]
 zipCodes: ["22102", "22182"]
 localPaths: ["Fairfax County / ZIP 22182 sector", "Fairfax County / elevation 512 ft band", "Fairfax County / ZIP 22102 sector", "Fairfax County / coords 38.9200, -77.2300", "Fairfax County / primary ZIP 22102"]
-zillowHomeValueUsd: 841472
 ---
 
 **Engineering Notice for Tysons:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-We coordinate local dispatch coverage around Tysons, VA and nearby ZIP sectors.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: When should permanent restoration start? In Tysons, VA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 22182/22102 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 22182/22102 coverage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 22182, 22102 (county grid: Fairfax County).
+Low-slope sections in Tysons, VA need positive drainage before membrane repairs are scoped.
+
+Field routing: starter-strip setback paired with synthetic underlayment slip near ZIP 22102.
+
+Field note: Attic moisture pathway scan referenced ZIP 22102/22182.
+
+ZIP-corridor snapshot for Tysons, VA: sampled sectors include 22182, 22102; county routing grid remains Fairfax County.
+
+On-site sector marker: Fairfax County / elevation 512 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22102-6449f9e7

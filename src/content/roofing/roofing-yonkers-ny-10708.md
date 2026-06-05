@@ -11,24 +11,29 @@ lng: -73.8700
 zipSample: ["10702", "10710", "10701", "10708", "10707"]
 zipCodes: ["10703", "10707", "10705", "10710", "10702", "10708", "10701", "10704"]
 localPaths: ["Westchester County / ZIP 10707 sector", "Westchester County / ZIP 10701 sector", "Westchester County / elevation 325 ft band", "Westchester County / primary ZIP 10708", "Westchester County / ZIP 10708 sector"]
-zillowHomeValueUsd: 949634
 ---
 
 **Engineering Notice for Yonkers:** Structural loading calculated based on 325 ft terrain assessment. Regional dispatch grid: Westchester County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: separate emergency tarp scope from permanent service line items.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Freeze-thaw cycles around Yonkers, NY stress nail pops along eaves and rake edges.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Yonkers, NY, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Local conditions in Yonkers, NY can affect timelines and material choices.
+Code context: Ventilation ratios for Yonkers, NY attics should be checked against current mechanical exhaust additions.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 10707/10702/10710 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 10707, 10702, 10710, 10703, 10708 (county grid: Westchester County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roof work brief: starter-strip setback and skylight curb height were cross-checked for the Yonkers intake packet.
+
+Coordinate-anchored dispatch note: center reference 40.9500, -73.8700 at elevation ~325 ft aligns with Westchester County intake staging.
+
+On-site sector marker: Westchester County / ZIP 10710 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10708-dcb6777f

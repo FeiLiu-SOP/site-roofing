@@ -11,26 +11,31 @@ lng: -88.9300
 zipSample: ["62525", "62521", "62522", "62523", "62526"]
 zipCodes: ["62524", "62521", "62523", "62525", "62526", "62522"]
 localPaths: ["Macon County / elevation 682 ft band", "Macon County / primary ZIP 62522", "Macon County / ZIP 62526 sector", "Macon County / ZIP 62521 sector", "Macon County / coords 39.8600, -88.9300"]
-zillowHomeValueUsd: 90397
 ---
 
 **Engineering Notice for Decatur:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Macon County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Local conditions in Decatur, IL can affect timelines and material choices.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should permanent remediation start? In Decatur, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Decatur, IL, but intake notes help reduce delays.
+Wind-zone note: Decatur, IL exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Decatur, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 62522/62523/62524 zone).
+Metal panel oil-canning in Decatur, IL may signal clip spacing issues, not wind damage alone.
 
-Field note: Access points and staging constraints recorded for ZIP 62522/62523/62524 coverage.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 62522, 62523, 62524, 62521, 62525 (county grid: Macon County).
+roof service brief: soffit intake free area and counter-flashing reglet depth were cross-checked for the Decatur intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 62521/62526/62524.
+
+On-site sector marker: Macon County / elevation 682 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 39.8600, -88.9300 at elevation ~682 ft aligns with Macon County intake staging.
 
 Service reference: IL-62522-9627181f

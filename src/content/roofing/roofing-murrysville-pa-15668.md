@@ -11,26 +11,33 @@ lng: -79.6600
 zipSample: ["15668", "15626", "15632"]
 zipCodes: ["15632", "15668", "15626"]
 localPaths: ["Westmoreland County / elevation 1230 ft band", "Westmoreland County / ZIP 15668 sector", "Westmoreland County / ZIP 15632 sector", "Westmoreland County / coords 40.4500, -79.6600", "Westmoreland County / ZIP 15626 sector"]
-zillowHomeValueUsd: 348035
 ---
 
 **Engineering Notice for Murrysville:** Structural loading calculated based on 1230 ft terrain assessment. Regional dispatch grid: Westmoreland County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 15668.
 
-Tip: avoid large upfront payments without milestones.
+Across Murrysville, PA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Homeowners in Murrysville, PA often face sudden roof work problems that require fast action.
+Risk flag: Tile underlayment age in Murrysville, PA can fail independently of visible tile cracks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Our service coordination centers on Murrysville, PA coverage windows and verified intake details.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Access points and staging constraints recorded for ZIP 15668/15626/15632 coverage.
+Wind-zone note: Murrysville, PA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 15668/15626/15632.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 15668, 15626, 15632 (county grid: Westmoreland County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: ice-barrier lap sequence plus attic baffle spacing referenced in Westmoreland County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 15632/15668/15626.
+
+On-site sector marker: Westmoreland County / ZIP 15626 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~1230 ft across the Westmoreland County area. Coordinates: 40.4500, -79.6600. ZIP sample: 15632, 15668, 15626. Logistics priority: Serving residential sectors across Westmoreland County and north-east ZIP 15668 grid.
 
 Service reference: PA-15668-9efd6562

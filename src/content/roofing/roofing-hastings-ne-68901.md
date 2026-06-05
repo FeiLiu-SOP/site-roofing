@@ -11,25 +11,31 @@ lng: -98.3900
 zipSample: ["68902", "68901"]
 zipCodes: ["68902", "68901"]
 localPaths: ["Adams County / ZIP 68902 sector", "Adams County / elevation 1939 ft band", "Adams County / coords 40.6000, -98.3900", "Adams County / primary ZIP 68901", "Adams County / ZIP 68901 sector"]
-zillowHomeValueUsd: 199899
 ---
 
 **Engineering Notice for Hastings:** Structural loading calculated based on 1939 ft terrain assessment. Regional dispatch grid: Adams County.
 
 
-Our service coordination centers on Hastings, NE coverage windows and verified intake details.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: request a written scope before work starts.
+Our Hastings, NE dispatch packets reference county grid Adams County and elevation band 1939 ft.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 68901.
+Tile and shingle mixes in Hastings, NE require different fastener patterns at transitions.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-In Hastings, NE, urgent roof service issues can escalate quickly.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 68901/68902 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 68901, 68902 (county grid: Adams County).
+Code context: Ventilation ratios for Hastings, NE attics should be checked against current mechanical exhaust additions.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: valley metal gauge paired with shingle exposure calibration near ZIP 68901.
+
+Coordinate-anchored dispatch note: center reference 40.6000, -98.3900 at elevation ~1939 ft aligns with Adams County intake staging.
+
+On-site sector marker: Adams County / ZIP 68902 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-68901-4eee9806

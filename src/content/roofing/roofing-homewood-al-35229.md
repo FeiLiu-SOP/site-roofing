@@ -11,24 +11,29 @@ lng: -86.8100
 zipSample: ["35229", "35293", "35209", "35219"]
 zipCodes: ["35209", "35219", "35293", "35229"]
 localPaths: ["Jefferson County / ZIP 35209 sector", "Jefferson County / primary ZIP 35229", "Jefferson County / ZIP 35219 sector", "Jefferson County / ZIP 35229 sector", "Jefferson County / coords 33.4600, -86.8100"]
-zillowHomeValueUsd: 525193
 ---
 
 **Engineering Notice for Homewood:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Our Homewood, AL dispatch packets reference county grid Jefferson County and elevation band 738 ft.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hail bruising on Homewood, AL ridges may not breach felt until the next wind event.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Homewood, AL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 35209/35229/35293 coverage.
+Step: separate emergency tarp scope from permanent service line items.
 
-Dispatch sectors sampled: ZIP 35209, 35229, 35293, 35219 (county grid: Jefferson County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: skylight curb height plus ice-barrier lap sequence referenced in Jefferson County county grid review.
+
+On-site sector marker: Jefferson County / ZIP 35229 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Jefferson County / elevation 738 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35229-22a646ac

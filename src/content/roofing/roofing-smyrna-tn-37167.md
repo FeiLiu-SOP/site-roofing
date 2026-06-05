@@ -11,24 +11,33 @@ lng: -86.5300
 zipSample: ["37167"]
 zipCodes: ["37167"]
 localPaths: ["Rutherford County / elevation 587 ft band", "Rutherford County / ZIP 37167 sector", "Rutherford County / coords 35.9700, -86.5300", "Rutherford County / primary ZIP 37167"]
-zillowHomeValueUsd: 405187
 ---
 
 **Engineering Notice for Smyrna:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Rutherford County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How long can shingles wait after storm damage? In Smyrna, TN, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Smyrna, TN, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 37167 zone).
+Valley metal in Smyrna, TN should be reviewed whenever granule loss tracks the water line.
 
-Dispatch sectors sampled: ZIP 37167 (county grid: Rutherford County).
+Risk flag: Tile underlayment age in Smyrna, TN can fail independently of visible tile cracks.
+
+Our Smyrna, TN dispatch packets reference county grid Rutherford County and elevation band 587 ft.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+roofing service brief: wind uplift clip spacing and valley metal gauge were cross-checked for the Smyrna intake packet.
+
+On-site sector marker: Rutherford County / primary ZIP 37167 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Smyrna, TN: sampled sectors include 37167; county routing grid remains Rutherford County.
 
 Service reference: TN-37167-b1c07e85

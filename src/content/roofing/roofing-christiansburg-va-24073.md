@@ -11,24 +11,29 @@ lng: -80.4000
 zipSample: ["24068", "24073"]
 zipCodes: ["24068", "24073"]
 localPaths: ["Montgomery County / ZIP 24073 sector", "Montgomery County / coords 37.1400, -80.4000", "Montgomery County / elevation 2067 ft band", "Montgomery County / primary ZIP 24073", "Montgomery County / ZIP 24068 sector"]
-zillowHomeValueUsd: 306035
 ---
 
 **Engineering Notice for Christiansburg:** Structural loading calculated based on 2067 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Tile underlayment age in Christiansburg, VA can fail independently of visible tile cracks.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Structured milestones protect both sides when scheduling work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Christiansburg, VA, but intake notes help reduce delays.
+Attic ventilation deficits in Christiansburg, VA can mimic roof leaks at ceiling penetrations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 24068/24073.
+Regulatory note: Christiansburg, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 24068, 24073 (county grid: Montgomery County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+roofing service brief: ice-barrier lap sequence and starter-strip setback were cross-checked for the Christiansburg intake packet.
+
+On-site sector marker: Montgomery County / ZIP 24068 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Montgomery County: moisture and logistics baselines are keyed to Christiansburg, VA before niche-specific work begins.
 
 Service reference: VA-24073-b868c122

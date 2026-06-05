@@ -11,26 +11,31 @@ lng: -95.5400
 zipSample: ["77071", "77489", "77545", "77459"]
 zipCodes: ["77071", "77545", "77489", "77459"]
 localPaths: ["Fort Bend County / coords 29.5600, -95.5400", "Fort Bend County / ZIP 77545 sector", "Fort Bend County / primary ZIP 77545", "Fort Bend County / ZIP 77489 sector", "Fort Bend County / elevation 85 ft band"]
-zillowHomeValueUsd: 280248
 ---
 
 **Engineering Notice for Missouri City:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Fort Bend County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Our service coordination centers on Missouri City, TX coverage windows and verified intake details.
+Valley metal in Missouri City, TX should be reviewed whenever granule loss tracks the water line.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Missouri City, TX, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Note recent wind events when filing insurance photos for Missouri City, TX.
 
-Field note: Moisture pathway inspection logged near ZIP 77459/77545/77071 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 77459/77545/77071.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 77459, 77545, 77071, 77489 (county grid: Fort Bend County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: drip-edge metal profile paired with shingle exposure calibration near ZIP 77545.
+
+On-site sector marker: Fort Bend County / primary ZIP 77545 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Fort Bend County / elevation 85 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77545-93f91f63

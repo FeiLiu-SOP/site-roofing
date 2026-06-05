@@ -11,24 +11,29 @@ lng: -73.4600
 zipSample: ["12901", "12903"]
 zipCodes: ["12901", "12903"]
 localPaths: ["Clinton County / elevation 151 ft band", "Clinton County / ZIP 12903 sector", "Clinton County / primary ZIP 12903", "Clinton County / ZIP 12901 sector", "Clinton County / coords 44.7000, -73.4600"]
-zillowHomeValueUsd: 235962
 ---
 
 **Engineering Notice for Plattsburgh:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Clinton County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Plattsburgh, NY, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is partial dry-in possible? In Plattsburgh, NY, yes—if slope and anchor points support safe tie-offs.
 
-Our service coordination centers on Plattsburgh, NY coverage windows and verified intake details.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Homeowners in Plattsburgh, NY often face sudden roof work problems that require fast action.
+Risk flag: In Plattsburgh, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 12903/12901 zone).
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 12903, 12901 (county grid: Clinton County).
+Code context: Ventilation ratios for Plattsburgh, NY attics should be checked against current mechanical exhaust additions.
+
+Field routing: ice-barrier lap sequence paired with valley metal gauge near ZIP 12903.
+
+On-site sector marker: Clinton County / coords 44.7000, -73.4600 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Clinton County / elevation 151 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-12903-9dcc81c7

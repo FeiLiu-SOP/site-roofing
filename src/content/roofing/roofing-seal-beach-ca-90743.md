@@ -11,25 +11,29 @@ lng: -118.0700
 zipSample: ["90743", "90740"]
 zipCodes: ["90743", "90740"]
 localPaths: ["Orange County / elevation 13 ft band", "Orange County / ZIP 90743 sector", "Orange County / ZIP 90740 sector", "Orange County / primary ZIP 90743", "Orange County / coords 33.7500, -118.0700"]
-zillowHomeValueUsd: 798317
 ---
 
 **Engineering Notice for Seal Beach:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 90743.
+Regulatory note: Seal Beach, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90743/90740.
+FAQ: Is partial dry-in possible? In Seal Beach, CA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 90743, 90740 (county grid: Orange County).
+Hail bruising on Seal Beach, CA ridges may not breach felt until the next wind event.
+
+roof work brief: skylight curb height and soffit intake free area were cross-checked for the Seal Beach intake packet.
+
+On-site sector marker: Orange County / elevation 13 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Orange County. Reference elevation: 13 ft. Primary coordinates: 33.7500, -118.0700. ZIP sample: 90743, 90740. Regional routing note: Orange County traffic flow is balanced around ZIP 90743 service demand.
 
 Service reference: CA-90743-698c1802

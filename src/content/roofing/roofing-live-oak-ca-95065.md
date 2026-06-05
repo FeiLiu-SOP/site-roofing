@@ -11,24 +11,29 @@ lng: -121.9800
 zipSample: ["95065", "95062"]
 zipCodes: ["95062", "95065"]
 localPaths: ["Santa Cruz County / primary ZIP 95065", "Santa Cruz County / coords 36.9900, -121.9800", "Santa Cruz County / ZIP 95065 sector", "Santa Cruz County / ZIP 95062 sector", "Santa Cruz County / elevation 112 ft band"]
-zillowHomeValueUsd: 1351086
 ---
 
 **Engineering Notice for Live Oak:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Santa Cruz County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Live Oak, CA coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for Live Oak, CA.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Live Oak, CA, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Live Oak, CA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Connection points spot-checked where accessible (ZIP 95062/95065 zone).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 95062, 95065 (county grid: Santa Cruz County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roof service brief: soffit intake free area and pipe boot manufacturer match were cross-checked for the Live Oak intake packet.
+
+On-site sector marker: Santa Cruz County / ZIP 95065 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Live Oak, CA: sampled sectors include 95065, 95062; county routing grid remains Santa Cruz County.
 
 Service reference: CA-95065-69447102

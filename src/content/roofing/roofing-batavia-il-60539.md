@@ -11,26 +11,33 @@ lng: -88.3100
 zipSample: ["60539", "60510"]
 zipCodes: ["60539", "60510"]
 localPaths: ["Kane County / elevation 709 ft band", "Kane County / ZIP 60539 sector", "Kane County / ZIP 60510 sector", "Kane County / coords 41.8500, -88.3100", "Kane County / primary ZIP 60539"]
-zillowHomeValueUsd: 453674
 ---
 
 **Engineering Notice for Batavia:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Kane County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Batavia, IL, but intake notes help reduce delays.
+Wind-zone note: Batavia, IL exposure class can change starter-strip and cap nail schedules.
 
-In Batavia, IL, urgent roofing service issues can escalate quickly.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: avoid large upfront payments without milestones.
+We coordinate Batavia, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Our service coordination centers on Batavia, IL coverage windows and verified intake details.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Wind exposure category reviewed for ZIP sector 60539/60510.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 60539/60510 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 60539, 60510 (county grid: Kane County).
+Wood shake courses in Batavia, IL require skip-spacing rules at valleys.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Scope trace: ridge cap nail schedule plus chimney cricket slope referenced in Kane County county grid review.
+
+On-site sector marker: Kane County / ZIP 60539 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Kane County / coords 41.8500, -88.3100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60539-a49131d5

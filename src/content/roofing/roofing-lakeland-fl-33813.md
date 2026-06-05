@@ -11,26 +11,33 @@ lng: -81.9500
 zipSample: ["33805", "33801", "33802", "33811", "33806"]
 zipCodes: ["33804", "33805", "33806", "33813", "33801", "33811", "33803", "33815", "33802"]
 localPaths: ["Polk County / elevation 220 ft band", "Polk County / ZIP 33805 sector", "Polk County / primary ZIP 33813", "Polk County / ZIP 33811 sector", "Polk County / coords 28.0600, -81.9500"]
-zillowHomeValueUsd: 369284
 ---
 
 **Engineering Notice for Lakeland:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Polk County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Lakeland, FL can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Local conditions in Lakeland, FL can affect timelines and material choices.
+Code context: Ventilation ratios for Lakeland, FL attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Lakeland, FL and nearby ZIP sectors.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 33811/33805/33806.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 33813.
 
-Field note: Connection points spot-checked where accessible (ZIP 33811/33805/33806 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 33811, 33805, 33806, 33813, 33801 (county grid: Polk County).
+Low-slope sections in Lakeland, FL need positive drainage before membrane repairs are scoped.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+roof service brief: counter-flashing reglet depth and deck sheathing thickness were cross-checked for the Lakeland intake packet.
+
+On-site sector marker: Polk County / ZIP 33803 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 28.0600, -81.9500 at elevation ~220 ft aligns with Polk County intake staging.
 
 Service reference: FL-33813-0b35841a

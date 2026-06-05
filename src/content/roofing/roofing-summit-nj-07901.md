@@ -11,25 +11,31 @@ lng: -74.3600
 zipSample: ["07902", "07901"]
 zipCodes: ["07902", "07901"]
 localPaths: ["Union County / ZIP 07902 sector", "Union County / elevation 390 ft band", "Union County / coords 40.7200, -74.3600", "Union County / ZIP 07901 sector", "Union County / primary ZIP 07901"]
-zillowHomeValueUsd: 1360952
 ---
 
 **Engineering Notice for Summit:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Union County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 07901.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 07901.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Summit, NJ can fail independently of visible tile cracks.
 
-Our service coordination centers on Summit, NJ coverage windows and verified intake details.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 07902/07901 zone).
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 07902, 07901 (county grid: Union County).
+Wind-zone note: Summit, NJ exposure class can change starter-strip and cap nail schedules.
+
+Wood shake courses in Summit, NJ require skip-spacing rules at valleys.
+
+roofing service brief: pipe boot manufacturer match and ridge cap nail schedule were cross-checked for the Summit intake packet.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~390 ft across the Union County area. Coordinates: 40.7200, -74.3600. ZIP sample: 07901, 07902. Service perimeter note: Coverage extends through Union County with dispatch centered near ZIP 07901.
+
+On-site sector marker: Union County / primary ZIP 07901 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07901-879a2c51

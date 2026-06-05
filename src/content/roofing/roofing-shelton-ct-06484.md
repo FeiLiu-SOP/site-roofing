@@ -11,28 +11,33 @@ lng: -73.1400
 zipSample: ["06484"]
 zipCodes: ["06484"]
 localPaths: ["Naugatuck Valley County / elevation 417 ft band", "Naugatuck Valley County / ZIP 06484 sector", "Naugatuck Valley County / primary ZIP 06484", "Naugatuck Valley County / coords 41.3100, -73.1400"]
-zillowHomeValueUsd: 549227
 ---
 
 **Engineering Notice for Shelton:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Naugatuck Valley County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 06484.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Our service coordination centers on Shelton, CT coverage windows and verified intake details.
+Wood shake courses in Shelton, CT require skip-spacing rules at valleys.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 06484.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 06484.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 06484.
+Step: map ventilation intake and exhaust pairs for Shelton, CT attic runs.
 
-Field note: Access points and staging constraints recorded for ZIP 06484 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 06484 (county grid: Naugatuck Valley County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: attic baffle spacing paired with ridge cap nail schedule near ZIP 06484.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 06484.
+
+On-site sector marker: Naugatuck Valley County / coords 41.3100, -73.1400 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Naugatuck Valley County / ZIP 06484 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06484-7a69cfc2

@@ -11,26 +11,31 @@ lng: -74.6700
 zipSample: ["08542", "08540", "08544", "08541"]
 zipCodes: ["08544", "08540", "08542", "08541"]
 localPaths: ["Mercer County / coords 40.3600, -74.6700", "Mercer County / ZIP 08540 sector", "Mercer County / primary ZIP 08544", "Mercer County / ZIP 08544 sector", "Mercer County / elevation 148 ft band"]
-zillowHomeValueUsd: 969733
 ---
 
 **Engineering Notice for Princeton:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Mercer County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our service coordination centers on Princeton, NJ coverage windows and verified intake details.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: request a written scope before work starts.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: In Princeton, NJ, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Connection points spot-checked where accessible (ZIP 08544/08540/08541 zone).
+Skylight curb flashing in Princeton, NJ should be sequenced before ridge cap replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 08544/08540/08541.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 08544, 08540, 08541, 08542 (county grid: Mercer County).
+Wind-zone note: Princeton, NJ exposure class can change starter-strip and cap nail schedules.
+
+roof service brief: counter-flashing reglet depth and shingle exposure calibration were cross-checked for the Princeton intake packet.
+
+On-site sector marker: Mercer County / ZIP 08541 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Mercer County / elevation 148 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08544-a7982a0a

@@ -11,26 +11,35 @@ lng: -82.2200
 zipSample: ["37625", "37620", "37621"]
 zipCodes: ["37620", "37621", "37625"]
 localPaths: ["Sullivan County / ZIP 37620 sector", "Sullivan County / elevation 1647 ft band", "Sullivan County / ZIP 37621 sector", "Sullivan County / ZIP 37625 sector", "Sullivan County / coords 36.5600, -82.2200"]
-zillowHomeValueUsd: 229877
 ---
 
 **Engineering Notice for Bristol:** Structural loading calculated based on 1647 ft terrain assessment. Regional dispatch grid: Sullivan County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Note recent wind events when filing insurance photos for Bristol, TN.
 
-Tip: request a written scope before work starts.
+Wind-zone note: Bristol, TN exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Local conditions in Bristol, TN can affect timelines and material choices.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bristol, TN, but intake notes help reduce delays.
+FAQ: When should permanent restoration start? In Bristol, TN, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 37625/37621/37620.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 37625/37621/37620 coverage.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 37625, 37621, 37620 (county grid: Sullivan County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Parapet coping movement in Bristol, TN can channel water behind wall cladding.
+
+roof work brief: wind uplift clip spacing and synthetic underlayment slip were cross-checked for the Bristol intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 37621/37625/37620.
+
+On-site sector marker: Sullivan County / primary ZIP 37620 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Sullivan County / elevation 1647 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37620-51cd3d09

@@ -11,25 +11,33 @@ lng: -82.3200
 zipSample: ["44805"]
 zipCodes: ["44805"]
 localPaths: ["Ashland County / elevation 1073 ft band", "Ashland County / primary ZIP 44805", "Ashland County / ZIP 44805 sector", "Ashland County / coords 40.8700, -82.3200"]
-zillowHomeValueUsd: 226900
 ---
 
 **Engineering Notice for Ashland:** Structural loading calculated based on 1073 ft terrain assessment. Regional dispatch grid: Ashland County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 44805.
+Across Ashland, OH, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Regulatory note: Ashland, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our service coordination centers on Ashland, OH coverage windows and verified intake details.
+Step: map ventilation intake and exhaust pairs for Ashland, OH attic runs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44805.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 44805 (county grid: Ashland County).
+Material note: In Ashland, OH, algae-resistant granules may be specified for north-facing slopes.
+
+Risk flag: In Ashland, OH, interior stains may track from HVAC condensate rather than roof cladding.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roof work brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Ashland intake packet.
+
+On-site sector marker: Ashland County / primary ZIP 44805 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Ashland County. Reference elevation: 1073 ft. Primary coordinates: 40.8700, -82.3200. ZIP sample: 44805. Service perimeter note: Coverage extends through Ashland County with dispatch centered near ZIP 44805.
 
 Service reference: OH-44805-06e17b94

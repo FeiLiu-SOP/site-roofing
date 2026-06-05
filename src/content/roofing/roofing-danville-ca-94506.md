@@ -11,27 +11,31 @@ lng: -121.9700
 zipSample: ["94526", "94506"]
 zipCodes: ["94526", "94506"]
 localPaths: ["Contra Costa County / ZIP 94506 sector", "Contra Costa County / primary ZIP 94506", "Contra Costa County / elevation 469 ft band", "Contra Costa County / coords 37.8100, -121.9700", "Contra Costa County / ZIP 94526 sector"]
-zillowHomeValueUsd: 2084238
 ---
 
 **Engineering Notice for Danville:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-We coordinate local dispatch coverage around Danville, CA and nearby ZIP sectors.
+Wind-zone note: Danville, CA exposure class can change starter-strip and cap nail schedules.
 
-Transparent pricing helps you compare like-for-like scope items.
+Coastal humidity in Danville, CA can slow shingle seal-down after shoulder-season storms.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 94506.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Danville, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Connection points spot-checked where accessible (ZIP 94526/94506 zone).
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94526/94506.
+Risk flag: In Danville, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 94526, 94506 (county grid: Contra Costa County).
+FAQ: Can you tarp only part of the roof? In Danville, CA, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: attic baffle spacing paired with ridge cap nail schedule near ZIP 94506.
+
+On-site sector marker: Contra Costa County / primary ZIP 94506 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 37.8100, -121.9700 at elevation ~469 ft aligns with Contra Costa County intake staging.
 
 Service reference: CA-94506-47f686d6

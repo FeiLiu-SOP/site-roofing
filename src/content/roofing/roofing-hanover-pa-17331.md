@@ -11,24 +11,33 @@ lng: -76.9800
 zipSample: ["17333", "17331", "17332", "17334"]
 zipCodes: ["17333", "17331", "17332", "17334"]
 localPaths: ["York County / primary ZIP 17331", "York County / ZIP 17334 sector", "York County / ZIP 17332 sector", "York County / elevation 617 ft band", "York County / coords 39.8100, -76.9800"]
-zillowHomeValueUsd: 291862
 ---
 
 **Engineering Notice for Hanover:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: York County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: request a written scope before work starts.
+Wood shake courses in Hanover, PA require skip-spacing rules at valleys.
 
-Clear documentation helps align materials, labor, and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hanover, PA, but intake notes help reduce delays.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 17334/17333/17332.
+FAQ: Can you tarp only part of the roof? In Hanover, PA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 17334, 17333, 17332, 17331 (county grid: York County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: synthetic underlayment slip plus valley metal gauge referenced in York County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 17331/17334/17332.
+
+Regional mesh label York County: moisture and logistics baselines are keyed to Hanover, PA before niche-specific work begins.
+
+On-site sector marker: York County / elevation 617 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-17331-863338e2

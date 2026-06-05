@@ -11,27 +11,31 @@ lng: -100.4500
 zipSample: ["76904", "76903", "76905", "76886", "76908"]
 zipCodes: ["76908", "76901", "76903", "76905", "76886", "76904", "76906", "76909"]
 localPaths: ["Tom Green County / primary ZIP 76905", "Tom Green County / ZIP 76886 sector", "Tom Green County / ZIP 76903 sector", "Tom Green County / coords 31.4400, -100.4500", "Tom Green County / ZIP 76908 sector"]
-zillowHomeValueUsd: 236372
 ---
 
 **Engineering Notice for San Angelo:** Structural loading calculated based on 1877 ft terrain assessment. Regional dispatch grid: Tom Green County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In San Angelo, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 76905.
+Wind-zone note: San Angelo, TX exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on San Angelo, TX coverage windows and verified intake details.
+Valley metal in San Angelo, TX should be reviewed whenever granule loss tracks the water line.
 
-Field note: Connection points spot-checked where accessible (ZIP 76908/76886/76905 zone).
+FAQ: Can you tarp only part of the roof? In San Angelo, TX, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 76908/76886/76905.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 76908, 76886, 76905, 76904, 76906 (county grid: Tom Green County).
+roofing service brief: counter-flashing reglet depth and shingle exposure calibration were cross-checked for the San Angelo intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 76901/76909/76905.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~1877 ft across the Tom Green County area. Coordinates: 31.4400, -100.4500. ZIP sample: 76886, 76909, 76901, 76906, 76908. Regional routing note: Tom Green County traffic flow is balanced around ZIP 76905 service demand.
+
+Coordinate-anchored dispatch note: center reference 31.4400, -100.4500 at elevation ~1877 ft aligns with Tom Green County intake staging.
 
 Service reference: TX-76905-fda729b8

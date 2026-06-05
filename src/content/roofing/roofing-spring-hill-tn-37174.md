@@ -11,24 +11,33 @@ lng: -86.9100
 zipSample: ["37179", "37174"]
 zipCodes: ["37179", "37174"]
 localPaths: ["Maury County / ZIP 37174 sector", "Maury County / ZIP 37179 sector", "Maury County / primary ZIP 37174", "Maury County / elevation 771 ft band", "Maury County / coords 35.7400, -86.9100"]
-zillowHomeValueUsd: 517914
 ---
 
 **Engineering Notice for Spring Hill:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Maury County.
 
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Spring Hill, TN, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+Synthetic underlayment slip in Spring Hill, TN is often tied to deck moisture, not wind alone.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 37174.
 
-Field note: Wind exposure category reviewed for ZIP sector 37179/37174.
+Material note: In Spring Hill, TN, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 37179, 37174 (county grid: Maury County).
+Code context: Ventilation ratios for Spring Hill, TN attics should be checked against current mechanical exhaust additions.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+FAQ: How long can shingles wait after storm damage? In Spring Hill, TN, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: chimney cricket slope paired with valley metal gauge near ZIP 37174.
+
+On-site sector marker: Maury County / ZIP 37179 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Maury County / coords 35.7400, -86.9100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37174-6d7c214d

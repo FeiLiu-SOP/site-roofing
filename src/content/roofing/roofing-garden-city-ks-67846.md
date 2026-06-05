@@ -11,24 +11,29 @@ lng: -100.8500
 zipSample: ["67846"]
 zipCodes: ["67846"]
 localPaths: ["Finney County / elevation 2841 ft band", "Finney County / primary ZIP 67846", "Finney County / coords 37.9800, -100.8500", "Finney County / ZIP 67846 sector"]
-zillowHomeValueUsd: 233465
 ---
 
 **Engineering Notice for Garden City:** Structural loading calculated based on 2841 ft terrain assessment. Regional dispatch grid: Finney County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Is partial dry-in possible? In Garden City, KS, yes—if slope and anchor points support safe tie-offs.
 
-Tip: compare at least two estimates for scope and timeline.
+We coordinate Garden City, KS roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Garden City, KS, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: compare shingle manufacturer wind-zone ratings for Garden City, KS exposure class.
 
-Field note: Wind exposure category reviewed for ZIP sector 67846.
+Wind-zone note: Garden City, KS exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 67846 (county grid: Finney County).
+TPO seam welds in Garden City, KS commercial sections need probe tests after freeze events.
+
+Scope trace: valley metal gauge plus pipe boot manufacturer match referenced in Finney County county grid review.
+
+On-site sector marker: Finney County / ZIP 67846 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Garden City, KS: sampled sectors include 67846; county routing grid remains Finney County.
 
 Service reference: KS-67846-7c5b13a1

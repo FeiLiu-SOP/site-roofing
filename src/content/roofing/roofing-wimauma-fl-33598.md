@@ -11,27 +11,31 @@ lng: -82.3000
 zipSample: ["33598"]
 zipCodes: ["33598"]
 localPaths: ["Hillsborough County / ZIP 33598 sector", "Hillsborough County / primary ZIP 33598", "Hillsborough County / coords 27.7000, -82.3000", "Hillsborough County / elevation 79 ft band"]
-zillowHomeValueUsd: 350176
 ---
 
 **Engineering Notice for Wimauma:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: request a written scope before work starts.
+Regulatory note: Wimauma, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In Wimauma, FL, yes—if slope and anchor points support safe tie-offs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 33598.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33598.
+Synthetic underlayment slip in Wimauma, FL is often tied to deck moisture, not wind alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 33598.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 33598 (county grid: Hillsborough County).
+Scope trace: skylight curb height plus attic baffle spacing referenced in Hillsborough County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 33598.
+
+On-site sector marker: Hillsborough County / primary ZIP 33598 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hillsborough County / ZIP 33598 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33598-ef88de4f

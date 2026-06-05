@@ -11,26 +11,33 @@ lng: -77.4100
 zipSample: ["21701", "21702", "21709", "21705"]
 zipCodes: ["21705", "21702", "21709", "21701"]
 localPaths: ["Frederick County / coords 39.4300, -77.4100", "Frederick County / primary ZIP 21705", "Frederick County / elevation 348 ft band", "Frederick County / ZIP 21705 sector", "Frederick County / ZIP 21709 sector"]
-zillowHomeValueUsd: 462223
 ---
 
 **Engineering Notice for Frederick:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Frederick County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Frederick, MD, but intake notes help reduce delays.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Tile underlayment age in Frederick, MD can fail independently of visible tile cracks.
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Homeowners in Frederick, MD often face sudden roof work problems that require fast action.
+Across Frederick, MD, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21701/21702/21709.
+Synthetic underlayment slip in Frederick, MD is often tied to deck moisture, not wind alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 21701/21702/21709 zone).
+FAQ: Is partial dry-in possible? In Frederick, MD, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 21701, 21702, 21709, 21705 (county grid: Frederick County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Regulatory note: Frederick, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: deck sheathing thickness paired with counter-flashing reglet depth near ZIP 21705.
+
+On-site sector marker: Frederick County / ZIP 21709 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 21705 with multi-ZIP overlap in Frederick; field packets tag Frederick County for county-grid reconciliation.
 
 Service reference: MD-21705-ce4c4b7c

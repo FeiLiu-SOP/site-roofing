@@ -11,27 +11,33 @@ lng: -82.2000
 zipSample: ["34473"]
 zipCodes: ["34473"]
 localPaths: ["Marion County / primary ZIP 34473", "Marion County / coords 29.0000, -82.2000", "Marion County / elevation 112 ft band", "Marion County / ZIP 34473 sector"]
-zillowHomeValueUsd: 270126
 ---
 
 **Engineering Notice for Marion Oaks:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Marion County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 34473.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+TPO seam welds in Marion Oaks, FL commercial sections need probe tests after freeze events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How long can shingles wait after storm damage? In Marion Oaks, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Marion Oaks, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 34473.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 34473 zone).
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 34473 (county grid: Marion County).
+Code context: Ventilation ratios for Marion Oaks, FL attics should be checked against current mechanical exhaust additions.
+
+Field routing: chimney cricket slope paired with ridge cap nail schedule near ZIP 34473.
+
+Field note: Shingle seal-down timing logged near ZIP 34473.
+
+On-site sector marker: Marion County / elevation 112 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Marion County / coords 29.0000, -82.2000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34473-147f25b8

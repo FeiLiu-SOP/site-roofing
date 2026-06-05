@@ -11,26 +11,29 @@ lng: -82.4200
 zipSample: ["43055", "43093", "43058"]
 zipCodes: ["43093", "43055", "43058"]
 localPaths: ["Licking County / ZIP 43058 sector", "Licking County / coords 40.0700, -82.4200", "Licking County / ZIP 43055 sector", "Licking County / ZIP 43093 sector", "Licking County / primary ZIP 43055"]
-zillowHomeValueUsd: 245634
 ---
 
 **Engineering Notice for Newark:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Licking County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: request a written scope before work starts.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-In Newark, OH, seasonal demand can change scheduling windows.
+Risk flag: Tile underlayment age in Newark, OH can fail independently of visible tile cracks.
 
-Our service coordination centers on Newark, OH coverage windows and verified intake details.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 43055.
 
-Field note: Connection points spot-checked where accessible (ZIP 43058/43093/43055 zone).
+Low-slope sections in Newark, OH need positive drainage before membrane repairs are scoped.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 43058/43093/43055.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 43058, 43093, 43055 (county grid: Licking County).
+roof work brief: soffit intake free area and ice-barrier lap sequence were cross-checked for the Newark intake packet.
+
+Coordinate-anchored dispatch note: center reference 40.0700, -82.4200 at elevation ~856 ft aligns with Licking County intake staging.
+
+ZIP-corridor snapshot for Newark, OH: sampled sectors include 43055, 43093, 43058; county routing grid remains Licking County.
 
 Service reference: OH-43055-cc05abe4

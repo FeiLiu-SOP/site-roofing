@@ -11,27 +11,29 @@ lng: -93.0500
 zipSample: ["71901", "71902", "71913", "71914"]
 zipCodes: ["71914", "71913", "71901", "71902"]
 localPaths: ["Garland County / ZIP 71901 sector", "Garland County / coords 34.4900, -93.0500", "Garland County / ZIP 71902 sector", "Garland County / elevation 594 ft band", "Garland County / primary ZIP 71901"]
-zillowHomeValueUsd: 209125
 ---
 
 **Engineering Notice for Hot Springs:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Garland County.
 
 
-Our service coordination centers on Hot Springs, AR coverage windows and verified intake details.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for Hot Springs, AR attics should be checked against current mechanical exhaust additions.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 71901.
+Risk flag: Tile underlayment age in Hot Springs, AR can fail independently of visible tile cracks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Parapet coping movement in Hot Springs, AR can channel water behind wall cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 71913/71901/71914 zone).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Wind exposure category reviewed for ZIP sector 71913/71901/71914.
+We coordinate Hot Springs, AR roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 71913, 71901, 71914, 71902 (county grid: Garland County).
+Field routing: starter-strip setback paired with pipe boot manufacturer match near ZIP 71901.
+
+Regional mesh label Garland County: moisture and logistics baselines are keyed to Hot Springs, AR before niche-specific work begins.
+
+On-site sector marker: Garland County / primary ZIP 71901 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-71901-571020b9

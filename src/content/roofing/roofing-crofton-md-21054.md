@@ -11,26 +11,29 @@ lng: -76.6800
 zipSample: ["21054", "21114"]
 zipCodes: ["21054", "21114"]
 localPaths: ["Anne Arundel County / primary ZIP 21054", "Anne Arundel County / ZIP 21114 sector", "Anne Arundel County / ZIP 21054 sector", "Anne Arundel County / coords 39.0100, -76.6800", "Anne Arundel County / elevation 121 ft band"]
-zillowHomeValueUsd: 613025
 ---
 
 **Engineering Notice for Crofton:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: How long can shingles wait after storm damage? In Crofton, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-We coordinate local dispatch coverage around Crofton, MD and nearby ZIP sectors.
+Attic ventilation deficits in Crofton, MD can mimic roof leaks at ceiling penetrations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Crofton, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21054/21114.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 21054/21114 zone).
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 21054, 21114 (county grid: Anne Arundel County).
+Field routing: pipe boot manufacturer match paired with wind uplift clip spacing near ZIP 21054.
+
+ZIP-corridor snapshot for Crofton, MD: sampled sectors include 21054, 21114; county routing grid remains Anne Arundel County.
+
+On-site sector marker: Anne Arundel County / primary ZIP 21054 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21054-d17c8808

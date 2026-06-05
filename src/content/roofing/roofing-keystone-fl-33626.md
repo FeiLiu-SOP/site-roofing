@@ -11,24 +11,31 @@ lng: -82.6000
 zipSample: ["33556", "33626", "33558"]
 zipCodes: ["33556", "33558", "33626"]
 localPaths: ["Hillsborough County / ZIP 33626 sector", "Hillsborough County / coords 28.1300, -82.6000", "Hillsborough County / elevation 66 ft band", "Hillsborough County / ZIP 33558 sector", "Hillsborough County / ZIP 33556 sector"]
-zillowHomeValueUsd: 569016
 ---
 
 **Engineering Notice for Keystone:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-Local conditions in Keystone, FL can affect timelines and material choices.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Homeowners in Keystone, FL often face sudden roof work problems that require fast action.
+Regulatory note: Keystone, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: avoid large upfront payments without milestones.
+We coordinate Keystone, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map ventilation intake and exhaust pairs for Keystone, FL attic runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 33556/33558/33626 zone).
+FAQ: When should permanent service start? In Keystone, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 33556, 33558, 33626 (county grid: Hillsborough County).
+Hail bruising on Keystone, FL ridges may not breach felt until the next wind event.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+roof work brief: attic baffle spacing and counter-flashing reglet depth were cross-checked for the Keystone intake packet.
+
+On-site sector marker: Hillsborough County / ZIP 33626 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hillsborough County / ZIP 33556 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33626-9bdb0d35

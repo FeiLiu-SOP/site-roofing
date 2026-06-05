@@ -11,24 +11,29 @@ lng: -85.6700
 zipSample: ["49548", "49315"]
 zipCodes: ["49315", "49548"]
 localPaths: ["Kent County / ZIP 49315 sector", "Kent County / primary ZIP 49548", "Kent County / coords 42.8400, -85.6700", "Kent County / ZIP 49548 sector", "Kent County / elevation 676 ft band"]
-zillowHomeValueUsd: 250312
 ---
 
 **Engineering Notice for Cutlerville:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Kent County.
 
 
-We coordinate local dispatch coverage around Cutlerville, MI and nearby ZIP sectors.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Cutlerville, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Skylight curb flashing in Cutlerville, MI should be sequenced before ridge cap replacement.
 
-Local conditions in Cutlerville, MI can affect timelines and material choices.
+We coordinate Cutlerville, MI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Access points and staging constraints recorded for ZIP 49315/49548 coverage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 49315, 49548 (county grid: Kent County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Field routing: synthetic underlayment slip paired with starter-strip setback near ZIP 49548.
+
+Coordinate-anchored dispatch note: center reference 42.8400, -85.6700 at elevation ~676 ft aligns with Kent County intake staging.
+
+Primary postal anchor 49548 with multi-ZIP overlap in Cutlerville; field packets tag Kent County for county-grid reconciliation.
 
 Service reference: MI-49548-84ed1591

@@ -11,25 +11,35 @@ lng: -90.7200
 zipSample: ["63366", "63367", "63368"]
 zipCodes: ["63367", "63366", "63368"]
 localPaths: ["St. Charles County / ZIP 63367 sector", "St. Charles County / coords 38.7800, -90.7200", "St. Charles County / ZIP 63366 sector", "St. Charles County / primary ZIP 63367", "St. Charles County / ZIP 63368 sector"]
-zillowHomeValueUsd: 441339
 ---
 
 **Engineering Notice for O'Fallon:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: St. Charles County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in O'Fallon, MO, but intake notes help reduce delays.
+Risk flag: In O'Fallon, MO, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Freeze-thaw cycles around O'Fallon, MO stress nail pops along eaves and rake edges.
 
-We coordinate local dispatch coverage around O'Fallon, MO and nearby ZIP sectors.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 63367.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 63367.
+Code context: Ventilation ratios for O'Fallon, MO attics should be checked against current mechanical exhaust additions.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Access points and staging constraints recorded for ZIP 63367/63368/63366 coverage.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 63367, 63368, 63366 (county grid: St. Charles County).
+FAQ: Can you tarp only part of the roof? In O'Fallon, MO, yes—if slope and anchor points support safe tie-offs.
+
+We coordinate O'Fallon, MO roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Scope trace: chimney cricket slope plus synthetic underlayment slip referenced in St. Charles County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 63366/63367/63368.
+
+On-site sector marker: St. Charles County / ZIP 63366 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Charles County / elevation 597 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63367-cb4269aa

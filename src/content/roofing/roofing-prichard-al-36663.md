@@ -11,27 +11,35 @@ lng: -88.1300
 zipSample: ["36612", "36663", "36610", "36613"]
 zipCodes: ["36663", "36613", "36610", "36612"]
 localPaths: ["Mobile County / elevation 62 ft band", "Mobile County / primary ZIP 36663", "Mobile County / ZIP 36610 sector", "Mobile County / ZIP 36613 sector", "Mobile County / ZIP 36612 sector"]
-zillowHomeValueUsd: 147095
 ---
 
 **Engineering Notice for Prichard:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Mobile County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 36663.
+Regulatory note: Prichard, AL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 36663.
 
-Field note: Connection points spot-checked where accessible (ZIP 36663/36610/36612 zone).
+Attic ventilation deficits in Prichard, AL can mimic roof leaks at ceiling penetrations.
 
-Field note: Access points and staging constraints recorded for ZIP 36663/36610/36612 coverage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 36663, 36610, 36612, 36613 (county grid: Mobile County).
+FAQ: When should permanent remediation start? In Prichard, AL, delayed dry-in can expand insulation and ceiling repairs.
+
+Our Prichard, AL dispatch packets reference county grid Mobile County and elevation band 62 ft.
+
+roof service brief: soffit intake free area and ridge cap nail schedule were cross-checked for the Prichard intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 36612/36610/36613.
+
+On-site sector marker: Mobile County / ZIP 36613 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Mobile County: moisture and logistics baselines are keyed to Prichard, AL before niche-specific work begins.
 
 Service reference: AL-36663-b8d6708e

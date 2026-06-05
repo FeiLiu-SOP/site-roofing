@@ -11,24 +11,31 @@ lng: -84.2900
 zipSample: ["30033", "30030"]
 zipCodes: ["30030", "30033"]
 localPaths: ["DeKalb County / coords 33.8100, -84.2900", "DeKalb County / ZIP 30033 sector", "DeKalb County / elevation 955 ft band", "DeKalb County / primary ZIP 30030", "DeKalb County / ZIP 30030 sector"]
-zillowHomeValueUsd: 639015
 ---
 
 **Engineering Notice for North Decatur:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: DeKalb County.
 
 
-Our service coordination centers on North Decatur, GA coverage windows and verified intake details.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate North Decatur, GA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In North Decatur, GA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Parapet coping movement in North Decatur, GA can channel water behind wall cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 30033/30030 intake.
+Regulatory note: North Decatur, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 30033, 30030 (county grid: DeKalb County).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: chimney cricket slope paired with synthetic underlayment slip near ZIP 30030.
+
+Regional mesh label DeKalb County: moisture and logistics baselines are keyed to North Decatur, GA before niche-specific work begins.
+
+On-site sector marker: DeKalb County / elevation 955 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30030-2129f562

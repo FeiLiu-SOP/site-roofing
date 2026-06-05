@@ -11,26 +11,29 @@ lng: -79.2400
 zipSample: ["14702", "14701"]
 zipCodes: ["14701", "14702"]
 localPaths: ["Chautauqua County / ZIP 14702 sector", "Chautauqua County / coords 42.1000, -79.2400", "Chautauqua County / ZIP 14701 sector", "Chautauqua County / primary ZIP 14701", "Chautauqua County / elevation 1398 ft band"]
-zillowHomeValueUsd: 117870
 ---
 
 **Engineering Notice for Jamestown:** Structural loading calculated based on 1398 ft terrain assessment. Regional dispatch grid: Chautauqua County.
 
 
-In Jamestown, NY, urgent roof service issues can escalate quickly.
+Step: log deck soundings near vents before tear-off is approved.
 
-Our service coordination centers on Jamestown, NY coverage windows and verified intake details.
+Synthetic underlayment slip in Jamestown, NY is often tied to deck moisture, not wind alone.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Jamestown, NY attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 14702/14701 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 14702/14701 zone).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 14702, 14701 (county grid: Chautauqua County).
+roof service brief: valley metal gauge and pipe boot manufacturer match were cross-checked for the Jamestown intake packet.
+
+Primary postal anchor 14701 with multi-ZIP overlap in Jamestown; field packets tag Chautauqua County for county-grid reconciliation.
+
+On-site sector marker: Chautauqua County / ZIP 14701 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14701-89ed2cb1

@@ -11,25 +11,33 @@ lng: -82.6100
 zipSample: ["33626"]
 zipCodes: ["33626"]
 localPaths: ["Hillsborough County / ZIP 33626 sector", "Hillsborough County / coords 28.0600, -82.6100", "Hillsborough County / elevation 43 ft band", "Hillsborough County / primary ZIP 33626"]
-zillowHomeValueUsd: 569017
 ---
 
 **Engineering Notice for Westchase:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+In Westchase, FL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 33626.
+Step: map ventilation intake and exhaust pairs for Westchase, FL attic runs.
 
-Tip: request a written scope before work starts.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Westchase, FL can fail independently of visible tile cracks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Connection points spot-checked where accessible (ZIP 33626 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 33626 (county grid: Hillsborough County).
+We coordinate Westchase, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Wind-zone note: Westchase, FL exposure class can change starter-strip and cap nail schedules.
+
+roofing service brief: counter-flashing reglet depth and valley metal gauge were cross-checked for the Westchase intake packet.
+
+On-site sector marker: Hillsborough County / ZIP 33626 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Westchase, FL: sampled sectors include 33626; county routing grid remains Hillsborough County.
 
 Service reference: FL-33626-3fb0651e

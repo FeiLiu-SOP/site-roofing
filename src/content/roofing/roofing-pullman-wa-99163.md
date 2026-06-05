@@ -11,26 +11,33 @@ lng: -117.1700
 zipSample: ["99163", "99164"]
 zipCodes: ["99163", "99164"]
 localPaths: ["Whitman County / elevation 2530 ft band", "Whitman County / ZIP 99164 sector", "Whitman County / ZIP 99163 sector", "Whitman County / coords 46.7300, -117.1700", "Whitman County / primary ZIP 99163"]
-zillowHomeValueUsd: 422887
 ---
 
 **Engineering Notice for Pullman:** Structural loading calculated based on 2530 ft terrain assessment. Regional dispatch grid: Whitman County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: request a written scope before work starts.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Pullman, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 99164/99163.
+Across Pullman, WA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Moisture pathway inspection logged near ZIP 99164/99163 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 99164, 99163 (county grid: Whitman County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Field routing: valley metal gauge paired with ridge cap nail schedule near ZIP 99163.
+
+On-site sector marker: Whitman County / ZIP 99164 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 46.7300, -117.1700 at elevation ~2530 ft aligns with Whitman County intake staging.
 
 Service reference: WA-99163-3e28b0fd

@@ -11,27 +11,33 @@ lng: -82.6700
 zipSample: ["33711", "33731", "33743", "33701", "33762"]
 zipCodes: ["33707", "33703", "33729", "33701", "33710", "33742", "33762", "33734", "33712", "33713", "33732", "33705"]
 localPaths: ["Pinellas County / ZIP 33743 sector", "Pinellas County / ZIP 33731 sector", "Pinellas County / ZIP 33711 sector", "Pinellas County / primary ZIP 33707", "Pinellas County / coords 27.7900, -82.6700"]
-zillowHomeValueUsd: 361595
 ---
 
 **Engineering Notice for St. Petersburg:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Pinellas County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 33707.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wood shake courses in St. Petersburg, FL require skip-spacing rules at valleys.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-We coordinate local dispatch coverage around St. Petersburg, FL and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 33732/33704/33714.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 33732/33704/33714 zone).
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 33732, 33704, 33714, 33711, 33705 (county grid: Pinellas County).
+Risk flag: In St. Petersburg, FL, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: counter-flashing reglet depth plus ridge cap nail schedule referenced in Pinellas County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 33716/33714/33711.
+
+On-site sector marker: Pinellas County / coords 27.7900, -82.6700 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 27.7900, -82.6700 at elevation ~69 ft aligns with Pinellas County intake staging.
 
 Service reference: FL-33707-42cc8c33

@@ -11,27 +11,29 @@ lng: -82.1100
 zipSample: ["33948", "33980", "33952", "33949", "33954"]
 zipCodes: ["33954", "33948", "33949", "33952", "33980"]
 localPaths: ["Charlotte County / ZIP 33952 sector", "Charlotte County / ZIP 33948 sector", "Charlotte County / coords 26.9900, -82.1100", "Charlotte County / primary ZIP 33954", "Charlotte County / ZIP 33980 sector"]
-zillowHomeValueUsd: 298471
 ---
 
 **Engineering Notice for Port Charlotte:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Charlotte County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 33954.
+TPO seam welds in Port Charlotte, FL commercial sections need probe tests after freeze events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How long can shingles wait after storm damage? In Port Charlotte, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Port Charlotte, FL, but intake notes help reduce delays.
+Our Port Charlotte, FL dispatch packets reference county grid Charlotte County and elevation band 20 ft.
 
-Field note: Access points and staging constraints recorded for ZIP 33954/33949/33980 coverage.
+Regulatory note: Port Charlotte, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33954/33949/33980.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 33954, 33949, 33980, 33952, 33948 (county grid: Charlotte County).
+Field routing: synthetic underlayment slip paired with soffit intake free area near ZIP 33954.
+
+On-site sector marker: Charlotte County / ZIP 33949 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Charlotte County / ZIP 33952 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33954-17c7144f

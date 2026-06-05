@@ -11,24 +11,33 @@ lng: -122.3700
 zipSample: ["94011", "94010"]
 zipCodes: ["94011", "94010"]
 localPaths: ["San Mateo County / elevation 16 ft band", "San Mateo County / primary ZIP 94010", "San Mateo County / coords 37.5900, -122.3700", "San Mateo County / ZIP 94011 sector", "San Mateo County / ZIP 94010 sector"]
-zillowHomeValueUsd: 3405663
 ---
 
 **Engineering Notice for Burlingame:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: San Mateo County.
 
 
-Our service coordination centers on Burlingame, CA coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Local conditions in Burlingame, CA can affect timelines and material choices.
+Wind-zone note: Burlingame, CA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Burlingame, CA, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Access points and staging constraints recorded for ZIP 94011/94010 coverage.
+Risk flag: Tile underlayment age in Burlingame, CA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 94011, 94010 (county grid: San Mateo County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Freeze-thaw cycles around Burlingame, CA stress nail pops along eaves and rake edges.
+
+FAQ: Can you tarp only part of the roof? In Burlingame, CA, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: wind uplift clip spacing paired with starter-strip setback near ZIP 94010.
+
+Coordinate-anchored dispatch note: center reference 37.5900, -122.3700 at elevation ~16 ft aligns with San Mateo County intake staging.
+
+Regional mesh label San Mateo County: moisture and logistics baselines are keyed to Burlingame, CA before niche-specific work begins.
 
 Service reference: CA-94010-e74e71a0

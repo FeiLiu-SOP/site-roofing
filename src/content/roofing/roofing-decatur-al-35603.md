@@ -11,27 +11,35 @@ lng: -86.9900
 zipSample: ["35601", "35603", "35609", "35602"]
 zipCodes: ["35601", "35602", "35609", "35603"]
 localPaths: ["Morgan County / ZIP 35603 sector", "Morgan County / primary ZIP 35603", "Morgan County / coords 34.5700, -86.9900", "Morgan County / ZIP 35602 sector", "Morgan County / ZIP 35601 sector"]
-zillowHomeValueUsd: 280520
 ---
 
 **Engineering Notice for Decatur:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Morgan County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: request a written scope before work starts.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 35603.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Decatur, AL, but intake notes help reduce delays.
+Wind-zone note: Decatur, AL exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hail bruising on Decatur, AL ridges may not breach felt until the next wind event.
 
-Field note: Access points and staging constraints recorded for ZIP 35601/35609/35603 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35601/35609/35603.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 35601, 35609, 35603, 35602 (county grid: Morgan County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Scope trace: valley metal gauge plus shingle exposure calibration referenced in Morgan County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 35602/35609/35603.
+
+Primary postal anchor 35603 with multi-ZIP overlap in Decatur; field packets tag Morgan County for county-grid reconciliation.
+
+Regional mesh label Morgan County: moisture and logistics baselines are keyed to Decatur, AL before niche-specific work begins.
 
 Service reference: AL-35603-0d4fd289

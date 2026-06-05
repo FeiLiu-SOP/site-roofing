@@ -11,24 +11,31 @@ lng: -80.4800
 zipSample: ["32958", "32978", "32967"]
 zipCodes: ["32967", "32978", "32958"]
 localPaths: ["Indian River County / primary ZIP 32967", "Indian River County / ZIP 32967 sector", "Indian River County / elevation 46 ft band", "Indian River County / coords 27.7800, -80.4800", "Indian River County / ZIP 32958 sector"]
-zillowHomeValueUsd: 405603
 ---
 
 **Engineering Notice for Sebastian:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Indian River County.
 
 
-We coordinate local dispatch coverage around Sebastian, FL and nearby ZIP sectors.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Sebastian, FL attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sebastian, FL, but intake notes help reduce delays.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 32967.
 
-In Sebastian, FL, seasonal demand can change scheduling windows.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 32978/32958/32967 coverage.
+Coastal humidity in Sebastian, FL can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 32978, 32958, 32967 (county grid: Indian River County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Field routing: soffit intake free area paired with deck sheathing thickness near ZIP 32967.
+
+Field note: Shingle seal-down timing logged near ZIP 32978/32967/32958.
+
+Primary postal anchor 32967 with multi-ZIP overlap in Sebastian; field packets tag Indian River County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Sebastian, FL: sampled sectors include 32978, 32967, 32958; county routing grid remains Indian River County.
 
 Service reference: FL-32967-2afb7b7e

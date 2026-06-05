@@ -11,24 +11,33 @@ lng: -93.2100
 zipSample: ["55014", "55449", "55434"]
 zipCodes: ["55449", "55434", "55014"]
 localPaths: ["Anoka County / primary ZIP 55014", "Anoka County / elevation 902 ft band", "Anoka County / ZIP 55449 sector", "Anoka County / coords 45.1700, -93.2100", "Anoka County / ZIP 55014 sector"]
-zillowHomeValueUsd: 375754
 ---
 
 **Engineering Notice for Blaine:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Anoka County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 55449/55434/55014 zone).
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 55449, 55434, 55014 (county grid: Anoka County).
+Across Blaine, MN, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+FAQ: How long can shingles wait after storm damage? In Blaine, MN, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: valley metal gauge paired with synthetic underlayment slip near ZIP 55014.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 55449/55434/55014.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~902 ft across the Anoka County area. Coordinates: 45.1700, -93.2100. ZIP sample: 55434, 55449, 55014. Logistics priority: Serving residential sectors across Anoka County and north-east ZIP 55014 grid.
+
+Primary postal anchor 55014 with multi-ZIP overlap in Blaine; field packets tag Anoka County for county-grid reconciliation.
 
 Service reference: MN-55014-799dd770

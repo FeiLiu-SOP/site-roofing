@@ -11,24 +11,31 @@ lng: -85.9700
 zipSample: ["46256", "46038", "46037", "46040", "46085"]
 zipCodes: ["46038", "46085", "46040", "46037", "46256"]
 localPaths: ["Hamilton County / elevation 804 ft band", "Hamilton County / ZIP 46037 sector", "Hamilton County / primary ZIP 46038", "Hamilton County / ZIP 46085 sector", "Hamilton County / ZIP 46038 sector"]
-zillowHomeValueUsd: 379017
 ---
 
 **Engineering Notice for Fishers:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Hamilton County.
 
 
-We coordinate local dispatch coverage around Fishers, IN and nearby ZIP sectors.
+Risk flag: In Fishers, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Freeze-thaw cycles around Fishers, IN stress nail pops along eaves and rake edges.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: request a written scope before work starts.
+We coordinate Fishers, IN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Moisture pathway inspection logged near ZIP 46256/46085/46040 intake.
+Code context: Ventilation ratios for Fishers, IN attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 46256, 46085, 46040, 46037, 46038 (county grid: Hamilton County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: ice-barrier lap sequence paired with deck sheathing thickness near ZIP 46038.
+
+**Regional Infrastructure Brief:** Grid anchor set to Hamilton County. Reference elevation: 804 ft. Primary coordinates: 39.9600, -85.9700. ZIP sample: 46037, 46038, 46040, 46256, 46085. Regional routing note: Hamilton County traffic flow is balanced around ZIP 46038 service demand.
+
+On-site sector marker: Hamilton County / ZIP 46040 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46038-49273a24

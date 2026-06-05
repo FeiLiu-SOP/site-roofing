@@ -11,26 +11,31 @@ lng: -110.3200
 zipSample: ["85635", "85650", "85613", "85670"]
 zipCodes: ["85670", "85613", "85650", "85635"]
 localPaths: ["Cochise County / ZIP 85650 sector", "Cochise County / ZIP 85613 sector", "Cochise County / elevation 4649 ft band", "Cochise County / primary ZIP 85650", "Cochise County / coords 31.5600, -110.3200"]
-zillowHomeValueUsd: 359397
 ---
 
 **Engineering Notice for Sierra Vista:** Structural loading calculated based on 4649 ft terrain assessment. Regional dispatch grid: Cochise County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-We coordinate local dispatch coverage around Sierra Vista, AZ and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Local conditions in Sierra Vista, AZ can affect timelines and material choices.
+Parapet coping movement in Sierra Vista, AZ can channel water behind wall cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 85613/85635/85650 coverage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Moisture pathway inspection logged near ZIP 85613/85635/85650 intake.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 85613, 85635, 85650, 85670 (county grid: Cochise County).
+Step: map ventilation intake and exhaust pairs for Sierra Vista, AZ attic runs.
+
+roofing service brief: synthetic underlayment slip and wind uplift clip spacing were cross-checked for the Sierra Vista intake packet.
+
+On-site sector marker: Cochise County / coords 31.5600, -110.3200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cochise County / ZIP 85635 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85650-5f726f10

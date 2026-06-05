@@ -11,26 +11,35 @@ lng: -81.9500
 zipSample: ["29860", "29841", "29861"]
 zipCodes: ["29841", "29860", "29861"]
 localPaths: ["Aiken County / ZIP 29860 sector", "Aiken County / elevation 476 ft band", "Aiken County / ZIP 29861 sector", "Aiken County / ZIP 29841 sector", "Aiken County / coords 33.5200, -81.9500"]
-zillowHomeValueUsd: 224568
 ---
 
 **Engineering Notice for North Augusta:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: Aiken County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Augusta, SC, but intake notes help reduce delays.
+Granule embedment loss on North Augusta, SC north slopes can precede mat exposure.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Our service coordination centers on North Augusta, SC coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 29841/29861/29860.
+Tip: Note recent wind events when filing insurance photos for North Augusta, SC.
 
-Field note: Moisture pathway inspection logged near ZIP 29841/29861/29860 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 29841, 29861, 29860 (county grid: Aiken County).
+FAQ: Is partial dry-in possible? In North Augusta, SC, yes—if slope and anchor points support safe tie-offs.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+roof service brief: starter-strip setback and pipe boot manufacturer match were cross-checked for the North Augusta intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 29841/29861/29860.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Aiken County and primary ZIP 29841. Terrain reference: 476 ft. Center point: 33.5200, -81.9500. ZIP sample: 29860, 29861, 29841. Logistics priority: Serving residential sectors across Aiken County and north-east ZIP 29841 grid.
+
+On-site sector marker: Aiken County / ZIP 29861 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29841-baaf23dd

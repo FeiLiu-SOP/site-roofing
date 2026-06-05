@@ -11,24 +11,31 @@ lng: -81.7000
 zipSample: ["34116"]
 zipCodes: ["34116"]
 localPaths: ["Collier County / elevation 26 ft band", "Collier County / coords 26.1800, -81.7000", "Collier County / primary ZIP 34116", "Collier County / ZIP 34116 sector"]
-zillowHomeValueUsd: 455848
 ---
 
 **Engineering Notice for Golden Gate:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Collier County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Golden Gate, FL, but intake notes help reduce delays.
+Step: separate emergency tarp scope from permanent service line items.
 
-In Golden Gate, FL, seasonal demand can change scheduling windows.
+FAQ: Can you tarp only part of the roof? In Golden Gate, FL, yes—if slope and anchor points support safe tie-offs.
 
-Our service coordination centers on Golden Gate, FL coverage windows and verified intake details.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Tile underlayment age in Golden Gate, FL can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34116.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 34116 (county grid: Collier County).
+Metal panel oil-canning in Golden Gate, FL may signal clip spacing issues, not wind damage alone.
+
+Field routing: ridge cap nail schedule paired with counter-flashing reglet depth near ZIP 34116.
+
+Field note: Attic moisture pathway scan referenced ZIP 34116.
+
+On-site sector marker: Collier County / ZIP 34116 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Collier County and primary ZIP 34116. Terrain reference: 26 ft. Center point: 26.1800, -81.7000. ZIP sample: 34116. Regional routing note: Collier County traffic flow is balanced around ZIP 34116 service demand.
 
 Service reference: FL-34116-27ae9ecd

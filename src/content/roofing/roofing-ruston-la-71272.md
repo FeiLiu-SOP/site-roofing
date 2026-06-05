@@ -11,25 +11,31 @@ lng: -92.6400
 zipSample: ["71270", "71272"]
 zipCodes: ["71270", "71272"]
 localPaths: ["Lincoln Parish / ZIP 71272 sector", "Lincoln Parish / elevation 331 ft band", "Lincoln Parish / ZIP 71270 sector", "Lincoln Parish / coords 32.5300, -92.6400", "Lincoln Parish / primary ZIP 71272"]
-zillowHomeValueUsd: 225071
 ---
 
 **Engineering Notice for Ruston:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: Lincoln Parish.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ruston, LA, but intake notes help reduce delays.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Ruston, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should permanent remediation start? In Ruston, LA, delayed dry-in can expand insulation and ceiling repairs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 71272.
+Metal panel oil-canning in Ruston, LA may signal clip spacing issues, not wind damage alone.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Tile underlayment age in Ruston, LA can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 71272/71270 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 71272, 71270 (county grid: Lincoln Parish).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+roofing service brief: skylight curb height and starter-strip setback were cross-checked for the Ruston intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 71272/71270.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Lincoln Parish. Reference elevation: 331 ft. Primary coordinates: 32.5300, -92.6400. ZIP sample: 71270, 71272. Service perimeter note: Coverage extends through Lincoln Parish with dispatch centered near ZIP 71272.
+
+On-site sector marker: Lincoln Parish / ZIP 71270 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-71272-43bfe477

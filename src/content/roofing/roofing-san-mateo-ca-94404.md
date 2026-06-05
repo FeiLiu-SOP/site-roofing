@@ -11,26 +11,33 @@ lng: -122.3100
 zipSample: ["94404", "94402", "94401", "94403", "94497"]
 zipCodes: ["94404", "94401", "94403", "94402", "94497"]
 localPaths: ["San Mateo County / coords 37.5500, -122.3100", "San Mateo County / elevation 13 ft band", "San Mateo County / ZIP 94404 sector", "San Mateo County / primary ZIP 94404", "San Mateo County / ZIP 94401 sector"]
-zillowHomeValueUsd: 1763672
 ---
 
 **Engineering Notice for San Mateo:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: San Mateo County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Code context: Ventilation ratios for San Mateo, CA attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Skylight curb flashing in San Mateo, CA should be sequenced before ridge cap replacement.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 94404.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 94404.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94403/94401/94497.
+Our San Mateo, CA dispatch packets reference county grid San Mateo County and elevation band 13 ft.
 
-Dispatch sectors sampled: ZIP 94403, 94401, 94497, 94402, 94404 (county grid: San Mateo County).
+Step: compare shingle manufacturer wind-zone ratings for San Mateo, CA exposure class.
+
+Risk flag: In San Mateo, CA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: pipe boot manufacturer match paired with chimney cricket slope near ZIP 94404.
+
+Field note: Shingle seal-down timing logged near ZIP 94402/94403/94404.
+
+ZIP-corridor snapshot for San Mateo, CA: sampled sectors include 94401, 94404, 94402, 94497, 94403; county routing grid remains San Mateo County.
+
+Regional mesh label San Mateo County: moisture and logistics baselines are keyed to San Mateo, CA before niche-specific work begins.
 
 Service reference: CA-94404-65345e14

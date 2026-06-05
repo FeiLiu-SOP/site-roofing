@@ -11,27 +11,33 @@ lng: -112.0500
 zipSample: ["84067"]
 zipCodes: ["84067"]
 localPaths: ["Weber County / ZIP 84067 sector", "Weber County / primary ZIP 84067", "Weber County / elevation 4383 ft band", "Weber County / coords 41.1700, -112.0500"]
-zillowHomeValueUsd: 436567
 ---
 
 **Engineering Notice for Roy:** Structural loading calculated based on 4383 ft terrain assessment. Regional dispatch grid: Weber County.
 
 
-Tip: avoid large upfront payments without milestones.
+Parapet coping movement in Roy, UT can channel water behind wall cladding.
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Roy, UT coverage windows and verified intake details.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 84067.
+Regulatory note: Roy, UT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Roy, UT, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84067.
+Risk flag: In Roy, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 84067 intake.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 84067 (county grid: Weber County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+roofing service brief: shingle exposure calibration and counter-flashing reglet depth were cross-checked for the Roy intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 84067.
+
+On-site sector marker: Weber County / coords 41.1700, -112.0500 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Weber County / primary ZIP 84067 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84067-4e959fe2

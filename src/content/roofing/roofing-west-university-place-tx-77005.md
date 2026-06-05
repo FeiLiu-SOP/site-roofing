@@ -11,26 +11,33 @@ lng: -95.4300
 zipSample: ["77265", "77277", "77005"]
 zipCodes: ["77005", "77277", "77265"]
 localPaths: ["Harris County / elevation 72 ft band", "Harris County / coords 29.7200, -95.4300", "Harris County / ZIP 77265 sector", "Harris County / ZIP 77277 sector", "Harris County / ZIP 77005 sector"]
-zillowHomeValueUsd: 1677618
 ---
 
 **Engineering Notice for West University Place:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Harris County.
 
 
-Tip: request a written scope before work starts.
+Parapet coping movement in West University Place, TX can channel water behind wall cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West University Place, TX, but intake notes help reduce delays.
+Wind-zone note: West University Place, TX exposure class can change starter-strip and cap nail schedules.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-We coordinate local dispatch coverage around West University Place, TX and nearby ZIP sectors.
+Risk flag: Tile underlayment age in West University Place, TX can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77265/77005/77277.
+Wood shake courses in West University Place, TX require skip-spacing rules at valleys.
 
-Field note: Moisture pathway inspection logged near ZIP 77265/77005/77277 intake.
+FAQ: Is partial dry-in possible? In West University Place, TX, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 77265, 77005, 77277 (county grid: Harris County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Step: map ventilation intake and exhaust pairs for West University Place, TX attic runs.
+
+roof work brief: ice-barrier lap sequence and drip-edge metal profile were cross-checked for the West University Place intake packet.
+
+Primary postal anchor 77005 with multi-ZIP overlap in West University Place; field packets tag Harris County for county-grid reconciliation.
+
+ZIP-corridor snapshot for West University Place, TX: sampled sectors include 77005, 77277, 77265; county routing grid remains Harris County.
 
 Service reference: TX-77005-9b2a2d39

@@ -11,24 +11,31 @@ lng: -122.1200
 zipSample: ["98052", "98073"]
 zipCodes: ["98052", "98073"]
 localPaths: ["King County / elevation 59 ft band", "King County / coords 47.6800, -122.1200", "King County / ZIP 98052 sector", "King County / ZIP 98073 sector", "King County / primary ZIP 98052"]
-zillowHomeValueUsd: 1364875
 ---
 
 **Engineering Notice for Redmond:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: King County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Tile underlayment age in Redmond, WA can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Redmond, WA, but intake notes help reduce delays.
+Synthetic underlayment slip in Redmond, WA is often tied to deck moisture, not wind alone.
 
-We coordinate local dispatch coverage around Redmond, WA and nearby ZIP sectors.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Wind exposure category reviewed for ZIP sector 98073/98052.
+Regulatory note: Redmond, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 98073, 98052 (county grid: King County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: soffit intake free area paired with pipe boot manufacturer match near ZIP 98052.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98052/98073.
+
+On-site sector marker: King County / elevation 59 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 47.6800, -122.1200 at elevation ~59 ft aligns with King County intake staging.
 
 Service reference: WA-98052-2f74118d

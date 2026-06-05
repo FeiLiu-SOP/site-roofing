@@ -11,27 +11,33 @@ lng: -121.5600
 zipSample: ["95961"]
 zipCodes: ["95961"]
 localPaths: ["Yuba County / coords 39.0800, -121.5600", "Yuba County / elevation 56 ft band", "Yuba County / primary ZIP 95961", "Yuba County / ZIP 95961 sector"]
-zillowHomeValueUsd: 448210
 ---
 
 **Engineering Notice for Olivehurst:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Yuba County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Olivehurst, CA attics should be checked against current mechanical exhaust additions.
 
-Tip: confirm licensing and insurance before approving work.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Local conditions in Olivehurst, CA can affect timelines and material choices.
+FAQ: How long can shingles wait after storm damage? In Olivehurst, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Coastal humidity in Olivehurst, CA can slow shingle seal-down after shoulder-season storms.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 95961.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 95961 intake.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Access points and staging constraints recorded for ZIP 95961 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 95961 (county grid: Yuba County).
+Material note: In Olivehurst, CA, algae-resistant granules may be specified for north-facing slopes.
+
+Field routing: attic baffle spacing paired with drip-edge metal profile near ZIP 95961.
+
+Field note: Shingle seal-down timing logged near ZIP 95961.
+
+Regional mesh label Yuba County: moisture and logistics baselines are keyed to Olivehurst, CA before niche-specific work begins.
+
+On-site sector marker: Yuba County / primary ZIP 95961 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95961-64ee5332

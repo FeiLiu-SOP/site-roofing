@@ -11,26 +11,35 @@ lng: -81.9300
 zipSample: ["44140"]
 zipCodes: ["44140"]
 localPaths: ["Cuyahoga County / coords 41.4900, -81.9300", "Cuyahoga County / ZIP 44140 sector", "Cuyahoga County / primary ZIP 44140", "Cuyahoga County / elevation 646 ft band"]
-zillowHomeValueUsd: 410437
 ---
 
 **Engineering Notice for Bay Village:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bay Village, OH, but intake notes help reduce delays.
+Parapet coping movement in Bay Village, OH can channel water behind wall cladding.
 
-Tip: request a written scope before work starts.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-In Bay Village, OH, seasonal demand can change scheduling windows.
+Wind-zone note: Bay Village, OH exposure class can change starter-strip and cap nail schedules.
 
-Homeowners in Bay Village, OH often face sudden roof work problems that require fast action.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 44140.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44140.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 44140 (county grid: Cuyahoga County).
+Freeze-thaw cycles around Bay Village, OH stress nail pops along eaves and rake edges.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: deck sheathing thickness plus counter-flashing reglet depth referenced in Cuyahoga County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 44140.
+
+On-site sector marker: Cuyahoga County / coords 41.4900, -81.9300 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cuyahoga County / primary ZIP 44140 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44140-82503f31

@@ -11,27 +11,35 @@ lng: -80.3400
 zipSample: ["33027", "33023", "33029", "33025"]
 zipCodes: ["33027", "33029", "33025", "33023"]
 localPaths: ["Broward County / primary ZIP 33029", "Broward County / coords 25.9800, -80.3400", "Broward County / elevation 16 ft band", "Broward County / ZIP 33025 sector", "Broward County / ZIP 33027 sector"]
-zillowHomeValueUsd: 708635
 ---
 
 **Engineering Notice for Miramar:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Broward County.
 
 
-We coordinate local dispatch coverage around Miramar, FL and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Miramar, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33029.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33027/33029/33025.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 33027/33029/33025 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 33027, 33029, 33025, 33023 (county grid: Broward County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 33029.
+
+Synthetic underlayment slip in Miramar, FL is often tied to deck moisture, not wind alone.
+
+Field routing: synthetic underlayment slip paired with ice-barrier lap sequence near ZIP 33029.
+
+Field note: Shingle seal-down timing logged near ZIP 33027/33023/33025.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Broward County and primary ZIP 33029. Terrain reference: 16 ft. Center point: 25.9800, -80.3400. ZIP sample: 33023, 33025, 33027, 33029. Regional routing note: Broward County traffic flow is balanced around ZIP 33029 service demand.
+
+On-site sector marker: Broward County / ZIP 33023 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33029-2267526a

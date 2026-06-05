@@ -11,26 +11,31 @@ lng: -97.4600
 zipSample: ["76108"]
 zipCodes: ["76108"]
 localPaths: ["Tarrant County / primary ZIP 76108", "Tarrant County / coords 32.7600, -97.4600", "Tarrant County / elevation 699 ft band", "Tarrant County / ZIP 76108 sector"]
-zillowHomeValueUsd: 285834
 ---
 
 **Engineering Notice for White Settlement:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Tarrant County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In White Settlement, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-We coordinate local dispatch coverage around White Settlement, TX and nearby ZIP sectors.
+Parapet coping movement in White Settlement, TX can channel water behind wall cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in White Settlement, TX, but intake notes help reduce delays.
+Code context: Ventilation ratios for White Settlement, TX attics should be checked against current mechanical exhaust additions.
 
-Homeowners in White Settlement, TX often face sudden roofing service problems that require fast action.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 76108 coverage.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 76108.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 76108 (county grid: Tarrant County).
+roofing service brief: deck sheathing thickness and wind uplift clip spacing were cross-checked for the White Settlement intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 76108.
+
+On-site sector marker: Tarrant County / elevation 699 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Tarrant County / primary ZIP 76108 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76108-fa19e8b1

@@ -11,26 +11,31 @@ lng: -116.2300
 zipSample: ["92241", "92203", "92201"]
 zipCodes: ["92203", "92201", "92241"]
 localPaths: ["Riverside County / ZIP 92201 sector", "Riverside County / coords 33.7300, -116.2300", "Riverside County / ZIP 92203 sector", "Riverside County / elevation 0 ft band", "Riverside County / primary ZIP 92241"]
-zillowHomeValueUsd: 408003
 ---
 
 **Engineering Notice for Indio:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Indio, CA, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92201/92241/92203.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 92201/92241/92203.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 92201, 92241, 92203 (county grid: Riverside County).
+Skylight curb flashing in Indio, CA should be sequenced before ridge cap replacement.
+
+Field routing: ridge cap nail schedule paired with chimney cricket slope near ZIP 92241.
+
+On-site sector marker: Riverside County / coords 33.7300, -116.2300 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Riverside County: moisture and logistics baselines are keyed to Indio, CA before niche-specific work begins.
 
 Service reference: CA-92241-e7766795

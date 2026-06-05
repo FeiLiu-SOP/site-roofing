@@ -11,26 +11,31 @@ lng: -95.2300
 zipSample: ["77587"]
 zipCodes: ["77587"]
 localPaths: ["Harris County / ZIP 77587 sector", "Harris County / elevation 43 ft band", "Harris County / coords 29.6600, -95.2300", "Harris County / primary ZIP 77587"]
-zillowHomeValueUsd: 192418
 ---
 
 **Engineering Notice for South Houston:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Harris County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Note recent wind events when filing insurance photos for South Houston, TX.
 
-Our service coordination centers on South Houston, TX coverage windows and verified intake details.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tile and shingle mixes in South Houston, TX require different fastener patterns at transitions.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: South Houston, TX exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in South Houston, TX, but intake notes help reduce delays.
+FAQ: Is partial dry-in possible? In South Houston, TX, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 77587 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77587.
+Material note: In South Houston, TX, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 77587 (county grid: Harris County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roof work brief: shingle exposure calibration and ridge cap nail schedule were cross-checked for the South Houston intake packet.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Harris County and primary ZIP 77587. Terrain reference: 43 ft. Center point: 29.6600, -95.2300. ZIP sample: 77587. Regional routing note: Harris County traffic flow is balanced around ZIP 77587 service demand.
+
+On-site sector marker: Harris County / coords 29.6600, -95.2300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77587-4cefcc74

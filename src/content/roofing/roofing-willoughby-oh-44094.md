@@ -11,26 +11,35 @@ lng: -81.4100
 zipSample: ["44096", "44094"]
 zipCodes: ["44094", "44096"]
 localPaths: ["Lake County / coords 41.6500, -81.4100", "Lake County / elevation 640 ft band", "Lake County / ZIP 44096 sector", "Lake County / ZIP 44094 sector", "Lake County / primary ZIP 44094"]
-zillowHomeValueUsd: 284650
 ---
 
 **Engineering Notice for Willoughby:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Tip: request a written scope before work starts.
+Tip: Note recent wind events when filing insurance photos for Willoughby, OH.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Willoughby, OH, but intake notes help reduce delays.
+Step: separate emergency tarp scope from permanent service line items.
 
-Our service coordination centers on Willoughby, OH coverage windows and verified intake details.
+Risk flag: In Willoughby, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tile and shingle mixes in Willoughby, OH require different fastener patterns at transitions.
 
-Field note: Wind exposure category reviewed for ZIP sector 44096/44094.
+Material note: In Willoughby, OH, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Moisture pathway inspection logged near ZIP 44096/44094 intake.
+Our Willoughby, OH dispatch packets reference county grid Lake County and elevation band 640 ft.
 
-Dispatch sectors sampled: ZIP 44096, 44094 (county grid: Lake County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Coastal humidity in Willoughby, OH can slow shingle seal-down after shoulder-season storms.
+
+Scope trace: attic baffle spacing plus wind uplift clip spacing referenced in Lake County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 44094/44096.
+
+On-site sector marker: Lake County / elevation 640 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lake County / coords 41.6500, -81.4100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44094-f1bc6e41

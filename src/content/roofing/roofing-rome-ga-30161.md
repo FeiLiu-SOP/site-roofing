@@ -11,27 +11,31 @@ lng: -85.1900
 zipSample: ["30162", "30164", "30165", "30161"]
 zipCodes: ["30162", "30164", "30165", "30161"]
 localPaths: ["Floyd County / primary ZIP 30161", "Floyd County / ZIP 30165 sector", "Floyd County / elevation 623 ft band", "Floyd County / coords 34.2700, -85.1900", "Floyd County / ZIP 30164 sector"]
-zillowHomeValueUsd: 217783
 ---
 
 **Engineering Notice for Rome:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Floyd County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Rome, GA, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Homeowners in Rome, GA often face sudden roofing service problems that require fast action.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Rome, GA, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Rome, GA attics should be checked against current mechanical exhaust additions.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 30161.
+Low-slope sections in Rome, GA need positive drainage before membrane repairs are scoped.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30165/30162/30161.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 30165/30162/30161.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 30165, 30162, 30161, 30164 (county grid: Floyd County).
+roofing service brief: valley metal gauge and soffit intake free area were cross-checked for the Rome intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 30161/30165/30164.
+
+On-site sector marker: Floyd County / primary ZIP 30161 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Rome, GA: sampled sectors include 30165, 30164, 30161, 30162; county routing grid remains Floyd County.
 
 Service reference: GA-30161-45b39805

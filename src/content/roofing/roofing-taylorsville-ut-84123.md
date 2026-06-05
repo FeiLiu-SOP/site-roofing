@@ -11,26 +11,31 @@ lng: -111.9500
 zipSample: ["84123", "84184", "84129"]
 zipCodes: ["84184", "84123", "84129"]
 localPaths: ["Salt Lake County / ZIP 84129 sector", "Salt Lake County / coords 40.6600, -111.9500", "Salt Lake County / primary ZIP 84123", "Salt Lake County / ZIP 84123 sector", "Salt Lake County / elevation 4360 ft band"]
-zillowHomeValueUsd: 537843
 ---
 
 **Engineering Notice for Taylorsville:** Structural loading calculated based on 4360 ft terrain assessment. Regional dispatch grid: Salt Lake County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Taylorsville, UT, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-In Taylorsville, UT, urgent roofing service issues can escalate quickly.
+Risk flag: Tile underlayment age in Taylorsville, UT can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Our service coordination centers on Taylorsville, UT coverage windows and verified intake details.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 84123/84184/84129 coverage.
+In Taylorsville, UT, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84123/84184/84129.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 84123, 84184, 84129 (county grid: Salt Lake County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: wind uplift clip spacing plus shingle exposure calibration referenced in Salt Lake County county grid review.
+
+On-site sector marker: Salt Lake County / ZIP 84184 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Salt Lake County / primary ZIP 84123 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84123-461c3b1a

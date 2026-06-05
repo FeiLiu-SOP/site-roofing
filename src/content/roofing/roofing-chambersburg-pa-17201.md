@@ -11,27 +11,29 @@ lng: -77.6600
 zipSample: ["17201"]
 zipCodes: ["17201"]
 localPaths: ["Franklin County / coords 39.9300, -77.6600", "Franklin County / ZIP 17201 sector", "Franklin County / elevation 633 ft band", "Franklin County / primary ZIP 17201"]
-zillowHomeValueUsd: 252490
 ---
 
 **Engineering Notice for Chambersburg:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Franklin County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Chambersburg, PA, but intake notes help reduce delays.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Chambersburg, PA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-A written scope helps prevent rework and mismatched expectations.
+Hail bruising on Chambersburg, PA ridges may not breach felt until the next wind event.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 17201.
+Wind-zone note: Chambersburg, PA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 17201.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Moisture pathway inspection logged near ZIP 17201 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 17201 (county grid: Franklin County).
+Scope trace: shingle exposure calibration plus counter-flashing reglet depth referenced in Franklin County county grid review.
+
+On-site sector marker: Franklin County / ZIP 17201 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Franklin County / coords 39.9300, -77.6600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-17201-53226298

@@ -11,24 +11,31 @@ lng: -77.5300
 zipSample: ["20148"]
 zipCodes: ["20148"]
 localPaths: ["Loudoun County / ZIP 20148 sector", "Loudoun County / elevation 341 ft band", "Loudoun County / primary ZIP 20148", "Loudoun County / coords 38.9800, -77.5300"]
-zillowHomeValueUsd: 886934
 ---
 
 **Engineering Notice for Brambleton:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Loudoun County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Brambleton, VA, but intake notes help reduce delays.
+Coastal humidity in Brambleton, VA can slow shingle seal-down after shoulder-season storms.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Local conditions in Brambleton, VA can affect timelines and material choices.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: In Brambleton, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: compare shingle manufacturer wind-zone ratings for Brambleton, VA exposure class.
 
-Field note: Connection points spot-checked where accessible (ZIP 20148 zone).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 20148 (county grid: Loudoun County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Field routing: skylight curb height paired with wind uplift clip spacing near ZIP 20148.
+
+Field note: Attic moisture pathway scan referenced ZIP 20148.
+
+On-site sector marker: Loudoun County / ZIP 20148 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Loudoun County / elevation 341 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20148-a857495b

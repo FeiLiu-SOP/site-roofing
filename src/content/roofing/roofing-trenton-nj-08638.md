@@ -11,24 +11,31 @@ lng: -74.7600
 zipSample: ["08695", "08607", "08603", "08666", "08618"]
 zipCodes: ["08695", "08646", "08647", "08604", "08629", "08645", "08607", "08611", "08618", "08638", "08666", "08608"]
 localPaths: ["Mercer County / ZIP 08695 sector", "Mercer County / primary ZIP 08638", "Mercer County / ZIP 08618 sector", "Mercer County / ZIP 08607 sector", "Mercer County / ZIP 08666 sector"]
-zillowHomeValueUsd: 305423
 ---
 
 **Engineering Notice for Trenton:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Mercer County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Trenton, NJ, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-We coordinate local dispatch coverage around Trenton, NJ and nearby ZIP sectors.
+Our Trenton, NJ dispatch packets reference county grid Mercer County and elevation band 66 ft.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 08603/08666/08647 zone).
+Skylight curb flashing in Trenton, NJ should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 08603, 08666, 08647, 08695, 08604 (county grid: Mercer County).
+FAQ: Is partial dry-in possible? In Trenton, NJ, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: counter-flashing reglet depth plus ice-barrier lap sequence referenced in Mercer County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 08666/08645/08608.
+
+On-site sector marker: Mercer County / ZIP 08625 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 08638 with multi-ZIP overlap in Trenton; field packets tag Mercer County for county-grid reconciliation.
 
 Service reference: NJ-08638-c15dc90a

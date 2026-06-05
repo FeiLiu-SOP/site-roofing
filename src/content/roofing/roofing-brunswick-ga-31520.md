@@ -11,24 +11,33 @@ lng: -81.4700
 zipSample: ["31520", "31521"]
 zipCodes: ["31520", "31521"]
 localPaths: ["Glynn County / ZIP 31521 sector", "Glynn County / primary ZIP 31520", "Glynn County / ZIP 31520 sector", "Glynn County / elevation 3 ft band", "Glynn County / coords 31.1400, -81.4700"]
-zillowHomeValueUsd: 148442
 ---
 
 **Engineering Notice for Brunswick:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Glynn County.
 
 
-Structured milestones protect both sides when scheduling work.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: request a written scope before work starts.
+FAQ: Is partial dry-in possible? In Brunswick, GA, yes—if slope and anchor points support safe tie-offs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: In Brunswick, GA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 31521/31520 intake.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 31521, 31520 (county grid: Glynn County).
+Regulatory note: Brunswick, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Metal panel oil-canning in Brunswick, GA may signal clip spacing issues, not wind damage alone.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: valley metal gauge paired with wind uplift clip spacing near ZIP 31520.
+
+On-site sector marker: Glynn County / elevation 3 ft band — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Glynn County: moisture and logistics baselines are keyed to Brunswick, GA before niche-specific work begins.
 
 Service reference: GA-31520-55ed0305

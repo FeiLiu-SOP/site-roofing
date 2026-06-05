@@ -11,28 +11,31 @@ lng: -90.0500
 zipSample: ["38637"]
 zipCodes: ["38637"]
 localPaths: ["DeSoto County / elevation 299 ft band", "DeSoto County / coords 34.9500, -90.0500", "DeSoto County / ZIP 38637 sector", "DeSoto County / primary ZIP 38637"]
-zillowHomeValueUsd: 202248
 ---
 
 **Engineering Notice for Horn Lake:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: DeSoto County.
 
 
-Our service coordination centers on Horn Lake, MS coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 38637.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: request a written scope before work starts.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 38637.
+Risk flag: Tile underlayment age in Horn Lake, MS can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Horn Lake, MS, but intake notes help reduce delays.
+TPO seam welds in Horn Lake, MS commercial sections need probe tests after freeze events.
 
-Field note: Moisture pathway inspection logged near ZIP 38637 intake.
+Wind-zone note: Horn Lake, MS exposure class can change starter-strip and cap nail schedules.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 38637.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 38637 (county grid: DeSoto County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Field routing: wind uplift clip spacing paired with synthetic underlayment slip near ZIP 38637.
+
+Primary postal anchor 38637 with multi-ZIP overlap in Horn Lake; field packets tag DeSoto County for county-grid reconciliation.
+
+On-site sector marker: DeSoto County / ZIP 38637 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-38637-b7edec24

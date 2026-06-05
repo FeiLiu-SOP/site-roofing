@@ -11,26 +11,31 @@ lng: -82.2300
 zipSample: ["29681"]
 zipCodes: ["29681"]
 localPaths: ["Greenville County / coords 34.8100, -82.2300", "Greenville County / ZIP 29681 sector", "Greenville County / primary ZIP 29681", "Greenville County / elevation 876 ft band"]
-zillowHomeValueUsd: 402402
 ---
 
 **Engineering Notice for Five Forks:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Greenville County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can you tarp only part of the roof? In Five Forks, SC, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-We coordinate local dispatch coverage around Five Forks, SC and nearby ZIP sectors.
+Step: map ventilation intake and exhaust pairs for Five Forks, SC attic runs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Coastal humidity in Five Forks, SC can slow shingle seal-down after shoulder-season storms.
 
-Field note: Connection points spot-checked where accessible (ZIP 29681 zone).
+Regulatory note: Five Forks, SC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 29681 intake.
+Risk flag: Tile underlayment age in Five Forks, SC can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 29681 (county grid: Greenville County).
+roof service brief: starter-strip setback and wind uplift clip spacing were cross-checked for the Five Forks intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 29681.
+
+ZIP-corridor snapshot for Five Forks, SC: sampled sectors include 29681; county routing grid remains Greenville County.
+
+On-site sector marker: Greenville County / ZIP 29681 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29681-a3dc61a2

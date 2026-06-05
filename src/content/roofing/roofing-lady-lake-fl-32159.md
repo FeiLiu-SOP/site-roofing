@@ -11,25 +11,31 @@ lng: -81.9300
 zipSample: ["32159", "32158"]
 zipCodes: ["32158", "32159"]
 localPaths: ["Lake County / ZIP 32158 sector", "Lake County / ZIP 32159 sector", "Lake County / coords 28.9200, -81.9300", "Lake County / elevation 105 ft band", "Lake County / primary ZIP 32159"]
-zillowHomeValueUsd: 318733
 ---
 
 **Engineering Notice for Lady Lake:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lady Lake, FL, but intake notes help reduce delays.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: map ventilation intake and exhaust pairs for Lady Lake, FL attic runs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is partial dry-in possible? In Lady Lake, FL, yes—if slope and anchor points support safe tie-offs.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 32159.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Wind exposure category reviewed for ZIP sector 32158/32159.
+Code context: Ventilation ratios for Lady Lake, FL attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 32158, 32159 (county grid: Lake County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Across Lady Lake, FL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Scope trace: shingle exposure calibration plus starter-strip setback referenced in Lake County county grid review.
+
+Regional mesh label Lake County: moisture and logistics baselines are keyed to Lady Lake, FL before niche-specific work begins.
+
+ZIP-corridor snapshot for Lady Lake, FL: sampled sectors include 32159, 32158; county routing grid remains Lake County.
 
 Service reference: FL-32159-2ea0bea9

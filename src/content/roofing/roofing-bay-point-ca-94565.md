@@ -11,26 +11,33 @@ lng: -121.9600
 zipSample: ["94565"]
 zipCodes: ["94565"]
 localPaths: ["Contra Costa County / ZIP 94565 sector", "Contra Costa County / elevation 52 ft band", "Contra Costa County / coords 38.0300, -121.9600", "Contra Costa County / primary ZIP 94565"]
-zillowHomeValueUsd: 569597
 ---
 
 **Engineering Notice for Bay Point:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Bay Point, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 94565.
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for Bay Point, CA attics should be checked against current mechanical exhaust additions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bay Point, CA, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-Homeowners in Bay Point, CA often face sudden roof service problems that require fast action.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 94565 coverage.
+Material note: In Bay Point, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Wind exposure category reviewed for ZIP sector 94565.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 94565 (county grid: Contra Costa County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Scope trace: shingle exposure calibration plus valley metal gauge referenced in Contra Costa County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 94565.
+
+Regional mesh label Contra Costa County: moisture and logistics baselines are keyed to Bay Point, CA before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 38.0300, -121.9600 at elevation ~52 ft aligns with Contra Costa County intake staging.
 
 Service reference: CA-94565-578f1155

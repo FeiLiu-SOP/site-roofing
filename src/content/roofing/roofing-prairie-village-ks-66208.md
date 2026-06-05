@@ -11,26 +11,29 @@ lng: -94.6400
 zipSample: ["66207", "66208"]
 zipCodes: ["66208", "66207"]
 localPaths: ["Johnson County / ZIP 66207 sector", "Johnson County / primary ZIP 66208", "Johnson County / coords 38.9900, -94.6400", "Johnson County / ZIP 66208 sector", "Johnson County / elevation 1060 ft band"]
-zillowHomeValueUsd: 492471
 ---
 
 **Engineering Notice for Prairie Village:** Structural loading calculated based on 1060 ft terrain assessment. Regional dispatch grid: Johnson County.
 
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Regulatory note: Prairie Village, KS projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-In Prairie Village, KS, urgent roof service issues can escalate quickly.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Connection points spot-checked where accessible (ZIP 66207/66208 zone).
+In Prairie Village, KS, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Access points and staging constraints recorded for ZIP 66207/66208 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 66207, 66208 (county grid: Johnson County).
+Field routing: skylight curb height paired with drip-edge metal profile near ZIP 66208.
+
+On-site sector marker: Johnson County / elevation 1060 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Johnson County / coords 38.9900, -94.6400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-66208-e5ebe802

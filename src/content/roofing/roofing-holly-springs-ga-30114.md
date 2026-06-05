@@ -11,26 +11,33 @@ lng: -84.4800
 zipSample: ["30142", "30115", "30114"]
 zipCodes: ["30114", "30142", "30115"]
 localPaths: ["Cherokee County / coords 34.1700, -84.4800", "Cherokee County / ZIP 30115 sector", "Cherokee County / ZIP 30114 sector", "Cherokee County / ZIP 30142 sector", "Cherokee County / elevation 1070 ft band"]
-zillowHomeValueUsd: 470366
 ---
 
 **Engineering Notice for Holly Springs:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: Cherokee County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Holly Springs, GA, but intake notes help reduce delays.
+FAQ: When should permanent remediation start? In Holly Springs, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Regulatory note: Holly Springs, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our service coordination centers on Holly Springs, GA coverage windows and verified intake details.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 30114.
 
-Field note: Connection points spot-checked where accessible (ZIP 30142/30115/30114 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 30142/30115/30114 intake.
+Material note: In Holly Springs, GA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 30142, 30115, 30114 (county grid: Cherokee County).
+Valley metal in Holly Springs, GA should be reviewed whenever granule loss tracks the water line.
+
+roof service brief: synthetic underlayment slip and valley metal gauge were cross-checked for the Holly Springs intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 30114/30142/30115.
+
+On-site sector marker: Cherokee County / primary ZIP 30114 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cherokee County / ZIP 30114 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30114-2535e09e

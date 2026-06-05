@@ -11,26 +11,29 @@ lng: -81.7700
 zipSample: ["32065", "32068", "32073", "32030"]
 zipCodes: ["32068", "32073", "32030", "32065"]
 localPaths: ["Clay County / ZIP 32068 sector", "Clay County / ZIP 32065 sector", "Clay County / coords 30.1400, -81.7700", "Clay County / primary ZIP 32068", "Clay County / ZIP 32030 sector"]
-zillowHomeValueUsd: 325205
 ---
 
 **Engineering Notice for Lakeside:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Clay County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wind-zone note: Lakeside, FL exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lakeside, FL, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 32065/32073/32030.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Access points and staging constraints recorded for ZIP 32065/32073/32030 coverage.
+Granule embedment loss on Lakeside, FL north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 32065, 32073, 32030, 32068 (county grid: Clay County).
+Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Clay County county grid review.
+
+On-site sector marker: Clay County / ZIP 32073 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Clay County / ZIP 32065 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32068-d6e69c1e

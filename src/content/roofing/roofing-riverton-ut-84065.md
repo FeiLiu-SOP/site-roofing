@@ -11,24 +11,31 @@ lng: -111.9600
 zipSample: ["84065", "84096"]
 zipCodes: ["84065", "84096"]
 localPaths: ["Salt Lake County / coords 40.5200, -111.9600", "Salt Lake County / elevation 4547 ft band", "Salt Lake County / ZIP 84096 sector", "Salt Lake County / primary ZIP 84065", "Salt Lake County / ZIP 84065 sector"]
-zillowHomeValueUsd: 643113
 ---
 
 **Engineering Notice for Riverton:** Structural loading calculated based on 4547 ft terrain assessment. Regional dispatch grid: Salt Lake County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Tile underlayment age in Riverton, UT can fail independently of visible tile cracks.
 
-In Riverton, UT, urgent roofing service issues can escalate quickly.
+Wind-zone note: Riverton, UT exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around Riverton, UT and nearby ZIP sectors.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Riverton, UT, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: In Riverton, UT, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Access points and staging constraints recorded for ZIP 84096/84065 coverage.
+FAQ: Can you tarp only part of the roof? In Riverton, UT, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 84096, 84065 (county grid: Salt Lake County).
+Low-slope sections in Riverton, UT need positive drainage before membrane repairs are scoped.
+
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Scope trace: soffit intake free area plus deck sheathing thickness referenced in Salt Lake County county grid review.
+
+Primary postal anchor 84065 with multi-ZIP overlap in Riverton; field packets tag Salt Lake County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Grid anchor set to Salt Lake County. Reference elevation: 4547 ft. Primary coordinates: 40.5200, -111.9600. ZIP sample: 84065, 84096. Logistics priority: Serving residential sectors across Salt Lake County and north-east ZIP 84065 grid.
 
 Service reference: UT-84065-9a4f33ab

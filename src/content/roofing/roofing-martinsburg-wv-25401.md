@@ -11,24 +11,29 @@ lng: -77.9800
 zipSample: ["25403", "25401", "25402", "25404"]
 zipCodes: ["25403", "25402", "25404", "25401"]
 localPaths: ["Berkeley County / ZIP 25402 sector", "Berkeley County / primary ZIP 25401", "Berkeley County / elevation 495 ft band", "Berkeley County / ZIP 25403 sector", "Berkeley County / ZIP 25404 sector"]
-zillowHomeValueUsd: 252580
 ---
 
 **Engineering Notice for Martinsburg:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Berkeley County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is partial dry-in possible? In Martinsburg, WV, yes—if slope and anchor points support safe tie-offs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Martinsburg, WV, but intake notes help reduce delays.
+Hail bruising on Martinsburg, WV ridges may not breach felt until the next wind event.
 
-Tip: avoid large upfront payments without milestones.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 25401/25404/25403 zone).
+Regulatory note: Martinsburg, WV projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 25401, 25404, 25403, 25402 (county grid: Berkeley County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Scope trace: valley metal gauge plus attic baffle spacing referenced in Berkeley County county grid review.
+
+Regional mesh label Berkeley County: moisture and logistics baselines are keyed to Martinsburg, WV before niche-specific work begins.
+
+On-site sector marker: Berkeley County / ZIP 25402 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-25401-adda0c2c

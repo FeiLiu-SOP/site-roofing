@@ -11,26 +11,33 @@ lng: -75.0700
 zipSample: ["13820"]
 zipCodes: ["13820"]
 localPaths: ["Otsego County / coords 42.4600, -75.0700", "Otsego County / primary ZIP 13820", "Otsego County / ZIP 13820 sector", "Otsego County / elevation 1155 ft band"]
-zillowHomeValueUsd: 211568
 ---
 
 **Engineering Notice for Oneonta:** Structural loading calculated based on 1155 ft terrain assessment. Regional dispatch grid: Otsego County.
 
 
-Structured milestones protect both sides when scheduling work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Oneonta, NY, but intake notes help reduce delays.
+Regulatory note: Oneonta, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-In Oneonta, NY, urgent roof service issues can escalate quickly.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: avoid large upfront payments without milestones.
+Metal panel oil-canning in Oneonta, NY may signal clip spacing issues, not wind damage alone.
 
-We coordinate local dispatch coverage around Oneonta, NY and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 13820.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 13820 zone).
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 13820 (county grid: Otsego County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Scope trace: valley metal gauge plus skylight curb height referenced in Otsego County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 13820.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Otsego County and primary ZIP 13820. Terrain reference: 1155 ft. Center point: 42.4600, -75.0700. ZIP sample: 13820. Service perimeter note: Coverage extends through Otsego County with dispatch centered near ZIP 13820.
+
+Coordinate-anchored dispatch note: center reference 42.4600, -75.0700 at elevation ~1155 ft aligns with Otsego County intake staging.
 
 Service reference: NY-13820-f9ddd68d

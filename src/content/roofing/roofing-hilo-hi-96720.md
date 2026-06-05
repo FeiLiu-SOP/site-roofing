@@ -11,25 +11,33 @@ lng: -155.0900
 zipSample: ["96720"]
 zipCodes: ["96720"]
 localPaths: ["Hawaii County / primary ZIP 96720", "Hawaii County / elevation 374 ft band", "Hawaii County / ZIP 96720 sector", "Hawaii County / coords 19.6900, -155.0900"]
-zillowHomeValueUsd: 542553
 ---
 
 **Engineering Notice for Hilo:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Hawaii County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Hilo, HI, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: avoid large upfront payments without milestones.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Low-slope sections in Hilo, HI need positive drainage before membrane repairs are scoped.
 
-Homeowners in Hilo, HI often face sudden roof service problems that require fast action.
+Wind-zone note: Hilo, HI exposure class can change starter-strip and cap nail schedules.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 96720.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Connection points spot-checked where accessible (ZIP 96720 zone).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 96720 (county grid: Hawaii County).
+FAQ: Is partial dry-in possible? In Hilo, HI, yes—if slope and anchor points support safe tie-offs.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: pipe boot manufacturer match plus wind uplift clip spacing referenced in Hawaii County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 96720.
+
+On-site sector marker: Hawaii County / ZIP 96720 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Hawaii County: moisture and logistics baselines are keyed to Hilo, HI before niche-specific work begins.
 
 Service reference: HI-96720-15cb5231

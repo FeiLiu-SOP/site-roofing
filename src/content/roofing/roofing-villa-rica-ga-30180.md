@@ -11,27 +11,31 @@ lng: -84.9200
 zipSample: ["30180"]
 zipCodes: ["30180"]
 localPaths: ["Carroll County / primary ZIP 30180", "Carroll County / ZIP 30180 sector", "Carroll County / coords 33.7300, -84.9200", "Carroll County / elevation 1155 ft band"]
-zillowHomeValueUsd: 311897
 ---
 
 **Engineering Notice for Villa Rica:** Structural loading calculated based on 1155 ft terrain assessment. Regional dispatch grid: Carroll County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How long can shingles wait after storm damage? In Villa Rica, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Villa Rica, GA, but intake notes help reduce delays.
+Synthetic underlayment slip in Villa Rica, GA is often tied to deck moisture, not wind alone.
 
-We coordinate local dispatch coverage around Villa Rica, GA and nearby ZIP sectors.
+Code context: Ventilation ratios for Villa Rica, GA attics should be checked against current mechanical exhaust additions.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 30180.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 30180.
 
-Field note: Connection points spot-checked where accessible (ZIP 30180 zone).
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Access points and staging constraints recorded for ZIP 30180 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 30180 (county grid: Carroll County).
+roofing service brief: valley metal gauge and soffit intake free area were cross-checked for the Villa Rica intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 30180.
+
+ZIP-corridor snapshot for Villa Rica, GA: sampled sectors include 30180; county routing grid remains Carroll County.
+
+On-site sector marker: Carroll County / primary ZIP 30180 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30180-364257d1

@@ -11,26 +11,33 @@ lng: -81.7300
 zipSample: ["34715", "34755"]
 zipCodes: ["34755", "34715"]
 localPaths: ["Lake County / ZIP 34715 sector", "Lake County / primary ZIP 34715", "Lake County / elevation 144 ft band", "Lake County / coords 28.6100, -81.7300", "Lake County / ZIP 34755 sector"]
-zillowHomeValueUsd: 461775
 ---
 
 **Engineering Notice for Minneola:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-We coordinate local dispatch coverage around Minneola, FL and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Note recent wind events when filing insurance photos for Minneola, FL.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Minneola, FL, but intake notes help reduce delays.
+Parapet coping movement in Minneola, FL can channel water behind wall cladding.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34755/34715.
+Metal panel oil-canning in Minneola, FL may signal clip spacing issues, not wind damage alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 34755/34715.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 34755, 34715 (county grid: Lake County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Material note: In Minneola, FL, algae-resistant granules may be specified for north-facing slopes.
+
+Field routing: chimney cricket slope paired with counter-flashing reglet depth near ZIP 34715.
+
+Regional mesh label Lake County: moisture and logistics baselines are keyed to Minneola, FL before niche-specific work begins.
+
+On-site sector marker: Lake County / elevation 144 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34715-ff71a63f

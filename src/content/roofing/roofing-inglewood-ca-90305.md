@@ -11,27 +11,29 @@ lng: -118.3400
 zipSample: ["90301", "90311", "90307", "90304", "90306"]
 zipCodes: ["90309", "90304", "90301", "90303", "90308", "90307", "90312", "90311", "90306", "90302", "90305"]
 localPaths: ["Los Angeles County / ZIP 90311 sector", "Los Angeles County / ZIP 90307 sector", "Los Angeles County / ZIP 90306 sector", "Los Angeles County / elevation 144 ft band", "Los Angeles County / primary ZIP 90305"]
-zillowHomeValueUsd: 829112
 ---
 
 **Engineering Notice for Inglewood:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: request a written scope before work starts.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Freeze-thaw cycles around Inglewood, CA stress nail pops along eaves and rake edges.
 
-In Inglewood, CA, urgent roof service issues can escalate quickly.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 90305.
+Regulatory note: Inglewood, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 90312/90307/90302 zone).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 90312/90307/90302 intake.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 90312, 90307, 90302, 90308, 90303 (county grid: Los Angeles County).
+Scope trace: deck sheathing thickness plus drip-edge metal profile referenced in Los Angeles County county grid review.
+
+Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to Inglewood, CA before niche-specific work begins.
+
+On-site sector marker: Los Angeles County / elevation 144 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90305-123bbebf

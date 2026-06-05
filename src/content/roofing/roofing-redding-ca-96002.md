@@ -11,26 +11,31 @@ lng: -122.3600
 zipSample: ["96002", "96003", "96001"]
 zipCodes: ["96003", "96002", "96001"]
 localPaths: ["Shasta County / ZIP 96003 sector", "Shasta County / ZIP 96001 sector", "Shasta County / primary ZIP 96002", "Shasta County / ZIP 96002 sector", "Shasta County / elevation 541 ft band"]
-zillowHomeValueUsd: 376009
 ---
 
 **Engineering Notice for Redding:** Structural loading calculated based on 541 ft terrain assessment. Regional dispatch grid: Shasta County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Redding, CA, but intake notes help reduce delays.
+Attic ventilation deficits in Redding, CA can mimic roof leaks at ceiling penetrations.
 
-We coordinate local dispatch coverage around Redding, CA and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Redding, CA can fail independently of visible tile cracks.
 
-Local conditions in Redding, CA can affect timelines and material choices.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96003/96001/96002.
+Regulatory note: Redding, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 96003/96001/96002 zone).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 96003, 96001, 96002 (county grid: Shasta County).
+roof service brief: drip-edge metal profile and valley metal gauge were cross-checked for the Redding intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 96003/96001/96002.
+
+On-site sector marker: Shasta County / coords 40.5700, -122.3600 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 96002 with multi-ZIP overlap in Redding; field packets tag Shasta County for county-grid reconciliation.
 
 Service reference: CA-96002-4820229f

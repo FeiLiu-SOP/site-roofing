@@ -11,26 +11,35 @@ lng: -80.2700
 zipSample: ["27292", "27295", "27294"]
 zipCodes: ["27292", "27295", "27294"]
 localPaths: ["Davidson County / elevation 735 ft band", "Davidson County / ZIP 27294 sector", "Davidson County / coords 35.8000, -80.2700", "Davidson County / primary ZIP 27292", "Davidson County / ZIP 27295 sector"]
-zillowHomeValueUsd: 251151
 ---
 
 **Engineering Notice for Lexington:** Structural loading calculated based on 735 ft terrain assessment. Regional dispatch grid: Davidson County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Lexington, NC attics should be checked against current mechanical exhaust additions.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: map ventilation intake and exhaust pairs for Lexington, NC attic runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 27294/27292/27295.
+Parapet coping movement in Lexington, NC can channel water behind wall cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 27294/27292/27295 intake.
+We coordinate Lexington, NC roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 27294, 27292, 27295 (county grid: Davidson County).
+FAQ: Can you tarp only part of the roof? In Lexington, NC, yes—if slope and anchor points support safe tie-offs.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+roof work brief: skylight curb height and valley metal gauge were cross-checked for the Lexington intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 27294/27292/27295.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Davidson County and primary ZIP 27292. Terrain reference: 735 ft. Center point: 35.8000, -80.2700. ZIP sample: 27295, 27292, 27294. Regional routing note: Davidson County traffic flow is balanced around ZIP 27292 service demand.
+
+Coordinate-anchored dispatch note: center reference 35.8000, -80.2700 at elevation ~735 ft aligns with Davidson County intake staging.
 
 Service reference: NC-27292-7f71082f

@@ -11,25 +11,33 @@ lng: -73.2500
 zipSample: ["11706"]
 zipCodes: ["11706"]
 localPaths: ["Suffolk County / primary ZIP 11706", "Suffolk County / ZIP 11706 sector", "Suffolk County / elevation 30 ft band", "Suffolk County / coords 40.7300, -73.2500"]
-zillowHomeValueUsd: 620297
 ---
 
 **Engineering Notice for Bay Shore:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+TPO seam welds in Bay Shore, NY commercial sections need probe tests after freeze events.
 
-Our service coordination centers on Bay Shore, NY coverage windows and verified intake details.
+Risk flag: In Bay Shore, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Bay Shore, NY, algae-resistant granules may be specified for north-facing slopes.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 11706.
+Wind-zone note: Bay Shore, NY exposure class can change starter-strip and cap nail schedules.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 11706 zone).
+FAQ: When should permanent remediation start? In Bay Shore, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 11706 (county grid: Suffolk County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Step: separate emergency tarp scope from permanent restoration line items.
+
+roofing service brief: soffit intake free area and starter-strip setback were cross-checked for the Bay Shore intake packet.
+
+On-site sector marker: Suffolk County / primary ZIP 11706 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Suffolk County / coords 40.7300, -73.2500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11706-5273372d

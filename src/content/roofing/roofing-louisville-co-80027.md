@@ -11,25 +11,31 @@ lng: -105.1400
 zipSample: ["80027"]
 zipCodes: ["80027"]
 localPaths: ["Boulder County / ZIP 80027 sector", "Boulder County / elevation 5407 ft band", "Boulder County / primary ZIP 80027", "Boulder County / coords 39.9700, -105.1400"]
-zillowHomeValueUsd: 837464
 ---
 
 **Engineering Notice for Louisville:** Structural loading calculated based on 5407 ft terrain assessment. Regional dispatch grid: Boulder County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Granule embedment loss on Louisville, CO north slopes can precede mat exposure.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around Louisville, CO and nearby ZIP sectors.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 80027.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Wind-zone note: Louisville, CO exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 80027 zone).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 80027 (county grid: Boulder County).
+We coordinate Louisville, CO roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Scope trace: valley metal gauge plus chimney cricket slope referenced in Boulder County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 80027.
+
+On-site sector marker: Boulder County / elevation 5407 ft band — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Boulder County: moisture and logistics baselines are keyed to Louisville, CO before niche-specific work begins.
 
 Service reference: CO-80027-ad92d16f

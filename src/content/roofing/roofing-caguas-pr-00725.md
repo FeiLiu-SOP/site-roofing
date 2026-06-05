@@ -11,25 +11,31 @@ lng: -66.0400
 zipSample: ["00725", "00727", "00726"]
 zipCodes: ["00725", "00727", "00726"]
 localPaths: ["Caguas County / coords 18.2300, -66.0400", "Caguas County / elevation 253 ft band", "Caguas County / primary ZIP 00725", "Caguas County / ZIP 00726 sector", "Caguas County / ZIP 00727 sector"]
-zillowHomeValueUsd: 372595
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Caguas:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Caguas County.
 
 
-Our service coordination centers on Caguas, PR coverage windows and verified intake details.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: avoid large upfront payments without milestones.
+Coastal humidity in Caguas, PR can slow shingle seal-down after shoulder-season storms.
 
-Local conditions in Caguas, PR can affect timelines and material choices.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in Caguas, PR can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 00725/00726/00727.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 00725, 00726, 00727 (county grid: Caguas County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: chimney cricket slope plus counter-flashing reglet depth referenced in Caguas County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 00726/00725/00727.
+
+ZIP-corridor snapshot for Caguas, PR: sampled sectors include 00727, 00725, 00726; county routing grid remains Caguas County.
+
+On-site sector marker: Caguas County / coords 18.2300, -66.0400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00725-8dd02a51

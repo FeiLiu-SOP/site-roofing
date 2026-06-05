@@ -11,25 +11,33 @@ lng: -77.2100
 zipSample: ["20879", "20878", "20884", "20877", "20885"]
 zipCodes: ["20877", "20878", "20884", "20899", "20898", "20885", "20879"]
 localPaths: ["Montgomery County / ZIP 20878 sector", "Montgomery County / coords 39.1300, -77.2100", "Montgomery County / ZIP 20885 sector", "Montgomery County / ZIP 20877 sector", "Montgomery County / primary ZIP 20878"]
-zillowHomeValueUsd: 703119
 ---
 
 **Engineering Notice for Gaithersburg:** Structural loading calculated based on 466 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 20878.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Regulatory note: Gaithersburg, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-In Gaithersburg, MD, urgent roof work issues can escalate quickly.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Low-slope sections in Gaithersburg, MD need positive drainage before membrane repairs are scoped.
 
-Field note: Moisture pathway inspection logged near ZIP 20899/20885/20877 intake.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 20899, 20885, 20877, 20878, 20879 (county grid: Montgomery County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Field routing: wind uplift clip spacing paired with shingle exposure calibration near ZIP 20878.
+
+Field note: Valley debris and granule loss noted for ZIP 20884/20879/20885.
+
+On-site sector marker: Montgomery County / ZIP 20885 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 39.1300, -77.2100 at elevation ~466 ft aligns with Montgomery County intake staging.
 
 Service reference: MD-20878-e25e9bf1

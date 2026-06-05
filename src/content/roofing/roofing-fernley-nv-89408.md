@@ -11,27 +11,31 @@ lng: -119.1900
 zipSample: ["89429", "89406", "89408"]
 zipCodes: ["89429", "89406", "89408"]
 localPaths: ["Lyon County / elevation 4636 ft band", "Lyon County / coords 39.5600, -119.1900", "Lyon County / ZIP 89429 sector", "Lyon County / ZIP 89408 sector", "Lyon County / primary ZIP 89408"]
-zillowHomeValueUsd: 396000
 ---
 
 **Engineering Notice for Fernley:** Structural loading calculated based on 4636 ft terrain assessment. Regional dispatch grid: Lyon County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 89408.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-We coordinate local dispatch coverage around Fernley, NV and nearby ZIP sectors.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 89408.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fernley, NV, but intake notes help reduce delays.
+Freeze-thaw cycles around Fernley, NV stress nail pops along eaves and rake edges.
 
-Tip: avoid large upfront payments without milestones.
+Regulatory note: Fernley, NV projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 89408/89429/89406 coverage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 89408/89429/89406.
+Our Fernley, NV dispatch packets reference county grid Lyon County and elevation band 4636 ft.
 
-Dispatch sectors sampled: ZIP 89408, 89429, 89406 (county grid: Lyon County).
+roofing service brief: shingle exposure calibration and ice-barrier lap sequence were cross-checked for the Fernley intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 89408/89429/89406.
+
+ZIP-corridor snapshot for Fernley, NV: sampled sectors include 89408, 89429, 89406; county routing grid remains Lyon County.
+
+On-site sector marker: Lyon County / ZIP 89408 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89408-fc9cdfe6

@@ -11,24 +11,31 @@ lng: -97.7000
 zipSample: ["78550", "78551", "78552", "78553"]
 zipCodes: ["78553", "78552", "78551", "78550"]
 localPaths: ["Cameron County / primary ZIP 78550", "Cameron County / coords 26.1900, -97.7000", "Cameron County / ZIP 78552 sector", "Cameron County / ZIP 78551 sector", "Cameron County / ZIP 78550 sector"]
-zillowHomeValueUsd: 176077
 ---
 
 **Engineering Notice for Harlingen:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Cameron County.
 
 
-We coordinate local dispatch coverage around Harlingen, TX and nearby ZIP sectors.
+Risk flag: In Harlingen, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Local conditions in Harlingen, TX can affect timelines and material choices.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+TPO seam welds in Harlingen, TX commercial sections need probe tests after freeze events.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Harlingen, TX, but intake notes help reduce delays.
+We coordinate Harlingen, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: compare shingle manufacturer wind-zone ratings for Harlingen, TX exposure class.
 
-Field note: Wind exposure category reviewed for ZIP sector 78553/78551/78552.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 78553, 78551, 78552, 78550 (county grid: Cameron County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+roof work brief: pipe boot manufacturer match and valley metal gauge were cross-checked for the Harlingen intake packet.
+
+Primary postal anchor 78550 with multi-ZIP overlap in Harlingen; field packets tag Cameron County for county-grid reconciliation.
+
+Regional mesh label Cameron County: moisture and logistics baselines are keyed to Harlingen, TX before niche-specific work begins.
 
 Service reference: TX-78550-8b2e6815

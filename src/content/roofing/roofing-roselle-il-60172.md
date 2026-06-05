@@ -11,24 +11,29 @@ lng: -88.0900
 zipSample: ["60172"]
 zipCodes: ["60172"]
 localPaths: ["DuPage County / coords 41.9800, -88.0900", "DuPage County / primary ZIP 60172", "DuPage County / ZIP 60172 sector", "DuPage County / elevation 794 ft band"]
-zillowHomeValueUsd: 374399
 ---
 
 **Engineering Notice for Roselle:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: DuPage County.
 
 
-We coordinate local dispatch coverage around Roselle, IL and nearby ZIP sectors.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Roselle, IL.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Parapet coping movement in Roselle, IL can channel water behind wall cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Roselle, IL, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 60172 zone).
+We coordinate Roselle, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 60172 (county grid: DuPage County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: counter-flashing reglet depth plus attic baffle spacing referenced in DuPage County county grid review.
+
+ZIP-corridor snapshot for Roselle, IL: sampled sectors include 60172; county routing grid remains DuPage County.
+
+Primary postal anchor 60172 with multi-ZIP overlap in Roselle; field packets tag DuPage County for county-grid reconciliation.
 
 Service reference: IL-60172-01738592

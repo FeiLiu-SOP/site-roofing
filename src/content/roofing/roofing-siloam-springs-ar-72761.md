@@ -11,26 +11,33 @@ lng: -94.5300
 zipSample: ["72761"]
 zipCodes: ["72761"]
 localPaths: ["Benton County / coords 36.1800, -94.5300", "Benton County / primary ZIP 72761", "Benton County / ZIP 72761 sector", "Benton County / elevation 1152 ft band"]
-zillowHomeValueUsd: 282544
 ---
 
 **Engineering Notice for Siloam Springs:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Benton County.
 
 
-Tip: request a written scope before work starts.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Siloam Springs, AR exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+Across Siloam Springs, AR, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 72761.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 72761 coverage.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 72761 (county grid: Benton County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Scope trace: soffit intake free area plus valley metal gauge referenced in Benton County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 72761.
+
+On-site sector marker: Benton County / ZIP 72761 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Benton County / primary ZIP 72761 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72761-a13d14e7

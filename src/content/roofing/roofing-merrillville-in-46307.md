@@ -11,25 +11,33 @@ lng: -87.3200
 zipSample: ["46401", "46410", "46307", "46411"]
 zipCodes: ["46401", "46410", "46307", "46411"]
 localPaths: ["Lake County / ZIP 46307 sector", "Lake County / ZIP 46410 sector", "Lake County / coords 41.4700, -87.3200", "Lake County / ZIP 46411 sector", "Lake County / elevation 679 ft band"]
-zillowHomeValueUsd: 353872
 ---
 
 **Engineering Notice for Merrillville:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Code context: Ventilation ratios for Merrillville, IN attics should be checked against current mechanical exhaust additions.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Coastal humidity in Merrillville, IN can slow shingle seal-down after shoulder-season storms.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Merrillville, IN, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 46307.
+Risk flag: Tile underlayment age in Merrillville, IN can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 46410/46307/46411 coverage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 46410, 46307, 46411, 46401 (county grid: Lake County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+roof service brief: ice-barrier lap sequence and shingle exposure calibration were cross-checked for the Merrillville intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 46411/46410/46307.
+
+Regional mesh label Lake County: moisture and logistics baselines are keyed to Merrillville, IN before niche-specific work begins.
+
+On-site sector marker: Lake County / primary ZIP 46307 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46307-4ab99e2e

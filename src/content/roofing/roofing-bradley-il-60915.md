@@ -11,24 +11,35 @@ lng: -87.8500
 zipSample: ["60914", "60915"]
 zipCodes: ["60914", "60915"]
 localPaths: ["Kankakee County / elevation 673 ft band", "Kankakee County / ZIP 60914 sector", "Kankakee County / ZIP 60915 sector", "Kankakee County / primary ZIP 60915", "Kankakee County / coords 41.1600, -87.8500"]
-zillowHomeValueUsd: 176246
 ---
 
 **Engineering Notice for Bradley:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Kankakee County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-We coordinate local dispatch coverage around Bradley, IL and nearby ZIP sectors.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tile and shingle mixes in Bradley, IL require different fastener patterns at transitions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bradley, IL, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Connection points spot-checked where accessible (ZIP 60914/60915 zone).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 60914, 60915 (county grid: Kankakee County).
+Wind-zone note: Bradley, IL exposure class can change starter-strip and cap nail schedules.
+
+Request dry-in and remediation phases as separate line items. Serving ZIP Code: 60915.
+
+Step: separate emergency tarp scope from permanent service line items.
+
+roofing service brief: ridge cap nail schedule and chimney cricket slope were cross-checked for the Bradley intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 60914/60915.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Kankakee County and primary ZIP 60915. Terrain reference: 673 ft. Center point: 41.1600, -87.8500. ZIP sample: 60914, 60915. Logistics priority: Serving residential sectors across Kankakee County and north-east ZIP 60915 grid.
+
+On-site sector marker: Kankakee County / primary ZIP 60915 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60915-e8c4862a

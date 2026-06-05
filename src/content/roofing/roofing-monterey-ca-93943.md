@@ -11,25 +11,29 @@ lng: -121.8800
 zipSample: ["93944", "93940", "93943"]
 zipCodes: ["93943", "93944", "93940"]
 localPaths: ["Monterey County / ZIP 93944 sector", "Monterey County / primary ZIP 93943", "Monterey County / coords 36.5900, -121.8800", "Monterey County / elevation 16 ft band", "Monterey County / ZIP 93943 sector"]
-zillowHomeValueUsd: 1135799
 ---
 
 **Engineering Notice for Monterey:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Monterey County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 93943.
+Freeze-thaw cycles around Monterey, CA stress nail pops along eaves and rake edges.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is partial dry-in possible? In Monterey, CA, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 93940/93944/93943.
+Regulatory note: Monterey, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 93940, 93944, 93943 (county grid: Monterey County).
+Risk flag: Tile underlayment age in Monterey, CA can fail independently of visible tile cracks.
+
+roof service brief: chimney cricket slope and valley metal gauge were cross-checked for the Monterey intake packet.
+
+Primary postal anchor 93943 with multi-ZIP overlap in Monterey; field packets tag Monterey County for county-grid reconciliation.
+
+On-site sector marker: Monterey County / ZIP 93944 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93943-cc70b1e9

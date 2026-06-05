@@ -11,26 +11,31 @@ lng: -87.8400
 zipSample: ["60423"]
 zipCodes: ["60423"]
 localPaths: ["Will County / primary ZIP 60423", "Will County / elevation 758 ft band", "Will County / coords 41.4900, -87.8400", "Will County / ZIP 60423 sector"]
-zillowHomeValueUsd: 487510
 ---
 
 **Engineering Notice for Frankfort:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: Will County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Frankfort, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: avoid large upfront payments without milestones.
+Wood shake courses in Frankfort, IL require skip-spacing rules at valleys.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 60423 intake.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 60423 coverage.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 60423 (county grid: Will County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: valley metal gauge paired with synthetic underlayment slip near ZIP 60423.
+
+Coordinate-anchored dispatch note: center reference 41.4900, -87.8400 at elevation ~758 ft aligns with Will County intake staging.
+
+On-site sector marker: Will County / ZIP 60423 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60423-93542dcb

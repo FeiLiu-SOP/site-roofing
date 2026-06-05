@@ -11,27 +11,33 @@ lng: -71.3000
 zipSample: ["02703"]
 zipCodes: ["02703"]
 localPaths: ["Bristol County / primary ZIP 02703", "Bristol County / elevation 144 ft band", "Bristol County / ZIP 02703 sector", "Bristol County / coords 41.9300, -71.3000"]
-zillowHomeValueUsd: 532892
 ---
 
 **Engineering Notice for Attleboro:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Bristol County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Attleboro, MA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-In Attleboro, MA, seasonal demand can change scheduling windows.
+Step: stage tear-off debris paths away from landscape drains.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 02703.
+Regulatory note: Attleboro, MA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Attleboro, MA and nearby ZIP sectors.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Moisture pathway inspection logged near ZIP 02703 intake.
+Attic ventilation deficits in Attleboro, MA can mimic roof leaks at ceiling penetrations.
 
-Field note: Connection points spot-checked where accessible (ZIP 02703 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 02703 (county grid: Bristol County).
+Tip: Note recent wind events when filing insurance photos for Attleboro, MA.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: ridge cap nail schedule plus skylight curb height referenced in Bristol County county grid review.
+
+Regional mesh label Bristol County: moisture and logistics baselines are keyed to Attleboro, MA before niche-specific work begins.
+
+On-site sector marker: Bristol County / primary ZIP 02703 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-02703-5e35047b

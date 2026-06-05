@@ -11,24 +11,33 @@ lng: -83.6500
 zipSample: ["48178"]
 zipCodes: ["48178"]
 localPaths: ["Oakland County / ZIP 48178 sector", "Oakland County / coords 42.4600, -83.6500", "Oakland County / primary ZIP 48178", "Oakland County / elevation 922 ft band"]
-zillowHomeValueUsd: 465731
 ---
 
 **Engineering Notice for South Lyon:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Oakland County.
 
 
-Our service coordination centers on South Lyon, MI coverage windows and verified intake details.
+Risk flag: In South Lyon, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: In South Lyon, MI, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: avoid large upfront payments without milestones.
+TPO seam welds in South Lyon, MI commercial sections need probe tests after freeze events.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South Lyon, MI, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When should permanent restoration start? In South Lyon, MI, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 48178.
+Wind-zone note: South Lyon, MI exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 48178 (county grid: Oakland County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Risk flag: Tile underlayment age in South Lyon, MI can fail independently of visible tile cracks.
+
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Field routing: chimney cricket slope paired with skylight curb height near ZIP 48178.
+
+On-site sector marker: Oakland County / ZIP 48178 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 42.4600, -83.6500 at elevation ~922 ft aligns with Oakland County intake staging.
 
 Service reference: MI-48178-8ed7d4ca

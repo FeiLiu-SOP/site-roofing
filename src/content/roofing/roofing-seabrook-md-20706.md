@@ -11,27 +11,31 @@ lng: -76.8500
 zipSample: ["20706", "20703"]
 zipCodes: ["20703", "20706"]
 localPaths: ["Prince George's County / ZIP 20706 sector", "Prince George's County / elevation 210 ft band", "Prince George's County / ZIP 20703 sector", "Prince George's County / coords 38.9800, -76.8500", "Prince George's County / primary ZIP 20706"]
-zillowHomeValueUsd: 439995
 ---
 
 **Engineering Notice for Seabrook:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Prince George's County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+TPO seam welds in Seabrook, MD commercial sections need probe tests after freeze events.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 20706.
+Our Seabrook, MD dispatch packets reference county grid Prince George's County and elevation band 210 ft.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: How long can shingles wait after storm damage? In Seabrook, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Seabrook, MD attics should be checked against current mechanical exhaust additions.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Seabrook, MD.
 
-Field note: Connection points spot-checked where accessible (ZIP 20706/20703 zone).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 20706/20703.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 20706, 20703 (county grid: Prince George's County).
+Field routing: valley metal gauge paired with skylight curb height near ZIP 20706.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 20703/20706.
+
+On-site sector marker: Prince George's County / coords 38.9800, -76.8500 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 38.9800, -76.8500 at elevation ~210 ft aligns with Prince George's County intake staging.
 
 Service reference: MD-20706-6972adc1

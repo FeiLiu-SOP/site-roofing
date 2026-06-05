@@ -11,24 +11,29 @@ lng: -76.7400
 zipSample: ["21076", "21075"]
 zipCodes: ["21075", "21076"]
 localPaths: ["Howard County / coords 39.1900, -76.7400", "Howard County / primary ZIP 21075", "Howard County / ZIP 21075 sector", "Howard County / elevation 138 ft band", "Howard County / ZIP 21076 sector"]
-zillowHomeValueUsd: 491251
 ---
 
 **Engineering Notice for Elkridge:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Howard County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wood shake courses in Elkridge, MD require skip-spacing rules at valleys.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Homeowners in Elkridge, MD often face sudden roof service problems that require fast action.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Elkridge, MD coverage windows and verified intake details.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Wind exposure category reviewed for ZIP sector 21075/21076.
+Risk flag: In Elkridge, MD, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 21075, 21076 (county grid: Howard County).
+FAQ: When should permanent restoration start? In Elkridge, MD, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Howard County county grid review.
+
+On-site sector marker: Howard County / primary ZIP 21075 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 21075 with multi-ZIP overlap in Elkridge; field packets tag Howard County for county-grid reconciliation.
 
 Service reference: MD-21075-9191b537

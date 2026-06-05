@@ -11,24 +11,31 @@ lng: -93.7800
 zipSample: ["50398", "50369", "50336", "50368", "50364"]
 zipCodes: ["50368", "50360", "50362", "50265", "50336", "50361", "50339", "50364", "50061", "50266", "50369", "50359"]
 localPaths: ["Polk County / ZIP 50369 sector", "Polk County / ZIP 50398 sector", "Polk County / ZIP 50364 sector", "Polk County / primary ZIP 50265", "Polk County / coords 41.5500, -93.7800"]
-zillowHomeValueUsd: 309776
 ---
 
 **Engineering Notice for West Des Moines:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Polk County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West Des Moines, IA, but intake notes help reduce delays.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Local conditions in West Des Moines, IA can affect timelines and material choices.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Regulatory note: West Des Moines, IA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Our West Des Moines, IA dispatch packets reference county grid Polk County and elevation band 935 ft.
 
-Field note: Wind exposure category reviewed for ZIP sector 50364/50368/50359.
+Risk flag: In West Des Moines, IA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 50364, 50368, 50359, 50367, 50339 (county grid: Polk County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Tile and shingle mixes in West Des Moines, IA require different fastener patterns at transitions.
+
+Field routing: wind uplift clip spacing paired with ridge cap nail schedule near ZIP 50265.
+
+Primary postal anchor 50265 with multi-ZIP overlap in West Des Moines; field packets tag Polk County for county-grid reconciliation.
+
+Regional mesh label Polk County: moisture and logistics baselines are keyed to West Des Moines, IA before niche-specific work begins.
 
 Service reference: IA-50265-a7d76066

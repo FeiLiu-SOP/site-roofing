@@ -11,24 +11,33 @@ lng: -122.5200
 zipSample: ["94901", "94915", "94912", "94903"]
 zipCodes: ["94901", "94903", "94912", "94915"]
 localPaths: ["Marin County / ZIP 94912 sector", "Marin County / primary ZIP 94901", "Marin County / coords 37.9900, -122.5200", "Marin County / ZIP 94915 sector", "Marin County / elevation 482 ft band"]
-zillowHomeValueUsd: 1408573
 ---
 
 **Engineering Notice for San Rafael:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Marin County.
 
 
-Structured milestones protect both sides when scheduling work.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should permanent restoration start? In San Rafael, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on San Rafael, CA coverage windows and verified intake details.
+Risk flag: Tile underlayment age in San Rafael, CA can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 94912/94901/94903 intake.
+Wood shake courses in San Rafael, CA require skip-spacing rules at valleys.
 
-Dispatch sectors sampled: ZIP 94912, 94901, 94903, 94915 (county grid: Marin County).
+Material note: In San Rafael, CA, algae-resistant granules may be specified for north-facing slopes.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Scope trace: soffit intake free area plus synthetic underlayment slip referenced in Marin County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 94912/94915/94901.
+
+Regional mesh label Marin County: moisture and logistics baselines are keyed to San Rafael, CA before niche-specific work begins.
+
+On-site sector marker: Marin County / ZIP 94901 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94901-7f892716

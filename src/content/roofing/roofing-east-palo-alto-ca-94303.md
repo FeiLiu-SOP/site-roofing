@@ -11,24 +11,31 @@ lng: -122.1400
 zipSample: ["94303"]
 zipCodes: ["94303"]
 localPaths: ["San Mateo County / ZIP 94303 sector", "San Mateo County / coords 37.4700, -122.1400", "San Mateo County / primary ZIP 94303", "San Mateo County / elevation 10 ft band"]
-zillowHomeValueUsd: 2133407
 ---
 
 **Engineering Notice for East Palo Alto:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: San Mateo County.
 
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In East Palo Alto, CA, seasonal demand can change scheduling windows.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Tile underlayment age in East Palo Alto, CA can fail independently of visible tile cracks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Parapet coping movement in East Palo Alto, CA can channel water behind wall cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 94303 intake.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 94303 (county grid: San Mateo County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Field routing: soffit intake free area paired with ice-barrier lap sequence near ZIP 94303.
+
+Field note: Attic moisture pathway scan referenced ZIP 94303.
+
+On-site sector marker: San Mateo County / primary ZIP 94303 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 94303 with multi-ZIP overlap in East Palo Alto; field packets tag San Mateo County for county-grid reconciliation.
 
 Service reference: CA-94303-29a4c2ef

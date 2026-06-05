@@ -11,26 +11,31 @@ lng: -113.5800
 zipSample: ["84770", "84790", "84791"]
 zipCodes: ["84791", "84790", "84770"]
 localPaths: ["Washington County / coords 37.0800, -113.5800", "Washington County / ZIP 84790 sector", "Washington County / ZIP 84791 sector", "Washington County / ZIP 84770 sector", "Washington County / elevation 2546 ft band"]
-zillowHomeValueUsd: 487250
 ---
 
 **Engineering Notice for St. George:** Structural loading calculated based on 2546 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate St. George, UT roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Coastal humidity in St. George, UT can slow shingle seal-down after shoulder-season storms.
 
-Our service coordination centers on St. George, UT coverage windows and verified intake details.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84770/84791/84790.
+Wind-zone note: St. George, UT exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 84770/84791/84790.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 84770, 84791, 84790 (county grid: Washington County).
+Scope trace: attic baffle spacing plus counter-flashing reglet depth referenced in Washington County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 84790/84791/84770.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Washington County and primary ZIP 84770. Terrain reference: 2546 ft. Center point: 37.0800, -113.5800. ZIP sample: 84770, 84791, 84790. Logistics priority: Serving residential sectors across Washington County and north-east ZIP 84770 grid.
+
+Coordinate-anchored dispatch note: center reference 37.0800, -113.5800 at elevation ~2546 ft aligns with Washington County intake staging.
 
 Service reference: UT-84770-34de9250

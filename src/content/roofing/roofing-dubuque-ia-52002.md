@@ -11,26 +11,31 @@ lng: -90.7100
 zipSample: ["52001", "52099", "52002", "52004", "52003"]
 zipCodes: ["52003", "52002", "52001", "52004", "52099"]
 localPaths: ["Dubuque County / ZIP 52099 sector", "Dubuque County / elevation 820 ft band", "Dubuque County / ZIP 52003 sector", "Dubuque County / ZIP 52001 sector", "Dubuque County / ZIP 52002 sector"]
-zillowHomeValueUsd: 339214
 ---
 
 **Engineering Notice for Dubuque:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Dubuque County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+We coordinate Dubuque, IA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: compare at least two estimates for scope and timeline.
+Wood shake courses in Dubuque, IA require skip-spacing rules at valleys.
 
-Tip: request a written scope before work starts.
+Risk flag: In Dubuque, IA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Dubuque, IA coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Dubuque, IA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Moisture pathway inspection logged near ZIP 52001/52002/52004 intake.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 52001/52002/52004.
+Regulatory note: Dubuque, IA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 52001, 52002, 52004, 52099, 52003 (county grid: Dubuque County).
+Field routing: soffit intake free area paired with shingle exposure calibration near ZIP 52002.
+
+Field note: Attic moisture pathway scan referenced ZIP 52099/52003/52002.
+
+Primary postal anchor 52002 with multi-ZIP overlap in Dubuque; field packets tag Dubuque County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Dubuque, IA: sampled sectors include 52002, 52001, 52004, 52099, 52003; county routing grid remains Dubuque County.
 
 Service reference: IA-52002-9636f4c0

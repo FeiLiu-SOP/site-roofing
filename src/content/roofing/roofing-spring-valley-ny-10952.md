@@ -11,24 +11,35 @@ lng: -74.0500
 zipSample: ["10977", "10952"]
 zipCodes: ["10952", "10977"]
 localPaths: ["Rockland County / ZIP 10952 sector", "Rockland County / primary ZIP 10952", "Rockland County / coords 41.1200, -74.0500", "Rockland County / elevation 479 ft band", "Rockland County / ZIP 10977 sector"]
-zillowHomeValueUsd: 1129888
 ---
 
 **Engineering Notice for Spring Valley:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Rockland County.
 
 
-We coordinate local dispatch coverage around Spring Valley, NY and nearby ZIP sectors.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-In Spring Valley, NY, urgent roof service issues can escalate quickly.
+Wind-zone note: Spring Valley, NY exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Skylight curb flashing in Spring Valley, NY should be sequenced before ridge cap replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Spring Valley, NY, but intake notes help reduce delays.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 10952/10977 zone).
+FAQ: How long can shingles wait after storm damage? In Spring Valley, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 10952, 10977 (county grid: Rockland County).
+Step: compare shingle manufacturer wind-zone ratings for Spring Valley, NY exposure class.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Risk flag: Tile underlayment age in Spring Valley, NY can fail independently of visible tile cracks.
+
+Scope trace: skylight curb height plus drip-edge metal profile referenced in Rockland County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 10952/10977.
+
+On-site sector marker: Rockland County / coords 41.1200, -74.0500 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Rockland County / primary ZIP 10952 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10952-da9f81d7

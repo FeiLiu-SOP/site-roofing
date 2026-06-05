@@ -11,27 +11,33 @@ lng: -70.2500
 zipSample: ["04210", "04211", "04223", "04212"]
 zipCodes: ["04212", "04211", "04210", "04223"]
 localPaths: ["Androscoggin County / coords 44.0900, -70.2500", "Androscoggin County / ZIP 04211 sector", "Androscoggin County / primary ZIP 04210", "Androscoggin County / ZIP 04210 sector", "Androscoggin County / elevation 282 ft band"]
-zillowHomeValueUsd: 320977
 ---
 
 **Engineering Notice for Auburn:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Androscoggin County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Our service coordination centers on Auburn, ME coverage windows and verified intake details.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 04210.
+Hail bruising on Auburn, ME ridges may not breach felt until the next wind event.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Auburn, ME, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 04211/04223/04212 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 04211/04223/04212 coverage.
+FAQ: How long can shingles wait after storm damage? In Auburn, ME, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 04211, 04223, 04212, 04210 (county grid: Androscoggin County).
+Regulatory note: Auburn, ME projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Field routing: drip-edge metal profile paired with attic baffle spacing near ZIP 04210.
+
+Coordinate-anchored dispatch note: center reference 44.0900, -70.2500 at elevation ~282 ft aligns with Androscoggin County intake staging.
+
+On-site sector marker: Androscoggin County / primary ZIP 04210 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ME-04210-dba265df

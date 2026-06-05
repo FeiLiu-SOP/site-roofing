@@ -11,25 +11,31 @@ lng: -91.1600
 zipSample: ["70791"]
 zipCodes: ["70791"]
 localPaths: ["East Baton Rouge Parish / coords 30.6600, -91.1600", "East Baton Rouge Parish / ZIP 70791 sector", "East Baton Rouge Parish / elevation 121 ft band", "East Baton Rouge Parish / primary ZIP 70791"]
-zillowHomeValueUsd: 268144
 ---
 
 **Engineering Notice for Zachary:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 70791.
+FAQ: When should permanent service start? In Zachary, LA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: compare shingle manufacturer wind-zone ratings for Zachary, LA exposure class.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 70791 zone).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 70791 (county grid: East Baton Rouge Parish).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Wood shake courses in Zachary, LA require skip-spacing rules at valleys.
+
+Field routing: soffit intake free area paired with ridge cap nail schedule near ZIP 70791.
+
+On-site sector marker: East Baton Rouge Parish / coords 30.6600, -91.1600 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 30.6600, -91.1600 at elevation ~121 ft aligns with East Baton Rouge Parish intake staging.
 
 Service reference: LA-70791-b0496fc0

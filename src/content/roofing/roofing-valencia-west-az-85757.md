@@ -11,27 +11,31 @@ lng: -111.1100
 zipSample: ["85757"]
 zipCodes: ["85757"]
 localPaths: ["Pima County / coords 32.1400, -111.1100", "Pima County / elevation 2484 ft band", "Pima County / ZIP 85757 sector", "Pima County / primary ZIP 85757"]
-zillowHomeValueUsd: 324444
 ---
 
 **Engineering Notice for Valencia West:** Structural loading calculated based on 2484 ft terrain assessment. Regional dispatch grid: Pima County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Valencia West, AZ, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 85757.
+Tile and shingle mixes in Valencia West, AZ require different fastener patterns at transitions.
 
-We coordinate local dispatch coverage around Valencia West, AZ and nearby ZIP sectors.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 85757.
 
-Field note: Wind exposure category reviewed for ZIP sector 85757.
+Step: compare shingle manufacturer wind-zone ratings for Valencia West, AZ exposure class.
 
-Field note: Access points and staging constraints recorded for ZIP 85757 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 85757 (county grid: Pima County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Field routing: valley metal gauge paired with synthetic underlayment slip near ZIP 85757.
+
+On-site sector marker: Pima County / primary ZIP 85757 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Pima County / ZIP 85757 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85757-1accd966

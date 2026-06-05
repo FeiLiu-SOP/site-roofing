@@ -11,24 +11,29 @@ lng: -81.9200
 zipSample: ["44070"]
 zipCodes: ["44070"]
 localPaths: ["Cuyahoga County / ZIP 44070 sector", "Cuyahoga County / coords 41.4100, -81.9200", "Cuyahoga County / elevation 768 ft band", "Cuyahoga County / primary ZIP 44070"]
-zillowHomeValueUsd: 270643
 ---
 
 **Engineering Notice for North Olmsted:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-Our service coordination centers on North Olmsted, OH coverage windows and verified intake details.
+Wind-zone note: North Olmsted, OH exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-In North Olmsted, OH, urgent roof service issues can escalate quickly.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How long can shingles wait after storm damage? In North Olmsted, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in North Olmsted, OH, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 44070.
+Hail bruising on North Olmsted, OH ridges may not breach felt until the next wind event.
 
-Dispatch sectors sampled: ZIP 44070 (county grid: Cuyahoga County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Scope trace: pipe boot manufacturer match plus ridge cap nail schedule referenced in Cuyahoga County county grid review.
+
+On-site sector marker: Cuyahoga County / coords 41.4100, -81.9200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cuyahoga County / elevation 768 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44070-27262067

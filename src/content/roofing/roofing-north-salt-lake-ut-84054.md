@@ -11,26 +11,35 @@ lng: -111.9200
 zipSample: ["84054"]
 zipCodes: ["84054"]
 localPaths: ["Davis County / primary ZIP 84054", "Davis County / elevation 4255 ft band", "Davis County / ZIP 84054 sector", "Davis County / coords 40.8400, -111.9200"]
-zillowHomeValueUsd: 560843
 ---
 
 **Engineering Notice for North Salt Lake:** Structural loading calculated based on 4255 ft terrain assessment. Regional dispatch grid: Davis County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Salt Lake, UT, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for North Salt Lake, UT exposure class.
 
-Transparent pricing helps you compare like-for-like scope items.
+Code context: Ventilation ratios for North Salt Lake, UT attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: avoid large upfront payments without milestones.
+Wood shake courses in North Salt Lake, UT require skip-spacing rules at valleys.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84054.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 84054 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 84054 (county grid: Davis County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: ice-barrier lap sequence plus deck sheathing thickness referenced in Davis County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 84054.
+
+On-site sector marker: Davis County / elevation 4255 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Davis County / primary ZIP 84054 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84054-8a601d59

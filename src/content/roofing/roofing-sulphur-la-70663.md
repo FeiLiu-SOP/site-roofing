@@ -11,26 +11,33 @@ lng: -93.3600
 zipSample: ["70665", "70663"]
 zipCodes: ["70663", "70665"]
 localPaths: ["Calcasieu Parish / ZIP 70665 sector", "Calcasieu Parish / elevation 43 ft band", "Calcasieu Parish / ZIP 70663 sector", "Calcasieu Parish / primary ZIP 70663", "Calcasieu Parish / coords 30.2300, -93.3600"]
-zillowHomeValueUsd: 177418
 ---
 
 **Engineering Notice for Sulphur:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Calcasieu Parish.
 
 
-We coordinate local dispatch coverage around Sulphur, LA and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: compare at least two estimates for scope and timeline.
+We coordinate Sulphur, LA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 70663.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Skylight curb flashing in Sulphur, LA should be sequenced before ridge cap replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 70663/70665 zone).
+Step: map ventilation intake and exhaust pairs for Sulphur, LA attic runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70663/70665.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 70663, 70665 (county grid: Calcasieu Parish).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Wind-zone note: Sulphur, LA exposure class can change starter-strip and cap nail schedules.
+
+Field routing: drip-edge metal profile paired with chimney cricket slope near ZIP 70663.
+
+Primary postal anchor 70663 with multi-ZIP overlap in Sulphur; field packets tag Calcasieu Parish for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 30.2300, -93.3600 at elevation ~43 ft aligns with Calcasieu Parish intake staging.
 
 Service reference: LA-70663-ce5cdfc7

@@ -11,27 +11,31 @@ lng: -97.6400
 zipSample: ["76513", "76548"]
 zipCodes: ["76548", "76513"]
 localPaths: ["Bell County / ZIP 76548 sector", "Bell County / coords 31.0600, -97.6400", "Bell County / elevation 830 ft band", "Bell County / ZIP 76513 sector", "Bell County / primary ZIP 76548"]
-zillowHomeValueUsd: 298940
 ---
 
 **Engineering Notice for Harker Heights:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Bell County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Harker Heights, TX, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Harker Heights, TX exposure class.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 76548.
+FAQ: Can you tarp only part of the roof? In Harker Heights, TX, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Our service coordination centers on Harker Heights, TX coverage windows and verified intake details.
+Across Harker Heights, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 76548/76513 zone).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Wind exposure category reviewed for ZIP sector 76548/76513.
+Risk flag: In Harker Heights, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 76548, 76513 (county grid: Bell County).
+roofing service brief: soffit intake free area and drip-edge metal profile were cross-checked for the Harker Heights intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 76548/76513.
+
+On-site sector marker: Bell County / primary ZIP 76548 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Harker Heights, TX: sampled sectors include 76548, 76513; county routing grid remains Bell County.
 
 Service reference: TX-76548-93ff1980

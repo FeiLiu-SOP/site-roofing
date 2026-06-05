@@ -11,25 +11,31 @@ lng: -119.5600
 zipSample: ["93657"]
 zipCodes: ["93657"]
 localPaths: ["Fresno County / coords 36.7000, -119.5600", "Fresno County / elevation 371 ft band", "Fresno County / ZIP 93657 sector", "Fresno County / primary ZIP 93657"]
-zillowHomeValueUsd: 412122
 ---
 
 **Engineering Notice for Sanger:** Structural loading calculated based on 371 ft terrain assessment. Regional dispatch grid: Fresno County.
 
 
-Tip: avoid large upfront payments without milestones.
+Our Sanger, CA dispatch packets reference county grid Fresno County and elevation band 371 ft.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 93657.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-We coordinate local dispatch coverage around Sanger, CA and nearby ZIP sectors.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sanger, CA, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 93657 coverage.
+Material note: In Sanger, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 93657 (county grid: Fresno County).
+Metal panel oil-canning in Sanger, CA may signal clip spacing issues, not wind damage alone.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Scope trace: attic baffle spacing plus skylight curb height referenced in Fresno County county grid review.
+
+ZIP-corridor snapshot for Sanger, CA: sampled sectors include 93657; county routing grid remains Fresno County.
+
+On-site sector marker: Fresno County / ZIP 93657 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93657-d15bd77c

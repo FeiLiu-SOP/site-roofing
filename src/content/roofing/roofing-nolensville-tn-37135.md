@@ -11,26 +11,29 @@ lng: -86.6700
 zipSample: ["37135"]
 zipCodes: ["37135"]
 localPaths: ["Williamson County / ZIP 37135 sector", "Williamson County / primary ZIP 37135", "Williamson County / coords 35.9600, -86.6700", "Williamson County / elevation 597 ft band"]
-zillowHomeValueUsd: 819037
 ---
 
 **Engineering Notice for Nolensville:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Williamson County.
 
 
-Our service coordination centers on Nolensville, TN coverage windows and verified intake details.
+Regulatory note: Nolensville, TN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Nolensville, TN, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Nolensville, TN can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+We coordinate Nolensville, TN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Moisture pathway inspection logged near ZIP 37135 intake.
+FAQ: Is partial dry-in possible? In Nolensville, TN, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 37135 coverage.
+Skylight curb flashing in Nolensville, TN should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 37135 (county grid: Williamson County).
+Field routing: soffit intake free area paired with ridge cap nail schedule near ZIP 37135.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Williamson County and primary ZIP 37135. Terrain reference: 597 ft. Center point: 35.9600, -86.6700. ZIP sample: 37135. Service perimeter note: Coverage extends through Williamson County with dispatch centered near ZIP 37135.
+
+On-site sector marker: Williamson County / ZIP 37135 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37135-ca6e521d

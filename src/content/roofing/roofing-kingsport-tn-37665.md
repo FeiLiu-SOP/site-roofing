@@ -11,26 +11,35 @@ lng: -82.5500
 zipSample: ["37664", "37665", "37662", "37663", "37660"]
 zipCodes: ["37669", "37660", "37664", "37665", "37663", "37662"]
 localPaths: ["Sullivan County / coords 36.5200, -82.5500", "Sullivan County / ZIP 37662 sector", "Sullivan County / elevation 1201 ft band", "Sullivan County / ZIP 37665 sector", "Sullivan County / ZIP 37660 sector"]
-zillowHomeValueUsd: 167094
 ---
 
 **Engineering Notice for Kingsport:** Structural loading calculated based on 1201 ft terrain assessment. Regional dispatch grid: Sullivan County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-We coordinate local dispatch coverage around Kingsport, TN and nearby ZIP sectors.
+Metal panel oil-canning in Kingsport, TN may signal clip spacing issues, not wind damage alone.
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Kingsport, TN attics should be checked against current mechanical exhaust additions.
 
-Local conditions in Kingsport, TN can affect timelines and material choices.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Kingsport, TN can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 37669/37660/37662.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 37669/37660/37662 coverage.
+Tile and shingle mixes in Kingsport, TN require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 37669, 37660, 37662, 37665, 37663 (county grid: Sullivan County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+FAQ: Can you tarp only part of the roof? In Kingsport, TN, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: starter-strip setback plus counter-flashing reglet depth referenced in Sullivan County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 37664/37665/37663.
+
+On-site sector marker: Sullivan County / elevation 1201 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Kingsport, TN: sampled sectors include 37663, 37669, 37664, 37665, 37660, 37662; county routing grid remains Sullivan County.
 
 Service reference: TN-37665-301049ab

@@ -11,26 +11,31 @@ lng: -122.0800
 zipSample: ["94043", "94042", "94040", "94041", "94039"]
 zipCodes: ["94039", "94040", "94041", "94043", "94042"]
 localPaths: ["Santa Clara County / ZIP 94043 sector", "Santa Clara County / elevation 56 ft band", "Santa Clara County / coords 37.4000, -122.0800", "Santa Clara County / ZIP 94042 sector", "Santa Clara County / ZIP 94039 sector"]
-zillowHomeValueUsd: 1599208
 ---
 
 **Engineering Notice for Mountain View:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Santa Clara County.
 
 
-Structured milestones protect both sides when scheduling work.
+Synthetic underlayment slip in Mountain View, CA is often tied to deck moisture, not wind alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mountain View, CA, but intake notes help reduce delays.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Local conditions in Mountain View, CA can affect timelines and material choices.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is partial dry-in possible? In Mountain View, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 94039/94043/94040.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Moisture pathway inspection logged near ZIP 94039/94043/94040 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 94039, 94043, 94040, 94042, 94041 (county grid: Santa Clara County).
+Field routing: skylight curb height paired with drip-edge metal profile near ZIP 94043.
+
+Field note: Valley debris and granule loss noted for ZIP 94042/94039/94043.
+
+Coordinate-anchored dispatch note: center reference 37.4000, -122.0800 at elevation ~56 ft aligns with Santa Clara County intake staging.
+
+On-site sector marker: Santa Clara County / ZIP 94042 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94043-3b970596

@@ -11,24 +11,29 @@ lng: -118.3200
 zipSample: ["90717"]
 zipCodes: ["90717"]
 localPaths: ["Los Angeles County / primary ZIP 90717", "Los Angeles County / elevation 102 ft band", "Los Angeles County / ZIP 90717 sector", "Los Angeles County / coords 33.7900, -118.3200"]
-zillowHomeValueUsd: 920927
 ---
 
 **Engineering Notice for Lomita:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Is partial dry-in possible? In Lomita, CA, yes—if slope and anchor points support safe tie-offs.
 
-Our service coordination centers on Lomita, CA coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: map ventilation intake and exhaust pairs for Lomita, CA attic runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 90717 zone).
+Granule embedment loss on Lomita, CA north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 90717 (county grid: Los Angeles County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Field routing: soffit intake free area paired with attic baffle spacing near ZIP 90717.
+
+On-site sector marker: Los Angeles County / coords 33.7900, -118.3200 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Lomita, CA: sampled sectors include 90717; county routing grid remains Los Angeles County.
 
 Service reference: CA-90717-d5552c3f

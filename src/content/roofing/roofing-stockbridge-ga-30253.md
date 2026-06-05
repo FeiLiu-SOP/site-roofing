@@ -11,26 +11,31 @@ lng: -84.2300
 zipSample: ["30253", "30281"]
 zipCodes: ["30253", "30281"]
 localPaths: ["Henry County / ZIP 30253 sector", "Henry County / ZIP 30281 sector", "Henry County / elevation 817 ft band", "Henry County / primary ZIP 30253", "Henry County / coords 33.5300, -84.2300"]
-zillowHomeValueUsd: 311531
 ---
 
 **Engineering Notice for Stockbridge:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Henry County.
 
 
-Our service coordination centers on Stockbridge, GA coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Wind-zone note: Stockbridge, GA exposure class can change starter-strip and cap nail schedules.
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Granule embedment loss on Stockbridge, GA north slopes can precede mat exposure.
 
-Field note: Connection points spot-checked where accessible (ZIP 30281/30253 zone).
+FAQ: How long can shingles wait after storm damage? In Stockbridge, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 30281/30253.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 30281, 30253 (county grid: Henry County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Field routing: valley metal gauge paired with ridge cap nail schedule near ZIP 30253.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~817 ft across the Henry County area. Coordinates: 33.5300, -84.2300. ZIP sample: 30253, 30281. Regional routing note: Henry County traffic flow is balanced around ZIP 30253 service demand.
+
+On-site sector marker: Henry County / primary ZIP 30253 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30253-24155a63

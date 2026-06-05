@@ -11,26 +11,35 @@ lng: -120.6700
 zipSample: ["93405", "93406", "93401", "93403"]
 zipCodes: ["93406", "93403", "93401", "93405"]
 localPaths: ["San Luis Obispo County / primary ZIP 93401", "San Luis Obispo County / ZIP 93406 sector", "San Luis Obispo County / ZIP 93401 sector", "San Luis Obispo County / ZIP 93405 sector", "San Luis Obispo County / ZIP 93403 sector"]
-zillowHomeValueUsd: 1103779
 ---
 
 **Engineering Notice for San Luis Obispo:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: San Luis Obispo County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: avoid large upfront payments without milestones.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in San Luis Obispo, CA, but intake notes help reduce delays.
+Wood shake courses in San Luis Obispo, CA require skip-spacing rules at valleys.
 
-Field note: Wind exposure category reviewed for ZIP sector 93401/93406/93403.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Connection points spot-checked where accessible (ZIP 93401/93406/93403 zone).
+Code context: Ventilation ratios for San Luis Obispo, CA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 93401, 93406, 93403, 93405 (county grid: San Luis Obispo County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+roofing service brief: valley metal gauge and synthetic underlayment slip were cross-checked for the San Luis Obispo intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 93406/93401/93405.
+
+Regional mesh label San Luis Obispo County: moisture and logistics baselines are keyed to San Luis Obispo, CA before niche-specific work begins.
+
+On-site sector marker: San Luis Obispo County / ZIP 93405 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93401-986aa0d8

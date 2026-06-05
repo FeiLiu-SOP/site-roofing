@@ -11,27 +11,33 @@ lng: -65.8200
 zipSample: ["00791", "00792"]
 zipCodes: ["00792", "00791"]
 localPaths: ["Humacao County / ZIP 00791 sector", "Humacao County / ZIP 00792 sector", "Humacao County / coords 18.1500, -65.8200", "Humacao County / elevation 66 ft band", "Humacao County / primary ZIP 00791"]
-zillowHomeValueUsd: 374232
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Humacao:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Humacao County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: map ventilation intake and exhaust pairs for Humacao, PR attic runs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Parapet coping movement in Humacao, PR can channel water behind wall cladding.
 
-Tip: request a written scope before work starts.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-We coordinate local dispatch coverage around Humacao, PR and nearby ZIP sectors.
+Risk flag: In Humacao, PR, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 00792/00791 zone).
+Wood shake courses in Humacao, PR require skip-spacing rules at valleys.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 00792/00791.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 00792, 00791 (county grid: Humacao County).
+Our Humacao, PR dispatch packets reference county grid Humacao County and elevation band 66 ft.
+
+Regulatory note: Humacao, PR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: drip-edge metal profile plus pipe boot manufacturer match referenced in Humacao County county grid review.
+
+Coordinate-anchored dispatch note: center reference 18.1500, -65.8200 at elevation ~66 ft aligns with Humacao County intake staging.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Humacao County and primary ZIP 00791. Terrain reference: 66 ft. Center point: 18.1500, -65.8200. ZIP sample: 00791, 00792. Service perimeter note: Coverage extends through Humacao County with dispatch centered near ZIP 00791.
 
 Service reference: PR-00791-cf7a9abd

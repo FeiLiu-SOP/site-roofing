@@ -11,26 +11,29 @@ lng: -111.7400
 zipSample: ["84651"]
 zipCodes: ["84651"]
 localPaths: ["Utah County / ZIP 84651 sector", "Utah County / coords 40.0400, -111.7400", "Utah County / primary ZIP 84651", "Utah County / elevation 4678 ft band"]
-zillowHomeValueUsd: 518337
 ---
 
 **Engineering Notice for Payson:** Structural loading calculated based on 4678 ft terrain assessment. Regional dispatch grid: Utah County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Payson, UT exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Payson, UT, but intake notes help reduce delays.
+Low-slope sections in Payson, UT need positive drainage before membrane repairs are scoped.
 
-Our service coordination centers on Payson, UT coverage windows and verified intake details.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Local conditions in Payson, UT can affect timelines and material choices.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Connection points spot-checked where accessible (ZIP 84651 zone).
+FAQ: When should permanent remediation start? In Payson, UT, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 84651 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 84651 (county grid: Utah County).
+roof work brief: attic baffle spacing and starter-strip setback were cross-checked for the Payson intake packet.
+
+Primary postal anchor 84651 with multi-ZIP overlap in Payson; field packets tag Utah County for county-grid reconciliation.
+
+Regional mesh label Utah County: moisture and logistics baselines are keyed to Payson, UT before niche-specific work begins.
 
 Service reference: UT-84651-5d4c61d2

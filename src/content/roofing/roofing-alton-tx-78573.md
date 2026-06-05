@@ -11,26 +11,31 @@ lng: -98.3100
 zipSample: ["78573"]
 zipCodes: ["78573"]
 localPaths: ["Hidalgo County / elevation 174 ft band", "Hidalgo County / primary ZIP 78573", "Hidalgo County / ZIP 78573 sector", "Hidalgo County / coords 26.2900, -98.3100"]
-zillowHomeValueUsd: 216749
 ---
 
 **Engineering Notice for Alton:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Hidalgo County.
 
 
-Our service coordination centers on Alton, TX coverage windows and verified intake details.
+Risk flag: In Alton, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Alton, TX, but intake notes help reduce delays.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-In Alton, TX, urgent roof work issues can escalate quickly.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78573.
+Hail bruising on Alton, TX ridges may not breach felt until the next wind event.
 
-Field note: Access points and staging constraints recorded for ZIP 78573 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 78573 (county grid: Hidalgo County).
+roof work brief: wind uplift clip spacing and drip-edge metal profile were cross-checked for the Alton intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 78573.
+
+Primary postal anchor 78573 with multi-ZIP overlap in Alton; field packets tag Hidalgo County for county-grid reconciliation.
+
+On-site sector marker: Hidalgo County / primary ZIP 78573 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78573-065719d4

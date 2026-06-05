@@ -11,25 +11,31 @@ lng: -82.2300
 zipSample: ["29652", "29650", "29651"]
 zipCodes: ["29652", "29651", "29650"]
 localPaths: ["Greenville County / elevation 978 ft band", "Greenville County / coords 34.9300, -82.2300", "Greenville County / ZIP 29651 sector", "Greenville County / primary ZIP 29651", "Greenville County / ZIP 29650 sector"]
-zillowHomeValueUsd: 335366
 ---
 
 **Engineering Notice for Greer:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Greenville County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 29651.
+Wood shake courses in Greer, SC require skip-spacing rules at valleys.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Greer, SC, but intake notes help reduce delays.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Greer, SC coverage windows and verified intake details.
+We coordinate Greer, SC roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Moisture pathway inspection logged near ZIP 29652/29651/29650 intake.
+FAQ: Is partial dry-in possible? In Greer, SC, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 29652, 29651, 29650 (county grid: Greenville County).
+Wind-zone note: Greer, SC exposure class can change starter-strip and cap nail schedules.
+
+Field routing: wind uplift clip spacing paired with starter-strip setback near ZIP 29651.
+
+Field note: Valley debris and granule loss noted for ZIP 29650/29652/29651.
+
+Regional mesh label Greenville County: moisture and logistics baselines are keyed to Greer, SC before niche-specific work begins.
+
+On-site sector marker: Greenville County / primary ZIP 29651 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29651-ba19de5d

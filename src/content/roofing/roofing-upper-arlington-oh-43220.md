@@ -11,26 +11,31 @@ lng: -83.0700
 zipSample: ["43220", "43221", "43212"]
 zipCodes: ["43220", "43221", "43212"]
 localPaths: ["Franklin County / coords 40.0300, -83.0700", "Franklin County / ZIP 43221 sector", "Franklin County / ZIP 43220 sector", "Franklin County / primary ZIP 43220", "Franklin County / ZIP 43212 sector"]
-zillowHomeValueUsd: 364463
 ---
 
 **Engineering Notice for Upper Arlington:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Franklin County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: separate emergency tarp scope from permanent service line items.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Upper Arlington, OH, algae-resistant granules may be specified for north-facing slopes.
 
-In Upper Arlington, OH, seasonal demand can change scheduling windows.
+Regulatory note: Upper Arlington, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 43220/43212/43221.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Moisture pathway inspection logged near ZIP 43220/43212/43221 intake.
+Across Upper Arlington, OH, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Dispatch sectors sampled: ZIP 43220, 43212, 43221 (county grid: Franklin County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Field routing: wind uplift clip spacing paired with skylight curb height near ZIP 43220.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~866 ft across the Franklin County area. Coordinates: 40.0300, -83.0700. ZIP sample: 43221, 43220, 43212. Logistics priority: Serving residential sectors across Franklin County and north-east ZIP 43220 grid.
+
+Regional mesh label Franklin County: moisture and logistics baselines are keyed to Upper Arlington, OH before niche-specific work begins.
 
 Service reference: OH-43220-bb57e4f0

@@ -11,24 +11,31 @@ lng: -88.2100
 zipSample: ["36582", "36619"]
 zipCodes: ["36582", "36619"]
 localPaths: ["Mobile County / ZIP 36582 sector", "Mobile County / coords 30.5800, -88.2100", "Mobile County / elevation 174 ft band", "Mobile County / primary ZIP 36582", "Mobile County / ZIP 36619 sector"]
-zillowHomeValueUsd: 203029
 ---
 
 **Engineering Notice for Tillmans Corner:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Mobile County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Tillmans Corner, AL, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Tillmans Corner, AL can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Synthetic underlayment slip in Tillmans Corner, AL is often tied to deck moisture, not wind alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 36582/36619.
+Our Tillmans Corner, AL dispatch packets reference county grid Mobile County and elevation band 174 ft.
 
-Dispatch sectors sampled: ZIP 36582, 36619 (county grid: Mobile County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Scope trace: ice-barrier lap sequence plus skylight curb height referenced in Mobile County county grid review.
+
+On-site sector marker: Mobile County / elevation 174 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Mobile County / ZIP 36582 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36582-0d9e1ed9

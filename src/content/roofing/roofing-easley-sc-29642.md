@@ -11,27 +11,29 @@ lng: -82.5800
 zipSample: ["29640", "29642"]
 zipCodes: ["29642", "29640"]
 localPaths: ["Pickens County / ZIP 29640 sector", "Pickens County / elevation 1024 ft band", "Pickens County / primary ZIP 29642", "Pickens County / coords 34.8200, -82.5800", "Pickens County / ZIP 29642 sector"]
-zillowHomeValueUsd: 349281
 ---
 
 **Engineering Notice for Easley:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: Pickens County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 29642.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-We coordinate local dispatch coverage around Easley, SC and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 29642/29640 zone).
+Granule embedment loss on Easley, SC north slopes can precede mat exposure.
 
-Field note: Moisture pathway inspection logged near ZIP 29642/29640 intake.
+FAQ: Can you tarp only part of the roof? In Easley, SC, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 29642, 29640 (county grid: Pickens County).
+Field routing: soffit intake free area paired with attic baffle spacing near ZIP 29642.
+
+ZIP-corridor snapshot for Easley, SC: sampled sectors include 29640, 29642; county routing grid remains Pickens County.
+
+Primary postal anchor 29642 with multi-ZIP overlap in Easley; field packets tag Pickens County for county-grid reconciliation.
 
 Service reference: SC-29642-33aac473

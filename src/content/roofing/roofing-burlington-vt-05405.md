@@ -11,27 +11,33 @@ lng: -73.2300
 zipSample: ["05406", "05401", "05405", "05408"]
 zipCodes: ["05406", "05401", "05405", "05408"]
 localPaths: ["Chittenden County / primary ZIP 05405", "Chittenden County / ZIP 05405 sector", "Chittenden County / ZIP 05406 sector", "Chittenden County / elevation 92 ft band", "Chittenden County / ZIP 05408 sector"]
-zillowHomeValueUsd: 556484
 ---
 
 **Engineering Notice for Burlington:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Chittenden County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around Burlington, VT and nearby ZIP sectors.
+FAQ: Is partial dry-in possible? In Burlington, VT, yes—if slope and anchor points support safe tie-offs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 05405.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Burlington, VT exposure class can change starter-strip and cap nail schedules.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 05408/05401/05405.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Connection points spot-checked where accessible (ZIP 05408/05401/05405 zone).
+Granule embedment loss on Burlington, VT north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 05408, 05401, 05405, 05406 (county grid: Chittenden County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Step: note chimney cricket geometry before counter-flashing removal.
+
+roof service brief: deck sheathing thickness and synthetic underlayment slip were cross-checked for the Burlington intake packet.
+
+On-site sector marker: Chittenden County / ZIP 05408 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Chittenden County: moisture and logistics baselines are keyed to Burlington, VT before niche-specific work begins.
 
 Service reference: VT-05405-9a2dd8d3

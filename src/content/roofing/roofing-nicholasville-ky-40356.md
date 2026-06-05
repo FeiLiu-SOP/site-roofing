@@ -11,24 +11,31 @@ lng: -84.5700
 zipSample: ["40340", "40356"]
 zipCodes: ["40340", "40356"]
 localPaths: ["Jessamine County / ZIP 40340 sector", "Jessamine County / ZIP 40356 sector", "Jessamine County / coords 37.8900, -84.5700", "Jessamine County / elevation 994 ft band", "Jessamine County / primary ZIP 40356"]
-zillowHomeValueUsd: 320084
 ---
 
 **Engineering Notice for Nicholasville:** Structural loading calculated based on 994 ft terrain assessment. Regional dispatch grid: Jessamine County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Nicholasville, KY exposure class can change starter-strip and cap nail schedules.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: compare shingle manufacturer wind-zone ratings for Nicholasville, KY exposure class.
 
-We coordinate local dispatch coverage around Nicholasville, KY and nearby ZIP sectors.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wood shake courses in Nicholasville, KY require skip-spacing rules at valleys.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Nicholasville, KY, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 40340/40356.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 40340, 40356 (county grid: Jessamine County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Scope trace: wind uplift clip spacing plus attic baffle spacing referenced in Jessamine County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 40340/40356.
+
+Primary postal anchor 40356 with multi-ZIP overlap in Nicholasville; field packets tag Jessamine County for county-grid reconciliation.
+
+On-site sector marker: Jessamine County / coords 37.8900, -84.5700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40356-93a4786b

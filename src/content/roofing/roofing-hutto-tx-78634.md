@@ -11,24 +11,29 @@ lng: -97.5400
 zipSample: ["78634"]
 zipCodes: ["78634"]
 localPaths: ["Williamson County / coords 30.5400, -97.5400", "Williamson County / elevation 659 ft band", "Williamson County / ZIP 78634 sector", "Williamson County / primary ZIP 78634"]
-zillowHomeValueUsd: 338092
 ---
 
 **Engineering Notice for Hutto:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Williamson County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hutto, TX, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: When should permanent service start? In Hutto, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tile and shingle mixes in Hutto, TX require different fastener patterns at transitions.
 
-Tip: request a written scope before work starts.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Moisture pathway inspection logged near ZIP 78634 intake.
+Risk flag: In Hutto, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 78634 (county grid: Williamson County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Scope trace: starter-strip setback plus valley metal gauge referenced in Williamson County county grid review.
+
+Primary postal anchor 78634 with multi-ZIP overlap in Hutto; field packets tag Williamson County for county-grid reconciliation.
+
+Regional mesh label Williamson County: moisture and logistics baselines are keyed to Hutto, TX before niche-specific work begins.
 
 Service reference: TX-78634-5c5b11b4

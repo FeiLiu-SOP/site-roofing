@@ -11,26 +11,31 @@ lng: -72.9400
 zipSample: ["06010", "06011"]
 zipCodes: ["06010", "06011"]
 localPaths: ["Naugatuck Valley County / ZIP 06010 sector", "Naugatuck Valley County / primary ZIP 06010", "Naugatuck Valley County / coords 41.6800, -72.9400", "Naugatuck Valley County / ZIP 06011 sector", "Naugatuck Valley County / elevation 427 ft band"]
-zillowHomeValueUsd: 338747
 ---
 
 **Engineering Notice for Bristol:** Structural loading calculated based on 427 ft terrain assessment. Regional dispatch grid: Naugatuck Valley County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In Bristol, CT, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: request a written scope before work starts.
+Material note: In Bristol, CT, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 06010/06011.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 06010/06011.
+Valley metal in Bristol, CT should be reviewed whenever granule loss tracks the water line.
 
-Dispatch sectors sampled: ZIP 06010, 06011 (county grid: Naugatuck Valley County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Scope trace: drip-edge metal profile plus ridge cap nail schedule referenced in Naugatuck Valley County county grid review.
+
+On-site sector marker: Naugatuck Valley County / primary ZIP 06010 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Naugatuck Valley County / ZIP 06010 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06010-040089ff

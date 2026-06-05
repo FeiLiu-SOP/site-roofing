@@ -11,26 +11,35 @@ lng: -88.2300
 zipSample: ["60544", "60585", "60586"]
 zipCodes: ["60585", "60544", "60586"]
 localPaths: ["Will County / ZIP 60585 sector", "Will County / ZIP 60544 sector", "Will County / coords 41.6200, -88.2300", "Will County / elevation 627 ft band", "Will County / primary ZIP 60544"]
-zillowHomeValueUsd: 383361
 ---
 
 **Engineering Notice for Plainfield:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Will County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Plainfield, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Our service coordination centers on Plainfield, IL coverage windows and verified intake details.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60544.
 
-Field note: Access points and staging constraints recorded for ZIP 60585/60544/60586 coverage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 60585/60544/60586 intake.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 60585, 60544, 60586 (county grid: Will County).
+Risk flag: In Plainfield, IL, interior stains may track from HVAC condensate rather than roof cladding.
+
+Low-slope sections in Plainfield, IL need positive drainage before membrane repairs are scoped.
+
+Field routing: pipe boot manufacturer match paired with attic baffle spacing near ZIP 60544.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 60586/60585/60544.
+
+Coordinate-anchored dispatch note: center reference 41.6200, -88.2300 at elevation ~627 ft aligns with Will County intake staging.
+
+Regional mesh label Will County: moisture and logistics baselines are keyed to Plainfield, IL before niche-specific work begins.
 
 Service reference: IL-60544-4acbcbb6

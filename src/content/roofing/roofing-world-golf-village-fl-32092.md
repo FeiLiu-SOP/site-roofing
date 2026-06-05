@@ -11,27 +11,33 @@ lng: -81.4900
 zipSample: ["32092", "32095"]
 zipCodes: ["32092", "32095"]
 localPaths: ["St. Johns County / coords 29.9700, -81.4900", "St. Johns County / primary ZIP 32092", "St. Johns County / ZIP 32092 sector", "St. Johns County / ZIP 32095 sector", "St. Johns County / elevation 36 ft band"]
-zillowHomeValueUsd: 467086
 ---
 
 **Engineering Notice for World Golf Village:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: St. Johns County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 32092.
+Code context: Ventilation ratios for World Golf Village, FL attics should be checked against current mechanical exhaust additions.
 
-Tip: compare at least two estimates for scope and timeline.
+Freeze-thaw cycles around World Golf Village, FL stress nail pops along eaves and rake edges.
 
-We coordinate local dispatch coverage around World Golf Village, FL and nearby ZIP sectors.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in World Golf Village, FL can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 32092/32095 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Access points and staging constraints recorded for ZIP 32092/32095 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 32092, 32095 (county grid: St. Johns County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: chimney cricket slope paired with ridge cap nail schedule near ZIP 32092.
+
+Field note: Valley debris and granule loss noted for ZIP 32092/32095.
+
+Primary postal anchor 32092 with multi-ZIP overlap in World Golf Village; field packets tag St. Johns County for county-grid reconciliation.
+
+On-site sector marker: St. Johns County / ZIP 32095 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32092-ed67f968

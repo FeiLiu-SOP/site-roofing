@@ -11,25 +11,29 @@ lng: -84.8600
 zipSample: ["40622", "40618", "40603", "40621", "40619"]
 zipCodes: ["40621", "40620", "40622", "40618", "40603", "40601", "40619"]
 localPaths: ["Franklin County / coords 38.1900, -84.8600", "Franklin County / elevation 722 ft band", "Franklin County / primary ZIP 40601", "Franklin County / ZIP 40621 sector", "Franklin County / ZIP 40618 sector"]
-zillowHomeValueUsd: 240479
 ---
 
 **Engineering Notice for Frankfort:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Franklin County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Frankfort, KY attics should be checked against current mechanical exhaust additions.
 
-Homeowners in Frankfort, KY often face sudden roof service problems that require fast action.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 40601.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: request a written scope before work starts.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Frankfort, KY, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 40619/40621/40603.
+Skylight curb flashing in Frankfort, KY should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 40619, 40621, 40603, 40620, 40601 (county grid: Franklin County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roof service brief: synthetic underlayment slip and skylight curb height were cross-checked for the Frankfort intake packet.
+
+ZIP-corridor snapshot for Frankfort, KY: sampled sectors include 40601, 40619, 40622, 40603, 40620, 40618, 40621; county routing grid remains Franklin County.
+
+Primary postal anchor 40601 with multi-ZIP overlap in Frankfort; field packets tag Franklin County for county-grid reconciliation.
 
 Service reference: KY-40601-53ad5598

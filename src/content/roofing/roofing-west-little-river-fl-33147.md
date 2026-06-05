@@ -11,25 +11,29 @@ lng: -80.2400
 zipSample: ["33150", "33247", "33147"]
 zipCodes: ["33247", "33147", "33150"]
 localPaths: ["Miami-Dade County / ZIP 33147 sector", "Miami-Dade County / elevation 26 ft band", "Miami-Dade County / coords 25.8600, -80.2400", "Miami-Dade County / ZIP 33247 sector", "Miami-Dade County / primary ZIP 33147"]
-zillowHomeValueUsd: 434321
 ---
 
 **Engineering Notice for West Little River:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Coastal humidity in West Little River, FL can slow shingle seal-down after shoulder-season storms.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33147.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33247/33147/33150.
+FAQ: How long can shingles wait after storm damage? In West Little River, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 33247, 33147, 33150 (county grid: Miami-Dade County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: ridge cap nail schedule plus skylight curb height referenced in Miami-Dade County county grid review.
+
+On-site sector marker: Miami-Dade County / ZIP 33247 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Miami-Dade County / ZIP 33147 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33147-9109f151

@@ -11,24 +11,33 @@ lng: -122.4500
 zipSample: ["98465", "98416", "98405", "98418", "98444"]
 zipCodes: ["98408", "98415", "98471", "98490", "98444", "98418", "98412", "98448", "98403", "98481", "98422", "98401"]
 localPaths: ["Pierce County / coords 47.2400, -122.4500", "Pierce County / primary ZIP 98422", "Pierce County / ZIP 98405 sector", "Pierce County / ZIP 98465 sector", "Pierce County / ZIP 98416 sector"]
-zillowHomeValueUsd: 676435
 ---
 
 **Engineering Notice for Tacoma:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: Pierce County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Structured milestones protect both sides when scheduling work.
+Step: compare shingle manufacturer wind-zone ratings for Tacoma, WA exposure class.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Tacoma, WA, but intake notes help reduce delays.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Granule embedment loss on Tacoma, WA north slopes can precede mat exposure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Tacoma, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 98422/98412/98402.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 98422, 98412, 98402, 98405, 98409 (county grid: Pierce County).
+Wind-zone note: Tacoma, WA exposure class can change starter-strip and cap nail schedules.
+
+Material note: In Tacoma, WA, algae-resistant granules may be specified for north-facing slopes.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: valley metal gauge paired with synthetic underlayment slip near ZIP 98422.
+
+On-site sector marker: Pierce County / ZIP 98402 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Tacoma, WA: sampled sectors include 98402, 98490, 98413, 98417, 98466, 98412, 98444, 98419; county routing grid remains Pierce County.
 
 Service reference: WA-98422-3369d099

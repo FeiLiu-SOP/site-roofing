@@ -11,26 +11,29 @@ lng: -83.7300
 zipSample: ["31069"]
 zipCodes: ["31069"]
 localPaths: ["Houston County / ZIP 31069 sector", "Houston County / primary ZIP 31069", "Houston County / elevation 394 ft band", "Houston County / coords 32.4700, -83.7300"]
-zillowHomeValueUsd: 273972
 ---
 
 **Engineering Notice for Perry:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: Houston County.
 
 
-Our service coordination centers on Perry, GA coverage windows and verified intake details.
+FAQ: Is partial dry-in possible? In Perry, GA, yes—if slope and anchor points support safe tie-offs.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic ventilation deficits in Perry, GA can mimic roof leaks at ceiling penetrations.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Perry, GA, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 31069 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 31069 intake.
+Wind-zone note: Perry, GA exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 31069 (county grid: Houston County).
+roof work brief: valley metal gauge and skylight curb height were cross-checked for the Perry intake packet.
+
+On-site sector marker: Houston County / ZIP 31069 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Houston County / elevation 394 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31069-383d6ab4

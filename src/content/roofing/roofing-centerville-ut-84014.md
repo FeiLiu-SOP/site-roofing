@@ -11,27 +11,31 @@ lng: -111.8800
 zipSample: ["84087", "84014"]
 zipCodes: ["84014", "84087"]
 localPaths: ["Davis County / elevation 4255 ft band", "Davis County / ZIP 84014 sector", "Davis County / primary ZIP 84014", "Davis County / ZIP 84087 sector", "Davis County / coords 40.9300, -111.8800"]
-zillowHomeValueUsd: 589781
 ---
 
 **Engineering Notice for Centerville:** Structural loading calculated based on 4255 ft terrain assessment. Regional dispatch grid: Davis County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-A written scope helps prevent rework and mismatched expectations.
+Tile and shingle mixes in Centerville, UT require different fastener patterns at transitions.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 84014.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Centerville, UT coverage windows and verified intake details.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 84014/84087 zone).
+Step: compare shingle manufacturer wind-zone ratings for Centerville, UT exposure class.
 
-Field note: Access points and staging constraints recorded for ZIP 84014/84087 coverage.
+FAQ: Is partial dry-in possible? In Centerville, UT, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 84014, 84087 (county grid: Davis County).
+Wind-zone note: Centerville, UT exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: attic baffle spacing plus skylight curb height referenced in Davis County county grid review.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~4255 ft across the Davis County area. Coordinates: 40.9300, -111.8800. ZIP sample: 84014, 84087. Logistics priority: Serving residential sectors across Davis County and north-east ZIP 84014 grid.
+
+On-site sector marker: Davis County / coords 40.9300, -111.8800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84014-41f93b44

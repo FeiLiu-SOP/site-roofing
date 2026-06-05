@@ -11,25 +11,33 @@ lng: -96.5000
 zipSample: ["75407"]
 zipCodes: ["75407"]
 localPaths: ["Collin County / primary ZIP 75407", "Collin County / coords 33.1800, -96.5000", "Collin County / elevation 558 ft band", "Collin County / ZIP 75407 sector"]
-zillowHomeValueUsd: 293531
 ---
 
 **Engineering Notice for Princeton:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Collin County.
 
 
-Tip: request a written scope before work starts.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Regulatory note: Princeton, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our service coordination centers on Princeton, TX coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for Princeton, TX.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 75407.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Princeton, TX, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 75407 intake.
+We coordinate Princeton, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 75407 (county grid: Collin County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Hail bruising on Princeton, TX ridges may not breach felt until the next wind event.
+
+Scope trace: valley metal gauge plus shingle exposure calibration referenced in Collin County county grid review.
+
+Primary postal anchor 75407 with multi-ZIP overlap in Princeton; field packets tag Collin County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Princeton, TX: sampled sectors include 75407; county routing grid remains Collin County.
 
 Service reference: TX-75407-c0a5c01e

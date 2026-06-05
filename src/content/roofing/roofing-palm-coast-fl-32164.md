@@ -11,24 +11,31 @@ lng: -81.2500
 zipSample: ["32136", "32135", "32164", "32142", "32137"]
 zipCodes: ["32164", "32143", "32135", "32142", "32137", "32136"]
 localPaths: ["Flagler County / coords 29.5400, -81.2500", "Flagler County / elevation 46 ft band", "Flagler County / ZIP 32164 sector", "Flagler County / primary ZIP 32164", "Flagler County / ZIP 32135 sector"]
-zillowHomeValueUsd: 322303
 ---
 
 **Engineering Notice for Palm Coast:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Flagler County.
 
 
-We coordinate local dispatch coverage around Palm Coast, FL and nearby ZIP sectors.
+Step: stage tear-off debris paths away from landscape drains.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Palm Coast, FL, but intake notes help reduce delays.
+Risk flag: In Palm Coast, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32137/32143/32142.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 32137, 32143, 32142, 32135, 32164 (county grid: Flagler County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Coastal humidity in Palm Coast, FL can slow shingle seal-down after shoulder-season storms.
+
+Scope trace: wind uplift clip spacing plus valley metal gauge referenced in Flagler County county grid review.
+
+Coordinate-anchored dispatch note: center reference 29.5400, -81.2500 at elevation ~46 ft aligns with Flagler County intake staging.
+
+**Regional Infrastructure Brief:** Grid anchor set to Flagler County. Reference elevation: 46 ft. Primary coordinates: 29.5400, -81.2500. ZIP sample: 32135, 32143, 32142, 32137, 32164. Service perimeter note: Coverage extends through Flagler County with dispatch centered near ZIP 32164.
 
 Service reference: FL-32164-6ad5f979

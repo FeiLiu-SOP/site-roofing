@@ -11,24 +11,29 @@ lng: -80.1900
 zipSample: ["28001", "28002"]
 zipCodes: ["28001", "28002"]
 localPaths: ["Stanly County / elevation 564 ft band", "Stanly County / coords 35.3600, -80.1900", "Stanly County / primary ZIP 28001", "Stanly County / ZIP 28002 sector", "Stanly County / ZIP 28001 sector"]
-zillowHomeValueUsd: 262694
 ---
 
 **Engineering Notice for Albemarle:** Structural loading calculated based on 564 ft terrain assessment. Regional dispatch grid: Stanly County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Tile underlayment age in Albemarle, NC can fail independently of visible tile cracks.
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: compare shingle manufacturer wind-zone ratings for Albemarle, NC exposure class.
 
-Our service coordination centers on Albemarle, NC coverage windows and verified intake details.
+Regulatory note: Albemarle, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Albemarle, NC, but intake notes help reduce delays.
+FAQ: How long can shingles wait after storm damage? In Albemarle, NC, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 28002/28001.
+Attic ventilation deficits in Albemarle, NC can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 28002, 28001 (county grid: Stanly County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: counter-flashing reglet depth plus valley metal gauge referenced in Stanly County county grid review.
+
+On-site sector marker: Stanly County / ZIP 28001 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Stanly County / elevation 564 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28001-fb1dc1f1

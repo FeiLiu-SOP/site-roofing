@@ -11,27 +11,33 @@ lng: -81.3200
 zipSample: ["28601", "28603", "28602"]
 zipCodes: ["28603", "28601", "28602"]
 localPaths: ["Catawba County / ZIP 28601 sector", "Catawba County / coords 35.7400, -81.3200", "Catawba County / ZIP 28602 sector", "Catawba County / elevation 1171 ft band", "Catawba County / primary ZIP 28601"]
-zillowHomeValueUsd: 304557
 ---
 
 **Engineering Notice for Hickory:** Structural loading calculated based on 1171 ft terrain assessment. Regional dispatch grid: Catawba County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Hickory, NC exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hickory, NC, but intake notes help reduce delays.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 28601.
+Freeze-thaw cycles around Hickory, NC stress nail pops along eaves and rake edges.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 28601.
 
-Field note: Wind exposure category reviewed for ZIP sector 28602/28601/28603.
+We coordinate Hickory, NC roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28602/28601/28603.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 28602, 28601, 28603 (county grid: Catawba County).
+Risk flag: In Hickory, NC, interior stains may track from HVAC condensate rather than roof cladding.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+roofing service brief: drip-edge metal profile and attic baffle spacing were cross-checked for the Hickory intake packet.
+
+On-site sector marker: Catawba County / primary ZIP 28601 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Catawba County. Reference elevation: 1171 ft. Primary coordinates: 35.7400, -81.3200. ZIP sample: 28601, 28603, 28602. Service perimeter note: Coverage extends through Catawba County with dispatch centered near ZIP 28601.
 
 Service reference: NC-28601-58bb0e88

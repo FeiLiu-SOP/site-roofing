@@ -11,26 +11,31 @@ lng: -82.9900
 zipSample: ["43218", "43212", "43220", "43231", "43219"]
 zipCodes: ["43236", "43235", "43110", "43016", "43220", "43201", "43228", "43272", "43222", "43081", "43210", "43221"]
 localPaths: ["Franklin County / elevation 804 ft band", "Franklin County / ZIP 43220 sector", "Franklin County / ZIP 43212 sector", "Franklin County / ZIP 43218 sector", "Franklin County / ZIP 43219 sector"]
-zillowHomeValueUsd: 274426
 ---
 
 **Engineering Notice for Columbus:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Franklin County.
 
 
-Our service coordination centers on Columbus, OH coverage windows and verified intake details.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Columbus, OH exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In Columbus, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: request a written scope before work starts.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Access points and staging constraints recorded for ZIP 43109/43228/43017 coverage.
+Across Columbus, OH, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Moisture pathway inspection logged near ZIP 43109/43228/43017 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 43109, 43228, 43017, 43207, 43215 (county grid: Franklin County).
+Field routing: attic baffle spacing paired with drip-edge metal profile near ZIP 43109.
+
+Field note: Shingle seal-down timing logged near ZIP 43085/43203/43224.
+
+On-site sector marker: Franklin County / ZIP 43109 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Franklin County / ZIP 43211 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43109-07e08a1a

@@ -11,24 +11,31 @@ lng: -97.5100
 zipSample: ["73118", "73159", "73124", "73173", "73116"]
 zipCodes: ["73137", "73151", "73118", "73190", "73142", "73124", "73195", "73175", "73194", "74857", "73110", "73184"]
 localPaths: ["Oklahoma County / ZIP 73159 sector", "Oklahoma County / ZIP 73118 sector", "Oklahoma County / elevation 1253 ft band", "Oklahoma County / coords 35.4700, -97.5100", "Oklahoma County / primary ZIP 73099"]
-zillowHomeValueUsd: 273359
 ---
 
 **Engineering Notice for Oklahoma City:** Structural loading calculated based on 1253 ft terrain assessment. Regional dispatch grid: Oklahoma County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-We coordinate local dispatch coverage around Oklahoma City, OK and nearby ZIP sectors.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Oklahoma City, OK, but intake notes help reduce delays.
+Across Oklahoma City, OK, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 73170/73102/73109 zone).
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 73170, 73102, 73109, 73106, 73118 (county grid: Oklahoma County).
+Material note: In Oklahoma City, OK, algae-resistant granules may be specified for north-facing slopes.
+
+Code context: Ventilation ratios for Oklahoma City, OK attics should be checked against current mechanical exhaust additions.
+
+Scope trace: skylight curb height plus counter-flashing reglet depth referenced in Oklahoma County county grid review.
+
+Regional mesh label Oklahoma County: moisture and logistics baselines are keyed to Oklahoma City, OK before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 35.4700, -97.5100 at elevation ~1253 ft aligns with Oklahoma County intake staging.
 
 Service reference: OK-73099-62bbb2b2

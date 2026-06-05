@@ -11,24 +11,31 @@ lng: -84.3300
 zipSample: ["30033", "30359", "30329", "30324"]
 zipCodes: ["30324", "30329", "30359", "30033"]
 localPaths: ["DeKalb County / ZIP 30359 sector", "DeKalb County / ZIP 30324 sector", "DeKalb County / elevation 1017 ft band", "DeKalb County / ZIP 30329 sector", "DeKalb County / ZIP 30033 sector"]
-zillowHomeValueUsd: 524007
 ---
 
 **Engineering Notice for North Druid Hills:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: DeKalb County.
 
 
-Our service coordination centers on North Druid Hills, GA coverage windows and verified intake details.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Druid Hills, GA, but intake notes help reduce delays.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: request a written scope before work starts.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 30329.
 
-A written scope helps prevent rework and mismatched expectations.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30329/30324/30359.
+FAQ: Can you tarp only part of the roof? In North Druid Hills, GA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 30329, 30324, 30359, 30033 (county grid: DeKalb County).
+Wood shake courses in North Druid Hills, GA require skip-spacing rules at valleys.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Scope trace: valley metal gauge plus deck sheathing thickness referenced in DeKalb County county grid review.
+
+ZIP-corridor snapshot for North Druid Hills, GA: sampled sectors include 30033, 30359, 30329, 30324; county routing grid remains DeKalb County.
+
+On-site sector marker: DeKalb County / ZIP 30033 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30329-7f83eb6e

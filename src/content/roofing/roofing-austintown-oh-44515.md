@@ -11,24 +11,33 @@ lng: -80.7400
 zipSample: ["44511", "44515"]
 zipCodes: ["44515", "44511"]
 localPaths: ["Mahoning County / coords 41.0900, -80.7400", "Mahoning County / primary ZIP 44515", "Mahoning County / ZIP 44511 sector", "Mahoning County / elevation 1125 ft band", "Mahoning County / ZIP 44515 sector"]
-zillowHomeValueUsd: 182646
 ---
 
 **Engineering Notice for Austintown:** Structural loading calculated based on 1125 ft terrain assessment. Regional dispatch grid: Mahoning County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: How long can shingles wait after storm damage? In Austintown, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-We coordinate local dispatch coverage around Austintown, OH and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: address recurring issues early to prevent bigger damage.
+Code context: Ventilation ratios for Austintown, OH attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Austintown, OH, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 44511/44515 intake.
+Valley metal in Austintown, OH should be reviewed whenever granule loss tracks the water line.
 
-Dispatch sectors sampled: ZIP 44511, 44515 (county grid: Mahoning County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 44515.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: attic baffle spacing paired with soffit intake free area near ZIP 44515.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 44515/44511.
+
+ZIP-corridor snapshot for Austintown, OH: sampled sectors include 44511, 44515; county routing grid remains Mahoning County.
+
+Primary postal anchor 44515 with multi-ZIP overlap in Austintown; field packets tag Mahoning County for county-grid reconciliation.
 
 Service reference: OH-44515-b020209e

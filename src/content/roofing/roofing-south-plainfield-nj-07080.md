@@ -11,24 +11,33 @@ lng: -74.4200
 zipSample: ["07080"]
 zipCodes: ["07080"]
 localPaths: ["Middlesex County / ZIP 07080 sector", "Middlesex County / primary ZIP 07080", "Middlesex County / coords 40.5700, -74.4200", "Middlesex County / elevation 89 ft band"]
-zillowHomeValueUsd: 583435
 ---
 
 **Engineering Notice for South Plainfield:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: In South Plainfield, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on South Plainfield, NJ coverage windows and verified intake details.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for South Plainfield, NJ attics should be checked against current mechanical exhaust additions.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In South Plainfield, NJ, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Moisture pathway inspection logged near ZIP 07080 intake.
+Low-slope sections in South Plainfield, NJ need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 07080 (county grid: Middlesex County).
+FAQ: Can you tarp only part of the roof? In South Plainfield, NJ, yes—if slope and anchor points support safe tie-offs.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Scope trace: starter-strip setback plus pipe boot manufacturer match referenced in Middlesex County county grid review.
+
+On-site sector marker: Middlesex County / primary ZIP 07080 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 07080 with multi-ZIP overlap in South Plainfield; field packets tag Middlesex County for county-grid reconciliation.
 
 Service reference: NJ-07080-fca682f3

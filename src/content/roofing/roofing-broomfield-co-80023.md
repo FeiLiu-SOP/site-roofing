@@ -11,26 +11,31 @@ lng: -105.0500
 zipSample: ["80021", "80038", "80023", "80020", "80516"]
 zipCodes: ["80021", "80023", "80516", "80020", "80038"]
 localPaths: ["Broomfield County / ZIP 80038 sector", "Broomfield County / primary ZIP 80023", "Broomfield County / coords 39.9500, -105.0500", "Broomfield County / elevation 5351 ft band", "Broomfield County / ZIP 80023 sector"]
-zillowHomeValueUsd: 825347
 ---
 
 **Engineering Notice for Broomfield:** Structural loading calculated based on 5351 ft terrain assessment. Regional dispatch grid: Broomfield County.
 
 
-We coordinate local dispatch coverage around Broomfield, CO and nearby ZIP sectors.
+Regulatory note: Broomfield, CO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+We coordinate Broomfield, CO roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Broomfield, CO, but intake notes help reduce delays.
+FAQ: Can you tarp only part of the roof? In Broomfield, CO, yes—if slope and anchor points support safe tie-offs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Metal panel oil-canning in Broomfield, CO may signal clip spacing issues, not wind damage alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 80516/80038/80023.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 80516/80038/80023 coverage.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 80516, 80038, 80023, 80020, 80021 (county grid: Broomfield County).
+Scope trace: ridge cap nail schedule plus valley metal gauge referenced in Broomfield County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 80021/80038/80023.
+
+Regional mesh label Broomfield County: moisture and logistics baselines are keyed to Broomfield, CO before niche-specific work begins.
+
+On-site sector marker: Broomfield County / primary ZIP 80023 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80023-d1d23f7d

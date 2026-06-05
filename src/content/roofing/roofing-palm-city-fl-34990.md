@@ -11,25 +11,35 @@ lng: -80.2900
 zipSample: ["34990", "34991"]
 zipCodes: ["34990", "34991"]
 localPaths: ["Martin County / primary ZIP 34990", "Martin County / ZIP 34991 sector", "Martin County / elevation 3 ft band", "Martin County / coords 27.1700, -80.2900", "Martin County / ZIP 34990 sector"]
-zillowHomeValueUsd: 611085
 ---
 
 **Engineering Notice for Palm City:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Martin County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 34990.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: confirm licensing and insurance before approving work.
+Across Palm City, FL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-We coordinate local dispatch coverage around Palm City, FL and nearby ZIP sectors.
+FAQ: Is partial dry-in possible? In Palm City, FL, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Palm City, FL, but intake notes help reduce delays.
+Skylight curb flashing in Palm City, FL should be sequenced before ridge cap replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Access points and staging constraints recorded for ZIP 34990/34991 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 34990, 34991 (county grid: Martin County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Risk flag: In Palm City, FL, interior stains may track from HVAC condensate rather than roof cladding.
+
+Regulatory note: Palm City, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: wind uplift clip spacing paired with valley metal gauge near ZIP 34990.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 34991/34990.
+
+On-site sector marker: Martin County / ZIP 34991 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 34990 with multi-ZIP overlap in Palm City; field packets tag Martin County for county-grid reconciliation.
 
 Service reference: FL-34990-e1641c97

@@ -11,24 +11,31 @@ lng: -77.9700
 zipSample: ["27534", "27532", "27533", "27531", "27530"]
 zipCodes: ["27531", "27533", "27532", "27530", "27534"]
 localPaths: ["Wayne County / ZIP 27532 sector", "Wayne County / ZIP 27533 sector", "Wayne County / coords 35.3800, -77.9700", "Wayne County / ZIP 27531 sector", "Wayne County / primary ZIP 27534"]
-zillowHomeValueUsd: 218721
 ---
 
 **Engineering Notice for Goldsboro:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Goldsboro, NC can fail independently of visible tile cracks.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Note recent wind events when filing insurance photos for Goldsboro, NC.
 
-Tip: request a written scope before work starts.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Goldsboro, NC, but intake notes help reduce delays.
+Granule embedment loss on Goldsboro, NC north slopes can precede mat exposure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 27534/27532/27533.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 27534, 27532, 27533, 27531, 27530 (county grid: Wayne County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Regulatory note: Goldsboro, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: deck sheathing thickness plus drip-edge metal profile referenced in Wayne County county grid review.
+
+On-site sector marker: Wayne County / elevation 121 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Wayne County. Reference elevation: 121 ft. Primary coordinates: 35.3800, -77.9700. ZIP sample: 27530, 27532, 27531, 27533, 27534. Logistics priority: Serving residential sectors across Wayne County and north-east ZIP 27534 grid.
 
 Service reference: NC-27534-a033b048

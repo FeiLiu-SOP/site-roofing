@@ -11,25 +11,31 @@ lng: -121.7900
 zipSample: ["93933"]
 zipCodes: ["93933"]
 localPaths: ["Monterey County / primary ZIP 93933", "Monterey County / ZIP 93933 sector", "Monterey County / coords 36.6800, -121.7900", "Monterey County / elevation 72 ft band"]
-zillowHomeValueUsd: 869395
 ---
 
 **Engineering Notice for Marina:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Monterey County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Marina, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Marina, CA attics should be checked against current mechanical exhaust additions.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 93933.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 93933 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 93933 (county grid: Monterey County).
+Tile and shingle mixes in Marina, CA require different fastener patterns at transitions.
+
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Scope trace: ridge cap nail schedule plus valley metal gauge referenced in Monterey County county grid review.
+
+Regional mesh label Monterey County: moisture and logistics baselines are keyed to Marina, CA before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~72 ft across the Monterey County area. Coordinates: 36.6800, -121.7900. ZIP sample: 93933. Logistics priority: Serving residential sectors across Monterey County and north-east ZIP 93933 grid.
 
 Service reference: CA-93933-75c97162

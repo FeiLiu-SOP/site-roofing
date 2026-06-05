@@ -11,26 +11,31 @@ lng: -122.4700
 zipSample: ["98229", "98226", "98225", "98228"]
 zipCodes: ["98228", "98225", "98226", "98229"]
 localPaths: ["Whatcom County / primary ZIP 98225", "Whatcom County / coords 48.7500, -122.4700", "Whatcom County / ZIP 98229 sector", "Whatcom County / ZIP 98226 sector", "Whatcom County / ZIP 98228 sector"]
-zillowHomeValueUsd: 669589
 ---
 
 **Engineering Notice for Bellingham:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Whatcom County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 98225.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Bellingham, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Our service coordination centers on Bellingham, WA coverage windows and verified intake details.
+Valley metal in Bellingham, WA should be reviewed whenever granule loss tracks the water line.
 
-Field note: Access points and staging constraints recorded for ZIP 98226/98225/98229 coverage.
+Regulatory note: Bellingham, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 98226/98225/98229.
+We coordinate Bellingham, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 98226, 98225, 98229, 98228 (county grid: Whatcom County).
+Step: compare shingle manufacturer wind-zone ratings for Bellingham, WA exposure class.
+
+Scope trace: skylight curb height plus pipe boot manufacturer match referenced in Whatcom County county grid review.
+
+On-site sector marker: Whatcom County / ZIP 98229 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 98225 with multi-ZIP overlap in Bellingham; field packets tag Whatcom County for county-grid reconciliation.
 
 Service reference: WA-98225-f2fc0eae

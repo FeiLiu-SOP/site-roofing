@@ -11,24 +11,31 @@ lng: -96.9800
 zipSample: ["75029", "75077", "75067", "75057", "75065"]
 zipCodes: ["75077", "75067", "75056", "75057", "75065", "75029"]
 localPaths: ["Denton County / ZIP 75067 sector", "Denton County / primary ZIP 75067", "Denton County / coords 33.0500, -96.9800", "Denton County / elevation 486 ft band", "Denton County / ZIP 75065 sector"]
-zillowHomeValueUsd: 360169
 ---
 
 **Engineering Notice for Lewisville:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Denton County.
 
 
-Our service coordination centers on Lewisville, TX coverage windows and verified intake details.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can you tarp only part of the roof? In Lewisville, TX, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Low-slope sections in Lewisville, TX need positive drainage before membrane repairs are scoped.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Connection points spot-checked where accessible (ZIP 75057/75065/75056 zone).
+Risk flag: Tile underlayment age in Lewisville, TX can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 75057, 75065, 75056, 75067, 75029 (county grid: Denton County).
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Wind-zone note: Lewisville, TX exposure class can change starter-strip and cap nail schedules.
+
+Field routing: pipe boot manufacturer match paired with attic baffle spacing near ZIP 75067.
+
+**Regional Infrastructure Brief:** Grid anchor set to Denton County. Reference elevation: 486 ft. Primary coordinates: 33.0500, -96.9800. ZIP sample: 75057, 75077, 75029, 75065, 75056. Logistics priority: Serving residential sectors across Denton County and north-east ZIP 75067 grid.
+
+On-site sector marker: Denton County / elevation 486 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75067-ed69d4a2

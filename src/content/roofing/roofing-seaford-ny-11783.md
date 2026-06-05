@@ -11,27 +11,31 @@ lng: -73.4900
 zipSample: ["11783"]
 zipCodes: ["11783"]
 localPaths: ["Nassau County / ZIP 11783 sector", "Nassau County / primary ZIP 11783", "Nassau County / coords 40.6700, -73.4900", "Nassau County / elevation 23 ft band"]
-zillowHomeValueUsd: 789942
 ---
 
 **Engineering Notice for Seaford:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How long can shingles wait after storm damage? In Seaford, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 11783.
+TPO seam welds in Seaford, NY commercial sections need probe tests after freeze events.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Code context: Ventilation ratios for Seaford, NY attics should be checked against current mechanical exhaust additions.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Note recent wind events when filing insurance photos for Seaford, NY.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11783.
+Risk flag: Tile underlayment age in Seaford, NY can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 11783 zone).
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 11783 (county grid: Nassau County).
+roofing service brief: starter-strip setback and drip-edge metal profile were cross-checked for the Seaford intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 11783.
+
+ZIP-corridor snapshot for Seaford, NY: sampled sectors include 11783; county routing grid remains Nassau County.
+
+On-site sector marker: Nassau County / primary ZIP 11783 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11783-07e4264e

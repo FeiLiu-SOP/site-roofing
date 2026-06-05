@@ -11,28 +11,31 @@ lng: -92.9300
 zipSample: ["55016"]
 zipCodes: ["55016"]
 localPaths: ["Washington County / elevation 807 ft band", "Washington County / ZIP 55016 sector", "Washington County / coords 44.8200, -92.9300", "Washington County / primary ZIP 55016"]
-zillowHomeValueUsd: 396266
 ---
 
 **Engineering Notice for Cottage Grove:** Structural loading calculated based on 807 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55016.
+Code context: Ventilation ratios for Cottage Grove, MN attics should be checked against current mechanical exhaust additions.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Cottage Grove, MN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Cottage Grove, MN coverage windows and verified intake details.
+Step: map ventilation intake and exhaust pairs for Cottage Grove, MN attic runs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55016.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 55016 zone).
+Attic ventilation deficits in Cottage Grove, MN can mimic roof leaks at ceiling penetrations.
 
-Field note: Moisture pathway inspection logged near ZIP 55016 intake.
+We coordinate Cottage Grove, MN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 55016 (county grid: Washington County).
+Scope trace: ridge cap nail schedule plus chimney cricket slope referenced in Washington County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 55016.
+
+Coordinate-anchored dispatch note: center reference 44.8200, -92.9300 at elevation ~807 ft aligns with Washington County intake staging.
+
+Primary postal anchor 55016 with multi-ZIP overlap in Cottage Grove; field packets tag Washington County for county-grid reconciliation.
 
 Service reference: MN-55016-56b4a57a

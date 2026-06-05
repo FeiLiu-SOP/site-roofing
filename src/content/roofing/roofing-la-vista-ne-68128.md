@@ -11,26 +11,31 @@ lng: -96.0700
 zipSample: ["68128"]
 zipCodes: ["68128"]
 localPaths: ["Sarpy County / ZIP 68128 sector", "Sarpy County / primary ZIP 68128", "Sarpy County / elevation 1115 ft band", "Sarpy County / coords 41.1800, -96.0700"]
-zillowHomeValueUsd: 309849
 ---
 
 **Engineering Notice for La Vista:** Structural loading calculated based on 1115 ft terrain assessment. Regional dispatch grid: Sarpy County.
 
 
-Our service coordination centers on La Vista, NE coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for La Vista, NE.
 
-Tip: request a written scope before work starts.
+FAQ: When should permanent remediation start? In La Vista, NE, delayed dry-in can expand insulation and ceiling repairs.
 
-In La Vista, NE, urgent roof work issues can escalate quickly.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across La Vista, NE, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in La Vista, NE can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 68128 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 68128 coverage.
+Code context: Ventilation ratios for La Vista, NE attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 68128 (county grid: Sarpy County).
+roof work brief: deck sheathing thickness and counter-flashing reglet depth were cross-checked for the La Vista intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 68128.
+
+ZIP-corridor snapshot for La Vista, NE: sampled sectors include 68128; county routing grid remains Sarpy County.
+
+On-site sector marker: Sarpy County / elevation 1115 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-68128-b9c783ef

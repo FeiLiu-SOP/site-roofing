@@ -11,24 +11,31 @@ lng: -122.0400
 zipSample: ["94598", "94597", "94596", "94595"]
 zipCodes: ["94595", "94597", "94596", "94598"]
 localPaths: ["Contra Costa County / ZIP 94596 sector", "Contra Costa County / ZIP 94597 sector", "Contra Costa County / ZIP 94598 sector", "Contra Costa County / coords 37.9000, -122.0400", "Contra Costa County / ZIP 94595 sector"]
-zillowHomeValueUsd: 1004211
 ---
 
 **Engineering Notice for Walnut Creek:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-Our service coordination centers on Walnut Creek, CA coverage windows and verified intake details.
+Metal panel oil-canning in Walnut Creek, CA may signal clip spacing issues, not wind damage alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: Walnut Creek, CA exposure class can change starter-strip and cap nail schedules.
 
-Homeowners in Walnut Creek, CA often face sudden roof work problems that require fast action.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Walnut Creek, CA, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Moisture pathway inspection logged near ZIP 94596/94597/94595 intake.
+FAQ: Is partial dry-in possible? In Walnut Creek, CA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 94596, 94597, 94595, 94598 (county grid: Contra Costa County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: ridge cap nail schedule paired with chimney cricket slope near ZIP 94597.
+
+Field note: Attic moisture pathway scan referenced ZIP 94598/94595/94597.
+
+On-site sector marker: Contra Costa County / primary ZIP 94597 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 94597 with multi-ZIP overlap in Walnut Creek; field packets tag Contra Costa County for county-grid reconciliation.
 
 Service reference: CA-94597-49358f9c

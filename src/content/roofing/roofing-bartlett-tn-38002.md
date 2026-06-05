@@ -11,24 +11,31 @@ lng: -89.8200
 zipSample: ["38133", "38134", "38135", "38002", "38029"]
 zipCodes: ["38133", "38135", "38134", "38002", "38029"]
 localPaths: ["Shelby County / ZIP 38134 sector", "Shelby County / ZIP 38002 sector", "Shelby County / elevation 338 ft band", "Shelby County / coords 35.2300, -89.8200", "Shelby County / ZIP 38135 sector"]
-zillowHomeValueUsd: 407809
 ---
 
 **Engineering Notice for Bartlett:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Shelby County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bartlett, TN, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-A written scope helps prevent rework and mismatched expectations.
+We coordinate Bartlett, TN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can you tarp only part of the roof? In Bartlett, TN, yes—if slope and anchor points support safe tie-offs.
 
-In Bartlett, TN, urgent roofing service issues can escalate quickly.
+Skylight curb flashing in Bartlett, TN should be sequenced before ridge cap replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 38133/38029/38135 intake.
+Risk flag: Tile underlayment age in Bartlett, TN can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 38133, 38029, 38135, 38134, 38002 (county grid: Shelby County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Field routing: synthetic underlayment slip paired with soffit intake free area near ZIP 38002.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 38135/38029/38134.
+
+On-site sector marker: Shelby County / ZIP 38029 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Bartlett, TN: sampled sectors include 38134, 38135, 38029, 38002, 38133; county routing grid remains Shelby County.
 
 Service reference: TN-38002-63bfa702

@@ -11,24 +11,35 @@ lng: -121.9000
 zipSample: ["94565"]
 zipCodes: ["94565"]
 localPaths: ["Contra Costa County / elevation 56 ft band", "Contra Costa County / coords 38.0200, -121.9000", "Contra Costa County / primary ZIP 94565", "Contra Costa County / ZIP 94565 sector"]
-zillowHomeValueUsd: 569598
 ---
 
 **Engineering Notice for Pittsburg:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-Our service coordination centers on Pittsburg, CA coverage windows and verified intake details.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map ventilation intake and exhaust pairs for Pittsburg, CA attic runs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Pittsburg, CA, but intake notes help reduce delays.
+FAQ: When should permanent remediation start? In Pittsburg, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Tile underlayment age in Pittsburg, CA can fail independently of visible tile cracks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Pittsburg, CA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 94565.
+Material note: In Pittsburg, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 94565 (county grid: Contra Costa County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Granule embedment loss on Pittsburg, CA north slopes can precede mat exposure.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Contra Costa County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 94565.
+
+ZIP-corridor snapshot for Pittsburg, CA: sampled sectors include 94565; county routing grid remains Contra Costa County.
+
+Coordinate-anchored dispatch note: center reference 38.0200, -121.9000 at elevation ~56 ft aligns with Contra Costa County intake staging.
 
 Service reference: CA-94565-3bf8eeb1

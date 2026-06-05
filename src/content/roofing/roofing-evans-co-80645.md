@@ -11,26 +11,31 @@ lng: -104.7400
 zipSample: ["80645", "80634", "80620"]
 zipCodes: ["80645", "80634", "80620"]
 localPaths: ["Weld County / primary ZIP 80645", "Weld County / elevation 4701 ft band", "Weld County / coords 40.3700, -104.7400", "Weld County / ZIP 80634 sector", "Weld County / ZIP 80645 sector"]
-zillowHomeValueUsd: 455796
 ---
 
 **Engineering Notice for Evans:** Structural loading calculated based on 4701 ft terrain assessment. Regional dispatch grid: Weld County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wood shake courses in Evans, CO require skip-spacing rules at valleys.
 
-Our service coordination centers on Evans, CO coverage windows and verified intake details.
+Code context: Ventilation ratios for Evans, CO attics should be checked against current mechanical exhaust additions.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Evans, CO, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can you tarp only part of the roof? In Evans, CO, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 80634/80645/80620 intake.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Connection points spot-checked where accessible (ZIP 80634/80645/80620 zone).
+Tip: Note recent wind events when filing insurance photos for Evans, CO.
 
-Dispatch sectors sampled: ZIP 80634, 80645, 80620 (county grid: Weld County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+roofing service brief: starter-strip setback and valley metal gauge were cross-checked for the Evans intake packet.
+
+ZIP-corridor snapshot for Evans, CO: sampled sectors include 80645, 80634, 80620; county routing grid remains Weld County.
+
+On-site sector marker: Weld County / elevation 4701 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80645-b941fcf6

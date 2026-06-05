@@ -11,24 +11,33 @@ lng: -73.4100
 zipSample: ["11747", "11775"]
 zipCodes: ["11775", "11747"]
 localPaths: ["Suffolk County / elevation 135 ft band", "Suffolk County / ZIP 11747 sector", "Suffolk County / primary ZIP 11747", "Suffolk County / ZIP 11775 sector", "Suffolk County / coords 40.7800, -73.4100"]
-zillowHomeValueUsd: 870055
 ---
 
 **Engineering Notice for Melville:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-In Melville, NY, seasonal demand can change scheduling windows.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should permanent service start? In Melville, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Freeze-thaw cycles around Melville, NY stress nail pops along eaves and rake edges.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Melville, NY, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Wind exposure category reviewed for ZIP sector 11775/11747.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 11775, 11747 (county grid: Suffolk County).
+Regulatory note: Melville, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+roofing service brief: starter-strip setback and ice-barrier lap sequence were cross-checked for the Melville intake packet.
+
+On-site sector marker: Suffolk County / primary ZIP 11747 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Suffolk County: moisture and logistics baselines are keyed to Melville, NY before niche-specific work begins.
 
 Service reference: NY-11747-68465576

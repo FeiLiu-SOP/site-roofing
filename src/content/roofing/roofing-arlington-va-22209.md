@@ -11,26 +11,35 @@ lng: -77.1000
 zipSample: ["22243", "22241", "22207", "22245", "22230"]
 zipCodes: ["22240", "22201", "22206", "22243", "22202", "22204", "22244", "22211", "22350", "22205", "22227", "22216"]
 localPaths: ["Arlington County / ZIP 22230 sector", "Arlington County / ZIP 22243 sector", "Arlington County / ZIP 22245 sector", "Arlington County / ZIP 22241 sector", "Arlington County / primary ZIP 22209"]
-zillowHomeValueUsd: 726640
 ---
 
 **Engineering Notice for Arlington:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Arlington County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Arlington, VA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Arlington, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: stage tear-off debris paths away from landscape drains.
 
-Our service coordination centers on Arlington, VA coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Arlington, VA can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 22350/22241/22230 zone).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Moisture pathway inspection logged near ZIP 22350/22241/22230 intake.
+Coastal humidity in Arlington, VA can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 22350, 22241, 22230, 22213, 22246 (county grid: Arlington County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Scope trace: drip-edge metal profile plus chimney cricket slope referenced in Arlington County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 22227/22212/22245.
+
+Coordinate-anchored dispatch note: center reference 38.8800, -77.1000 at elevation ~282 ft aligns with Arlington County intake staging.
+
+Primary postal anchor 22209 with multi-ZIP overlap in Arlington; field packets tag Arlington County for county-grid reconciliation.
 
 Service reference: VA-22209-8c4c439d

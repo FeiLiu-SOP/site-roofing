@@ -11,25 +11,31 @@ lng: -117.6600
 zipSample: ["91784", "91786", "91785"]
 zipCodes: ["91785", "91784", "91786"]
 localPaths: ["San Bernardino County / elevation 1483 ft band", "San Bernardino County / primary ZIP 91784", "San Bernardino County / coords 34.1200, -117.6600", "San Bernardino County / ZIP 91784 sector", "San Bernardino County / ZIP 91785 sector"]
-zillowHomeValueUsd: 986160
 ---
 
 **Engineering Notice for Upland:** Structural loading calculated based on 1483 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-We coordinate local dispatch coverage around Upland, CA and nearby ZIP sectors.
+We coordinate Upland, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 91784.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-A written scope helps prevent rework and mismatched expectations.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Upland, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91786/91784/91785.
+Metal panel oil-canning in Upland, CA may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 91786, 91784, 91785 (county grid: San Bernardino County).
+FAQ: Is partial dry-in possible? In Upland, CA, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: starter-strip setback paired with valley metal gauge near ZIP 91784.
+
+Field note: Attic moisture pathway scan referenced ZIP 91785/91784/91786.
+
+On-site sector marker: San Bernardino County / ZIP 91786 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Bernardino County / coords 34.1200, -117.6600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91784-d23bd12f

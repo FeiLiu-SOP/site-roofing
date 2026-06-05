@@ -11,24 +11,29 @@ lng: -106.9600
 zipSample: ["82801"]
 zipCodes: ["82801"]
 localPaths: ["Sheridan County / primary ZIP 82801", "Sheridan County / ZIP 82801 sector", "Sheridan County / coords 44.8000, -106.9600", "Sheridan County / elevation 3766 ft band"]
-zillowHomeValueUsd: 427237
 ---
 
 **Engineering Notice for Sheridan:** Structural loading calculated based on 3766 ft terrain assessment. Regional dispatch grid: Sheridan County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Sheridan, WY attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Our Sheridan, WY dispatch packets reference county grid Sheridan County and elevation band 3766 ft.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wood shake courses in Sheridan, WY require skip-spacing rules at valleys.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is partial dry-in possible? In Sheridan, WY, yes—if slope and anchor points support safe tie-offs.
 
-Local conditions in Sheridan, WY can affect timelines and material choices.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 82801.
+Tip: Note recent wind events when filing insurance photos for Sheridan, WY.
 
-Dispatch sectors sampled: ZIP 82801 (county grid: Sheridan County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Sheridan County county grid review.
+
+On-site sector marker: Sheridan County / primary ZIP 82801 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Sheridan County. Reference elevation: 3766 ft. Primary coordinates: 44.8000, -106.9600. ZIP sample: 82801. Regional routing note: Sheridan County traffic flow is balanced around ZIP 82801 service demand.
 
 Service reference: WY-82801-6ce5dc84

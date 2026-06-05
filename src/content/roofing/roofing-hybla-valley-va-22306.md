@@ -11,25 +11,35 @@ lng: -77.0800
 zipSample: ["22306"]
 zipCodes: ["22306"]
 localPaths: ["Fairfax County / coords 38.7500, -77.0800", "Fairfax County / elevation 43 ft band", "Fairfax County / primary ZIP 22306", "Fairfax County / ZIP 22306 sector"]
-zillowHomeValueUsd: 641855
 ---
 
 **Engineering Notice for Hybla Valley:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can you tarp only part of the roof? In Hybla Valley, VA, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for Hybla Valley, VA attics should be checked against current mechanical exhaust additions.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 22306.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 22306 coverage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 22306 (county grid: Fairfax County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 22306.
+
+Low-slope sections in Hybla Valley, VA need positive drainage before membrane repairs are scoped.
+
+Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 22306.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 22306.
+
+**Regional Infrastructure Brief:** Grid anchor set to Fairfax County. Reference elevation: 43 ft. Primary coordinates: 38.7500, -77.0800. ZIP sample: 22306. Regional routing note: Fairfax County traffic flow is balanced around ZIP 22306 service demand.
+
+Coordinate-anchored dispatch note: center reference 38.7500, -77.0800 at elevation ~43 ft aligns with Fairfax County intake staging.
 
 Service reference: VA-22306-19263f96

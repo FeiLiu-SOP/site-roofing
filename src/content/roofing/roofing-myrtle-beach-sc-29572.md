@@ -11,26 +11,33 @@ lng: -78.8800
 zipSample: ["29578", "29577", "29572"]
 zipCodes: ["29578", "29572", "29577"]
 localPaths: ["Horry County / ZIP 29572 sector", "Horry County / ZIP 29578 sector", "Horry County / elevation 3 ft band", "Horry County / ZIP 29577 sector", "Horry County / primary ZIP 29572"]
-zillowHomeValueUsd: 316463
 ---
 
 **Engineering Notice for Myrtle Beach:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Horry County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: compare shingle manufacturer wind-zone ratings for Myrtle Beach, SC exposure class.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Myrtle Beach, SC, but intake notes help reduce delays.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Homeowners in Myrtle Beach, SC often face sudden roofing service problems that require fast action.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Our service coordination centers on Myrtle Beach, SC coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Myrtle Beach, SC can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Myrtle Beach, SC exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 29577/29572/29578.
+FAQ: Can you tarp only part of the roof? In Myrtle Beach, SC, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 29577/29572/29578 intake.
+Granule embedment loss on Myrtle Beach, SC north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 29577, 29572, 29578 (county grid: Horry County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Scope trace: valley metal gauge plus skylight curb height referenced in Horry County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 29577/29578/29572.
+
+On-site sector marker: Horry County / ZIP 29572 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Horry County / elevation 3 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29572-e77fdc4d

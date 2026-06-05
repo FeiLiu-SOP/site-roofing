@@ -11,24 +11,33 @@ lng: -80.0800
 zipSample: ["27284", "27285"]
 zipCodes: ["27285", "27284"]
 localPaths: ["Forsyth County / elevation 951 ft band", "Forsyth County / ZIP 27284 sector", "Forsyth County / ZIP 27285 sector", "Forsyth County / primary ZIP 27284", "Forsyth County / coords 36.1100, -80.0800"]
-zillowHomeValueUsd: 322972
 ---
 
 **Engineering Notice for Kernersville:** Structural loading calculated based on 951 ft terrain assessment. Regional dispatch grid: Forsyth County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Note recent wind events when filing insurance photos for Kernersville, NC.
 
-Homeowners in Kernersville, NC often face sudden roof work problems that require fast action.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Structured milestones protect both sides when scheduling work.
+Tile and shingle mixes in Kernersville, NC require different fastener patterns at transitions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kernersville, NC, but intake notes help reduce delays.
+Risk flag: In Kernersville, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 27284/27285 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 27284, 27285 (county grid: Forsyth County).
+Material note: In Kernersville, NC, algae-resistant granules may be specified for north-facing slopes.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: valley metal gauge plus starter-strip setback referenced in Forsyth County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 27285/27284.
+
+On-site sector marker: Forsyth County / primary ZIP 27284 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 36.1100, -80.0800 at elevation ~951 ft aligns with Forsyth County intake staging.
 
 Service reference: NC-27284-491670bf

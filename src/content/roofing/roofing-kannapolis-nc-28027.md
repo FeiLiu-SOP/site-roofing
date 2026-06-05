@@ -11,26 +11,33 @@ lng: -80.6400
 zipSample: ["28083", "28081", "28082", "28027"]
 zipCodes: ["28083", "28027", "28082", "28081"]
 localPaths: ["Cabarrus County / ZIP 28081 sector", "Cabarrus County / ZIP 28027 sector", "Cabarrus County / primary ZIP 28027", "Cabarrus County / ZIP 28082 sector", "Cabarrus County / ZIP 28083 sector"]
-zillowHomeValueUsd: 414963
 ---
 
 **Engineering Notice for Kannapolis:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Cabarrus County.
 
 
-Our service coordination centers on Kannapolis, NC coverage windows and verified intake details.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Tile underlayment age in Kannapolis, NC can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kannapolis, NC, but intake notes help reduce delays.
+Code context: Ventilation ratios for Kannapolis, NC attics should be checked against current mechanical exhaust additions.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: separate emergency tarp scope from permanent service line items.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can you tarp only part of the roof? In Kannapolis, NC, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28082/28081/28083.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 28082/28081/28083.
+Coastal humidity in Kannapolis, NC can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 28082, 28081, 28083, 28027 (county grid: Cabarrus County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: valley metal gauge paired with pipe boot manufacturer match near ZIP 28027.
+
+Field note: Valley debris and granule loss noted for ZIP 28081/28083/28027.
+
+On-site sector marker: Cabarrus County / ZIP 28082 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cabarrus County / elevation 761 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28027-405cfd39

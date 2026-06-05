@@ -11,24 +11,31 @@ lng: -74.2700
 zipSample: ["08861", "08862"]
 zipCodes: ["08861", "08862"]
 localPaths: ["Middlesex County / ZIP 08862 sector", "Middlesex County / ZIP 08861 sector", "Middlesex County / elevation 85 ft band", "Middlesex County / coords 40.5200, -74.2700", "Middlesex County / primary ZIP 08861"]
-zillowHomeValueUsd: 495669
 ---
 
 **Engineering Notice for Perth Amboy:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Step: compare shingle manufacturer wind-zone ratings for Perth Amboy, NJ exposure class.
 
-We coordinate local dispatch coverage around Perth Amboy, NJ and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Perth Amboy, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Synthetic underlayment slip in Perth Amboy, NJ is often tied to deck moisture, not wind alone.
 
-Field note: Access points and staging constraints recorded for ZIP 08861/08862 coverage.
+Wind-zone note: Perth Amboy, NJ exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 08861, 08862 (county grid: Middlesex County).
+FAQ: When should permanent service start? In Perth Amboy, NJ, delayed dry-in can expand insulation and ceiling repairs.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Field routing: soffit intake free area paired with ridge cap nail schedule near ZIP 08861.
+
+Coordinate-anchored dispatch note: center reference 40.5200, -74.2700 at elevation ~85 ft aligns with Middlesex County intake staging.
+
+Regional mesh label Middlesex County: moisture and logistics baselines are keyed to Perth Amboy, NJ before niche-specific work begins.
 
 Service reference: NJ-08861-bf91f8a2

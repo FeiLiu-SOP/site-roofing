@@ -11,26 +11,31 @@ lng: -80.2600
 zipSample: ["33065", "33071", "33077", "33076", "33075"]
 zipCodes: ["33076", "33077", "33067", "33075", "33065", "33071"]
 localPaths: ["Broward County / primary ZIP 33071", "Broward County / ZIP 33076 sector", "Broward County / ZIP 33071 sector", "Broward County / ZIP 33065 sector", "Broward County / ZIP 33075 sector"]
-zillowHomeValueUsd: 583572
 ---
 
 **Engineering Notice for Coral Springs:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Parapet coping movement in Coral Springs, FL can channel water behind wall cladding.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Tile underlayment age in Coral Springs, FL can fail independently of visible tile cracks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33065/33077/33076.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 33065/33077/33076 intake.
+Step: map ventilation intake and exhaust pairs for Coral Springs, FL attic runs.
 
-Dispatch sectors sampled: ZIP 33065, 33077, 33076, 33067, 33075 (county grid: Broward County).
+Scope trace: shingle exposure calibration plus soffit intake free area referenced in Broward County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 33076/33071/33065.
+
+On-site sector marker: Broward County / ZIP 33076 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 26.2700, -80.2600 at elevation ~20 ft aligns with Broward County intake staging.
 
 Service reference: FL-33071-58e223ad

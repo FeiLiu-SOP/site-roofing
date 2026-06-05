@@ -11,24 +11,33 @@ lng: -122.2600
 zipSample: ["98087", "98204"]
 zipCodes: ["98204", "98087"]
 localPaths: ["Snohomish County / ZIP 98204 sector", "Snohomish County / primary ZIP 98087", "Snohomish County / elevation 486 ft band", "Snohomish County / coords 47.8700, -122.2600", "Snohomish County / ZIP 98087 sector"]
-zillowHomeValueUsd: 751083
 ---
 
 **Engineering Notice for Lake Stickney:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lake Stickney, WA, but intake notes help reduce delays.
+Risk flag: In Lake Stickney, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wood shake courses in Lake Stickney, WA require skip-spacing rules at valleys.
 
-Tip: confirm licensing and insurance before approving work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Lake Stickney, WA attics should be checked against current mechanical exhaust additions.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Lake Stickney, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98204/98087.
+Material note: In Lake Stickney, WA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 98204, 98087 (county grid: Snohomish County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+roof service brief: soffit intake free area and shingle exposure calibration were cross-checked for the Lake Stickney intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 98204/98087.
+
+On-site sector marker: Snohomish County / elevation 486 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Snohomish County / ZIP 98204 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98087-37238aaa

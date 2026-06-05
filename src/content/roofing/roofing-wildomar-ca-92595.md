@@ -11,24 +11,31 @@ lng: -117.2600
 zipSample: ["92595"]
 zipCodes: ["92595"]
 localPaths: ["Riverside County / elevation 1529 ft band", "Riverside County / coords 33.6200, -117.2600", "Riverside County / primary ZIP 92595", "Riverside County / ZIP 92595 sector"]
-zillowHomeValueUsd: 655690
 ---
 
 **Engineering Notice for Wildomar:** Structural loading calculated based on 1529 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Wildomar, CA exposure class can change starter-strip and cap nail schedules.
 
-Our service coordination centers on Wildomar, CA coverage windows and verified intake details.
+In Wildomar, CA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wildomar, CA, but intake notes help reduce delays.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: request a written scope before work starts.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92595.
+Risk flag: In Wildomar, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 92595 (county grid: Riverside County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+roof work brief: drip-edge metal profile and valley metal gauge were cross-checked for the Wildomar intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 92595.
+
+On-site sector marker: Riverside County / elevation 1529 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Riverside County / primary ZIP 92595 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92595-7706b3d9

@@ -11,26 +11,31 @@ lng: -72.2100
 zipSample: ["06226", "06256"]
 zipCodes: ["06226", "06256"]
 localPaths: ["Southeastern Connecticut County / primary ZIP 06256", "Southeastern Connecticut County / elevation 384 ft band", "Southeastern Connecticut County / coords 41.7200, -72.2100", "Southeastern Connecticut County / ZIP 06256 sector", "Southeastern Connecticut County / ZIP 06226 sector"]
-zillowHomeValueUsd: 303886
 ---
 
 **Engineering Notice for Willimantic:** Structural loading calculated based on 384 ft terrain assessment. Regional dispatch grid: Southeastern Connecticut County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Willimantic, CT, but intake notes help reduce delays.
+FAQ: When should permanent remediation start? In Willimantic, CT, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wood shake courses in Willimantic, CT require skip-spacing rules at valleys.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Wind exposure category reviewed for ZIP sector 06256/06226.
+Step: compare shingle manufacturer wind-zone ratings for Willimantic, CT exposure class.
 
-Field note: Access points and staging constraints recorded for ZIP 06256/06226 coverage.
+Wind-zone note: Willimantic, CT exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 06256, 06226 (county grid: Southeastern Connecticut County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: shingle exposure calibration paired with synthetic underlayment slip near ZIP 06256.
+
+Regional mesh label Southeastern Connecticut County: moisture and logistics baselines are keyed to Willimantic, CT before niche-specific work begins.
+
+On-site sector marker: Southeastern Connecticut County / coords 41.7200, -72.2100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06256-477f07e8

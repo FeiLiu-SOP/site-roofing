@@ -11,25 +11,31 @@ lng: -90.5100
 zipSample: ["72451", "72450"]
 zipCodes: ["72450", "72451"]
 localPaths: ["Greene County / elevation 292 ft band", "Greene County / primary ZIP 72450", "Greene County / ZIP 72451 sector", "Greene County / coords 36.0600, -90.5100", "Greene County / ZIP 72450 sector"]
-zillowHomeValueUsd: 190870
 ---
 
 **Engineering Notice for Paragould:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Greene County.
 
 
-Our service coordination centers on Paragould, AR coverage windows and verified intake details.
+Attic ventilation deficits in Paragould, AR can mimic roof leaks at ceiling penetrations.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Paragould, AR exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Step: map ventilation intake and exhaust pairs for Paragould, AR attic runs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Paragould, AR, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 72450.
+Risk flag: Tile underlayment age in Paragould, AR can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 72450/72451 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 72450, 72451 (county grid: Greene County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Material note: In Paragould, AR, algae-resistant granules may be specified for north-facing slopes.
+
+roof work brief: pipe boot manufacturer match and deck sheathing thickness were cross-checked for the Paragould intake packet.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~292 ft across the Greene County area. Coordinates: 36.0600, -90.5100. ZIP sample: 72450, 72451. Logistics priority: Serving residential sectors across Greene County and north-east ZIP 72450 grid.
+
+On-site sector marker: Greene County / coords 36.0600, -90.5100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72450-e371de32

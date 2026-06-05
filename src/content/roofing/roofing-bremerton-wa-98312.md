@@ -11,26 +11,31 @@ lng: -122.7100
 zipSample: ["98312", "98310", "98337", "98314"]
 zipCodes: ["98310", "98337", "98314", "98312"]
 localPaths: ["Kitsap County / ZIP 98314 sector", "Kitsap County / coords 47.5400, -122.7100", "Kitsap County / ZIP 98310 sector", "Kitsap County / primary ZIP 98312", "Kitsap County / ZIP 98312 sector"]
-zillowHomeValueUsd: 497753
 ---
 
 **Engineering Notice for Bremerton:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Kitsap County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Clear documentation helps align materials, labor, and timeline.
+Regulatory note: Bremerton, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: request a written scope before work starts.
+Tile and shingle mixes in Bremerton, WA require different fastener patterns at transitions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bremerton, WA, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-We coordinate local dispatch coverage around Bremerton, WA and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 98312/98310/98314 zone).
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Access points and staging constraints recorded for ZIP 98312/98310/98314 coverage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 98312, 98310, 98314, 98337 (county grid: Kitsap County).
+roof work brief: ridge cap nail schedule and pipe boot manufacturer match were cross-checked for the Bremerton intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98314/98310/98337.
+
+On-site sector marker: Kitsap County / ZIP 98312 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Bremerton, WA: sampled sectors include 98312, 98314, 98337, 98310; county routing grid remains Kitsap County.
 
 Service reference: WA-98312-91753c0c

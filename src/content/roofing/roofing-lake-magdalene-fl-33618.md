@@ -11,26 +11,33 @@ lng: -82.4800
 zipSample: ["33694", "33613", "33682", "33612", "33618"]
 zipCodes: ["33613", "33612", "33694", "33618", "33682"]
 localPaths: ["Hillsborough County / ZIP 33694 sector", "Hillsborough County / primary ZIP 33618", "Hillsborough County / ZIP 33618 sector", "Hillsborough County / elevation 52 ft band", "Hillsborough County / ZIP 33613 sector"]
-zillowHomeValueUsd: 470228
 ---
 
 **Engineering Notice for Lake Magdalene:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Lake Magdalene, FL, but intake notes help reduce delays.
+Low-slope sections in Lake Magdalene, FL need positive drainage before membrane repairs are scoped.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Homeowners in Lake Magdalene, FL often face sudden roof service problems that require fast action.
+Risk flag: In Lake Magdalene, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: confirm licensing and insurance before approving work.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 33613/33612/33694 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 33613/33612/33694.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 33613, 33612, 33694, 33618, 33682 (county grid: Hillsborough County).
+Regulatory note: Lake Magdalene, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: skylight curb height paired with deck sheathing thickness near ZIP 33618.
+
+Field note: Valley debris and granule loss noted for ZIP 33618/33612/33613.
+
+Coordinate-anchored dispatch note: center reference 28.0900, -82.4800 at elevation ~52 ft aligns with Hillsborough County intake staging.
+
+On-site sector marker: Hillsborough County / primary ZIP 33618 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33618-92075906

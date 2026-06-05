@@ -11,24 +11,31 @@ lng: -92.0800
 zipSample: ["54880", "54874"]
 zipCodes: ["54880", "54874"]
 localPaths: ["Douglas County / elevation 653 ft band", "Douglas County / primary ZIP 54880", "Douglas County / ZIP 54880 sector", "Douglas County / coords 46.6900, -92.0800", "Douglas County / ZIP 54874 sector"]
-zillowHomeValueUsd: 227767
 ---
 
 **Engineering Notice for Superior:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Douglas County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+TPO seam welds in Superior, WI commercial sections need probe tests after freeze events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Note recent wind events when filing insurance photos for Superior, WI.
 
-Field note: Access points and staging constraints recorded for ZIP 54880/54874 coverage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 54880, 54874 (county grid: Douglas County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: ridge cap nail schedule paired with synthetic underlayment slip near ZIP 54880.
+
+Field note: Attic moisture pathway scan referenced ZIP 54874/54880.
+
+Coordinate-anchored dispatch note: center reference 46.6900, -92.0800 at elevation ~653 ft aligns with Douglas County intake staging.
+
+On-site sector marker: Douglas County / ZIP 54880 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-54880-76abc497

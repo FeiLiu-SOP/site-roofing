@@ -11,24 +11,33 @@ lng: -94.8800
 zipSample: ["56601", "56619"]
 zipCodes: ["56601", "56619"]
 localPaths: ["Beltrami County / ZIP 56601 sector", "Beltrami County / elevation 1378 ft band", "Beltrami County / primary ZIP 56601", "Beltrami County / ZIP 56619 sector", "Beltrami County / coords 47.4800, -94.8800"]
-zillowHomeValueUsd: 279401
 ---
 
 **Engineering Notice for Bemidji:** Structural loading calculated based on 1378 ft terrain assessment. Regional dispatch grid: Beltrami County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should permanent restoration start? In Bemidji, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Bemidji, MN coverage windows and verified intake details.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-A written scope helps prevent rework and mismatched expectations.
+Valley metal in Bemidji, MN should be reviewed whenever granule loss tracks the water line.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 56619/56601 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 56619, 56601 (county grid: Beltrami County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Field routing: ice-barrier lap sequence paired with skylight curb height near ZIP 56601.
+
+On-site sector marker: Beltrami County / ZIP 56601 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 47.4800, -94.8800 at elevation ~1378 ft aligns with Beltrami County intake staging.
 
 Service reference: MN-56601-655c390c

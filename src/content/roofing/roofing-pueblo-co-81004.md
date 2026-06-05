@@ -11,24 +11,31 @@ lng: -104.6100
 zipSample: ["81001", "81012", "81004", "81011", "81002"]
 zipCodes: ["81008", "81003", "81004", "81011", "81002", "81012", "81005", "81010", "81001"]
 localPaths: ["Pueblo County / elevation 4669 ft band", "Pueblo County / ZIP 81012 sector", "Pueblo County / ZIP 81002 sector", "Pueblo County / ZIP 81011 sector", "Pueblo County / ZIP 81004 sector"]
-zillowHomeValueUsd: 195460
 ---
 
 **Engineering Notice for Pueblo:** Structural loading calculated based on 4669 ft terrain assessment. Regional dispatch grid: Pueblo County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pueblo, CO, but intake notes help reduce delays.
+FAQ: Can you tarp only part of the roof? In Pueblo, CO, yes—if slope and anchor points support safe tie-offs.
 
-Our service coordination centers on Pueblo, CO coverage windows and verified intake details.
+Synthetic underlayment slip in Pueblo, CO is often tied to deck moisture, not wind alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Note recent wind events when filing insurance photos for Pueblo, CO.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Pueblo, CO can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 81011/81008/81003 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 81011, 81008, 81003, 81005, 81010 (county grid: Pueblo County).
+Regulatory note: Pueblo, CO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: drip-edge metal profile paired with pipe boot manufacturer match near ZIP 81004.
+
+On-site sector marker: Pueblo County / coords 38.2700, -104.6100 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Pueblo County and primary ZIP 81004. Terrain reference: 4669 ft. Center point: 38.2700, -104.6100. ZIP sample: 81005, 81010, 81011, 81004, 81008. Logistics priority: Serving residential sectors across Pueblo County and north-east ZIP 81004 grid.
 
 Service reference: CO-81004-3731f827

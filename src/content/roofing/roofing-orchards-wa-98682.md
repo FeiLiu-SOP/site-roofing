@@ -11,26 +11,31 @@ lng: -122.5300
 zipSample: ["98682"]
 zipCodes: ["98682"]
 localPaths: ["Clark County / primary ZIP 98682", "Clark County / ZIP 98682 sector", "Clark County / coords 45.6900, -122.5300", "Clark County / elevation 279 ft band"]
-zillowHomeValueUsd: 502130
 ---
 
 **Engineering Notice for Orchards:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-Our service coordination centers on Orchards, WA coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In Orchards, WA, yes—if slope and anchor points support safe tie-offs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Parapet coping movement in Orchards, WA can channel water behind wall cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Orchards, WA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Orchards, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 98682.
+Material note: In Orchards, WA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Connection points spot-checked where accessible (ZIP 98682 zone).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 98682 (county grid: Clark County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Field routing: shingle exposure calibration paired with pipe boot manufacturer match near ZIP 98682.
+
+Regional mesh label Clark County: moisture and logistics baselines are keyed to Orchards, WA before niche-specific work begins.
+
+Primary postal anchor 98682 with multi-ZIP overlap in Orchards; field packets tag Clark County for county-grid reconciliation.
 
 Service reference: WA-98682-1d7eb8d0

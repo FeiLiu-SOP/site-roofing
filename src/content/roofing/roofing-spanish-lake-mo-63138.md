@@ -11,25 +11,33 @@ lng: -90.2100
 zipSample: ["63138"]
 zipCodes: ["63138"]
 localPaths: ["St. Louis County / elevation 531 ft band", "St. Louis County / coords 38.7900, -90.2100", "St. Louis County / ZIP 63138 sector", "St. Louis County / primary ZIP 63138"]
-zillowHomeValueUsd: 148373
 ---
 
 **Engineering Notice for Spanish Lake:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+TPO seam welds in Spanish Lake, MO commercial sections need probe tests after freeze events.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 63138.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: request a written scope before work starts.
+Wind-zone note: Spanish Lake, MO exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Spanish Lake, MO, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 63138.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 63138 (county grid: St. Louis County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Scope trace: soffit intake free area plus shingle exposure calibration referenced in St. Louis County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 63138.
+
+ZIP-corridor snapshot for Spanish Lake, MO: sampled sectors include 63138; county routing grid remains St. Louis County.
+
+On-site sector marker: St. Louis County / elevation 531 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63138-962bf6e7

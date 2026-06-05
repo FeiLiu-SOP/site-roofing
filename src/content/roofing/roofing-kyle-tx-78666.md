@@ -11,25 +11,31 @@ lng: -97.8900
 zipSample: ["78666", "78640"]
 zipCodes: ["78666", "78640"]
 localPaths: ["Hays County / ZIP 78666 sector", "Hays County / elevation 764 ft band", "Hays County / coords 29.9900, -97.8900", "Hays County / primary ZIP 78666", "Hays County / ZIP 78640 sector"]
-zillowHomeValueUsd: 313976
 ---
 
 **Engineering Notice for Kyle:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Hays County.
 
 
-Local conditions in Kyle, TX can affect timelines and material choices.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: request a written scope before work starts.
+TPO seam welds in Kyle, TX commercial sections need probe tests after freeze events.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 78666.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Kyle, TX attics should be checked against current mechanical exhaust additions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kyle, TX, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 78640/78666 intake.
+FAQ: When should permanent service start? In Kyle, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 78640, 78666 (county grid: Hays County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Scope trace: soffit intake free area plus shingle exposure calibration referenced in Hays County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 78666/78640.
+
+Primary postal anchor 78666 with multi-ZIP overlap in Kyle; field packets tag Hays County for county-grid reconciliation.
+
+Regional mesh label Hays County: moisture and logistics baselines are keyed to Kyle, TX before niche-specific work begins.
 
 Service reference: TX-78666-b87a5fc9

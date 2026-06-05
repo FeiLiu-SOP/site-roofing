@@ -11,27 +11,31 @@ lng: -76.4300
 zipSample: ["21220"]
 zipCodes: ["21220"]
 localPaths: ["Baltimore County / primary ZIP 21220", "Baltimore County / ZIP 21220 sector", "Baltimore County / coords 39.3400, -76.4300", "Baltimore County / elevation 89 ft band"]
-zillowHomeValueUsd: 333155
 ---
 
 **Engineering Notice for Middle River:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Baltimore County.
 
 
-In Middle River, MD, urgent roofing service issues can escalate quickly.
+Wind-zone note: Middle River, MD exposure class can change starter-strip and cap nail schedules.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: In Middle River, MD, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Our service coordination centers on Middle River, MD coverage windows and verified intake details.
+Step: stage tear-off debris paths away from landscape drains.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 21220.
+Our Middle River, MD dispatch packets reference county grid Baltimore County and elevation band 89 ft.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21220.
+FAQ: When should permanent remediation start? In Middle River, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 21220 zone).
+Skylight curb flashing in Middle River, MD should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 21220 (county grid: Baltimore County).
+Risk flag: Tile underlayment age in Middle River, MD can fail independently of visible tile cracks.
+
+Field routing: attic baffle spacing paired with skylight curb height near ZIP 21220.
+
+Coordinate-anchored dispatch note: center reference 39.3400, -76.4300 at elevation ~89 ft aligns with Baltimore County intake staging.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~89 ft across the Baltimore County area. Coordinates: 39.3400, -76.4300. ZIP sample: 21220. Service perimeter note: Coverage extends through Baltimore County with dispatch centered near ZIP 21220.
 
 Service reference: MD-21220-60909fce

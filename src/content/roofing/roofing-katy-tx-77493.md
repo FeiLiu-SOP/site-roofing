@@ -11,26 +11,31 @@ lng: -95.8400
 zipSample: ["77493", "77491", "77494"]
 zipCodes: ["77494", "77493", "77491"]
 localPaths: ["Waller County / ZIP 77491 sector", "Waller County / ZIP 77493 sector", "Waller County / primary ZIP 77493", "Waller County / coords 29.7900, -95.8400", "Waller County / elevation 148 ft band"]
-zillowHomeValueUsd: 344070
 ---
 
 **Engineering Notice for Katy:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Waller County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Across Katy, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Katy, TX, but intake notes help reduce delays.
+Regulatory note: Katy, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 77494/77491/77493.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Access points and staging constraints recorded for ZIP 77494/77491/77493 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 77494, 77491, 77493 (county grid: Waller County).
+roof work brief: skylight curb height and starter-strip setback were cross-checked for the Katy intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 77493/77491/77494.
+
+On-site sector marker: Waller County / ZIP 77491 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Waller County and primary ZIP 77493. Terrain reference: 148 ft. Center point: 29.7900, -95.8400. ZIP sample: 77493, 77494, 77491. Regional routing note: Waller County traffic flow is balanced around ZIP 77493 service demand.
 
 Service reference: TX-77493-e5768f62

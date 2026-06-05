@@ -11,27 +11,31 @@ lng: -85.9600
 zipSample: ["46515", "46516", "46514", "46517"]
 zipCodes: ["46514", "46516", "46515", "46517"]
 localPaths: ["Elkhart County / ZIP 46516 sector", "Elkhart County / ZIP 46515 sector", "Elkhart County / ZIP 46517 sector", "Elkhart County / ZIP 46514 sector", "Elkhart County / elevation 751 ft band"]
-zillowHomeValueUsd: 243645
 ---
 
 **Engineering Notice for Elkhart:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Elkhart County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+In Elkhart, IN, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: request a written scope before work starts.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Our Elkhart, IN dispatch packets reference county grid Elkhart County and elevation band 751 ft.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 46514.
+Wind-zone note: Elkhart, IN exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 46515/46514/46516 intake.
+Risk flag: In Elkhart, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46515/46514/46516.
+Material note: In Elkhart, IN, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 46515, 46514, 46516, 46517 (county grid: Elkhart County).
+FAQ: Is partial dry-in possible? In Elkhart, IN, yes—if slope and anchor points support safe tie-offs.
+
+roofing service brief: valley metal gauge and wind uplift clip spacing were cross-checked for the Elkhart intake packet.
+
+Primary postal anchor 46514 with multi-ZIP overlap in Elkhart; field packets tag Elkhart County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~751 ft across the Elkhart County area. Coordinates: 41.6900, -85.9600. ZIP sample: 46515, 46516, 46517, 46514. Regional routing note: Elkhart County traffic flow is balanced around ZIP 46514 service demand.
 
 Service reference: IN-46514-d30ed8ba

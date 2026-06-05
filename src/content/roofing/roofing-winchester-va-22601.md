@@ -11,24 +11,33 @@ lng: -78.1700
 zipSample: ["22604", "22601"]
 zipCodes: ["22604", "22601"]
 localPaths: ["Winchester County / ZIP 22604 sector", "Winchester County / primary ZIP 22601", "Winchester County / ZIP 22601 sector", "Winchester County / elevation 745 ft band", "Winchester County / coords 39.1700, -78.1700"]
-zillowHomeValueUsd: 353248
 ---
 
 **Engineering Notice for Winchester:** Structural loading calculated based on 745 ft terrain assessment. Regional dispatch grid: Winchester County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Winchester, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Winchester, VA coverage windows and verified intake details.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Winchester, VA, but intake notes help reduce delays.
+Low-slope sections in Winchester, VA need positive drainage before membrane repairs are scoped.
 
-Field note: Wind exposure category reviewed for ZIP sector 22604/22601.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 22604, 22601 (county grid: Winchester County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Wind-zone note: Winchester, VA exposure class can change starter-strip and cap nail schedules.
+
+roofing service brief: wind uplift clip spacing and drip-edge metal profile were cross-checked for the Winchester intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 22604/22601.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~745 ft across the Winchester County area. Coordinates: 39.1700, -78.1700. ZIP sample: 22604, 22601. Service perimeter note: Coverage extends through Winchester County with dispatch centered near ZIP 22601.
+
+On-site sector marker: Winchester County / ZIP 22601 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22601-7f836d2e

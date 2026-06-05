@@ -11,24 +11,33 @@ lng: -82.5400
 zipSample: ["34239", "34237", "34232", "34234", "34236"]
 zipCodes: ["34239", "34237", "34236", "34234", "34276", "34232"]
 localPaths: ["Sarasota County / ZIP 34239 sector", "Sarasota County / ZIP 34234 sector", "Sarasota County / elevation 36 ft band", "Sarasota County / ZIP 34232 sector", "Sarasota County / ZIP 34236 sector"]
-zillowHomeValueUsd: 355853
 ---
 
 **Engineering Notice for Sarasota:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Sarasota County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Sarasota, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Sarasota, FL.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Sarasota, FL, but intake notes help reduce delays.
+Parapet coping movement in Sarasota, FL can channel water behind wall cladding.
 
-Tip: request a written scope before work starts.
+Wind-zone note: Sarasota, FL exposure class can change starter-strip and cap nail schedules.
 
-Field note: Access points and staging constraints recorded for ZIP 34239/34237/34234 coverage.
+Regulatory note: Sarasota, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 34239, 34237, 34234, 34232, 34276 (county grid: Sarasota County).
+Step: map ventilation intake and exhaust pairs for Sarasota, FL attic runs.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+FAQ: Can you tarp only part of the roof? In Sarasota, FL, yes—if slope and anchor points support safe tie-offs.
+
+roof service brief: ridge cap nail schedule and wind uplift clip spacing were cross-checked for the Sarasota intake packet.
+
+On-site sector marker: Sarasota County / ZIP 34236 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~36 ft across the Sarasota County area. Coordinates: 27.3400, -82.5400. ZIP sample: 34236, 34237, 34234, 34232, 34239. Logistics priority: Serving residential sectors across Sarasota County and north-east ZIP 34232 grid.
 
 Service reference: FL-34232-b37a5c73

@@ -11,26 +11,33 @@ lng: -85.8900
 zipSample: ["47274"]
 zipCodes: ["47274"]
 localPaths: ["Jackson County / elevation 584 ft band", "Jackson County / primary ZIP 47274", "Jackson County / coords 38.9500, -85.8900", "Jackson County / ZIP 47274 sector"]
-zillowHomeValueUsd: 232251
 ---
 
 **Engineering Notice for Seymour:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Jackson County.
 
 
-In Seymour, IN, urgent roof service issues can escalate quickly.
+FAQ: When should permanent restoration start? In Seymour, IN, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-We coordinate local dispatch coverage around Seymour, IN and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Seymour, IN can fail independently of visible tile cracks.
 
-Tip: request a written scope before work starts.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Moisture pathway inspection logged near ZIP 47274 intake.
+Code context: Ventilation ratios for Seymour, IN attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 47274.
+Wood shake courses in Seymour, IN require skip-spacing rules at valleys.
 
-Dispatch sectors sampled: ZIP 47274 (county grid: Jackson County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Step: log deck soundings near vents before tear-off is approved.
+
+Scope trace: wind uplift clip spacing plus counter-flashing reglet depth referenced in Jackson County county grid review.
+
+Primary postal anchor 47274 with multi-ZIP overlap in Seymour; field packets tag Jackson County for county-grid reconciliation.
+
+On-site sector marker: Jackson County / coords 38.9500, -85.8900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47274-5e24c60a

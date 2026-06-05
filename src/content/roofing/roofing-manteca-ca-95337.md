@@ -11,26 +11,31 @@ lng: -121.2300
 zipSample: ["95336", "95337"]
 zipCodes: ["95337", "95336"]
 localPaths: ["San Joaquin County / ZIP 95337 sector", "San Joaquin County / elevation 30 ft band", "San Joaquin County / coords 37.7900, -121.2300", "San Joaquin County / primary ZIP 95337", "San Joaquin County / ZIP 95336 sector"]
-zillowHomeValueUsd: 646760
 ---
 
 **Engineering Notice for Manteca:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: San Joaquin County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Manteca, CA, but intake notes help reduce delays.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Hail bruising on Manteca, CA ridges may not breach felt until the next wind event.
 
-Tip: confirm licensing and insurance before approving work.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: compare at least two estimates for scope and timeline.
+Our Manteca, CA dispatch packets reference county grid San Joaquin County and elevation band 30 ft.
 
-Field note: Access points and staging constraints recorded for ZIP 95337/95336 coverage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Connection points spot-checked where accessible (ZIP 95337/95336 zone).
+Risk flag: In Manteca, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 95337, 95336 (county grid: San Joaquin County).
+Wind-zone note: Manteca, CA exposure class can change starter-strip and cap nail schedules.
+
+roof work brief: pipe boot manufacturer match and chimney cricket slope were cross-checked for the Manteca intake packet.
+
+On-site sector marker: San Joaquin County / ZIP 95336 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Joaquin County / primary ZIP 95337 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95337-482f37e8

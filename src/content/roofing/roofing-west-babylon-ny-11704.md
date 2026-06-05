@@ -11,27 +11,29 @@ lng: -73.3600
 zipSample: ["11704"]
 zipCodes: ["11704"]
 localPaths: ["Suffolk County / ZIP 11704 sector", "Suffolk County / coords 40.7100, -73.3600", "Suffolk County / primary ZIP 11704", "Suffolk County / elevation 39 ft band"]
-zillowHomeValueUsd: 614803
 ---
 
 **Engineering Notice for West Babylon:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is partial dry-in possible? In West Babylon, NY, yes—if slope and anchor points support safe tie-offs.
 
-Our service coordination centers on West Babylon, NY coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 11704.
+Synthetic underlayment slip in West Babylon, NY is often tied to deck moisture, not wind alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 11704 intake.
+Step: map ventilation intake and exhaust pairs for West Babylon, NY attic runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 11704 zone).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 11704 (county grid: Suffolk County).
+Scope trace: pipe boot manufacturer match plus valley metal gauge referenced in Suffolk County county grid review.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Suffolk County and primary ZIP 11704. Terrain reference: 39 ft. Center point: 40.7100, -73.3600. ZIP sample: 11704. Regional routing note: Suffolk County traffic flow is balanced around ZIP 11704 service demand.
+
+On-site sector marker: Suffolk County / ZIP 11704 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11704-80ee8bec

@@ -11,24 +11,31 @@ lng: -83.6500
 zipSample: ["43402", "43403"]
 zipCodes: ["43402", "43403"]
 localPaths: ["Wood County / elevation 699 ft band", "Wood County / coords 41.3800, -83.6500", "Wood County / primary ZIP 43402", "Wood County / ZIP 43402 sector", "Wood County / ZIP 43403 sector"]
-zillowHomeValueUsd: 260865
 ---
 
 **Engineering Notice for Bowling Green:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Wood County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Code context: Ventilation ratios for Bowling Green, OH attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Bowling Green, OH and nearby ZIP sectors.
+FAQ: How long can shingles wait after storm damage? In Bowling Green, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 43402/43403 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 43402, 43403 (county grid: Wood County).
+In Bowling Green, OH, wind-driven rain can lift shingle tabs before owners notice deck staining.
+
+Scope trace: attic baffle spacing plus wind uplift clip spacing referenced in Wood County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 43402/43403.
+
+ZIP-corridor snapshot for Bowling Green, OH: sampled sectors include 43402, 43403; county routing grid remains Wood County.
+
+On-site sector marker: Wood County / elevation 699 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43402-24a50597

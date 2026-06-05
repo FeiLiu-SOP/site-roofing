@@ -11,26 +11,33 @@ lng: -71.9900
 zipSample: ["01440", "01441"]
 zipCodes: ["01441", "01440"]
 localPaths: ["Worcester County / primary ZIP 01440", "Worcester County / ZIP 01440 sector", "Worcester County / elevation 1191 ft band", "Worcester County / coords 42.5800, -71.9900", "Worcester County / ZIP 01441 sector"]
-zillowHomeValueUsd: 368964
 ---
 
 **Engineering Notice for Gardner:** Structural loading calculated based on 1191 ft terrain assessment. Regional dispatch grid: Worcester County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: stage tear-off debris paths away from landscape drains.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-In Gardner, MA, urgent roof service issues can escalate quickly.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Gardner, MA, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: request a written scope before work starts.
+Wind-zone note: Gardner, MA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Access points and staging constraints recorded for ZIP 01441/01440 coverage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Wind exposure category reviewed for ZIP sector 01441/01440.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 01441, 01440 (county grid: Worcester County).
+Skylight curb flashing in Gardner, MA should be sequenced before ridge cap replacement.
+
+Field routing: deck sheathing thickness paired with synthetic underlayment slip near ZIP 01440.
+
+Field note: Valley debris and granule loss noted for ZIP 01441/01440.
+
+Primary postal anchor 01440 with multi-ZIP overlap in Gardner; field packets tag Worcester County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 42.5800, -71.9900 at elevation ~1191 ft aligns with Worcester County intake staging.
 
 Service reference: MA-01440-96ca3ec5

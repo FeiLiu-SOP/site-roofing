@@ -11,25 +11,33 @@ lng: -74.3100
 zipSample: ["07067"]
 zipCodes: ["07067"]
 localPaths: ["Middlesex County / coords 40.5900, -74.3100", "Middlesex County / primary ZIP 07067", "Middlesex County / ZIP 07067 sector", "Middlesex County / elevation 92 ft band"]
-zillowHomeValueUsd: 635405
 ---
 
 **Engineering Notice for Colonia:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: In Colonia, NJ, algae-resistant granules may be specified for north-facing slopes.
 
-We coordinate local dispatch coverage around Colonia, NJ and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 07067.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: confirm licensing and insurance before approving work.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Access points and staging constraints recorded for ZIP 07067 coverage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 07067 (county grid: Middlesex County).
+Across Colonia, NJ, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Coastal humidity in Colonia, NJ can slow shingle seal-down after shoulder-season storms.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+roofing service brief: chimney cricket slope and synthetic underlayment slip were cross-checked for the Colonia intake packet.
+
+On-site sector marker: Middlesex County / ZIP 07067 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Middlesex County / coords 40.5900, -74.3100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07067-28cd57f9

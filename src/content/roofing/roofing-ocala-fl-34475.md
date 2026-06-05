@@ -11,24 +11,33 @@ lng: -82.1500
 zipSample: ["34478", "34471", "34475", "34483", "34477"]
 zipCodes: ["34477", "34475", "34478", "34483", "34470", "34471", "34474"]
 localPaths: ["Marion County / ZIP 34471 sector", "Marion County / elevation 85 ft band", "Marion County / ZIP 34483 sector", "Marion County / coords 29.1800, -82.1500", "Marion County / ZIP 34478 sector"]
-zillowHomeValueUsd: 209949
 ---
 
 **Engineering Notice for Ocala:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Marion County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Ocala, FL exposure class can change starter-strip and cap nail schedules.
 
-Structured milestones protect both sides when scheduling work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: request a written scope before work starts.
+Material note: In Ocala, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34483/34474/34470.
+FAQ: Is partial dry-in possible? In Ocala, FL, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 34483, 34474, 34470, 34475, 34478 (county grid: Marion County).
+Risk flag: In Ocala, FL, interior stains may track from HVAC condensate rather than roof cladding.
+
+Across Ocala, FL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+roof work brief: pipe boot manufacturer match and ridge cap nail schedule were cross-checked for the Ocala intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 34470/34478/34483.
+
+Primary postal anchor 34475 with multi-ZIP overlap in Ocala; field packets tag Marion County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 29.1800, -82.1500 at elevation ~85 ft aligns with Marion County intake staging.
 
 Service reference: FL-34475-643f2648

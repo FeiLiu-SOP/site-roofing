@@ -11,26 +11,33 @@ lng: -94.8200
 zipSample: ["66062", "66051", "66061", "66063"]
 zipCodes: ["66061", "66062", "66051", "66063"]
 localPaths: ["Johnson County / ZIP 66051 sector", "Johnson County / ZIP 66061 sector", "Johnson County / ZIP 66063 sector", "Johnson County / coords 38.8800, -94.8200", "Johnson County / ZIP 66062 sector"]
-zillowHomeValueUsd: 438497
 ---
 
 **Engineering Notice for Olathe:** Structural loading calculated based on 1050 ft terrain assessment. Regional dispatch grid: Johnson County.
 
 
-We coordinate local dispatch coverage around Olathe, KS and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+In Olathe, KS, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Olathe, KS projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Olathe, KS, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 66062/66051/66063 coverage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 66062/66051/66063.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 66062, 66051, 66063, 66061 (county grid: Johnson County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Risk flag: In Olathe, KS, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: chimney cricket slope plus valley metal gauge referenced in Johnson County county grid review.
+
+On-site sector marker: Johnson County / ZIP 66051 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 66062 with multi-ZIP overlap in Olathe; field packets tag Johnson County for county-grid reconciliation.
 
 Service reference: KS-66062-8a01a129

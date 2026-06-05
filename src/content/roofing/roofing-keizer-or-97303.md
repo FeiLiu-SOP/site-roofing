@@ -11,26 +11,31 @@ lng: -123.0200
 zipSample: ["97307", "97303"]
 zipCodes: ["97307", "97303"]
 localPaths: ["Marion County / elevation 138 ft band", "Marion County / ZIP 97303 sector", "Marion County / coords 45.0000, -123.0200", "Marion County / ZIP 97307 sector", "Marion County / primary ZIP 97303"]
-zillowHomeValueUsd: 450613
 ---
 
 **Engineering Notice for Keizer:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Marion County.
 
 
-Structured milestones protect both sides when scheduling work.
+FAQ: How long can shingles wait after storm damage? In Keizer, OR, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Keizer, OR exposure class can change starter-strip and cap nail schedules.
 
-Our service coordination centers on Keizer, OR coverage windows and verified intake details.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Keizer, OR, but intake notes help reduce delays.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: In Keizer, OR, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Connection points spot-checked where accessible (ZIP 97303/97307 zone).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 97303/97307.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 97303, 97307 (county grid: Marion County).
+Metal panel oil-canning in Keizer, OR may signal clip spacing issues, not wind damage alone.
+
+Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in Marion County county grid review.
+
+Regional mesh label Marion County: moisture and logistics baselines are keyed to Keizer, OR before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~138 ft across the Marion County area. Coordinates: 45.0000, -123.0200. ZIP sample: 97303, 97307. Regional routing note: Marion County traffic flow is balanced around ZIP 97303 service demand.
 
 Service reference: OR-97303-085abce3

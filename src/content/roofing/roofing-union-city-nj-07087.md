@@ -11,26 +11,33 @@ lng: -74.0300
 zipSample: ["07087"]
 zipCodes: ["07087"]
 localPaths: ["Hudson County / ZIP 07087 sector", "Hudson County / coords 40.7700, -74.0300", "Hudson County / primary ZIP 07087", "Hudson County / elevation 210 ft band"]
-zillowHomeValueUsd: 567881
 ---
 
 **Engineering Notice for Union City:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Hudson County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Our Union City, NJ dispatch packets reference county grid Hudson County and elevation band 210 ft.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Union City, NJ, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Tile underlayment age in Union City, NJ can fail independently of visible tile cracks.
 
-We coordinate local dispatch coverage around Union City, NJ and nearby ZIP sectors.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: request a written scope before work starts.
+Metal panel oil-canning in Union City, NJ may signal clip spacing issues, not wind damage alone.
 
-Field note: Moisture pathway inspection logged near ZIP 07087 intake.
+FAQ: How long can shingles wait after storm damage? In Union City, NJ, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07087.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 07087 (county grid: Hudson County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+roof work brief: attic baffle spacing and wind uplift clip spacing were cross-checked for the Union City intake packet.
+
+Coordinate-anchored dispatch note: center reference 40.7700, -74.0300 at elevation ~210 ft aligns with Hudson County intake staging.
+
+ZIP-corridor snapshot for Union City, NJ: sampled sectors include 07087; county routing grid remains Hudson County.
 
 Service reference: NJ-07087-48be1fe5

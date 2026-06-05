@@ -11,24 +11,33 @@ lng: -76.8500
 zipSample: ["20709", "20726", "20708"]
 zipCodes: ["20709", "20726", "20708"]
 localPaths: ["Prince George's County / primary ZIP 20708", "Prince George's County / ZIP 20709 sector", "Prince George's County / ZIP 20726 sector", "Prince George's County / coords 39.0600, -76.8500", "Prince George's County / elevation 220 ft band"]
-zillowHomeValueUsd: 486604
 ---
 
 **Engineering Notice for South Laurel:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Prince George's County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Code context: Ventilation ratios for South Laurel, MD attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Low-slope sections in South Laurel, MD need positive drainage before membrane repairs are scoped.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20709/20726/20708.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 20709, 20726, 20708 (county grid: Prince George's County).
+Material note: In South Laurel, MD, algae-resistant granules may be specified for north-facing slopes.
+
+Risk flag: In South Laurel, MD, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: pipe boot manufacturer match paired with chimney cricket slope near ZIP 20708.
+
+Field note: Attic moisture pathway scan referenced ZIP 20708/20726/20709.
+
+Regional mesh label Prince George's County: moisture and logistics baselines are keyed to South Laurel, MD before niche-specific work begins.
+
+ZIP-corridor snapshot for South Laurel, MD: sampled sectors include 20726, 20708, 20709; county routing grid remains Prince George's County.
 
 Service reference: MD-20708-b5fc1fc7

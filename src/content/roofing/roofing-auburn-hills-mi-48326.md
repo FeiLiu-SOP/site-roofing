@@ -11,24 +11,33 @@ lng: -83.2400
 zipSample: ["48326", "48321"]
 zipCodes: ["48321", "48326"]
 localPaths: ["Oakland County / ZIP 48326 sector", "Oakland County / primary ZIP 48326", "Oakland County / elevation 965 ft band", "Oakland County / ZIP 48321 sector", "Oakland County / coords 42.6700, -83.2400"]
-zillowHomeValueUsd: 280655
 ---
 
 **Engineering Notice for Auburn Hills:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Oakland County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-We coordinate local dispatch coverage around Auburn Hills, MI and nearby ZIP sectors.
+Risk flag: In Auburn Hills, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is partial dry-in possible? In Auburn Hills, MI, yes—if slope and anchor points support safe tie-offs.
 
-Tip: avoid large upfront payments without milestones.
+Step: separate emergency tarp scope from permanent service line items.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hail bruising on Auburn Hills, MI ridges may not breach felt until the next wind event.
 
-Field note: Moisture pathway inspection logged near ZIP 48321/48326 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 48321, 48326 (county grid: Oakland County).
+Material note: In Auburn Hills, MI, algae-resistant granules may be specified for north-facing slopes.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Field routing: ridge cap nail schedule paired with ice-barrier lap sequence near ZIP 48326.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 48321/48326.
+
+On-site sector marker: Oakland County / ZIP 48321 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Oakland County: moisture and logistics baselines are keyed to Auburn Hills, MI before niche-specific work begins.
 
 Service reference: MI-48326-99f61792

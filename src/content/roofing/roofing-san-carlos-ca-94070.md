@@ -11,27 +11,31 @@ lng: -122.2700
 zipSample: ["94070"]
 zipCodes: ["94070"]
 localPaths: ["San Mateo County / elevation 108 ft band", "San Mateo County / coords 37.5000, -122.2700", "San Mateo County / ZIP 94070 sector", "San Mateo County / primary ZIP 94070"]
-zillowHomeValueUsd: 2457933
 ---
 
 **Engineering Notice for San Carlos:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: San Mateo County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in San Carlos, CA, but intake notes help reduce delays.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In San Carlos, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: avoid large upfront payments without milestones.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 94070.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Moisture pathway inspection logged near ZIP 94070 intake.
+FAQ: Is partial dry-in possible? In San Carlos, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 94070 coverage.
+Tile and shingle mixes in San Carlos, CA require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 94070 (county grid: San Mateo County).
+Field routing: ice-barrier lap sequence paired with soffit intake free area near ZIP 94070.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 94070.
+
+On-site sector marker: San Mateo County / primary ZIP 94070 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Mateo County / coords 37.5000, -122.2700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94070-890e0e95

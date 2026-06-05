@@ -11,26 +11,31 @@ lng: -86.7800
 zipSample: ["37201", "37224", "37229", "37250", "37209"]
 zipCodes: ["37243", "37208", "37228", "37242", "37214", "37220", "37224", "37202", "37244", "37232", "37250", "37221"]
 localPaths: ["Davidson County / coords 36.1700, -86.7800", "Davidson County / ZIP 37224 sector", "Davidson County / ZIP 37209 sector", "Davidson County / ZIP 37229 sector", "Davidson County / elevation 413 ft band"]
-zillowHomeValueUsd: 1222849
 ---
 
 **Engineering Notice for Nashville:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Davidson County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Nashville, TN, but intake notes help reduce delays.
+Code context: Ventilation ratios for Nashville, TN attics should be checked against current mechanical exhaust additions.
 
-Tip: address recurring issues early to prevent bigger damage.
+Hail bruising on Nashville, TN ridges may not breach felt until the next wind event.
 
-In Nashville, TN, urgent roof work issues can escalate quickly.
+We coordinate Nashville, TN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Our service coordination centers on Nashville, TN coverage windows and verified intake details.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 37219/37204/37116 coverage.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 37219/37204/37116.
+FAQ: Can you tarp only part of the roof? In Nashville, TN, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 37219, 37204, 37116, 37138, 37208 (county grid: Davidson County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: attic baffle spacing paired with valley metal gauge near ZIP 37027.
+
+Primary postal anchor 37027 with multi-ZIP overlap in Nashville; field packets tag Davidson County for county-grid reconciliation.
+
+On-site sector marker: Davidson County / ZIP 37214 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37027-945dab00

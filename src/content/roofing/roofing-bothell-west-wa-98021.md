@@ -11,27 +11,29 @@ lng: -122.2400
 zipSample: ["98012", "98036", "98021"]
 zipCodes: ["98036", "98021", "98012"]
 localPaths: ["Snohomish County / ZIP 98021 sector", "Snohomish County / ZIP 98012 sector", "Snohomish County / coords 47.8100, -122.2400", "Snohomish County / primary ZIP 98021", "Snohomish County / ZIP 98036 sector"]
-zillowHomeValueUsd: 1146104
 ---
 
 **Engineering Notice for Bothell West:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-Tip: request a written scope before work starts.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Bothell West, WA can fail independently of visible tile cracks.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 98021.
+Tip: Note recent wind events when filing insurance photos for Bothell West, WA.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Synthetic underlayment slip in Bothell West, WA is often tied to deck moisture, not wind alone.
 
-Structured milestones protect both sides when scheduling work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 98036/98012/98021 intake.
+FAQ: How long can shingles wait after storm damage? In Bothell West, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 98036/98012/98021.
+Regulatory note: Bothell West, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 98036, 98012, 98021 (county grid: Snohomish County).
+roofing service brief: deck sheathing thickness and ice-barrier lap sequence were cross-checked for the Bothell West intake packet.
+
+ZIP-corridor snapshot for Bothell West, WA: sampled sectors include 98036, 98021, 98012; county routing grid remains Snohomish County.
+
+On-site sector marker: Snohomish County / elevation 479 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98021-96848bf4

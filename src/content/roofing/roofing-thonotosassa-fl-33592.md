@@ -11,25 +11,33 @@ lng: -82.2900
 zipSample: ["33584", "33592"]
 zipCodes: ["33584", "33592"]
 localPaths: ["Hillsborough County / elevation 98 ft band", "Hillsborough County / coords 28.0500, -82.2900", "Hillsborough County / ZIP 33584 sector", "Hillsborough County / ZIP 33592 sector", "Hillsborough County / primary ZIP 33592"]
-zillowHomeValueUsd: 408323
 ---
 
 **Engineering Notice for Thonotosassa:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Thonotosassa, FL exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Local conditions in Thonotosassa, FL can affect timelines and material choices.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33592.
+Wood shake courses in Thonotosassa, FL require skip-spacing rules at valleys.
 
-Field note: Moisture pathway inspection logged near ZIP 33592/33584 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 33592, 33584 (county grid: Hillsborough County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: attic baffle spacing paired with deck sheathing thickness near ZIP 33592.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 33584/33592.
+
+On-site sector marker: Hillsborough County / primary ZIP 33592 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 28.0500, -82.2900 at elevation ~98 ft aligns with Hillsborough County intake staging.
 
 Service reference: FL-33592-1f596628

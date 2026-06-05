@@ -11,24 +11,33 @@ lng: -111.5600
 zipSample: ["85140", "85142", "85143", "85144"]
 zipCodes: ["85144", "85143", "85140", "85142"]
 localPaths: ["Pinal County / coords 33.1800, -111.5600", "Pinal County / primary ZIP 85143", "Pinal County / elevation 1493 ft band", "Pinal County / ZIP 85144 sector", "Pinal County / ZIP 85140 sector"]
-zillowHomeValueUsd: 376894
 ---
 
 **Engineering Notice for San Tan Valley:** Structural loading calculated based on 1493 ft terrain assessment. Regional dispatch grid: Pinal County.
 
 
-Tip: request a written scope before work starts.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: compare at least two estimates for scope and timeline.
+Code context: Ventilation ratios for San Tan Valley, AZ attics should be checked against current mechanical exhaust additions.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In San Tan Valley, AZ, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Granule embedment loss on San Tan Valley, AZ north slopes can precede mat exposure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in San Tan Valley, AZ, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Access points and staging constraints recorded for ZIP 85143/85140/85144 coverage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 85143, 85140, 85144, 85142 (county grid: Pinal County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+FAQ: Can you tarp only part of the roof? In San Tan Valley, AZ, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: synthetic underlayment slip paired with pipe boot manufacturer match near ZIP 85143.
+
+Field note: Valley debris and granule loss noted for ZIP 85144/85143/85140.
+
+On-site sector marker: Pinal County / primary ZIP 85143 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Pinal County / ZIP 85140 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85143-3d133b42

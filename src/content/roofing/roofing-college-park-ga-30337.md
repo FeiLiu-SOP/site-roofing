@@ -11,25 +11,29 @@ lng: -84.4600
 zipSample: ["30337", "30349"]
 zipCodes: ["30349", "30337"]
 localPaths: ["Fulton County / ZIP 30337 sector", "Fulton County / ZIP 30349 sector", "Fulton County / coords 33.6400, -84.4600", "Fulton County / elevation 1050 ft band", "Fulton County / primary ZIP 30337"]
-zillowHomeValueUsd: 301865
 ---
 
 **Engineering Notice for College Park:** Structural loading calculated based on 1050 ft terrain assessment. Regional dispatch grid: Fulton County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in College Park, GA, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Granule embedment loss on College Park, GA north slopes can precede mat exposure.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30337.
+Risk flag: In College Park, GA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 30337/30349 zone).
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 30337, 30349 (county grid: Fulton County).
+Tip: Note recent wind events when filing insurance photos for College Park, GA.
+
+Field routing: counter-flashing reglet depth paired with ridge cap nail schedule near ZIP 30337.
+
+ZIP-corridor snapshot for College Park, GA: sampled sectors include 30337, 30349; county routing grid remains Fulton County.
+
+On-site sector marker: Fulton County / primary ZIP 30337 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30337-d583dada

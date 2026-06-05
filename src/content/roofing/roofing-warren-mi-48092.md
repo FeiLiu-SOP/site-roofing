@@ -11,25 +11,29 @@ lng: -83.0300
 zipSample: ["48088", "48092", "48089", "48397", "48091"]
 zipCodes: ["48092", "48093", "48091", "48088", "48397", "48089"]
 localPaths: ["Macomb County / ZIP 48089 sector", "Macomb County / ZIP 48091 sector", "Macomb County / coords 42.4900, -83.0300", "Macomb County / elevation 623 ft band", "Macomb County / primary ZIP 48092"]
-zillowHomeValueUsd: 241895
 ---
 
 **Engineering Notice for Warren:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Macomb County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Warren, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48092.
+Risk flag: In Warren, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Warren, MI, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: request a written scope before work starts.
+Skylight curb flashing in Warren, MI should be sequenced before ridge cap replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48089/48091/48093.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 48089, 48091, 48093, 48088, 48092 (county grid: Macomb County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+roof service brief: ridge cap nail schedule and synthetic underlayment slip were cross-checked for the Warren intake packet.
+
+On-site sector marker: Macomb County / ZIP 48092 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 48092 with multi-ZIP overlap in Warren; field packets tag Macomb County for county-grid reconciliation.
 
 Service reference: MI-48092-d5b0cddd

@@ -11,26 +11,33 @@ lng: -84.3000
 zipSample: ["30366", "39901", "30345", "30341"]
 zipCodes: ["30366", "39901", "30341", "30345"]
 localPaths: ["DeKalb County / elevation 988 ft band", "DeKalb County / ZIP 30341 sector", "DeKalb County / ZIP 30345 sector", "DeKalb County / primary ZIP 30341", "DeKalb County / ZIP 39901 sector"]
-zillowHomeValueUsd: 510832
 ---
 
 **Engineering Notice for Chamblee:** Structural loading calculated based on 988 ft terrain assessment. Regional dispatch grid: DeKalb County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Chamblee, GA, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Local conditions in Chamblee, GA can affect timelines and material choices.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: confirm licensing and insurance before approving work.
+Granule embedment loss on Chamblee, GA north slopes can precede mat exposure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wind-zone note: Chamblee, GA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 39901/30341/30345 zone).
+We coordinate Chamblee, GA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Access points and staging constraints recorded for ZIP 39901/30341/30345 coverage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 39901, 30341, 30345, 30366 (county grid: DeKalb County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+roof service brief: skylight curb height and synthetic underlayment slip were cross-checked for the Chamblee intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 30366/30341/30345.
+
+Primary postal anchor 30341 with multi-ZIP overlap in Chamblee; field packets tag DeKalb County for county-grid reconciliation.
+
+On-site sector marker: DeKalb County / coords 33.8800, -84.3000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30341-707565a6

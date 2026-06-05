@@ -11,26 +11,31 @@ lng: -73.2500
 zipSample: ["11754"]
 zipCodes: ["11754"]
 localPaths: ["Suffolk County / elevation 174 ft band", "Suffolk County / primary ZIP 11754", "Suffolk County / ZIP 11754 sector", "Suffolk County / coords 40.8900, -73.2500"]
-zillowHomeValueUsd: 737732
 ---
 
 **Engineering Notice for Kings Park:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kings Park, NY, but intake notes help reduce delays.
+Granule embedment loss on Kings Park, NY north slopes can precede mat exposure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Kings Park, NY coverage windows and verified intake details.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 11754 intake.
+FAQ: How long can shingles wait after storm damage? In Kings Park, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 11754 zone).
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 11754 (county grid: Suffolk County).
+Field routing: skylight curb height paired with drip-edge metal profile near ZIP 11754.
+
+Field note: Attic moisture pathway scan referenced ZIP 11754.
+
+Coordinate-anchored dispatch note: center reference 40.8900, -73.2500 at elevation ~174 ft aligns with Suffolk County intake staging.
+
+On-site sector marker: Suffolk County / coords 40.8900, -73.2500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11754-bc6754db

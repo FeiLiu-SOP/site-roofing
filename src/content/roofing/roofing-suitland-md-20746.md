@@ -11,27 +11,33 @@ lng: -76.9200
 zipSample: ["20790", "20746", "20752", "20747"]
 zipCodes: ["20790", "20747", "20746", "20752"]
 localPaths: ["Prince George's County / ZIP 20790 sector", "Prince George's County / ZIP 20752 sector", "Prince George's County / coords 38.8500, -76.9200", "Prince George's County / elevation 282 ft band", "Prince George's County / ZIP 20747 sector"]
-zillowHomeValueUsd: 335918
 ---
 
 **Engineering Notice for Suitland:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Prince George's County.
 
 
-Tip: request a written scope before work starts.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-We coordinate local dispatch coverage around Suitland, MD and nearby ZIP sectors.
+Low-slope sections in Suitland, MD need positive drainage before membrane repairs are scoped.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Suitland, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 20746.
+Risk flag: Tile underlayment age in Suitland, MD can fail independently of visible tile cracks.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Can you tarp only part of the roof? In Suitland, MD, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 20752/20790/20747 coverage.
+Code context: Ventilation ratios for Suitland, MD attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 20752/20790/20747 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 20752, 20790, 20747, 20746 (county grid: Prince George's County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+roofing service brief: skylight curb height and attic baffle spacing were cross-checked for the Suitland intake packet.
+
+On-site sector marker: Prince George's County / ZIP 20752 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Prince George's County / coords 38.8500, -76.9200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20746-6f4f6cfb

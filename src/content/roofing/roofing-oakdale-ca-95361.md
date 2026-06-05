@@ -11,25 +11,35 @@ lng: -120.8500
 zipSample: ["95361"]
 zipCodes: ["95361"]
 localPaths: ["Stanislaus County / primary ZIP 95361", "Stanislaus County / elevation 157 ft band", "Stanislaus County / coords 37.7600, -120.8500", "Stanislaus County / ZIP 95361 sector"]
-zillowHomeValueUsd: 557707
 ---
 
 **Engineering Notice for Oakdale:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Stanislaus County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 95361.
 
-Our service coordination centers on Oakdale, CA coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Oakdale, CA can fail independently of visible tile cracks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95361.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 95361 coverage.
+Wind-zone note: Oakdale, CA exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 95361 (county grid: Stanislaus County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+TPO seam welds in Oakdale, CA commercial sections need probe tests after freeze events.
+
+Field routing: ridge cap nail schedule paired with deck sheathing thickness near ZIP 95361.
+
+Field note: Shingle seal-down timing logged near ZIP 95361.
+
+Regional mesh label Stanislaus County: moisture and logistics baselines are keyed to Oakdale, CA before niche-specific work begins.
+
+On-site sector marker: Stanislaus County / ZIP 95361 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95361-386f3acc

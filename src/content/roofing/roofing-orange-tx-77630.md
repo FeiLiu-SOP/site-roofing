@@ -11,26 +11,33 @@ lng: -93.7600
 zipSample: ["77631", "77630", "77632"]
 zipCodes: ["77631", "77632", "77630"]
 localPaths: ["Orange County / ZIP 77631 sector", "Orange County / elevation 23 ft band", "Orange County / primary ZIP 77630", "Orange County / ZIP 77632 sector", "Orange County / coords 30.1200, -93.7600"]
-zillowHomeValueUsd: 146821
 ---
 
 **Engineering Notice for Orange:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-We coordinate local dispatch coverage around Orange, TX and nearby ZIP sectors.
+Parapet coping movement in Orange, TX can channel water behind wall cladding.
 
-In Orange, TX, urgent roof service issues can escalate quickly.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Tile underlayment age in Orange, TX can fail independently of visible tile cracks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Orange, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77632/77631/77630.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 77632/77631/77630 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 77632, 77631, 77630 (county grid: Orange County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: deck sheathing thickness paired with ice-barrier lap sequence near ZIP 77630.
+
+On-site sector marker: Orange County / elevation 23 ft band — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 77630 with multi-ZIP overlap in Orange; field packets tag Orange County for county-grid reconciliation.
 
 Service reference: TX-77630-900a0076

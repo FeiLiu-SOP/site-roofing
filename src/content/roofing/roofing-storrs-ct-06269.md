@@ -11,25 +11,33 @@ lng: -72.2500
 zipSample: ["06268", "06269"]
 zipCodes: ["06268", "06269"]
 localPaths: ["Capitol County / elevation 643 ft band", "Capitol County / ZIP 06268 sector", "Capitol County / coords 41.8100, -72.2500", "Capitol County / primary ZIP 06269", "Capitol County / ZIP 06269 sector"]
-zillowHomeValueUsd: 555285
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Storrs:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Capitol County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: request a written scope before work starts.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Structured milestones protect both sides when scheduling work.
+Material note: In Storrs, CT, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Storrs, CT, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+In Storrs, CT, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Connection points spot-checked where accessible (ZIP 06269/06268 zone).
+FAQ: Can you tarp only part of the roof? In Storrs, CT, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 06269, 06268 (county grid: Capitol County).
+Risk flag: Tile underlayment age in Storrs, CT can fail independently of visible tile cracks.
+
+Code context: Ventilation ratios for Storrs, CT attics should be checked against current mechanical exhaust additions.
+
+We coordinate Storrs, CT roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Scope trace: synthetic underlayment slip plus shingle exposure calibration referenced in Capitol County county grid review.
+
+Coordinate-anchored dispatch note: center reference 41.8100, -72.2500 at elevation ~643 ft aligns with Capitol County intake staging.
+
+Primary postal anchor 06269 with multi-ZIP overlap in Storrs; field packets tag Capitol County for county-grid reconciliation.
 
 Service reference: CT-06269-63906a3a

@@ -11,27 +11,31 @@ lng: -117.9500
 zipSample: ["90631", "90632", "90633"]
 zipCodes: ["90631", "90632", "90633"]
 localPaths: ["Orange County / coords 33.9300, -117.9500", "Orange County / elevation 279 ft band", "Orange County / primary ZIP 90631", "Orange County / ZIP 90631 sector", "Orange County / ZIP 90633 sector"]
-zillowHomeValueUsd: 942838
 ---
 
 **Engineering Notice for La Habra:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 90631.
+Step: stage tear-off debris paths away from landscape drains.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on La Habra, CA coverage windows and verified intake details.
+Hail bruising on La Habra, CA ridges may not breach felt until the next wind event.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in La Habra, CA can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 90631/90632/90633 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 90631/90632/90633 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 90631, 90632, 90633 (county grid: Orange County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: drip-edge metal profile paired with skylight curb height near ZIP 90631.
+
+On-site sector marker: Orange County / ZIP 90633 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Orange County / elevation 279 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90631-9481f8b6

@@ -11,26 +11,35 @@ lng: -79.7500
 zipSample: ["15147", "15268", "15068", "15239", "15139"]
 zipCodes: ["15268", "15068", "15139", "15239", "15147"]
 localPaths: ["Allegheny County / ZIP 15068 sector", "Allegheny County / elevation 1161 ft band", "Allegheny County / ZIP 15139 sector", "Allegheny County / ZIP 15268 sector", "Allegheny County / ZIP 15147 sector"]
-zillowHomeValueUsd: 333971
 ---
 
 **Engineering Notice for Plum:** Structural loading calculated based on 1161 ft terrain assessment. Regional dispatch grid: Allegheny County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: log deck soundings near vents before tear-off is approved.
 
-Our service coordination centers on Plum, PA coverage windows and verified intake details.
+Synthetic underlayment slip in Plum, PA is often tied to deck moisture, not wind alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 15068/15147/15268 zone).
+Hail bruising on Plum, PA ridges may not breach felt until the next wind event.
 
-Field note: Access points and staging constraints recorded for ZIP 15068/15147/15268 coverage.
+Risk flag: In Plum, PA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 15068, 15147, 15268, 15139, 15239 (county grid: Allegheny County).
+Wind-zone note: Plum, PA exposure class can change starter-strip and cap nail schedules.
+
+FAQ: When should permanent service start? In Plum, PA, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: counter-flashing reglet depth plus shingle exposure calibration referenced in Allegheny County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 15147/15268/15068.
+
+On-site sector marker: Allegheny County / ZIP 15139 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 15139 with multi-ZIP overlap in Plum; field packets tag Allegheny County for county-grid reconciliation.
 
 Service reference: PA-15139-ce003502

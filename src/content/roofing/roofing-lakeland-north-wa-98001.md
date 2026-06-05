@@ -11,24 +11,31 @@ lng: -122.2800
 zipSample: ["98001"]
 zipCodes: ["98001"]
 localPaths: ["King County / ZIP 98001 sector", "King County / primary ZIP 98001", "King County / elevation 430 ft band", "King County / coords 47.3400, -122.2800"]
-zillowHomeValueUsd: 640535
 ---
 
 **Engineering Notice for Lakeland North:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: King County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Local conditions in Lakeland North, WA can affect timelines and material choices.
+Wind-zone note: Lakeland North, WA exposure class can change starter-strip and cap nail schedules.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Skylight curb flashing in Lakeland North, WA should be sequenced before ridge cap replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 98001.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 98001 (county grid: King County).
+Risk flag: In Lakeland North, WA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+Scope trace: valley metal gauge plus soffit intake free area referenced in King County county grid review.
+
+Regional mesh label King County: moisture and logistics baselines are keyed to Lakeland North, WA before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~430 ft across the King County area. Coordinates: 47.3400, -122.2800. ZIP sample: 98001. Regional routing note: King County traffic flow is balanced around ZIP 98001 service demand.
 
 Service reference: WA-98001-90cdfe07

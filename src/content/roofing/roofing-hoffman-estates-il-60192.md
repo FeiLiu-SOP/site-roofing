@@ -11,26 +11,35 @@ lng: -88.1500
 zipSample: ["60169", "60192", "60120", "60159", "60094"]
 zipCodes: ["60159", "60192", "60094", "60169", "60120"]
 localPaths: ["Cook County / ZIP 60169 sector", "Cook County / ZIP 60094 sector", "Cook County / elevation 817 ft band", "Cook County / ZIP 60159 sector", "Cook County / primary ZIP 60192"]
-zillowHomeValueUsd: 490557
 ---
 
 **Engineering Notice for Hoffman Estates:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Hoffman Estates, IL can fail independently of visible tile cracks.
 
-We coordinate local dispatch coverage around Hoffman Estates, IL and nearby ZIP sectors.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Regulatory note: Hoffman Estates, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hoffman Estates, IL, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Moisture pathway inspection logged near ZIP 60094/60159/60192 intake.
+TPO seam welds in Hoffman Estates, IL commercial sections need probe tests after freeze events.
 
-Field note: Access points and staging constraints recorded for ZIP 60094/60159/60192 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 60094, 60159, 60192, 60169, 60120 (county grid: Cook County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+FAQ: Is partial dry-in possible? In Hoffman Estates, IL, yes—if slope and anchor points support safe tie-offs.
+
+roofing service brief: soffit intake free area and valley metal gauge were cross-checked for the Hoffman Estates intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 60192/60159/60169.
+
+ZIP-corridor snapshot for Hoffman Estates, IL: sampled sectors include 60169, 60094, 60159, 60120, 60192; county routing grid remains Cook County.
+
+Primary postal anchor 60192 with multi-ZIP overlap in Hoffman Estates; field packets tag Cook County for county-grid reconciliation.
 
 Service reference: IL-60192-76c432d0

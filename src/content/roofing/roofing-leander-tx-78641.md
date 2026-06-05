@@ -11,27 +11,31 @@ lng: -97.8600
 zipSample: ["78641", "78646"]
 zipCodes: ["78641", "78646"]
 localPaths: ["Williamson County / ZIP 78641 sector", "Williamson County / ZIP 78646 sector", "Williamson County / coords 30.5700, -97.8600", "Williamson County / elevation 1024 ft band", "Williamson County / primary ZIP 78641"]
-zillowHomeValueUsd: 432225
 ---
 
 **Engineering Notice for Leander:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: Williamson County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Our Leander, TX dispatch packets reference county grid Williamson County and elevation band 1024 ft.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 78641.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Connection points spot-checked where accessible (ZIP 78646/78641 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 78646/78641 coverage.
+Hail bruising on Leander, TX ridges may not breach felt until the next wind event.
 
-Dispatch sectors sampled: ZIP 78646, 78641 (county grid: Williamson County).
+Field routing: ridge cap nail schedule paired with shingle exposure calibration near ZIP 78641.
+
+Field note: Attic moisture pathway scan referenced ZIP 78641/78646.
+
+On-site sector marker: Williamson County / primary ZIP 78641 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Williamson County: moisture and logistics baselines are keyed to Leander, TX before niche-specific work begins.
 
 Service reference: TX-78641-72d41793

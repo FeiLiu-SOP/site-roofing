@@ -11,26 +11,33 @@ lng: -111.7200
 zipSample: ["85274", "85212", "85202", "85206", "85216"]
 zipCodes: ["85209", "85202", "85207", "85212", "85204", "85214", "85205", "85216", "85274", "85201", "85206", "85215"]
 localPaths: ["Maricopa County / ZIP 85202 sector", "Maricopa County / ZIP 85212 sector", "Maricopa County / coords 33.4000, -111.7200", "Maricopa County / ZIP 85206 sector", "Maricopa County / primary ZIP 85208"]
-zillowHomeValueUsd: 379573
 ---
 
 **Engineering Notice for Mesa:** Structural loading calculated based on 1319 ft terrain assessment. Regional dispatch grid: Maricopa County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-In Mesa, AZ, seasonal demand can change scheduling windows.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: compare shingle manufacturer wind-zone ratings for Mesa, AZ exposure class.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Mesa, AZ can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 85203/85274/85202 coverage.
+Regulatory note: Mesa, AZ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 85203/85274/85202 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 85203, 85274, 85202, 85214, 85216 (county grid: Maricopa County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 85208.
+
+TPO seam welds in Mesa, AZ commercial sections need probe tests after freeze events.
+
+Field routing: shingle exposure calibration paired with chimney cricket slope near ZIP 85208.
+
+ZIP-corridor snapshot for Mesa, AZ: sampled sectors include 85212, 85214, 85202, 85210, 85203, 85206, 85208, 85201; county routing grid remains Maricopa County.
+
+Primary postal anchor 85208 with multi-ZIP overlap in Mesa; field packets tag Maricopa County for county-grid reconciliation.
 
 Service reference: AZ-85208-2d610d9e

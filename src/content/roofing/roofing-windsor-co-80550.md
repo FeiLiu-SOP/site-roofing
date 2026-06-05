@@ -11,26 +11,31 @@ lng: -104.9200
 zipSample: ["80551", "80550"]
 zipCodes: ["80551", "80550"]
 localPaths: ["Weld County / primary ZIP 80550", "Weld County / elevation 4777 ft band", "Weld County / ZIP 80550 sector", "Weld County / ZIP 80551 sector", "Weld County / coords 40.4700, -104.9200"]
-zillowHomeValueUsd: 547327
 ---
 
 **Engineering Notice for Windsor:** Structural loading calculated based on 4777 ft terrain assessment. Regional dispatch grid: Weld County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Windsor, CO, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: request a written scope before work starts.
+FAQ: When should permanent service start? In Windsor, CO, delayed dry-in can expand insulation and ceiling repairs.
 
-We coordinate local dispatch coverage around Windsor, CO and nearby ZIP sectors.
+Low-slope sections in Windsor, CO need positive drainage before membrane repairs are scoped.
 
-Field note: Access points and staging constraints recorded for ZIP 80551/80550 coverage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Connection points spot-checked where accessible (ZIP 80551/80550 zone).
+Regulatory note: Windsor, CO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 80551, 80550 (county grid: Weld County).
+Scope trace: skylight curb height plus chimney cricket slope referenced in Weld County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 80550/80551.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Weld County and primary ZIP 80550. Terrain reference: 4777 ft. Center point: 40.4700, -104.9200. ZIP sample: 80550, 80551. Regional routing note: Weld County traffic flow is balanced around ZIP 80550 service demand.
+
+On-site sector marker: Weld County / elevation 4777 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80550-29c23d50

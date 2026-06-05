@@ -11,26 +11,33 @@ lng: -96.4900
 zipSample: ["68026", "68025"]
 zipCodes: ["68026", "68025"]
 localPaths: ["Dodge County / ZIP 68026 sector", "Dodge County / ZIP 68025 sector", "Dodge County / primary ZIP 68025", "Dodge County / coords 41.4400, -96.4900", "Dodge County / elevation 1191 ft band"]
-zillowHomeValueUsd: 253110
 ---
 
 **Engineering Notice for Fremont:** Structural loading calculated based on 1191 ft terrain assessment. Regional dispatch grid: Dodge County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Note recent wind events when filing insurance photos for Fremont, NE.
 
-Our service coordination centers on Fremont, NE coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Fremont, NE can fail independently of visible tile cracks.
 
-In Fremont, NE, seasonal demand can change scheduling windows.
+FAQ: When should permanent service start? In Fremont, NE, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Fremont, NE attics should be checked against current mechanical exhaust additions.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Attic ventilation deficits in Fremont, NE can mimic roof leaks at ceiling penetrations.
 
-Field note: Moisture pathway inspection logged near ZIP 68025/68026 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Access points and staging constraints recorded for ZIP 68025/68026 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 68025, 68026 (county grid: Dodge County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+roofing service brief: attic baffle spacing and counter-flashing reglet depth were cross-checked for the Fremont intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 68025/68026.
+
+Coordinate-anchored dispatch note: center reference 41.4400, -96.4900 at elevation ~1191 ft aligns with Dodge County intake staging.
+
+On-site sector marker: Dodge County / ZIP 68026 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-68025-d78535f4

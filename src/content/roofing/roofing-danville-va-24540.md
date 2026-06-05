@@ -11,26 +11,29 @@ lng: -79.4100
 zipSample: ["24541", "24540"]
 zipCodes: ["24540", "24541"]
 localPaths: ["Danville County / elevation 554 ft band", "Danville County / ZIP 24541 sector", "Danville County / ZIP 24540 sector", "Danville County / coords 36.5800, -79.4100", "Danville County / primary ZIP 24540"]
-zillowHomeValueUsd: 153081
 ---
 
 **Engineering Notice for Danville:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Danville County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can you tarp only part of the roof? In Danville, VA, yes—if slope and anchor points support safe tie-offs.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Code context: Ventilation ratios for Danville, VA attics should be checked against current mechanical exhaust additions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Danville, VA, but intake notes help reduce delays.
+Parapet coping movement in Danville, VA can channel water behind wall cladding.
 
-Our service coordination centers on Danville, VA coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Danville, VA can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 24540/24541.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 24540/24541 zone).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 24540, 24541 (county grid: Danville County).
+Scope trace: counter-flashing reglet depth plus deck sheathing thickness referenced in Danville County county grid review.
+
+Regional mesh label Danville County: moisture and logistics baselines are keyed to Danville, VA before niche-specific work begins.
+
+Primary postal anchor 24540 with multi-ZIP overlap in Danville; field packets tag Danville County for county-grid reconciliation.
 
 Service reference: VA-24540-9623c587

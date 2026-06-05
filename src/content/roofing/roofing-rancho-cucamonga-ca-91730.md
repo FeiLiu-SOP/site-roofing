@@ -11,26 +11,33 @@ lng: -117.5700
 zipSample: ["91730", "91739", "91701", "91729", "91737"]
 zipCodes: ["91701", "91739", "91730", "91729", "91737"]
 localPaths: ["San Bernardino County / primary ZIP 91730", "San Bernardino County / ZIP 91729 sector", "San Bernardino County / ZIP 91701 sector", "San Bernardino County / coords 34.1200, -117.5700", "San Bernardino County / ZIP 91739 sector"]
-zillowHomeValueUsd: 680755
 ---
 
 **Engineering Notice for Rancho Cucamonga:** Structural loading calculated based on 1365 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-We coordinate local dispatch coverage around Rancho Cucamonga, CA and nearby ZIP sectors.
+Hail bruising on Rancho Cucamonga, CA ridges may not breach felt until the next wind event.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Rancho Cucamonga, CA attics should be checked against current mechanical exhaust additions.
 
-In Rancho Cucamonga, CA, seasonal demand can change scheduling windows.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Wind exposure category reviewed for ZIP sector 91729/91739/91737.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Connection points spot-checked where accessible (ZIP 91729/91739/91737 zone).
+Step: separate emergency tarp scope from permanent service line items.
 
-Dispatch sectors sampled: ZIP 91729, 91739, 91737, 91730, 91701 (county grid: San Bernardino County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: skylight curb height paired with shingle exposure calibration near ZIP 91730.
+
+Field note: Attic moisture pathway scan referenced ZIP 91737/91729/91701.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~1365 ft across the San Bernardino County area. Coordinates: 34.1200, -117.5700. ZIP sample: 91730, 91737, 91729, 91739, 91701. Logistics priority: Serving residential sectors across San Bernardino County and north-east ZIP 91730 grid.
+
+ZIP-corridor snapshot for Rancho Cucamonga, CA: sampled sectors include 91730, 91737, 91729, 91739, 91701; county routing grid remains San Bernardino County.
 
 Service reference: CA-91730-1e907cb7

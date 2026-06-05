@@ -11,27 +11,35 @@ lng: -117.0700
 zipSample: ["92046", "92027", "92029", "92030", "92026"]
 zipCodes: ["92029", "92025", "92030", "92046", "92026", "92033", "92027"]
 localPaths: ["San Diego County / coords 33.1300, -117.0700", "San Diego County / ZIP 92026 sector", "San Diego County / ZIP 92046 sector", "San Diego County / primary ZIP 92029", "San Diego County / elevation 673 ft band"]
-zillowHomeValueUsd: 1177986
 ---
 
 **Engineering Notice for Escondido:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: San Diego County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 92029.
+Freeze-thaw cycles around Escondido, CA stress nail pops along eaves and rake edges.
 
-Local conditions in Escondido, CA can affect timelines and material choices.
+Risk flag: In Escondido, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Escondido, CA exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 92027/92030/92025 coverage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 92027/92030/92025 zone).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 92027, 92030, 92025, 92033, 92026 (county grid: San Diego County).
+Material note: In Escondido, CA, algae-resistant granules may be specified for north-facing slopes.
+
+Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 92029.
+
+Scope trace: counter-flashing reglet depth plus starter-strip setback referenced in San Diego County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 92029/92033/92046.
+
+Regional mesh label San Diego County: moisture and logistics baselines are keyed to Escondido, CA before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~673 ft across the San Diego County area. Coordinates: 33.1300, -117.0700. ZIP sample: 92025, 92033, 92026, 92046, 92030. Regional routing note: San Diego County traffic flow is balanced around ZIP 92029 service demand.
 
 Service reference: CA-92029-56944472

@@ -11,26 +11,35 @@ lng: -70.4600
 zipSample: ["04072"]
 zipCodes: ["04072"]
 localPaths: ["York County / coords 43.5400, -70.4600", "York County / elevation 151 ft band", "York County / ZIP 04072 sector", "York County / primary ZIP 04072"]
-zillowHomeValueUsd: 520341
 ---
 
 **Engineering Notice for Saco:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: York County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should permanent remediation start? In Saco, ME, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: avoid large upfront payments without milestones.
+Across Saco, ME, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Saco, ME, but intake notes help reduce delays.
+Risk flag: In Saco, ME, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 04072 intake.
+Regulatory note: Saco, ME projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 04072 coverage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 04072 (county grid: York County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+roof work brief: synthetic underlayment slip and chimney cricket slope were cross-checked for the Saco intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 04072.
+
+On-site sector marker: York County / ZIP 04072 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 43.5400, -70.4600 at elevation ~151 ft aligns with York County intake staging.
 
 Service reference: ME-04072-f1e4d295

@@ -11,25 +11,33 @@ lng: -85.6000
 zipSample: ["49525"]
 zipCodes: ["49525"]
 localPaths: ["Kent County / ZIP 49525 sector", "Kent County / coords 43.0400, -85.6000", "Kent County / primary ZIP 49525", "Kent County / elevation 755 ft band"]
-zillowHomeValueUsd: 378172
 ---
 
 **Engineering Notice for Northview:** Structural loading calculated based on 755 ft terrain assessment. Regional dispatch grid: Kent County.
 
 
-Tip: request a written scope before work starts.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Northview, MI exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-In Northview, MI, urgent roof work issues can escalate quickly.
+Material note: In Northview, MI, algae-resistant granules may be specified for north-facing slopes.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 49525.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Connection points spot-checked where accessible (ZIP 49525 zone).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 49525 (county grid: Kent County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Across Northview, MI, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Field routing: ice-barrier lap sequence paired with valley metal gauge near ZIP 49525.
+
+On-site sector marker: Kent County / coords 43.0400, -85.6000 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Kent County / primary ZIP 49525 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49525-4366faca

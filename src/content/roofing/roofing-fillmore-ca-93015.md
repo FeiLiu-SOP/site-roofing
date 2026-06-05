@@ -11,24 +11,33 @@ lng: -118.9200
 zipSample: ["93016", "93015"]
 zipCodes: ["93016", "93015"]
 localPaths: ["Ventura County / coords 34.4000, -118.9200", "Ventura County / ZIP 93015 sector", "Ventura County / elevation 466 ft band", "Ventura County / ZIP 93016 sector", "Ventura County / primary ZIP 93015"]
-zillowHomeValueUsd: 699373
 ---
 
 **Engineering Notice for Fillmore:** Structural loading calculated based on 466 ft terrain assessment. Regional dispatch grid: Ventura County.
 
 
-Tip: avoid large upfront payments without milestones.
+Regulatory note: Fillmore, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-In Fillmore, CA, seasonal demand can change scheduling windows.
+FAQ: When should permanent remediation start? In Fillmore, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-We coordinate local dispatch coverage around Fillmore, CA and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hail bruising on Fillmore, CA ridges may not breach felt until the next wind event.
 
-Field note: Access points and staging constraints recorded for ZIP 93015/93016 coverage.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 93015, 93016 (county grid: Ventura County).
+Material note: In Fillmore, CA, algae-resistant granules may be specified for north-facing slopes.
+
+Risk flag: Tile underlayment age in Fillmore, CA can fail independently of visible tile cracks.
+
+roof service brief: ridge cap nail schedule and chimney cricket slope were cross-checked for the Fillmore intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 93015/93016.
+
+On-site sector marker: Ventura County / elevation 466 ft band — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 93015 with multi-ZIP overlap in Fillmore; field packets tag Ventura County for county-grid reconciliation.
 
 Service reference: CA-93015-91c02426

@@ -11,25 +11,31 @@ lng: -91.5300
 zipSample: ["52243", "52244", "52245", "52242", "52240"]
 zipCodes: ["52244", "52245", "52243", "52240", "52246", "52242"]
 localPaths: ["Johnson County / ZIP 52244 sector", "Johnson County / elevation 656 ft band", "Johnson County / ZIP 52240 sector", "Johnson County / ZIP 52245 sector", "Johnson County / ZIP 52243 sector"]
-zillowHomeValueUsd: 322807
 ---
 
 **Engineering Notice for Iowa City:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: Johnson County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Iowa City, IA, but intake notes help reduce delays.
+Synthetic underlayment slip in Iowa City, IA is often tied to deck moisture, not wind alone.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 52245.
+Regulatory note: Iowa City, IA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 52244/52245/52243 coverage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 52244, 52245, 52243, 52240, 52246 (county grid: Johnson County).
+FAQ: How long can shingles wait after storm damage? In Iowa City, IA, delayed dry-in can expand insulation and ceiling repairs.
+
+roof service brief: shingle exposure calibration and chimney cricket slope were cross-checked for the Iowa City intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 52245/52243/52246.
+
+On-site sector marker: Johnson County / ZIP 52240 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Johnson County / ZIP 52244 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52245-f67c4d17

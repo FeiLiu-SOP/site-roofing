@@ -11,27 +11,33 @@ lng: -98.3400
 zipSample: ["78233"]
 zipCodes: ["78233"]
 localPaths: ["Bexar County / primary ZIP 78233", "Bexar County / coords 29.5500, -98.3400", "Bexar County / ZIP 78233 sector", "Bexar County / elevation 866 ft band"]
-zillowHomeValueUsd: 232984
 ---
 
 **Engineering Notice for Live Oak:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Bexar County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Live Oak, TX exposure class can change starter-strip and cap nail schedules.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 78233.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+TPO seam welds in Live Oak, TX commercial sections need probe tests after freeze events.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Live Oak, TX, but intake notes help reduce delays.
+Our Live Oak, TX dispatch packets reference county grid Bexar County and elevation band 866 ft.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is partial dry-in possible? In Live Oak, TX, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78233.
+Risk flag: In Live Oak, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 78233 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 78233 (county grid: Bexar County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Field routing: synthetic underlayment slip paired with valley metal gauge near ZIP 78233.
+
+Field note: Valley debris and granule loss noted for ZIP 78233.
+
+ZIP-corridor snapshot for Live Oak, TX: sampled sectors include 78233; county routing grid remains Bexar County.
+
+Primary postal anchor 78233 with multi-ZIP overlap in Live Oak; field packets tag Bexar County for county-grid reconciliation.
 
 Service reference: TX-78233-184863da

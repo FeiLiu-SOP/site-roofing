@@ -11,26 +11,29 @@ lng: -96.6700
 zipSample: ["75013", "75002"]
 zipCodes: ["75002", "75013"]
 localPaths: ["Collin County / elevation 673 ft band", "Collin County / coords 33.1100, -96.6700", "Collin County / ZIP 75002 sector", "Collin County / ZIP 75013 sector", "Collin County / primary ZIP 75002"]
-zillowHomeValueUsd: 457424
 ---
 
 **Engineering Notice for Allen:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Collin County.
 
 
-We coordinate local dispatch coverage around Allen, TX and nearby ZIP sectors.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Tile underlayment age in Allen, TX can fail independently of visible tile cracks.
 
-In Allen, TX, urgent roofing service issues can escalate quickly.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is partial dry-in possible? In Allen, TX, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 75013/75002 intake.
+Tile and shingle mixes in Allen, TX require different fastener patterns at transitions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75013/75002.
+Regulatory note: Allen, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 75013, 75002 (county grid: Collin County).
+roofing service brief: synthetic underlayment slip and ice-barrier lap sequence were cross-checked for the Allen intake packet.
+
+Coordinate-anchored dispatch note: center reference 33.1100, -96.6700 at elevation ~673 ft aligns with Collin County intake staging.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Collin County and primary ZIP 75002. Terrain reference: 673 ft. Center point: 33.1100, -96.6700. ZIP sample: 75002, 75013. Logistics priority: Serving residential sectors across Collin County and north-east ZIP 75002 grid.
 
 Service reference: TX-75002-551ecd70

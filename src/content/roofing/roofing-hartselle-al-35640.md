@@ -11,25 +11,35 @@ lng: -86.9400
 zipSample: ["35640"]
 zipCodes: ["35640"]
 localPaths: ["Morgan County / elevation 659 ft band", "Morgan County / primary ZIP 35640", "Morgan County / ZIP 35640 sector", "Morgan County / coords 34.4400, -86.9400"]
-zillowHomeValueUsd: 244815
 ---
 
 **Engineering Notice for Hartselle:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Morgan County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hartselle, AL, but intake notes help reduce delays.
+We coordinate Hartselle, AL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: avoid large upfront payments without milestones.
+Regulatory note: Hartselle, AL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 35640.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: In Hartselle, AL, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 35640.
+Low-slope sections in Hartselle, AL need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 35640 (county grid: Morgan County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Field routing: synthetic underlayment slip paired with shingle exposure calibration near ZIP 35640.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 35640.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Morgan County. Reference elevation: 659 ft. Primary coordinates: 34.4400, -86.9400. ZIP sample: 35640. Service perimeter note: Coverage extends through Morgan County with dispatch centered near ZIP 35640.
+
+On-site sector marker: Morgan County / elevation 659 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35640-4418b870

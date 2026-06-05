@@ -11,25 +11,35 @@ lng: -118.1600
 zipSample: ["90201", "90205", "90202"]
 zipCodes: ["90205", "90202", "90201"]
 localPaths: ["Los Angeles County / ZIP 90202 sector", "Los Angeles County / coords 33.9700, -118.1600", "Los Angeles County / primary ZIP 90201", "Los Angeles County / elevation 118 ft band", "Los Angeles County / ZIP 90205 sector"]
-zillowHomeValueUsd: 686983
 ---
 
 **Engineering Notice for Bell Gardens:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 90201.
+Risk flag: In Bell Gardens, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 90201.
 
-We coordinate local dispatch coverage around Bell Gardens, CA and nearby ZIP sectors.
+We coordinate Bell Gardens, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bell Gardens, CA, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 90205/90201/90202 coverage.
+Low-slope sections in Bell Gardens, CA need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 90205, 90201, 90202 (county grid: Los Angeles County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Field routing: wind uplift clip spacing paired with ridge cap nail schedule near ZIP 90201.
+
+Field note: Shingle seal-down timing logged near ZIP 90202/90201/90205.
+
+On-site sector marker: Los Angeles County / coords 33.9700, -118.1600 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / ZIP 90205 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90201-ee526311

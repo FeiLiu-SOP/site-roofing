@@ -11,25 +11,33 @@ lng: -115.5300
 zipSample: ["92227"]
 zipCodes: ["92227"]
 localPaths: ["Imperial County / elevation -113 ft band", "Imperial County / ZIP 92227 sector", "Imperial County / primary ZIP 92227", "Imperial County / coords 32.9800, -115.5300"]
-zillowHomeValueUsd: 358607
 ---
 
 **Engineering Notice for Brawley:** Structural loading calculated based on -113 ft terrain assessment. Regional dispatch grid: Imperial County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Brawley, CA, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Coastal humidity in Brawley, CA can slow shingle seal-down after shoulder-season storms.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 92227.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: map ventilation intake and exhaust pairs for Brawley, CA attic runs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 92227.
+Regulatory note: Brawley, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92227.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 92227 (county grid: Imperial County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+FAQ: When should permanent restoration start? In Brawley, CA, delayed dry-in can expand insulation and ceiling repairs.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: drip-edge metal profile paired with synthetic underlayment slip near ZIP 92227.
+
+Regional mesh label Imperial County: moisture and logistics baselines are keyed to Brawley, CA before niche-specific work begins.
+
+ZIP-corridor snapshot for Brawley, CA: sampled sectors include 92227; county routing grid remains Imperial County.
 
 Service reference: CA-92227-0f86c4d2

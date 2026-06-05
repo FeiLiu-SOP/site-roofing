@@ -11,27 +11,35 @@ lng: -118.1700
 zipSample: ["90723"]
 zipCodes: ["90723"]
 localPaths: ["Los Angeles County / primary ZIP 90723", "Los Angeles County / coords 33.9000, -118.1700", "Los Angeles County / ZIP 90723 sector", "Los Angeles County / elevation 89 ft band"]
-zillowHomeValueUsd: 649858
 ---
 
 **Engineering Notice for Paramount:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Paramount, CA, but intake notes help reduce delays.
+Wind-zone note: Paramount, CA exposure class can change starter-strip and cap nail schedules.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 90723.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Paramount, CA can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 90723.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 90723 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 90723 (county grid: Los Angeles County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Attic ventilation deficits in Paramount, CA can mimic roof leaks at ceiling penetrations.
+
+Field routing: ridge cap nail schedule paired with shingle exposure calibration near ZIP 90723.
+
+Field note: Shingle seal-down timing logged near ZIP 90723.
+
+On-site sector marker: Los Angeles County / coords 33.9000, -118.1700 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 90723 with multi-ZIP overlap in Paramount; field packets tag Los Angeles County for county-grid reconciliation.
 
 Service reference: CA-90723-6bcc47e0

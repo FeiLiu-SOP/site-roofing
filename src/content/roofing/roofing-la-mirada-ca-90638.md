@@ -11,27 +11,33 @@ lng: -118.0100
 zipSample: ["90638", "90637", "90639"]
 zipCodes: ["90639", "90637", "90638"]
 localPaths: ["Los Angeles County / ZIP 90637 sector", "Los Angeles County / coords 33.9000, -118.0100", "Los Angeles County / primary ZIP 90638", "Los Angeles County / ZIP 90639 sector", "Los Angeles County / elevation 161 ft band"]
-zillowHomeValueUsd: 887401
 ---
 
 **Engineering Notice for La Mirada:** Structural loading calculated based on 161 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Skylight curb flashing in La Mirada, CA should be sequenced before ridge cap replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 90638.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 90639/90637/90638 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90639/90637/90638.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 90639, 90637, 90638 (county grid: Los Angeles County).
+Regulatory note: La Mirada, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: synthetic underlayment slip plus pipe boot manufacturer match referenced in Los Angeles County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 90639/90638/90637.
+
+Primary postal anchor 90638 with multi-ZIP overlap in La Mirada; field packets tag Los Angeles County for county-grid reconciliation.
+
+On-site sector marker: Los Angeles County / ZIP 90639 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90638-19a0e850

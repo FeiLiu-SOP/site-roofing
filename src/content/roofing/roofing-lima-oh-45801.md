@@ -11,26 +11,29 @@ lng: -84.1100
 zipSample: ["45801", "45804", "45805"]
 zipCodes: ["45801", "45805", "45804"]
 localPaths: ["Allen County / ZIP 45805 sector", "Allen County / coords 40.7400, -84.1100", "Allen County / ZIP 45804 sector", "Allen County / primary ZIP 45801", "Allen County / elevation 886 ft band"]
-zillowHomeValueUsd: 139021
 ---
 
 **Engineering Notice for Lima:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Allen County.
 
 
-Tip: request a written scope before work starts.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on Lima, OH coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Lima, OH can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lima, OH, but intake notes help reduce delays.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Clear documentation helps align materials, labor, and timeline.
+In Lima, OH, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Connection points spot-checked where accessible (ZIP 45805/45801/45804 zone).
+Code context: Ventilation ratios for Lima, OH attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 45805/45801/45804.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 45805, 45801, 45804 (county grid: Allen County).
+Scope trace: shingle exposure calibration plus synthetic underlayment slip referenced in Allen County county grid review.
+
+Regional mesh label Allen County: moisture and logistics baselines are keyed to Lima, OH before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 40.7400, -84.1100 at elevation ~886 ft aligns with Allen County intake staging.
 
 Service reference: OH-45801-4038ca1b

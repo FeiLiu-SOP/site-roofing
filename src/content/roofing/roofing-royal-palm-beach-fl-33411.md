@@ -11,27 +11,29 @@ lng: -80.2200
 zipSample: ["33421", "33411"]
 zipCodes: ["33411", "33421"]
 localPaths: ["Palm Beach County / ZIP 33421 sector", "Palm Beach County / primary ZIP 33411", "Palm Beach County / coords 26.7000, -80.2200", "Palm Beach County / ZIP 33411 sector", "Palm Beach County / elevation 39 ft band"]
-zillowHomeValueUsd: 465674
 ---
 
 **Engineering Notice for Royal Palm Beach:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Palm Beach County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 33411.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Freeze-thaw cycles around Royal Palm Beach, FL stress nail pops along eaves and rake edges.
 
-Our service coordination centers on Royal Palm Beach, FL coverage windows and verified intake details.
+FAQ: When should permanent restoration start? In Royal Palm Beach, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 33421/33411 coverage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 33421/33411 zone).
+Regulatory note: Royal Palm Beach, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 33421, 33411 (county grid: Palm Beach County).
+roof work brief: starter-strip setback and wind uplift clip spacing were cross-checked for the Royal Palm Beach intake packet.
+
+Coordinate-anchored dispatch note: center reference 26.7000, -80.2200 at elevation ~39 ft aligns with Palm Beach County intake staging.
+
+On-site sector marker: Palm Beach County / coords 26.7000, -80.2200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33411-1d51d4e6

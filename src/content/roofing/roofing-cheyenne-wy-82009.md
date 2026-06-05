@@ -11,24 +11,33 @@ lng: -104.7900
 zipSample: ["82001", "82007", "82009", "82002", "82003"]
 zipCodes: ["82007", "82003", "82001", "82009", "82002"]
 localPaths: ["Laramie County / ZIP 82007 sector", "Laramie County / primary ZIP 82009", "Laramie County / ZIP 82002 sector", "Laramie County / ZIP 82003 sector", "Laramie County / ZIP 82001 sector"]
-zillowHomeValueUsd: 490954
 ---
 
 **Engineering Notice for Cheyenne:** Structural loading calculated based on 6083 ft terrain assessment. Regional dispatch grid: Laramie County.
 
 
-Local conditions in Cheyenne, WY can affect timelines and material choices.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Skylight curb flashing in Cheyenne, WY should be sequenced before ridge cap replacement.
 
-Tip: request a written scope before work starts.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cheyenne, WY, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 82001/82003/82002.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 82001, 82003, 82002, 82007, 82009 (county grid: Laramie County).
+Regulatory note: Cheyenne, WY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Our Cheyenne, WY dispatch packets reference county grid Laramie County and elevation band 6083 ft.
+
+roofing service brief: counter-flashing reglet depth and skylight curb height were cross-checked for the Cheyenne intake packet.
+
+Regional mesh label Laramie County: moisture and logistics baselines are keyed to Cheyenne, WY before niche-specific work begins.
+
+On-site sector marker: Laramie County / ZIP 82001 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WY-82009-8e191178

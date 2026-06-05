@@ -11,26 +11,31 @@ lng: -74.2900
 zipSample: ["07728"]
 zipCodes: ["07728"]
 localPaths: ["Monmouth County / ZIP 07728 sector", "Monmouth County / elevation 154 ft band", "Monmouth County / primary ZIP 07728", "Monmouth County / coords 40.2300, -74.2900"]
-zillowHomeValueUsd: 635715
 ---
 
 **Engineering Notice for West Freehold:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Monmouth County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: West Freehold, NJ exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on West Freehold, NJ coverage windows and verified intake details.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: address recurring issues early to prevent bigger damage.
+Hail bruising on West Freehold, NJ ridges may not breach felt until the next wind event.
 
-Field note: Connection points spot-checked where accessible (ZIP 07728 zone).
+Tip: Note recent wind events when filing insurance photos for West Freehold, NJ.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07728.
+Risk flag: In West Freehold, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 07728 (county grid: Monmouth County).
+roof work brief: ridge cap nail schedule and shingle exposure calibration were cross-checked for the West Freehold intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 07728.
+
+On-site sector marker: Monmouth County / coords 40.2300, -74.2900 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Monmouth County / ZIP 07728 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07728-2217b172

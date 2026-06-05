@@ -11,24 +11,31 @@ lng: -90.3300
 zipSample: ["63033", "63032", "63031"]
 zipCodes: ["63031", "63032", "63033"]
 localPaths: ["St. Louis County / ZIP 63032 sector", "St. Louis County / ZIP 63033 sector", "St. Louis County / elevation 535 ft band", "St. Louis County / coords 38.8000, -90.3300", "St. Louis County / primary ZIP 63033"]
-zillowHomeValueUsd: 196442
 ---
 
 **Engineering Notice for Florissant:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-Our service coordination centers on Florissant, MO coverage windows and verified intake details.
+Wind-zone note: Florissant, MO exposure class can change starter-strip and cap nail schedules.
 
-Homeowners in Florissant, MO often face sudden roof service problems that require fast action.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Tile underlayment age in Florissant, MO can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Florissant, MO, but intake notes help reduce delays.
+Wood shake courses in Florissant, MO require skip-spacing rules at valleys.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: In Florissant, MO, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Connection points spot-checked where accessible (ZIP 63033/63031/63032 zone).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 63033, 63031, 63032 (county grid: St. Louis County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Scope trace: ice-barrier lap sequence plus soffit intake free area referenced in St. Louis County county grid review.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~535 ft across the St. Louis County area. Coordinates: 38.8000, -90.3300. ZIP sample: 63033, 63032, 63031. Service perimeter note: Coverage extends through St. Louis County with dispatch centered near ZIP 63033.
+
+On-site sector marker: St. Louis County / elevation 535 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63033-5173dcf9

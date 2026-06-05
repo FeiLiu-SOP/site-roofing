@@ -11,27 +11,31 @@ lng: -88.4400
 zipSample: ["60098"]
 zipCodes: ["60098"]
 localPaths: ["McHenry County / primary ZIP 60098", "McHenry County / coords 42.3100, -88.4400", "McHenry County / ZIP 60098 sector", "McHenry County / elevation 932 ft band"]
-zillowHomeValueUsd: 332737
 ---
 
 **Engineering Notice for Woodstock:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: McHenry County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Woodstock, IL exposure class can change starter-strip and cap nail schedules.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+We coordinate Woodstock, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Our service coordination centers on Woodstock, IL coverage windows and verified intake details.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60098.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Transparent pricing helps you compare like-for-like scope items.
+Synthetic underlayment slip in Woodstock, IL is often tied to deck moisture, not wind alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 60098 zone).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Access points and staging constraints recorded for ZIP 60098 coverage.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Dispatch sectors sampled: ZIP 60098 (county grid: McHenry County).
+Field routing: soffit intake free area paired with pipe boot manufacturer match near ZIP 60098.
+
+Field note: Shingle seal-down timing logged near ZIP 60098.
+
+On-site sector marker: McHenry County / primary ZIP 60098 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: McHenry County / elevation 932 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60098-bda7d269

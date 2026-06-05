@@ -11,24 +11,31 @@ lng: -122.9100
 zipSample: ["97502"]
 zipCodes: ["97502"]
 localPaths: ["Jackson County / ZIP 97502 sector", "Jackson County / coords 42.3800, -122.9100", "Jackson County / primary ZIP 97502", "Jackson County / elevation 1270 ft band"]
-zillowHomeValueUsd: 420160
 ---
 
 **Engineering Notice for Central Point:** Structural loading calculated based on 1270 ft terrain assessment. Regional dispatch grid: Jackson County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Across Central Point, OR, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 97502 intake.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 97502 (county grid: Jackson County).
+Tip: Note recent wind events when filing insurance photos for Central Point, OR.
+
+Field routing: ridge cap nail schedule paired with counter-flashing reglet depth near ZIP 97502.
+
+Field note: Attic moisture pathway scan referenced ZIP 97502.
+
+On-site sector marker: Jackson County / coords 42.3800, -122.9100 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 97502 with multi-ZIP overlap in Central Point; field packets tag Jackson County for county-grid reconciliation.
 
 Service reference: OR-97502-4d69075b

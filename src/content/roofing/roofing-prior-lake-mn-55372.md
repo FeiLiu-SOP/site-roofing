@@ -11,24 +11,29 @@ lng: -93.4400
 zipSample: ["55379", "55372"]
 zipCodes: ["55379", "55372"]
 localPaths: ["Scott County / elevation 928 ft band", "Scott County / ZIP 55372 sector", "Scott County / primary ZIP 55372", "Scott County / coords 44.7200, -93.4400", "Scott County / ZIP 55379 sector"]
-zillowHomeValueUsd: 516878
 ---
 
 **Engineering Notice for Prior Lake:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Scott County.
 
 
-Our service coordination centers on Prior Lake, MN coverage windows and verified intake details.
+In Prior Lake, MN, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-In Prior Lake, MN, seasonal demand can change scheduling windows.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 55372.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Prior Lake, MN, but intake notes help reduce delays.
+Step: map ventilation intake and exhaust pairs for Prior Lake, MN attic runs.
 
-Field note: Access points and staging constraints recorded for ZIP 55379/55372 coverage.
+Regulatory note: Prior Lake, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 55379, 55372 (county grid: Scott County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: ridge cap nail schedule paired with synthetic underlayment slip near ZIP 55372.
+
+Regional mesh label Scott County: moisture and logistics baselines are keyed to Prior Lake, MN before niche-specific work begins.
+
+On-site sector marker: Scott County / ZIP 55379 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55372-6634f5e4

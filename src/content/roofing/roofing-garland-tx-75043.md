@@ -11,24 +11,33 @@ lng: -96.6300
 zipSample: ["75044", "75046", "75049", "75041", "75042"]
 zipCodes: ["75047", "75043", "75044", "75040", "75041", "75046", "75049", "75042"]
 localPaths: ["Dallas County / primary ZIP 75043", "Dallas County / ZIP 75044 sector", "Dallas County / ZIP 75046 sector", "Dallas County / ZIP 75049 sector", "Dallas County / elevation 535 ft band"]
-zillowHomeValueUsd: 289505
 ---
 
 **Engineering Notice for Garland:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Dallas County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: map ventilation intake and exhaust pairs for Garland, TX attic runs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Metal panel oil-canning in Garland, TX may signal clip spacing issues, not wind damage alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+We coordinate Garland, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Homeowners in Garland, TX often face sudden roofing service problems that require fast action.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 75041/75044/75047 intake.
+Tip: Note recent wind events when filing insurance photos for Garland, TX.
 
-Dispatch sectors sampled: ZIP 75041, 75044, 75047, 75049, 75040 (county grid: Dallas County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Step: compare shingle manufacturer wind-zone ratings for Garland, TX exposure class.
+
+Scope trace: shingle exposure calibration plus synthetic underlayment slip referenced in Dallas County county grid review.
+
+On-site sector marker: Dallas County / ZIP 75042 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Garland, TX: sampled sectors include 75046, 75047, 75042, 75041, 75043, 75049, 75040, 75044; county routing grid remains Dallas County.
 
 Service reference: TX-75043-7ef6a183

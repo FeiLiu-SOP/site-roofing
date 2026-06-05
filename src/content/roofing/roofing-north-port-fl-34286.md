@@ -11,26 +11,31 @@ lng: -82.2000
 zipSample: ["34293", "34223", "34287", "34289", "34291"]
 zipCodes: ["34291", "34286", "34289", "34223", "34287", "34290", "34293", "34288"]
 localPaths: ["Sarasota County / ZIP 34289 sector", "Sarasota County / ZIP 34291 sector", "Sarasota County / ZIP 34223 sector", "Sarasota County / ZIP 34293 sector", "Sarasota County / elevation 26 ft band"]
-zillowHomeValueUsd: 310563
 ---
 
 **Engineering Notice for North Port:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Sarasota County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Port, FL, but intake notes help reduce delays.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Tip: request a written scope before work starts.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-We coordinate local dispatch coverage around North Port, FL and nearby ZIP sectors.
+Skylight curb flashing in North Port, FL should be sequenced before ridge cap replacement.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Wind exposure category reviewed for ZIP sector 34287/34288/34289.
+Risk flag: Tile underlayment age in North Port, FL can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 34287/34288/34289 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 34287, 34288, 34289, 34290, 34223 (county grid: Sarasota County).
+Regulatory note: North Port, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: starter-strip setback paired with drip-edge metal profile near ZIP 34286.
+
+On-site sector marker: Sarasota County / ZIP 34289 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Sarasota County / ZIP 34288 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34286-857ee2ee

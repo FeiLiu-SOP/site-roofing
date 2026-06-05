@@ -11,25 +11,31 @@ lng: -70.2900
 zipSample: ["04106"]
 zipCodes: ["04106"]
 localPaths: ["Cumberland County / primary ZIP 04106", "Cumberland County / ZIP 04106 sector", "Cumberland County / coords 43.6300, -70.2900", "Cumberland County / elevation 33 ft band"]
-zillowHomeValueUsd: 518076
 ---
 
 **Engineering Notice for South Portland:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Cumberland County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 04106.
+FAQ: How long can shingles wait after storm damage? In South Portland, ME, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 04106 coverage.
+Regulatory note: South Portland, ME projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 04106 (county grid: Cumberland County).
+Low-slope sections in South Portland, ME need positive drainage before membrane repairs are scoped.
+
+Material note: In South Portland, ME, algae-resistant granules may be specified for north-facing slopes.
+
+roofing service brief: chimney cricket slope and counter-flashing reglet depth were cross-checked for the South Portland intake packet.
+
+ZIP-corridor snapshot for South Portland, ME: sampled sectors include 04106; county routing grid remains Cumberland County.
+
+Primary postal anchor 04106 with multi-ZIP overlap in South Portland; field packets tag Cumberland County for county-grid reconciliation.
 
 Service reference: ME-04106-f987aa97

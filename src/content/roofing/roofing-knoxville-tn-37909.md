@@ -11,26 +11,33 @@ lng: -83.9500
 zipSample: ["37915", "37927", "37914", "37939", "37909"]
 zipCodes: ["37901", "37914", "37909", "37921", "37995", "37912", "37950", "37997", "37918", "37919", "37917", "37915"]
 localPaths: ["Knox County / elevation 886 ft band", "Knox County / ZIP 37939 sector", "Knox County / ZIP 37909 sector", "Knox County / ZIP 37927 sector", "Knox County / primary ZIP 37909"]
-zillowHomeValueUsd: 376375
 ---
 
 **Engineering Notice for Knoxville:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Knox County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Knoxville, TN, but intake notes help reduce delays.
+Material note: In Knoxville, TN, algae-resistant granules may be specified for north-facing slopes.
 
-In Knoxville, TN, urgent roof work issues can escalate quickly.
+Risk flag: Tile underlayment age in Knoxville, TN can fail independently of visible tile cracks.
 
-Tip: request a written scope before work starts.
+Wind-zone note: Knoxville, TN exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around Knoxville, TN and nearby ZIP sectors.
+FAQ: Is partial dry-in possible? In Knoxville, TN, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 37914/37927/37917 zone).
+Parapet coping movement in Knoxville, TN can channel water behind wall cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 37914/37927/37917.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 37914, 37927, 37917, 37919, 37912 (county grid: Knox County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: counter-flashing reglet depth plus drip-edge metal profile referenced in Knox County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 37927/37915/37912.
+
+On-site sector marker: Knox County / ZIP 37920 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Knox County / ZIP 37915 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37909-b7b61ee6

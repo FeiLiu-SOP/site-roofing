@@ -11,26 +11,31 @@ lng: -95.5500
 zipSample: ["75461", "75460", "75462"]
 zipCodes: ["75460", "75461", "75462"]
 localPaths: ["Lamar County / ZIP 75461 sector", "Lamar County / ZIP 75460 sector", "Lamar County / ZIP 75462 sector", "Lamar County / coords 33.6700, -95.5500", "Lamar County / elevation 614 ft band"]
-zillowHomeValueUsd: 277693
 ---
 
 **Engineering Notice for Paris:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Lamar County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Paris, TX, but intake notes help reduce delays.
+Step: map ventilation intake and exhaust pairs for Paris, TX attic runs.
 
-We coordinate local dispatch coverage around Paris, TX and nearby ZIP sectors.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Wind-zone note: Paris, TX exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in Paris, TX can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Attic ventilation deficits in Paris, TX can mimic roof leaks at ceiling penetrations.
 
-Field note: Access points and staging constraints recorded for ZIP 75461/75460/75462 coverage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 75461/75460/75462 zone).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 75461, 75460, 75462 (county grid: Lamar County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: deck sheathing thickness paired with synthetic underlayment slip near ZIP 75462.
+
+On-site sector marker: Lamar County / ZIP 75460 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lamar County / elevation 614 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75462-6e9f3ea0

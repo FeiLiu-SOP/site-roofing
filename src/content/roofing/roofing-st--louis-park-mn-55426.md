@@ -11,26 +11,35 @@ lng: -93.3600
 zipSample: ["55426", "55416"]
 zipCodes: ["55416", "55426"]
 localPaths: ["Hennepin County / elevation 909 ft band", "Hennepin County / ZIP 55426 sector", "Hennepin County / coords 44.9500, -93.3600", "Hennepin County / ZIP 55416 sector", "Hennepin County / primary ZIP 55426"]
-zillowHomeValueUsd: 370748
 ---
 
 **Engineering Notice for St. Louis Park:** Structural loading calculated based on 909 ft terrain assessment. Regional dispatch grid: Hennepin County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: confirm licensing and insurance before approving work.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around St. Louis Park, MN and nearby ZIP sectors.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In St. Louis Park, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 55416/55426.
+Wind-zone note: St. Louis Park, MN exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 55416/55426 intake.
+Hail bruising on St. Louis Park, MN ridges may not breach felt until the next wind event.
 
-Dispatch sectors sampled: ZIP 55416, 55426 (county grid: Hennepin County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+roof work brief: starter-strip setback and soffit intake free area were cross-checked for the St. Louis Park intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 55416/55426.
+
+On-site sector marker: Hennepin County / ZIP 55426 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Hennepin County. Reference elevation: 909 ft. Primary coordinates: 44.9500, -93.3600. ZIP sample: 55426, 55416. Regional routing note: Hennepin County traffic flow is balanced around ZIP 55426 service demand.
 
 Service reference: MN-55426-3932660e

@@ -11,26 +11,35 @@ lng: -122.3400
 zipSample: ["98146", "98148", "98062", "98168", "98166"]
 zipCodes: ["98166", "98062", "98146", "98148", "98168"]
 localPaths: ["King County / ZIP 98168 sector", "King County / ZIP 98166 sector", "King County / ZIP 98146 sector", "King County / primary ZIP 98146", "King County / coords 47.4800, -122.3400"]
-zillowHomeValueUsd: 693801
 ---
 
 **Engineering Notice for Burien:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: King County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-In Burien, WA, urgent roof work issues can escalate quickly.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Burien, WA, but intake notes help reduce delays.
+Wind-zone note: Burien, WA exposure class can change starter-strip and cap nail schedules.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Burien, WA coverage windows and verified intake details.
+Step: compare shingle manufacturer wind-zone ratings for Burien, WA exposure class.
 
-Field note: Wind exposure category reviewed for ZIP sector 98062/98146/98148.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 98062/98146/98148 coverage.
+TPO seam welds in Burien, WA commercial sections need probe tests after freeze events.
 
-Dispatch sectors sampled: ZIP 98062, 98146, 98148, 98166, 98168 (county grid: King County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Regulatory note: Burien, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roof work brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Burien intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98146/98148/98166.
+
+Primary postal anchor 98146 with multi-ZIP overlap in Burien; field packets tag King County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Burien, WA: sampled sectors include 98168, 98062, 98148, 98146, 98166; county routing grid remains King County.
 
 Service reference: WA-98146-58eaf9e9

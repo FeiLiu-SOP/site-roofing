@@ -11,26 +11,35 @@ lng: -71.1100
 zipSample: ["02155", "02153", "02156"]
 zipCodes: ["02156", "02155", "02153"]
 localPaths: ["Middlesex County / elevation 52 ft band", "Middlesex County / ZIP 02156 sector", "Middlesex County / primary ZIP 02155", "Middlesex County / ZIP 02153 sector", "Middlesex County / coords 42.4200, -71.1100"]
-zillowHomeValueUsd: 842757
 ---
 
 **Engineering Notice for Medford:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-A written scope helps prevent rework and mismatched expectations.
+Metal panel oil-canning in Medford, MA may signal clip spacing issues, not wind damage alone.
 
-Our service coordination centers on Medford, MA coverage windows and verified intake details.
+Code context: Ventilation ratios for Medford, MA attics should be checked against current mechanical exhaust additions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Medford, MA, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 02156/02155/02153.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Connection points spot-checked where accessible (ZIP 02156/02155/02153 zone).
+FAQ: When should permanent restoration start? In Medford, MA, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 02156, 02155, 02153 (county grid: Middlesex County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Risk flag: In Medford, MA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: pipe boot manufacturer match paired with shingle exposure calibration near ZIP 02155.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 02156/02155/02153.
+
+ZIP-corridor snapshot for Medford, MA: sampled sectors include 02156, 02153, 02155; county routing grid remains Middlesex County.
+
+Coordinate-anchored dispatch note: center reference 42.4200, -71.1100 at elevation ~52 ft aligns with Middlesex County intake staging.
 
 Service reference: MA-02155-8a898f00

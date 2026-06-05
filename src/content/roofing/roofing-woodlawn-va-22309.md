@@ -11,27 +11,33 @@ lng: -77.1100
 zipSample: ["22309"]
 zipCodes: ["22309"]
 localPaths: ["Fairfax County / ZIP 22309 sector", "Fairfax County / elevation 33 ft band", "Fairfax County / coords 38.7300, -77.1100", "Fairfax County / primary ZIP 22309"]
-zillowHomeValueUsd: 592027
 ---
 
 **Engineering Notice for Woodlawn:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-Tip: request a written scope before work starts.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Woodlawn, VA.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 22309.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22309.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 22309 coverage.
+Regulatory note: Woodlawn, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 22309 (county grid: Fairfax County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Metal panel oil-canning in Woodlawn, VA may signal clip spacing issues, not wind damage alone.
+
+roof work brief: soffit intake free area and skylight curb height were cross-checked for the Woodlawn intake packet.
+
+Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Woodlawn, VA before niche-specific work begins.
+
+Primary postal anchor 22309 with multi-ZIP overlap in Woodlawn; field packets tag Fairfax County for county-grid reconciliation.
 
 Service reference: VA-22309-73dbeaa2

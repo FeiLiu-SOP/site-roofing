@@ -11,24 +11,31 @@ lng: -86.7400
 zipSample: ["35040"]
 zipCodes: ["35040"]
 localPaths: ["Shelby County / elevation 571 ft band", "Shelby County / ZIP 35040 sector", "Shelby County / coords 33.1300, -86.7400", "Shelby County / primary ZIP 35040"]
-zillowHomeValueUsd: 254843
 ---
 
 **Engineering Notice for Calera:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Shelby County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Parapet coping movement in Calera, AL can channel water behind wall cladding.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 35040 coverage.
+Regulatory note: Calera, AL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 35040 (county grid: Shelby County).
+FAQ: Is partial dry-in possible? In Calera, AL, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: starter-strip setback plus wind uplift clip spacing referenced in Shelby County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 35040.
+
+On-site sector marker: Shelby County / coords 33.1300, -86.7400 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Calera, AL: sampled sectors include 35040; county routing grid remains Shelby County.
 
 Service reference: AL-35040-36fbd935

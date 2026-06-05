@@ -11,24 +11,29 @@ lng: -121.2900
 zipSample: ["95648"]
 zipCodes: ["95648"]
 localPaths: ["Placer County / elevation 148 ft band", "Placer County / ZIP 95648 sector", "Placer County / coords 38.8800, -121.2900", "Placer County / primary ZIP 95648"]
-zillowHomeValueUsd: 639748
 ---
 
 **Engineering Notice for Lincoln:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Placer County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Local conditions in Lincoln, CA can affect timelines and material choices.
+FAQ: How long can shingles wait after storm damage? In Lincoln, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: compare at least two estimates for scope and timeline.
+Code context: Ventilation ratios for Lincoln, CA attics should be checked against current mechanical exhaust additions.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Moisture pathway inspection logged near ZIP 95648 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 95648 (county grid: Placer County).
+Across Lincoln, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Field routing: ridge cap nail schedule paired with ice-barrier lap sequence near ZIP 95648.
+
+Regional mesh label Placer County: moisture and logistics baselines are keyed to Lincoln, CA before niche-specific work begins.
+
+On-site sector marker: Placer County / elevation 148 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95648-5e04335f

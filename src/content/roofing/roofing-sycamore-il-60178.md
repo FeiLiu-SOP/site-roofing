@@ -11,26 +11,33 @@ lng: -88.6800
 zipSample: ["60178"]
 zipCodes: ["60178"]
 localPaths: ["DeKalb County / elevation 827 ft band", "DeKalb County / ZIP 60178 sector", "DeKalb County / coords 42.0000, -88.6800", "DeKalb County / primary ZIP 60178"]
-zillowHomeValueUsd: 313302
 ---
 
 **Engineering Notice for Sycamore:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: DeKalb County.
 
 
-We coordinate local dispatch coverage around Sycamore, IL and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: request a written scope before work starts.
+We coordinate Sycamore, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Regulatory note: Sycamore, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Sycamore, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sycamore, IL, but intake notes help reduce delays.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Moisture pathway inspection logged near ZIP 60178 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 60178 zone).
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 60178 (county grid: DeKalb County).
+Tile and shingle mixes in Sycamore, IL require different fastener patterns at transitions.
+
+Field routing: starter-strip setback paired with wind uplift clip spacing near ZIP 60178.
+
+Field note: Attic moisture pathway scan referenced ZIP 60178.
+
+On-site sector marker: DeKalb County / elevation 827 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: DeKalb County / coords 42.0000, -88.6800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60178-ccc9aefd

@@ -11,26 +11,33 @@ lng: -89.6300
 zipSample: ["61032"]
 zipCodes: ["61032"]
 localPaths: ["Stephenson County / coords 42.2900, -89.6300", "Stephenson County / elevation 801 ft band", "Stephenson County / ZIP 61032 sector", "Stephenson County / primary ZIP 61032"]
-zillowHomeValueUsd: 123002
 ---
 
 **Engineering Notice for Freeport:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Stephenson County.
 
 
-We coordinate local dispatch coverage around Freeport, IL and nearby ZIP sectors.
+FAQ: Is partial dry-in possible? In Freeport, IL, yes—if slope and anchor points support safe tie-offs.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Freeport, IL attics should be checked against current mechanical exhaust additions.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+TPO seam welds in Freeport, IL commercial sections need probe tests after freeze events.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Access points and staging constraints recorded for ZIP 61032 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 61032.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 61032 (county grid: Stephenson County).
+Tip: Note recent wind events when filing insurance photos for Freeport, IL.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Scope trace: starter-strip setback plus attic baffle spacing referenced in Stephenson County county grid review.
+
+Primary postal anchor 61032 with multi-ZIP overlap in Freeport; field packets tag Stephenson County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 42.2900, -89.6300 at elevation ~801 ft aligns with Stephenson County intake staging.
 
 Service reference: IL-61032-85c6de36

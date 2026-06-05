@@ -11,26 +11,31 @@ lng: -82.6600
 zipSample: ["34655"]
 zipCodes: ["34655"]
 localPaths: ["Pasco County / primary ZIP 34655", "Pasco County / elevation 43 ft band", "Pasco County / coords 28.1800, -82.6600", "Pasco County / ZIP 34655 sector"]
-zillowHomeValueUsd: 378316
 ---
 
 **Engineering Notice for Trinity:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Pasco County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Trinity, FL, but intake notes help reduce delays.
+Synthetic underlayment slip in Trinity, FL is often tied to deck moisture, not wind alone.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: stage tear-off debris paths away from landscape drains.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 34655.
 
-Field note: Access points and staging constraints recorded for ZIP 34655 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 34655.
+FAQ: Can you tarp only part of the roof? In Trinity, FL, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 34655 (county grid: Pasco County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof service brief: deck sheathing thickness and counter-flashing reglet depth were cross-checked for the Trinity intake packet.
+
+On-site sector marker: Pasco County / elevation 43 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Trinity, FL: sampled sectors include 34655; county routing grid remains Pasco County.
 
 Service reference: FL-34655-be01ce02

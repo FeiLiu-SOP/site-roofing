@@ -11,24 +11,33 @@ lng: -97.0700
 zipSample: ["75261", "76099", "76051"]
 zipCodes: ["76051", "75261", "76099"]
 localPaths: ["Tarrant County / ZIP 75261 sector", "Tarrant County / elevation 643 ft band", "Tarrant County / coords 32.9300, -97.0700", "Tarrant County / ZIP 76099 sector", "Tarrant County / ZIP 76051 sector"]
-zillowHomeValueUsd: 548095
 ---
 
 **Engineering Notice for Grapevine:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Tarrant County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Grapevine, TX, but intake notes help reduce delays.
+Granule embedment loss on Grapevine, TX north slopes can precede mat exposure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-A written scope helps prevent rework and mismatched expectations.
+Our Grapevine, TX dispatch packets reference county grid Tarrant County and elevation band 643 ft.
 
-In Grapevine, TX, urgent roofing service issues can escalate quickly.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: avoid large upfront payments without milestones.
+Code context: Ventilation ratios for Grapevine, TX attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 76051/76099/75261 intake.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 76051, 76099, 75261 (county grid: Tarrant County).
+Risk flag: In Grapevine, TX, interior stains may track from HVAC condensate rather than roof cladding.
+
+Material note: In Grapevine, TX, algae-resistant granules may be specified for north-facing slopes.
+
+Scope trace: attic baffle spacing plus shingle exposure calibration referenced in Tarrant County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 76099/76051/75261.
+
+Primary postal anchor 75261 with multi-ZIP overlap in Grapevine; field packets tag Tarrant County for county-grid reconciliation.
+
+Regional mesh label Tarrant County: moisture and logistics baselines are keyed to Grapevine, TX before niche-specific work begins.
 
 Service reference: TX-75261-1ba70c69

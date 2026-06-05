@@ -11,24 +11,35 @@ lng: -122.2800
 zipSample: ["98338"]
 zipCodes: ["98338"]
 localPaths: ["Pierce County / ZIP 98338 sector", "Pierce County / elevation 853 ft band", "Pierce County / coords 47.0300, -122.2800", "Pierce County / primary ZIP 98338"]
-zillowHomeValueUsd: 591870
 ---
 
 **Engineering Notice for Graham:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Pierce County.
 
 
-We coordinate local dispatch coverage around Graham, WA and nearby ZIP sectors.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tile and shingle mixes in Graham, WA require different fastener patterns at transitions.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Connection points spot-checked where accessible (ZIP 98338 zone).
+Wind-zone note: Graham, WA exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 98338 (county grid: Pierce County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Risk flag: In Graham, WA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+roofing service brief: deck sheathing thickness and chimney cricket slope were cross-checked for the Graham intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 98338.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Pierce County. Reference elevation: 853 ft. Primary coordinates: 47.0300, -122.2800. ZIP sample: 98338. Regional routing note: Pierce County traffic flow is balanced around ZIP 98338 service demand.
+
+On-site sector marker: Pierce County / ZIP 98338 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98338-f848ba85

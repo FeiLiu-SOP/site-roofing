@@ -11,24 +11,33 @@ lng: -87.8600
 zipSample: ["60161", "60160"]
 zipCodes: ["60161", "60160"]
 localPaths: ["Cook County / elevation 643 ft band", "Cook County / primary ZIP 60160", "Cook County / coords 41.9000, -87.8600", "Cook County / ZIP 60161 sector", "Cook County / ZIP 60160 sector"]
-zillowHomeValueUsd: 311352
 ---
 
 **Engineering Notice for Melrose Park:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-We coordinate local dispatch coverage around Melrose Park, IL and nearby ZIP sectors.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-In Melrose Park, IL, urgent roof service issues can escalate quickly.
+Regulatory note: Melrose Park, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: address recurring issues early to prevent bigger damage.
+Synthetic underlayment slip in Melrose Park, IL is often tied to deck moisture, not wind alone.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Melrose Park, IL, but intake notes help reduce delays.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 60160/60161 zone).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 60160, 60161 (county grid: Cook County).
+We coordinate Melrose Park, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+FAQ: When should permanent restoration start? In Melrose Park, IL, delayed dry-in can expand insulation and ceiling repairs.
+
+Risk flag: Tile underlayment age in Melrose Park, IL can fail independently of visible tile cracks.
+
+Field routing: ice-barrier lap sequence paired with skylight curb height near ZIP 60160.
+
+Primary postal anchor 60160 with multi-ZIP overlap in Melrose Park; field packets tag Cook County for county-grid reconciliation.
+
+On-site sector marker: Cook County / primary ZIP 60160 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60160-3f11720c

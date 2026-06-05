@@ -11,26 +11,31 @@ lng: -117.9300
 zipSample: ["91744"]
 zipCodes: ["91744"]
 localPaths: ["Los Angeles County / elevation 390 ft band", "Los Angeles County / ZIP 91744 sector", "Los Angeles County / primary ZIP 91744", "Los Angeles County / coords 34.0400, -117.9300"]
-zillowHomeValueUsd: 740939
 ---
 
 **Engineering Notice for Valinda:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Our service coordination centers on Valinda, CA coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Valinda, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: separate emergency tarp scope from permanent service line items.
 
-Field note: Access points and staging constraints recorded for ZIP 91744 coverage.
+Risk flag: In Valinda, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91744.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 91744 (county grid: Los Angeles County).
+In Valinda, CA, wind-driven rain can lift shingle tabs before owners notice deck staining.
+
+roofing service brief: counter-flashing reglet depth and deck sheathing thickness were cross-checked for the Valinda intake packet.
+
+On-site sector marker: Los Angeles County / coords 34.0400, -117.9300 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / elevation 390 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91744-c00dd650

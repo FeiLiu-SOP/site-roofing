@@ -11,27 +11,33 @@ lng: -97.4200
 zipSample: ["76031", "76033"]
 zipCodes: ["76031", "76033"]
 localPaths: ["Johnson County / primary ZIP 76033", "Johnson County / elevation 817 ft band", "Johnson County / ZIP 76031 sector", "Johnson County / coords 32.3600, -97.4200", "Johnson County / ZIP 76033 sector"]
-zillowHomeValueUsd: 272490
 ---
 
 **Engineering Notice for Cleburne:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Johnson County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Cleburne, TX can fail independently of visible tile cracks.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 76033.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In Cleburne, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Homeowners in Cleburne, TX often face sudden roof service problems that require fast action.
+Freeze-thaw cycles around Cleburne, TX stress nail pops along eaves and rake edges.
 
-Tip: request a written scope before work starts.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Wind exposure category reviewed for ZIP sector 76031/76033.
+Regulatory note: Cleburne, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 76031/76033.
+Step: map ventilation intake and exhaust pairs for Cleburne, TX attic runs.
 
-Dispatch sectors sampled: ZIP 76031, 76033 (county grid: Johnson County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: drip-edge metal profile plus skylight curb height referenced in Johnson County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 76033/76031.
+
+On-site sector marker: Johnson County / ZIP 76033 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 76033 with multi-ZIP overlap in Cleburne; field packets tag Johnson County for county-grid reconciliation.
 
 Service reference: TX-76033-cd6e1a5e

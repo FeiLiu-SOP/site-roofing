@@ -11,26 +11,31 @@ lng: -84.6500
 zipSample: ["41022", "41042"]
 zipCodes: ["41022", "41042"]
 localPaths: ["Boone County / ZIP 41042 sector", "Boone County / primary ZIP 41042", "Boone County / coords 38.9900, -84.6500", "Boone County / elevation 896 ft band", "Boone County / ZIP 41022 sector"]
-zillowHomeValueUsd: 275025
 ---
 
 **Engineering Notice for Florence:** Structural loading calculated based on 896 ft terrain assessment. Regional dispatch grid: Boone County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: In Florence, KY, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Florence, KY, but intake notes help reduce delays.
+Attic ventilation deficits in Florence, KY can mimic roof leaks at ceiling penetrations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Wind-zone note: Florence, KY exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 41042/41022.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 41042/41022 coverage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 41042, 41022 (county grid: Boone County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: shingle exposure calibration plus counter-flashing reglet depth referenced in Boone County county grid review.
+
+On-site sector marker: Boone County / ZIP 41042 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Boone County / coords 38.9900, -84.6500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-41042-536a6890

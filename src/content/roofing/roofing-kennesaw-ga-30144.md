@@ -11,25 +11,33 @@ lng: -84.6200
 zipSample: ["30144", "30152"]
 zipCodes: ["30144", "30152"]
 localPaths: ["Cobb County / elevation 1138 ft band", "Cobb County / ZIP 30152 sector", "Cobb County / coords 34.0300, -84.6200", "Cobb County / primary ZIP 30144", "Cobb County / ZIP 30144 sector"]
-zillowHomeValueUsd: 382592
 ---
 
 **Engineering Notice for Kennesaw:** Structural loading calculated based on 1138 ft terrain assessment. Regional dispatch grid: Cobb County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+We coordinate Kennesaw, GA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Transparent pricing helps you compare like-for-like scope items.
+Code context: Ventilation ratios for Kennesaw, GA attics should be checked against current mechanical exhaust additions.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 30144.
+Step: separate emergency tarp scope from permanent service line items.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 30152/30144.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 30152, 30144 (county grid: Cobb County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Low-slope sections in Kennesaw, GA need positive drainage before membrane repairs are scoped.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Scope trace: wind uplift clip spacing plus ice-barrier lap sequence referenced in Cobb County county grid review.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Cobb County and primary ZIP 30144. Terrain reference: 1138 ft. Center point: 34.0300, -84.6200. ZIP sample: 30144, 30152. Service perimeter note: Coverage extends through Cobb County with dispatch centered near ZIP 30144.
+
+On-site sector marker: Cobb County / coords 34.0300, -84.6200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30144-ef27a7a8

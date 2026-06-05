@@ -11,27 +11,29 @@ lng: -123.1200
 zipSample: ["97401", "97440", "97404", "97405", "97402"]
 zipCodes: ["97405", "97402", "97401", "97404", "97403", "97440"]
 localPaths: ["Lane County / ZIP 97440 sector", "Lane County / ZIP 97402 sector", "Lane County / ZIP 97405 sector", "Lane County / coords 44.0600, -123.1200", "Lane County / primary ZIP 97405"]
-zillowHomeValueUsd: 527566
 ---
 
 **Engineering Notice for Eugene:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Lane County.
 
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for Eugene, OR attics should be checked against current mechanical exhaust additions.
 
-Homeowners in Eugene, OR often face sudden roof work problems that require fast action.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Attic ventilation deficits in Eugene, OR can mimic roof leaks at ceiling penetrations.
 
-We coordinate local dispatch coverage around Eugene, OR and nearby ZIP sectors.
+Step: compare shingle manufacturer wind-zone ratings for Eugene, OR exposure class.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 97405.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Moisture pathway inspection logged near ZIP 97402/97403/97440 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Access points and staging constraints recorded for ZIP 97402/97403/97440 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 97402, 97403, 97440, 97404, 97401 (county grid: Lane County).
+Scope trace: attic baffle spacing plus valley metal gauge referenced in Lane County county grid review.
+
+ZIP-corridor snapshot for Eugene, OR: sampled sectors include 97402, 97440, 97405, 97403, 97404, 97401; county routing grid remains Lane County.
+
+Coordinate-anchored dispatch note: center reference 44.0600, -123.1200 at elevation ~413 ft aligns with Lane County intake staging.
 
 Service reference: OR-97405-4837d88e

@@ -11,24 +11,35 @@ lng: -90.9600
 zipSample: ["70769"]
 zipCodes: ["70769"]
 localPaths: ["Ascension Parish / primary ZIP 70769", "Ascension Parish / elevation 30 ft band", "Ascension Parish / ZIP 70769 sector", "Ascension Parish / coords 30.3200, -90.9600"]
-zillowHomeValueUsd: 338551
 ---
 
 **Engineering Notice for Prairieville:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Ascension Parish.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Prairieville, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: compare shingle manufacturer wind-zone ratings for Prairieville, LA exposure class.
 
-Tip: confirm licensing and insurance before approving work.
+Metal panel oil-canning in Prairieville, LA may signal clip spacing issues, not wind damage alone.
 
-Field note: Moisture pathway inspection logged near ZIP 70769 intake.
+Risk flag: In Prairieville, LA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 70769 (county grid: Ascension Parish).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: counter-flashing reglet depth paired with ridge cap nail schedule near ZIP 70769.
+
+Field note: Valley debris and granule loss noted for ZIP 70769.
+
+On-site sector marker: Ascension Parish / primary ZIP 70769 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Ascension Parish / ZIP 70769 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70769-76dcf2f9

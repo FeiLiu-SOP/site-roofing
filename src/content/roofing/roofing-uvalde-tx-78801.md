@@ -11,24 +11,29 @@ lng: -99.7800
 zipSample: ["78801"]
 zipCodes: ["78801"]
 localPaths: ["Uvalde County / primary ZIP 78801", "Uvalde County / ZIP 78801 sector", "Uvalde County / coords 29.2200, -99.7800", "Uvalde County / elevation 909 ft band"]
-zillowHomeValueUsd: 182569
 ---
 
 **Engineering Notice for Uvalde:** Structural loading calculated based on 909 ft terrain assessment. Regional dispatch grid: Uvalde County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: stage tear-off debris paths away from landscape drains.
 
-Our service coordination centers on Uvalde, TX coverage windows and verified intake details.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Metal panel oil-canning in Uvalde, TX may signal clip spacing issues, not wind damage alone.
 
-Field note: Access points and staging constraints recorded for ZIP 78801 coverage.
+FAQ: When should permanent service start? In Uvalde, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 78801 (county grid: Uvalde County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: attic baffle spacing paired with pipe boot manufacturer match near ZIP 78801.
+
+Coordinate-anchored dispatch note: center reference 29.2200, -99.7800 at elevation ~909 ft aligns with Uvalde County intake staging.
+
+On-site sector marker: Uvalde County / coords 29.2200, -99.7800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78801-8dff990c

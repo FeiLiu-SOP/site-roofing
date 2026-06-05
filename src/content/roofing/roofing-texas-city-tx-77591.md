@@ -11,24 +11,31 @@ lng: -94.9700
 zipSample: ["77539", "77518", "77568", "77591", "77590"]
 zipCodes: ["77590", "77518", "77539", "77591", "77568"]
 localPaths: ["Galveston County / ZIP 77590 sector", "Galveston County / elevation 16 ft band", "Galveston County / ZIP 77591 sector", "Galveston County / ZIP 77539 sector", "Galveston County / ZIP 77568 sector"]
-zillowHomeValueUsd: 239772
 ---
 
 **Engineering Notice for Texas City:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Galveston County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Texas City, TX, but intake notes help reduce delays.
+Valley metal in Texas City, TX should be reviewed whenever granule loss tracks the water line.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Our service coordination centers on Texas City, TX coverage windows and verified intake details.
+Our Texas City, TX dispatch packets reference county grid Galveston County and elevation band 16 ft.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77568/77591/77590.
+Risk flag: Tile underlayment age in Texas City, TX can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 77568, 77591, 77590, 77539, 77518 (county grid: Galveston County).
+Wind-zone note: Texas City, TX exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: shingle exposure calibration plus starter-strip setback referenced in Galveston County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 77539/77518/77568.
+
+On-site sector marker: Galveston County / ZIP 77590 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Galveston County and primary ZIP 77591. Terrain reference: 16 ft. Center point: 29.4200, -94.9700. ZIP sample: 77591, 77568, 77518, 77539, 77590. Service perimeter note: Coverage extends through Galveston County with dispatch centered near ZIP 77591.
 
 Service reference: TX-77591-e1595e05

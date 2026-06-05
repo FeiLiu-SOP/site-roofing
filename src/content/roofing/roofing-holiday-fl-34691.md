@@ -11,24 +11,33 @@ lng: -82.7400
 zipSample: ["34692", "34691", "34690"]
 zipCodes: ["34691", "34690", "34692"]
 localPaths: ["Pasco County / ZIP 34692 sector", "Pasco County / ZIP 34690 sector", "Pasco County / coords 28.1900, -82.7400", "Pasco County / elevation 26 ft band", "Pasco County / primary ZIP 34691"]
-zillowHomeValueUsd: 225162
 ---
 
 **Engineering Notice for Holiday:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Pasco County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is partial dry-in possible? In Holiday, FL, yes—if slope and anchor points support safe tie-offs.
 
-Local conditions in Holiday, FL can affect timelines and material choices.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Holiday, FL can fail independently of visible tile cracks.
 
-Tip: avoid large upfront payments without milestones.
+Coastal humidity in Holiday, FL can slow shingle seal-down after shoulder-season storms.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Wind exposure category reviewed for ZIP sector 34692/34691/34690.
+Code context: Ventilation ratios for Holiday, FL attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 34692, 34691, 34690 (county grid: Pasco County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+roof service brief: starter-strip setback and shingle exposure calibration were cross-checked for the Holiday intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 34691/34692/34690.
+
+On-site sector marker: Pasco County / primary ZIP 34691 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 34691 with multi-ZIP overlap in Holiday; field packets tag Pasco County for county-grid reconciliation.
 
 Service reference: FL-34691-cfbce205

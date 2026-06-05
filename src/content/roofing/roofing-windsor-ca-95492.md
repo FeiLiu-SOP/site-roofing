@@ -11,24 +11,33 @@ lng: -122.8100
 zipSample: ["95492"]
 zipCodes: ["95492"]
 localPaths: ["Sonoma County / ZIP 95492 sector", "Sonoma County / elevation 98 ft band", "Sonoma County / coords 38.5400, -122.8100", "Sonoma County / primary ZIP 95492"]
-zillowHomeValueUsd: 806224
 ---
 
 **Engineering Notice for Windsor:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Sonoma County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Windsor, CA, but intake notes help reduce delays.
+Risk flag: In Windsor, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Windsor, CA coverage windows and verified intake details.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: avoid large upfront payments without milestones.
+Low-slope sections in Windsor, CA need positive drainage before membrane repairs are scoped.
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can you tarp only part of the roof? In Windsor, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 95492 zone).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 95492 (county grid: Sonoma County).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: chimney cricket slope plus shingle exposure calibration referenced in Sonoma County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 95492.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~98 ft across the Sonoma County area. Coordinates: 38.5400, -122.8100. ZIP sample: 95492. Logistics priority: Serving residential sectors across Sonoma County and north-east ZIP 95492 grid.
+
+ZIP-corridor snapshot for Windsor, CA: sampled sectors include 95492; county routing grid remains Sonoma County.
 
 Service reference: CA-95492-00f81677

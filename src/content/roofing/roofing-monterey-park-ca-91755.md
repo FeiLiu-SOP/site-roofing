@@ -11,25 +11,33 @@ lng: -118.1300
 zipSample: ["91755", "91756", "91754"]
 zipCodes: ["91755", "91754", "91756"]
 localPaths: ["Los Angeles County / coords 34.0500, -118.1300", "Los Angeles County / ZIP 91754 sector", "Los Angeles County / ZIP 91755 sector", "Los Angeles County / primary ZIP 91755", "Los Angeles County / ZIP 91756 sector"]
-zillowHomeValueUsd: 924192
 ---
 
 **Engineering Notice for Monterey Park:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Monterey Park, CA attics should be checked against current mechanical exhaust additions.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 91755.
+Low-slope sections in Monterey Park, CA need positive drainage before membrane repairs are scoped.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91755/91754/91756.
+Risk flag: In Monterey Park, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 91755, 91754, 91756 (county grid: Los Angeles County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Field routing: soffit intake free area paired with chimney cricket slope near ZIP 91755.
+
+Field note: Attic moisture pathway scan referenced ZIP 91754/91756/91755.
+
+Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to Monterey Park, CA before niche-specific work begins.
+
+On-site sector marker: Los Angeles County / ZIP 91754 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91755-c0996887

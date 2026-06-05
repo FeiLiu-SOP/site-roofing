@@ -11,24 +11,33 @@ lng: -86.4500
 zipSample: ["37162", "37161", "37160"]
 zipCodes: ["37161", "37162", "37160"]
 localPaths: ["Bedford County / elevation 778 ft band", "Bedford County / ZIP 37160 sector", "Bedford County / ZIP 37162 sector", "Bedford County / coords 35.5000, -86.4500", "Bedford County / ZIP 37161 sector"]
-zillowHomeValueUsd: 312581
 ---
 
 **Engineering Notice for Shelbyville:** Structural loading calculated based on 778 ft terrain assessment. Regional dispatch grid: Bedford County.
 
 
-We coordinate local dispatch coverage around Shelbyville, TN and nearby ZIP sectors.
+Step: compare shingle manufacturer wind-zone ratings for Shelbyville, TN exposure class.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Across Shelbyville, TN, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Shelbyville, TN, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Shelbyville, TN.
 
-Field note: Access points and staging constraints recorded for ZIP 37162/37160/37161 coverage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 37162, 37160, 37161 (county grid: Bedford County).
+Wind-zone note: Shelbyville, TN exposure class can change starter-strip and cap nail schedules.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: skylight curb height paired with ridge cap nail schedule near ZIP 37160.
+
+Field note: Valley debris and granule loss noted for ZIP 37161/37160/37162.
+
+Primary postal anchor 37160 with multi-ZIP overlap in Shelbyville; field packets tag Bedford County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~778 ft across the Bedford County area. Coordinates: 35.5000, -86.4500. ZIP sample: 37161, 37162, 37160. Logistics priority: Serving residential sectors across Bedford County and north-east ZIP 37160 grid.
 
 Service reference: TN-37160-3055521f

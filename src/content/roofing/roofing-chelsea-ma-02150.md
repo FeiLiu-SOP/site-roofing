@@ -11,26 +11,33 @@ lng: -71.0300
 zipSample: ["02204", "02150"]
 zipCodes: ["02150", "02204"]
 localPaths: ["Suffolk County / ZIP 02204 sector", "Suffolk County / coords 42.4000, -71.0300", "Suffolk County / ZIP 02150 sector", "Suffolk County / primary ZIP 02150", "Suffolk County / elevation 39 ft band"]
-zillowHomeValueUsd: 525538
 ---
 
 **Engineering Notice for Chelsea:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Chelsea, MA, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+Material note: In Chelsea, MA, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Chelsea, MA attics should be checked against current mechanical exhaust additions.
 
-Our service coordination centers on Chelsea, MA coverage windows and verified intake details.
+Freeze-thaw cycles around Chelsea, MA stress nail pops along eaves and rake edges.
 
-Field note: Wind exposure category reviewed for ZIP sector 02204/02150.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Moisture pathway inspection logged near ZIP 02204/02150 intake.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 02204, 02150 (county grid: Suffolk County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+roofing service brief: wind uplift clip spacing and synthetic underlayment slip were cross-checked for the Chelsea intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 02150/02204.
+
+On-site sector marker: Suffolk County / primary ZIP 02150 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Suffolk County / coords 42.4000, -71.0300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-02150-f48b8563

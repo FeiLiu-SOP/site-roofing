@@ -11,26 +11,31 @@ lng: -74.0000
 zipSample: ["10962", "10965"]
 zipCodes: ["10962", "10965"]
 localPaths: ["Rockland County / ZIP 10962 sector", "Rockland County / primary ZIP 10965", "Rockland County / coords 41.0600, -74.0000", "Rockland County / ZIP 10965 sector", "Rockland County / elevation 292 ft band"]
-zillowHomeValueUsd: 703078
 ---
 
 **Engineering Notice for Pearl River:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Rockland County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 10965.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Pearl River, NY roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-In Pearl River, NY, urgent roof work issues can escalate quickly.
+Step: compare shingle manufacturer wind-zone ratings for Pearl River, NY exposure class.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pearl River, NY, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Pearl River, NY attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 10965/10962 intake.
+Low-slope sections in Pearl River, NY need positive drainage before membrane repairs are scoped.
 
-Field note: Connection points spot-checked where accessible (ZIP 10965/10962 zone).
+Material note: In Pearl River, NY, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 10965, 10962 (county grid: Rockland County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Scope trace: counter-flashing reglet depth plus ice-barrier lap sequence referenced in Rockland County county grid review.
+
+On-site sector marker: Rockland County / ZIP 10962 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Rockland County / primary ZIP 10965 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10965-7a2056d6

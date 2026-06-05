@@ -11,25 +11,35 @@ lng: -80.4400
 zipSample: ["16148"]
 zipCodes: ["16148"]
 localPaths: ["Mercer County / primary ZIP 16148", "Mercer County / ZIP 16148 sector", "Mercer County / elevation 1109 ft band", "Mercer County / coords 41.2300, -80.4400"]
-zillowHomeValueUsd: 213337
 ---
 
 **Engineering Notice for Hermitage:** Structural loading calculated based on 1109 ft terrain assessment. Regional dispatch grid: Mercer County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Hermitage, PA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hermitage, PA, but intake notes help reduce delays.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 16148.
+Code context: Ventilation ratios for Hermitage, PA attics should be checked against current mechanical exhaust additions.
 
-Local conditions in Hermitage, PA can affect timelines and material choices.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 16148 zone).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 16148 (county grid: Mercer County).
+Low-slope sections in Hermitage, PA need positive drainage before membrane repairs are scoped.
+
+Our Hermitage, PA dispatch packets reference county grid Mercer County and elevation band 1109 ft.
+
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Scope trace: valley metal gauge plus pipe boot manufacturer match referenced in Mercer County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 16148.
+
+Regional mesh label Mercer County: moisture and logistics baselines are keyed to Hermitage, PA before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Mercer County and primary ZIP 16148. Terrain reference: 1109 ft. Center point: 41.2300, -80.4400. ZIP sample: 16148. Logistics priority: Serving residential sectors across Mercer County and north-east ZIP 16148 grid.
 
 Service reference: PA-16148-b090f5a8

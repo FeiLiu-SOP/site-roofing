@@ -11,26 +11,31 @@ lng: -82.7200
 zipSample: ["34652", "34656", "34653"]
 zipCodes: ["34656", "34653", "34652"]
 localPaths: ["Pasco County / ZIP 34652 sector", "Pasco County / ZIP 34653 sector", "Pasco County / primary ZIP 34653", "Pasco County / elevation 46 ft band", "Pasco County / coords 28.2500, -82.7200"]
-zillowHomeValueUsd: 249429
 ---
 
 **Engineering Notice for New Port Richey:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Pasco County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-In New Port Richey, FL, seasonal demand can change scheduling windows.
+TPO seam welds in New Port Richey, FL commercial sections need probe tests after freeze events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34653/34652/34656.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Access points and staging constraints recorded for ZIP 34653/34652/34656 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 34653, 34652, 34656 (county grid: Pasco County).
+Scope trace: deck sheathing thickness plus counter-flashing reglet depth referenced in Pasco County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 34652/34653/34656.
+
+On-site sector marker: Pasco County / primary ZIP 34653 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 28.2500, -82.7200 at elevation ~46 ft aligns with Pasco County intake staging.
 
 Service reference: FL-34653-793d3c7c

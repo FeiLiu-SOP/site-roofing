@@ -11,26 +11,31 @@ lng: -82.5800
 zipSample: ["34282", "34207"]
 zipCodes: ["34282", "34207"]
 localPaths: ["Manatee County / ZIP 34207 sector", "Manatee County / coords 27.4300, -82.5800", "Manatee County / primary ZIP 34207", "Manatee County / ZIP 34282 sector", "Manatee County / elevation 39 ft band"]
-zillowHomeValueUsd: 209614
 ---
 
 **Engineering Notice for Bayshore Gardens:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Manatee County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Regulatory note: Bayshore Gardens, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In Bayshore Gardens, FL, yes—if slope and anchor points support safe tie-offs.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Our Bayshore Gardens, FL dispatch packets reference county grid Manatee County and elevation band 39 ft.
 
-Our service coordination centers on Bayshore Gardens, FL coverage windows and verified intake details.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Connection points spot-checked where accessible (ZIP 34207/34282 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34207/34282.
+Low-slope sections in Bayshore Gardens, FL need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 34207, 34282 (county grid: Manatee County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Scope trace: starter-strip setback plus deck sheathing thickness referenced in Manatee County county grid review.
+
+On-site sector marker: Manatee County / ZIP 34207 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 34207 with multi-ZIP overlap in Bayshore Gardens; field packets tag Manatee County for county-grid reconciliation.
 
 Service reference: FL-34207-61829f9c

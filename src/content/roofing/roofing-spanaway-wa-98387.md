@@ -11,26 +11,33 @@ lng: -122.4200
 zipSample: ["98387", "98445"]
 zipCodes: ["98445", "98387"]
 localPaths: ["Pierce County / elevation 374 ft band", "Pierce County / ZIP 98445 sector", "Pierce County / coords 47.1000, -122.4200", "Pierce County / primary ZIP 98387", "Pierce County / ZIP 98387 sector"]
-zillowHomeValueUsd: 509425
 ---
 
 **Engineering Notice for Spanaway:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Pierce County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Spanaway, WA, but intake notes help reduce delays.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: compare at least two estimates for scope and timeline.
+Tile and shingle mixes in Spanaway, WA require different fastener patterns at transitions.
 
-Our service coordination centers on Spanaway, WA coverage windows and verified intake details.
+FAQ: When should permanent remediation start? In Spanaway, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Note recent wind events when filing insurance photos for Spanaway, WA.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Tile underlayment age in Spanaway, WA can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 98387/98445.
+We coordinate Spanaway, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Access points and staging constraints recorded for ZIP 98387/98445 coverage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 98387, 98445 (county grid: Pierce County).
+Regulatory note: Spanaway, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+roof service brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Spanaway intake packet.
+
+On-site sector marker: Pierce County / ZIP 98445 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Pierce County / elevation 374 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98387-9103c5a6

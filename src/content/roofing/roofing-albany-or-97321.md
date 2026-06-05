@@ -11,27 +11,29 @@ lng: -123.1000
 zipSample: ["97322", "97321"]
 zipCodes: ["97322", "97321"]
 localPaths: ["Linn County / ZIP 97321 sector", "Linn County / elevation 230 ft band", "Linn County / ZIP 97322 sector", "Linn County / coords 44.6300, -123.1000", "Linn County / primary ZIP 97321"]
-zillowHomeValueUsd: 508988
 ---
 
 **Engineering Notice for Albany:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Linn County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 97321.
+Metal panel oil-canning in Albany, OR may signal clip spacing issues, not wind damage alone.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-We coordinate local dispatch coverage around Albany, OR and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Albany, OR, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 97322/97321.
+FAQ: When should permanent remediation start? In Albany, OR, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97322/97321.
+Wind-zone note: Albany, OR exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 97322, 97321 (county grid: Linn County).
+Scope trace: shingle exposure calibration plus chimney cricket slope referenced in Linn County county grid review.
+
+On-site sector marker: Linn County / elevation 230 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 44.6300, -123.1000 at elevation ~230 ft aligns with Linn County intake staging.
 
 Service reference: OR-97321-5e8e17b4

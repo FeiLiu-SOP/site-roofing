@@ -11,25 +11,33 @@ lng: -92.7300
 zipSample: ["54016"]
 zipCodes: ["54016"]
 localPaths: ["St. Croix County / primary ZIP 54016", "St. Croix County / elevation 840 ft band", "St. Croix County / ZIP 54016 sector", "St. Croix County / coords 44.9600, -92.7300"]
-zillowHomeValueUsd: 487082
 ---
 
 **Engineering Notice for Hudson:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: St. Croix County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 54016.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Hudson, WI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our service coordination centers on Hudson, WI coverage windows and verified intake details.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hudson, WI, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 54016.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 54016 (county grid: St. Croix County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Freeze-thaw cycles around Hudson, WI stress nail pops along eaves and rake edges.
+
+Field routing: skylight curb height paired with drip-edge metal profile near ZIP 54016.
+
+Field note: Valley debris and granule loss noted for ZIP 54016.
+
+ZIP-corridor snapshot for Hudson, WI: sampled sectors include 54016; county routing grid remains St. Croix County.
+
+On-site sector marker: St. Croix County / primary ZIP 54016 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-54016-1800d039

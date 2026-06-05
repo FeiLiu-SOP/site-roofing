@@ -11,25 +11,29 @@ lng: -81.7900
 zipSample: ["33931", "34134", "34135"]
 zipCodes: ["34135", "34134", "33931"]
 localPaths: ["Lee County / primary ZIP 33931", "Lee County / coords 26.3600, -81.7900", "Lee County / ZIP 34135 sector", "Lee County / ZIP 33931 sector", "Lee County / ZIP 34134 sector"]
-zillowHomeValueUsd: 495248
 ---
 
 **Engineering Notice for Bonita Springs:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Lee County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Coastal humidity in Bonita Springs, FL can slow shingle seal-down after shoulder-season storms.
 
-In Bonita Springs, FL, urgent roof work issues can escalate quickly.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: Bonita Springs, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33931.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bonita Springs, FL, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Bonita Springs, FL can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33931/34135/34134.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 33931, 34135, 34134 (county grid: Lee County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: starter-strip setback plus drip-edge metal profile referenced in Lee County county grid review.
+
+On-site sector marker: Lee County / primary ZIP 33931 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lee County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33931-2db68045

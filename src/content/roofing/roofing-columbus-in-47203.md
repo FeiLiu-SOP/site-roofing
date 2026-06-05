@@ -11,25 +11,33 @@ lng: -85.9200
 zipSample: ["47202", "47203", "47201"]
 zipCodes: ["47202", "47201", "47203"]
 localPaths: ["Bartholomew County / ZIP 47202 sector", "Bartholomew County / ZIP 47203 sector", "Bartholomew County / primary ZIP 47203", "Bartholomew County / elevation 633 ft band", "Bartholomew County / coords 39.2100, -85.9200"]
-zillowHomeValueUsd: 285721
 ---
 
 **Engineering Notice for Columbus:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Bartholomew County.
 
 
-In Columbus, IN, seasonal demand can change scheduling windows.
+Risk flag: Tile underlayment age in Columbus, IN can fail independently of visible tile cracks.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 47203.
+Valley metal in Columbus, IN should be reviewed whenever granule loss tracks the water line.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Request dry-in and restoration phases as separate line items. Serving ZIP Code: 47203.
 
-We coordinate local dispatch coverage around Columbus, IN and nearby ZIP sectors.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 47201/47202/47203.
+Step: map ventilation intake and exhaust pairs for Columbus, IN attic runs.
 
-Dispatch sectors sampled: ZIP 47201, 47202, 47203 (county grid: Bartholomew County).
+FAQ: Can you tarp only part of the roof? In Columbus, IN, yes—if slope and anchor points support safe tie-offs.
+
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 47203.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+roof service brief: chimney cricket slope and counter-flashing reglet depth were cross-checked for the Columbus intake packet.
+
+ZIP-corridor snapshot for Columbus, IN: sampled sectors include 47201, 47202, 47203; county routing grid remains Bartholomew County.
+
+On-site sector marker: Bartholomew County / ZIP 47201 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47203-c40a18b1

@@ -11,26 +11,35 @@ lng: -87.9900
 zipSample: ["60009", "60007"]
 zipCodes: ["60009", "60007"]
 localPaths: ["Cook County / primary ZIP 60007", "Cook County / ZIP 60007 sector", "Cook County / coords 42.0100, -87.9900", "Cook County / elevation 689 ft band", "Cook County / ZIP 60009 sector"]
-zillowHomeValueUsd: 384386
 ---
 
 **Engineering Notice for Elk Grove Village:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent service line items.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Elk Grove Village, IL, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-We coordinate local dispatch coverage around Elk Grove Village, IL and nearby ZIP sectors.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-In Elk Grove Village, IL, seasonal demand can change scheduling windows.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 60009/60007.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 60009/60007 zone).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 60009, 60007 (county grid: Cook County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Skylight curb flashing in Elk Grove Village, IL should be sequenced before ridge cap replacement.
+
+Field routing: attic baffle spacing paired with counter-flashing reglet depth near ZIP 60007.
+
+Field note: Attic moisture pathway scan referenced ZIP 60007/60009.
+
+On-site sector marker: Cook County / primary ZIP 60007 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 60007 with multi-ZIP overlap in Elk Grove Village; field packets tag Cook County for county-grid reconciliation.
 
 Service reference: IL-60007-addac759

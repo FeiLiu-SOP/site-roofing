@@ -11,24 +11,35 @@ lng: -80.1400
 zipSample: ["33463", "33413"]
 zipCodes: ["33463", "33413"]
 localPaths: ["Palm Beach County / coords 26.6300, -80.1400", "Palm Beach County / elevation 39 ft band", "Palm Beach County / ZIP 33463 sector", "Palm Beach County / ZIP 33413 sector", "Palm Beach County / primary ZIP 33413"]
-zillowHomeValueUsd: 482182
 ---
 
 **Engineering Notice for Greenacres:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Palm Beach County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map ventilation intake and exhaust pairs for Greenacres, FL attic runs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Greenacres, FL, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-A written scope helps prevent rework and mismatched expectations.
+Tile and shingle mixes in Greenacres, FL require different fastener patterns at transitions.
 
-We coordinate local dispatch coverage around Greenacres, FL and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 33413/33463 zone).
+Risk flag: In Greenacres, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 33413, 33463 (county grid: Palm Beach County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Confirm ventilation balance during the same appointment. Serving ZIP Code: 33413.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: soffit intake free area plus counter-flashing reglet depth referenced in Palm Beach County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 33463/33413.
+
+Primary postal anchor 33413 with multi-ZIP overlap in Greenacres; field packets tag Palm Beach County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 26.6300, -80.1400 at elevation ~39 ft aligns with Palm Beach County intake staging.
 
 Service reference: FL-33413-4dde3a98

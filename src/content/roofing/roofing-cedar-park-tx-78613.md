@@ -11,24 +11,29 @@ lng: -97.8200
 zipSample: ["78630", "78613"]
 zipCodes: ["78613", "78630"]
 localPaths: ["Williamson County / ZIP 78613 sector", "Williamson County / primary ZIP 78613", "Williamson County / ZIP 78630 sector", "Williamson County / coords 30.5100, -97.8200", "Williamson County / elevation 951 ft band"]
-zillowHomeValueUsd: 466168
 ---
 
 **Engineering Notice for Cedar Park:** Structural loading calculated based on 951 ft terrain assessment. Regional dispatch grid: Williamson County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cedar Park, TX, but intake notes help reduce delays.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Local conditions in Cedar Park, TX can affect timelines and material choices.
+In Cedar Park, TX, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-We coordinate local dispatch coverage around Cedar Park, TX and nearby ZIP sectors.
+Code context: Ventilation ratios for Cedar Park, TX attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78630/78613.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 78630, 78613 (county grid: Williamson County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roof work brief: skylight curb height and synthetic underlayment slip were cross-checked for the Cedar Park intake packet.
+
+On-site sector marker: Williamson County / elevation 951 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Williamson County / coords 30.5100, -97.8200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78613-763f8cf3

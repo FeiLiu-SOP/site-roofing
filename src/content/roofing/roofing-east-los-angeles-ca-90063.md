@@ -11,24 +11,29 @@ lng: -118.1700
 zipSample: ["90022", "90023", "90063"]
 zipCodes: ["90023", "90063", "90022"]
 localPaths: ["Los Angeles County / ZIP 90063 sector", "Los Angeles County / ZIP 90023 sector", "Los Angeles County / coords 34.0300, -118.1700", "Los Angeles County / ZIP 90022 sector", "Los Angeles County / primary ZIP 90063"]
-zillowHomeValueUsd: 669384
 ---
 
 **Engineering Notice for East Los Angeles:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Local conditions in East Los Angeles, CA can affect timelines and material choices.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: request a written scope before work starts.
+Wind-zone note: East Los Angeles, CA exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around East Los Angeles, CA and nearby ZIP sectors.
+Risk flag: Tile underlayment age in East Los Angeles, CA can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 90063/90022/90023 zone).
+Attic ventilation deficits in East Los Angeles, CA can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 90063, 90022, 90023 (county grid: Los Angeles County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+roof work brief: drip-edge metal profile and deck sheathing thickness were cross-checked for the East Los Angeles intake packet.
+
+On-site sector marker: Los Angeles County / ZIP 90022 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for East Los Angeles, CA: sampled sectors include 90022, 90023, 90063; county routing grid remains Los Angeles County.
 
 Service reference: CA-90063-7c7cb141

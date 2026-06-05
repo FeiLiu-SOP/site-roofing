@@ -11,26 +11,29 @@ lng: -121.3800
 zipSample: ["95758", "95624", "95757", "95759"]
 zipCodes: ["95759", "95757", "95624", "95758"]
 localPaths: ["Sacramento County / ZIP 95624 sector", "Sacramento County / ZIP 95759 sector", "Sacramento County / ZIP 95758 sector", "Sacramento County / ZIP 95757 sector", "Sacramento County / primary ZIP 95624"]
-zillowHomeValueUsd: 641688
 ---
 
 **Engineering Notice for Elk Grove:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Sacramento County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Transparent pricing helps you compare like-for-like scope items.
+Freeze-thaw cycles around Elk Grove, CA stress nail pops along eaves and rake edges.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-We coordinate local dispatch coverage around Elk Grove, CA and nearby ZIP sectors.
+Step: separate emergency tarp scope from permanent service line items.
 
-Field note: Connection points spot-checked where accessible (ZIP 95624/95758/95757 zone).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Moisture pathway inspection logged near ZIP 95624/95758/95757 intake.
+Regulatory note: Elk Grove, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 95624, 95758, 95757, 95759 (county grid: Sacramento County).
+Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 95624.
+
+Coordinate-anchored dispatch note: center reference 38.4200, -121.3800 at elevation ~43 ft aligns with Sacramento County intake staging.
+
+On-site sector marker: Sacramento County / ZIP 95624 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95624-2aa3ad7e

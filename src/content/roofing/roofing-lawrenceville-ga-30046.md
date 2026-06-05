@@ -11,24 +11,31 @@ lng: -83.9900
 zipSample: ["30046", "30049"]
 zipCodes: ["30049", "30046"]
 localPaths: ["Gwinnett County / elevation 1083 ft band", "Gwinnett County / ZIP 30046 sector", "Gwinnett County / primary ZIP 30046", "Gwinnett County / coords 33.9500, -83.9900", "Gwinnett County / ZIP 30049 sector"]
-zillowHomeValueUsd: 345080
 ---
 
 **Engineering Notice for Lawrenceville:** Structural loading calculated based on 1083 ft terrain assessment. Regional dispatch grid: Gwinnett County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lawrenceville, GA, but intake notes help reduce delays.
+FAQ: How long can shingles wait after storm damage? In Lawrenceville, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: request a written scope before work starts.
+Metal panel oil-canning in Lawrenceville, GA may signal clip spacing issues, not wind damage alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30046/30049.
+Code context: Ventilation ratios for Lawrenceville, GA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 30046, 30049 (county grid: Gwinnett County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+roof service brief: counter-flashing reglet depth and attic baffle spacing were cross-checked for the Lawrenceville intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 30046/30049.
+
+On-site sector marker: Gwinnett County / coords 33.9500, -83.9900 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Gwinnett County / primary ZIP 30046 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30046-bc9b452f

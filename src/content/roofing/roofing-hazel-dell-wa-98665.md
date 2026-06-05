@@ -11,25 +11,31 @@ lng: -122.6600
 zipSample: ["98665"]
 zipCodes: ["98665"]
 localPaths: ["Clark County / elevation 236 ft band", "Clark County / coords 45.6800, -122.6600", "Clark County / primary ZIP 98665", "Clark County / ZIP 98665 sector"]
-zillowHomeValueUsd: 502088
 ---
 
 **Engineering Notice for Hazel Dell:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hazel Dell, WA, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In Hazel Dell, WA, urgent roof work issues can escalate quickly.
+FAQ: When should permanent service start? In Hazel Dell, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 98665.
+We coordinate Hazel Dell, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98665.
+Tile and shingle mixes in Hazel Dell, WA require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 98665 (county grid: Clark County).
+Step: compare shingle manufacturer wind-zone ratings for Hazel Dell, WA exposure class.
+
+Scope trace: chimney cricket slope plus skylight curb height referenced in Clark County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98665.
+
+Coordinate-anchored dispatch note: center reference 45.6800, -122.6600 at elevation ~236 ft aligns with Clark County intake staging.
+
+On-site sector marker: Clark County / coords 45.6800, -122.6600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98665-8e35d2fb

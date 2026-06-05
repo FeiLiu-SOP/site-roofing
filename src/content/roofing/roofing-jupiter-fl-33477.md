@@ -11,24 +11,33 @@ lng: -80.1100
 zipSample: ["33468", "33458", "33477"]
 zipCodes: ["33477", "33468", "33458"]
 localPaths: ["Palm Beach County / primary ZIP 33477", "Palm Beach County / elevation 23 ft band", "Palm Beach County / ZIP 33477 sector", "Palm Beach County / ZIP 33468 sector", "Palm Beach County / coords 26.9200, -80.1100"]
-zillowHomeValueUsd: 676953
 ---
 
 **Engineering Notice for Jupiter:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Palm Beach County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: compare at least two estimates for scope and timeline.
+Valley metal in Jupiter, FL should be reviewed whenever granule loss tracks the water line.
 
-In Jupiter, FL, seasonal demand can change scheduling windows.
+Step: map ventilation intake and exhaust pairs for Jupiter, FL attic runs.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: How long can shingles wait after storm damage? In Jupiter, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Across Jupiter, FL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33458/33477/33468.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 33458, 33477, 33468 (county grid: Palm Beach County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: skylight curb height plus synthetic underlayment slip referenced in Palm Beach County county grid review.
+
+On-site sector marker: Palm Beach County / primary ZIP 33477 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 26.9200, -80.1100 at elevation ~23 ft aligns with Palm Beach County intake staging.
 
 Service reference: FL-33477-1e618c08

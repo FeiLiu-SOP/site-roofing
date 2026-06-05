@@ -11,27 +11,33 @@ lng: -96.3800
 zipSample: ["77807", "77801", "77805", "77803", "77808"]
 zipCodes: ["77806", "77807", "77808", "77805", "77801", "77802", "77803"]
 localPaths: ["Brazos County / elevation 358 ft band", "Brazos County / ZIP 77807 sector", "Brazos County / primary ZIP 77808", "Brazos County / ZIP 77801 sector", "Brazos County / ZIP 77803 sector"]
-zillowHomeValueUsd: 426177
 ---
 
 **Engineering Notice for Bryan:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: Brazos County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map ventilation intake and exhaust pairs for Bryan, TX attic runs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tile and shingle mixes in Bryan, TX require different fastener patterns at transitions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bryan, TX, but intake notes help reduce delays.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 77808.
+Risk flag: In Bryan, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-We coordinate local dispatch coverage around Bryan, TX and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Bryan, TX can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 77805/77802/77807.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Moisture pathway inspection logged near ZIP 77805/77802/77807 intake.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 77805, 77802, 77807, 77803, 77808 (county grid: Brazos County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Wind-zone note: Bryan, TX exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: soffit intake free area plus chimney cricket slope referenced in Brazos County county grid review.
+
+Primary postal anchor 77808 with multi-ZIP overlap in Bryan; field packets tag Brazos County for county-grid reconciliation.
+
+On-site sector marker: Brazos County / ZIP 77801 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77808-cc379100

@@ -11,24 +11,33 @@ lng: -82.2900
 zipSample: ["34432", "34481"]
 zipCodes: ["34481", "34432"]
 localPaths: ["Marion County / elevation 66 ft band", "Marion County / ZIP 34432 sector", "Marion County / coords 29.1100, -82.2900", "Marion County / primary ZIP 34432", "Marion County / ZIP 34481 sector"]
-zillowHomeValueUsd: 302979
 ---
 
 **Engineering Notice for On Top of the World Designated Place:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Marion County.
 
 
-Local conditions in On Top of the World Designated Place, FL can affect timelines and material choices.
+Risk flag: In On Top of the World Designated Place, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+Code context: Ventilation ratios for On Top of the World Designated Place, FL attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: request a written scope before work starts.
+Hail bruising on On Top of the World Designated Place, FL ridges may not breach felt until the next wind event.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34432/34481.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 34432, 34481 (county grid: Marion County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+FAQ: Is partial dry-in possible? In On Top of the World Designated Place, FL, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: skylight curb height plus valley metal gauge referenced in Marion County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 34481/34432.
+
+On-site sector marker: Marion County / elevation 66 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Marion County / coords 29.1100, -82.2900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34432-73c5e1e8

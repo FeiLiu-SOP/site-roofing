@@ -11,27 +11,31 @@ lng: -97.4300
 zipSample: ["76574"]
 zipCodes: ["76574"]
 localPaths: ["Williamson County / primary ZIP 76574", "Williamson County / elevation 587 ft band", "Williamson County / ZIP 76574 sector", "Williamson County / coords 30.5700, -97.4300"]
-zillowHomeValueUsd: 285743
 ---
 
 **Engineering Notice for Taylor:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Williamson County.
 
 
-Our service coordination centers on Taylor, TX coverage windows and verified intake details.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 76574.
+Step: compare shingle manufacturer wind-zone ratings for Taylor, TX exposure class.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Taylor, TX, but intake notes help reduce delays.
+Low-slope sections in Taylor, TX need positive drainage before membrane repairs are scoped.
 
-Field note: Moisture pathway inspection logged near ZIP 76574 intake.
+Wind-zone note: Taylor, TX exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 76574.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 76574 (county grid: Williamson County).
+roof service brief: valley metal gauge and wind uplift clip spacing were cross-checked for the Taylor intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 76574.
+
+On-site sector marker: Williamson County / ZIP 76574 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Williamson County / elevation 587 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76574-1cce3684

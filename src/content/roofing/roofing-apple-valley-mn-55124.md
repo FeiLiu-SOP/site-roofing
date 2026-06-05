@@ -11,27 +11,31 @@ lng: -93.2000
 zipSample: ["55124"]
 zipCodes: ["55124"]
 localPaths: ["Dakota County / primary ZIP 55124", "Dakota County / coords 44.7500, -93.2000", "Dakota County / ZIP 55124 sector", "Dakota County / elevation 974 ft band"]
-zillowHomeValueUsd: 375988
 ---
 
 **Engineering Notice for Apple Valley:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Dakota County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55124.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-We coordinate local dispatch coverage around Apple Valley, MN and nearby ZIP sectors.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-A written scope helps prevent rework and mismatched expectations.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 55124.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 55124 zone).
+Wood shake courses in Apple Valley, MN require skip-spacing rules at valleys.
 
-Dispatch sectors sampled: ZIP 55124 (county grid: Dakota County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+roofing service brief: starter-strip setback and chimney cricket slope were cross-checked for the Apple Valley intake packet.
+
+Primary postal anchor 55124 with multi-ZIP overlap in Apple Valley; field packets tag Dakota County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Apple Valley, MN: sampled sectors include 55124; county routing grid remains Dakota County.
 
 Service reference: MN-55124-192cce96

@@ -11,24 +11,33 @@ lng: -73.2600
 zipSample: ["11706"]
 zipCodes: ["11706"]
 localPaths: ["Suffolk County / primary ZIP 11706", "Suffolk County / ZIP 11706 sector", "Suffolk County / elevation 79 ft band", "Suffolk County / coords 40.7600, -73.2600"]
-zillowHomeValueUsd: 620298
 ---
 
 **Engineering Notice for North Bay Shore:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-Tip: avoid large upfront payments without milestones.
+Wind-zone note: North Bay Shore, NY exposure class can change starter-strip and cap nail schedules.
 
-In North Bay Shore, NY, urgent roof service issues can escalate quickly.
+Skylight curb flashing in North Bay Shore, NY should be sequenced before ridge cap replacement.
 
-Tip: request a written scope before work starts.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Our North Bay Shore, NY dispatch packets reference county grid Suffolk County and elevation band 79 ft.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 11706 coverage.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 11706 (county grid: Suffolk County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: ice-barrier lap sequence paired with starter-strip setback near ZIP 11706.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 11706.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Suffolk County and primary ZIP 11706. Terrain reference: 79 ft. Center point: 40.7600, -73.2600. ZIP sample: 11706. Regional routing note: Suffolk County traffic flow is balanced around ZIP 11706 service demand.
+
+On-site sector marker: Suffolk County / elevation 79 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11706-ee73ebea

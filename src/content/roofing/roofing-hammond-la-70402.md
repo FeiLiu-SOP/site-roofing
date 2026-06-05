@@ -11,26 +11,33 @@ lng: -90.4600
 zipSample: ["70404", "70402", "70401", "70403"]
 zipCodes: ["70402", "70403", "70404", "70401"]
 localPaths: ["Tangipahoa Parish / primary ZIP 70402", "Tangipahoa Parish / ZIP 70403 sector", "Tangipahoa Parish / coords 30.5100, -90.4600", "Tangipahoa Parish / ZIP 70402 sector", "Tangipahoa Parish / ZIP 70401 sector"]
-zillowHomeValueUsd: 227632
 ---
 
 **Engineering Notice for Hammond:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Tangipahoa Parish.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Hammond, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 70402.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-We coordinate local dispatch coverage around Hammond, LA and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should permanent restoration start? In Hammond, LA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 70401/70403/70402 intake.
+Synthetic underlayment slip in Hammond, LA is often tied to deck moisture, not wind alone.
 
-Field note: Access points and staging constraints recorded for ZIP 70401/70403/70402 coverage.
+Material note: In Hammond, LA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 70401, 70403, 70402, 70404 (county grid: Tangipahoa Parish).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+roof work brief: pipe boot manufacturer match and wind uplift clip spacing were cross-checked for the Hammond intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 70401/70404/70403.
+
+On-site sector marker: Tangipahoa Parish / ZIP 70402 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 70402 with multi-ZIP overlap in Hammond; field packets tag Tangipahoa Parish for county-grid reconciliation.
 
 Service reference: LA-70402-a52cece0

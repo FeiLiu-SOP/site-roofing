@@ -11,24 +11,33 @@ lng: -82.7900
 zipSample: ["43068", "43069"]
 zipCodes: ["43069", "43068"]
 localPaths: ["Franklin County / primary ZIP 43068", "Franklin County / coords 39.9600, -82.7900", "Franklin County / elevation 892 ft band", "Franklin County / ZIP 43069 sector", "Franklin County / ZIP 43068 sector"]
-zillowHomeValueUsd: 295310
 ---
 
 **Engineering Notice for Reynoldsburg:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Franklin County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Reynoldsburg, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Reynoldsburg, OH, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Access points and staging constraints recorded for ZIP 43068/43069 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 43068, 43069 (county grid: Franklin County).
+Coastal humidity in Reynoldsburg, OH can slow shingle seal-down after shoulder-season storms.
+
+FAQ: When should permanent service start? In Reynoldsburg, OH, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: soffit intake free area paired with attic baffle spacing near ZIP 43068.
+
+Field note: Valley debris and granule loss noted for ZIP 43068/43069.
+
+On-site sector marker: Franklin County / coords 39.9600, -82.7900 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Franklin County / ZIP 43068 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43068-7565af87

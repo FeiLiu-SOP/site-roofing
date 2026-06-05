@@ -11,26 +11,29 @@ lng: -122.3000
 zipSample: ["94002"]
 zipCodes: ["94002"]
 localPaths: ["San Mateo County / ZIP 94002 sector", "San Mateo County / coords 37.5200, -122.3000", "San Mateo County / elevation 226 ft band", "San Mateo County / primary ZIP 94002"]
-zillowHomeValueUsd: 2339002
 ---
 
 **Engineering Notice for Belmont:** Structural loading calculated based on 226 ft terrain assessment. Regional dispatch grid: San Mateo County.
 
 
-In Belmont, CA, urgent roofing service issues can escalate quickly.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-A written scope helps prevent rework and mismatched expectations.
+Attic ventilation deficits in Belmont, CA can mimic roof leaks at ceiling penetrations.
 
-Tip: request a written scope before work starts.
+Risk flag: In Belmont, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-We coordinate local dispatch coverage around Belmont, CA and nearby ZIP sectors.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Moisture pathway inspection logged near ZIP 94002 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 94002.
+Regulatory note: Belmont, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 94002 (county grid: San Mateo County).
+Field routing: valley metal gauge paired with soffit intake free area near ZIP 94002.
+
+ZIP-corridor snapshot for Belmont, CA: sampled sectors include 94002; county routing grid remains San Mateo County.
+
+On-site sector marker: San Mateo County / coords 37.5200, -122.3000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94002-fe3bab44

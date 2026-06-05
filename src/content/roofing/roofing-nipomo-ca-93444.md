@@ -11,26 +11,33 @@ lng: -120.5000
 zipSample: ["93444"]
 zipCodes: ["93444"]
 localPaths: ["San Luis Obispo County / ZIP 93444 sector", "San Luis Obispo County / primary ZIP 93444", "San Luis Obispo County / elevation 377 ft band", "San Luis Obispo County / coords 35.0300, -120.5000"]
-zillowHomeValueUsd: 941628
 ---
 
 **Engineering Notice for Nipomo:** Structural loading calculated based on 377 ft terrain assessment. Regional dispatch grid: San Luis Obispo County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Tile underlayment age in Nipomo, CA can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Nipomo, CA, but intake notes help reduce delays.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our service coordination centers on Nipomo, CA coverage windows and verified intake details.
+Granule embedment loss on Nipomo, CA north slopes can precede mat exposure.
 
-Homeowners in Nipomo, CA often face sudden roof work problems that require fast action.
+Material note: In Nipomo, CA, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93444.
+FAQ: When should permanent remediation start? In Nipomo, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 93444 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 93444 (county grid: San Luis Obispo County).
+Our Nipomo, CA dispatch packets reference county grid San Luis Obispo County and elevation band 377 ft.
+
+roof work brief: drip-edge metal profile and chimney cricket slope were cross-checked for the Nipomo intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 93444.
+
+Coordinate-anchored dispatch note: center reference 35.0300, -120.5000 at elevation ~377 ft aligns with San Luis Obispo County intake staging.
+
+**Regional Infrastructure Brief:** Coverage anchor set to San Luis Obispo County. Reference elevation: 377 ft. Primary coordinates: 35.0300, -120.5000. ZIP sample: 93444. Service perimeter note: Coverage extends through San Luis Obispo County with dispatch centered near ZIP 93444.
 
 Service reference: CA-93444-6cc95aff

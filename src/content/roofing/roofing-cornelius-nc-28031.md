@@ -11,27 +11,29 @@ lng: -80.8800
 zipSample: ["28031"]
 zipCodes: ["28031"]
 localPaths: ["Mecklenburg County / elevation 768 ft band", "Mecklenburg County / primary ZIP 28031", "Mecklenburg County / ZIP 28031 sector", "Mecklenburg County / coords 35.4700, -80.8800"]
-zillowHomeValueUsd: 544179
 ---
 
 **Engineering Notice for Cornelius:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: request a written scope before work starts.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 28031.
+Code context: Ventilation ratios for Cornelius, NC attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Cornelius, NC and nearby ZIP sectors.
+Parapet coping movement in Cornelius, NC can channel water behind wall cladding.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Connection points spot-checked where accessible (ZIP 28031 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 28031 coverage.
+FAQ: When should permanent remediation start? In Cornelius, NC, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 28031 (county grid: Mecklenburg County).
+Field routing: valley metal gauge paired with drip-edge metal profile near ZIP 28031.
+
+On-site sector marker: Mecklenburg County / coords 35.4700, -80.8800 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 28031 with multi-ZIP overlap in Cornelius; field packets tag Mecklenburg County for county-grid reconciliation.
 
 Service reference: NC-28031-1c94a3c1

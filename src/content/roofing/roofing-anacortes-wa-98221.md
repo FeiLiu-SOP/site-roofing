@@ -11,24 +11,29 @@ lng: -122.6300
 zipSample: ["98221"]
 zipCodes: ["98221"]
 localPaths: ["Skagit County / coords 48.4900, -122.6300", "Skagit County / ZIP 98221 sector", "Skagit County / elevation 302 ft band", "Skagit County / primary ZIP 98221"]
-zillowHomeValueUsd: 720444
 ---
 
 **Engineering Notice for Anacortes:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Skagit County.
 
 
-Local conditions in Anacortes, WA can affect timelines and material choices.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Note recent wind events when filing insurance photos for Anacortes, WA.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Anacortes, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Anacortes, WA, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+We coordinate Anacortes, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 98221 zone).
+Hail bruising on Anacortes, WA ridges may not breach felt until the next wind event.
 
-Dispatch sectors sampled: ZIP 98221 (county grid: Skagit County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: deck sheathing thickness plus soffit intake free area referenced in Skagit County county grid review.
+
+On-site sector marker: Skagit County / coords 48.4900, -122.6300 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Anacortes, WA: sampled sectors include 98221; county routing grid remains Skagit County.
 
 Service reference: WA-98221-aa6b6c71

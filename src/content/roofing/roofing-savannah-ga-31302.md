@@ -11,24 +11,29 @@ lng: -81.1800
 zipSample: ["31415", "31405", "31406", "31302", "31416"]
 zipCodes: ["31415", "31418", "31408", "31406", "31420", "31404", "31416", "31403", "31409", "31412", "31405", "31401"]
 localPaths: ["Chatham County / ZIP 31416 sector", "Chatham County / elevation 13 ft band", "Chatham County / ZIP 31406 sector", "Chatham County / ZIP 31302 sector", "Chatham County / ZIP 31415 sector"]
-zillowHomeValueUsd: 334210
 ---
 
 **Engineering Notice for Savannah:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Chatham County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Our service coordination centers on Savannah, GA coverage windows and verified intake details.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Synthetic underlayment slip in Savannah, GA is often tied to deck moisture, not wind alone.
 
-In Savannah, GA, seasonal demand can change scheduling windows.
+Risk flag: In Savannah, GA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Connection points spot-checked where accessible (ZIP 31416/31415/31418 zone).
+Our Savannah, GA dispatch packets reference county grid Chatham County and elevation band 13 ft.
 
-Dispatch sectors sampled: ZIP 31416, 31415, 31418, 31401, 31420 (county grid: Chatham County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Scope trace: attic baffle spacing plus skylight curb height referenced in Chatham County county grid review.
+
+On-site sector marker: Chatham County / elevation 13 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Chatham County / ZIP 31421 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31302-18029ef5

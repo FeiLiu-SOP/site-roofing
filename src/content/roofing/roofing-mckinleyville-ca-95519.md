@@ -11,25 +11,33 @@ lng: -124.0900
 zipSample: ["95519"]
 zipCodes: ["95519"]
 localPaths: ["Humboldt County / primary ZIP 95519", "Humboldt County / ZIP 95519 sector", "Humboldt County / coords 40.9500, -124.0900", "Humboldt County / elevation 200 ft band"]
-zillowHomeValueUsd: 482877
 ---
 
 **Engineering Notice for McKinleyville:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Humboldt County.
 
 
-We coordinate local dispatch coverage around McKinleyville, CA and nearby ZIP sectors.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in McKinleyville, CA, but intake notes help reduce delays.
+We coordinate McKinleyville, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for McKinleyville, CA attics should be checked against current mechanical exhaust additions.
 
-Tip: compare at least two estimates for scope and timeline.
+Valley metal in McKinleyville, CA should be reviewed whenever granule loss tracks the water line.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95519.
+FAQ: When should permanent restoration start? In McKinleyville, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 95519 coverage.
+Material note: In McKinleyville, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 95519 (county grid: Humboldt County).
+Risk flag: In McKinleyville, CA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Across McKinleyville, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Scope trace: valley metal gauge plus shingle exposure calibration referenced in Humboldt County county grid review.
+
+Primary postal anchor 95519 with multi-ZIP overlap in McKinleyville; field packets tag Humboldt County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 40.9500, -124.0900 at elevation ~200 ft aligns with Humboldt County intake staging.
 
 Service reference: CA-95519-b099dc8d

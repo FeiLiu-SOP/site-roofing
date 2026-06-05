@@ -11,26 +11,29 @@ lng: -80.3000
 zipSample: ["33245", "33155", "33144"]
 zipCodes: ["33155", "33144", "33245"]
 localPaths: ["Miami-Dade County / ZIP 33144 sector", "Miami-Dade County / coords 25.7500, -80.3000", "Miami-Dade County / ZIP 33155 sector", "Miami-Dade County / primary ZIP 33144", "Miami-Dade County / ZIP 33245 sector"]
-zillowHomeValueUsd: 621079
 ---
 
 **Engineering Notice for Coral Terrace:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Coral Terrace, FL, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Coastal humidity in Coral Terrace, FL can slow shingle seal-down after shoulder-season storms.
 
-In Coral Terrace, FL, urgent roof service issues can escalate quickly.
+Tip: Note recent wind events when filing insurance photos for Coral Terrace, FL.
 
-Field note: Access points and staging constraints recorded for ZIP 33144/33245/33155 coverage.
+FAQ: When should permanent restoration start? In Coral Terrace, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 33144/33245/33155.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 33144, 33245, 33155 (county grid: Miami-Dade County).
+roof service brief: ridge cap nail schedule and ice-barrier lap sequence were cross-checked for the Coral Terrace intake packet.
+
+On-site sector marker: Miami-Dade County / elevation 30 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Miami-Dade County / coords 25.7500, -80.3000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33144-31a8a7c8

@@ -11,26 +11,31 @@ lng: -73.4700
 zipSample: ["11803"]
 zipCodes: ["11803"]
 localPaths: ["Nassau County / ZIP 11803 sector", "Nassau County / coords 40.7800, -73.4700", "Nassau County / elevation 171 ft band", "Nassau County / primary ZIP 11803"]
-zillowHomeValueUsd: 963059
 ---
 
 **Engineering Notice for Plainview:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Plainview, NY exposure class can change starter-strip and cap nail schedules.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Coastal humidity in Plainview, NY can slow shingle seal-down after shoulder-season storms.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Plainview, NY, but intake notes help reduce delays.
+Risk flag: In Plainview, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 11803 zone).
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11803.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 11803 (county grid: Nassau County).
+roof work brief: shingle exposure calibration and synthetic underlayment slip were cross-checked for the Plainview intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 11803.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~171 ft across the Nassau County area. Coordinates: 40.7800, -73.4700. ZIP sample: 11803. Regional routing note: Nassau County traffic flow is balanced around ZIP 11803 service demand.
+
+Regional mesh label Nassau County: moisture and logistics baselines are keyed to Plainview, NY before niche-specific work begins.
 
 Service reference: NY-11803-97aecce2

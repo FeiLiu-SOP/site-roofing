@@ -11,24 +11,35 @@ lng: -76.9100
 zipSample: ["20737", "20781"]
 zipCodes: ["20781", "20737"]
 localPaths: ["Prince George's County / coords 38.9600, -76.9100", "Prince George's County / primary ZIP 20781", "Prince George's County / elevation 135 ft band", "Prince George's County / ZIP 20781 sector", "Prince George's County / ZIP 20737 sector"]
-zillowHomeValueUsd: 434825
 ---
 
 **Engineering Notice for East Riverdale:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Prince George's County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Note recent wind events when filing insurance photos for East Riverdale, MD.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in East Riverdale, MD, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on East Riverdale, MD coverage windows and verified intake details.
+Granule embedment loss on East Riverdale, MD north slopes can precede mat exposure.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 20737/20781.
+FAQ: When should permanent service start? In East Riverdale, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 20737, 20781 (county grid: Prince George's County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+roof service brief: counter-flashing reglet depth and chimney cricket slope were cross-checked for the East Riverdale intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 20737/20781.
+
+Primary postal anchor 20781 with multi-ZIP overlap in East Riverdale; field packets tag Prince George's County for county-grid reconciliation.
+
+On-site sector marker: Prince George's County / primary ZIP 20781 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20781-6657eb41

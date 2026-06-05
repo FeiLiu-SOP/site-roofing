@@ -11,25 +11,31 @@ lng: -97.3300
 zipSample: ["78374", "78390"]
 zipCodes: ["78390", "78374"]
 localPaths: ["San Patricio County / primary ZIP 78374", "San Patricio County / ZIP 78374 sector", "San Patricio County / elevation 52 ft band", "San Patricio County / coords 27.8900, -97.3300", "San Patricio County / ZIP 78390 sector"]
-zillowHomeValueUsd: 267384
 ---
 
 **Engineering Notice for Portland:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: San Patricio County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Coastal humidity in Portland, TX can slow shingle seal-down after shoulder-season storms.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 78374.
+Risk flag: In Portland, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Structured milestones protect both sides when scheduling work.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Note recent wind events when filing insurance photos for Portland, TX.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Wind exposure category reviewed for ZIP sector 78390/78374.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 78390, 78374 (county grid: San Patricio County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: starter-strip setback paired with drip-edge metal profile near ZIP 78374.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 78374/78390.
+
+On-site sector marker: San Patricio County / primary ZIP 78374 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Patricio County / ZIP 78390 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78374-a4a2cd68

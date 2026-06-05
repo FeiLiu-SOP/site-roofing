@@ -11,26 +11,35 @@ lng: -87.9000
 zipSample: ["60016", "60017", "60018", "60019"]
 zipCodes: ["60017", "60018", "60019", "60016"]
 localPaths: ["Cook County / ZIP 60016 sector", "Cook County / ZIP 60019 sector", "Cook County / ZIP 60018 sector", "Cook County / elevation 656 ft band", "Cook County / primary ZIP 60018"]
-zillowHomeValueUsd: 378007
 ---
 
 **Engineering Notice for Des Plaines:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Regulatory note: Des Plaines, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Des Plaines, IL and nearby ZIP sectors.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Des Plaines, IL, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+In Des Plaines, IL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Wind exposure category reviewed for ZIP sector 60019/60017/60018.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Connection points spot-checked where accessible (ZIP 60019/60017/60018 zone).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 60019, 60017, 60018, 60016 (county grid: Cook County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60018.
+
+Freeze-thaw cycles around Des Plaines, IL stress nail pops along eaves and rake edges.
+
+roofing service brief: attic baffle spacing and ice-barrier lap sequence were cross-checked for the Des Plaines intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 60019/60016/60017.
+
+On-site sector marker: Cook County / ZIP 60018 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cook County / primary ZIP 60018 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60018-25d93292

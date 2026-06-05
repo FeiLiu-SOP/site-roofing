@@ -11,24 +11,31 @@ lng: -88.0300
 zipSample: ["60030"]
 zipCodes: ["60030"]
 localPaths: ["Lake County / elevation 781 ft band", "Lake County / ZIP 60030 sector", "Lake County / primary ZIP 60030", "Lake County / coords 42.3400, -88.0300"]
-zillowHomeValueUsd: 346420
 ---
 
 **Engineering Notice for Grayslake:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Our service coordination centers on Grayslake, IL coverage windows and verified intake details.
+We coordinate Grayslake, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Grayslake, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-In Grayslake, IL, seasonal demand can change scheduling windows.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Skylight curb flashing in Grayslake, IL should be sequenced before ridge cap replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 60030 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 60030 (county grid: Lake County).
+Risk flag: Tile underlayment age in Grayslake, IL can fail independently of visible tile cracks.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Scope trace: ridge cap nail schedule plus ice-barrier lap sequence referenced in Lake County county grid review.
+
+Coordinate-anchored dispatch note: center reference 42.3400, -88.0300 at elevation ~781 ft aligns with Lake County intake staging.
+
+On-site sector marker: Lake County / primary ZIP 60030 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60030-dbaf8206

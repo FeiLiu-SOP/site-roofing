@@ -11,26 +11,29 @@ lng: -83.3800
 zipSample: ["48186", "48185"]
 zipCodes: ["48185", "48186"]
 localPaths: ["Wayne County / coords 42.3200, -83.3800", "Wayne County / ZIP 48186 sector", "Wayne County / ZIP 48185 sector", "Wayne County / elevation 676 ft band", "Wayne County / primary ZIP 48185"]
-zillowHomeValueUsd: 223237
 ---
 
 **Engineering Notice for Westland:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Our service coordination centers on Westland, MI coverage windows and verified intake details.
+Code context: Ventilation ratios for Westland, MI attics should be checked against current mechanical exhaust additions.
 
-In Westland, MI, seasonal demand can change scheduling windows.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Clear documentation helps align materials, labor, and timeline.
+Coastal humidity in Westland, MI can slow shingle seal-down after shoulder-season storms.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Westland, MI, but intake notes help reduce delays.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48186/48185.
+Risk flag: In Westland, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 48186/48185.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 48186, 48185 (county grid: Wayne County).
+roofing service brief: chimney cricket slope and valley metal gauge were cross-checked for the Westland intake packet.
+
+On-site sector marker: Wayne County / primary ZIP 48185 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Westland, MI: sampled sectors include 48186, 48185; county routing grid remains Wayne County.
 
 Service reference: MI-48185-6314d617

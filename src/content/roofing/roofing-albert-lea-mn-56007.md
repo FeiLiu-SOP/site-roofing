@@ -11,24 +11,33 @@ lng: -93.3600
 zipSample: ["56007"]
 zipCodes: ["56007"]
 localPaths: ["Freeborn County / primary ZIP 56007", "Freeborn County / ZIP 56007 sector", "Freeborn County / elevation 1243 ft band", "Freeborn County / coords 43.6500, -93.3600"]
-zillowHomeValueUsd: 177145
 ---
 
 **Engineering Notice for Albert Lea:** Structural loading calculated based on 1243 ft terrain assessment. Regional dispatch grid: Freeborn County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How long can shingles wait after storm damage? In Albert Lea, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Our service coordination centers on Albert Lea, MN coverage windows and verified intake details.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Albert Lea, MN, but intake notes help reduce delays.
+Synthetic underlayment slip in Albert Lea, MN is often tied to deck moisture, not wind alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 56007.
+Step: compare shingle manufacturer wind-zone ratings for Albert Lea, MN exposure class.
 
-Dispatch sectors sampled: ZIP 56007 (county grid: Freeborn County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 56007.
+
+Code context: Ventilation ratios for Albert Lea, MN attics should be checked against current mechanical exhaust additions.
+
+Scope trace: wind uplift clip spacing plus drip-edge metal profile referenced in Freeborn County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 56007.
+
+On-site sector marker: Freeborn County / coords 43.6500, -93.3600 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 43.6500, -93.3600 at elevation ~1243 ft aligns with Freeborn County intake staging.
 
 Service reference: MN-56007-31098f02

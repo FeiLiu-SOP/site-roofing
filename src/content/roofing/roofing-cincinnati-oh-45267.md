@@ -11,24 +11,31 @@ lng: -84.5100
 zipSample: ["45225", "45219", "45254", "45296", "45250"]
 zipCodes: ["45203", "45271", "45219", "45201", "45299", "45209", "45227", "45239", "45232", "45999", "45224", "45298"]
 localPaths: ["Hamilton County / ZIP 45219 sector", "Hamilton County / elevation 748 ft band", "Hamilton County / ZIP 45296 sector", "Hamilton County / ZIP 45250 sector", "Hamilton County / coords 39.1400, -84.5100"]
-zillowHomeValueUsd: 219397
 ---
 
 **Engineering Notice for Cincinnati:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Hamilton County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Cincinnati, OH attics should be checked against current mechanical exhaust additions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cincinnati, OH, but intake notes help reduce delays.
+We coordinate Cincinnati, OH roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Our service coordination centers on Cincinnati, OH coverage windows and verified intake details.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 45267.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: request a written scope before work starts.
+Parapet coping movement in Cincinnati, OH can channel water behind wall cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 45232/45275/45267 intake.
+FAQ: Is partial dry-in possible? In Cincinnati, OH, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 45232, 45275, 45267, 45211, 45220 (county grid: Hamilton County).
+Step: separate emergency tarp scope from permanent remediation line items.
+
+Field routing: deck sheathing thickness paired with attic baffle spacing near ZIP 45267.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 45204/45225/45205.
+
+On-site sector marker: Hamilton County / ZIP 45299 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hamilton County / ZIP 45296 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45267-2e2d2fda

@@ -11,27 +11,29 @@ lng: -118.0600
 zipSample: ["90670", "90671"]
 zipCodes: ["90670", "90671"]
 localPaths: ["Los Angeles County / primary ZIP 90670", "Los Angeles County / ZIP 90671 sector", "Los Angeles County / elevation 154 ft band", "Los Angeles County / coords 33.9300, -118.0600", "Los Angeles County / ZIP 90670 sector"]
-zillowHomeValueUsd: 783120
 ---
 
 **Engineering Notice for Santa Fe Springs:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Homeowners in Santa Fe Springs, CA often face sudden roof work problems that require fast action.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Santa Fe Springs, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Santa Fe Springs, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 90670.
+Tip: Note recent wind events when filing insurance photos for Santa Fe Springs, CA.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Moisture pathway inspection logged near ZIP 90670/90671 intake.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Connection points spot-checked where accessible (ZIP 90670/90671 zone).
+Hail bruising on Santa Fe Springs, CA ridges may not breach felt until the next wind event.
 
-Dispatch sectors sampled: ZIP 90670, 90671 (county grid: Los Angeles County).
+roof work brief: synthetic underlayment slip and soffit intake free area were cross-checked for the Santa Fe Springs intake packet.
+
+On-site sector marker: Los Angeles County / ZIP 90671 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / ZIP 90670 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90670-a0c2610e

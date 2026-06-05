@@ -11,24 +11,31 @@ lng: -86.6300
 zipSample: ["35051", "35043"]
 zipCodes: ["35051", "35043"]
 localPaths: ["Shelby County / coords 33.3300, -86.6300", "Shelby County / ZIP 35051 sector", "Shelby County / primary ZIP 35051", "Shelby County / ZIP 35043 sector", "Shelby County / elevation 548 ft band"]
-zillowHomeValueUsd: 322551
 ---
 
 **Engineering Notice for Chelsea:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: Shelby County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 35043/35051 coverage.
+Hail bruising on Chelsea, AL ridges may not breach felt until the next wind event.
 
-Dispatch sectors sampled: ZIP 35043, 35051 (county grid: Shelby County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Material note: In Chelsea, AL, algae-resistant granules may be specified for north-facing slopes.
+
+Scope trace: wind uplift clip spacing plus drip-edge metal profile referenced in Shelby County county grid review.
+
+On-site sector marker: Shelby County / ZIP 35051 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Chelsea, AL: sampled sectors include 35051, 35043; county routing grid remains Shelby County.
 
 Service reference: AL-35051-978844fd

@@ -11,27 +11,35 @@ lng: -90.0900
 zipSample: ["70471", "70448", "70470"]
 zipCodes: ["70470", "70471", "70448"]
 localPaths: ["St. Tammany Parish / primary ZIP 70448", "St. Tammany Parish / ZIP 70470 sector", "St. Tammany Parish / elevation 43 ft band", "St. Tammany Parish / ZIP 70448 sector", "St. Tammany Parish / ZIP 70471 sector"]
-zillowHomeValueUsd: 335204
 ---
 
 **Engineering Notice for Mandeville:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: St. Tammany Parish.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Our Mandeville, LA dispatch packets reference county grid St. Tammany Parish and elevation band 43 ft.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 70448.
+Coastal humidity in Mandeville, LA can slow shingle seal-down after shoulder-season storms.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is partial dry-in possible? In Mandeville, LA, yes—if slope and anchor points support safe tie-offs.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70448/70470/70471.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 70448/70470/70471 coverage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 70448, 70470, 70471 (county grid: St. Tammany Parish).
+Risk flag: In Mandeville, LA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 70448.
+
+Field note: Attic moisture pathway scan referenced ZIP 70471/70470/70448.
+
+On-site sector marker: St. Tammany Parish / coords 30.3800, -90.0900 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Mandeville, LA: sampled sectors include 70448, 70471, 70470; county routing grid remains St. Tammany Parish.
 
 Service reference: LA-70448-6bca0f19

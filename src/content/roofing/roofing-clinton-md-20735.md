@@ -11,24 +11,31 @@ lng: -76.9100
 zipSample: ["20735"]
 zipCodes: ["20735"]
 localPaths: ["Prince George's County / primary ZIP 20735", "Prince George's County / ZIP 20735 sector", "Prince George's County / coords 38.7500, -76.9100", "Prince George's County / elevation 213 ft band"]
-zillowHomeValueUsd: 439610
 ---
 
 **Engineering Notice for Clinton:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Prince George's County.
 
 
-Our service coordination centers on Clinton, MD coverage windows and verified intake details.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Clinton, MD attics should be checked against current mechanical exhaust additions.
 
-Tip: address recurring issues early to prevent bigger damage.
+In Clinton, MD, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Tile underlayment age in Clinton, MD can fail independently of visible tile cracks.
 
-Tip: request a written scope before work starts.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Moisture pathway inspection logged near ZIP 20735 intake.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 20735 (county grid: Prince George's County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+FAQ: When should permanent remediation start? In Clinton, MD, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: ice-barrier lap sequence plus wind uplift clip spacing referenced in Prince George's County county grid review.
+
+Regional mesh label Prince George's County: moisture and logistics baselines are keyed to Clinton, MD before niche-specific work begins.
+
+On-site sector marker: Prince George's County / primary ZIP 20735 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20735-ed661fac

@@ -11,26 +11,33 @@ lng: -81.6300
 zipSample: ["25326", "25364", "25327", "25322", "25314"]
 zipCodes: ["25337", "25323", "25302", "25317", "25301", "25305", "25303", "25324", "25321", "25322", "25314", "25364"]
 localPaths: ["Kanawha County / ZIP 25326 sector", "Kanawha County / ZIP 25327 sector", "Kanawha County / ZIP 25364 sector", "Kanawha County / coords 38.3500, -81.6300", "Kanawha County / ZIP 25314 sector"]
-zillowHomeValueUsd: 57425
 ---
 
 **Engineering Notice for Charleston:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Kanawha County.
 
 
-We coordinate local dispatch coverage around Charleston, WV and nearby ZIP sectors.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-In Charleston, WV, seasonal demand can change scheduling windows.
+Regulatory note: Charleston, WV projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 25339/25331/25317 coverage.
+Metal panel oil-canning in Charleston, WV may signal clip spacing issues, not wind damage alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 25339/25331/25317 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 25339, 25331, 25317, 25387, 25303 (county grid: Kanawha County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+roof work brief: pipe boot manufacturer match and ice-barrier lap sequence were cross-checked for the Charleston intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 25324/25322/25305.
+
+Regional mesh label Kanawha County: moisture and logistics baselines are keyed to Charleston, WV before niche-specific work begins.
+
+On-site sector marker: Kanawha County / ZIP 25350 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-25387-0446123b

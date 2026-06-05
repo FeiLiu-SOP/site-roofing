@@ -11,25 +11,35 @@ lng: -84.8900
 zipSample: ["47374", "47375"]
 zipCodes: ["47375", "47374"]
 localPaths: ["Wayne County / ZIP 47375 sector", "Wayne County / elevation 974 ft band", "Wayne County / primary ZIP 47374", "Wayne County / coords 39.8300, -84.8900", "Wayne County / ZIP 47374 sector"]
-zillowHomeValueUsd: 156734
 ---
 
 **Engineering Notice for Richmond:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Richmond, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 47374.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Richmond, IN, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is partial dry-in possible? In Richmond, IN, yes—if slope and anchor points support safe tie-offs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 47374.
+Freeze-thaw cycles around Richmond, IN stress nail pops along eaves and rake edges.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 47374/47375.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 47374, 47375 (county grid: Wayne County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Step: compare shingle manufacturer wind-zone ratings for Richmond, IN exposure class.
+
+We coordinate Richmond, IN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Field routing: shingle exposure calibration paired with deck sheathing thickness near ZIP 47374.
+
+Field note: Attic moisture pathway scan referenced ZIP 47374/47375.
+
+Primary postal anchor 47374 with multi-ZIP overlap in Richmond; field packets tag Wayne County for county-grid reconciliation.
+
+On-site sector marker: Wayne County / ZIP 47374 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47374-e0d6c7b9

@@ -11,26 +11,33 @@ lng: -94.3700
 zipSample: ["72906", "72901", "72918", "72914", "72913"]
 zipCodes: ["72914", "72919", "72908", "72917", "72918", "72904", "72906", "72923", "72913", "72903", "72916", "72901"]
 localPaths: ["Sebastian County / ZIP 72913 sector", "Sebastian County / ZIP 72918 sector", "Sebastian County / ZIP 72914 sector", "Sebastian County / primary ZIP 72908", "Sebastian County / ZIP 72901 sector"]
-zillowHomeValueUsd: 229105
 ---
 
 **Engineering Notice for Fort Smith:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: Sebastian County.
 
 
-Our service coordination centers on Fort Smith, AR coverage windows and verified intake details.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tile and shingle mixes in Fort Smith, AR require different fastener patterns at transitions.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in Fort Smith, AR can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: compare shingle manufacturer wind-zone ratings for Fort Smith, AR exposure class.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 72906/72917/72904.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 72906/72917/72904 zone).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 72906, 72917, 72904, 72916, 72903 (county grid: Sebastian County).
+Wind-zone note: Fort Smith, AR exposure class can change starter-strip and cap nail schedules.
+
+Field routing: starter-strip setback paired with drip-edge metal profile near ZIP 72908.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 72904/72913/72914.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Sebastian County and primary ZIP 72908. Terrain reference: 476 ft. Center point: 35.3500, -94.3700. ZIP sample: 72901, 72903, 72923, 72919, 72914. Service perimeter note: Coverage extends through Sebastian County with dispatch centered near ZIP 72908.
+
+Regional mesh label Sebastian County: moisture and logistics baselines are keyed to Fort Smith, AR before niche-specific work begins.
 
 Service reference: AR-72908-80a61631

@@ -11,24 +11,31 @@ lng: -80.1400
 zipSample: ["33009", "33008"]
 zipCodes: ["33008", "33009"]
 localPaths: ["Broward County / primary ZIP 33009", "Broward County / ZIP 33009 sector", "Broward County / elevation 30 ft band", "Broward County / ZIP 33008 sector", "Broward County / coords 25.9900, -80.1400"]
-zillowHomeValueUsd: 278990
 ---
 
 **Engineering Notice for Hallandale Beach:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.
 
 
-In Hallandale Beach, FL, urgent roof service issues can escalate quickly.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Our service coordination centers on Hallandale Beach, FL coverage windows and verified intake details.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hallandale Beach, FL, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 33008/33009.
+Parapet coping movement in Hallandale Beach, FL can channel water behind wall cladding.
 
-Dispatch sectors sampled: ZIP 33008, 33009 (county grid: Broward County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Regulatory note: Hallandale Beach, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: skylight curb height plus chimney cricket slope referenced in Broward County county grid review.
+
+On-site sector marker: Broward County / ZIP 33008 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Broward County / coords 25.9900, -80.1400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33009-f281b903

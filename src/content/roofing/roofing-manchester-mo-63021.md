@@ -11,25 +11,33 @@ lng: -90.5100
 zipSample: ["63011", "63021"]
 zipCodes: ["63011", "63021"]
 localPaths: ["St. Louis County / ZIP 63011 sector", "St. Louis County / ZIP 63021 sector", "St. Louis County / elevation 600 ft band", "St. Louis County / primary ZIP 63021", "St. Louis County / coords 38.5800, -90.5100"]
-zillowHomeValueUsd: 386281
 ---
 
 **Engineering Notice for Manchester:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-We coordinate local dispatch coverage around Manchester, MO and nearby ZIP sectors.
+Attic ventilation deficits in Manchester, MO can mimic roof leaks at ceiling penetrations.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: confirm licensing and insurance before approving work.
+Step: compare shingle manufacturer wind-zone ratings for Manchester, MO exposure class.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 63021.
+Wind-zone note: Manchester, MO exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 63011/63021.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 63021.
 
-Dispatch sectors sampled: ZIP 63011, 63021 (county grid: St. Louis County).
+Risk flag: Tile underlayment age in Manchester, MO can fail independently of visible tile cracks.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+roof service brief: counter-flashing reglet depth and drip-edge metal profile were cross-checked for the Manchester intake packet.
+
+On-site sector marker: St. Louis County / ZIP 63011 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Louis County / coords 38.5800, -90.5100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63021-265ed60e

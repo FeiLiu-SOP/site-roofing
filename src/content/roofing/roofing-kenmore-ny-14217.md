@@ -11,25 +11,31 @@ lng: -78.8700
 zipSample: ["14217"]
 zipCodes: ["14217"]
 localPaths: ["Erie County / ZIP 14217 sector", "Erie County / primary ZIP 14217", "Erie County / elevation 617 ft band", "Erie County / coords 42.9600, -78.8700"]
-zillowHomeValueUsd: 254493
 ---
 
 **Engineering Notice for Kenmore:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Erie County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In Kenmore, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Kenmore, NY coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Kenmore, NY can fail independently of visible tile cracks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+TPO seam welds in Kenmore, NY commercial sections need probe tests after freeze events.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 14217.
+Material note: In Kenmore, NY, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: request a written scope before work starts.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Access points and staging constraints recorded for ZIP 14217 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 14217 (county grid: Erie County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Erie County county grid review.
+
+On-site sector marker: Erie County / coords 42.9600, -78.8700 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Kenmore, NY: sampled sectors include 14217; county routing grid remains Erie County.
 
 Service reference: NY-14217-7f90622e

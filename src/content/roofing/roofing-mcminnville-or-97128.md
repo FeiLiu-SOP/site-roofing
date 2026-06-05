@@ -11,26 +11,33 @@ lng: -123.1900
 zipSample: ["97128"]
 zipCodes: ["97128"]
 localPaths: ["Yamhill County / primary ZIP 97128", "Yamhill County / coords 45.2100, -123.1900", "Yamhill County / elevation 164 ft band", "Yamhill County / ZIP 97128 sector"]
-zillowHomeValueUsd: 485279
 ---
 
 **Engineering Notice for McMinnville:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Yamhill County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tile and shingle mixes in McMinnville, OR require different fastener patterns at transitions.
 
-Tip: request a written scope before work starts.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Our service coordination centers on McMinnville, OR coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for McMinnville, OR.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is partial dry-in possible? In McMinnville, OR, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 97128 intake.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Connection points spot-checked where accessible (ZIP 97128 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 97128 (county grid: Yamhill County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Wind-zone note: McMinnville, OR exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: starter-strip setback plus deck sheathing thickness referenced in Yamhill County county grid review.
+
+On-site sector marker: Yamhill County / elevation 164 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Yamhill County / ZIP 97128 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97128-f9b17ea2

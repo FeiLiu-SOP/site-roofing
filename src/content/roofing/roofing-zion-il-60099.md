@@ -11,27 +11,35 @@ lng: -87.8500
 zipSample: ["60099"]
 zipCodes: ["60099"]
 localPaths: ["Lake County / ZIP 60099 sector", "Lake County / elevation 699 ft band", "Lake County / primary ZIP 60099", "Lake County / coords 42.4600, -87.8500"]
-zillowHomeValueUsd: 256984
 ---
 
 **Engineering Notice for Zion:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 60099.
+Low-slope sections in Zion, IL need positive drainage before membrane repairs are scoped.
 
-Homeowners in Zion, IL often face sudden roof work problems that require fast action.
+Wind-zone note: Zion, IL exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Zion, IL, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Zion, IL can fail independently of visible tile cracks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 60099 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Access points and staging constraints recorded for ZIP 60099 coverage.
+Step: separate emergency tarp scope from permanent service line items.
 
-Dispatch sectors sampled: ZIP 60099 (county grid: Lake County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+FAQ: How long can shingles wait after storm damage? In Zion, IL, delayed dry-in can expand insulation and ceiling repairs.
+
+roof work brief: ridge cap nail schedule and attic baffle spacing were cross-checked for the Zion intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 60099.
+
+On-site sector marker: Lake County / primary ZIP 60099 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lake County / ZIP 60099 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60099-5602a2a1

@@ -11,24 +11,31 @@ lng: -92.0300
 zipSample: ["70593", "70596", "70502", "70509", "70598"]
 zipCodes: ["70507", "70504", "70593", "70598", "70503", "70501", "70505", "70509", "70506", "70596", "70508", "70502"]
 localPaths: ["Lafayette Parish / ZIP 70509 sector", "Lafayette Parish / coords 30.2100, -92.0300", "Lafayette Parish / ZIP 70596 sector", "Lafayette Parish / ZIP 70502 sector", "Lafayette Parish / ZIP 70593 sector"]
-zillowHomeValueUsd: 291851
 ---
 
 **Engineering Notice for Lafayette:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Lafayette Parish.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: request a written scope before work starts.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-In Lafayette, LA, seasonal demand can change scheduling windows.
+FAQ: When should permanent restoration start? In Lafayette, LA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lafayette, LA, but intake notes help reduce delays.
+Wood shake courses in Lafayette, LA require skip-spacing rules at valleys.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Connection points spot-checked where accessible (ZIP 70502/70503/70593 zone).
+Wind-zone note: Lafayette, LA exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 70502, 70503, 70593, 70505, 70598 (county grid: Lafayette Parish).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 70508.
+
+Scope trace: wind uplift clip spacing plus attic baffle spacing referenced in Lafayette Parish county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 70596/70509/70501.
+
+On-site sector marker: Lafayette Parish / ZIP 70505 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lafayette Parish / coords 30.2100, -92.0300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70508-41048cc2

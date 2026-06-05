@@ -11,26 +11,29 @@ lng: -82.4500
 zipSample: ["34639", "33549", "33559", "34638"]
 zipCodes: ["34638", "33559", "33549", "34639"]
 localPaths: ["Pasco County / ZIP 34639 sector", "Pasco County / ZIP 34638 sector", "Pasco County / primary ZIP 33549", "Pasco County / coords 28.2100, -82.4500", "Pasco County / ZIP 33559 sector"]
-zillowHomeValueUsd: 436477
 ---
 
 **Engineering Notice for Land O' Lakes:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Pasco County.
 
 
-Structured milestones protect both sides when scheduling work.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-We coordinate local dispatch coverage around Land O' Lakes, FL and nearby ZIP sectors.
+Skylight curb flashing in Land O' Lakes, FL should be sequenced before ridge cap replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in Land O' Lakes, FL can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Land O' Lakes, FL, but intake notes help reduce delays.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34639/33549/34638.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Access points and staging constraints recorded for ZIP 34639/33549/34638 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 34639, 33549, 34638, 33559 (county grid: Pasco County).
+Scope trace: starter-strip setback plus deck sheathing thickness referenced in Pasco County county grid review.
+
+On-site sector marker: Pasco County / ZIP 33549 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Pasco County: moisture and logistics baselines are keyed to Land O' Lakes, FL before niche-specific work begins.
 
 Service reference: FL-33549-c2daa97f

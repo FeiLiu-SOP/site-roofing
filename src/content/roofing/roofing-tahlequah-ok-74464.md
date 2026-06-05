@@ -11,26 +11,31 @@ lng: -94.9800
 zipSample: ["74465", "74464"]
 zipCodes: ["74465", "74464"]
 localPaths: ["Cherokee County / coords 35.9100, -94.9800", "Cherokee County / elevation 830 ft band", "Cherokee County / primary ZIP 74464", "Cherokee County / ZIP 74464 sector", "Cherokee County / ZIP 74465 sector"]
-zillowHomeValueUsd: 195828
 ---
 
 **Engineering Notice for Tahlequah:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Cherokee County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Synthetic underlayment slip in Tahlequah, OK is often tied to deck moisture, not wind alone.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Tahlequah, OK exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Tahlequah, OK, but intake notes help reduce delays.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Tahlequah, OK can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 74464/74465 intake.
+FAQ: Is partial dry-in possible? In Tahlequah, OK, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 74464/74465.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 74464, 74465 (county grid: Cherokee County).
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Field routing: counter-flashing reglet depth paired with chimney cricket slope near ZIP 74464.
+
+Coordinate-anchored dispatch note: center reference 35.9100, -94.9800 at elevation ~830 ft aligns with Cherokee County intake staging.
+
+On-site sector marker: Cherokee County / primary ZIP 74464 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74464-3d7f42cc

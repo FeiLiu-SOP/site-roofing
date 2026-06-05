@@ -11,27 +11,35 @@ lng: -121.2400
 zipSample: ["93927"]
 zipCodes: ["93927"]
 localPaths: ["Monterey County / primary ZIP 93927", "Monterey County / ZIP 93927 sector", "Monterey County / elevation 285 ft band", "Monterey County / coords 36.3200, -121.2400"]
-zillowHomeValueUsd: 547228
 ---
 
 **Engineering Notice for Greenfield:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Monterey County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 93927.
+Risk flag: Tile underlayment age in Greenfield, CA can fail independently of visible tile cracks.
 
-Our service coordination centers on Greenfield, CA coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: request a written scope before work starts.
+FAQ: When should permanent restoration start? In Greenfield, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Wind exposure category reviewed for ZIP sector 93927.
+Hail bruising on Greenfield, CA ridges may not breach felt until the next wind event.
 
-Field note: Access points and staging constraints recorded for ZIP 93927 coverage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 93927 (county grid: Monterey County).
+Regulatory note: Greenfield, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 93927.
+
+Field note: Valley debris and granule loss noted for ZIP 93927.
+
+Regional mesh label Monterey County: moisture and logistics baselines are keyed to Greenfield, CA before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Monterey County. Reference elevation: 285 ft. Primary coordinates: 36.3200, -121.2400. ZIP sample: 93927. Service perimeter note: Coverage extends through Monterey County with dispatch centered near ZIP 93927.
 
 Service reference: CA-93927-23c0ad39

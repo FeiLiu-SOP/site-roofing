@@ -11,24 +11,31 @@ lng: -121.5500
 zipSample: ["95691", "95799", "95605", "95899", "95798"]
 zipCodes: ["95605", "95799", "95691", "95899", "95798"]
 localPaths: ["Yolo County / primary ZIP 95605", "Yolo County / ZIP 95899 sector", "Yolo County / ZIP 95799 sector", "Yolo County / ZIP 95605 sector", "Yolo County / ZIP 95691 sector"]
-zillowHomeValueUsd: 414893
 ---
 
 **Engineering Notice for West Sacramento:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Yolo County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Our service coordination centers on West Sacramento, CA coverage windows and verified intake details.
+Regulatory note: West Sacramento, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Skylight curb flashing in West Sacramento, CA should be sequenced before ridge cap replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+We coordinate West Sacramento, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 95605/95798/95799 intake.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 95605, 95798, 95799, 95899, 95691 (county grid: Yolo County).
+Risk flag: Tile underlayment age in West Sacramento, CA can fail independently of visible tile cracks.
+
+Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Yolo County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 95691/95798/95799.
+
+On-site sector marker: Yolo County / primary ZIP 95605 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Yolo County / ZIP 95798 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95605-fce90a9a

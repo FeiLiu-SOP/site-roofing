@@ -11,26 +11,29 @@ lng: -75.4900
 zipSample: ["13442", "13308", "13449", "13441", "13440"]
 zipCodes: ["13440", "13308", "13449", "13441", "13442"]
 localPaths: ["Oneida County / coords 43.2300, -75.4900", "Oneida County / ZIP 13441 sector", "Oneida County / ZIP 13442 sector", "Oneida County / ZIP 13308 sector", "Oneida County / ZIP 13440 sector"]
-zillowHomeValueUsd: 201240
 ---
 
 **Engineering Notice for Rome:** Structural loading calculated based on 443 ft terrain assessment. Regional dispatch grid: Oneida County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-In Rome, NY, urgent roofing service issues can escalate quickly.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Structured milestones protect both sides when scheduling work.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Rome, NY attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 13441/13440/13449 coverage.
+Skylight curb flashing in Rome, NY should be sequenced before ridge cap replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 13441/13440/13449 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 13441, 13440, 13449, 13308, 13442 (county grid: Oneida County).
+Field routing: pipe boot manufacturer match paired with synthetic underlayment slip near ZIP 13441.
+
+Coordinate-anchored dispatch note: center reference 43.2300, -75.4900 at elevation ~443 ft aligns with Oneida County intake staging.
+
+Primary postal anchor 13441 with multi-ZIP overlap in Rome; field packets tag Oneida County for county-grid reconciliation.
 
 Service reference: NY-13441-05e1e347

@@ -11,24 +11,35 @@ lng: -122.9100
 zipSample: ["97355"]
 zipCodes: ["97355"]
 localPaths: ["Linn County / primary ZIP 97355", "Linn County / ZIP 97355 sector", "Linn County / elevation 348 ft band", "Linn County / coords 44.5300, -122.9100"]
-zillowHomeValueUsd: 390845
 ---
 
 **Engineering Notice for Lebanon:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Linn County.
 
 
-We coordinate local dispatch coverage around Lebanon, OR and nearby ZIP sectors.
+Hail bruising on Lebanon, OR ridges may not breach felt until the next wind event.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Metal panel oil-canning in Lebanon, OR may signal clip spacing issues, not wind damage alone.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 97355.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Our Lebanon, OR dispatch packets reference county grid Linn County and elevation band 348 ft.
 
-Field note: Access points and staging constraints recorded for ZIP 97355 coverage.
+Code context: Ventilation ratios for Lebanon, OR attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 97355 (county grid: Linn County).
+Step: stage tear-off debris paths away from landscape drains.
+
+FAQ: When should permanent service start? In Lebanon, OR, delayed dry-in can expand insulation and ceiling repairs.
+
+Risk flag: Tile underlayment age in Lebanon, OR can fail independently of visible tile cracks.
+
+roofing service brief: starter-strip setback and drip-edge metal profile were cross-checked for the Lebanon intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 97355.
+
+On-site sector marker: Linn County / coords 44.5300, -122.9100 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Linn County / ZIP 97355 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97355-5bdb9dde

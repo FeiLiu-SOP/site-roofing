@@ -11,28 +11,31 @@ lng: -84.6800
 zipSample: ["30127"]
 zipCodes: ["30127"]
 localPaths: ["Cobb County / primary ZIP 30127", "Cobb County / coords 33.8700, -84.6800", "Cobb County / ZIP 30127 sector", "Cobb County / elevation 938 ft band"]
-zillowHomeValueUsd: 364133
 ---
 
 **Engineering Notice for Powder Springs:** Structural loading calculated based on 938 ft terrain assessment. Regional dispatch grid: Cobb County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 30127.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 30127.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In Powder Springs, GA, yes—if slope and anchor points support safe tie-offs.
 
-Tip: request a written scope before work starts.
+Freeze-thaw cycles around Powder Springs, GA stress nail pops along eaves and rake edges.
 
-Field note: Wind exposure category reviewed for ZIP sector 30127.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30127.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 30127 (county grid: Cobb County).
+Tip: Note recent wind events when filing insurance photos for Powder Springs, GA.
+
+roofing service brief: wind uplift clip spacing and ice-barrier lap sequence were cross-checked for the Powder Springs intake packet.
+
+Primary postal anchor 30127 with multi-ZIP overlap in Powder Springs; field packets tag Cobb County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 33.8700, -84.6800 at elevation ~938 ft aligns with Cobb County intake staging.
 
 Service reference: GA-30127-584c9d2a

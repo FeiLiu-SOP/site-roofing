@@ -11,24 +11,31 @@ lng: -81.3200
 zipSample: ["32753", "32713"]
 zipCodes: ["32713", "32753"]
 localPaths: ["Volusia County / ZIP 32713 sector", "Volusia County / elevation 72 ft band", "Volusia County / ZIP 32753 sector", "Volusia County / coords 28.8800, -81.3200", "Volusia County / primary ZIP 32713"]
-zillowHomeValueUsd: 377970
 ---
 
 **Engineering Notice for DeBary:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Volusia County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: DeBary, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: avoid large upfront payments without milestones.
+Our DeBary, FL dispatch packets reference county grid Volusia County and elevation band 72 ft.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: In DeBary, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in DeBary, FL, but intake notes help reduce delays.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-We coordinate local dispatch coverage around DeBary, FL and nearby ZIP sectors.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 32753/32713 zone).
+Tip: Note recent wind events when filing insurance photos for DeBary, FL.
 
-Dispatch sectors sampled: ZIP 32753, 32713 (county grid: Volusia County).
+Wood shake courses in DeBary, FL require skip-spacing rules at valleys.
+
+roof service brief: counter-flashing reglet depth and synthetic underlayment slip were cross-checked for the DeBary intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 32713/32753.
+
+On-site sector marker: Volusia County / ZIP 32713 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 32713 with multi-ZIP overlap in DeBary; field packets tag Volusia County for county-grid reconciliation.
 
 Service reference: FL-32713-490f0364

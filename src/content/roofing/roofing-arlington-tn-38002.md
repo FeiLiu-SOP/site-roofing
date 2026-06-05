@@ -11,26 +11,35 @@ lng: -89.6700
 zipSample: ["38028", "38002"]
 zipCodes: ["38028", "38002"]
 localPaths: ["Shelby County / primary ZIP 38002", "Shelby County / elevation 302 ft band", "Shelby County / coords 35.2600, -89.6700", "Shelby County / ZIP 38002 sector", "Shelby County / ZIP 38028 sector"]
-zillowHomeValueUsd: 407808
 ---
 
 **Engineering Notice for Arlington:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Shelby County.
 
 
-In Arlington, TN, urgent roof work issues can escalate quickly.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Arlington, TN exposure class can change starter-strip and cap nail schedules.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Arlington, TN, but intake notes help reduce delays.
+Low-slope sections in Arlington, TN need positive drainage before membrane repairs are scoped.
 
-Field note: Access points and staging constraints recorded for ZIP 38028/38002 coverage.
+Risk flag: Tile underlayment age in Arlington, TN can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 38028/38002 zone).
+Tip: Note recent wind events when filing insurance photos for Arlington, TN.
 
-Dispatch sectors sampled: ZIP 38028, 38002 (county grid: Shelby County).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+FAQ: Is partial dry-in possible? In Arlington, TN, yes—if slope and anchor points support safe tie-offs.
+
+roof work brief: counter-flashing reglet depth and soffit intake free area were cross-checked for the Arlington intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 38028/38002.
+
+On-site sector marker: Shelby County / elevation 302 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 35.2600, -89.6700 at elevation ~302 ft aligns with Shelby County intake staging.
 
 Service reference: TN-38002-dd3bee39

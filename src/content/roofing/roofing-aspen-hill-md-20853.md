@@ -11,25 +11,33 @@ lng: -77.0800
 zipSample: ["20906", "20853", "20908", "20897", "20916"]
 zipCodes: ["20908", "20906", "20853", "20916", "20897"]
 localPaths: ["Montgomery County / ZIP 20916 sector", "Montgomery County / primary ZIP 20853", "Montgomery County / ZIP 20853 sector", "Montgomery County / elevation 440 ft band", "Montgomery County / coords 39.0900, -77.0800"]
-zillowHomeValueUsd: 636784
 ---
 
 **Engineering Notice for Aspen Hill:** Structural loading calculated based on 440 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Aspen Hill, MD, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Clear documentation helps align materials, labor, and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Aspen Hill, MD coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for Aspen Hill, MD.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Aspen Hill, MD, interior stains may track from HVAC condensate rather than roof cladding.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 20853.
+FAQ: When should permanent remediation start? In Aspen Hill, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 20897/20916/20906 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 20897, 20916, 20906, 20853, 20908 (county grid: Montgomery County).
+Hail bruising on Aspen Hill, MD ridges may not breach felt until the next wind event.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: ridge cap nail schedule paired with synthetic underlayment slip near ZIP 20853.
+
+Field note: Shingle seal-down timing logged near ZIP 20916/20897/20906.
+
+Coordinate-anchored dispatch note: center reference 39.0900, -77.0800 at elevation ~440 ft aligns with Montgomery County intake staging.
+
+On-site sector marker: Montgomery County / coords 39.0900, -77.0800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20853-829ef29e

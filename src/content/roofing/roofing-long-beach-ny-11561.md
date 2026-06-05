@@ -11,26 +11,29 @@ lng: -73.6700
 zipSample: ["11561"]
 zipCodes: ["11561"]
 localPaths: ["Nassau County / coords 40.5900, -73.6700", "Nassau County / ZIP 11561 sector", "Nassau County / primary ZIP 11561", "Nassau County / elevation 13 ft band"]
-zillowHomeValueUsd: 820866
 ---
 
 **Engineering Notice for Long Beach:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Long Beach, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should permanent service start? In Long Beach, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map ventilation intake and exhaust pairs for Long Beach, NY attic runs.
 
-Local conditions in Long Beach, NY can affect timelines and material choices.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Long Beach, NY attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 11561 coverage.
+Metal panel oil-canning in Long Beach, NY may signal clip spacing issues, not wind damage alone.
 
-Field note: Moisture pathway inspection logged near ZIP 11561 intake.
+Tip: Note recent wind events when filing insurance photos for Long Beach, NY.
 
-Dispatch sectors sampled: ZIP 11561 (county grid: Nassau County).
+Scope trace: synthetic underlayment slip plus soffit intake free area referenced in Nassau County county grid review.
+
+ZIP-corridor snapshot for Long Beach, NY: sampled sectors include 11561; county routing grid remains Nassau County.
+
+Regional mesh label Nassau County: moisture and logistics baselines are keyed to Long Beach, NY before niche-specific work begins.
 
 Service reference: NY-11561-7a34daed

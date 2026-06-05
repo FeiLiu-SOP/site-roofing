@@ -11,24 +11,31 @@ lng: -79.4700
 zipSample: ["28374", "28370"]
 zipCodes: ["28370", "28374"]
 localPaths: ["Moore County / ZIP 28374 sector", "Moore County / elevation 522 ft band", "Moore County / ZIP 28370 sector", "Moore County / coords 35.1900, -79.4700", "Moore County / primary ZIP 28374"]
-zillowHomeValueUsd: 533543
 ---
 
 **Engineering Notice for Pinehurst:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Moore County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: In Pinehurst, NC, algae-resistant granules may be specified for north-facing slopes.
 
-Local conditions in Pinehurst, NC can affect timelines and material choices.
+Wind-zone note: Pinehurst, NC exposure class can change starter-strip and cap nail schedules.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Metal panel oil-canning in Pinehurst, NC may signal clip spacing issues, not wind damage alone.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Pinehurst, NC, but intake notes help reduce delays.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 28370/28374 coverage.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Dispatch sectors sampled: ZIP 28370, 28374 (county grid: Moore County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: attic baffle spacing paired with synthetic underlayment slip near ZIP 28374.
+
+On-site sector marker: Moore County / ZIP 28370 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Moore County / primary ZIP 28374 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28374-5d082162

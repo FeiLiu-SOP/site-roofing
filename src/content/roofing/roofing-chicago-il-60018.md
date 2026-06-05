@@ -11,25 +11,29 @@ lng: -87.6900
 zipSample: ["60659", "60684", "60643", "60827", "60687"]
 zipCodes: ["60656", "60623", "60615", "60661", "60694", "60640", "60638", "60659", "60688", "60630", "60613", "60646"]
 localPaths: ["Cook County / ZIP 60659 sector", "Cook County / primary ZIP 60018", "Cook County / ZIP 60684 sector", "Cook County / ZIP 60827 sector", "Cook County / coords 41.8400, -87.6900"]
-zillowHomeValueUsd: 378006
 ---
 
 **Engineering Notice for Chicago:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Our service coordination centers on Chicago, IL coverage windows and verified intake details.
+Attic ventilation deficits in Chicago, IL can mimic roof leaks at ceiling penetrations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Chicago, IL attics should be checked against current mechanical exhaust additions.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 60018.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Homeowners in Chicago, IL often face sudden roof work problems that require fast action.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 60609/60601/60607 zone).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 60609, 60601, 60607, 60696, 60606 (county grid: Cook County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Field routing: starter-strip setback paired with deck sheathing thickness near ZIP 60018.
+
+On-site sector marker: Cook County / primary ZIP 60018 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cook County / ZIP 60675 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60018-8fb3e69e

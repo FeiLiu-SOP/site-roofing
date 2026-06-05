@@ -11,26 +11,31 @@ lng: -122.9200
 zipSample: ["98501", "98512", "98511"]
 zipCodes: ["98511", "98501", "98512"]
 localPaths: ["Thurston County / ZIP 98501 sector", "Thurston County / ZIP 98511 sector", "Thurston County / coords 46.9900, -122.9200", "Thurston County / primary ZIP 98501", "Thurston County / ZIP 98512 sector"]
-zillowHomeValueUsd: 549715
 ---
 
 **Engineering Notice for Tumwater:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Thurston County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Our service coordination centers on Tumwater, WA coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Tumwater, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Tumwater, WA attics should be checked against current mechanical exhaust additions.
 
-Tip: address recurring issues early to prevent bigger damage.
+Across Tumwater, WA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Tumwater, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 98512/98501/98511 coverage.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Moisture pathway inspection logged near ZIP 98512/98501/98511 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 98512, 98501, 98511 (county grid: Thurston County).
+Scope trace: ridge cap nail schedule plus synthetic underlayment slip referenced in Thurston County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98501/98512/98511.
+
+Primary postal anchor 98501 with multi-ZIP overlap in Tumwater; field packets tag Thurston County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 46.9900, -122.9200 at elevation ~190 ft aligns with Thurston County intake staging.
 
 Service reference: WA-98501-15ead98a

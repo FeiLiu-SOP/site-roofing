@@ -11,26 +11,33 @@ lng: -94.6300
 zipSample: ["66211", "66206", "66209", "66224"]
 zipCodes: ["66209", "66224", "66206", "66211"]
 localPaths: ["Johnson County / primary ZIP 66211", "Johnson County / ZIP 66209 sector", "Johnson County / ZIP 66224 sector", "Johnson County / elevation 978 ft band", "Johnson County / ZIP 66211 sector"]
-zillowHomeValueUsd: 790082
 ---
 
 **Engineering Notice for Leawood:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Johnson County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Leawood, KS roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Clear documentation helps align materials, labor, and timeline.
+Hail bruising on Leawood, KS ridges may not breach felt until the next wind event.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Leawood, KS exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Leawood, KS, but intake notes help reduce delays.
+FAQ: When should permanent restoration start? In Leawood, KS, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 66206/66211/66224 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Access points and staging constraints recorded for ZIP 66206/66211/66224 coverage.
+Step: compare shingle manufacturer wind-zone ratings for Leawood, KS exposure class.
 
-Dispatch sectors sampled: ZIP 66206, 66211, 66224, 66209 (county grid: Johnson County).
+Material note: In Leawood, KS, algae-resistant granules may be specified for north-facing slopes.
+
+Risk flag: In Leawood, KS, interior stains may track from HVAC condensate rather than roof cladding.
+
+roof work brief: pipe boot manufacturer match and deck sheathing thickness were cross-checked for the Leawood intake packet.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Johnson County and primary ZIP 66211. Terrain reference: 978 ft. Center point: 38.9100, -94.6300. ZIP sample: 66206, 66211, 66209, 66224. Service perimeter note: Coverage extends through Johnson County with dispatch centered near ZIP 66211.
+
+Coordinate-anchored dispatch note: center reference 38.9100, -94.6300 at elevation ~978 ft aligns with Johnson County intake staging.
 
 Service reference: KS-66211-20062ac9

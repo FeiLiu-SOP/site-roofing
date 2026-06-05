@@ -11,26 +11,33 @@ lng: -83.2200
 zipSample: ["48009", "48012"]
 zipCodes: ["48009", "48012"]
 localPaths: ["Oakland County / ZIP 48012 sector", "Oakland County / ZIP 48009 sector", "Oakland County / elevation 787 ft band", "Oakland County / coords 42.5400, -83.2200", "Oakland County / primary ZIP 48009"]
-zillowHomeValueUsd: 732294
 ---
 
 **Engineering Notice for Birmingham:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Oakland County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Birmingham, MI, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Birmingham, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Homeowners in Birmingham, MI often face sudden roofing service problems that require fast action.
+Regulatory note: Birmingham, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: In Birmingham, MI, algae-resistant granules may be specified for north-facing slopes.
 
-We coordinate local dispatch coverage around Birmingham, MI and nearby ZIP sectors.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 48009/48012 coverage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 48009/48012 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 48009, 48012 (county grid: Oakland County).
+Tile and shingle mixes in Birmingham, MI require different fastener patterns at transitions.
+
+roofing service brief: synthetic underlayment slip and shingle exposure calibration were cross-checked for the Birmingham intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 48012/48009.
+
+On-site sector marker: Oakland County / ZIP 48009 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Oakland County / primary ZIP 48009 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48009-5c48c1e8

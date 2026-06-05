@@ -11,27 +11,33 @@ lng: -122.3100
 zipSample: ["98043"]
 zipCodes: ["98043"]
 localPaths: ["Snohomish County / coords 47.7900, -122.3100", "Snohomish County / ZIP 98043 sector", "Snohomish County / primary ZIP 98043", "Snohomish County / elevation 495 ft band"]
-zillowHomeValueUsd: 699209
 ---
 
 **Engineering Notice for Mountlake Terrace:** Structural loading calculated based on 495 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98043.
+Material note: In Mountlake Terrace, WA, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Metal panel oil-canning in Mountlake Terrace, WA may signal clip spacing issues, not wind damage alone.
 
-Our service coordination centers on Mountlake Terrace, WA coverage windows and verified intake details.
+Wind-zone note: Mountlake Terrace, WA exposure class can change starter-strip and cap nail schedules.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: compare shingle manufacturer wind-zone ratings for Mountlake Terrace, WA exposure class.
 
-Field note: Access points and staging constraints recorded for ZIP 98043 coverage.
+Risk flag: Tile underlayment age in Mountlake Terrace, WA can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 98043.
+Synthetic underlayment slip in Mountlake Terrace, WA is often tied to deck moisture, not wind alone.
 
-Dispatch sectors sampled: ZIP 98043 (county grid: Snohomish County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Snohomish County county grid review.
+
+On-site sector marker: Snohomish County / ZIP 98043 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 47.7900, -122.3100 at elevation ~495 ft aligns with Snohomish County intake staging.
 
 Service reference: WA-98043-79215ac0

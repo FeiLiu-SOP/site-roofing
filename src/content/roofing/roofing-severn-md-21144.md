@@ -11,26 +11,33 @@ lng: -76.7000
 zipSample: ["21076", "21077", "21144"]
 zipCodes: ["21077", "21144", "21076"]
 localPaths: ["Anne Arundel County / ZIP 21076 sector", "Anne Arundel County / primary ZIP 21144", "Anne Arundel County / ZIP 21144 sector", "Anne Arundel County / elevation 174 ft band", "Anne Arundel County / ZIP 21077 sector"]
-zillowHomeValueUsd: 520443
 ---
 
 **Engineering Notice for Severn:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Regulatory note: Severn, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: request a written scope before work starts.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Severn, MD, but intake notes help reduce delays.
+Across Severn, MD, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 21144/21076/21077.
+FAQ: Can you tarp only part of the roof? In Severn, MD, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 21144/21076/21077 coverage.
+Tip: Note recent wind events when filing insurance photos for Severn, MD.
 
-Dispatch sectors sampled: ZIP 21144, 21076, 21077 (county grid: Anne Arundel County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: starter-strip setback plus shingle exposure calibration referenced in Anne Arundel County county grid review.
+
+Regional mesh label Anne Arundel County: moisture and logistics baselines are keyed to Severn, MD before niche-specific work begins.
+
+On-site sector marker: Anne Arundel County / elevation 174 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21144-26bd1a80

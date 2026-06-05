@@ -11,26 +11,35 @@ lng: -84.5200
 zipSample: ["30126", "30081", "30082", "30080"]
 zipCodes: ["30080", "30126", "30082", "30081"]
 localPaths: ["Cobb County / elevation 1040 ft band", "Cobb County / ZIP 30080 sector", "Cobb County / ZIP 30126 sector", "Cobb County / ZIP 30081 sector", "Cobb County / coords 33.8600, -84.5200"]
-zillowHomeValueUsd: 372293
 ---
 
 **Engineering Notice for Smyrna:** Structural loading calculated based on 1040 ft terrain assessment. Regional dispatch grid: Cobb County.
 
 
-We coordinate local dispatch coverage around Smyrna, GA and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Regulatory note: Smyrna, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Smyrna, GA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 30080/30082/30081.
+Our Smyrna, GA dispatch packets reference county grid Cobb County and elevation band 1040 ft.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30080/30082/30081.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 30080, 30082, 30081, 30126 (county grid: Cobb County).
+Coastal humidity in Smyrna, GA can slow shingle seal-down after shoulder-season storms.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Scope trace: synthetic underlayment slip plus valley metal gauge referenced in Cobb County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 30126/30081/30082.
+
+On-site sector marker: Cobb County / ZIP 30082 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Cobb County and primary ZIP 30126. Terrain reference: 1040 ft. Center point: 33.8600, -84.5200. ZIP sample: 30082, 30126, 30080, 30081. Logistics priority: Serving residential sectors across Cobb County and north-east ZIP 30126 grid.
 
 Service reference: GA-30126-e652bdee

@@ -11,26 +11,31 @@ lng: -88.1100
 zipSample: ["60189", "60187"]
 zipCodes: ["60187", "60189"]
 localPaths: ["DuPage County / elevation 761 ft band", "DuPage County / ZIP 60189 sector", "DuPage County / ZIP 60187 sector", "DuPage County / coords 41.8600, -88.1100", "DuPage County / primary ZIP 60187"]
-zillowHomeValueUsd: 490747
 ---
 
 **Engineering Notice for Wheaton:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: DuPage County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Valley metal in Wheaton, IL should be reviewed whenever granule loss tracks the water line.
 
-In Wheaton, IL, seasonal demand can change scheduling windows.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Wheaton, IL can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wheaton, IL, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60187.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60187/60189.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 60187/60189.
+Regulatory note: Wheaton, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 60187, 60189 (county grid: DuPage County).
+Field routing: wind uplift clip spacing paired with attic baffle spacing near ZIP 60187.
+
+Field note: Valley debris and granule loss noted for ZIP 60187/60189.
+
+On-site sector marker: DuPage County / elevation 761 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 41.8600, -88.1100 at elevation ~761 ft aligns with DuPage County intake staging.
 
 Service reference: IL-60187-265a8f84

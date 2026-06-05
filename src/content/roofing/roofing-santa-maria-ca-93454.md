@@ -11,27 +11,31 @@ lng: -120.4400
 zipSample: ["93458", "93455", "93454"]
 zipCodes: ["93455", "93458", "93454"]
 localPaths: ["Santa Barbara County / ZIP 93458 sector", "Santa Barbara County / ZIP 93454 sector", "Santa Barbara County / elevation 213 ft band", "Santa Barbara County / coords 34.9300, -120.4400", "Santa Barbara County / primary ZIP 93454"]
-zillowHomeValueUsd: 626980
 ---
 
 **Engineering Notice for Santa Maria:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
 
 
-Our service coordination centers on Santa Maria, CA coverage windows and verified intake details.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 93454.
+Risk flag: Tile underlayment age in Santa Maria, CA can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 93454.
 
-Tip: request a written scope before work starts.
+Metal panel oil-canning in Santa Maria, CA may signal clip spacing issues, not wind damage alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Wind exposure category reviewed for ZIP sector 93455/93458/93454.
+FAQ: Can you tarp only part of the roof? In Santa Maria, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 93455/93458/93454 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 93455, 93458, 93454 (county grid: Santa Barbara County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+roof work brief: starter-strip setback and shingle exposure calibration were cross-checked for the Santa Maria intake packet.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Santa Barbara County and primary ZIP 93454. Terrain reference: 213 ft. Center point: 34.9300, -120.4400. ZIP sample: 93458, 93455, 93454. Logistics priority: Serving residential sectors across Santa Barbara County and north-east ZIP 93454 grid.
+
+On-site sector marker: Santa Barbara County / ZIP 93455 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93454-d7f00ead

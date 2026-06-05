@@ -11,26 +11,33 @@ lng: -86.8900
 zipSample: ["32566"]
 zipCodes: ["32566"]
 localPaths: ["Santa Rosa County / elevation 46 ft band", "Santa Rosa County / coords 30.4200, -86.8900", "Santa Rosa County / primary ZIP 32566", "Santa Rosa County / ZIP 32566 sector"]
-zillowHomeValueUsd: 415324
 ---
 
 **Engineering Notice for Navarre:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Santa Rosa County.
 
 
-Tip: request a written scope before work starts.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wood shake courses in Navarre, FL require skip-spacing rules at valleys.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Navarre, FL, but intake notes help reduce delays.
+Material note: In Navarre, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Access points and staging constraints recorded for ZIP 32566 coverage.
+FAQ: Can you tarp only part of the roof? In Navarre, FL, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 32566 intake.
+Regulatory note: Navarre, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 32566 (county grid: Santa Rosa County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+roofing service brief: ice-barrier lap sequence and wind uplift clip spacing were cross-checked for the Navarre intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 32566.
+
+On-site sector marker: Santa Rosa County / coords 30.4200, -86.8900 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 32566 with multi-ZIP overlap in Navarre; field packets tag Santa Rosa County for county-grid reconciliation.
 
 Service reference: FL-32566-fc5eb548

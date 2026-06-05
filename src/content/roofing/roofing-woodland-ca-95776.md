@@ -11,24 +11,31 @@ lng: -121.7500
 zipSample: ["95695", "95776"]
 zipCodes: ["95776", "95695"]
 localPaths: ["Yolo County / elevation 36 ft band", "Yolo County / coords 38.6700, -121.7500", "Yolo County / ZIP 95695 sector", "Yolo County / primary ZIP 95776", "Yolo County / ZIP 95776 sector"]
-zillowHomeValueUsd: 601659
 ---
 
 **Engineering Notice for Woodland:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Yolo County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: address recurring issues early to prevent bigger damage.
+Low-slope sections in Woodland, CA need positive drainage before membrane repairs are scoped.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wind-zone note: Woodland, CA exposure class can change starter-strip and cap nail schedules.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Access points and staging constraints recorded for ZIP 95776/95695 coverage.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 95776, 95695 (county grid: Yolo County).
+Step: compare shingle manufacturer wind-zone ratings for Woodland, CA exposure class.
+
+Field routing: ice-barrier lap sequence paired with soffit intake free area near ZIP 95776.
+
+Field note: Shingle seal-down timing logged near ZIP 95695/95776.
+
+Primary postal anchor 95776 with multi-ZIP overlap in Woodland; field packets tag Yolo County for county-grid reconciliation.
+
+On-site sector marker: Yolo County / ZIP 95776 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95776-8aebe8f5

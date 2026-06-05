@@ -11,24 +11,31 @@ lng: -97.1400
 zipSample: ["67002"]
 zipCodes: ["67002"]
 localPaths: ["Butler County / primary ZIP 67002", "Butler County / coords 37.6900, -97.1400", "Butler County / elevation 1345 ft band", "Butler County / ZIP 67002 sector"]
-zillowHomeValueUsd: 325667
 ---
 
 **Engineering Notice for Andover:** Structural loading calculated based on 1345 ft terrain assessment. Regional dispatch grid: Butler County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Our service coordination centers on Andover, KS coverage windows and verified intake details.
+FAQ: Is partial dry-in possible? In Andover, KS, yes—if slope and anchor points support safe tie-offs.
 
-In Andover, KS, seasonal demand can change scheduling windows.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: request a written scope before work starts.
+Our Andover, KS dispatch packets reference county grid Butler County and elevation band 1345 ft.
 
-Field note: Moisture pathway inspection logged near ZIP 67002 intake.
+Risk flag: In Andover, KS, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 67002 (county grid: Butler County).
+Valley metal in Andover, KS should be reviewed whenever granule loss tracks the water line.
+
+Field routing: ridge cap nail schedule paired with synthetic underlayment slip near ZIP 67002.
+
+Field note: Attic moisture pathway scan referenced ZIP 67002.
+
+On-site sector marker: Butler County / ZIP 67002 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Butler County: moisture and logistics baselines are keyed to Andover, KS before niche-specific work begins.
 
 Service reference: KS-67002-6eeb4d2a

@@ -11,26 +11,31 @@ lng: -88.3100
 zipSample: ["60175", "60174"]
 zipCodes: ["60175", "60174"]
 localPaths: ["Kane County / ZIP 60174 sector", "Kane County / coords 41.9200, -88.3100", "Kane County / primary ZIP 60175", "Kane County / ZIP 60175 sector", "Kane County / elevation 768 ft band"]
-zillowHomeValueUsd: 624840
 ---
 
 **Engineering Notice for St. Charles:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Kane County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: St. Charles, IL exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our service coordination centers on St. Charles, IL coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In St. Charles, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-Clear documentation helps align materials, labor, and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Moisture pathway inspection logged near ZIP 60174/60175 intake.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Access points and staging constraints recorded for ZIP 60174/60175 coverage.
+Wood shake courses in St. Charles, IL require skip-spacing rules at valleys.
 
-Dispatch sectors sampled: ZIP 60174, 60175 (county grid: Kane County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Scope trace: synthetic underlayment slip plus skylight curb height referenced in Kane County county grid review.
+
+Regional mesh label Kane County: moisture and logistics baselines are keyed to St. Charles, IL before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 41.9200, -88.3100 at elevation ~768 ft aligns with Kane County intake staging.
 
 Service reference: IL-60175-7d3bd160

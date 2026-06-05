@@ -11,24 +11,31 @@ lng: -75.9300
 zipSample: ["19603", "19612", "19611", "19602", "19604"]
 zipCodes: ["19604", "19603", "19601", "19611", "19602", "19612"]
 localPaths: ["Berks County / ZIP 19604 sector", "Berks County / ZIP 19611 sector", "Berks County / ZIP 19612 sector", "Berks County / ZIP 19602 sector", "Berks County / coords 40.3400, -75.9300"]
-zillowHomeValueUsd: 179714
 ---
 
 **Engineering Notice for Reading:** Structural loading calculated based on 272 ft terrain assessment. Regional dispatch grid: Berks County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Freeze-thaw cycles around Reading, PA stress nail pops along eaves and rake edges.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: avoid large upfront payments without milestones.
+Our Reading, PA dispatch packets reference county grid Berks County and elevation band 272 ft.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Homeowners in Reading, PA often face sudden roofing service problems that require fast action.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 19604/19602/19611.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 19604, 19602, 19611, 19612, 19603 (county grid: Berks County).
+Step: log deck soundings near vents before tear-off is approved.
+
+roofing service brief: soffit intake free area and valley metal gauge were cross-checked for the Reading intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 19602/19612/19604.
+
+Regional mesh label Berks County: moisture and logistics baselines are keyed to Reading, PA before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Grid anchor set to Berks County. Reference elevation: 272 ft. Primary coordinates: 40.3400, -75.9300. ZIP sample: 19601, 19604, 19612, 19603, 19611. Service perimeter note: Coverage extends through Berks County with dispatch centered near ZIP 19601.
 
 Service reference: PA-19601-54d5e3d2

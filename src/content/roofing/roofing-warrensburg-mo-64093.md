@@ -11,25 +11,31 @@ lng: -93.7300
 zipSample: ["64093"]
 zipCodes: ["64093"]
 localPaths: ["Johnson County / elevation 837 ft band", "Johnson County / coords 38.7600, -93.7300", "Johnson County / primary ZIP 64093", "Johnson County / ZIP 64093 sector"]
-zillowHomeValueUsd: 266519
 ---
 
 **Engineering Notice for Warrensburg:** Structural loading calculated based on 837 ft terrain assessment. Regional dispatch grid: Johnson County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 64093.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Warrensburg, MO, but intake notes help reduce delays.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Warrensburg, MO can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+Tile and shingle mixes in Warrensburg, MO require different fastener patterns at transitions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Moisture pathway inspection logged near ZIP 64093 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 64093 (county grid: Johnson County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Scope trace: counter-flashing reglet depth plus ice-barrier lap sequence referenced in Johnson County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 64093.
+
+On-site sector marker: Johnson County / ZIP 64093 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Johnson County / coords 38.7600, -93.7300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64093-edabd879

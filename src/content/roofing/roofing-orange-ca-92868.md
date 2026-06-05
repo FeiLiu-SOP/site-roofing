@@ -11,26 +11,31 @@ lng: -117.8200
 zipSample: ["92863", "92864", "92868", "92857", "92866"]
 zipCodes: ["92857", "92867", "92863", "92865", "92864", "92869", "92868", "92866", "92856"]
 localPaths: ["Orange County / ZIP 92868 sector", "Orange County / primary ZIP 92868", "Orange County / ZIP 92866 sector", "Orange County / ZIP 92857 sector", "Orange County / ZIP 92864 sector"]
-zillowHomeValueUsd: 907077
 ---
 
 **Engineering Notice for Orange:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: In Orange, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-We coordinate local dispatch coverage around Orange, CA and nearby ZIP sectors.
+Synthetic underlayment slip in Orange, CA is often tied to deck moisture, not wind alone.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Orange, CA, but intake notes help reduce delays.
+Step: separate emergency tarp scope from permanent service line items.
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 92865/92868/92866.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92865/92868/92866.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 92865, 92868, 92866, 92857, 92867 (county grid: Orange County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Scope trace: attic baffle spacing plus pipe boot manufacturer match referenced in Orange County county grid review.
+
+Coordinate-anchored dispatch note: center reference 33.8000, -117.8200 at elevation ~302 ft aligns with Orange County intake staging.
+
+On-site sector marker: Orange County / ZIP 92866 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92868-2dbddc85

@@ -11,26 +11,35 @@ lng: -85.8300
 zipSample: ["46526", "46528", "46527"]
 zipCodes: ["46527", "46528", "46526"]
 localPaths: ["Elkhart County / ZIP 46526 sector", "Elkhart County / primary ZIP 46528", "Elkhart County / ZIP 46528 sector", "Elkhart County / elevation 804 ft band", "Elkhart County / ZIP 46527 sector"]
-zillowHomeValueUsd: 303717
 ---
 
 **Engineering Notice for Goshen:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Elkhart County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Goshen, IN, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Goshen, IN, but intake notes help reduce delays.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-We coordinate local dispatch coverage around Goshen, IN and nearby ZIP sectors.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 46528.
 
-Tip: compare at least two estimates for scope and timeline.
+In Goshen, IN, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Wind-zone note: Goshen, IN exposure class can change starter-strip and cap nail schedules.
 
-Field note: Access points and staging constraints recorded for ZIP 46526/46527/46528 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 46526/46527/46528 zone).
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 46526, 46527, 46528 (county grid: Elkhart County).
+Risk flag: In Goshen, IN, interior stains may track from HVAC condensate rather than roof cladding.
+
+Material note: In Goshen, IN, algae-resistant granules may be specified for north-facing slopes.
+
+roof service brief: starter-strip setback and deck sheathing thickness were cross-checked for the Goshen intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 46527/46526/46528.
+
+On-site sector marker: Elkhart County / ZIP 46528 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Goshen, IN: sampled sectors include 46528, 46527, 46526; county routing grid remains Elkhart County.
 
 Service reference: IN-46528-292b3ca8

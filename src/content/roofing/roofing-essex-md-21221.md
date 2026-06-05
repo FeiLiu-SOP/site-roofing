@@ -11,24 +11,35 @@ lng: -76.4400
 zipSample: ["21221"]
 zipCodes: ["21221"]
 localPaths: ["Baltimore County / elevation 26 ft band", "Baltimore County / primary ZIP 21221", "Baltimore County / coords 39.3000, -76.4400", "Baltimore County / ZIP 21221 sector"]
-zillowHomeValueUsd: 292830
 ---
 
 **Engineering Notice for Essex:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Baltimore County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-In Essex, MD, urgent roof work issues can escalate quickly.
+Wind-zone note: Essex, MD exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 21221 intake.
+Risk flag: Tile underlayment age in Essex, MD can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 21221 (county grid: Baltimore County).
+Across Essex, MD, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Field routing: drip-edge metal profile paired with valley metal gauge near ZIP 21221.
+
+Field note: Attic moisture pathway scan referenced ZIP 21221.
+
+On-site sector marker: Baltimore County / elevation 26 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Baltimore County / primary ZIP 21221 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21221-5ac05c45

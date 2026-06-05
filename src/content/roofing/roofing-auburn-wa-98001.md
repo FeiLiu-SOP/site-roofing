@@ -11,24 +11,35 @@ lng: -122.2100
 zipSample: ["98001", "98002", "98092"]
 zipCodes: ["98002", "98092", "98001"]
 localPaths: ["King County / ZIP 98092 sector", "King County / elevation 92 ft band", "King County / ZIP 98002 sector", "King County / ZIP 98001 sector", "King County / primary ZIP 98001"]
-zillowHomeValueUsd: 640534
 ---
 
 **Engineering Notice for Auburn:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: King County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Auburn, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 98001.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Auburn, WA, but intake notes help reduce delays.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When should permanent remediation start? In Auburn, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98092/98002/98001.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 98092, 98002, 98001 (county grid: King County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Synthetic underlayment slip in Auburn, WA is often tied to deck moisture, not wind alone.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: synthetic underlayment slip paired with valley metal gauge near ZIP 98001.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98002/98001/98092.
+
+On-site sector marker: King County / primary ZIP 98001 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 47.3000, -122.2100 at elevation ~92 ft aligns with King County intake staging.
 
 Service reference: WA-98001-17de7837

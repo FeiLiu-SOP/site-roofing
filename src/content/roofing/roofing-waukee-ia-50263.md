@@ -11,25 +11,31 @@ lng: -93.8900
 zipSample: ["50263", "50003"]
 zipCodes: ["50263", "50003"]
 localPaths: ["Dallas County / ZIP 50263 sector", "Dallas County / ZIP 50003 sector", "Dallas County / coords 41.6000, -93.8900", "Dallas County / elevation 997 ft band", "Dallas County / primary ZIP 50263"]
-zillowHomeValueUsd: 337631
 ---
 
 **Engineering Notice for Waukee:** Structural loading calculated based on 997 ft terrain assessment. Regional dispatch grid: Dallas County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 50263.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Our service coordination centers on Waukee, IA coverage windows and verified intake details.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: Waukee, IA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Waukee, IA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 50263/50003 zone).
+Risk flag: Tile underlayment age in Waukee, IA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 50263, 50003 (county grid: Dallas County).
+Hail bruising on Waukee, IA ridges may not breach felt until the next wind event.
+
+roof work brief: valley metal gauge and ridge cap nail schedule were cross-checked for the Waukee intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 50003/50263.
+
+On-site sector marker: Dallas County / ZIP 50263 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 50263 with multi-ZIP overlap in Waukee; field packets tag Dallas County for county-grid reconciliation.
 
 Service reference: IA-50263-797d54e1

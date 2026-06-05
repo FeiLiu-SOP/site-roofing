@@ -11,24 +11,31 @@ lng: -121.8900
 zipSample: ["95035"]
 zipCodes: ["95035"]
 localPaths: ["Santa Clara County / ZIP 95035 sector", "Santa Clara County / primary ZIP 95035", "Santa Clara County / coords 37.4300, -121.8900", "Santa Clara County / elevation 30 ft band"]
-zillowHomeValueUsd: 1501881
 ---
 
 **Engineering Notice for Milpitas:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Santa Clara County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Milpitas, CA can fail independently of visible tile cracks.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should permanent restoration start? In Milpitas, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Milpitas, CA, but intake notes help reduce delays.
+TPO seam welds in Milpitas, CA commercial sections need probe tests after freeze events.
 
-Tip: request a written scope before work starts.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Regulatory note: Milpitas, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 95035 zone).
+Step: map ventilation intake and exhaust pairs for Milpitas, CA attic runs.
 
-Dispatch sectors sampled: ZIP 95035 (county grid: Santa Clara County).
+Our Milpitas, CA dispatch packets reference county grid Santa Clara County and elevation band 30 ft.
+
+Scope trace: drip-edge metal profile plus chimney cricket slope referenced in Santa Clara County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 95035.
+
+Primary postal anchor 95035 with multi-ZIP overlap in Milpitas; field packets tag Santa Clara County for county-grid reconciliation.
+
+On-site sector marker: Santa Clara County / ZIP 95035 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95035-195c629c

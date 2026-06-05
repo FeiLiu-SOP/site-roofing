@@ -11,24 +11,35 @@ lng: -73.0700
 zipSample: ["11741"]
 zipCodes: ["11741"]
 localPaths: ["Suffolk County / ZIP 11741 sector", "Suffolk County / elevation 92 ft band", "Suffolk County / primary ZIP 11741", "Suffolk County / coords 40.7900, -73.0700"]
-zillowHomeValueUsd: 648610
 ---
 
 **Engineering Notice for Holbrook:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: Holbrook, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Homeowners in Holbrook, NY often face sudden roof service problems that require fast action.
+In Holbrook, NY, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Moisture pathway inspection logged near ZIP 11741 intake.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 11741 (county grid: Suffolk County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Step: note chimney cricket geometry before counter-flashing removal.
+
+roof service brief: attic baffle spacing and drip-edge metal profile were cross-checked for the Holbrook intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 11741.
+
+On-site sector marker: Suffolk County / elevation 92 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Holbrook, NY: sampled sectors include 11741; county routing grid remains Suffolk County.
 
 Service reference: NY-11741-5da2aa70

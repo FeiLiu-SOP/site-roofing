@@ -11,26 +11,35 @@ lng: -81.7000
 zipSample: ["28680", "28655"]
 zipCodes: ["28680", "28655"]
 localPaths: ["Burke County / ZIP 28680 sector", "Burke County / elevation 1201 ft band", "Burke County / ZIP 28655 sector", "Burke County / primary ZIP 28655", "Burke County / coords 35.7400, -81.7000"]
-zillowHomeValueUsd: 259435
 ---
 
 **Engineering Notice for Morganton:** Structural loading calculated based on 1201 ft terrain assessment. Regional dispatch grid: Burke County.
 
 
-In Morganton, NC, urgent roof work issues can escalate quickly.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Parapet coping movement in Morganton, NC can channel water behind wall cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Morganton, NC can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Morganton, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 28680/28655 zone).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 28680/28655 intake.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 28680, 28655 (county grid: Burke County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+FAQ: When should permanent remediation start? In Morganton, NC, delayed dry-in can expand insulation and ceiling repairs.
+
+roof work brief: attic baffle spacing and counter-flashing reglet depth were cross-checked for the Morganton intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 28655/28680.
+
+Primary postal anchor 28655 with multi-ZIP overlap in Morganton; field packets tag Burke County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 35.7400, -81.7000 at elevation ~1201 ft aligns with Burke County intake staging.
 
 Service reference: NC-28655-7b6431ff

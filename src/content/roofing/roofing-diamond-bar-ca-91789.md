@@ -11,24 +11,35 @@ lng: -117.8200
 zipSample: ["91789", "91765"]
 zipCodes: ["91765", "91789"]
 localPaths: ["Los Angeles County / primary ZIP 91789", "Los Angeles County / ZIP 91765 sector", "Los Angeles County / coords 34.0000, -117.8200", "Los Angeles County / ZIP 91789 sector", "Los Angeles County / elevation 965 ft band"]
-zillowHomeValueUsd: 1156340
 ---
 
 **Engineering Notice for Diamond Bar:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: request a written scope before work starts.
+Material note: In Diamond Bar, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should permanent restoration start? In Diamond Bar, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Diamond Bar, CA coverage windows and verified intake details.
+Attic ventilation deficits in Diamond Bar, CA can mimic roof leaks at ceiling penetrations.
 
-Structured milestones protect both sides when scheduling work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91789/91765.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 91789, 91765 (county grid: Los Angeles County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: synthetic underlayment slip paired with deck sheathing thickness near ZIP 91789.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 91765/91789.
+
+On-site sector marker: Los Angeles County / ZIP 91765 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / ZIP 91789 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91789-2d6cefde

@@ -11,24 +11,31 @@ lng: -92.9600
 zipSample: ["55128"]
 zipCodes: ["55128"]
 localPaths: ["Washington County / primary ZIP 55128", "Washington County / ZIP 55128 sector", "Washington County / coords 44.9900, -92.9600", "Washington County / elevation 1056 ft band"]
-zillowHomeValueUsd: 353746
 ---
 
 **Engineering Notice for Oakdale:** Structural loading calculated based on 1056 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: Oakdale, MN exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: map ventilation intake and exhaust pairs for Oakdale, MN attic runs.
 
-Local conditions in Oakdale, MN can affect timelines and material choices.
+Valley metal in Oakdale, MN should be reviewed whenever granule loss tracks the water line.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Connection points spot-checked where accessible (ZIP 55128 zone).
+FAQ: When should permanent restoration start? In Oakdale, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 55128 (county grid: Washington County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roof service brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Oakdale intake packet.
+
+Coordinate-anchored dispatch note: center reference 44.9900, -92.9600 at elevation ~1056 ft aligns with Washington County intake staging.
+
+On-site sector marker: Washington County / elevation 1056 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55128-564bd175

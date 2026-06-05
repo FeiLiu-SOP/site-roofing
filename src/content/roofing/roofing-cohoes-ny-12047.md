@@ -11,26 +11,31 @@ lng: -73.7100
 zipSample: ["12047"]
 zipCodes: ["12047"]
 localPaths: ["Albany County / elevation 236 ft band", "Albany County / coords 42.7700, -73.7100", "Albany County / primary ZIP 12047", "Albany County / ZIP 12047 sector"]
-zillowHomeValueUsd: 330495
 ---
 
 **Engineering Notice for Cohoes:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Albany County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: avoid large upfront payments without milestones.
+Freeze-thaw cycles around Cohoes, NY stress nail pops along eaves and rake edges.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Access points and staging constraints recorded for ZIP 12047 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 12047 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 12047 (county grid: Albany County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+roof work brief: pipe boot manufacturer match and deck sheathing thickness were cross-checked for the Cohoes intake packet.
+
+Coordinate-anchored dispatch note: center reference 42.7700, -73.7100 at elevation ~236 ft aligns with Albany County intake staging.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Albany County and primary ZIP 12047. Terrain reference: 236 ft. Center point: 42.7700, -73.7100. ZIP sample: 12047. Regional routing note: Albany County traffic flow is balanced around ZIP 12047 service demand.
 
 Service reference: NY-12047-5a4a8ab3

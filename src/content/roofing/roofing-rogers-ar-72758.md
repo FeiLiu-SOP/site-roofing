@@ -11,26 +11,31 @@ lng: -94.1500
 zipSample: ["72758", "72756", "72716", "72757"]
 zipCodes: ["72758", "72716", "72756", "72757"]
 localPaths: ["Benton County / ZIP 72756 sector", "Benton County / ZIP 72716 sector", "Benton County / ZIP 72758 sector", "Benton County / ZIP 72757 sector", "Benton County / coords 36.3200, -94.1500"]
-zillowHomeValueUsd: 455804
 ---
 
 **Engineering Notice for Rogers:** Structural loading calculated based on 1362 ft terrain assessment. Regional dispatch grid: Benton County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Rogers, AR, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Note recent wind events when filing insurance photos for Rogers, AR.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Tile underlayment age in Rogers, AR can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Rogers, AR coverage windows and verified intake details.
+Regulatory note: Rogers, AR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 72756/72757/72758.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Moisture pathway inspection logged near ZIP 72756/72757/72758 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 72756, 72757, 72758, 72716 (county grid: Benton County).
+Parapet coping movement in Rogers, AR can channel water behind wall cladding.
+
+Field routing: valley metal gauge paired with soffit intake free area near ZIP 72758.
+
+On-site sector marker: Benton County / ZIP 72756 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 72758 with multi-ZIP overlap in Rogers; field packets tag Benton County for county-grid reconciliation.
 
 Service reference: AR-72758-e708c8fc

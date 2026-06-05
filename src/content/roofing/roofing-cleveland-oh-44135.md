@@ -11,25 +11,29 @@ lng: -81.6800
 zipSample: ["44115", "44144", "44199", "44103", "44120"]
 zipCodes: ["44192", "44102", "44195", "44115", "44135", "44106", "44111", "44119", "44194", "44128", "44190", "44199"]
 localPaths: ["Cuyahoga County / elevation 646 ft band", "Cuyahoga County / ZIP 44144 sector", "Cuyahoga County / ZIP 44115 sector", "Cuyahoga County / ZIP 44120 sector", "Cuyahoga County / ZIP 44199 sector"]
-zillowHomeValueUsd: 155008
 ---
 
 **Engineering Notice for Cleveland:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 44135.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cleveland, OH, but intake notes help reduce delays.
+Synthetic underlayment slip in Cleveland, OH is often tied to deck moisture, not wind alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can you tarp only part of the roof? In Cleveland, OH, yes—if slope and anchor points support safe tie-offs.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Our service coordination centers on Cleveland, OH coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Cleveland, OH can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44192/44135/44114.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 44192, 44135, 44114, 44112, 44108 (county grid: Cuyahoga County).
+We coordinate Cleveland, OH roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Scope trace: skylight curb height plus starter-strip setback referenced in Cuyahoga County county grid review.
+
+On-site sector marker: Cuyahoga County / ZIP 44120 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Cleveland, OH: sampled sectors include 44105, 44104, 44120, 44113, 44111, 44191, 44135, 44144; county routing grid remains Cuyahoga County.
 
 Service reference: OH-44135-fe854c91

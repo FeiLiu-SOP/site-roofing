@@ -11,25 +11,35 @@ lng: -86.9600
 zipSample: ["32583"]
 zipCodes: ["32583"]
 localPaths: ["Santa Rosa County / ZIP 32583 sector", "Santa Rosa County / coords 30.6200, -86.9600", "Santa Rosa County / primary ZIP 32583", "Santa Rosa County / elevation 167 ft band"]
-zillowHomeValueUsd: 288006
 ---
 
 **Engineering Notice for East Milton:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Santa Rosa County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In East Milton, FL, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 32583.
+Wood shake courses in East Milton, FL require skip-spacing rules at valleys.
 
-Our service coordination centers on East Milton, FL coverage windows and verified intake details.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 32583 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 32583 (county grid: Santa Rosa County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Step: log deck soundings near vents before tear-off is approved.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: skylight curb height plus deck sheathing thickness referenced in Santa Rosa County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 32583.
+
+On-site sector marker: Santa Rosa County / coords 30.6200, -86.9600 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Santa Rosa County: moisture and logistics baselines are keyed to East Milton, FL before niche-specific work begins.
 
 Service reference: FL-32583-af707ddc

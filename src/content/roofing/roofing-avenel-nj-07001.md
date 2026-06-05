@@ -11,26 +11,31 @@ lng: -74.2700
 zipSample: ["07001"]
 zipCodes: ["07001"]
 localPaths: ["Middlesex County / primary ZIP 07001", "Middlesex County / coords 40.5800, -74.2700", "Middlesex County / elevation 56 ft band", "Middlesex County / ZIP 07001 sector"]
-zillowHomeValueUsd: 527491
 ---
 
 **Engineering Notice for Avenel:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: avoid large upfront payments without milestones.
+We coordinate Avenel, NJ roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Structured milestones protect both sides when scheduling work.
+Metal panel oil-canning in Avenel, NJ may signal clip spacing issues, not wind damage alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: request a written scope before work starts.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07001.
+Risk flag: Tile underlayment age in Avenel, NJ can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 07001 coverage.
+Wind-zone note: Avenel, NJ exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 07001 (county grid: Middlesex County).
+Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Middlesex County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 07001.
+
+On-site sector marker: Middlesex County / coords 40.5800, -74.2700 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Middlesex County. Reference elevation: 56 ft. Primary coordinates: 40.5800, -74.2700. ZIP sample: 07001. Logistics priority: Serving residential sectors across Middlesex County and north-east ZIP 07001 grid.
 
 Service reference: NJ-07001-40cbbefa

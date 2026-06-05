@@ -11,24 +11,31 @@ lng: -97.1500
 zipSample: ["76240", "76241"]
 zipCodes: ["76241", "76240"]
 localPaths: ["Cooke County / ZIP 76240 sector", "Cooke County / coords 33.6400, -97.1500", "Cooke County / ZIP 76241 sector", "Cooke County / primary ZIP 76240", "Cooke County / elevation 778 ft band"]
-zillowHomeValueUsd: 278310
 ---
 
 **Engineering Notice for Gainesville:** Structural loading calculated based on 778 ft terrain assessment. Regional dispatch grid: Cooke County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: map ventilation intake and exhaust pairs for Gainesville, TX attic runs.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Wind-zone note: Gainesville, TX exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Gainesville, TX, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 76240/76241 zone).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 76240, 76241 (county grid: Cooke County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Freeze-thaw cycles around Gainesville, TX stress nail pops along eaves and rake edges.
+
+Scope trace: shingle exposure calibration plus valley metal gauge referenced in Cooke County county grid review.
+
+On-site sector marker: Cooke County / primary ZIP 76240 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~778 ft across the Cooke County area. Coordinates: 33.6400, -97.1500. ZIP sample: 76241, 76240. Service perimeter note: Coverage extends through Cooke County with dispatch centered near ZIP 76240.
 
 Service reference: TX-76240-5863341c

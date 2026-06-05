@@ -11,24 +11,31 @@ lng: -111.8700
 zipSample: ["85266", "85257", "85255", "85252", "85250"]
 zipCodes: ["85258", "85252", "85260", "85262", "85259", "85254", "85255", "85257", "85250", "85266", "85271", "85251"]
 localPaths: ["Maricopa County / ZIP 85257 sector", "Maricopa County / coords 33.6900, -111.8700", "Maricopa County / elevation 2156 ft band", "Maricopa County / ZIP 85266 sector", "Maricopa County / primary ZIP 85259"]
-zillowHomeValueUsd: 1143688
 ---
 
 **Engineering Notice for Scottsdale:** Structural loading calculated based on 2156 ft terrain assessment. Regional dispatch grid: Maricopa County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 85259.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Scottsdale, AZ, but intake notes help reduce delays.
+In Scottsdale, AZ, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: Scottsdale, AZ exposure class can change starter-strip and cap nail schedules.
 
-Local conditions in Scottsdale, AZ can affect timelines and material choices.
+FAQ: How long can shingles wait after storm damage? In Scottsdale, AZ, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Scottsdale, AZ coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 85252/85254/85262 coverage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 85252, 85254, 85262, 85255, 85259 (county grid: Maricopa County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roof work brief: attic baffle spacing and drip-edge metal profile were cross-checked for the Scottsdale intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 85267/85259/85254.
+
+Coordinate-anchored dispatch note: center reference 33.6900, -111.8700 at elevation ~2156 ft aligns with Maricopa County intake staging.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Maricopa County. Reference elevation: 2156 ft. Primary coordinates: 33.6900, -111.8700. ZIP sample: 85267, 85271, 85266, 85252, 85259. Service perimeter note: Coverage extends through Maricopa County with dispatch centered near ZIP 85259.
 
 Service reference: AZ-85259-73eec4dd

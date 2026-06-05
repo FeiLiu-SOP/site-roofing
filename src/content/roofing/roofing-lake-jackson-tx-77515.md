@@ -11,26 +11,31 @@ lng: -95.4500
 zipSample: ["77566", "77515"]
 zipCodes: ["77566", "77515"]
 localPaths: ["Brazoria County / coords 29.0500, -95.4500", "Brazoria County / elevation 36 ft band", "Brazoria County / primary ZIP 77515", "Brazoria County / ZIP 77515 sector", "Brazoria County / ZIP 77566 sector"]
-zillowHomeValueUsd: 240683
 ---
 
 **Engineering Notice for Lake Jackson:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Brazoria County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: address recurring issues early to prevent bigger damage.
+Across Lake Jackson, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-In Lake Jackson, TX, urgent roof service issues can escalate quickly.
+Risk flag: In Lake Jackson, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Local conditions in Lake Jackson, TX can affect timelines and material choices.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Moisture pathway inspection logged near ZIP 77566/77515 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 77566/77515.
+Regulatory note: Lake Jackson, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 77566, 77515 (county grid: Brazoria County).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Scope trace: deck sheathing thickness plus starter-strip setback referenced in Brazoria County county grid review.
+
+On-site sector marker: Brazoria County / primary ZIP 77515 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Brazoria County / ZIP 77566 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77515-53df9750

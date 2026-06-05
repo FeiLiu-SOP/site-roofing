@@ -11,26 +11,33 @@ lng: -118.0700
 zipSample: ["90606", "90610"]
 zipCodes: ["90606", "90610"]
 localPaths: ["Los Angeles County / coords 33.9800, -118.0700", "Los Angeles County / ZIP 90610 sector", "Los Angeles County / elevation 167 ft band", "Los Angeles County / primary ZIP 90606", "Los Angeles County / ZIP 90606 sector"]
-zillowHomeValueUsd: 775591
 ---
 
 **Engineering Notice for West Whittier-Los Nietos:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In West Whittier-Los Nietos, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In West Whittier-Los Nietos, CA, seasonal demand can change scheduling windows.
+FAQ: Is partial dry-in possible? In West Whittier-Los Nietos, CA, yes—if slope and anchor points support safe tie-offs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 90606/90610.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Access points and staging constraints recorded for ZIP 90606/90610 coverage.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 90606, 90610 (county grid: Los Angeles County).
+Freeze-thaw cycles around West Whittier-Los Nietos, CA stress nail pops along eaves and rake edges.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: attic baffle spacing paired with pipe boot manufacturer match near ZIP 90606.
+
+On-site sector marker: Los Angeles County / ZIP 90610 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Los Angeles County and primary ZIP 90606. Terrain reference: 167 ft. Center point: 33.9800, -118.0700. ZIP sample: 90606, 90610. Regional routing note: Los Angeles County traffic flow is balanced around ZIP 90606 service demand.
 
 Service reference: CA-90606-58bd93c8

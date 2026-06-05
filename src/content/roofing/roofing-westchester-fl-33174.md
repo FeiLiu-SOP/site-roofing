@@ -11,25 +11,31 @@ lng: -80.3500
 zipSample: ["33144", "33174", "33155", "33165", "33199"]
 zipCodes: ["33165", "33199", "33174", "33155", "33144"]
 localPaths: ["Miami-Dade County / ZIP 33144 sector", "Miami-Dade County / ZIP 33165 sector", "Miami-Dade County / ZIP 33199 sector", "Miami-Dade County / ZIP 33174 sector", "Miami-Dade County / elevation 33 ft band"]
-zillowHomeValueUsd: 442068
 ---
 
 **Engineering Notice for Westchester:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33174.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: How long can shingles wait after storm damage? In Westchester, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 33144/33165/33155 intake.
+Parapet coping movement in Westchester, FL can channel water behind wall cladding.
 
-Dispatch sectors sampled: ZIP 33144, 33165, 33155, 33199, 33174 (county grid: Miami-Dade County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Scope trace: shingle exposure calibration plus wind uplift clip spacing referenced in Miami-Dade County county grid review.
+
+ZIP-corridor snapshot for Westchester, FL: sampled sectors include 33199, 33155, 33144, 33165, 33174; county routing grid remains Miami-Dade County.
+
+On-site sector marker: Miami-Dade County / primary ZIP 33174 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33174-14cd2e35

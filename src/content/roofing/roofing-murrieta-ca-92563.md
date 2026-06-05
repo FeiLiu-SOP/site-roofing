@@ -11,24 +11,31 @@ lng: -117.1900
 zipSample: ["92563", "92562"]
 zipCodes: ["92563", "92562"]
 localPaths: ["Riverside County / primary ZIP 92563", "Riverside County / coords 33.5700, -117.1900", "Riverside County / ZIP 92562 sector", "Riverside County / ZIP 92563 sector", "Riverside County / elevation 1224 ft band"]
-zillowHomeValueUsd: 693240
 ---
 
 **Engineering Notice for Murrieta:** Structural loading calculated based on 1224 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Murrieta, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our service coordination centers on Murrieta, CA coverage windows and verified intake details.
+Across Murrieta, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92563/92562.
+Risk flag: Tile underlayment age in Murrieta, CA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 92563, 92562 (county grid: Riverside County).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+roof work brief: shingle exposure calibration and starter-strip setback were cross-checked for the Murrieta intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 92563/92562.
+
+ZIP-corridor snapshot for Murrieta, CA: sampled sectors include 92562, 92563; county routing grid remains Riverside County.
+
+On-site sector marker: Riverside County / elevation 1224 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92563-af1cf684

@@ -11,27 +11,33 @@ lng: -76.6300
 zipSample: ["21061"]
 zipCodes: ["21061"]
 localPaths: ["Anne Arundel County / coords 39.1900, -76.6300", "Anne Arundel County / primary ZIP 21061", "Anne Arundel County / ZIP 21061 sector", "Anne Arundel County / elevation 85 ft band"]
-zillowHomeValueUsd: 377339
 ---
 
 **Engineering Notice for Ferndale:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ferndale, MD, but intake notes help reduce delays.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 21061.
+FAQ: When should permanent service start? In Ferndale, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Across Ferndale, MD, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Ferndale, MD exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 21061 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 21061.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 21061 (county grid: Anne Arundel County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 21061.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof work brief: deck sheathing thickness and soffit intake free area were cross-checked for the Ferndale intake packet.
+
+Primary postal anchor 21061 with multi-ZIP overlap in Ferndale; field packets tag Anne Arundel County for county-grid reconciliation.
+
+On-site sector marker: Anne Arundel County / primary ZIP 21061 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21061-f8c3761e

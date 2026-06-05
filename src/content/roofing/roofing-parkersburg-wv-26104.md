@@ -11,26 +11,31 @@ lng: -81.5400
 zipSample: ["26103", "26104", "26101"]
 zipCodes: ["26104", "26103", "26101"]
 localPaths: ["Wood County / ZIP 26103 sector", "Wood County / elevation 627 ft band", "Wood County / primary ZIP 26104", "Wood County / ZIP 26104 sector", "Wood County / coords 39.2600, -81.5400"]
-zillowHomeValueUsd: 172467
 ---
 
 **Engineering Notice for Parkersburg:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Wood County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Across Parkersburg, WV, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In Parkersburg, WV, seasonal demand can change scheduling windows.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Access points and staging constraints recorded for ZIP 26101/26103/26104 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 26101/26103/26104.
+Risk flag: Tile underlayment age in Parkersburg, WV can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 26101, 26103, 26104 (county grid: Wood County).
+roofing service brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the Parkersburg intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 26104/26103/26101.
+
+Coordinate-anchored dispatch note: center reference 39.2600, -81.5400 at elevation ~627 ft aligns with Wood County intake staging.
+
+Regional mesh label Wood County: moisture and logistics baselines are keyed to Parkersburg, WV before niche-specific work begins.
 
 Service reference: WV-26104-dd57bab8

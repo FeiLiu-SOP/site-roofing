@@ -11,27 +11,31 @@ lng: -117.7900
 zipSample: ["92780", "92705", "92711"]
 zipCodes: ["92780", "92711", "92705"]
 localPaths: ["Orange County / elevation 249 ft band", "Orange County / coords 33.7600, -117.7900", "Orange County / ZIP 92705 sector", "Orange County / primary ZIP 92705", "Orange County / ZIP 92711 sector"]
-zillowHomeValueUsd: 1614981
 ---
 
 **Engineering Notice for North Tustin:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 92705.
+We coordinate North Tustin, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: North Tustin, CA exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around North Tustin, CA and nearby ZIP sectors.
+Risk flag: Tile underlayment age in North Tustin, CA can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in North Tustin, CA, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for North Tustin, CA.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Metal panel oil-canning in North Tustin, CA may signal clip spacing issues, not wind damage alone.
 
-Field note: Moisture pathway inspection logged near ZIP 92705/92711/92780 intake.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Wind exposure category reviewed for ZIP sector 92705/92711/92780.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 92705, 92711, 92780 (county grid: Orange County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+roof work brief: synthetic underlayment slip and ice-barrier lap sequence were cross-checked for the North Tustin intake packet.
+
+On-site sector marker: Orange County / coords 33.7600, -117.7900 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Orange County / ZIP 92711 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92705-2189ba9d

@@ -11,24 +11,29 @@ lng: -114.4600
 zipSample: ["83303", "83301"]
 zipCodes: ["83303", "83301"]
 localPaths: ["Twin Falls County / ZIP 83303 sector", "Twin Falls County / primary ZIP 83301", "Twin Falls County / ZIP 83301 sector", "Twin Falls County / elevation 3730 ft band", "Twin Falls County / coords 42.5600, -114.4600"]
-zillowHomeValueUsd: 367716
 ---
 
 **Engineering Notice for Twin Falls:** Structural loading calculated based on 3730 ft terrain assessment. Regional dispatch grid: Twin Falls County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+TPO seam welds in Twin Falls, ID commercial sections need probe tests after freeze events.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in Twin Falls, ID can fail independently of visible tile cracks.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Our service coordination centers on Twin Falls, ID coverage windows and verified intake details.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 83303/83301.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 83303, 83301 (county grid: Twin Falls County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Field routing: counter-flashing reglet depth paired with wind uplift clip spacing near ZIP 83301.
+
+Coordinate-anchored dispatch note: center reference 42.5600, -114.4600 at elevation ~3730 ft aligns with Twin Falls County intake staging.
+
+On-site sector marker: Twin Falls County / elevation 3730 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83301-0906405c

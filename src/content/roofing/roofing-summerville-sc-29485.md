@@ -11,26 +11,31 @@ lng: -80.1800
 zipSample: ["29486", "29483", "29484", "29485"]
 zipCodes: ["29486", "29485", "29483", "29484"]
 localPaths: ["Dorchester County / ZIP 29485 sector", "Dorchester County / ZIP 29483 sector", "Dorchester County / ZIP 29486 sector", "Dorchester County / ZIP 29484 sector", "Dorchester County / elevation 66 ft band"]
-zillowHomeValueUsd: 366087
 ---
 
 **Engineering Notice for Summerville:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Dorchester County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 29485.
 
-In Summerville, SC, urgent roof work issues can escalate quickly.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: confirm licensing and insurance before approving work.
+Valley metal in Summerville, SC should be reviewed whenever granule loss tracks the water line.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 29483/29484/29485.
+Code context: Ventilation ratios for Summerville, SC attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 29483/29484/29485.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 29483, 29484, 29485, 29486 (county grid: Dorchester County).
+roof work brief: starter-strip setback and deck sheathing thickness were cross-checked for the Summerville intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 29486/29484/29483.
+
+On-site sector marker: Dorchester County / elevation 66 ft band — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 29485 with multi-ZIP overlap in Summerville; field packets tag Dorchester County for county-grid reconciliation.
 
 Service reference: SC-29485-cfeda9b6

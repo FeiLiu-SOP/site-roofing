@@ -11,26 +11,31 @@ lng: -76.7700
 zipSample: ["21043", "21075"]
 zipCodes: ["21043", "21075"]
 localPaths: ["Howard County / elevation 361 ft band", "Howard County / primary ZIP 21043", "Howard County / ZIP 21075 sector", "Howard County / coords 39.2200, -76.7700", "Howard County / ZIP 21043 sector"]
-zillowHomeValueUsd: 637968
 ---
 
 **Engineering Notice for Ilchester:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Howard County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ilchester, MD, but intake notes help reduce delays.
+Material note: In Ilchester, MD, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Can you tarp only part of the roof? In Ilchester, MD, yes—if slope and anchor points support safe tie-offs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Ilchester, MD exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Access points and staging constraints recorded for ZIP 21043/21075 coverage.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Moisture pathway inspection logged near ZIP 21043/21075 intake.
+We coordinate Ilchester, MD roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 21043, 21075 (county grid: Howard County).
+Metal panel oil-canning in Ilchester, MD may signal clip spacing issues, not wind damage alone.
+
+Scope trace: soffit intake free area plus starter-strip setback referenced in Howard County county grid review.
+
+On-site sector marker: Howard County / primary ZIP 21043 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 39.2200, -76.7700 at elevation ~361 ft aligns with Howard County intake staging.
 
 Service reference: MD-21043-23908cb4

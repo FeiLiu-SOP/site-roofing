@@ -11,26 +11,31 @@ lng: -80.0600
 zipSample: ["24155", "24153", "24157"]
 zipCodes: ["24153", "24157", "24155"]
 localPaths: ["Salem County / coords 37.2900, -80.0600", "Salem County / ZIP 24155 sector", "Salem County / primary ZIP 24153", "Salem County / ZIP 24153 sector", "Salem County / elevation 1017 ft band"]
-zillowHomeValueUsd: 305115
 ---
 
 **Engineering Notice for Salem:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: Salem County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Tile underlayment age in Salem, VA can fail independently of visible tile cracks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Code context: Ventilation ratios for Salem, VA attics should be checked against current mechanical exhaust additions.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Granule embedment loss on Salem, VA north slopes can precede mat exposure.
 
-Local conditions in Salem, VA can affect timelines and material choices.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is partial dry-in possible? In Salem, VA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 24157/24153/24155 coverage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 24157/24153/24155.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 24157, 24153, 24155 (county grid: Salem County).
+Step: map ventilation intake and exhaust pairs for Salem, VA attic runs.
+
+Scope trace: soffit intake free area plus attic baffle spacing referenced in Salem County county grid review.
+
+ZIP-corridor snapshot for Salem, VA: sampled sectors include 24153, 24157, 24155; county routing grid remains Salem County.
+
+Coordinate-anchored dispatch note: center reference 37.2900, -80.0600 at elevation ~1017 ft aligns with Salem County intake staging.
 
 Service reference: VA-24153-ed84eac8

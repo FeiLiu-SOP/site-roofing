@@ -11,26 +11,35 @@ lng: -75.3700
 zipSample: ["18016", "18017", "18015", "18018"]
 zipCodes: ["18016", "18015", "18018", "18017"]
 localPaths: ["Northampton County / ZIP 18016 sector", "Northampton County / ZIP 18018 sector", "Northampton County / primary ZIP 18017", "Northampton County / elevation 351 ft band", "Northampton County / ZIP 18015 sector"]
-zillowHomeValueUsd: 378585
 ---
 
 **Engineering Notice for Bethlehem:** Structural loading calculated based on 351 ft terrain assessment. Regional dispatch grid: Northampton County.
 
 
-We coordinate local dispatch coverage around Bethlehem, PA and nearby ZIP sectors.
+Freeze-thaw cycles around Bethlehem, PA stress nail pops along eaves and rake edges.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Our Bethlehem, PA dispatch packets reference county grid Northampton County and elevation band 351 ft.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 18018/18015/18016 intake.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 18018/18015/18016.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 18018, 18015, 18016, 18017 (county grid: Northampton County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: synthetic underlayment slip plus attic baffle spacing referenced in Northampton County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 18017/18018/18015.
+
+Primary postal anchor 18017 with multi-ZIP overlap in Bethlehem; field packets tag Northampton County for county-grid reconciliation.
+
+On-site sector marker: Northampton County / ZIP 18016 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-18017-dc68df82

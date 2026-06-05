@@ -11,26 +11,29 @@ lng: -94.1600
 zipSample: ["72762", "72764", "72766", "72765"]
 zipCodes: ["72762", "72765", "72764", "72766"]
 localPaths: ["Washington County / ZIP 72764 sector", "Washington County / ZIP 72765 sector", "Washington County / ZIP 72762 sector", "Washington County / coords 36.1900, -94.1600", "Washington County / ZIP 72766 sector"]
-zillowHomeValueUsd: 315163
 ---
 
 **Engineering Notice for Springdale:** Structural loading calculated based on 1345 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Springdale, AR, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Springdale, AR coverage windows and verified intake details.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: request a written scope before work starts.
+Risk flag: Tile underlayment age in Springdale, AR can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 72764/72765/72766.
+We coordinate Springdale, AR roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 72764/72765/72766.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 72764, 72765, 72766, 72762 (county grid: Washington County).
+roof service brief: attic baffle spacing and counter-flashing reglet depth were cross-checked for the Springdale intake packet.
+
+On-site sector marker: Washington County / coords 36.1900, -94.1600 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Washington County / ZIP 72762 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72764-dfa8ff98

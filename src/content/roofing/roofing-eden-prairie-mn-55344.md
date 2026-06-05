@@ -11,24 +11,31 @@ lng: -93.4600
 zipSample: ["55347", "55344", "55346"]
 zipCodes: ["55344", "55347", "55346"]
 localPaths: ["Hennepin County / ZIP 55344 sector", "Hennepin County / ZIP 55346 sector", "Hennepin County / coords 44.8500, -93.4600", "Hennepin County / elevation 869 ft band", "Hennepin County / primary ZIP 55344"]
-zillowHomeValueUsd: 346991
 ---
 
 **Engineering Notice for Eden Prairie:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Hennepin County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: map ventilation intake and exhaust pairs for Eden Prairie, MN attic runs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Eden Prairie, MN, but intake notes help reduce delays.
+FAQ: Can you tarp only part of the roof? In Eden Prairie, MN, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Eden Prairie, MN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: avoid large upfront payments without milestones.
+Tile and shingle mixes in Eden Prairie, MN require different fastener patterns at transitions.
 
-Field note: Moisture pathway inspection logged near ZIP 55346/55344/55347 intake.
+Code context: Ventilation ratios for Eden Prairie, MN attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 55346, 55344, 55347 (county grid: Hennepin County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roof service brief: soffit intake free area and drip-edge metal profile were cross-checked for the Eden Prairie intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 55347/55346/55344.
+
+On-site sector marker: Hennepin County / elevation 869 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hennepin County / coords 44.8500, -93.4600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55344-6235064d

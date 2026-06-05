@@ -11,26 +11,35 @@ lng: -73.7800
 zipSample: ["10805", "10802", "10801", "10804"]
 zipCodes: ["10804", "10802", "10805", "10801"]
 localPaths: ["Westchester County / ZIP 10804 sector", "Westchester County / elevation 112 ft band", "Westchester County / ZIP 10805 sector", "Westchester County / ZIP 10801 sector", "Westchester County / primary ZIP 10801"]
-zillowHomeValueUsd: 772749
 ---
 
 **Engineering Notice for New Rochelle:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Westchester County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can you tarp only part of the roof? In New Rochelle, NY, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: New Rochelle, NY exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around New Rochelle, NY and nearby ZIP sectors.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 10805/10804/10802 zone).
+Our New Rochelle, NY dispatch packets reference county grid Westchester County and elevation band 112 ft.
 
-Field note: Wind exposure category reviewed for ZIP sector 10805/10804/10802.
+Risk flag: Tile underlayment age in New Rochelle, NY can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 10805, 10804, 10802, 10801 (county grid: Westchester County).
+Low-slope sections in New Rochelle, NY need positive drainage before membrane repairs are scoped.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: attic baffle spacing paired with shingle exposure calibration near ZIP 10801.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 10801/10805/10802.
+
+On-site sector marker: Westchester County / primary ZIP 10801 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Westchester County / coords 40.9300, -73.7800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10801-32aa04ea

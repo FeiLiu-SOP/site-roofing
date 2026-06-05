@@ -11,26 +11,33 @@ lng: -97.9500
 zipSample: ["73018", "73023"]
 zipCodes: ["73023", "73018"]
 localPaths: ["Grady County / ZIP 73023 sector", "Grady County / elevation 1129 ft band", "Grady County / coords 35.0400, -97.9500", "Grady County / primary ZIP 73018", "Grady County / ZIP 73018 sector"]
-zillowHomeValueUsd: 156670
 ---
 
 **Engineering Notice for Chickasha:** Structural loading calculated based on 1129 ft terrain assessment. Regional dispatch grid: Grady County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 73018.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Chickasha, OK exposure class can change starter-strip and cap nail schedules.
 
-Step: share symptoms and recent history so the intake notes are complete.
+TPO seam welds in Chickasha, OK commercial sections need probe tests after freeze events.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 73018/73023.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 73018/73023 coverage.
+Material note: In Chickasha, OK, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 73018, 73023 (county grid: Grady County).
+Code context: Ventilation ratios for Chickasha, OK attics should be checked against current mechanical exhaust additions.
+
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Field routing: pipe boot manufacturer match paired with attic baffle spacing near ZIP 73018.
+
+On-site sector marker: Grady County / primary ZIP 73018 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Grady County / ZIP 73023 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73018-ef8e3b27

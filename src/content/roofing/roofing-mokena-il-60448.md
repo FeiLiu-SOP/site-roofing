@@ -11,25 +11,29 @@ lng: -87.8800
 zipSample: ["60448"]
 zipCodes: ["60448"]
 localPaths: ["Will County / coords 41.5300, -87.8800", "Will County / elevation 725 ft band", "Will County / primary ZIP 60448", "Will County / ZIP 60448 sector"]
-zillowHomeValueUsd: 437949
 ---
 
 **Engineering Notice for Mokena:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Will County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60448.
+Granule embedment loss on Mokena, IL north slopes can precede mat exposure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should permanent remediation start? In Mokena, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: Mokena, IL exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Wind exposure category reviewed for ZIP sector 60448.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 60448 (county grid: Will County).
+Risk flag: In Mokena, IL, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: attic baffle spacing plus pipe boot manufacturer match referenced in Will County county grid review.
+
+On-site sector marker: Will County / ZIP 60448 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Mokena, IL: sampled sectors include 60448; county routing grid remains Will County.
 
 Service reference: IL-60448-b9ae1bf6

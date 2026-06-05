@@ -11,25 +11,31 @@ lng: -122.2000
 zipSample: ["98082", "98012"]
 zipCodes: ["98082", "98012"]
 localPaths: ["Snohomish County / elevation 433 ft band", "Snohomish County / coords 47.8600, -122.2000", "Snohomish County / primary ZIP 98012", "Snohomish County / ZIP 98012 sector", "Snohomish County / ZIP 98082 sector"]
-zillowHomeValueUsd: 999067
 ---
 
 **Engineering Notice for Mill Creek:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 98012.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 98012.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Mill Creek, WA attics should be checked against current mechanical exhaust additions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mill Creek, WA, but intake notes help reduce delays.
+Risk flag: In Mill Creek, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 98082/98012 coverage.
+Attic ventilation deficits in Mill Creek, WA can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 98082, 98012 (county grid: Snohomish County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: deck sheathing thickness paired with attic baffle spacing near ZIP 98012.
+
+Field note: Valley debris and granule loss noted for ZIP 98012/98082.
+
+On-site sector marker: Snohomish County / elevation 433 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~433 ft across the Snohomish County area. Coordinates: 47.8600, -122.2000. ZIP sample: 98012, 98082. Service perimeter note: Coverage extends through Snohomish County with dispatch centered near ZIP 98012.
 
 Service reference: WA-98012-6883c7f3

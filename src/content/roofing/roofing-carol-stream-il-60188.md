@@ -11,24 +11,31 @@ lng: -88.1300
 zipSample: ["60128", "60116", "60199", "60197", "60188"]
 zipCodes: ["60188", "60197", "60199", "60116", "60128"]
 localPaths: ["DuPage County / ZIP 60128 sector", "DuPage County / coords 41.9200, -88.1300", "DuPage County / ZIP 60188 sector", "DuPage County / primary ZIP 60188", "DuPage County / ZIP 60116 sector"]
-zillowHomeValueUsd: 379917
 ---
 
 **Engineering Notice for Carol Stream:** Structural loading calculated based on 755 ft terrain assessment. Regional dispatch grid: DuPage County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Our Carol Stream, IL dispatch packets reference county grid DuPage County and elevation band 755 ft.
 
-Our service coordination centers on Carol Stream, IL coverage windows and verified intake details.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tile and shingle mixes in Carol Stream, IL require different fastener patterns at transitions.
 
-In Carol Stream, IL, urgent roof work issues can escalate quickly.
+FAQ: Can you tarp only part of the roof? In Carol Stream, IL, yes—if slope and anchor points support safe tie-offs.
 
-Tip: request a written scope before work starts.
+Regulatory note: Carol Stream, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60116/60188/60197.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 60116, 60188, 60197, 60199, 60128 (county grid: DuPage County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Field routing: wind uplift clip spacing paired with drip-edge metal profile near ZIP 60188.
+
+Field note: Valley debris and granule loss noted for ZIP 60128/60199/60188.
+
+ZIP-corridor snapshot for Carol Stream, IL: sampled sectors include 60128, 60116, 60199, 60197, 60188; county routing grid remains DuPage County.
+
+On-site sector marker: DuPage County / ZIP 60188 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60188-f6e706cd

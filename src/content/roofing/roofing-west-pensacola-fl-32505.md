@@ -11,25 +11,33 @@ lng: -87.2700
 zipSample: ["32507", "32506", "32505"]
 zipCodes: ["32507", "32506", "32505"]
 localPaths: ["Escambia County / ZIP 32507 sector", "Escambia County / ZIP 32506 sector", "Escambia County / elevation 98 ft band", "Escambia County / ZIP 32505 sector", "Escambia County / primary ZIP 32505"]
-zillowHomeValueUsd: 148957
 ---
 
 **Engineering Notice for West Pensacola:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Escambia County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When should permanent service start? In West Pensacola, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in West Pensacola, FL can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 32505.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Access points and staging constraints recorded for ZIP 32505/32507/32506 coverage.
+Tile and shingle mixes in West Pensacola, FL require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 32505, 32507, 32506 (county grid: Escambia County).
+We coordinate West Pensacola, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Field routing: skylight curb height paired with ice-barrier lap sequence near ZIP 32505.
+
+Field note: Valley debris and granule loss noted for ZIP 32507/32505/32506.
+
+ZIP-corridor snapshot for West Pensacola, FL: sampled sectors include 32505, 32507, 32506; county routing grid remains Escambia County.
+
+On-site sector marker: Escambia County / primary ZIP 32505 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32505-f05db32b

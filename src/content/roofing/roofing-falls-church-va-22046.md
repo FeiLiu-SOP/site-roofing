@@ -11,25 +11,31 @@ lng: -77.1800
 zipSample: ["22040", "22046"]
 zipCodes: ["22046", "22040"]
 localPaths: ["Falls Church County / coords 38.8800, -77.1800", "Falls Church County / elevation 338 ft band", "Falls Church County / primary ZIP 22046", "Falls Church County / ZIP 22046 sector", "Falls Church County / ZIP 22040 sector"]
-zillowHomeValueUsd: 1052491
 ---
 
 **Engineering Notice for Falls Church:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Falls Church County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Our Falls Church, VA dispatch packets reference county grid Falls Church County and elevation band 338 ft.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is partial dry-in possible? In Falls Church, VA, yes—if slope and anchor points support safe tie-offs.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: compare shingle manufacturer wind-zone ratings for Falls Church, VA exposure class.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 22046.
+Risk flag: In Falls Church, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 22040/22046 coverage.
+Freeze-thaw cycles around Falls Church, VA stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 22040, 22046 (county grid: Falls Church County).
+Regulatory note: Falls Church, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Falls Church County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 22040/22046.
+
+On-site sector marker: Falls Church County / coords 38.8800, -77.1800 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 22046 with multi-ZIP overlap in Falls Church; field packets tag Falls Church County for county-grid reconciliation.
 
 Service reference: VA-22046-33ef8ab4

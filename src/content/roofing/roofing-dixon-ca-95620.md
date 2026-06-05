@@ -11,27 +11,35 @@ lng: -121.8300
 zipSample: ["95620"]
 zipCodes: ["95620"]
 localPaths: ["Solano County / primary ZIP 95620", "Solano County / elevation 66 ft band", "Solano County / coords 38.4500, -121.8300", "Solano County / ZIP 95620 sector"]
-zillowHomeValueUsd: 606797
 ---
 
 **Engineering Notice for Dixon:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Solano County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: Dixon, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our service coordination centers on Dixon, CA coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95620.
+Valley metal in Dixon, CA should be reviewed whenever granule loss tracks the water line.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Access points and staging constraints recorded for ZIP 95620 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 95620 intake.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 95620 (county grid: Solano County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Coastal humidity in Dixon, CA can slow shingle seal-down after shoulder-season storms.
+
+Scope trace: attic baffle spacing plus ridge cap nail schedule referenced in Solano County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 95620.
+
+On-site sector marker: Solano County / ZIP 95620 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Dixon, CA: sampled sectors include 95620; county routing grid remains Solano County.
 
 Service reference: CA-95620-975466d0

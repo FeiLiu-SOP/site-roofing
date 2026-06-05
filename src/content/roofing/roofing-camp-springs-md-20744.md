@@ -11,24 +11,35 @@ lng: -76.9200
 zipSample: ["20746", "20748", "20744"]
 zipCodes: ["20748", "20746", "20744"]
 localPaths: ["Prince George's County / ZIP 20744 sector", "Prince George's County / primary ZIP 20744", "Prince George's County / ZIP 20746 sector", "Prince George's County / elevation 243 ft band", "Prince George's County / coords 38.8100, -76.9200"]
-zillowHomeValueUsd: 448899
 ---
 
 **Engineering Notice for Camp Springs:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Prince George's County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: request a written scope before work starts.
+Material note: In Camp Springs, MD, algae-resistant granules may be specified for north-facing slopes.
 
-Our service coordination centers on Camp Springs, MD coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for Camp Springs, MD.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Connection points spot-checked where accessible (ZIP 20744/20746/20748 zone).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 20744, 20746, 20748 (county grid: Prince George's County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Low-slope sections in Camp Springs, MD need positive drainage before membrane repairs are scoped.
+
+Parapet coping movement in Camp Springs, MD can channel water behind wall cladding.
+
+Scope trace: wind uplift clip spacing plus chimney cricket slope referenced in Prince George's County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 20744/20748/20746.
+
+Regional mesh label Prince George's County: moisture and logistics baselines are keyed to Camp Springs, MD before niche-specific work begins.
+
+On-site sector marker: Prince George's County / ZIP 20746 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20744-df3e299a

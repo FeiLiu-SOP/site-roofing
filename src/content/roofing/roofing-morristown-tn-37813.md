@@ -11,27 +11,33 @@ lng: -83.3000
 zipSample: ["37813", "37814", "37815"]
 zipCodes: ["37815", "37813", "37814"]
 localPaths: ["Hamblen County / coords 36.2000, -83.3000", "Hamblen County / ZIP 37815 sector", "Hamblen County / ZIP 37813 sector", "Hamblen County / primary ZIP 37813", "Hamblen County / elevation 1339 ft band"]
-zillowHomeValueUsd: 231848
 ---
 
 **Engineering Notice for Morristown:** Structural loading calculated based on 1339 ft terrain assessment. Regional dispatch grid: Hamblen County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 37813.
+Freeze-thaw cycles around Morristown, TN stress nail pops along eaves and rake edges.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Morristown, TN can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Morristown, TN, but intake notes help reduce delays.
+Code context: Ventilation ratios for Morristown, TN attics should be checked against current mechanical exhaust additions.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How long can shingles wait after storm damage? In Morristown, TN, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Moisture pathway inspection logged near ZIP 37814/37813/37815 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 37814/37813/37815 zone).
+We coordinate Morristown, TN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 37814, 37813, 37815 (county grid: Hamblen County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Scope trace: wind uplift clip spacing plus shingle exposure calibration referenced in Hamblen County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 37815/37814/37813.
+
+On-site sector marker: Hamblen County / elevation 1339 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hamblen County / primary ZIP 37813 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37813-208b02b2

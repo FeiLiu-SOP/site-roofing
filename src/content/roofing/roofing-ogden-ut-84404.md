@@ -11,24 +11,33 @@ lng: -111.9700
 zipSample: ["84408", "84244", "84403", "84409", "84415"]
 zipCodes: ["84404", "84401", "84403", "84244", "84415", "84407", "84408", "84409"]
 localPaths: ["Weber County / ZIP 84403 sector", "Weber County / coords 41.2300, -111.9700", "Weber County / ZIP 84415 sector", "Weber County / ZIP 84244 sector", "Weber County / primary ZIP 84404"]
-zillowHomeValueUsd: 433257
 ---
 
 **Engineering Notice for Ogden:** Structural loading calculated based on 4350 ft terrain assessment. Regional dispatch grid: Weber County.
 
 
-Tip: avoid large upfront payments without milestones.
+Freeze-thaw cycles around Ogden, UT stress nail pops along eaves and rake edges.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Ogden, UT exposure class can change starter-strip and cap nail schedules.
 
-Homeowners in Ogden, UT often face sudden roofing service problems that require fast action.
+FAQ: Is partial dry-in possible? In Ogden, UT, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 84401/84407/84408 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 84401, 84407, 84408, 84415, 84244 (county grid: Weber County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Risk flag: Tile underlayment age in Ogden, UT can fail independently of visible tile cracks.
+
+Field routing: drip-edge metal profile paired with deck sheathing thickness near ZIP 84404.
+
+ZIP-corridor snapshot for Ogden, UT: sampled sectors include 84409, 84404, 84407, 84244, 84415, 84401, 84403, 84408; county routing grid remains Weber County.
+
+On-site sector marker: Weber County / ZIP 84408 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84404-aaad8083

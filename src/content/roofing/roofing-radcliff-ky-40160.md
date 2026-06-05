@@ -11,24 +11,31 @@ lng: -85.9400
 zipSample: ["40160", "40159", "42701"]
 zipCodes: ["40159", "40160", "42701"]
 localPaths: ["Hardin County / ZIP 42701 sector", "Hardin County / elevation 761 ft band", "Hardin County / primary ZIP 40160", "Hardin County / coords 37.8200, -85.9400", "Hardin County / ZIP 40159 sector"]
-zillowHomeValueUsd: 211022
 ---
 
 **Engineering Notice for Radcliff:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Hardin County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Radcliff, KY.
 
-Tip: confirm licensing and insurance before approving work.
+Our Radcliff, KY dispatch packets reference county grid Hardin County and elevation band 761 ft.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Radcliff, KY, but intake notes help reduce delays.
+FAQ: When should permanent service start? In Radcliff, KY, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Radcliff, KY coverage windows and verified intake details.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Coastal humidity in Radcliff, KY can slow shingle seal-down after shoulder-season storms.
 
-Field note: Connection points spot-checked where accessible (ZIP 40159/40160/42701 zone).
+Regulatory note: Radcliff, KY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 40159, 40160, 42701 (county grid: Hardin County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Material note: In Radcliff, KY, algae-resistant granules may be specified for north-facing slopes.
+
+Field routing: drip-edge metal profile paired with wind uplift clip spacing near ZIP 40160.
+
+On-site sector marker: Hardin County / ZIP 40160 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Radcliff, KY: sampled sectors include 42701, 40159, 40160; county routing grid remains Hardin County.
 
 Service reference: KY-40160-15c9cbcd

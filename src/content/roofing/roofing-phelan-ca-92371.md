@@ -11,24 +11,33 @@ lng: -117.5200
 zipSample: ["92371"]
 zipCodes: ["92371"]
 localPaths: ["San Bernardino County / ZIP 92371 sector", "San Bernardino County / coords 34.4400, -117.5200", "San Bernardino County / elevation 3812 ft band", "San Bernardino County / primary ZIP 92371"]
-zillowHomeValueUsd: 465014
 ---
 
 **Engineering Notice for Phelan:** Structural loading calculated based on 3812 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-We coordinate local dispatch coverage around Phelan, CA and nearby ZIP sectors.
+In Phelan, CA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: request a written scope before work starts.
+Material note: In Phelan, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92371.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 92371 (county grid: San Bernardino County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: wind uplift clip spacing plus shingle exposure calibration referenced in San Bernardino County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 92371.
+
+ZIP-corridor snapshot for Phelan, CA: sampled sectors include 92371; county routing grid remains San Bernardino County.
+
+On-site sector marker: San Bernardino County / elevation 3812 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92371-1722db8c

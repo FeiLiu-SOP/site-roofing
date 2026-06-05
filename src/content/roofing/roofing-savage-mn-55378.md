@@ -11,26 +11,31 @@ lng: -93.3600
 zipSample: ["55378"]
 zipCodes: ["55378"]
 localPaths: ["Scott County / primary ZIP 55378", "Scott County / elevation 886 ft band", "Scott County / ZIP 55378 sector", "Scott County / coords 44.7500, -93.3600"]
-zillowHomeValueUsd: 434895
 ---
 
 **Engineering Notice for Savage:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Scott County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Savage, MN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 55378.
+We coordinate Savage, MN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 55378.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-We coordinate local dispatch coverage around Savage, MN and nearby ZIP sectors.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Access points and staging constraints recorded for ZIP 55378 coverage.
+FAQ: Can you tarp only part of the roof? In Savage, MN, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 55378 (county grid: Scott County).
+Across Savage, MN, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Regulatory note: Savage, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roof work brief: shingle exposure calibration and drip-edge metal profile were cross-checked for the Savage intake packet.
+
+Primary postal anchor 55378 with multi-ZIP overlap in Savage; field packets tag Scott County for county-grid reconciliation.
+
+On-site sector marker: Scott County / primary ZIP 55378 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55378-0eecfaf0

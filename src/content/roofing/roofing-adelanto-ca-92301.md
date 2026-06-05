@@ -11,26 +11,33 @@ lng: -117.4400
 zipSample: ["92301"]
 zipCodes: ["92301"]
 localPaths: ["San Bernardino County / ZIP 92301 sector", "San Bernardino County / elevation 2877 ft band", "San Bernardino County / coords 34.5800, -117.4400", "San Bernardino County / primary ZIP 92301"]
-zillowHomeValueUsd: 397498
 ---
 
 **Engineering Notice for Adelanto:** Structural loading calculated based on 2877 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-We coordinate local dispatch coverage around Adelanto, CA and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Attic ventilation deficits in Adelanto, CA can mimic roof leaks at ceiling penetrations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Adelanto, CA, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Tile underlayment age in Adelanto, CA can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 92301 coverage.
+Material note: In Adelanto, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92301.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 92301 (county grid: San Bernardino County).
+Step: log deck soundings near vents before tear-off is approved.
+
+roof work brief: wind uplift clip spacing and deck sheathing thickness were cross-checked for the Adelanto intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 92301.
+
+On-site sector marker: San Bernardino County / primary ZIP 92301 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label San Bernardino County: moisture and logistics baselines are keyed to Adelanto, CA before niche-specific work begins.
 
 Service reference: CA-92301-162d5d2c

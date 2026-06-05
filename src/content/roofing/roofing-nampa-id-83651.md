@@ -11,26 +11,29 @@ lng: -116.5600
 zipSample: ["83651", "83686", "83687"]
 zipCodes: ["83651", "83687", "83686"]
 localPaths: ["Canyon County / ZIP 83686 sector", "Canyon County / primary ZIP 83651", "Canyon County / coords 43.5800, -116.5600", "Canyon County / ZIP 83651 sector", "Canyon County / ZIP 83687 sector"]
-zillowHomeValueUsd: 375656
 ---
 
 **Engineering Notice for Nampa:** Structural loading calculated based on 2490 ft terrain assessment. Regional dispatch grid: Canyon County.
 
 
-Our service coordination centers on Nampa, ID coverage windows and verified intake details.
+Code context: Ventilation ratios for Nampa, ID attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Nampa, ID, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Nampa, ID, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: request a written scope before work starts.
+Coastal humidity in Nampa, ID can slow shingle seal-down after shoulder-season storms.
 
-Local conditions in Nampa, ID can affect timelines and material choices.
+Step: compare shingle manufacturer wind-zone ratings for Nampa, ID exposure class.
 
-Field note: Wind exposure category reviewed for ZIP sector 83651/83686/83687.
+Our Nampa, ID dispatch packets reference county grid Canyon County and elevation band 2490 ft.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 83651/83686/83687.
+FAQ: Is partial dry-in possible? In Nampa, ID, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 83651, 83686, 83687 (county grid: Canyon County).
+Field routing: drip-edge metal profile paired with ridge cap nail schedule near ZIP 83651.
+
+On-site sector marker: Canyon County / primary ZIP 83651 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Canyon County / ZIP 83686 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83651-50706762

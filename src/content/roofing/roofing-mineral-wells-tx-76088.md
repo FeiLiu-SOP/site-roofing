@@ -11,24 +11,29 @@ lng: -98.0800
 zipSample: ["76067", "76068", "76088"]
 zipCodes: ["76068", "76067", "76088"]
 localPaths: ["Palo Pinto County / elevation 925 ft band", "Palo Pinto County / coords 32.8200, -98.0800", "Palo Pinto County / ZIP 76088 sector", "Palo Pinto County / ZIP 76068 sector", "Palo Pinto County / ZIP 76067 sector"]
-zillowHomeValueUsd: 467460
 ---
 
 **Engineering Notice for Mineral Wells:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Palo Pinto County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mineral Wells, TX, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Hail bruising on Mineral Wells, TX ridges may not breach felt until the next wind event.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-We coordinate local dispatch coverage around Mineral Wells, TX and nearby ZIP sectors.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 76088/76068/76067 zone).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 76088, 76068, 76067 (county grid: Palo Pinto County).
+FAQ: Can you tarp only part of the roof? In Mineral Wells, TX, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: soffit intake free area paired with ridge cap nail schedule near ZIP 76088.
+
+On-site sector marker: Palo Pinto County / ZIP 76088 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 76088 with multi-ZIP overlap in Mineral Wells; field packets tag Palo Pinto County for county-grid reconciliation.
 
 Service reference: TX-76088-4b7d0111

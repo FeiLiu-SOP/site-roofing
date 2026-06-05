@@ -11,26 +11,33 @@ lng: -73.7800
 zipSample: ["10583"]
 zipCodes: ["10583"]
 localPaths: ["Westchester County / primary ZIP 10583", "Westchester County / elevation 289 ft band", "Westchester County / coords 40.9900, -73.7800", "Westchester County / ZIP 10583 sector"]
-zillowHomeValueUsd: 1499874
 ---
 
 **Engineering Notice for Scarsdale:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Westchester County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Our service coordination centers on Scarsdale, NY coverage windows and verified intake details.
+Wind-zone note: Scarsdale, NY exposure class can change starter-strip and cap nail schedules.
 
-Local conditions in Scarsdale, NY can affect timelines and material choices.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: confirm licensing and insurance before approving work.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Access points and staging constraints recorded for ZIP 10583 coverage.
+Granule embedment loss on Scarsdale, NY north slopes can precede mat exposure.
 
-Field note: Connection points spot-checked where accessible (ZIP 10583 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 10583 (county grid: Westchester County).
+Risk flag: Tile underlayment age in Scarsdale, NY can fail independently of visible tile cracks.
+
+Scope trace: deck sheathing thickness plus ridge cap nail schedule referenced in Westchester County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 10583.
+
+On-site sector marker: Westchester County / ZIP 10583 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Westchester County / coords 40.9900, -73.7800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10583-c402ce3a

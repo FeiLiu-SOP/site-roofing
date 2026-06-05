@@ -11,26 +11,31 @@ lng: -82.6800
 zipSample: ["33784", "33709", "33714", "33702"]
 zipCodes: ["33709", "33784", "33714", "33702"]
 localPaths: ["Pinellas County / ZIP 33709 sector", "Pinellas County / ZIP 33702 sector", "Pinellas County / coords 27.8200, -82.6800", "Pinellas County / primary ZIP 33702", "Pinellas County / ZIP 33714 sector"]
-zillowHomeValueUsd: 298486
 ---
 
 **Engineering Notice for Lealman:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Pinellas County.
 
 
-We coordinate local dispatch coverage around Lealman, FL and nearby ZIP sectors.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: avoid large upfront payments without milestones.
+In Lealman, FL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Lealman, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: separate emergency tarp scope from permanent service line items.
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 33702/33784/33709 zone).
+Regulatory note: Lealman, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 33702/33784/33709 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 33702, 33784, 33709, 33714 (county grid: Pinellas County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: soffit intake free area paired with deck sheathing thickness near ZIP 33702.
+
+Coordinate-anchored dispatch note: center reference 27.8200, -82.6800 at elevation ~59 ft aligns with Pinellas County intake staging.
+
+ZIP-corridor snapshot for Lealman, FL: sampled sectors include 33709, 33702, 33784, 33714; county routing grid remains Pinellas County.
 
 Service reference: FL-33702-c42b50e4

@@ -11,24 +11,35 @@ lng: -76.3700
 zipSample: ["21014", "21050", "21015"]
 zipCodes: ["21014", "21050", "21015"]
 localPaths: ["Harford County / ZIP 21015 sector", "Harford County / ZIP 21050 sector", "Harford County / coords 39.5500, -76.3700", "Harford County / ZIP 21014 sector", "Harford County / elevation 446 ft band"]
-zillowHomeValueUsd: 504857
 ---
 
 **Engineering Notice for Bel Air North:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Harford County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bel Air North, MD, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Bel Air North, MD exposure class.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Local conditions in Bel Air North, MD can affect timelines and material choices.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Bel Air North, MD, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Attic ventilation deficits in Bel Air North, MD can mimic roof leaks at ceiling penetrations.
 
-Field note: Wind exposure category reviewed for ZIP sector 21015/21050/21014.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 21015, 21050, 21014 (county grid: Harford County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Coastal humidity in Bel Air North, MD can slow shingle seal-down after shoulder-season storms.
+
+roof service brief: ice-barrier lap sequence and ridge cap nail schedule were cross-checked for the Bel Air North intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 21050/21014/21015.
+
+Regional mesh label Harford County: moisture and logistics baselines are keyed to Bel Air North, MD before niche-specific work begins.
+
+On-site sector marker: Harford County / primary ZIP 21050 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21050-996f0fc2

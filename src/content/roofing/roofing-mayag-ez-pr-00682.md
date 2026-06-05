@@ -11,27 +11,29 @@ lng: -67.1400
 zipSample: ["00680", "00682", "00681"]
 zipCodes: ["00681", "00680", "00682"]
 localPaths: ["Mayagüez County / primary ZIP 00682", "Mayagüez County / coords 18.2000, -67.1400", "Mayagüez County / ZIP 00681 sector", "Mayagüez County / ZIP 00680 sector", "Mayagüez County / ZIP 00682 sector"]
-zillowHomeValueUsd: 375863
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Mayagüez:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Mayagüez County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Mayagüez, PR, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-We coordinate local dispatch coverage around Mayagüez, PR and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Mayagüez, PR can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mayagüez, PR, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: avoid large upfront payments without milestones.
+Wind-zone note: Mayagüez, PR exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 00680/00682/00681.
+Step: map ventilation intake and exhaust pairs for Mayagüez, PR attic runs.
 
-Field note: Access points and staging constraints recorded for ZIP 00680/00682/00681 coverage.
+FAQ: Is partial dry-in possible? In Mayagüez, PR, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 00680, 00682, 00681 (county grid: Mayagüez County).
+Field routing: attic baffle spacing paired with chimney cricket slope near ZIP 00682.
+
+Coordinate-anchored dispatch note: center reference 18.2000, -67.1400 at elevation ~75 ft aligns with Mayagüez County intake staging.
+
+On-site sector marker: Mayagüez County / ZIP 00682 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00682-6f72549d

@@ -11,24 +11,29 @@ lng: -75.2200
 zipSample: ["18044", "18043", "18045", "18042"]
 zipCodes: ["18045", "18043", "18042", "18044"]
 localPaths: ["Northampton County / elevation 367 ft band", "Northampton County / primary ZIP 18042", "Northampton County / coords 40.6900, -75.2200", "Northampton County / ZIP 18042 sector", "Northampton County / ZIP 18044 sector"]
-zillowHomeValueUsd: 265654
 ---
 
 **Engineering Notice for Easton:** Structural loading calculated based on 367 ft terrain assessment. Regional dispatch grid: Northampton County.
 
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Structured milestones protect both sides when scheduling work.
+Hail bruising on Easton, PA ridges may not breach felt until the next wind event.
 
-We coordinate local dispatch coverage around Easton, PA and nearby ZIP sectors.
+Step: map ventilation intake and exhaust pairs for Easton, PA attic runs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Easton, PA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Connection points spot-checked where accessible (ZIP 18042/18044/18043 zone).
+FAQ: How long can shingles wait after storm damage? In Easton, PA, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 18042, 18044, 18043, 18045 (county grid: Northampton County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: counter-flashing reglet depth plus valley metal gauge referenced in Northampton County county grid review.
+
+On-site sector marker: Northampton County / primary ZIP 18042 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 40.6900, -75.2200 at elevation ~367 ft aligns with Northampton County intake staging.
 
 Service reference: PA-18042-139043cc

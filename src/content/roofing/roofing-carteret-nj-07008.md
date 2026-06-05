@@ -11,26 +11,31 @@ lng: -74.2300
 zipSample: ["07008"]
 zipCodes: ["07008"]
 localPaths: ["Middlesex County / primary ZIP 07008", "Middlesex County / elevation 16 ft band", "Middlesex County / coords 40.5800, -74.2300", "Middlesex County / ZIP 07008 sector"]
-zillowHomeValueUsd: 548066
 ---
 
 **Engineering Notice for Carteret:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Carteret, NJ, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: request a written scope before work starts.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our service coordination centers on Carteret, NJ coverage windows and verified intake details.
+Wind-zone note: Carteret, NJ exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 07008 intake.
+Across Carteret, NJ, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Wind exposure category reviewed for ZIP sector 07008.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 07008 (county grid: Middlesex County).
+Scope trace: soffit intake free area plus chimney cricket slope referenced in Middlesex County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 07008.
+
+On-site sector marker: Middlesex County / elevation 16 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Middlesex County. Reference elevation: 16 ft. Primary coordinates: 40.5800, -74.2300. ZIP sample: 07008. Logistics priority: Serving residential sectors across Middlesex County and north-east ZIP 07008 grid.
 
 Service reference: NJ-07008-f529c673

@@ -11,26 +11,29 @@ lng: -80.8200
 zipSample: ["32781", "32780", "32796"]
 zipCodes: ["32781", "32796", "32780"]
 localPaths: ["Brevard County / coords 28.5700, -80.8200", "Brevard County / ZIP 32780 sector", "Brevard County / elevation 33 ft band", "Brevard County / ZIP 32796 sector", "Brevard County / primary ZIP 32796"]
-zillowHomeValueUsd: 270767
 ---
 
 **Engineering Notice for Titusville:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Brevard County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: When should permanent restoration start? In Titusville, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Clear documentation helps align materials, labor, and timeline.
+We coordinate Titusville, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wood shake courses in Titusville, FL require skip-spacing rules at valleys.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Titusville, FL, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Moisture pathway inspection logged near ZIP 32796/32780/32781 intake.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 32796.
 
-Field note: Connection points spot-checked where accessible (ZIP 32796/32780/32781 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 32796, 32780, 32781 (county grid: Brevard County).
+Field routing: pipe boot manufacturer match paired with skylight curb height near ZIP 32796.
+
+On-site sector marker: Brevard County / ZIP 32780 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 28.5700, -80.8200 at elevation ~33 ft aligns with Brevard County intake staging.
 
 Service reference: FL-32796-4bb667c0

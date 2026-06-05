@@ -11,24 +11,33 @@ lng: -98.5200
 zipSample: ["78259", "78297", "78202", "78220", "78238"]
 zipCodes: ["78203", "78214", "78238", "78227", "78255", "78260", "78233", "78218", "78254", "78073", "78215", "78216"]
 localPaths: ["Bexar County / ZIP 78238 sector", "Bexar County / ZIP 78297 sector", "Bexar County / primary ZIP 78112", "Bexar County / elevation 732 ft band", "Bexar County / ZIP 78259 sector"]
-zillowHomeValueUsd: 233953
 ---
 
 **Engineering Notice for San Antonio:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Bexar County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: compare shingle manufacturer wind-zone ratings for San Antonio, TX exposure class.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Wind-zone note: San Antonio, TX exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Low-slope sections in San Antonio, TX need positive drainage before membrane repairs are scoped.
 
-Our service coordination centers on San Antonio, TX coverage windows and verified intake details.
+FAQ: When should permanent restoration start? In San Antonio, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Local conditions in San Antonio, TX can affect timelines and material choices.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Connection points spot-checked where accessible (ZIP 78218/78213/78202 zone).
+Risk flag: Tile underlayment age in San Antonio, TX can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 78218, 78213, 78202, 78210, 78201 (county grid: Bexar County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: soffit intake free area paired with wind uplift clip spacing near ZIP 78112.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 78221/78247/78235.
+
+ZIP-corridor snapshot for San Antonio, TX: sampled sectors include 78112, 78223, 78109, 78221, 78265, 78218, 78244, 78278; county routing grid remains Bexar County.
+
+On-site sector marker: Bexar County / ZIP 78218 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78112-e7cee377

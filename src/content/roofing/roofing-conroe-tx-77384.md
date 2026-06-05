@@ -11,24 +11,33 @@ lng: -95.4800
 zipSample: ["77301", "77304", "77384", "77303", "77305"]
 zipCodes: ["77384", "77303", "77304", "77301", "77305"]
 localPaths: ["Montgomery County / elevation 243 ft band", "Montgomery County / ZIP 77384 sector", "Montgomery County / ZIP 77301 sector", "Montgomery County / ZIP 77305 sector", "Montgomery County / primary ZIP 77384"]
-zillowHomeValueUsd: 412344
 ---
 
 **Engineering Notice for Conroe:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Conroe, TX exposure class can change starter-strip and cap nail schedules.
 
-In Conroe, TX, urgent roof work issues can escalate quickly.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-We coordinate local dispatch coverage around Conroe, TX and nearby ZIP sectors.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: separate emergency tarp scope from permanent service line items.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Granule embedment loss on Conroe, TX north slopes can precede mat exposure.
 
-Field note: Access points and staging constraints recorded for ZIP 77384/77301/77305 coverage.
+Risk flag: In Conroe, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 77384, 77301, 77305, 77303, 77304 (county grid: Montgomery County).
+Tip: Note recent wind events when filing insurance photos for Conroe, TX.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof work brief: starter-strip setback and ridge cap nail schedule were cross-checked for the Conroe intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 77305/77301/77384.
+
+Regional mesh label Montgomery County: moisture and logistics baselines are keyed to Conroe, TX before niche-specific work begins.
+
+ZIP-corridor snapshot for Conroe, TX: sampled sectors include 77303, 77384, 77305, 77301, 77304; county routing grid remains Montgomery County.
 
 Service reference: TX-77384-e0220835

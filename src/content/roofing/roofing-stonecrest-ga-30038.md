@@ -11,24 +11,31 @@ lng: -84.1400
 zipSample: ["30058", "30035", "30038"]
 zipCodes: ["30035", "30038", "30058"]
 localPaths: ["DeKalb County / ZIP 30035 sector", "DeKalb County / elevation 856 ft band", "DeKalb County / ZIP 30058 sector", "DeKalb County / primary ZIP 30038", "DeKalb County / coords 33.6800, -84.1400"]
-zillowHomeValueUsd: 253922
 ---
 
 **Engineering Notice for Stonecrest:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: DeKalb County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Tile and shingle mixes in Stonecrest, GA require different fastener patterns at transitions.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Stonecrest, GA can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 30038/30058/30035 coverage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 30038, 30058, 30035 (county grid: DeKalb County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: drip-edge metal profile plus valley metal gauge referenced in DeKalb County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 30035/30058/30038.
+
+On-site sector marker: DeKalb County / coords 33.6800, -84.1400 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: DeKalb County / ZIP 30058 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30038-1d1c1524

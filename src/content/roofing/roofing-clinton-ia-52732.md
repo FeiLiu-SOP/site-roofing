@@ -11,24 +11,31 @@ lng: -90.2400
 zipSample: ["52736", "52732", "52733", "52734"]
 zipCodes: ["52733", "52734", "52736", "52732"]
 localPaths: ["Clinton County / ZIP 52736 sector", "Clinton County / primary ZIP 52732", "Clinton County / elevation 663 ft band", "Clinton County / ZIP 52734 sector", "Clinton County / ZIP 52733 sector"]
-zillowHomeValueUsd: 127178
 ---
 
 **Engineering Notice for Clinton:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Clinton County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Clinton, IA, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Granule embedment loss on Clinton, IA north slopes can precede mat exposure.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our service coordination centers on Clinton, IA coverage windows and verified intake details.
+FAQ: Is partial dry-in possible? In Clinton, IA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 52733/52734/52736 zone).
+We coordinate Clinton, IA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 52733, 52734, 52736, 52732 (county grid: Clinton County).
+Material note: In Clinton, IA, algae-resistant granules may be specified for north-facing slopes.
+
+Wind-zone note: Clinton, IA exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: shingle exposure calibration plus attic baffle spacing referenced in Clinton County county grid review.
+
+On-site sector marker: Clinton County / ZIP 52733 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Clinton County / ZIP 52732 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52732-51bf5ee9

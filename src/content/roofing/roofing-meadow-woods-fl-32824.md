@@ -11,24 +11,33 @@ lng: -81.3500
 zipSample: ["32824"]
 zipCodes: ["32824"]
 localPaths: ["Orange County / primary ZIP 32824", "Orange County / ZIP 32824 sector", "Orange County / coords 28.3700, -81.3500", "Orange County / elevation 79 ft band"]
-zillowHomeValueUsd: 402653
 ---
 
 **Engineering Notice for Meadow Woods:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: avoid large upfront payments without milestones.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-We coordinate local dispatch coverage around Meadow Woods, FL and nearby ZIP sectors.
+Material note: In Meadow Woods, FL, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Meadow Woods, FL, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Meadow Woods, FL.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Meadow Woods, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Coastal humidity in Meadow Woods, FL can slow shingle seal-down after shoulder-season storms.
 
-Field note: Connection points spot-checked where accessible (ZIP 32824 zone).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 32824 (county grid: Orange County).
+Wood shake courses in Meadow Woods, FL require skip-spacing rules at valleys.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Step: compare shingle manufacturer wind-zone ratings for Meadow Woods, FL exposure class.
+
+Scope trace: wind uplift clip spacing plus starter-strip setback referenced in Orange County county grid review.
+
+On-site sector marker: Orange County / elevation 79 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Orange County / primary ZIP 32824 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32824-b5ae5347

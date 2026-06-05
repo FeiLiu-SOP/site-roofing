@@ -11,25 +11,29 @@ lng: -88.3900
 zipSample: ["54911", "54915", "54912", "54919", "54913"]
 zipCodes: ["54915", "54912", "54914", "54919", "54911", "54913"]
 localPaths: ["Outagamie County / ZIP 54911 sector", "Outagamie County / ZIP 54915 sector", "Outagamie County / elevation 791 ft band", "Outagamie County / coords 44.2800, -88.3900", "Outagamie County / ZIP 54913 sector"]
-zillowHomeValueUsd: 303655
 ---
 
 **Engineering Notice for Appleton:** Structural loading calculated based on 791 ft terrain assessment. Regional dispatch grid: Outagamie County.
 
 
-Local conditions in Appleton, WI can affect timelines and material choices.
+Our Appleton, WI dispatch packets reference county grid Outagamie County and elevation band 791 ft.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 54914.
+Regulatory note: Appleton, WI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 54912/54919/54913 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 54912, 54919, 54913, 54914, 54911 (county grid: Outagamie County).
+Wood shake courses in Appleton, WI require skip-spacing rules at valleys.
+
+Field routing: ice-barrier lap sequence paired with pipe boot manufacturer match near ZIP 54914.
+
+On-site sector marker: Outagamie County / ZIP 54914 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Outagamie County: moisture and logistics baselines are keyed to Appleton, WI before niche-specific work begins.
 
 Service reference: WI-54914-0cc4573a

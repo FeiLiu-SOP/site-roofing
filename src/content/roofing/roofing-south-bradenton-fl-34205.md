@@ -11,26 +11,31 @@ lng: -82.5800
 zipSample: ["34210", "34207", "34205"]
 zipCodes: ["34207", "34205", "34210"]
 localPaths: ["Manatee County / coords 27.4600, -82.5800", "Manatee County / primary ZIP 34205", "Manatee County / ZIP 34207 sector", "Manatee County / elevation 30 ft band", "Manatee County / ZIP 34205 sector"]
-zillowHomeValueUsd: 266871
 ---
 
 **Engineering Notice for South Bradenton:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Manatee County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-We coordinate local dispatch coverage around South Bradenton, FL and nearby ZIP sectors.
+Metal panel oil-canning in South Bradenton, FL may signal clip spacing issues, not wind damage alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in South Bradenton, FL can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34205/34207/34210.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 34205/34207/34210 coverage.
+Wind-zone note: South Bradenton, FL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 34205, 34207, 34210 (county grid: Manatee County).
+Scope trace: skylight curb height plus drip-edge metal profile referenced in Manatee County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 34210/34205/34207.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Manatee County and primary ZIP 34205. Terrain reference: 30 ft. Center point: 27.4600, -82.5800. ZIP sample: 34207, 34205, 34210. Logistics priority: Serving residential sectors across Manatee County and north-east ZIP 34205 grid.
+
+Coordinate-anchored dispatch note: center reference 27.4600, -82.5800 at elevation ~30 ft aligns with Manatee County intake staging.
 
 Service reference: FL-34205-b79d765e

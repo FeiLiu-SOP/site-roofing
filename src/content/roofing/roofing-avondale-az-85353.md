@@ -11,25 +11,33 @@ lng: -112.3200
 zipSample: ["85323", "85392", "85329", "85353"]
 zipCodes: ["85329", "85353", "85392", "85323"]
 localPaths: ["Maricopa County / ZIP 85323 sector", "Maricopa County / ZIP 85329 sector", "Maricopa County / primary ZIP 85353", "Maricopa County / ZIP 85353 sector", "Maricopa County / ZIP 85392 sector"]
-zillowHomeValueUsd: 393955
 ---
 
 **Engineering Notice for Avondale:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Maricopa County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 85353.
+Granule embedment loss on Avondale, AZ north slopes can precede mat exposure.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Local conditions in Avondale, AZ can affect timelines and material choices.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Avondale, AZ can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: In Avondale, AZ, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85323/85353/85392.
+Our Avondale, AZ dispatch packets reference county grid Maricopa County and elevation band 925 ft.
 
-Dispatch sectors sampled: ZIP 85323, 85353, 85392, 85329 (county grid: Maricopa County).
+Regulatory note: Avondale, AZ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Scope trace: counter-flashing reglet depth plus ice-barrier lap sequence referenced in Maricopa County county grid review.
+
+On-site sector marker: Maricopa County / ZIP 85353 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Avondale, AZ: sampled sectors include 85329, 85392, 85353, 85323; county routing grid remains Maricopa County.
 
 Service reference: AZ-85353-ae338251

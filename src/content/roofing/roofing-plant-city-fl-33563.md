@@ -11,26 +11,31 @@ lng: -82.1200
 zipSample: ["33566", "33563", "33565", "33564"]
 zipCodes: ["33564", "33563", "33566", "33565"]
 localPaths: ["Hillsborough County / coords 28.0100, -82.1200", "Hillsborough County / ZIP 33566 sector", "Hillsborough County / ZIP 33564 sector", "Hillsborough County / primary ZIP 33563", "Hillsborough County / ZIP 33563 sector"]
-zillowHomeValueUsd: 281105
 ---
 
 **Engineering Notice for Plant City:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Plant City, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Plant City, FL attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Plant City, FL, but intake notes help reduce delays.
+Across Plant City, FL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Connection points spot-checked where accessible (ZIP 33565/33566/33563 zone).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 33563.
 
-Field note: Moisture pathway inspection logged near ZIP 33565/33566/33563 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 33565, 33566, 33563, 33564 (county grid: Hillsborough County).
+Scope trace: chimney cricket slope plus shingle exposure calibration referenced in Hillsborough County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 33566/33563/33564.
+
+On-site sector marker: Hillsborough County / ZIP 33564 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 28.0100, -82.1200 at elevation ~138 ft aligns with Hillsborough County intake staging.
 
 Service reference: FL-33563-198da7b7

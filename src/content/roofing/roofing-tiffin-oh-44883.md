@@ -11,26 +11,31 @@ lng: -83.1800
 zipSample: ["44883"]
 zipCodes: ["44883"]
 localPaths: ["Seneca County / primary ZIP 44883", "Seneca County / ZIP 44883 sector", "Seneca County / coords 41.1200, -83.1800", "Seneca County / elevation 738 ft band"]
-zillowHomeValueUsd: 186261
 ---
 
 **Engineering Notice for Tiffin:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: Seneca County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Tiffin, OH, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-In Tiffin, OH, urgent roofing service issues can escalate quickly.
+Coastal humidity in Tiffin, OH can slow shingle seal-down after shoulder-season storms.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: request a written scope before work starts.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-We coordinate local dispatch coverage around Tiffin, OH and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Access points and staging constraints recorded for ZIP 44883 coverage.
+Risk flag: Tile underlayment age in Tiffin, OH can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 44883 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 44883 (county grid: Seneca County).
+Scope trace: attic baffle spacing plus valley metal gauge referenced in Seneca County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 44883.
+
+On-site sector marker: Seneca County / coords 41.1200, -83.1800 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Seneca County / primary ZIP 44883 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44883-705a39ae

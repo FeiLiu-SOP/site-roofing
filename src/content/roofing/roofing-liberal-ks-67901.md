@@ -11,26 +11,33 @@ lng: -100.9300
 zipSample: ["67905", "67901"]
 zipCodes: ["67901", "67905"]
 localPaths: ["Seward County / elevation 2858 ft band", "Seward County / ZIP 67905 sector", "Seward County / coords 37.0500, -100.9300", "Seward County / ZIP 67901 sector", "Seward County / primary ZIP 67901"]
-zillowHomeValueUsd: 144572
 ---
 
 **Engineering Notice for Liberal:** Structural loading calculated based on 2858 ft terrain assessment. Regional dispatch grid: Seward County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-We coordinate local dispatch coverage around Liberal, KS and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Structured milestones protect both sides when scheduling work.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Wind exposure category reviewed for ZIP sector 67905/67901.
+TPO seam welds in Liberal, KS commercial sections need probe tests after freeze events.
 
-Field note: Access points and staging constraints recorded for ZIP 67905/67901 coverage.
+Our Liberal, KS dispatch packets reference county grid Seward County and elevation band 2858 ft.
 
-Dispatch sectors sampled: ZIP 67905, 67901 (county grid: Seward County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roof service brief: valley metal gauge and wind uplift clip spacing were cross-checked for the Liberal intake packet.
+
+Primary postal anchor 67901 with multi-ZIP overlap in Liberal; field packets tag Seward County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Liberal, KS: sampled sectors include 67901, 67905; county routing grid remains Seward County.
 
 Service reference: KS-67901-1797d80c

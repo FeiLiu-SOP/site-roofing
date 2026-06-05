@@ -11,24 +11,31 @@ lng: -122.6800
 zipSample: ["98383", "98311", "98370"]
 zipCodes: ["98311", "98383", "98370"]
 localPaths: ["Kitsap County / coords 47.6700, -122.6800", "Kitsap County / ZIP 98383 sector", "Kitsap County / elevation 39 ft band", "Kitsap County / ZIP 98370 sector", "Kitsap County / ZIP 98311 sector"]
-zillowHomeValueUsd: 510709
 ---
 
 **Engineering Notice for Silverdale:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Kitsap County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Skylight curb flashing in Silverdale, WA should be sequenced before ridge cap replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Silverdale, WA, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Silverdale, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 98311/98370/98383.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 98311, 98370, 98383 (county grid: Kitsap County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: chimney cricket slope plus shingle exposure calibration referenced in Kitsap County county grid review.
+
+Regional mesh label Kitsap County: moisture and logistics baselines are keyed to Silverdale, WA before niche-specific work begins.
+
+Primary postal anchor 98311 with multi-ZIP overlap in Silverdale; field packets tag Kitsap County for county-grid reconciliation.
 
 Service reference: WA-98311-aab5a70a

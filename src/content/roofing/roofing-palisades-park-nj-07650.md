@@ -11,26 +11,31 @@ lng: -74.0000
 zipSample: ["07650"]
 zipCodes: ["07650"]
 localPaths: ["Bergen County / ZIP 07650 sector", "Bergen County / coords 40.8500, -74.0000", "Bergen County / elevation 115 ft band", "Bergen County / primary ZIP 07650"]
-zillowHomeValueUsd: 983982
 ---
 
 **Engineering Notice for Palisades Park:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Bergen County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: Palisades Park, NJ exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Palisades Park, NJ, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-We coordinate local dispatch coverage around Palisades Park, NJ and nearby ZIP sectors.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Wind exposure category reviewed for ZIP sector 07650.
+Synthetic underlayment slip in Palisades Park, NJ is often tied to deck moisture, not wind alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07650.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 07650 (county grid: Bergen County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roofing service brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Palisades Park intake packet.
+
+Primary postal anchor 07650 with multi-ZIP overlap in Palisades Park; field packets tag Bergen County for county-grid reconciliation.
+
+Regional mesh label Bergen County: moisture and logistics baselines are keyed to Palisades Park, NJ before niche-specific work begins.
 
 Service reference: NJ-07650-8e8eb994

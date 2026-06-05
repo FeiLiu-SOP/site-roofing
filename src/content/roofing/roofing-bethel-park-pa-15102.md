@@ -11,25 +11,31 @@ lng: -80.0400
 zipSample: ["15102", "15234"]
 zipCodes: ["15234", "15102"]
 localPaths: ["Allegheny County / elevation 1207 ft band", "Allegheny County / coords 40.3200, -80.0400", "Allegheny County / primary ZIP 15102", "Allegheny County / ZIP 15234 sector", "Allegheny County / ZIP 15102 sector"]
-zillowHomeValueUsd: 301021
 ---
 
 **Engineering Notice for Bethel Park:** Structural loading calculated based on 1207 ft terrain assessment. Regional dispatch grid: Allegheny County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Skylight curb flashing in Bethel Park, PA should be sequenced before ridge cap replacement.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 15102.
+FAQ: Is partial dry-in possible? In Bethel Park, PA, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Bethel Park, PA.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bethel Park, PA, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 15102/15234 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 15102, 15234 (county grid: Allegheny County).
+Step: log deck soundings near vents before tear-off is approved.
+
+Field routing: chimney cricket slope paired with drip-edge metal profile near ZIP 15102.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 15102/15234.
+
+ZIP-corridor snapshot for Bethel Park, PA: sampled sectors include 15102, 15234; county routing grid remains Allegheny County.
+
+On-site sector marker: Allegheny County / ZIP 15102 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15102-7531391e

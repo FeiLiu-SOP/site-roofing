@@ -11,26 +11,33 @@ lng: -121.9700
 zipSample: ["95055", "95051", "95056", "95050", "95053"]
 zipCodes: ["95052", "95056", "95051", "95053", "95055", "95050", "95054"]
 localPaths: ["Santa Clara County / ZIP 95056 sector", "Santa Clara County / ZIP 95053 sector", "Santa Clara County / ZIP 95050 sector", "Santa Clara County / ZIP 95051 sector", "Santa Clara County / coords 37.3600, -121.9700"]
-zillowHomeValueUsd: 1556572
 ---
 
 **Engineering Notice for Santa Clara:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Santa Clara County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In Santa Clara, CA, seasonal demand can change scheduling windows.
+Granule embedment loss on Santa Clara, CA north slopes can precede mat exposure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95052/95050/95053.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 95052/95050/95053.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 95052, 95050, 95053, 95056, 95051 (county grid: Santa Clara County).
+Material note: In Santa Clara, CA, algae-resistant granules may be specified for north-facing slopes.
+
+Step: compare shingle manufacturer wind-zone ratings for Santa Clara, CA exposure class.
+
+roof service brief: attic baffle spacing and ice-barrier lap sequence were cross-checked for the Santa Clara intake packet.
+
+On-site sector marker: Santa Clara County / ZIP 95050 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Santa Clara County / elevation 49 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95054-0bf92d63

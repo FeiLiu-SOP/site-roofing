@@ -11,27 +11,29 @@ lng: -85.0400
 zipSample: ["30240", "30241"]
 zipCodes: ["30240", "30241"]
 localPaths: ["Troup County / ZIP 30241 sector", "Troup County / primary ZIP 30240", "Troup County / elevation 751 ft band", "Troup County / coords 33.0300, -85.0400", "Troup County / ZIP 30240 sector"]
-zillowHomeValueUsd: 249638
 ---
 
 **Engineering Notice for LaGrange:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Troup County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 30240.
+Across LaGrange, GA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in LaGrange, GA can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in LaGrange, GA, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: request a written scope before work starts.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30241/30240.
+Our LaGrange, GA dispatch packets reference county grid Troup County and elevation band 751 ft.
 
-Field note: Wind exposure category reviewed for ZIP sector 30241/30240.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 30241, 30240 (county grid: Troup County).
+roof work brief: shingle exposure calibration and pipe boot manufacturer match were cross-checked for the LaGrange intake packet.
+
+On-site sector marker: Troup County / ZIP 30240 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Troup County / elevation 751 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30240-7bc79a59

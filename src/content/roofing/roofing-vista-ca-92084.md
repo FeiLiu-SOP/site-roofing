@@ -11,24 +11,31 @@ lng: -117.2400
 zipSample: ["92083", "92084", "92081", "92085"]
 zipCodes: ["92083", "92084", "92085", "92081"]
 localPaths: ["San Diego County / elevation 443 ft band", "San Diego County / primary ZIP 92084", "San Diego County / coords 33.1900, -117.2400", "San Diego County / ZIP 92084 sector", "San Diego County / ZIP 92083 sector"]
-zillowHomeValueUsd: 906234
 ---
 
 **Engineering Notice for Vista:** Structural loading calculated based on 443 ft terrain assessment. Regional dispatch grid: San Diego County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: In Vista, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: request a written scope before work starts.
+Parapet coping movement in Vista, CA can channel water behind wall cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 92083/92081/92084 zone).
+Risk flag: In Vista, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 92083, 92081, 92084, 92085 (county grid: San Diego County).
+We coordinate Vista, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+roof work brief: drip-edge metal profile and shingle exposure calibration were cross-checked for the Vista intake packet.
+
+On-site sector marker: San Diego County / ZIP 92085 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Diego County / elevation 443 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92084-a95ed1ab

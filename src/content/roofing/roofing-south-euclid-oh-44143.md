@@ -11,26 +11,31 @@ lng: -81.5200
 zipSample: ["44143", "44121"]
 zipCodes: ["44143", "44121"]
 localPaths: ["Cuyahoga County / coords 41.5200, -81.5200", "Cuyahoga County / ZIP 44143 sector", "Cuyahoga County / primary ZIP 44143", "Cuyahoga County / elevation 958 ft band", "Cuyahoga County / ZIP 44121 sector"]
-zillowHomeValueUsd: 301979
 ---
 
 **Engineering Notice for South Euclid:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-We coordinate local dispatch coverage around South Euclid, OH and nearby ZIP sectors.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 44143.
+Material note: In South Euclid, OH, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in South Euclid, OH, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 44143.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 44121/44143.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 44121, 44143 (county grid: Cuyahoga County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Valley metal in South Euclid, OH should be reviewed whenever granule loss tracks the water line.
+
+Scope trace: pipe boot manufacturer match plus synthetic underlayment slip referenced in Cuyahoga County county grid review.
+
+Coordinate-anchored dispatch note: center reference 41.5200, -81.5200 at elevation ~958 ft aligns with Cuyahoga County intake staging.
+
+On-site sector marker: Cuyahoga County / ZIP 44143 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44143-934f19b1

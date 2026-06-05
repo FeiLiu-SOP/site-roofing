@@ -11,24 +11,33 @@ lng: -88.0900
 zipSample: ["60047"]
 zipCodes: ["60047"]
 localPaths: ["Lake County / coords 42.2000, -88.0900", "Lake County / primary ZIP 60047", "Lake County / elevation 892 ft band", "Lake County / ZIP 60047 sector"]
-zillowHomeValueUsd: 638898
 ---
 
 **Engineering Notice for Lake Zurich:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: map ventilation intake and exhaust pairs for Lake Zurich, IL attic runs.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: In Lake Zurich, IL, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lake Zurich, IL, but intake notes help reduce delays.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60047.
+Synthetic underlayment slip in Lake Zurich, IL is often tied to deck moisture, not wind alone.
 
-Dispatch sectors sampled: ZIP 60047 (county grid: Lake County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Code context: Ventilation ratios for Lake Zurich, IL attics should be checked against current mechanical exhaust additions.
+
+Field routing: shingle exposure calibration paired with wind uplift clip spacing near ZIP 60047.
+
+Field note: Valley debris and granule loss noted for ZIP 60047.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Lake County. Reference elevation: 892 ft. Primary coordinates: 42.2000, -88.0900. ZIP sample: 60047. Logistics priority: Serving residential sectors across Lake County and north-east ZIP 60047 grid.
+
+Primary postal anchor 60047 with multi-ZIP overlap in Lake Zurich; field packets tag Lake County for county-grid reconciliation.
 
 Service reference: IL-60047-4f2d1f34

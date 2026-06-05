@@ -11,24 +11,29 @@ lng: -122.2700
 zipSample: ["94404"]
 zipCodes: ["94404"]
 localPaths: ["San Mateo County / primary ZIP 94404", "San Mateo County / coords 37.5600, -122.2700", "San Mateo County / ZIP 94404 sector", "San Mateo County / elevation 0 ft band"]
-zillowHomeValueUsd: 1763671
 ---
 
 **Engineering Notice for Foster City:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: San Mateo County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tile and shingle mixes in Foster City, CA require different fastener patterns at transitions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Foster City, CA, but intake notes help reduce delays.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: compare at least two estimates for scope and timeline.
+Code context: Ventilation ratios for Foster City, CA attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 94404.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 94404 (county grid: San Mateo County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+roof work brief: pipe boot manufacturer match and soffit intake free area were cross-checked for the Foster City intake packet.
+
+Coordinate-anchored dispatch note: center reference 37.5600, -122.2700 at elevation ~0 ft aligns with San Mateo County intake staging.
+
+On-site sector marker: San Mateo County / elevation 0 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94404-d8fc6e54

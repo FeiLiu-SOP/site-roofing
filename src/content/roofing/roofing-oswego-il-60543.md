@@ -11,25 +11,31 @@ lng: -88.3400
 zipSample: ["60543"]
 zipCodes: ["60543"]
 localPaths: ["Kendall County / elevation 666 ft band", "Kendall County / primary ZIP 60543", "Kendall County / ZIP 60543 sector", "Kendall County / coords 41.6800, -88.3400"]
-zillowHomeValueUsd: 416625
 ---
 
 **Engineering Notice for Oswego:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Kendall County.
 
 
-We coordinate local dispatch coverage around Oswego, IL and nearby ZIP sectors.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Homeowners in Oswego, IL often face sudden roof service problems that require fast action.
+Risk flag: Tile underlayment age in Oswego, IL can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+Freeze-thaw cycles around Oswego, IL stress nail pops along eaves and rake edges.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60543.
+FAQ: Can you tarp only part of the roof? In Oswego, IL, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Oswego, IL, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 60543 intake.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 60543 (county grid: Kendall County).
+Regulatory note: Oswego, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: shingle exposure calibration plus soffit intake free area referenced in Kendall County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 60543.
+
+Coordinate-anchored dispatch note: center reference 41.6800, -88.3400 at elevation ~666 ft aligns with Kendall County intake staging.
+
+On-site sector marker: Kendall County / primary ZIP 60543 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60543-5821cbee

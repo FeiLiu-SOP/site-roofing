@@ -11,26 +11,29 @@ lng: -81.5500
 zipSample: ["28150", "28151", "28152"]
 zipCodes: ["28150", "28151", "28152"]
 localPaths: ["Cleveland County / ZIP 28152 sector", "Cleveland County / coords 35.2900, -81.5500", "Cleveland County / elevation 883 ft band", "Cleveland County / ZIP 28150 sector", "Cleveland County / primary ZIP 28150"]
-zillowHomeValueUsd: 201085
 ---
 
 **Engineering Notice for Shelby:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Cleveland County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: request a written scope before work starts.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Shelby, NC roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-In Shelby, NC, seasonal demand can change scheduling windows.
+In Shelby, NC, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Moisture pathway inspection logged near ZIP 28151/28152/28150 intake.
+Risk flag: Tile underlayment age in Shelby, NC can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 28151/28152/28150 zone).
+Code context: Ventilation ratios for Shelby, NC attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 28151, 28152, 28150 (county grid: Cleveland County).
+Scope trace: valley metal gauge plus counter-flashing reglet depth referenced in Cleveland County county grid review.
+
+On-site sector marker: Cleveland County / ZIP 28151 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 28150 with multi-ZIP overlap in Shelby; field packets tag Cleveland County for county-grid reconciliation.
 
 Service reference: NC-28150-f9a3f055

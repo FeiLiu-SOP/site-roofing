@@ -11,24 +11,33 @@ lng: -93.1700
 zipSample: ["55057"]
 zipCodes: ["55057"]
 localPaths: ["Rice County / elevation 932 ft band", "Rice County / primary ZIP 55057", "Rice County / coords 44.4500, -93.1700", "Rice County / ZIP 55057 sector"]
-zillowHomeValueUsd: 385586
 ---
 
 **Engineering Notice for Northfield:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Rice County.
 
 
-Our service coordination centers on Northfield, MN coverage windows and verified intake details.
+Risk flag: In Northfield, MN, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Northfield, MN, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-In Northfield, MN, urgent roof work issues can escalate quickly.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: In Northfield, MN, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: request a written scope before work starts.
+FAQ: How long can shingles wait after storm damage? In Northfield, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55057.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 55057 (county grid: Rice County).
+Across Northfield, MN, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Field routing: shingle exposure calibration paired with ice-barrier lap sequence near ZIP 55057.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 55057.
+
+Coordinate-anchored dispatch note: center reference 44.4500, -93.1700 at elevation ~932 ft aligns with Rice County intake staging.
+
+On-site sector marker: Rice County / ZIP 55057 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55057-d8b5d0d7

@@ -11,26 +11,35 @@ lng: -117.1700
 zipSample: ["92374", "92375", "92346", "92359", "92373"]
 zipCodes: ["92346", "92374", "92373", "92359", "92375"]
 localPaths: ["San Bernardino County / coords 34.0500, -117.1700", "San Bernardino County / ZIP 92373 sector", "San Bernardino County / ZIP 92375 sector", "San Bernardino County / primary ZIP 92359", "San Bernardino County / ZIP 92346 sector"]
-zillowHomeValueUsd: 511487
 ---
 
 **Engineering Notice for Redlands:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-Our service coordination centers on Redlands, CA coverage windows and verified intake details.
+Freeze-thaw cycles around Redlands, CA stress nail pops along eaves and rake edges.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Redlands, CA, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Redlands, CA exposure class can change starter-strip and cap nail schedules.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Note recent wind events when filing insurance photos for Redlands, CA.
 
-Field note: Wind exposure category reviewed for ZIP sector 92359/92374/92373.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92359/92374/92373.
+FAQ: When should permanent service start? In Redlands, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 92359, 92374, 92373, 92346, 92375 (county grid: San Bernardino County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: shingle exposure calibration paired with valley metal gauge near ZIP 92359.
+
+Field note: Shingle seal-down timing logged near ZIP 92346/92373/92374.
+
+On-site sector marker: San Bernardino County / elevation 1453 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Bernardino County / coords 34.0500, -117.1700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92359-5f5241df

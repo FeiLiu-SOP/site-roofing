@@ -11,27 +11,29 @@ lng: -112.0000
 zipSample: ["84084", "84088", "84081"]
 zipCodes: ["84084", "84081", "84088"]
 localPaths: ["Salt Lake County / primary ZIP 84088", "Salt Lake County / ZIP 84088 sector", "Salt Lake County / ZIP 84081 sector", "Salt Lake County / elevation 4675 ft band", "Salt Lake County / coords 40.6000, -112.0000"]
-zillowHomeValueUsd: 578778
 ---
 
 **Engineering Notice for West Jordan:** Structural loading calculated based on 4675 ft terrain assessment. Regional dispatch grid: Salt Lake County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 84088.
+Code context: Ventilation ratios for West Jordan, UT attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around West Jordan, UT and nearby ZIP sectors.
+FAQ: When should permanent service start? In West Jordan, UT, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in West Jordan, UT, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for West Jordan, UT.
 
-Field note: Connection points spot-checked where accessible (ZIP 84088/84084/84081 zone).
+Skylight curb flashing in West Jordan, UT should be sequenced before ridge cap replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84088/84084/84081.
+Risk flag: In West Jordan, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 84088, 84084, 84081 (county grid: Salt Lake County).
+roof work brief: ridge cap nail schedule and soffit intake free area were cross-checked for the West Jordan intake packet.
+
+On-site sector marker: Salt Lake County / ZIP 84088 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for West Jordan, UT: sampled sectors include 84088, 84084, 84081; county routing grid remains Salt Lake County.
 
 Service reference: UT-84088-66812887

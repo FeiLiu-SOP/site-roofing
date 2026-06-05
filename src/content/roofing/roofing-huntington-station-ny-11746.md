@@ -11,27 +11,29 @@ lng: -73.4100
 zipSample: ["11746"]
 zipCodes: ["11746"]
 localPaths: ["Suffolk County / elevation 184 ft band", "Suffolk County / primary ZIP 11746", "Suffolk County / coords 40.8400, -73.4100", "Suffolk County / ZIP 11746 sector"]
-zillowHomeValueUsd: 771407
 ---
 
 **Engineering Notice for Huntington Station:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 11746.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Huntington Station, NY, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In Huntington Station, NY, urgent roof work issues can escalate quickly.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+TPO seam welds in Huntington Station, NY commercial sections need probe tests after freeze events.
 
-Field note: Access points and staging constraints recorded for ZIP 11746 coverage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11746.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 11746 (county grid: Suffolk County).
+roof work brief: wind uplift clip spacing and counter-flashing reglet depth were cross-checked for the Huntington Station intake packet.
+
+Primary postal anchor 11746 with multi-ZIP overlap in Huntington Station; field packets tag Suffolk County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 40.8400, -73.4100 at elevation ~184 ft aligns with Suffolk County intake staging.
 
 Service reference: NY-11746-e70bbfae

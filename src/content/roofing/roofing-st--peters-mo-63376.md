@@ -11,26 +11,31 @@ lng: -90.6100
 zipSample: ["63304", "63376"]
 zipCodes: ["63304", "63376"]
 localPaths: ["St. Charles County / ZIP 63376 sector", "St. Charles County / elevation 512 ft band", "St. Charles County / coords 38.7800, -90.6100", "St. Charles County / primary ZIP 63376", "St. Charles County / ZIP 63304 sector"]
-zillowHomeValueUsd: 325162
 ---
 
 **Engineering Notice for St. Peters:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: St. Charles County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Clear documentation helps align materials, labor, and timeline.
+Regulatory note: St. Peters, MO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around St. Peters, MO and nearby ZIP sectors.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in St. Peters, MO, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 63304/63376.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 63304/63376 coverage.
+Coastal humidity in St. Peters, MO can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 63304, 63376 (county grid: St. Charles County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+roof work brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the St. Peters intake packet.
+
+On-site sector marker: St. Charles County / elevation 512 ft band — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label St. Charles County: moisture and logistics baselines are keyed to St. Peters, MO before niche-specific work begins.
 
 Service reference: MO-63376-7e17efba

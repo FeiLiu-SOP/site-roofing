@@ -11,24 +11,33 @@ lng: -77.8400
 zipSample: ["28411"]
 zipCodes: ["28411"]
 localPaths: ["New Hanover County / elevation 36 ft band", "New Hanover County / ZIP 28411 sector", "New Hanover County / coords 34.2900, -77.8400", "New Hanover County / primary ZIP 28411"]
-zillowHomeValueUsd: 463599
 ---
 
 **Engineering Notice for Murraysville:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: New Hanover County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Our Murraysville, NC dispatch packets reference county grid New Hanover County and elevation band 36 ft.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Our service coordination centers on Murraysville, NC coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Murraysville, NC can fail independently of visible tile cracks.
 
-Homeowners in Murraysville, NC often face sudden roofing service problems that require fast action.
+Wind-zone note: Murraysville, NC exposure class can change starter-strip and cap nail schedules.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 28411 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 28411 (county grid: New Hanover County).
+Across Murraysville, NC, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Field routing: counter-flashing reglet depth paired with attic baffle spacing near ZIP 28411.
+
+Field note: Attic moisture pathway scan referenced ZIP 28411.
+
+On-site sector marker: New Hanover County / primary ZIP 28411 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 28411 with multi-ZIP overlap in Murraysville; field packets tag New Hanover County for county-grid reconciliation.
 
 Service reference: NC-28411-2eeaf9ee

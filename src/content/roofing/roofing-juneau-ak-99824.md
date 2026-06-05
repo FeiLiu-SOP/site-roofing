@@ -11,27 +11,35 @@ lng: -134.1700
 zipSample: ["99812", "99803", "99811", "99821", "99801"]
 zipCodes: ["99801", "99812", "99811", "99803", "99824", "99802", "99821"]
 localPaths: ["Juneau County / ZIP 99801 sector", "Juneau County / coords 58.4500, -134.1700", "Juneau County / elevation 1942 ft band", "Juneau County / primary ZIP 99824", "Juneau County / ZIP 99803 sector"]
-zillowHomeValueUsd: 350361
 ---
 
 **Engineering Notice for Juneau:** Structural loading calculated based on 1942 ft terrain assessment. Regional dispatch grid: Juneau County.
 
 
-We coordinate local dispatch coverage around Juneau, AK and nearby ZIP sectors.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 99824.
+Tip: Note recent wind events when filing insurance photos for Juneau, AK.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Juneau, AK, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Connection points spot-checked where accessible (ZIP 99824/99801/99811 zone).
+Parapet coping movement in Juneau, AK can channel water behind wall cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 99824/99801/99811.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 99824, 99801, 99811, 99821, 99812 (county grid: Juneau County).
+Step: compare shingle manufacturer wind-zone ratings for Juneau, AK exposure class.
+
+Material note: In Juneau, AK, algae-resistant granules may be specified for north-facing slopes.
+
+Field routing: attic baffle spacing paired with skylight curb height near ZIP 99824.
+
+Field note: Shingle seal-down timing logged near ZIP 99803/99824/99812.
+
+On-site sector marker: Juneau County / primary ZIP 99824 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Juneau County / ZIP 99811 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AK-99824-052f8072

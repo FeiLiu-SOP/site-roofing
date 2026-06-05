@@ -11,26 +11,29 @@ lng: -94.2700
 zipSample: ["64013", "64015", "64014"]
 zipCodes: ["64015", "64014", "64013"]
 localPaths: ["Jackson County / primary ZIP 64014", "Jackson County / ZIP 64013 sector", "Jackson County / elevation 919 ft band", "Jackson County / coords 39.0100, -94.2700", "Jackson County / ZIP 64015 sector"]
-zillowHomeValueUsd: 301731
 ---
 
 **Engineering Notice for Blue Springs:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Jackson County.
 
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 64014.
 
-Our service coordination centers on Blue Springs, MO coverage windows and verified intake details.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 64013/64014/64015.
+Hail bruising on Blue Springs, MO ridges may not breach felt until the next wind event.
 
-Field note: Wind exposure category reviewed for ZIP sector 64013/64014/64015.
+FAQ: When should permanent service start? In Blue Springs, MO, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 64013, 64014, 64015 (county grid: Jackson County).
+roofing service brief: ridge cap nail schedule and counter-flashing reglet depth were cross-checked for the Blue Springs intake packet.
+
+On-site sector marker: Jackson County / ZIP 64015 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Jackson County / elevation 919 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64014-b813f605

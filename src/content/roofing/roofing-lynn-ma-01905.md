@@ -11,26 +11,29 @@ lng: -70.9700
 zipSample: ["01903", "01902", "01904", "01910", "01905"]
 zipCodes: ["01904", "01901", "01903", "01902", "01905", "01910"]
 localPaths: ["Essex County / ZIP 01905 sector", "Essex County / elevation 135 ft band", "Essex County / ZIP 01902 sector", "Essex County / ZIP 01903 sector", "Essex County / primary ZIP 01905"]
-zillowHomeValueUsd: 575154
 ---
 
 **Engineering Notice for Lynn:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Essex County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Synthetic underlayment slip in Lynn, MA is often tied to deck moisture, not wind alone.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our service coordination centers on Lynn, MA coverage windows and verified intake details.
+FAQ: When should permanent remediation start? In Lynn, MA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Our Lynn, MA dispatch packets reference county grid Essex County and elevation band 135 ft.
 
-Field note: Connection points spot-checked where accessible (ZIP 01904/01903/01902 zone).
+Code context: Ventilation ratios for Lynn, MA attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 01904/01903/01902 intake.
+Step: compare shingle manufacturer wind-zone ratings for Lynn, MA exposure class.
 
-Dispatch sectors sampled: ZIP 01904, 01903, 01902, 01910, 01901 (county grid: Essex County).
+Scope trace: pipe boot manufacturer match plus wind uplift clip spacing referenced in Essex County county grid review.
+
+On-site sector marker: Essex County / ZIP 01903 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Essex County / ZIP 01910 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-01905-a144d053

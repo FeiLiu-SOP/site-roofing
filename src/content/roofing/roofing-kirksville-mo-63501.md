@@ -11,24 +11,29 @@ lng: -92.5800
 zipSample: ["63501"]
 zipCodes: ["63501"]
 localPaths: ["Adair County / elevation 971 ft band", "Adair County / coords 40.2000, -92.5800", "Adair County / ZIP 63501 sector", "Adair County / primary ZIP 63501"]
-zillowHomeValueUsd: 175676
 ---
 
 **Engineering Notice for Kirksville:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Adair County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 63501.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: When should permanent restoration start? In Kirksville, MO, delayed dry-in can expand insulation and ceiling repairs.
 
-In Kirksville, MO, urgent roofing service issues can escalate quickly.
+Granule embedment loss on Kirksville, MO north slopes can precede mat exposure.
 
-Field note: Access points and staging constraints recorded for ZIP 63501 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 63501 (county grid: Adair County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roofing service brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Kirksville intake packet.
+
+On-site sector marker: Adair County / coords 40.2000, -92.5800 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Adair County / elevation 971 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63501-b72d3443

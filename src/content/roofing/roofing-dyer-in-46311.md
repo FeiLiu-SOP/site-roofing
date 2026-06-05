@@ -11,25 +11,33 @@ lng: -87.5100
 zipSample: ["46311"]
 zipCodes: ["46311"]
 localPaths: ["Lake County / primary ZIP 46311", "Lake County / ZIP 46311 sector", "Lake County / coords 41.5000, -87.5100", "Lake County / elevation 630 ft band"]
-zillowHomeValueUsd: 361174
 ---
 
 **Engineering Notice for Dyer:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Dyer, IN attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 46311.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Moisture pathway inspection logged near ZIP 46311 intake.
+TPO seam welds in Dyer, IN commercial sections need probe tests after freeze events.
 
-Dispatch sectors sampled: ZIP 46311 (county grid: Lake County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+FAQ: Is partial dry-in possible? In Dyer, IN, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: starter-strip setback plus ice-barrier lap sequence referenced in Lake County county grid review.
+
+On-site sector marker: Lake County / elevation 630 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 41.5000, -87.5100 at elevation ~630 ft aligns with Lake County intake staging.
 
 Service reference: IN-46311-fd3cacef

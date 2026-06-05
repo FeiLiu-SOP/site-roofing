@@ -11,24 +11,31 @@ lng: -83.2600
 zipSample: ["48037", "48076", "48086", "48075", "48033"]
 zipCodes: ["48076", "48034", "48033", "48075", "48037", "48086"]
 localPaths: ["Oakland County / primary ZIP 48033", "Oakland County / ZIP 48076 sector", "Oakland County / ZIP 48033 sector", "Oakland County / elevation 682 ft band", "Oakland County / ZIP 48037 sector"]
-zillowHomeValueUsd: 223527
 ---
 
 **Engineering Notice for Southfield:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Oakland County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Skylight curb flashing in Southfield, MI should be sequenced before ridge cap replacement.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Southfield, MI, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in Southfield, MI can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 48076/48086/48033.
+Step: separate emergency tarp scope from permanent service line items.
 
-Dispatch sectors sampled: ZIP 48076, 48086, 48033, 48037, 48075 (county grid: Oakland County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Field routing: ice-barrier lap sequence paired with wind uplift clip spacing near ZIP 48033.
+
+Regional mesh label Oakland County: moisture and logistics baselines are keyed to Southfield, MI before niche-specific work begins.
+
+Primary postal anchor 48033 with multi-ZIP overlap in Southfield; field packets tag Oakland County for county-grid reconciliation.
 
 Service reference: MI-48033-40d9c9e0

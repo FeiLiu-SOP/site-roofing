@@ -11,26 +11,31 @@ lng: -95.3600
 zipSample: ["74401", "74402", "74403"]
 zipCodes: ["74401", "74402", "74403"]
 localPaths: ["Muskogee County / primary ZIP 74403", "Muskogee County / ZIP 74403 sector", "Muskogee County / ZIP 74401 sector", "Muskogee County / elevation 591 ft band", "Muskogee County / ZIP 74402 sector"]
-zillowHomeValueUsd: 157367
 ---
 
 **Engineering Notice for Muskogee:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Muskogee County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Muskogee, OK, but intake notes help reduce delays.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: address recurring issues early to prevent bigger damage.
+Our Muskogee, OK dispatch packets reference county grid Muskogee County and elevation band 591 ft.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Muskogee, OK, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: request a written scope before work starts.
+Parapet coping movement in Muskogee, OK can channel water behind wall cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 74402/74403/74401 zone).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Access points and staging constraints recorded for ZIP 74402/74403/74401 coverage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 74402, 74403, 74401 (county grid: Muskogee County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: shingle exposure calibration plus skylight curb height referenced in Muskogee County county grid review.
+
+ZIP-corridor snapshot for Muskogee, OK: sampled sectors include 74402, 74403, 74401; county routing grid remains Muskogee County.
+
+On-site sector marker: Muskogee County / ZIP 74402 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74403-ec53926e

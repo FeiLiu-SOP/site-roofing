@@ -11,26 +11,31 @@ lng: -117.7600
 zipSample: ["91769", "91767", "91766", "91768"]
 zipCodes: ["91767", "91766", "91768", "91769"]
 localPaths: ["Los Angeles County / ZIP 91766 sector", "Los Angeles County / primary ZIP 91768", "Los Angeles County / coords 34.0600, -117.7600", "Los Angeles County / elevation 853 ft band", "Los Angeles County / ZIP 91768 sector"]
-zillowHomeValueUsd: 674140
 ---
 
 **Engineering Notice for Pomona:** Structural loading calculated based on 853 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-In Pomona, CA, seasonal demand can change scheduling windows.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+TPO seam welds in Pomona, CA commercial sections need probe tests after freeze events.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Our service coordination centers on Pomona, CA coverage windows and verified intake details.
+Our Pomona, CA dispatch packets reference county grid Los Angeles County and elevation band 853 ft.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is partial dry-in possible? In Pomona, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 91766/91768/91769 zone).
+Risk flag: In Pomona, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91766/91768/91769.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 91766, 91768, 91769, 91767 (county grid: Los Angeles County).
+Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Los Angeles County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 91768/91766/91767.
+
+On-site sector marker: Los Angeles County / elevation 853 ft band — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 91768 with multi-ZIP overlap in Pomona; field packets tag Los Angeles County for county-grid reconciliation.
 
 Service reference: CA-91768-c25fd174

@@ -11,27 +11,29 @@ lng: -84.5900
 zipSample: ["41017", "41051", "41018"]
 zipCodes: ["41051", "41017", "41018"]
 localPaths: ["Kenton County / primary ZIP 41018", "Kenton County / ZIP 41017 sector", "Kenton County / elevation 879 ft band", "Kenton County / ZIP 41018 sector", "Kenton County / coords 39.0100, -84.5900"]
-zillowHomeValueUsd: 234864
 ---
 
 **Engineering Notice for Erlanger:** Structural loading calculated based on 879 ft terrain assessment. Regional dispatch grid: Kenton County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Erlanger, KY can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+Tile and shingle mixes in Erlanger, KY require different fastener patterns at transitions.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 41018.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 41051/41018/41017.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 41051/41018/41017 intake.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 41051, 41018, 41017 (county grid: Kenton County).
+Scope trace: deck sheathing thickness plus drip-edge metal profile referenced in Kenton County county grid review.
+
+On-site sector marker: Kenton County / coords 39.0100, -84.5900 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Kenton County. Reference elevation: 879 ft. Primary coordinates: 39.0100, -84.5900. ZIP sample: 41051, 41018, 41017. Service perimeter note: Coverage extends through Kenton County with dispatch centered near ZIP 41018.
 
 Service reference: KY-41018-117ae452

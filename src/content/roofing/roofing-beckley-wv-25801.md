@@ -11,24 +11,29 @@ lng: -81.1800
 zipSample: ["25801"]
 zipCodes: ["25801"]
 localPaths: ["Raleigh County / elevation 2310 ft band", "Raleigh County / coords 37.7900, -81.1800", "Raleigh County / primary ZIP 25801", "Raleigh County / ZIP 25801 sector"]
-zillowHomeValueUsd: 143988
 ---
 
 **Engineering Notice for Beckley:** Structural loading calculated based on 2310 ft terrain assessment. Regional dispatch grid: Raleigh County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Low-slope sections in Beckley, WV need positive drainage before membrane repairs are scoped.
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-In Beckley, WV, urgent roof service issues can escalate quickly.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around Beckley, WV and nearby ZIP sectors.
+Regulatory note: Beckley, WV projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can you tarp only part of the roof? In Beckley, WV, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 25801.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 25801 (county grid: Raleigh County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Scope trace: attic baffle spacing plus valley metal gauge referenced in Raleigh County county grid review.
+
+ZIP-corridor snapshot for Beckley, WV: sampled sectors include 25801; county routing grid remains Raleigh County.
+
+On-site sector marker: Raleigh County / primary ZIP 25801 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-25801-01dbf05f

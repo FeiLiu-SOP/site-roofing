@@ -11,26 +11,35 @@ lng: -111.8900
 zipSample: ["84047"]
 zipCodes: ["84047"]
 localPaths: ["Salt Lake County / ZIP 84047 sector", "Salt Lake County / coords 40.6100, -111.8900", "Salt Lake County / primary ZIP 84047", "Salt Lake County / elevation 4406 ft band"]
-zillowHomeValueUsd: 483874
 ---
 
 **Engineering Notice for Midvale:** Structural loading calculated based on 4406 ft terrain assessment. Regional dispatch grid: Salt Lake County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+In Midvale, UT, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Midvale, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Midvale, UT attics should be checked against current mechanical exhaust additions.
 
-Tip: avoid large upfront payments without milestones.
+We coordinate Midvale, UT roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84047.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 84047 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 84047 (county grid: Salt Lake County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: shingle exposure calibration paired with skylight curb height near ZIP 84047.
+
+Field note: Attic moisture pathway scan referenced ZIP 84047.
+
+On-site sector marker: Salt Lake County / elevation 4406 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Salt Lake County / primary ZIP 84047 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84047-fab55825

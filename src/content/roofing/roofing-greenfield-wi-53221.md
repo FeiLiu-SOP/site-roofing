@@ -11,24 +11,31 @@ lng: -88.0100
 zipSample: ["53221", "53228", "53220"]
 zipCodes: ["53220", "53221", "53228"]
 localPaths: ["Milwaukee County / ZIP 53221 sector", "Milwaukee County / ZIP 53220 sector", "Milwaukee County / elevation 817 ft band", "Milwaukee County / coords 42.9600, -88.0100", "Milwaukee County / ZIP 53228 sector"]
-zillowHomeValueUsd: 287544
 ---
 
 **Engineering Notice for Greenfield:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Milwaukee County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Coastal humidity in Greenfield, WI can slow shingle seal-down after shoulder-season storms.
 
-Local conditions in Greenfield, WI can affect timelines and material choices.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Greenfield, WI can fail independently of visible tile cracks.
 
-Our service coordination centers on Greenfield, WI coverage windows and verified intake details.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Wind exposure category reviewed for ZIP sector 53228/53220/53221.
+Wind-zone note: Greenfield, WI exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 53228, 53220, 53221 (county grid: Milwaukee County).
+We coordinate Greenfield, WI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Milwaukee County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 53220/53221/53228.
+
+On-site sector marker: Milwaukee County / ZIP 53221 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Milwaukee County. Reference elevation: 817 ft. Primary coordinates: 42.9600, -88.0100. ZIP sample: 53228, 53221, 53220. Logistics priority: Serving residential sectors across Milwaukee County and north-east ZIP 53221 grid.
 
 Service reference: WI-53221-9b5e8056

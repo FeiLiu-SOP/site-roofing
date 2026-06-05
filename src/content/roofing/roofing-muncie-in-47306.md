@@ -11,24 +11,31 @@ lng: -85.3900
 zipSample: ["47307", "47302", "47303", "47306", "47304"]
 zipCodes: ["47305", "47306", "47302", "47303", "47307", "47304"]
 localPaths: ["Delaware County / ZIP 47306 sector", "Delaware County / ZIP 47303 sector", "Delaware County / ZIP 47302 sector", "Delaware County / ZIP 47307 sector", "Delaware County / coords 40.2000, -85.3900"]
-zillowHomeValueUsd: 209770
 ---
 
 **Engineering Notice for Muncie:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Delaware County.
 
 
-Our service coordination centers on Muncie, IN coverage windows and verified intake details.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Muncie, IN, but intake notes help reduce delays.
+Hail bruising on Muncie, IN ridges may not breach felt until the next wind event.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: In Muncie, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 47307/47304/47306 intake.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 47307, 47304, 47306, 47302, 47303 (county grid: Delaware County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Scope trace: attic baffle spacing plus drip-edge metal profile referenced in Delaware County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 47306/47307/47305.
+
+Coordinate-anchored dispatch note: center reference 40.2000, -85.3900 at elevation ~945 ft aligns with Delaware County intake staging.
+
+On-site sector marker: Delaware County / primary ZIP 47306 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47306-4c454d6f

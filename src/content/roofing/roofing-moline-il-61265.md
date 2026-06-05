@@ -11,25 +11,31 @@ lng: -90.4900
 zipSample: ["61266", "61265"]
 zipCodes: ["61266", "61265"]
 localPaths: ["Rock Island County / ZIP 61265 sector", "Rock Island County / elevation 682 ft band", "Rock Island County / primary ZIP 61265", "Rock Island County / ZIP 61266 sector", "Rock Island County / coords 41.4800, -90.4900"]
-zillowHomeValueUsd: 144195
 ---
 
 **Engineering Notice for Moline:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Rock Island County.
 
 
-We coordinate local dispatch coverage around Moline, IL and nearby ZIP sectors.
+Risk flag: In Moline, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map ventilation intake and exhaust pairs for Moline, IL attic runs.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 61265.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 61265/61266 zone).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 61265, 61266 (county grid: Rock Island County).
+Wind-zone note: Moline, IL exposure class can change starter-strip and cap nail schedules.
+
+Valley metal in Moline, IL should be reviewed whenever granule loss tracks the water line.
+
+Scope trace: pipe boot manufacturer match plus synthetic underlayment slip referenced in Rock Island County county grid review.
+
+ZIP-corridor snapshot for Moline, IL: sampled sectors include 61265, 61266; county routing grid remains Rock Island County.
+
+On-site sector marker: Rock Island County / primary ZIP 61265 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61265-3fe3e8a0

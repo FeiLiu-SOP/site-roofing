@@ -11,27 +11,31 @@ lng: -117.4300
 zipSample: ["99212", "99209", "99260", "99202", "99210"]
 zipCodes: ["99256", "99207", "99208", "99219", "99210", "99212", "99260", "99223", "99204", "99201", "99252", "99220"]
 localPaths: ["Spokane County / ZIP 99212 sector", "Spokane County / ZIP 99209 sector", "Spokane County / ZIP 99210 sector", "Spokane County / ZIP 99202 sector", "Spokane County / ZIP 99260 sector"]
-zillowHomeValueUsd: 325739
 ---
 
 **Engineering Notice for Spokane:** Structural loading calculated based on 1900 ft terrain assessment. Regional dispatch grid: Spokane County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Spokane, WA, but intake notes help reduce delays.
+Code context: Ventilation ratios for Spokane, WA attics should be checked against current mechanical exhaust additions.
 
-Local conditions in Spokane, WA can affect timelines and material choices.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 99201.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Spokane, WA can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+Step: compare shingle manufacturer wind-zone ratings for Spokane, WA exposure class.
 
-Field note: Access points and staging constraints recorded for ZIP 99205/99219/99223 coverage.
+Metal panel oil-canning in Spokane, WA may signal clip spacing issues, not wind damage alone.
 
-Field note: Moisture pathway inspection logged near ZIP 99205/99219/99223 intake.
+Material note: In Spokane, WA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 99205, 99219, 99223, 99258, 99204 (county grid: Spokane County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Field routing: valley metal gauge paired with ridge cap nail schedule near ZIP 99201.
+
+ZIP-corridor snapshot for Spokane, WA: sampled sectors include 99256, 99205, 99252, 99204, 99202, 99219, 99203, 99220; county routing grid remains Spokane County.
+
+On-site sector marker: Spokane County / ZIP 99252 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-99201-8149f340

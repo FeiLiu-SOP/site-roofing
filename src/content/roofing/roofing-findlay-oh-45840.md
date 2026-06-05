@@ -11,26 +11,33 @@ lng: -83.6400
 zipSample: ["45840", "45839"]
 zipCodes: ["45840", "45839"]
 localPaths: ["Hancock County / ZIP 45839 sector", "Hancock County / primary ZIP 45840", "Hancock County / ZIP 45840 sector", "Hancock County / elevation 784 ft band", "Hancock County / coords 41.0500, -83.6400"]
-zillowHomeValueUsd: 240642
 ---
 
 **Engineering Notice for Findlay:** Structural loading calculated based on 784 ft terrain assessment. Regional dispatch grid: Hancock County.
 
 
-We coordinate local dispatch coverage around Findlay, OH and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Findlay, OH can fail independently of visible tile cracks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hail bruising on Findlay, OH ridges may not breach felt until the next wind event.
 
-Homeowners in Findlay, OH often face sudden roof service problems that require fast action.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Findlay, OH, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 45840/45839 coverage.
+FAQ: How long can shingles wait after storm damage? In Findlay, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 45840/45839 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 45840, 45839 (county grid: Hancock County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Code context: Ventilation ratios for Findlay, OH attics should be checked against current mechanical exhaust additions.
+
+Field routing: shingle exposure calibration paired with attic baffle spacing near ZIP 45840.
+
+Coordinate-anchored dispatch note: center reference 41.0500, -83.6400 at elevation ~784 ft aligns with Hancock County intake staging.
+
+Primary postal anchor 45840 with multi-ZIP overlap in Findlay; field packets tag Hancock County for county-grid reconciliation.
 
 Service reference: OH-45840-b18d80bd

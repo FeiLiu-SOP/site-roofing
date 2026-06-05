@@ -11,26 +11,35 @@ lng: -111.8300
 zipSample: ["84106", "84117", "84124", "84107", "84109"]
 zipCodes: ["84106", "84107", "84109", "84124", "84117"]
 localPaths: ["Salt Lake County / primary ZIP 84117", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84107 sector", "Salt Lake County / elevation 4573 ft band", "Salt Lake County / ZIP 84109 sector"]
-zillowHomeValueUsd: 694490
 ---
 
 **Engineering Notice for Millcreek:** Structural loading calculated based on 4573 ft terrain assessment. Regional dispatch grid: Salt Lake County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Millcreek, UT, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Millcreek, UT exposure class.
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: Millcreek, UT exposure class can change starter-strip and cap nail schedules.
 
-Local conditions in Millcreek, UT can affect timelines and material choices.
+Synthetic underlayment slip in Millcreek, UT is often tied to deck moisture, not wind alone.
 
-We coordinate local dispatch coverage around Millcreek, UT and nearby ZIP sectors.
+Risk flag: In Millcreek, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-Homeowners in Millcreek, UT often face sudden roof service problems that require fast action.
+We coordinate Millcreek, UT roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 84107/84117/84124.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Access points and staging constraints recorded for ZIP 84107/84117/84124 coverage.
+Coastal humidity in Millcreek, UT can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 84107, 84117, 84124, 84106, 84109 (county grid: Salt Lake County).
+FAQ: When should permanent remediation start? In Millcreek, UT, delayed dry-in can expand insulation and ceiling repairs.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof service brief: attic baffle spacing and shingle exposure calibration were cross-checked for the Millcreek intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 84109/84107/84124.
+
+On-site sector marker: Salt Lake County / primary ZIP 84117 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 84117 with multi-ZIP overlap in Millcreek; field packets tag Salt Lake County for county-grid reconciliation.
 
 Service reference: UT-84117-2d8afdfd

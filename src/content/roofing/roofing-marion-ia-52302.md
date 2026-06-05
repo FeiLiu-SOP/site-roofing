@@ -11,24 +11,29 @@ lng: -91.5800
 zipSample: ["52302"]
 zipCodes: ["52302"]
 localPaths: ["Linn County / ZIP 52302 sector", "Linn County / primary ZIP 52302", "Linn County / coords 42.0500, -91.5800", "Linn County / elevation 840 ft band"]
-zillowHomeValueUsd: 270280
 ---
 
 **Engineering Notice for Marion:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: Linn County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Marion, IA, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Regulatory note: Marion, IA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Marion, IA, but intake notes help reduce delays.
+Freeze-thaw cycles around Marion, IA stress nail pops along eaves and rake edges.
 
-Our service coordination centers on Marion, IA coverage windows and verified intake details.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 52302.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 52302 (county grid: Linn County).
+Step: compare shingle manufacturer wind-zone ratings for Marion, IA exposure class.
+
+Scope trace: deck sheathing thickness plus shingle exposure calibration referenced in Linn County county grid review.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~840 ft across the Linn County area. Coordinates: 42.0500, -91.5800. ZIP sample: 52302. Regional routing note: Linn County traffic flow is balanced around ZIP 52302 service demand.
+
+On-site sector marker: Linn County / elevation 840 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52302-a221532f

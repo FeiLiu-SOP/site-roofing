@@ -11,24 +11,31 @@ lng: -88.0300
 zipSample: ["53227", "53214", "53219"]
 zipCodes: ["53219", "53227", "53214"]
 localPaths: ["Milwaukee County / elevation 791 ft band", "Milwaukee County / primary ZIP 53219", "Milwaukee County / ZIP 53219 sector", "Milwaukee County / ZIP 53214 sector", "Milwaukee County / ZIP 53227 sector"]
-zillowHomeValueUsd: 266967
 ---
 
 **Engineering Notice for West Allis:** Structural loading calculated based on 791 ft terrain assessment. Regional dispatch grid: Milwaukee County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Freeze-thaw cycles around West Allis, WI stress nail pops along eaves and rake edges.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in West Allis, WI, but intake notes help reduce delays.
+Risk flag: In West Allis, WI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Structured milestones protect both sides when scheduling work.
+Step: map ventilation intake and exhaust pairs for West Allis, WI attic runs.
 
-Field note: Moisture pathway inspection logged near ZIP 53214/53219/53227 intake.
+FAQ: How long can shingles wait after storm damage? In West Allis, WI, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 53214, 53219, 53227 (county grid: Milwaukee County).
+Regulatory note: West Allis, WI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: valley metal gauge paired with starter-strip setback near ZIP 53219.
+
+Field note: Attic moisture pathway scan referenced ZIP 53219/53227/53214.
+
+Coordinate-anchored dispatch note: center reference 43.0100, -88.0300 at elevation ~791 ft aligns with Milwaukee County intake staging.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~791 ft across the Milwaukee County area. Coordinates: 43.0100, -88.0300. ZIP sample: 53227, 53219, 53214. Logistics priority: Serving residential sectors across Milwaukee County and north-east ZIP 53219 grid.
 
 Service reference: WI-53219-ece53b17

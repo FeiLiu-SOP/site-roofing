@@ -11,26 +11,31 @@ lng: -90.1800
 zipSample: ["70002", "70006", "70004", "70005", "70033"]
 zipCodes: ["70005", "70004", "70010", "70055", "70006", "70002", "70011", "70001", "70009", "70003", "70033"]
 localPaths: ["Jefferson Parish / coords 30.0000, -90.1800", "Jefferson Parish / ZIP 70005 sector", "Jefferson Parish / ZIP 70033 sector", "Jefferson Parish / ZIP 70006 sector", "Jefferson Parish / ZIP 70002 sector"]
-zillowHomeValueUsd: 346912
 ---
 
 **Engineering Notice for Metairie:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Jefferson Parish.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Our Metairie, LA dispatch packets reference county grid Jefferson Parish and elevation band 10 ft.
 
-Tip: avoid large upfront payments without milestones.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: request a written scope before work starts.
+Wind-zone note: Metairie, LA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Metairie, LA, but intake notes help reduce delays.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Moisture pathway inspection logged near ZIP 70055/70002/70003 intake.
+Risk flag: Tile underlayment age in Metairie, LA can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70055/70002/70003.
+Freeze-thaw cycles around Metairie, LA stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 70055, 70002, 70003, 70005, 70009 (county grid: Jefferson Parish).
+roofing service brief: drip-edge metal profile and pipe boot manufacturer match were cross-checked for the Metairie intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 70006/70003/70009.
+
+On-site sector marker: Jefferson Parish / ZIP 70009 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 70002 with multi-ZIP overlap in Metairie; field packets tag Jefferson Parish for county-grid reconciliation.
 
 Service reference: LA-70002-bed69d7d

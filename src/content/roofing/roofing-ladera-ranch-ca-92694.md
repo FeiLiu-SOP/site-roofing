@@ -11,24 +11,31 @@ lng: -117.6400
 zipSample: ["92694"]
 zipCodes: ["92694"]
 localPaths: ["Orange County / coords 33.5500, -117.6400", "Orange County / elevation 512 ft band", "Orange County / ZIP 92694 sector", "Orange County / primary ZIP 92694"]
-zillowHomeValueUsd: 1275259
 ---
 
 **Engineering Notice for Ladera Ranch:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: request a written scope before work starts.
+Step: stage tear-off debris paths away from landscape drains.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ladera Ranch, CA, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Ladera Ranch, CA coverage windows and verified intake details.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 92694 zone).
+Tile and shingle mixes in Ladera Ranch, CA require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 92694 (county grid: Orange County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: valley metal gauge paired with deck sheathing thickness near ZIP 92694.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 92694.
+
+On-site sector marker: Orange County / elevation 512 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Orange County / ZIP 92694 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92694-c35389a7

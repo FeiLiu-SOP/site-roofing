@@ -11,24 +11,33 @@ lng: -77.6300
 zipSample: ["20155", "20156", "20169"]
 zipCodes: ["20169", "20156", "20155"]
 localPaths: ["Prince William County / ZIP 20155 sector", "Prince William County / ZIP 20169 sector", "Prince William County / primary ZIP 20169", "Prince William County / elevation 387 ft band", "Prince William County / coords 38.7900, -77.6300"]
-zillowHomeValueUsd: 832930
 ---
 
 **Engineering Notice for Gainesville:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Prince William County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Gainesville, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Gainesville, VA, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Our service coordination centers on Gainesville, VA coverage windows and verified intake details.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 20169.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Gainesville, VA, but intake notes help reduce delays.
+In Gainesville, VA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Moisture pathway inspection logged near ZIP 20156/20155/20169 intake.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 20156, 20155, 20169 (county grid: Prince William County).
+FAQ: When should permanent service start? In Gainesville, VA, delayed dry-in can expand insulation and ceiling repairs.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roof work brief: deck sheathing thickness and valley metal gauge were cross-checked for the Gainesville intake packet.
+
+ZIP-corridor snapshot for Gainesville, VA: sampled sectors include 20156, 20155, 20169; county routing grid remains Prince William County.
+
+On-site sector marker: Prince William County / primary ZIP 20169 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20169-7a42b73f

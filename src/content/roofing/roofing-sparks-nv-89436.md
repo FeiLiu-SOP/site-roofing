@@ -11,26 +11,29 @@ lng: -119.7200
 zipSample: ["89431", "89432", "89434", "89435", "89436"]
 zipCodes: ["89434", "89435", "89432", "89436", "89431"]
 localPaths: ["Washoe County / elevation 4560 ft band", "Washoe County / ZIP 89435 sector", "Washoe County / ZIP 89431 sector", "Washoe County / ZIP 89432 sector", "Washoe County / primary ZIP 89436"]
-zillowHomeValueUsd: 572020
 ---
 
 **Engineering Notice for Sparks:** Structural loading calculated based on 4560 ft terrain assessment. Regional dispatch grid: Washoe County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-We coordinate local dispatch coverage around Sparks, NV and nearby ZIP sectors.
+Regulatory note: Sparks, NV projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Sparks, NV, delayed dry-in can expand insulation and ceiling repairs.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tile and shingle mixes in Sparks, NV require different fastener patterns at transitions.
 
-Field note: Access points and staging constraints recorded for ZIP 89435/89436/89431 coverage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 89435/89436/89431.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 89435, 89436, 89431, 89434, 89432 (county grid: Washoe County).
+Field routing: ridge cap nail schedule paired with counter-flashing reglet depth near ZIP 89436.
+
+On-site sector marker: Washoe County / elevation 4560 ft band — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Washoe County: moisture and logistics baselines are keyed to Sparks, NV before niche-specific work begins.
 
 Service reference: NV-89436-2e9c52df

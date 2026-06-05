@@ -11,25 +11,35 @@ lng: -87.8900
 zipSample: ["53158", "53142"]
 zipCodes: ["53142", "53158"]
 localPaths: ["Kenosha County / primary ZIP 53142", "Kenosha County / coords 42.5300, -87.8900", "Kenosha County / ZIP 53142 sector", "Kenosha County / elevation 725 ft band", "Kenosha County / ZIP 53158 sector"]
-zillowHomeValueUsd: 321234
 ---
 
 **Engineering Notice for Pleasant Prairie:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Kenosha County.
 
 
-In Pleasant Prairie, WI, urgent roof work issues can escalate quickly.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Pleasant Prairie, WI, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 53142.
+FAQ: Can you tarp only part of the roof? In Pleasant Prairie, WI, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 53142/53158.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 53142, 53158 (county grid: Kenosha County).
+TPO seam welds in Pleasant Prairie, WI commercial sections need probe tests after freeze events.
+
+Code context: Ventilation ratios for Pleasant Prairie, WI attics should be checked against current mechanical exhaust additions.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+roof work brief: synthetic underlayment slip and skylight curb height were cross-checked for the Pleasant Prairie intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 53158/53142.
+
+On-site sector marker: Kenosha County / elevation 725 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Kenosha County / coords 42.5300, -87.8900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53142-7c59fcb2

@@ -11,24 +11,29 @@ lng: -87.9400
 zipSample: ["60056"]
 zipCodes: ["60056"]
 localPaths: ["Cook County / elevation 676 ft band", "Cook County / ZIP 60056 sector", "Cook County / primary ZIP 60056", "Cook County / coords 42.0600, -87.9400"]
-zillowHomeValueUsd: 434430
 ---
 
 **Engineering Notice for Mount Prospect:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Tip: avoid large upfront payments without milestones.
+Across Mount Prospect, IL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mount Prospect, IL, but intake notes help reduce delays.
+Risk flag: In Mount Prospect, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Homeowners in Mount Prospect, IL often face sudden roofing service problems that require fast action.
+Step: log deck soundings near vents before tear-off is approved.
 
-In Mount Prospect, IL, seasonal demand can change scheduling windows.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60056.
+Wind-zone note: Mount Prospect, IL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 60056 (county grid: Cook County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Scope trace: skylight curb height plus attic baffle spacing referenced in Cook County county grid review.
+
+ZIP-corridor snapshot for Mount Prospect, IL: sampled sectors include 60056; county routing grid remains Cook County.
+
+On-site sector marker: Cook County / elevation 676 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60056-5c3269f3

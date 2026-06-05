@@ -11,26 +11,29 @@ lng: -74.1200
 zipSample: ["07002"]
 zipCodes: ["07002"]
 localPaths: ["Hudson County / elevation 43 ft band", "Hudson County / coords 40.6700, -74.1200", "Hudson County / ZIP 07002 sector", "Hudson County / primary ZIP 07002"]
-zillowHomeValueUsd: 582658
 ---
 
 **Engineering Notice for Bayonne:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hudson County.
 
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Bayonne, NJ coverage windows and verified intake details.
+Parapet coping movement in Bayonne, NJ can channel water behind wall cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bayonne, NJ, but intake notes help reduce delays.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Local conditions in Bayonne, NJ can affect timelines and material choices.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Connection points spot-checked where accessible (ZIP 07002 zone).
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Access points and staging constraints recorded for ZIP 07002 coverage.
+Our Bayonne, NJ dispatch packets reference county grid Hudson County and elevation band 43 ft.
 
-Dispatch sectors sampled: ZIP 07002 (county grid: Hudson County).
+Field routing: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 07002.
+
+On-site sector marker: Hudson County / primary ZIP 07002 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 07002 with multi-ZIP overlap in Bayonne; field packets tag Hudson County for county-grid reconciliation.
 
 Service reference: NJ-07002-9f064598

@@ -11,27 +11,31 @@ lng: -118.2900
 zipSample: ["90502", "90710"]
 zipCodes: ["90502", "90710"]
 localPaths: ["Los Angeles County / elevation 52 ft band", "Los Angeles County / coords 33.8200, -118.2900", "Los Angeles County / ZIP 90710 sector", "Los Angeles County / primary ZIP 90710", "Los Angeles County / ZIP 90502 sector"]
-zillowHomeValueUsd: 843441
 ---
 
 **Engineering Notice for West Carson:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 90710.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-In West Carson, CA, seasonal demand can change scheduling windows.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on West Carson, CA coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 90502/90710 intake.
+Hail bruising on West Carson, CA ridges may not breach felt until the next wind event.
 
-Field note: Connection points spot-checked where accessible (ZIP 90502/90710 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 90502, 90710 (county grid: Los Angeles County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+roof service brief: deck sheathing thickness and attic baffle spacing were cross-checked for the West Carson intake packet.
+
+Primary postal anchor 90710 with multi-ZIP overlap in West Carson; field packets tag Los Angeles County for county-grid reconciliation.
+
+On-site sector marker: Los Angeles County / primary ZIP 90710 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90710-228e6a5d

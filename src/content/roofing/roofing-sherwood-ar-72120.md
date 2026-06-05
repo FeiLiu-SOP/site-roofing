@@ -11,26 +11,29 @@ lng: -92.2000
 zipSample: ["72120", "72076", "72117", "72216"]
 zipCodes: ["72216", "72120", "72117", "72076"]
 localPaths: ["Pulaski County / primary ZIP 72120", "Pulaski County / ZIP 72117 sector", "Pulaski County / coords 34.8500, -92.2000", "Pulaski County / elevation 341 ft band", "Pulaski County / ZIP 72120 sector"]
-zillowHomeValueUsd: 235047
 ---
 
 **Engineering Notice for Sherwood:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Pulaski County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Coastal humidity in Sherwood, AR can slow shingle seal-down after shoulder-season storms.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Sherwood, AR.
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Sherwood, AR attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Sherwood, AR and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 72120/72216/72076.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 72120/72216/72076 zone).
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 72120, 72216, 72076, 72117 (county grid: Pulaski County).
+Scope trace: valley metal gauge plus drip-edge metal profile referenced in Pulaski County county grid review.
+
+On-site sector marker: Pulaski County / ZIP 72216 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Pulaski County / elevation 341 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72120-44cd6c3d

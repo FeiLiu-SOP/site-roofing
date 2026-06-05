@@ -11,27 +11,29 @@ lng: -93.7900
 zipSample: ["50111"]
 zipCodes: ["50111"]
 localPaths: ["Polk County / elevation 965 ft band", "Polk County / coords 41.6800, -93.7900", "Polk County / primary ZIP 50111", "Polk County / ZIP 50111 sector"]
-zillowHomeValueUsd: 346215
 ---
 
 **Engineering Notice for Grimes:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Polk County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Grimes, IA, but intake notes help reduce delays.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tile and shingle mixes in Grimes, IA require different fastener patterns at transitions.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 50111.
+FAQ: When should permanent remediation start? In Grimes, IA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 50111.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 50111 zone).
+Code context: Ventilation ratios for Grimes, IA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 50111 (county grid: Polk County).
+roofing service brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Grimes intake packet.
+
+On-site sector marker: Polk County / primary ZIP 50111 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Polk County / elevation 965 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50111-94696626

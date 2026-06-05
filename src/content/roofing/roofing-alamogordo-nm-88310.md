@@ -11,26 +11,35 @@ lng: -105.9600
 zipSample: ["88310"]
 zipCodes: ["88310"]
 localPaths: ["Otero County / coords 32.8800, -105.9600", "Otero County / elevation 4298 ft band", "Otero County / primary ZIP 88310", "Otero County / ZIP 88310 sector"]
-zillowHomeValueUsd: 221453
 ---
 
 **Engineering Notice for Alamogordo:** Structural loading calculated based on 4298 ft terrain assessment. Regional dispatch grid: Otero County.
 
 
-We coordinate local dispatch coverage around Alamogordo, NM and nearby ZIP sectors.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Alamogordo, NM can fail independently of visible tile cracks.
 
-Homeowners in Alamogordo, NM often face sudden roof service problems that require fast action.
+Freeze-thaw cycles around Alamogordo, NM stress nail pops along eaves and rake edges.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Connection points spot-checked where accessible (ZIP 88310 zone).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 88310 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 88310 (county grid: Otero County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Low-slope sections in Alamogordo, NM need positive drainage before membrane repairs are scoped.
+
+Field routing: ridge cap nail schedule paired with synthetic underlayment slip near ZIP 88310.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 88310.
+
+Primary postal anchor 88310 with multi-ZIP overlap in Alamogordo; field packets tag Otero County for county-grid reconciliation.
+
+On-site sector marker: Otero County / ZIP 88310 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88310-6eca4efb

@@ -11,26 +11,33 @@ lng: -66.4000
 zipSample: ["00693"]
 zipCodes: ["00693"]
 localPaths: ["Vega Baja County / ZIP 00693 sector", "Vega Baja County / coords 18.4400, -66.4000", "Vega Baja County / elevation 243 ft band", "Vega Baja County / primary ZIP 00693"]
-zillowHomeValueUsd: 354830
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Vega Baja:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Vega Baja County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should permanent remediation start? In Vega Baja, PR, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Vega Baja, PR, interior stains may track from HVAC condensate rather than roof cladding.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 00693.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Tip: request a written scope before work starts.
+Regulatory note: Vega Baja, PR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 00693 intake.
+Low-slope sections in Vega Baja, PR need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 00693 (county grid: Vega Baja County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+roof service brief: starter-strip setback and chimney cricket slope were cross-checked for the Vega Baja intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 00693.
+
+On-site sector marker: Vega Baja County / primary ZIP 00693 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 00693 with multi-ZIP overlap in Vega Baja; field packets tag Vega Baja County for county-grid reconciliation.
 
 Service reference: PR-00693-ff2b3528

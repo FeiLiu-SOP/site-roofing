@@ -11,24 +11,35 @@ lng: -89.5100
 zipSample: ["53562"]
 zipCodes: ["53562"]
 localPaths: ["Dane County / ZIP 53562 sector", "Dane County / primary ZIP 53562", "Dane County / coords 43.1100, -89.5100", "Dane County / elevation 935 ft band"]
-zillowHomeValueUsd: 618455
 ---
 
 **Engineering Notice for Middleton:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Dane County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Middleton, WI, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 53562 zone).
+Wind-zone note: Middleton, WI exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 53562 (county grid: Dane County).
+Across Middleton, WI, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Request dry-in and service phases as separate line items. Serving ZIP Code: 53562.
+
+Step: compare shingle manufacturer wind-zone ratings for Middleton, WI exposure class.
+
+Scope trace: soffit intake free area plus ridge cap nail schedule referenced in Dane County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 53562.
+
+On-site sector marker: Dane County / coords 43.1100, -89.5100 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Dane County: moisture and logistics baselines are keyed to Middleton, WI before niche-specific work begins.
 
 Service reference: WI-53562-12c6a4a6

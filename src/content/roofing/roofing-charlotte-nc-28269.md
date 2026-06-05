@@ -11,26 +11,31 @@ lng: -80.8300
 zipSample: ["28221", "28290", "28214", "28207", "28210"]
 zipCodes: ["28205", "28237", "28290", "28255", "28215", "28221", "28278", "28204", "28254", "28130", "28288", "28226"]
 localPaths: ["Mecklenburg County / ZIP 28210 sector", "Mecklenburg County / ZIP 28214 sector", "Mecklenburg County / primary ZIP 28269", "Mecklenburg County / elevation 692 ft band", "Mecklenburg County / coords 35.2100, -80.8300"]
-zillowHomeValueUsd: 359430
 ---
 
 **Engineering Notice for Charlotte:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: map ventilation intake and exhaust pairs for Charlotte, NC attic runs.
 
-We coordinate local dispatch coverage around Charlotte, NC and nearby ZIP sectors.
+Low-slope sections in Charlotte, NC need positive drainage before membrane repairs are scoped.
 
-In Charlotte, NC, urgent roofing service issues can escalate quickly.
+FAQ: Can you tarp only part of the roof? In Charlotte, NC, yes—if slope and anchor points support safe tie-offs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Charlotte, NC, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Charlotte, NC.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28290/28206/28224.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 28290/28206/28224 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 28290, 28206, 28224, 28216, 28246 (county grid: Mecklenburg County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: drip-edge metal profile paired with ice-barrier lap sequence near ZIP 28269.
+
+On-site sector marker: Mecklenburg County / ZIP 28270 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Mecklenburg County / elevation 692 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28269-db0a4c81

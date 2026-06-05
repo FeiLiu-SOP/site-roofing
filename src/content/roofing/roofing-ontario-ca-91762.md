@@ -11,25 +11,33 @@ lng: -117.6100
 zipSample: ["91764", "91762", "91743", "91758", "91761"]
 zipCodes: ["91761", "91758", "91743", "91764", "91762"]
 localPaths: ["San Bernardino County / ZIP 91761 sector", "San Bernardino County / ZIP 91762 sector", "San Bernardino County / ZIP 91764 sector", "San Bernardino County / ZIP 91743 sector", "San Bernardino County / coords 34.0400, -117.6100"]
-zillowHomeValueUsd: 684538
 ---
 
 **Engineering Notice for Ontario:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 91762.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: request a written scope before work starts.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Valley metal in Ontario, CA should be reviewed whenever granule loss tracks the water line.
 
-We coordinate local dispatch coverage around Ontario, CA and nearby ZIP sectors.
+Wind-zone note: Ontario, CA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 91758/91761/91762 zone).
+Risk flag: In Ontario, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 91758, 91761, 91762, 91764, 91743 (county grid: San Bernardino County).
+Step: separate emergency tarp scope from permanent service line items.
+
+Material note: In Ontario, CA, algae-resistant granules may be specified for north-facing slopes.
+
+We coordinate Ontario, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+roof work brief: wind uplift clip spacing and drip-edge metal profile were cross-checked for the Ontario intake packet.
+
+Regional mesh label San Bernardino County: moisture and logistics baselines are keyed to Ontario, CA before niche-specific work begins.
+
+On-site sector marker: San Bernardino County / primary ZIP 91762 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91762-46062029

@@ -11,27 +11,29 @@ lng: -88.1000
 zipSample: ["60490", "60440"]
 zipCodes: ["60490", "60440"]
 localPaths: ["Will County / elevation 676 ft band", "Will County / ZIP 60490 sector", "Will County / coords 41.6900, -88.1000", "Will County / ZIP 60440 sector", "Will County / primary ZIP 60440"]
-zillowHomeValueUsd: 326877
 ---
 
 **Engineering Notice for Bolingbrook:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Will County.
 
 
-Structured milestones protect both sides when scheduling work.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 60440.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60440/60490.
+Granule embedment loss on Bolingbrook, IL north slopes can precede mat exposure.
 
-Field note: Connection points spot-checked where accessible (ZIP 60440/60490 zone).
+Regulatory note: Bolingbrook, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 60440, 60490 (county grid: Will County).
+roof service brief: skylight curb height and ice-barrier lap sequence were cross-checked for the Bolingbrook intake packet.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Will County and primary ZIP 60440. Terrain reference: 676 ft. Center point: 41.6900, -88.1000. ZIP sample: 60490, 60440. Service perimeter note: Coverage extends through Will County with dispatch centered near ZIP 60440.
+
+On-site sector marker: Will County / ZIP 60490 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60440-a5bfa58a

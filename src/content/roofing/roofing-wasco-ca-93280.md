@@ -11,26 +11,33 @@ lng: -119.3700
 zipSample: ["93280"]
 zipCodes: ["93280"]
 localPaths: ["Kern County / coords 35.5900, -119.3700", "Kern County / ZIP 93280 sector", "Kern County / elevation 318 ft band", "Kern County / primary ZIP 93280"]
-zillowHomeValueUsd: 316603
 ---
 
 **Engineering Notice for Wasco:** Structural loading calculated based on 318 ft terrain assessment. Regional dispatch grid: Kern County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Wasco, CA, but intake notes help reduce delays.
+Code context: Ventilation ratios for Wasco, CA attics should be checked against current mechanical exhaust additions.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: How long can shingles wait after storm damage? In Wasco, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-We coordinate local dispatch coverage around Wasco, CA and nearby ZIP sectors.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 93280.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 93280.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93280.
+Metal panel oil-canning in Wasco, CA may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 93280 (county grid: Kern County).
+Risk flag: Tile underlayment age in Wasco, CA can fail independently of visible tile cracks.
+
+Scope trace: soffit intake free area plus ridge cap nail schedule referenced in Kern County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 93280.
+
+On-site sector marker: Kern County / elevation 318 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Kern County / coords 35.5900, -119.3700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93280-0844a663

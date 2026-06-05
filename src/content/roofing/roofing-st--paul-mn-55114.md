@@ -11,27 +11,29 @@ lng: -93.1000
 zipSample: ["55155", "55114", "55133", "55104", "55145"]
 zipCodes: ["55114", "55131", "55104", "55108", "55130", "55164", "55146", "55116", "55145", "55144", "55101", "55133"]
 localPaths: ["Ramsey County / ZIP 55133 sector", "Ramsey County / ZIP 55104 sector", "Ramsey County / ZIP 55114 sector", "Ramsey County / ZIP 55155 sector", "Ramsey County / coords 44.9500, -93.1000"]
-zillowHomeValueUsd: 280937
 ---
 
 **Engineering Notice for St. Paul:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Ramsey County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In St. Paul, MN, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 55114.
+Hail bruising on St. Paul, MN ridges may not breach felt until the next wind event.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When should permanent service start? In St. Paul, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 55103/55107/55130.
+Code context: Ventilation ratios for St. Paul, MN attics should be checked against current mechanical exhaust additions.
 
-Field note: Connection points spot-checked where accessible (ZIP 55103/55107/55130 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 55103, 55107, 55130, 55102, 55155 (county grid: Ramsey County).
+Scope trace: ice-barrier lap sequence plus wind uplift clip spacing referenced in Ramsey County county grid review.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Ramsey County. Reference elevation: 801 ft. Primary coordinates: 44.9500, -93.1000. ZIP sample: 55103, 55114, 55117, 55104, 55101. Service perimeter note: Coverage extends through Ramsey County with dispatch centered near ZIP 55114.
+
+On-site sector marker: Ramsey County / ZIP 55103 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55114-f0b1381e

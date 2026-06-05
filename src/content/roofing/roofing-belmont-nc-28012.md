@@ -11,26 +11,31 @@ lng: -81.0400
 zipSample: ["28012"]
 zipCodes: ["28012"]
 localPaths: ["Gaston County / elevation 709 ft band", "Gaston County / coords 35.2200, -81.0400", "Gaston County / ZIP 28012 sector", "Gaston County / primary ZIP 28012"]
-zillowHomeValueUsd: 418758
 ---
 
 **Engineering Notice for Belmont:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Gaston County.
 
 
-We coordinate local dispatch coverage around Belmont, NC and nearby ZIP sectors.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Local conditions in Belmont, NC can affect timelines and material choices.
+Regulatory note: Belmont, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Belmont, NC, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: In Belmont, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28012.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 28012 intake.
+Across Belmont, NC, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Dispatch sectors sampled: ZIP 28012 (county grid: Gaston County).
+Field routing: pipe boot manufacturer match paired with ridge cap nail schedule near ZIP 28012.
+
+Field note: Shingle seal-down timing logged near ZIP 28012.
+
+On-site sector marker: Gaston County / primary ZIP 28012 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Gaston County / ZIP 28012 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28012-35009805

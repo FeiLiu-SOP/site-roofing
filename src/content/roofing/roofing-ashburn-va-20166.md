@@ -11,24 +11,31 @@ lng: -77.4700
 zipSample: ["20146", "20103", "20104", "20166", "20149"]
 zipCodes: ["20103", "20147", "20149", "20166", "20104", "20146"]
 localPaths: ["Loudoun County / elevation 240 ft band", "Loudoun County / ZIP 20149 sector", "Loudoun County / ZIP 20104 sector", "Loudoun County / ZIP 20103 sector", "Loudoun County / ZIP 20146 sector"]
-zillowHomeValueUsd: 630858
 ---
 
 **Engineering Notice for Ashburn:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Loudoun County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ashburn, VA, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Ashburn, VA attics should be checked against current mechanical exhaust additions.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Homeowners in Ashburn, VA often face sudden roof work problems that require fast action.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 20146/20104/20103 coverage.
+Metal panel oil-canning in Ashburn, VA may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 20146, 20104, 20103, 20149, 20147 (county grid: Loudoun County).
+Step: log deck soundings near vents before tear-off is approved.
+
+Scope trace: drip-edge metal profile plus soffit intake free area referenced in Loudoun County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 20146/20149/20103.
+
+Coordinate-anchored dispatch note: center reference 39.0300, -77.4700 at elevation ~240 ft aligns with Loudoun County intake staging.
+
+On-site sector marker: Loudoun County / ZIP 20147 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20166-0d774425

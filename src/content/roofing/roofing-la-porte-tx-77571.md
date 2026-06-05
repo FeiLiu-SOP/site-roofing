@@ -11,26 +11,31 @@ lng: -95.0500
 zipSample: ["77571", "77572"]
 zipCodes: ["77572", "77571"]
 localPaths: ["Harris County / ZIP 77571 sector", "Harris County / primary ZIP 77571", "Harris County / elevation 23 ft band", "Harris County / ZIP 77572 sector", "Harris County / coords 29.6700, -95.0500"]
-zillowHomeValueUsd: 257136
 ---
 
 **Engineering Notice for La Porte:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Harris County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent service line items.
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for La Porte, TX attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 77571.
 
-In La Porte, TX, seasonal demand can change scheduling windows.
+Synthetic underlayment slip in La Porte, TX is often tied to deck moisture, not wind alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77571/77572.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 77571/77572 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 77571, 77572 (county grid: Harris County).
+roofing service brief: ice-barrier lap sequence and ridge cap nail schedule were cross-checked for the La Porte intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 77571/77572.
+
+ZIP-corridor snapshot for La Porte, TX: sampled sectors include 77571, 77572; county routing grid remains Harris County.
+
+On-site sector marker: Harris County / ZIP 77572 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77571-ee4867e7

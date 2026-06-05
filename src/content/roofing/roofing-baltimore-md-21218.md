@@ -11,26 +11,31 @@ lng: -76.6100
 zipSample: ["21226", "21278", "21275", "21287", "21210"]
 zipCodes: ["21278", "21264", "21270", "21263", "21201", "21273", "21287", "21231", "21217", "21298", "21215", "21281"]
 localPaths: ["Baltimore County / primary ZIP 21218", "Baltimore County / ZIP 21226 sector", "Baltimore County / ZIP 21210 sector", "Baltimore County / ZIP 21275 sector", "Baltimore County / coords 39.3100, -76.6100"]
-zillowHomeValueUsd: 185280
 ---
 
 **Engineering Notice for Baltimore:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Baltimore County.
 
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Transparent pricing helps you compare like-for-like scope items.
+Regulatory note: Baltimore, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Baltimore, MD, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-Our service coordination centers on Baltimore, MD coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Baltimore, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 21210/21287/21224 coverage.
+Material note: In Baltimore, MD, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Wind exposure category reviewed for ZIP sector 21210/21287/21224.
+Tile and shingle mixes in Baltimore, MD require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 21210, 21287, 21224, 21264, 21214 (county grid: Baltimore County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+roof work brief: drip-edge metal profile and ice-barrier lap sequence were cross-checked for the Baltimore intake packet.
+
+On-site sector marker: Baltimore County / ZIP 21239 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Baltimore, MD: sampled sectors include 21210, 21287, 21278, 21226, 21270, 21230, 21233, 21239; county routing grid remains Baltimore County.
 
 Service reference: MD-21218-55a91862

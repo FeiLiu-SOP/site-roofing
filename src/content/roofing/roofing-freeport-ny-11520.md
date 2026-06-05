@@ -11,26 +11,35 @@ lng: -73.5800
 zipSample: ["11520"]
 zipCodes: ["11520"]
 localPaths: ["Nassau County / ZIP 11520 sector", "Nassau County / elevation 26 ft band", "Nassau County / primary ZIP 11520", "Nassau County / coords 40.6500, -73.5800"]
-zillowHomeValueUsd: 652855
 ---
 
 **Engineering Notice for Freeport:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-Our service coordination centers on Freeport, NY coverage windows and verified intake details.
+FAQ: How long can shingles wait after storm damage? In Freeport, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Homeowners in Freeport, NY often face sudden roofing service problems that require fast action.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hail bruising on Freeport, NY ridges may not breach felt until the next wind event.
 
-Tip: address recurring issues early to prevent bigger damage.
+Regulatory note: Freeport, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11520.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Access points and staging constraints recorded for ZIP 11520 coverage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 11520 (county grid: Nassau County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Coastal humidity in Freeport, NY can slow shingle seal-down after shoulder-season storms.
+
+Field routing: deck sheathing thickness paired with starter-strip setback near ZIP 11520.
+
+Field note: Shingle seal-down timing logged near ZIP 11520.
+
+On-site sector marker: Nassau County / ZIP 11520 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Nassau County: moisture and logistics baselines are keyed to Freeport, NY before niche-specific work begins.
 
 Service reference: NY-11520-1098fd06

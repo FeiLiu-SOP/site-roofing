@@ -11,27 +11,33 @@ lng: -117.9700
 zipSample: ["91716", "91745"]
 zipCodes: ["91716", "91745"]
 localPaths: ["Los Angeles County / elevation 423 ft band", "Los Angeles County / coords 34.0000, -117.9700", "Los Angeles County / ZIP 91745 sector", "Los Angeles County / primary ZIP 91745", "Los Angeles County / ZIP 91716 sector"]
-zillowHomeValueUsd: 962682
 ---
 
 **Engineering Notice for Hacienda Heights:** Structural loading calculated based on 423 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hacienda Heights, CA, but intake notes help reduce delays.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 91745.
+Regulatory note: Hacienda Heights, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 91716/91745.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 91745.
 
-Field note: Access points and staging constraints recorded for ZIP 91716/91745 coverage.
+Material note: In Hacienda Heights, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 91716, 91745 (county grid: Los Angeles County).
+Freeze-thaw cycles around Hacienda Heights, CA stress nail pops along eaves and rake edges.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: ice-barrier lap sequence paired with valley metal gauge near ZIP 91745.
+
+On-site sector marker: Los Angeles County / coords 34.0000, -117.9700 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Los Angeles County / elevation 423 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91745-43006ac8

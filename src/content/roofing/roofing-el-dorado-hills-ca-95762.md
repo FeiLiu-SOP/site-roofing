@@ -11,26 +11,33 @@ lng: -121.0500
 zipSample: ["95762", "95682"]
 zipCodes: ["95762", "95682"]
 localPaths: ["El Dorado County / ZIP 95682 sector", "El Dorado County / primary ZIP 95762", "El Dorado County / elevation 1070 ft band", "El Dorado County / coords 38.6700, -121.0500", "El Dorado County / ZIP 95762 sector"]
-zillowHomeValueUsd: 911277
 ---
 
 **Engineering Notice for El Dorado Hills:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: El Dorado County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Our El Dorado Hills, CA dispatch packets reference county grid El Dorado County and elevation band 1070 ft.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in El Dorado Hills, CA, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Low-slope sections in El Dorado Hills, CA need positive drainage before membrane repairs are scoped.
 
-Field note: Moisture pathway inspection logged near ZIP 95762/95682 intake.
+Risk flag: In El Dorado Hills, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 95762/95682 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 95762, 95682 (county grid: El Dorado County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: starter-strip setback plus attic baffle spacing referenced in El Dorado County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 95682/95762.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to El Dorado County. Reference elevation: 1070 ft. Primary coordinates: 38.6700, -121.0500. ZIP sample: 95762, 95682. Logistics priority: Serving residential sectors across El Dorado County and north-east ZIP 95762 grid.
+
+On-site sector marker: El Dorado County / ZIP 95682 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95762-eb958d66

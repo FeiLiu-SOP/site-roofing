@@ -11,24 +11,31 @@ lng: -117.7300
 zipSample: ["91709"]
 zipCodes: ["91709"]
 localPaths: ["San Bernardino County / elevation 965 ft band", "San Bernardino County / ZIP 91709 sector", "San Bernardino County / primary ZIP 91709", "San Bernardino County / coords 33.9500, -117.7300"]
-zillowHomeValueUsd: 997418
 ---
 
 **Engineering Notice for Chino Hills:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Low-slope sections in Chino Hills, CA need positive drainage before membrane repairs are scoped.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Code context: Ventilation ratios for Chino Hills, CA attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Chino Hills, CA and nearby ZIP sectors.
+Risk flag: In Chino Hills, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-In Chino Hills, CA, urgent roof work issues can escalate quickly.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Access points and staging constraints recorded for ZIP 91709 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 91709 (county grid: San Bernardino County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Field routing: starter-strip setback paired with ridge cap nail schedule near ZIP 91709.
+
+Regional mesh label San Bernardino County: moisture and logistics baselines are keyed to Chino Hills, CA before niche-specific work begins.
+
+On-site sector marker: San Bernardino County / coords 33.9500, -117.7300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91709-8eb2e5c7

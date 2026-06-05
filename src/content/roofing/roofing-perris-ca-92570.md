@@ -11,27 +11,29 @@ lng: -117.2200
 zipSample: ["92571", "92570", "92599", "92572"]
 zipCodes: ["92599", "92572", "92571", "92570"]
 localPaths: ["Riverside County / ZIP 92572 sector", "Riverside County / ZIP 92570 sector", "Riverside County / ZIP 92571 sector", "Riverside County / primary ZIP 92570", "Riverside County / ZIP 92599 sector"]
-zillowHomeValueUsd: 580559
 ---
 
 **Engineering Notice for Perris:** Structural loading calculated based on 1437 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-We coordinate local dispatch coverage around Perris, CA and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 92570.
+Valley metal in Perris, CA should be reviewed whenever granule loss tracks the water line.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Perris, CA.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Connection points spot-checked where accessible (ZIP 92570/92571/92572 zone).
+Wind-zone note: Perris, CA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 92570/92571/92572 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 92570, 92571, 92572, 92599 (county grid: Riverside County).
+Scope trace: drip-edge metal profile plus pipe boot manufacturer match referenced in Riverside County county grid review.
+
+ZIP-corridor snapshot for Perris, CA: sampled sectors include 92599, 92571, 92570, 92572; county routing grid remains Riverside County.
+
+On-site sector marker: Riverside County / elevation 1437 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92570-d4abe19d

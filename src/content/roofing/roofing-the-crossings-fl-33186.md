@@ -11,25 +11,35 @@ lng: -80.4000
 zipSample: ["33186"]
 zipCodes: ["33186"]
 localPaths: ["Miami-Dade County / primary ZIP 33186", "Miami-Dade County / coords 25.6700, -80.4000", "Miami-Dade County / ZIP 33186 sector", "Miami-Dade County / elevation 26 ft band"]
-zillowHomeValueUsd: 522079
 ---
 
 **Engineering Notice for The Crossings:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 33186.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in The Crossings, FL, but intake notes help reduce delays.
+Synthetic underlayment slip in The Crossings, FL is often tied to deck moisture, not wind alone.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Moisture pathway inspection logged near ZIP 33186 intake.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 33186 (county grid: Miami-Dade County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Wind-zone note: The Crossings, FL exposure class can change starter-strip and cap nail schedules.
+
+Field routing: shingle exposure calibration paired with wind uplift clip spacing near ZIP 33186.
+
+Field note: Valley debris and granule loss noted for ZIP 33186.
+
+Primary postal anchor 33186 with multi-ZIP overlap in The Crossings; field packets tag Miami-Dade County for county-grid reconciliation.
+
+On-site sector marker: Miami-Dade County / primary ZIP 33186 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33186-fe980f05

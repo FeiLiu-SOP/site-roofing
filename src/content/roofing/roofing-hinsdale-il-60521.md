@@ -11,25 +11,29 @@ lng: -87.9300
 zipSample: ["60521"]
 zipCodes: ["60521"]
 localPaths: ["DuPage County / primary ZIP 60521", "DuPage County / coords 41.8000, -87.9300", "DuPage County / ZIP 60521 sector", "DuPage County / elevation 728 ft band"]
-zillowHomeValueUsd: 1210405
 ---
 
 **Engineering Notice for Hinsdale:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: DuPage County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Hinsdale, IL can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hinsdale, IL, but intake notes help reduce delays.
+Metal panel oil-canning in Hinsdale, IL may signal clip spacing issues, not wind damage alone.
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Hinsdale, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 60521.
+Our Hinsdale, IL dispatch packets reference county grid DuPage County and elevation band 728 ft.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Moisture pathway inspection logged near ZIP 60521 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 60521 (county grid: DuPage County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in DuPage County county grid review.
+
+On-site sector marker: DuPage County / primary ZIP 60521 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Service coverage aligns with DuPage County and primary ZIP 60521. Terrain reference: 728 ft. Center point: 41.8000, -87.9300. ZIP sample: 60521. Service perimeter note: Coverage extends through DuPage County with dispatch centered near ZIP 60521.
 
 Service reference: IL-60521-3d8157d7

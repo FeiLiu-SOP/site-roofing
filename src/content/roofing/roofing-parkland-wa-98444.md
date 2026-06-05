@@ -11,26 +11,33 @@ lng: -122.4400
 zipSample: ["98445", "98444", "98447"]
 zipCodes: ["98444", "98447", "98445"]
 localPaths: ["Pierce County / ZIP 98444 sector", "Pierce County / ZIP 98445 sector", "Pierce County / coords 47.1400, -122.4400", "Pierce County / elevation 292 ft band", "Pierce County / primary ZIP 98444"]
-zillowHomeValueUsd: 447005
 ---
 
 **Engineering Notice for Parkland:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Pierce County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In Parkland, WA, yes—if slope and anchor points support safe tie-offs.
 
-Our service coordination centers on Parkland, WA coverage windows and verified intake details.
+Granule embedment loss on Parkland, WA north slopes can precede mat exposure.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Tile underlayment age in Parkland, WA can fail independently of visible tile cracks.
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for Parkland, WA attics should be checked against current mechanical exhaust additions.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: In Parkland, WA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Access points and staging constraints recorded for ZIP 98445/98444/98447 coverage.
+Tip: Note recent wind events when filing insurance photos for Parkland, WA.
 
-Field note: Connection points spot-checked where accessible (ZIP 98445/98444/98447 zone).
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 98445, 98444, 98447 (county grid: Pierce County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: attic baffle spacing plus shingle exposure calibration referenced in Pierce County county grid review.
+
+On-site sector marker: Pierce County / ZIP 98445 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Pierce County / ZIP 98447 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98444-bd956bd2

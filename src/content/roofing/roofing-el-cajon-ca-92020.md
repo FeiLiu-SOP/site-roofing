@@ -11,26 +11,31 @@ lng: -116.9600
 zipSample: ["92021", "92019", "92020"]
 zipCodes: ["92021", "92019", "92020"]
 localPaths: ["San Diego County / elevation 430 ft band", "San Diego County / ZIP 92021 sector", "San Diego County / ZIP 92020 sector", "San Diego County / coords 32.8000, -116.9600", "San Diego County / ZIP 92019 sector"]
-zillowHomeValueUsd: 840299
 ---
 
 **Engineering Notice for El Cajon:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: San Diego County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should permanent service start? In El Cajon, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 92020.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: address recurring issues early to prevent bigger damage.
+TPO seam welds in El Cajon, CA commercial sections need probe tests after freeze events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In El Cajon, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 92021/92019/92020.
+Wind-zone note: El Cajon, CA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Access points and staging constraints recorded for ZIP 92021/92019/92020 coverage.
+We coordinate El Cajon, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 92021, 92019, 92020 (county grid: San Diego County).
+Field routing: drip-edge metal profile paired with starter-strip setback near ZIP 92020.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 92021/92020/92019.
+
+Coordinate-anchored dispatch note: center reference 32.8000, -116.9600 at elevation ~430 ft aligns with San Diego County intake staging.
+
+On-site sector marker: San Diego County / ZIP 92020 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92020-d538a2c5

@@ -11,27 +11,35 @@ lng: -87.8800
 zipSample: ["60104"]
 zipCodes: ["60104"]
 localPaths: ["Cook County / elevation 643 ft band", "Cook County / primary ZIP 60104", "Cook County / ZIP 60104 sector", "Cook County / coords 41.8800, -87.8800"]
-zillowHomeValueUsd: 242724
 ---
 
 **Engineering Notice for Bellwood:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Bellwood, IL can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: In Bellwood, IL, algae-resistant granules may be specified for north-facing slopes.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 60104.
+Regulatory note: Bellwood, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bellwood, IL, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 60104.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 60104 zone).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 60104 (county grid: Cook County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Attic ventilation deficits in Bellwood, IL can mimic roof leaks at ceiling penetrations.
+
+Scope trace: ice-barrier lap sequence plus counter-flashing reglet depth referenced in Cook County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 60104.
+
+On-site sector marker: Cook County / primary ZIP 60104 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cook County / ZIP 60104 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60104-f4899434

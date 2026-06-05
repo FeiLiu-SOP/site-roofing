@@ -11,24 +11,31 @@ lng: -120.6600
 zipSample: ["93447", "93446"]
 zipCodes: ["93447", "93446"]
 localPaths: ["San Luis Obispo County / primary ZIP 93446", "San Luis Obispo County / ZIP 93446 sector", "San Luis Obispo County / coords 35.6400, -120.6600", "San Luis Obispo County / elevation 840 ft band", "San Luis Obispo County / ZIP 93447 sector"]
-zillowHomeValueUsd: 772319
 ---
 
 **Engineering Notice for El Paso de Robles:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: San Luis Obispo County.
 
 
-Local conditions in El Paso de Robles, CA can affect timelines and material choices.
+Synthetic underlayment slip in El Paso de Robles, CA is often tied to deck moisture, not wind alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map ventilation intake and exhaust pairs for El Paso de Robles, CA attic runs.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In El Paso de Robles, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 93446/93447 coverage.
+Regulatory note: El Paso de Robles, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 93446, 93447 (county grid: San Luis Obispo County).
+FAQ: How long can shingles wait after storm damage? In El Paso de Robles, CA, delayed dry-in can expand insulation and ceiling repairs.
+
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 93446.
+
+roof work brief: ridge cap nail schedule and attic baffle spacing were cross-checked for the El Paso de Robles intake packet.
+
+Regional mesh label San Luis Obispo County: moisture and logistics baselines are keyed to El Paso de Robles, CA before niche-specific work begins.
+
+On-site sector marker: San Luis Obispo County / ZIP 93447 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93446-013a0771

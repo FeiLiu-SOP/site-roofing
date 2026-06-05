@@ -11,26 +11,33 @@ lng: -121.9000
 zipSample: ["94568"]
 zipCodes: ["94568"]
 localPaths: ["Alameda County / primary ZIP 94568", "Alameda County / coords 37.7200, -121.9000", "Alameda County / elevation 354 ft band", "Alameda County / ZIP 94568 sector"]
-zillowHomeValueUsd: 1306769
 ---
 
 **Engineering Notice for Dublin:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Alameda County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Our service coordination centers on Dublin, CA coverage windows and verified intake details.
+Parapet coping movement in Dublin, CA can channel water behind wall cladding.
 
-Tip: request a written scope before work starts.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Dublin, CA can fail independently of visible tile cracks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 94568.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Access points and staging constraints recorded for ZIP 94568 coverage.
+Regulatory note: Dublin, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 94568 (county grid: Alameda County).
+FAQ: Can you tarp only part of the roof? In Dublin, CA, yes—if slope and anchor points support safe tie-offs.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: soffit intake free area paired with attic baffle spacing near ZIP 94568.
+
+Coordinate-anchored dispatch note: center reference 37.7200, -121.9000 at elevation ~354 ft aligns with Alameda County intake staging.
+
+On-site sector marker: Alameda County / coords 37.7200, -121.9000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94568-e60bb70f

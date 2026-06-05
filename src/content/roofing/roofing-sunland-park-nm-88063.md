@@ -11,27 +11,31 @@ lng: -106.6000
 zipSample: ["88063", "88008", "79922"]
 zipCodes: ["88063", "88008", "79922"]
 localPaths: ["Doña Ana County / ZIP 88063 sector", "Doña Ana County / primary ZIP 88063", "Doña Ana County / ZIP 79922 sector", "Doña Ana County / elevation 3720 ft band", "Doña Ana County / coords 31.8200, -106.6000"]
-zillowHomeValueUsd: 248228
 ---
 
 **Engineering Notice for Sunland Park:** Structural loading calculated based on 3720 ft terrain assessment. Regional dispatch grid: Doña Ana County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 88063.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: request a written scope before work starts.
+FAQ: How long can shingles wait after storm damage? In Sunland Park, NM, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 88008/88063/79922.
+Code context: Ventilation ratios for Sunland Park, NM attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 88008/88063/79922.
+Risk flag: Tile underlayment age in Sunland Park, NM can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 88008, 88063, 79922 (county grid: Doña Ana County).
+Skylight curb flashing in Sunland Park, NM should be sequenced before ridge cap replacement.
+
+Field routing: shingle exposure calibration paired with skylight curb height near ZIP 88063.
+
+Regional mesh label Doña Ana County: moisture and logistics baselines are keyed to Sunland Park, NM before niche-specific work begins.
+
+On-site sector marker: Doña Ana County / ZIP 88008 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88063-8cc052dc

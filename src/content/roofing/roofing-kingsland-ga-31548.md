@@ -11,25 +11,29 @@ lng: -81.7200
 zipSample: ["31548"]
 zipCodes: ["31548"]
 localPaths: ["Camden County / coords 30.8200, -81.7200", "Camden County / ZIP 31548 sector", "Camden County / primary ZIP 31548", "Camden County / elevation 62 ft band"]
-zillowHomeValueUsd: 297349
 ---
 
 **Engineering Notice for Kingsland:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Camden County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 31548.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Note recent wind events when filing insurance photos for Kingsland, GA.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In Kingsland, GA, urgent roof service issues can escalate quickly.
+Granule embedment loss on Kingsland, GA north slopes can precede mat exposure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 31548 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 31548 (county grid: Camden County).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
+
+Field routing: ridge cap nail schedule paired with skylight curb height near ZIP 31548.
+
+On-site sector marker: Camden County / coords 30.8200, -81.7200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Camden County / elevation 62 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31548-ec1bd20c

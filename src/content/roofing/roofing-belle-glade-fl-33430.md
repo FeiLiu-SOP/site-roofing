@@ -11,26 +11,35 @@ lng: -80.6700
 zipSample: ["33430"]
 zipCodes: ["33430"]
 localPaths: ["Palm Beach County / ZIP 33430 sector", "Palm Beach County / elevation 30 ft band", "Palm Beach County / primary ZIP 33430", "Palm Beach County / coords 26.6900, -80.6700"]
-zillowHomeValueUsd: 285369
 ---
 
 **Engineering Notice for Belle Glade:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Palm Beach County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Belle Glade, FL.
 
-Tip: avoid large upfront payments without milestones.
+We coordinate Belle Glade, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-We coordinate local dispatch coverage around Belle Glade, FL and nearby ZIP sectors.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 33430.
+TPO seam welds in Belle Glade, FL commercial sections need probe tests after freeze events.
 
-Field note: Access points and staging constraints recorded for ZIP 33430 coverage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 33430 (county grid: Palm Beach County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Field routing: starter-strip setback paired with ridge cap nail schedule near ZIP 33430.
+
+Field note: Attic moisture pathway scan referenced ZIP 33430.
+
+On-site sector marker: Palm Beach County / elevation 30 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Palm Beach County / primary ZIP 33430 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33430-937e355d

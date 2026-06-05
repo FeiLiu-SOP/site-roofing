@@ -11,24 +11,29 @@ lng: -90.8100
 zipSample: ["70310", "70301"]
 zipCodes: ["70301", "70310"]
 localPaths: ["Lafourche Parish / elevation 33 ft band", "Lafourche Parish / ZIP 70310 sector", "Lafourche Parish / ZIP 70301 sector", "Lafourche Parish / coords 29.7900, -90.8100", "Lafourche Parish / primary ZIP 70301"]
-zillowHomeValueUsd: 224507
 ---
 
 **Engineering Notice for Thibodaux:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Lafourche Parish.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Can you tarp only part of the roof? In Thibodaux, LA, yes—if slope and anchor points support safe tie-offs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Low-slope sections in Thibodaux, LA need positive drainage before membrane repairs are scoped.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70301/70310.
+Regulatory note: Thibodaux, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 70301, 70310 (county grid: Lafourche Parish).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Scope trace: synthetic underlayment slip plus chimney cricket slope referenced in Lafourche Parish county grid review.
+
+Primary postal anchor 70301 with multi-ZIP overlap in Thibodaux; field packets tag Lafourche Parish for county-grid reconciliation.
+
+On-site sector marker: Lafourche Parish / elevation 33 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70301-a72fba9b

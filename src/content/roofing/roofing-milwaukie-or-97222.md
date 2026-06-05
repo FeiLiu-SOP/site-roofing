@@ -11,26 +11,31 @@ lng: -122.6200
 zipSample: ["97269", "97222"]
 zipCodes: ["97269", "97222"]
 localPaths: ["Clackamas County / ZIP 97269 sector", "Clackamas County / ZIP 97222 sector", "Clackamas County / coords 45.4400, -122.6200", "Clackamas County / primary ZIP 97222", "Clackamas County / elevation 154 ft band"]
-zillowHomeValueUsd: 495448
 ---
 
 **Engineering Notice for Milwaukie:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Clackamas County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: address recurring issues early to prevent bigger damage.
+Regulatory note: Milwaukie, OR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Milwaukie, OR, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97222/97269.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Connection points spot-checked where accessible (ZIP 97222/97269 zone).
+FAQ: How long can shingles wait after storm damage? In Milwaukie, OR, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 97222, 97269 (county grid: Clackamas County).
+Wood shake courses in Milwaukie, OR require skip-spacing rules at valleys.
+
+Field routing: pipe boot manufacturer match paired with counter-flashing reglet depth near ZIP 97222.
+
+On-site sector marker: Clackamas County / elevation 154 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Clackamas County / primary ZIP 97222 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97222-c6308a49

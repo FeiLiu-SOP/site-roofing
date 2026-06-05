@@ -11,26 +11,35 @@ lng: -94.3500
 zipSample: ["75670", "75672"]
 zipCodes: ["75670", "75672"]
 localPaths: ["Harrison County / coords 32.5400, -94.3500", "Harrison County / ZIP 75672 sector", "Harrison County / primary ZIP 75672", "Harrison County / elevation 354 ft band", "Harrison County / ZIP 75670 sector"]
-zillowHomeValueUsd: 209916
 ---
 
 **Engineering Notice for Marshall:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Harrison County.
 
 
-Our service coordination centers on Marshall, TX coverage windows and verified intake details.
+Granule embedment loss on Marshall, TX north slopes can precede mat exposure.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent service line items.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75672/75670.
+Wind-zone note: Marshall, TX exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 75672/75670 zone).
+Parapet coping movement in Marshall, TX can channel water behind wall cladding.
 
-Dispatch sectors sampled: ZIP 75672, 75670 (county grid: Harrison County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof service brief: counter-flashing reglet depth and attic baffle spacing were cross-checked for the Marshall intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 75670/75672.
+
+ZIP-corridor snapshot for Marshall, TX: sampled sectors include 75670, 75672; county routing grid remains Harrison County.
+
+On-site sector marker: Harrison County / elevation 354 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75672-9c850045

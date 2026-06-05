@@ -11,24 +11,29 @@ lng: -73.0400
 zipSample: ["11742", "00544", "00501"]
 zipCodes: ["00501", "11742", "00544"]
 localPaths: ["Suffolk County / ZIP 00544 sector", "Suffolk County / primary ZIP 11742", "Suffolk County / ZIP 11742 sector", "Suffolk County / elevation 98 ft band", "Suffolk County / ZIP 00501 sector"]
-zillowHomeValueUsd: 630841
 ---
 
 **Engineering Notice for Holtsville:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Wind-zone note: Holtsville, NY exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Holtsville, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Synthetic underlayment slip in Holtsville, NY is often tied to deck moisture, not wind alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 00501/11742/00544.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 00501, 11742, 00544 (county grid: Suffolk County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Field routing: attic baffle spacing paired with pipe boot manufacturer match near ZIP 11742.
+
+On-site sector marker: Suffolk County / coords 40.8100, -73.0400 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Suffolk County / ZIP 11742 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11742-3b99a5f8

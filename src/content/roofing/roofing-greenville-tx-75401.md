@@ -11,24 +11,31 @@ lng: -96.1100
 zipSample: ["75402", "75401"]
 zipCodes: ["75401", "75402"]
 localPaths: ["Hunt County / ZIP 75402 sector", "Hunt County / coords 33.1100, -96.1100", "Hunt County / primary ZIP 75401", "Hunt County / elevation 577 ft band", "Hunt County / ZIP 75401 sector"]
-zillowHomeValueUsd: 200646
 ---
 
 **Engineering Notice for Greenville:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Hunt County.
 
 
-We coordinate local dispatch coverage around Greenville, TX and nearby ZIP sectors.
+Granule embedment loss on Greenville, TX north slopes can precede mat exposure.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Greenville, TX.
 
-Transparent pricing helps you compare like-for-like scope items.
+Wind-zone note: Greenville, TX exposure class can change starter-strip and cap nail schedules.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Greenville, TX, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 75402/75401 intake.
+We coordinate Greenville, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 75402, 75401 (county grid: Hunt County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: skylight curb height plus shingle exposure calibration referenced in Hunt County county grid review.
+
+ZIP-corridor snapshot for Greenville, TX: sampled sectors include 75401, 75402; county routing grid remains Hunt County.
+
+On-site sector marker: Hunt County / ZIP 75401 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75401-fe870daa

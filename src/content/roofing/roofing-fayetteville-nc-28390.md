@@ -11,27 +11,31 @@ lng: -78.9800
 zipSample: ["28301", "28310", "28311", "28305", "28302"]
 zipCodes: ["28301", "28303", "28309", "28304", "28390", "28302", "28310", "28307", "28308", "28311", "28305", "28306"]
 localPaths: ["Cumberland County / elevation 233 ft band", "Cumberland County / ZIP 28305 sector", "Cumberland County / ZIP 28302 sector", "Cumberland County / coords 35.0900, -78.9800", "Cumberland County / ZIP 28310 sector"]
-zillowHomeValueUsd: 248000
 ---
 
 **Engineering Notice for Fayetteville:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Cumberland County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Attic ventilation deficits in Fayetteville, NC can mimic roof leaks at ceiling penetrations.
 
-Tip: avoid large upfront payments without milestones.
+Step: map ventilation intake and exhaust pairs for Fayetteville, NC attic runs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 28390.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Fayetteville, NC coverage windows and verified intake details.
+Risk flag: In Fayetteville, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 28306/28390/28302 coverage.
+FAQ: How long can shingles wait after storm damage? In Fayetteville, NC, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 28306/28390/28302 intake.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 28306, 28390, 28302, 28314, 28310 (county grid: Cumberland County).
+Tip: Note recent wind events when filing insurance photos for Fayetteville, NC.
+
+Scope trace: skylight curb height plus ice-barrier lap sequence referenced in Cumberland County county grid review.
+
+On-site sector marker: Cumberland County / ZIP 28305 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 28390 with multi-ZIP overlap in Fayetteville; field packets tag Cumberland County for county-grid reconciliation.
 
 Service reference: NC-28390-d307aa06

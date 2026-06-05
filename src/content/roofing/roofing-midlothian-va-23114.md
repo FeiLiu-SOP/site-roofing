@@ -11,26 +11,31 @@ lng: -77.6500
 zipSample: ["23114", "23113"]
 zipCodes: ["23114", "23113"]
 localPaths: ["Chesterfield County / ZIP 23113 sector", "Chesterfield County / coords 37.4900, -77.6500", "Chesterfield County / primary ZIP 23114", "Chesterfield County / ZIP 23114 sector", "Chesterfield County / elevation 285 ft band"]
-zillowHomeValueUsd: 466266
 ---
 
 **Engineering Notice for Midlothian:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Chesterfield County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-We coordinate local dispatch coverage around Midlothian, VA and nearby ZIP sectors.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Note recent wind events when filing insurance photos for Midlothian, VA.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Midlothian, VA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 23114/23113 zone).
+Parapet coping movement in Midlothian, VA can channel water behind wall cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 23114/23113.
+Risk flag: Tile underlayment age in Midlothian, VA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 23114, 23113 (county grid: Chesterfield County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: soffit intake free area paired with drip-edge metal profile near ZIP 23114.
+
+ZIP-corridor snapshot for Midlothian, VA: sampled sectors include 23114, 23113; county routing grid remains Chesterfield County.
+
+Regional mesh label Chesterfield County: moisture and logistics baselines are keyed to Midlothian, VA before niche-specific work begins.
 
 Service reference: VA-23114-6f9c6ce3

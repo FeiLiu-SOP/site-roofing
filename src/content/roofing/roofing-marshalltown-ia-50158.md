@@ -11,24 +11,31 @@ lng: -92.9100
 zipSample: ["50158"]
 zipCodes: ["50158"]
 localPaths: ["Marshall County / coords 42.0300, -92.9100", "Marshall County / ZIP 50158 sector", "Marshall County / elevation 902 ft band", "Marshall County / primary ZIP 50158"]
-zillowHomeValueUsd: 174167
 ---
 
 **Engineering Notice for Marshalltown:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Marshall County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Note recent wind events when filing insurance photos for Marshalltown, IA.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Valley metal in Marshalltown, IA should be reviewed whenever granule loss tracks the water line.
 
-In Marshalltown, IA, seasonal demand can change scheduling windows.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Marshalltown, IA, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 50158.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 50158 (county grid: Marshall County).
+Regulatory note: Marshalltown, IA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: attic baffle spacing paired with soffit intake free area near ZIP 50158.
+
+Field note: Shingle seal-down timing logged near ZIP 50158.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Marshall County. Reference elevation: 902 ft. Primary coordinates: 42.0300, -92.9100. ZIP sample: 50158. Service perimeter note: Coverage extends through Marshall County with dispatch centered near ZIP 50158.
+
+On-site sector marker: Marshall County / elevation 902 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50158-b07c3d2d

@@ -11,26 +11,31 @@ lng: -77.4500
 zipSample: ["20151", "20153"]
 zipCodes: ["20153", "20151"]
 localPaths: ["Fairfax County / ZIP 20151 sector", "Fairfax County / ZIP 20153 sector", "Fairfax County / elevation 285 ft band", "Fairfax County / coords 38.8900, -77.4500", "Fairfax County / primary ZIP 20151"]
-zillowHomeValueUsd: 763349
 ---
 
 **Engineering Notice for Chantilly:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Chantilly, VA, but intake notes help reduce delays.
+Material note: In Chantilly, VA, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Chantilly, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+Wind-zone note: Chantilly, VA exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Coastal humidity in Chantilly, VA can slow shingle seal-down after shoulder-season storms.
 
-Field note: Wind exposure category reviewed for ZIP sector 20153/20151.
+Tip: Note recent wind events when filing insurance photos for Chantilly, VA.
 
-Field note: Connection points spot-checked where accessible (ZIP 20153/20151 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 20153, 20151 (county grid: Fairfax County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+roof work brief: deck sheathing thickness and counter-flashing reglet depth were cross-checked for the Chantilly intake packet.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Fairfax County. Reference elevation: 285 ft. Primary coordinates: 38.8900, -77.4500. ZIP sample: 20151, 20153. Service perimeter note: Coverage extends through Fairfax County with dispatch centered near ZIP 20151.
+
+On-site sector marker: Fairfax County / coords 38.8900, -77.4500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20151-70921660

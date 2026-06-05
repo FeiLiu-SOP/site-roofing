@@ -11,27 +11,33 @@ lng: -90.3300
 zipSample: ["63195", "63105", "63199"]
 zipCodes: ["63105", "63199", "63195"]
 localPaths: ["St. Louis County / coords 38.6400, -90.3300", "St. Louis County / primary ZIP 63105", "St. Louis County / ZIP 63105 sector", "St. Louis County / elevation 581 ft band", "St. Louis County / ZIP 63199 sector"]
-zillowHomeValueUsd: 795352
 ---
 
 **Engineering Notice for Clayton:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 63105.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Clayton, MO, but intake notes help reduce delays.
+Wind-zone note: Clayton, MO exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wood shake courses in Clayton, MO require skip-spacing rules at valleys.
 
-We coordinate local dispatch coverage around Clayton, MO and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Clayton, MO can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 63195/63105/63199.
+Step: compare shingle manufacturer wind-zone ratings for Clayton, MO exposure class.
 
-Field note: Moisture pathway inspection logged near ZIP 63195/63105/63199 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 63195, 63105, 63199 (county grid: St. Louis County).
+Material note: In Clayton, MO, algae-resistant granules may be specified for north-facing slopes.
+
+Scope trace: valley metal gauge plus drip-edge metal profile referenced in St. Louis County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 63199/63195/63105.
+
+On-site sector marker: St. Louis County / ZIP 63105 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Louis County / ZIP 63195 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63105-bf5c913c

@@ -11,24 +11,33 @@ lng: -93.8000
 zipSample: ["50325"]
 zipCodes: ["50325"]
 localPaths: ["Polk County / primary ZIP 50325", "Polk County / elevation 883 ft band", "Polk County / coords 41.6100, -93.8000", "Polk County / ZIP 50325 sector"]
-zillowHomeValueUsd: 428779
 ---
 
 **Engineering Notice for Clive:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Polk County.
 
 
-Structured milestones protect both sides when scheduling work.
+Skylight curb flashing in Clive, IA should be sequenced before ridge cap replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: In Clive, IA, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 50325.
+Our Clive, IA dispatch packets reference county grid Polk County and elevation band 883 ft.
 
-Dispatch sectors sampled: ZIP 50325 (county grid: Polk County).
+Regulatory note: Clive, IA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Step: log deck soundings near vents before tear-off is approved.
+
+Scope trace: chimney cricket slope plus deck sheathing thickness referenced in Polk County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 50325.
+
+On-site sector marker: Polk County / ZIP 50325 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Polk County: moisture and logistics baselines are keyed to Clive, IA before niche-specific work begins.
 
 Service reference: IA-50325-368c2c93

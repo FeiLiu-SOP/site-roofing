@@ -11,25 +11,35 @@ lng: -84.8400
 zipSample: ["30157", "30132"]
 zipCodes: ["30132", "30157"]
 localPaths: ["Paulding County / ZIP 30132 sector", "Paulding County / primary ZIP 30132", "Paulding County / coords 33.9200, -84.8400", "Paulding County / ZIP 30157 sector", "Paulding County / elevation 978 ft band"]
-zillowHomeValueUsd: 376507
 ---
 
 **Engineering Notice for Dallas:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Paulding County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Granule embedment loss on Dallas, GA north slopes can precede mat exposure.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 30132.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Clear documentation helps align materials, labor, and timeline.
+Synthetic underlayment slip in Dallas, GA is often tied to deck moisture, not wind alone.
 
-Field note: Access points and staging constraints recorded for ZIP 30157/30132 coverage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 30157, 30132 (county grid: Paulding County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Code context: Ventilation ratios for Dallas, GA attics should be checked against current mechanical exhaust additions.
+
+roof service brief: pipe boot manufacturer match and wind uplift clip spacing were cross-checked for the Dallas intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 30132/30157.
+
+On-site sector marker: Paulding County / elevation 978 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Paulding County. Reference elevation: 978 ft. Primary coordinates: 33.9200, -84.8400. ZIP sample: 30157, 30132. Logistics priority: Serving residential sectors across Paulding County and north-east ZIP 30132 grid.
 
 Service reference: GA-30132-8149f30f

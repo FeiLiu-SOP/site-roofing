@@ -11,24 +11,31 @@ lng: -117.4700
 zipSample: ["92883"]
 zipCodes: ["92883"]
 localPaths: ["Riverside County / ZIP 92883 sector", "Riverside County / coords 33.7600, -117.4700", "Riverside County / primary ZIP 92883", "Riverside County / elevation 1152 ft band"]
-zillowHomeValueUsd: 761443
 ---
 
 **Engineering Notice for Temescal Valley:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Temescal Valley, CA, but intake notes help reduce delays.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: request a written scope before work starts.
+Regulatory note: Temescal Valley, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How long can shingles wait after storm damage? In Temescal Valley, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 92883 zone).
+Parapet coping movement in Temescal Valley, CA can channel water behind wall cladding.
 
-Dispatch sectors sampled: ZIP 92883 (county grid: Riverside County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roofing service brief: drip-edge metal profile and skylight curb height were cross-checked for the Temescal Valley intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 92883.
+
+ZIP-corridor snapshot for Temescal Valley, CA: sampled sectors include 92883; county routing grid remains Riverside County.
+
+On-site sector marker: Riverside County / primary ZIP 92883 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92883-003ecbd8

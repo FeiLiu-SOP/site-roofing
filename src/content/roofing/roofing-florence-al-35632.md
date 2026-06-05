@@ -11,27 +11,33 @@ lng: -87.6700
 zipSample: ["35633", "35631", "35630", "35632"]
 zipCodes: ["35630", "35632", "35633", "35631"]
 localPaths: ["Lauderdale County / ZIP 35631 sector", "Lauderdale County / coords 34.8300, -87.6700", "Lauderdale County / elevation 610 ft band", "Lauderdale County / ZIP 35630 sector", "Lauderdale County / ZIP 35633 sector"]
-zillowHomeValueUsd: 174226
 ---
 
 **Engineering Notice for Florence:** Structural loading calculated based on 610 ft terrain assessment. Regional dispatch grid: Lauderdale County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Freeze-thaw cycles around Florence, AL stress nail pops along eaves and rake edges.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 35632.
+Material note: In Florence, AL, algae-resistant granules may be specified for north-facing slopes.
 
-Homeowners in Florence, AL often face sudden roofing service problems that require fast action.
+FAQ: Is partial dry-in possible? In Florence, AL, yes—if slope and anchor points support safe tie-offs.
 
-Tip: avoid large upfront payments without milestones.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Florence, AL, but intake notes help reduce delays.
+Regulatory note: Florence, AL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 35631/35633/35630 intake.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Connection points spot-checked where accessible (ZIP 35631/35633/35630 zone).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 35631, 35633, 35630, 35632 (county grid: Lauderdale County).
+Risk flag: Tile underlayment age in Florence, AL can fail independently of visible tile cracks.
+
+Field routing: soffit intake free area paired with attic baffle spacing near ZIP 35632.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 35630/35633/35632.
+
+On-site sector marker: Lauderdale County / ZIP 35631 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Lauderdale County / ZIP 35632 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35632-68a43bb0

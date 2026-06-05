@@ -11,26 +11,35 @@ lng: -70.9400
 zipSample: ["02744", "02742", "02741", "02745", "02740"]
 zipCodes: ["02741", "02744", "02746", "02740", "02745", "02742"]
 localPaths: ["Bristol County / primary ZIP 02740", "Bristol County / ZIP 02741 sector", "Bristol County / coords 41.6700, -70.9400", "Bristol County / elevation 85 ft band", "Bristol County / ZIP 02742 sector"]
-zillowHomeValueUsd: 419939
 ---
 
 **Engineering Notice for New Bedford:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Bristol County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Bedford, MA, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on New Bedford, MA coverage windows and verified intake details.
+Attic ventilation deficits in New Bedford, MA can mimic roof leaks at ceiling penetrations.
 
-In New Bedford, MA, seasonal demand can change scheduling windows.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Is partial dry-in possible? In New Bedford, MA, yes—if slope and anchor points support safe tie-offs.
 
-Tip: request a written scope before work starts.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 02741/02740/02744.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Moisture pathway inspection logged near ZIP 02741/02740/02744 intake.
+Risk flag: Tile underlayment age in New Bedford, MA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 02741, 02740, 02744, 02746, 02742 (county grid: Bristol County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: deck sheathing thickness plus ridge cap nail schedule referenced in Bristol County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 02740/02746/02742.
+
+Primary postal anchor 02740 with multi-ZIP overlap in New Bedford; field packets tag Bristol County for county-grid reconciliation.
+
+On-site sector marker: Bristol County / ZIP 02741 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-02740-696bb3ce

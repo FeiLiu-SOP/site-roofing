@@ -11,27 +11,33 @@ lng: -122.9000
 zipSample: ["98502", "98507", "98506", "98504", "98501"]
 zipCodes: ["98506", "98501", "98508", "98502", "98504", "98507"]
 localPaths: ["Thurston County / ZIP 98504 sector", "Thurston County / primary ZIP 98502", "Thurston County / ZIP 98501 sector", "Thurston County / ZIP 98506 sector", "Thurston County / elevation 30 ft band"]
-zillowHomeValueUsd: 574235
 ---
 
 **Engineering Notice for Olympia:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Thurston County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Olympia, WA, but intake notes help reduce delays.
+Tile and shingle mixes in Olympia, WA require different fastener patterns at transitions.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: compare shingle manufacturer wind-zone ratings for Olympia, WA exposure class.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 98502.
+Code context: Ventilation ratios for Olympia, WA attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98501/98506/98504.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 98501/98506/98504 zone).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 98501, 98506, 98504, 98507, 98508 (county grid: Thurston County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roofing service brief: chimney cricket slope and valley metal gauge were cross-checked for the Olympia intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 98507/98508/98502.
+
+On-site sector marker: Thurston County / ZIP 98508 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Thurston County / primary ZIP 98502 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98502-2d3580be

@@ -11,26 +11,33 @@ lng: -112.1600
 zipSample: ["84044"]
 zipCodes: ["84044"]
 localPaths: ["Salt Lake County / coords 40.7600, -112.1600", "Salt Lake County / primary ZIP 84044", "Salt Lake County / elevation 4229 ft band", "Salt Lake County / ZIP 84044 sector"]
-zillowHomeValueUsd: 448969
 ---
 
 **Engineering Notice for Magna:** Structural loading calculated based on 4229 ft terrain assessment. Regional dispatch grid: Salt Lake County.
 
 
-In Magna, UT, urgent roofing service issues can escalate quickly.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Coastal humidity in Magna, UT can slow shingle seal-down after shoulder-season storms.
 
-Field note: Access points and staging constraints recorded for ZIP 84044 coverage.
+Risk flag: Tile underlayment age in Magna, UT can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 84044 zone).
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 84044 (county grid: Salt Lake County).
+FAQ: How long can shingles wait after storm damage? In Magna, UT, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: counter-flashing reglet depth plus deck sheathing thickness referenced in Salt Lake County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 84044.
+
+On-site sector marker: Salt Lake County / ZIP 84044 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Magna, UT: sampled sectors include 84044; county routing grid remains Salt Lake County.
 
 Service reference: UT-84044-219cb4a0

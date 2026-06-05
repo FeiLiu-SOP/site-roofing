@@ -11,25 +11,33 @@ lng: -90.3800
 zipSample: ["61402", "61401"]
 zipCodes: ["61401", "61402"]
 localPaths: ["Knox County / elevation 774 ft band", "Knox County / ZIP 61401 sector", "Knox County / ZIP 61402 sector", "Knox County / coords 40.9500, -90.3800", "Knox County / primary ZIP 61401"]
-zillowHomeValueUsd: 99712
 ---
 
 **Engineering Notice for Galesburg:** Structural loading calculated based on 774 ft terrain assessment. Regional dispatch grid: Knox County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Our service coordination centers on Galesburg, IL coverage windows and verified intake details.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 61401.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: avoid large upfront payments without milestones.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 61402/61401.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 61402, 61401 (county grid: Knox County).
+Wind-zone note: Galesburg, IL exposure class can change starter-strip and cap nail schedules.
+
+Hail bruising on Galesburg, IL ridges may not breach felt until the next wind event.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Field routing: shingle exposure calibration paired with ice-barrier lap sequence near ZIP 61401.
+
+Coordinate-anchored dispatch note: center reference 40.9500, -90.3800 at elevation ~774 ft aligns with Knox County intake staging.
+
+On-site sector marker: Knox County / ZIP 61401 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61401-d932d839

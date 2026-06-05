@@ -11,24 +11,33 @@ lng: -124.0800
 zipSample: ["95521", "95518"]
 zipCodes: ["95518", "95521"]
 localPaths: ["Humboldt County / coords 40.8600, -124.0800", "Humboldt County / elevation 7 ft band", "Humboldt County / primary ZIP 95521", "Humboldt County / ZIP 95521 sector", "Humboldt County / ZIP 95518 sector"]
-zillowHomeValueUsd: 488024
 ---
 
 **Engineering Notice for Arcata:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Humboldt County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Low-slope sections in Arcata, CA need positive drainage before membrane repairs are scoped.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Arcata, CA exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around Arcata, CA and nearby ZIP sectors.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: In Arcata, CA, algae-resistant granules may be specified for north-facing slopes.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 95521/95518 intake.
+FAQ: Is partial dry-in possible? In Arcata, CA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 95521, 95518 (county grid: Humboldt County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+roofing service brief: attic baffle spacing and deck sheathing thickness were cross-checked for the Arcata intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 95518/95521.
+
+Regional mesh label Humboldt County: moisture and logistics baselines are keyed to Arcata, CA before niche-specific work begins.
+
+Primary postal anchor 95521 with multi-ZIP overlap in Arcata; field packets tag Humboldt County for county-grid reconciliation.
 
 Service reference: CA-95521-7bff24d1

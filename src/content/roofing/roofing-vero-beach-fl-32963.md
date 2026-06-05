@@ -11,26 +11,31 @@ lng: -80.3900
 zipSample: ["32963", "32965", "32960", "32964", "32961"]
 zipCodes: ["32964", "32960", "32961", "32969", "32965", "32963"]
 localPaths: ["Indian River County / ZIP 32963 sector", "Indian River County / ZIP 32964 sector", "Indian River County / elevation 43 ft band", "Indian River County / ZIP 32965 sector", "Indian River County / ZIP 32961 sector"]
-zillowHomeValueUsd: 1038926
 ---
 
 **Engineering Notice for Vero Beach:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Indian River County.
 
 
-Homeowners in Vero Beach, FL often face sudden roof work problems that require fast action.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wood shake courses in Vero Beach, FL require skip-spacing rules at valleys.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Vero Beach, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can you tarp only part of the roof? In Vero Beach, FL, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 32960/32963/32961.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Connection points spot-checked where accessible (ZIP 32960/32963/32961 zone).
+Step: separate emergency tarp scope from permanent service line items.
 
-Dispatch sectors sampled: ZIP 32960, 32963, 32961, 32969, 32964 (county grid: Indian River County).
+Regulatory note: Vero Beach, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: chimney cricket slope paired with drip-edge metal profile near ZIP 32963.
+
+On-site sector marker: Indian River County / ZIP 32969 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Indian River County / primary ZIP 32963 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32963-255663c6

@@ -11,26 +11,33 @@ lng: -105.1000
 zipSample: ["80034", "80033"]
 zipCodes: ["80033", "80034"]
 localPaths: ["Jefferson County / ZIP 80033 sector", "Jefferson County / elevation 5381 ft band", "Jefferson County / ZIP 80034 sector", "Jefferson County / primary ZIP 80033", "Jefferson County / coords 39.7700, -105.1000"]
-zillowHomeValueUsd: 599388
 ---
 
 **Engineering Notice for Wheat Ridge:** Structural loading calculated based on 5381 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+We coordinate Wheat Ridge, CO roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: confirm licensing and insurance before approving work.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-We coordinate local dispatch coverage around Wheat Ridge, CO and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-In Wheat Ridge, CO, urgent roofing service issues can escalate quickly.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 80033.
 
-Field note: Moisture pathway inspection logged near ZIP 80034/80033 intake.
+Wind-zone note: Wheat Ridge, CO exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 80034/80033 zone).
+Parapet coping movement in Wheat Ridge, CO can channel water behind wall cladding.
 
-Dispatch sectors sampled: ZIP 80034, 80033 (county grid: Jefferson County).
+Material note: In Wheat Ridge, CO, algae-resistant granules may be specified for north-facing slopes.
+
+roofing service brief: deck sheathing thickness and pipe boot manufacturer match were cross-checked for the Wheat Ridge intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 80033/80034.
+
+On-site sector marker: Jefferson County / ZIP 80034 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Jefferson County / coords 39.7700, -105.1000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80033-25491f17

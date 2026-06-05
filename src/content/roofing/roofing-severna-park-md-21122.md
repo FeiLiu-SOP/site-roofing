@@ -11,26 +11,31 @@ lng: -76.5700
 zipSample: ["21146", "21108", "21122", "21123"]
 zipCodes: ["21122", "21108", "21146", "21123"]
 localPaths: ["Anne Arundel County / coords 39.0900, -76.5700", "Anne Arundel County / ZIP 21108 sector", "Anne Arundel County / primary ZIP 21122", "Anne Arundel County / ZIP 21122 sector", "Anne Arundel County / elevation 82 ft band"]
-zillowHomeValueUsd: 454583
 ---
 
 **Engineering Notice for Severna Park:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Severna Park, MD, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should permanent restoration start? In Severna Park, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-Clear documentation helps align materials, labor, and timeline.
+Wood shake courses in Severna Park, MD require skip-spacing rules at valleys.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Structured milestones protect both sides when scheduling work.
+Code context: Ventilation ratios for Severna Park, MD attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 21123/21122/21108 intake.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Access points and staging constraints recorded for ZIP 21123/21122/21108 coverage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 21123, 21122, 21108, 21146 (county grid: Anne Arundel County).
+roof work brief: skylight curb height and shingle exposure calibration were cross-checked for the Severna Park intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 21108/21122/21123.
+
+ZIP-corridor snapshot for Severna Park, MD: sampled sectors include 21146, 21122, 21123, 21108; county routing grid remains Anne Arundel County.
+
+Coordinate-anchored dispatch note: center reference 39.0900, -76.5700 at elevation ~82 ft aligns with Anne Arundel County intake staging.
 
 Service reference: MD-21122-a3c1ef30

@@ -11,26 +11,29 @@ lng: -73.9900
 zipSample: ["10956"]
 zipCodes: ["10956"]
 localPaths: ["Rockland County / coords 41.1500, -73.9900", "Rockland County / ZIP 10956 sector", "Rockland County / primary ZIP 10956", "Rockland County / elevation 200 ft band"]
-zillowHomeValueUsd: 791524
 ---
 
 **Engineering Notice for New City:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Rockland County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New City, NY, but intake notes help reduce delays.
+Code context: Ventilation ratios for New City, NY attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on New City, NY coverage windows and verified intake details.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 10956.
+Low-slope sections in New City, NY need positive drainage before membrane repairs are scoped.
 
-Field note: Wind exposure category reviewed for ZIP sector 10956.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 10956 (county grid: Rockland County).
+Scope trace: synthetic underlayment slip plus ridge cap nail schedule referenced in Rockland County county grid review.
+
+On-site sector marker: Rockland County / primary ZIP 10956 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 10956 with multi-ZIP overlap in New City; field packets tag Rockland County for county-grid reconciliation.
 
 Service reference: NY-10956-61d45f6f

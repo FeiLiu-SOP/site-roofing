@@ -11,26 +11,31 @@ lng: -97.2700
 zipSample: ["76117", "76148", "76137"]
 zipCodes: ["76117", "76148", "76137"]
 localPaths: ["Tarrant County / ZIP 76137 sector", "Tarrant County / ZIP 76117 sector", "Tarrant County / ZIP 76148 sector", "Tarrant County / elevation 610 ft band", "Tarrant County / primary ZIP 76137"]
-zillowHomeValueUsd: 319960
 ---
 
 **Engineering Notice for Haltom City:** Structural loading calculated based on 610 ft terrain assessment. Regional dispatch grid: Tarrant County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Haltom City, TX, but intake notes help reduce delays.
+Our Haltom City, TX dispatch packets reference county grid Tarrant County and elevation band 610 ft.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In Haltom City, TX, urgent roof service issues can escalate quickly.
+Freeze-thaw cycles around Haltom City, TX stress nail pops along eaves and rake edges.
 
-Field note: Access points and staging constraints recorded for ZIP 76137/76148/76117 coverage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 76137/76148/76117.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 76137, 76148, 76117 (county grid: Tarrant County).
+Scope trace: synthetic underlayment slip plus wind uplift clip spacing referenced in Tarrant County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 76148/76117/76137.
+
+Primary postal anchor 76137 with multi-ZIP overlap in Haltom City; field packets tag Tarrant County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Haltom City, TX: sampled sectors include 76148, 76137, 76117; county routing grid remains Tarrant County.
 
 Service reference: TX-76137-a3d79c70

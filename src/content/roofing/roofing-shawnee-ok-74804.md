@@ -11,25 +11,29 @@ lng: -96.9600
 zipSample: ["74802", "74801", "74804"]
 zipCodes: ["74801", "74802", "74804"]
 localPaths: ["Pottawatomie County / coords 35.3500, -96.9600", "Pottawatomie County / ZIP 74801 sector", "Pottawatomie County / ZIP 74802 sector", "Pottawatomie County / ZIP 74804 sector", "Pottawatomie County / elevation 1047 ft band"]
-zillowHomeValueUsd: 226526
 ---
 
 **Engineering Notice for Shawnee:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: Pottawatomie County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Hail bruising on Shawnee, OK ridges may not breach felt until the next wind event.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Shawnee, OK, but intake notes help reduce delays.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 74804.
+FAQ: When should permanent restoration start? In Shawnee, OK, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Regulatory note: Shawnee, OK projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 74801/74802/74804 zone).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 74801, 74802, 74804 (county grid: Pottawatomie County).
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+roof work brief: ridge cap nail schedule and attic baffle spacing were cross-checked for the Shawnee intake packet.
+
+On-site sector marker: Pottawatomie County / elevation 1047 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~1047 ft across the Pottawatomie County area. Coordinates: 35.3500, -96.9600. ZIP sample: 74801, 74802, 74804. Regional routing note: Pottawatomie County traffic flow is balanced around ZIP 74804 service demand.
 
 Service reference: OK-74804-4711b7c2

@@ -11,26 +11,33 @@ lng: -121.8500
 zipSample: ["95153", "95113", "95127", "95132", "95110"]
 zipCodes: ["95160", "95127", "95191", "95164", "95130", "95123", "95125", "95106", "95173", "95153", "95037", "95112"]
 localPaths: ["Santa Clara County / elevation 108 ft band", "Santa Clara County / coords 37.3000, -121.8500", "Santa Clara County / ZIP 95110 sector", "Santa Clara County / ZIP 95127 sector", "Santa Clara County / ZIP 95113 sector"]
-zillowHomeValueUsd: 1457671
 ---
 
 **Engineering Notice for San Jose:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Santa Clara County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Regulatory note: San Jose, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate San Jose, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Our service coordination centers on San Jose, CA coverage windows and verified intake details.
+Tile and shingle mixes in San Jose, CA require different fastener patterns at transitions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95103/95111/95013.
+FAQ: How long can shingles wait after storm damage? In San Jose, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 95103/95111/95013.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 95103, 95111, 95013, 95128, 95154 (county grid: Santa Clara County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+roof work brief: valley metal gauge and counter-flashing reglet depth were cross-checked for the San Jose intake packet.
+
+On-site sector marker: Santa Clara County / ZIP 95103 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 95119 with multi-ZIP overlap in San Jose; field packets tag Santa Clara County for county-grid reconciliation.
 
 Service reference: CA-95119-1aff4fa0

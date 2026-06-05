@@ -11,24 +11,33 @@ lng: -87.9800
 zipSample: ["60004", "60005"]
 zipCodes: ["60004", "60005"]
 localPaths: ["Cook County / ZIP 60004 sector", "Cook County / elevation 728 ft band", "Cook County / ZIP 60005 sector", "Cook County / primary ZIP 60005", "Cook County / coords 42.1000, -87.9800"]
-zillowHomeValueUsd: 426644
 ---
 
 **Engineering Notice for Arlington Heights:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: request a written scope before work starts.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Arlington Heights, IL, but intake notes help reduce delays.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Clear documentation helps align materials, labor, and timeline.
+Wood shake courses in Arlington Heights, IL require skip-spacing rules at valleys.
 
-Field note: Connection points spot-checked where accessible (ZIP 60005/60004 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 60005, 60004 (county grid: Cook County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60005.
+
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Scope trace: counter-flashing reglet depth plus skylight curb height referenced in Cook County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 60005/60004.
+
+On-site sector marker: Cook County / primary ZIP 60005 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cook County / coords 42.1000, -87.9800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60005-9dbc2c1d

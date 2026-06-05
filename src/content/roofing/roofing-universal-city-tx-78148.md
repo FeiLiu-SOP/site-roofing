@@ -11,25 +11,31 @@ lng: -98.3100
 zipSample: ["78148"]
 zipCodes: ["78148"]
 localPaths: ["Bexar County / ZIP 78148 sector", "Bexar County / coords 29.5500, -98.3100", "Bexar County / primary ZIP 78148", "Bexar County / elevation 846 ft band"]
-zillowHomeValueUsd: 265116
 ---
 
 **Engineering Notice for Universal City:** Structural loading calculated based on 846 ft terrain assessment. Regional dispatch grid: Bexar County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Universal City, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Local conditions in Universal City, TX can affect timelines and material choices.
+Risk flag: In Universal City, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Universal City, TX attics should be checked against current mechanical exhaust additions.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 78148.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 78148.
+We coordinate Universal City, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 78148 (county grid: Bexar County).
+TPO seam welds in Universal City, TX commercial sections need probe tests after freeze events.
+
+Scope trace: wind uplift clip spacing plus starter-strip setback referenced in Bexar County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 78148.
+
+On-site sector marker: Bexar County / elevation 846 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Bexar County / coords 29.5500, -98.3100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78148-f91303bf

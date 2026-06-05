@@ -11,24 +11,31 @@ lng: -83.6200
 zipSample: ["48197", "48198"]
 zipCodes: ["48197", "48198"]
 localPaths: ["Washtenaw County / elevation 761 ft band", "Washtenaw County / coords 42.2400, -83.6200", "Washtenaw County / ZIP 48197 sector", "Washtenaw County / primary ZIP 48198", "Washtenaw County / ZIP 48198 sector"]
-zillowHomeValueUsd: 225261
 ---
 
 **Engineering Notice for Ypsilanti:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Washtenaw County.
 
 
-Tip: request a written scope before work starts.
+Step: compare shingle manufacturer wind-zone ratings for Ypsilanti, MI exposure class.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Ypsilanti, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Ypsilanti, MI, but intake notes help reduce delays.
+In Ypsilanti, MI, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Tile underlayment age in Ypsilanti, MI can fail independently of visible tile cracks.
 
-Our service coordination centers on Ypsilanti, MI coverage windows and verified intake details.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 48198.
 
-Field note: Connection points spot-checked where accessible (ZIP 48197/48198 zone).
+FAQ: Can you tarp only part of the roof? In Ypsilanti, MI, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 48197, 48198 (county grid: Washtenaw County).
+Our Ypsilanti, MI dispatch packets reference county grid Washtenaw County and elevation band 761 ft.
+
+Field routing: synthetic underlayment slip paired with ridge cap nail schedule near ZIP 48198.
+
+Field note: Shingle seal-down timing logged near ZIP 48198/48197.
+
+On-site sector marker: Washtenaw County / ZIP 48198 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Ypsilanti, MI: sampled sectors include 48198, 48197; county routing grid remains Washtenaw County.
 
 Service reference: MI-48198-ddab0f54

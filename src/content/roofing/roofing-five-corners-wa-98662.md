@@ -11,26 +11,29 @@ lng: -122.5700
 zipSample: ["98662"]
 zipCodes: ["98662"]
 localPaths: ["Clark County / elevation 210 ft band", "Clark County / ZIP 98662 sector", "Clark County / primary ZIP 98662", "Clark County / coords 45.6900, -122.5700"]
-zillowHomeValueUsd: 484373
 ---
 
 **Engineering Notice for Five Corners:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-Our service coordination centers on Five Corners, WA coverage windows and verified intake details.
+Tile and shingle mixes in Five Corners, WA require different fastener patterns at transitions.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Five Corners, WA can fail independently of visible tile cracks.
 
-Local conditions in Five Corners, WA can affect timelines and material choices.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Moisture pathway inspection logged near ZIP 98662 intake.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Access points and staging constraints recorded for ZIP 98662 coverage.
+Code context: Ventilation ratios for Five Corners, WA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 98662 (county grid: Clark County).
+roofing service brief: valley metal gauge and ice-barrier lap sequence were cross-checked for the Five Corners intake packet.
+
+On-site sector marker: Clark County / primary ZIP 98662 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Five Corners, WA: sampled sectors include 98662; county routing grid remains Clark County.
 
 Service reference: WA-98662-7f1806b1

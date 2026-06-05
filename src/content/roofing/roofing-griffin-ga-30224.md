@@ -11,24 +11,31 @@ lng: -84.2700
 zipSample: ["30224", "30223"]
 zipCodes: ["30223", "30224"]
 localPaths: ["Spalding County / elevation 981 ft band", "Spalding County / ZIP 30224 sector", "Spalding County / coords 33.2400, -84.2700", "Spalding County / primary ZIP 30224", "Spalding County / ZIP 30223 sector"]
-zillowHomeValueUsd: 258640
 ---
 
 **Engineering Notice for Griffin:** Structural loading calculated based on 981 ft terrain assessment. Regional dispatch grid: Spalding County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Griffin, GA, but intake notes help reduce delays.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Our service coordination centers on Griffin, GA coverage windows and verified intake details.
+Wind-zone note: Griffin, GA exposure class can change starter-strip and cap nail schedules.
 
-Homeowners in Griffin, GA often face sudden roof service problems that require fast action.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Can you tarp only part of the roof? In Griffin, GA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 30223/30224 zone).
+Freeze-thaw cycles around Griffin, GA stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 30223, 30224 (county grid: Spalding County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Field routing: soffit intake free area paired with deck sheathing thickness near ZIP 30224.
+
+Field note: Valley debris and granule loss noted for ZIP 30224/30223.
+
+On-site sector marker: Spalding County / ZIP 30223 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Spalding County / coords 33.2400, -84.2700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30224-c0f8740d

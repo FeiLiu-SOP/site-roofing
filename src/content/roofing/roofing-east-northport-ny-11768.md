@@ -11,26 +11,35 @@ lng: -73.3200
 zipSample: ["11731", "11768"]
 zipCodes: ["11731", "11768"]
 localPaths: ["Suffolk County / coords 40.8800, -73.3200", "Suffolk County / ZIP 11768 sector", "Suffolk County / primary ZIP 11768", "Suffolk County / elevation 243 ft band", "Suffolk County / ZIP 11731 sector"]
-zillowHomeValueUsd: 945735
 ---
 
 **Engineering Notice for East Northport:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Local conditions in East Northport, NY can affect timelines and material choices.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around East Northport, NY and nearby ZIP sectors.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: East Northport, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11768/11731.
+TPO seam welds in East Northport, NY commercial sections need probe tests after freeze events.
 
-Field note: Access points and staging constraints recorded for ZIP 11768/11731 coverage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 11768, 11731 (county grid: Suffolk County).
+FAQ: How long can shingles wait after storm damage? In East Northport, NY, delayed dry-in can expand insulation and ceiling repairs.
+
+Step: separate emergency tarp scope from permanent remediation line items.
+
+roof work brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the East Northport intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 11768/11731.
+
+On-site sector marker: Suffolk County / coords 40.8800, -73.3200 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Suffolk County: moisture and logistics baselines are keyed to East Northport, NY before niche-specific work begins.
 
 Service reference: NY-11768-71999abb

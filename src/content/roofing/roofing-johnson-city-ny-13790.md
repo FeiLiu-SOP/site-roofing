@@ -11,24 +11,29 @@ lng: -75.9600
 zipSample: ["13790"]
 zipCodes: ["13790"]
 localPaths: ["Broome County / primary ZIP 13790", "Broome County / elevation 860 ft band", "Broome County / coords 42.1200, -75.9600", "Broome County / ZIP 13790 sector"]
-zillowHomeValueUsd: 156630
 ---
 
 **Engineering Notice for Johnson City:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Broome County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Freeze-thaw cycles around Johnson City, NY stress nail pops along eaves and rake edges.
 
-Our service coordination centers on Johnson City, NY coverage windows and verified intake details.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Johnson City, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Johnson City, NY, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Johnson City, NY.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Moisture pathway inspection logged near ZIP 13790 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 13790 (county grid: Broome County).
+Wind-zone note: Johnson City, NY exposure class can change starter-strip and cap nail schedules.
+
+roof service brief: chimney cricket slope and starter-strip setback were cross-checked for the Johnson City intake packet.
+
+On-site sector marker: Broome County / ZIP 13790 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 42.1200, -75.9600 at elevation ~860 ft aligns with Broome County intake staging.
 
 Service reference: NY-13790-638caeee

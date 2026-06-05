@@ -11,26 +11,35 @@ lng: -75.1100
 zipSample: ["08028"]
 zipCodes: ["08028"]
 localPaths: ["Gloucester County / primary ZIP 08028", "Gloucester County / elevation 148 ft band", "Gloucester County / coords 39.7000, -75.1100", "Gloucester County / ZIP 08028 sector"]
-zillowHomeValueUsd: 366250
 ---
 
 **Engineering Notice for Glassboro:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Gloucester County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is partial dry-in possible? In Glassboro, NJ, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Attic ventilation deficits in Glassboro, NJ can mimic roof leaks at ceiling penetrations.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Our service coordination centers on Glassboro, NJ coverage windows and verified intake details.
+Regulatory note: Glassboro, NJ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 08028.
+Risk flag: Tile underlayment age in Glassboro, NJ can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 08028 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 08028 (county grid: Gloucester County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Field routing: skylight curb height paired with synthetic underlayment slip near ZIP 08028.
+
+Field note: Attic moisture pathway scan referenced ZIP 08028.
+
+Primary postal anchor 08028 with multi-ZIP overlap in Glassboro; field packets tag Gloucester County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 39.7000, -75.1100 at elevation ~148 ft aligns with Gloucester County intake staging.
 
 Service reference: NJ-08028-3e612f94

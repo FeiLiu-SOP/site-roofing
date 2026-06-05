@@ -11,24 +11,31 @@ lng: -88.3500
 zipSample: ["60156"]
 zipCodes: ["60156"]
 localPaths: ["McHenry County / primary ZIP 60156", "McHenry County / coords 42.1900, -88.3500", "McHenry County / elevation 889 ft band", "McHenry County / ZIP 60156 sector"]
-zillowHomeValueUsd: 369512
 ---
 
 **Engineering Notice for Lake in the Hills:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: McHenry County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Local conditions in Lake in the Hills, IL can affect timelines and material choices.
+Wind-zone note: Lake in the Hills, IL exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 60156.
+Metal panel oil-canning in Lake in the Hills, IL may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 60156 (county grid: McHenry County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+roof service brief: drip-edge metal profile and ridge cap nail schedule were cross-checked for the Lake in the Hills intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 60156.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~889 ft across the McHenry County area. Coordinates: 42.1900, -88.3500. ZIP sample: 60156. Logistics priority: Serving residential sectors across McHenry County and north-east ZIP 60156 grid.
+
+On-site sector marker: McHenry County / primary ZIP 60156 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60156-d02f2116

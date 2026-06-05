@@ -11,24 +11,33 @@ lng: -73.5600
 zipSample: ["06904", "06926", "06914", "06901", "06905"]
 zipCodes: ["06913", "06905", "06914", "06907", "06902", "06910", "06911", "06906", "06903", "06926", "06904", "06927"]
 localPaths: ["Western Connecticut County / ZIP 06905 sector", "Western Connecticut County / ZIP 06904 sector", "Western Connecticut County / coords 41.1000, -73.5600", "Western Connecticut County / ZIP 06914 sector", "Western Connecticut County / ZIP 06926 sector"]
-zillowHomeValueUsd: 630131
 ---
 
 **Engineering Notice for Stamford:** Structural loading calculated based on 161 ft terrain assessment. Regional dispatch grid: Western Connecticut County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: compare shingle manufacturer wind-zone ratings for Stamford, CT exposure class.
 
-We coordinate local dispatch coverage around Stamford, CT and nearby ZIP sectors.
+Material note: In Stamford, CT, algae-resistant granules may be specified for north-facing slopes.
 
-In Stamford, CT, seasonal demand can change scheduling windows.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Stamford, CT, but intake notes help reduce delays.
+In Stamford, CT, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Access points and staging constraints recorded for ZIP 06914/06906/06910 coverage.
+We coordinate Stamford, CT roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 06914, 06906, 06910, 06927, 06901 (county grid: Western Connecticut County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roofing service brief: ridge cap nail schedule and starter-strip setback were cross-checked for the Stamford intake packet.
+
+ZIP-corridor snapshot for Stamford, CT: sampled sectors include 06905, 06903, 06911, 06927, 06904, 06906, 06913, 06926; county routing grid remains Western Connecticut County.
+
+On-site sector marker: Western Connecticut County / ZIP 06911 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06906-d8445859

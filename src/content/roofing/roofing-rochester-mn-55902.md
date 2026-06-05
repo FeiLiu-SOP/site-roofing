@@ -11,24 +11,31 @@ lng: -92.4800
 zipSample: ["55902", "55903", "55904", "55905", "55901"]
 zipCodes: ["55903", "55901", "55902", "55904", "55905", "55906"]
 localPaths: ["Olmsted County / coords 44.0200, -92.4800", "Olmsted County / ZIP 55905 sector", "Olmsted County / ZIP 55901 sector", "Olmsted County / primary ZIP 55902", "Olmsted County / ZIP 55904 sector"]
-zillowHomeValueUsd: 468224
 ---
 
 **Engineering Notice for Rochester:** Structural loading calculated based on 1129 ft terrain assessment. Regional dispatch grid: Olmsted County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our service coordination centers on Rochester, MN coverage windows and verified intake details.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Rochester, MN exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Freeze-thaw cycles around Rochester, MN stress nail pops along eaves and rake edges.
 
-Field note: Connection points spot-checked where accessible (ZIP 55904/55905/55906 zone).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 55904, 55905, 55906, 55902, 55901 (county grid: Olmsted County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: attic baffle spacing paired with shingle exposure calibration near ZIP 55902.
+
+Field note: Shingle seal-down timing logged near ZIP 55904/55903/55901.
+
+On-site sector marker: Olmsted County / ZIP 55901 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Olmsted County / ZIP 55905 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55902-eb7ff2e8

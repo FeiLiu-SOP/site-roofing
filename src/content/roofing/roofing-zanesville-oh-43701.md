@@ -11,26 +11,35 @@ lng: -82.0100
 zipSample: ["43702", "43701"]
 zipCodes: ["43702", "43701"]
 localPaths: ["Muskingum County / ZIP 43701 sector", "Muskingum County / elevation 774 ft band", "Muskingum County / ZIP 43702 sector", "Muskingum County / coords 39.9600, -82.0100", "Muskingum County / primary ZIP 43701"]
-zillowHomeValueUsd: 197415
 ---
 
 **Engineering Notice for Zanesville:** Structural loading calculated based on 774 ft terrain assessment. Regional dispatch grid: Muskingum County.
 
 
-In Zanesville, OH, seasonal demand can change scheduling windows.
+Wind-zone note: Zanesville, OH exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Synthetic underlayment slip in Zanesville, OH is often tied to deck moisture, not wind alone.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Tile underlayment age in Zanesville, OH can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Zanesville, OH, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Moisture pathway inspection logged near ZIP 43702/43701 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 43702/43701.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 43702, 43701 (county grid: Muskingum County).
+Regulatory note: Zanesville, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+FAQ: When should permanent remediation start? In Zanesville, OH, delayed dry-in can expand insulation and ceiling repairs.
+
+roof work brief: chimney cricket slope and synthetic underlayment slip were cross-checked for the Zanesville intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 43702/43701.
+
+ZIP-corridor snapshot for Zanesville, OH: sampled sectors include 43702, 43701; county routing grid remains Muskingum County.
+
+On-site sector marker: Muskingum County / ZIP 43701 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43701-6ae8bed2

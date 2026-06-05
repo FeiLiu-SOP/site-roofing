@@ -11,26 +11,29 @@ lng: -77.2000
 zipSample: ["17013"]
 zipCodes: ["17013"]
 localPaths: ["Cumberland County / primary ZIP 17013", "Cumberland County / coords 40.2000, -77.2000", "Cumberland County / elevation 489 ft band", "Cumberland County / ZIP 17013 sector"]
-zillowHomeValueUsd: 285874
 ---
 
 **Engineering Notice for Carlisle:** Structural loading calculated based on 489 ft terrain assessment. Regional dispatch grid: Cumberland County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Carlisle, PA, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Carlisle, PA can fail independently of visible tile cracks.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Metal panel oil-canning in Carlisle, PA may signal clip spacing issues, not wind damage alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Carlisle, PA coverage windows and verified intake details.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 17013.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 17013 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 17013 (county grid: Cumberland County).
+Scope trace: deck sheathing thickness plus pipe boot manufacturer match referenced in Cumberland County county grid review.
+
+On-site sector marker: Cumberland County / primary ZIP 17013 — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Carlisle, PA: sampled sectors include 17013; county routing grid remains Cumberland County.
 
 Service reference: PA-17013-c7cf57ff

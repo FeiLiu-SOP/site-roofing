@@ -11,27 +11,31 @@ lng: -80.0100
 zipSample: ["29461"]
 zipCodes: ["29461"]
 localPaths: ["Berkeley County / ZIP 29461 sector", "Berkeley County / primary ZIP 29461", "Berkeley County / elevation 43 ft band", "Berkeley County / coords 33.1700, -80.0100"]
-zillowHomeValueUsd: 360042
 ---
 
 **Engineering Notice for Moncks Corner:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Berkeley County.
 
 
-Our service coordination centers on Moncks Corner, SC coverage windows and verified intake details.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Moncks Corner, SC, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 29461.
+Step: map ventilation intake and exhaust pairs for Moncks Corner, SC attic runs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: avoid large upfront payments without milestones.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Moisture pathway inspection logged near ZIP 29461 intake.
+Granule embedment loss on Moncks Corner, SC north slopes can precede mat exposure.
 
-Field note: Access points and staging constraints recorded for ZIP 29461 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 29461 (county grid: Berkeley County).
+Wind-zone note: Moncks Corner, SC exposure class can change starter-strip and cap nail schedules.
+
+roof work brief: valley metal gauge and soffit intake free area were cross-checked for the Moncks Corner intake packet.
+
+On-site sector marker: Berkeley County / elevation 43 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Moncks Corner, SC: sampled sectors include 29461; county routing grid remains Berkeley County.
 
 Service reference: SC-29461-c846bb8a

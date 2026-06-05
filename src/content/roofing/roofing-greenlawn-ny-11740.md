@@ -11,26 +11,31 @@ lng: -73.3600
 zipSample: ["11743", "11740"]
 zipCodes: ["11740", "11743"]
 localPaths: ["Suffolk County / ZIP 11743 sector", "Suffolk County / coords 40.8600, -73.3600", "Suffolk County / primary ZIP 11740", "Suffolk County / ZIP 11740 sector", "Suffolk County / elevation 220 ft band"]
-zillowHomeValueUsd: 821304
 ---
 
 **Engineering Notice for Greenlawn:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Greenlawn, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-We coordinate local dispatch coverage around Greenlawn, NY and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Greenlawn, NY, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: address recurring issues early to prevent bigger damage.
+Metal panel oil-canning in Greenlawn, NY may signal clip spacing issues, not wind damage alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11740/11743.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 11740/11743 zone).
+Step: compare shingle manufacturer wind-zone ratings for Greenlawn, NY exposure class.
 
-Dispatch sectors sampled: ZIP 11740, 11743 (county grid: Suffolk County).
+Scope trace: ridge cap nail schedule plus synthetic underlayment slip referenced in Suffolk County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 11743/11740.
+
+Coordinate-anchored dispatch note: center reference 40.8600, -73.3600 at elevation ~220 ft aligns with Suffolk County intake staging.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~220 ft across the Suffolk County area. Coordinates: 40.8600, -73.3600. ZIP sample: 11743, 11740. Logistics priority: Serving residential sectors across Suffolk County and north-east ZIP 11740 grid.
 
 Service reference: NY-11740-ed0cf9f3

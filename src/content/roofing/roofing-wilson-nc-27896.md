@@ -11,24 +11,33 @@ lng: -77.9300
 zipSample: ["27896", "27895", "27893", "27894"]
 zipCodes: ["27895", "27893", "27896", "27894"]
 localPaths: ["Wilson County / ZIP 27896 sector", "Wilson County / primary ZIP 27896", "Wilson County / elevation 135 ft band", "Wilson County / ZIP 27894 sector", "Wilson County / ZIP 27895 sector"]
-zillowHomeValueUsd: 279869
 ---
 
 **Engineering Notice for Wilson:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Wilson County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: compare shingle manufacturer wind-zone ratings for Wilson, NC exposure class.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-We coordinate local dispatch coverage around Wilson, NC and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 27893/27896/27894.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 27893, 27896, 27894, 27895 (county grid: Wilson County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+In Wilson, NC, wind-driven rain can lift shingle tabs before owners notice deck staining.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: pipe boot manufacturer match plus starter-strip setback referenced in Wilson County county grid review.
+
+On-site sector marker: Wilson County / ZIP 27896 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Wilson County / ZIP 27893 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27896-cea92cbd

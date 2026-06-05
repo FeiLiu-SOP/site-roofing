@@ -11,25 +11,31 @@ lng: -77.5900
 zipSample: ["23255", "23238", "23288", "23229"]
 zipCodes: ["23238", "23255", "23229", "23288"]
 localPaths: ["Henrico County / ZIP 23288 sector", "Henrico County / elevation 262 ft band", "Henrico County / ZIP 23255 sector", "Henrico County / coords 37.5900, -77.5900", "Henrico County / primary ZIP 23229"]
-zillowHomeValueUsd: 514434
 ---
 
 **Engineering Notice for Tuckahoe:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Henrico County.
 
 
-Our service coordination centers on Tuckahoe, VA coverage windows and verified intake details.
+Coastal humidity in Tuckahoe, VA can slow shingle seal-down after shoulder-season storms.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 23229.
+Risk flag: In Tuckahoe, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Tuckahoe, VA, but intake notes help reduce delays.
+FAQ: How long can shingles wait after storm damage? In Tuckahoe, VA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Code context: Ventilation ratios for Tuckahoe, VA attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 23229/23288/23255.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 23229, 23288, 23255, 23238 (county grid: Henrico County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+roof work brief: deck sheathing thickness and skylight curb height were cross-checked for the Tuckahoe intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 23288/23255/23229.
+
+On-site sector marker: Henrico County / ZIP 23238 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Henrico County / elevation 262 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23229-2517876e

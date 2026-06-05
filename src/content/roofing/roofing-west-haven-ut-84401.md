@@ -11,26 +11,31 @@ lng: -112.0500
 zipSample: ["84402", "84401"]
 zipCodes: ["84402", "84401"]
 localPaths: ["Weber County / elevation 4265 ft band", "Weber County / coords 41.2100, -112.0500", "Weber County / ZIP 84401 sector", "Weber County / primary ZIP 84401", "Weber County / ZIP 84402 sector"]
-zillowHomeValueUsd: 440239
 ---
 
 **Engineering Notice for West Haven:** Structural loading calculated based on 4265 ft terrain assessment. Regional dispatch grid: Weber County.
 
 
-We coordinate local dispatch coverage around West Haven, UT and nearby ZIP sectors.
+Step: compare shingle manufacturer wind-zone ratings for West Haven, UT exposure class.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: West Haven, UT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Moisture pathway inspection logged near ZIP 84401/84402 intake.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 84401/84402.
+Hail bruising on West Haven, UT ridges may not breach felt until the next wind event.
 
-Dispatch sectors sampled: ZIP 84401, 84402 (county grid: Weber County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Scope trace: counter-flashing reglet depth plus attic baffle spacing referenced in Weber County county grid review.
+
+Regional mesh label Weber County: moisture and logistics baselines are keyed to West Haven, UT before niche-specific work begins.
+
+Primary postal anchor 84401 with multi-ZIP overlap in West Haven; field packets tag Weber County for county-grid reconciliation.
 
 Service reference: UT-84401-b57e84c3

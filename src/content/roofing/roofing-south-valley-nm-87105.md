@@ -11,27 +11,33 @@ lng: -106.6800
 zipSample: ["87195", "87105"]
 zipCodes: ["87105", "87195"]
 localPaths: ["Bernalillo County / ZIP 87195 sector", "Bernalillo County / coords 35.0100, -106.6800", "Bernalillo County / ZIP 87105 sector", "Bernalillo County / primary ZIP 87105", "Bernalillo County / elevation 4944 ft band"]
-zillowHomeValueUsd: 279734
 ---
 
 **Engineering Notice for South Valley:** Structural loading calculated based on 4944 ft terrain assessment. Regional dispatch grid: Bernalillo County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+TPO seam welds in South Valley, NM commercial sections need probe tests after freeze events.
 
-Our service coordination centers on South Valley, NM coverage windows and verified intake details.
+Risk flag: In South Valley, NM, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in South Valley, NM can fail independently of visible tile cracks.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 87105.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 87105.
 
-Field note: Wind exposure category reviewed for ZIP sector 87105/87195.
+Wind-zone note: South Valley, NM exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 87105/87195 intake.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Dispatch sectors sampled: ZIP 87105, 87195 (county grid: Bernalillo County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: wind uplift clip spacing paired with ice-barrier lap sequence near ZIP 87105.
+
+On-site sector marker: Bernalillo County / primary ZIP 87105 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Bernalillo County: moisture and logistics baselines are keyed to South Valley, NM before niche-specific work begins.
 
 Service reference: NM-87105-33bc4130

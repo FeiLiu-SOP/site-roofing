@@ -11,26 +11,35 @@ lng: -80.2200
 zipSample: ["33068"]
 zipCodes: ["33068"]
 localPaths: ["Broward County / primary ZIP 33068", "Broward County / coords 26.2100, -80.2200", "Broward County / elevation 20 ft band", "Broward County / ZIP 33068 sector"]
-zillowHomeValueUsd: 358213
 ---
 
 **Engineering Notice for North Lauderdale:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.
 
 
-In North Lauderdale, FL, urgent roof work issues can escalate quickly.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+TPO seam welds in North Lauderdale, FL commercial sections need probe tests after freeze events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 33068.
+Regulatory note: North Lauderdale, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 33068 intake.
+FAQ: Can you tarp only part of the roof? In North Lauderdale, FL, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 33068 (county grid: Broward County).
+Step: compare shingle manufacturer wind-zone ratings for North Lauderdale, FL exposure class.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Field routing: wind uplift clip spacing paired with valley metal gauge near ZIP 33068.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 33068.
+
+On-site sector marker: Broward County / primary ZIP 33068 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Broward County / ZIP 33068 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33068-af4402a5

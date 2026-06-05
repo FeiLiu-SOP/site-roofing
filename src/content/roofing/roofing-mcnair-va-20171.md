@@ -11,26 +11,35 @@ lng: -77.4100
 zipSample: ["20171"]
 zipCodes: ["20171"]
 localPaths: ["Fairfax County / ZIP 20171 sector", "Fairfax County / primary ZIP 20171", "Fairfax County / elevation 322 ft band", "Fairfax County / coords 38.9500, -77.4100"]
-zillowHomeValueUsd: 819509
 ---
 
 **Engineering Notice for McNair:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: McNair, VA exposure class can change starter-strip and cap nail schedules.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Code context: Ventilation ratios for McNair, VA attics should be checked against current mechanical exhaust additions.
 
-Local conditions in McNair, VA can affect timelines and material choices.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is partial dry-in possible? In McNair, VA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 20171 zone).
+Parapet coping movement in McNair, VA can channel water behind wall cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 20171 coverage.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 20171 (county grid: Fairfax County).
+Risk flag: In McNair, VA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: skylight curb height plus soffit intake free area referenced in Fairfax County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 20171.
+
+On-site sector marker: Fairfax County / ZIP 20171 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for McNair, VA: sampled sectors include 20171; county routing grid remains Fairfax County.
 
 Service reference: VA-20171-65ad10bc

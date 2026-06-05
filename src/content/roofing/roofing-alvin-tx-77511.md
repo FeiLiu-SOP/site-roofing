@@ -11,24 +11,33 @@ lng: -95.2900
 zipSample: ["77511", "77512", "77583"]
 zipCodes: ["77511", "77583", "77512"]
 localPaths: ["Brazoria County / coords 29.3900, -95.2900", "Brazoria County / elevation 46 ft band", "Brazoria County / ZIP 77512 sector", "Brazoria County / ZIP 77511 sector", "Brazoria County / primary ZIP 77511"]
-zillowHomeValueUsd: 295836
 ---
 
 **Engineering Notice for Alvin:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Brazoria County.
 
 
-We coordinate local dispatch coverage around Alvin, TX and nearby ZIP sectors.
+Freeze-thaw cycles around Alvin, TX stress nail pops along eaves and rake edges.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Alvin, TX, but intake notes help reduce delays.
+Risk flag: In Alvin, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 77512/77583/77511.
+Wind-zone note: Alvin, TX exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 77512, 77583, 77511 (county grid: Brazoria County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+FAQ: Is partial dry-in possible? In Alvin, TX, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: ice-barrier lap sequence plus pipe boot manufacturer match referenced in Brazoria County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 77512/77583/77511.
+
+On-site sector marker: Brazoria County / ZIP 77511 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Alvin, TX: sampled sectors include 77583, 77512, 77511; county routing grid remains Brazoria County.
 
 Service reference: TX-77511-6ec229b4

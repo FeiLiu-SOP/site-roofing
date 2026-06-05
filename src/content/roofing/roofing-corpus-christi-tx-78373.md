@@ -11,24 +11,29 @@ lng: -97.3800
 zipSample: ["78416", "78373", "78402", "78410", "78408"]
 zipCodes: ["78403", "78407", "78373", "78463", "78416", "78410", "78409", "78427", "78411", "78418", "78413", "78465"]
 localPaths: ["Nueces County / ZIP 78408 sector", "Nueces County / ZIP 78402 sector", "Nueces County / ZIP 78416 sector", "Nueces County / elevation 39 ft band", "Nueces County / ZIP 78410 sector"]
-zillowHomeValueUsd: 527903
 ---
 
 **Engineering Notice for Corpus Christi:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Nueces County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Note recent wind events when filing insurance photos for Corpus Christi, TX.
 
-Tip: request a written scope before work starts.
+Risk flag: In Corpus Christi, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-We coordinate local dispatch coverage around Corpus Christi, TX and nearby ZIP sectors.
+We coordinate Corpus Christi, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: How long can shingles wait after storm damage? In Corpus Christi, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 78373/78405/78427 coverage.
+Regulatory note: Corpus Christi, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 78373, 78405, 78427, 78401, 78408 (county grid: Nueces County).
+Hail bruising on Corpus Christi, TX ridges may not breach felt until the next wind event.
+
+roof service brief: wind uplift clip spacing and valley metal gauge were cross-checked for the Corpus Christi intake packet.
+
+On-site sector marker: Nueces County / ZIP 78405 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 27.7300, -97.3800 at elevation ~39 ft aligns with Nueces County intake staging.
 
 Service reference: TX-78373-1751cdd2

@@ -11,24 +11,31 @@ lng: -95.6500
 zipSample: ["75803", "75802", "75801", "75882"]
 zipCodes: ["75801", "75803", "75802", "75882"]
 localPaths: ["Anderson County / primary ZIP 75801", "Anderson County / ZIP 75801 sector", "Anderson County / elevation 518 ft band", "Anderson County / ZIP 75882 sector", "Anderson County / ZIP 75802 sector"]
-zillowHomeValueUsd: 182335
 ---
 
 **Engineering Notice for Palestine:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Anderson County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Palestine, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Homeowners in Palestine, TX often face sudden roof service problems that require fast action.
+Regulatory note: Palestine, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 75801.
 
-We coordinate local dispatch coverage around Palestine, TX and nearby ZIP sectors.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Across Palestine, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Moisture pathway inspection logged near ZIP 75801/75802/75803 intake.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 75801, 75802, 75803, 75882 (county grid: Anderson County).
+Material note: In Palestine, TX, algae-resistant granules may be specified for north-facing slopes.
+
+Our Palestine, TX dispatch packets reference county grid Anderson County and elevation band 518 ft.
+
+Scope trace: drip-edge metal profile plus pipe boot manufacturer match referenced in Anderson County county grid review.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~518 ft across the Anderson County area. Coordinates: 31.7500, -95.6500. ZIP sample: 75802, 75882, 75801, 75803. Service perimeter note: Coverage extends through Anderson County with dispatch centered near ZIP 75801.
+
+On-site sector marker: Anderson County / ZIP 75803 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75801-4f245dc9

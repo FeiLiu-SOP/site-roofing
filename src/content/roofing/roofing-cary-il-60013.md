@@ -11,26 +11,29 @@ lng: -88.2500
 zipSample: ["60013"]
 zipCodes: ["60013"]
 localPaths: ["McHenry County / ZIP 60013 sector", "McHenry County / primary ZIP 60013", "McHenry County / elevation 820 ft band", "McHenry County / coords 42.2100, -88.2500"]
-zillowHomeValueUsd: 370692
 ---
 
 **Engineering Notice for Cary:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: McHenry County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cary, IL, but intake notes help reduce delays.
+FAQ: When should permanent service start? In Cary, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wood shake courses in Cary, IL require skip-spacing rules at valleys.
 
-We coordinate local dispatch coverage around Cary, IL and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-In Cary, IL, seasonal demand can change scheduling windows.
+Regulatory note: Cary, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 60013.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Moisture pathway inspection logged near ZIP 60013 intake.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 60013 (county grid: McHenry County).
+roofing service brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Cary intake packet.
+
+Primary postal anchor 60013 with multi-ZIP overlap in Cary; field packets tag McHenry County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Cary, IL: sampled sectors include 60013; county routing grid remains McHenry County.
 
 Service reference: IL-60013-4855f877

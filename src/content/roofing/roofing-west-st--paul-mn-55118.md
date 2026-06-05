@@ -11,26 +11,29 @@ lng: -93.0900
 zipSample: ["55118"]
 zipCodes: ["55118"]
 localPaths: ["Dakota County / coords 44.9000, -93.0900", "Dakota County / elevation 1033 ft band", "Dakota County / ZIP 55118 sector", "Dakota County / primary ZIP 55118"]
-zillowHomeValueUsd: 364233
 ---
 
 **Engineering Notice for West St. Paul:** Structural loading calculated based on 1033 ft terrain assessment. Regional dispatch grid: Dakota County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: stage tear-off debris paths away from landscape drains.
 
-Our service coordination centers on West St. Paul, MN coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: confirm licensing and insurance before approving work.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in West St. Paul, MN, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Access points and staging constraints recorded for ZIP 55118 coverage.
+Valley metal in West St. Paul, MN should be reviewed whenever granule loss tracks the water line.
 
-Field note: Moisture pathway inspection logged near ZIP 55118 intake.
+FAQ: Is partial dry-in possible? In West St. Paul, MN, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 55118 (county grid: Dakota County).
+Field routing: ice-barrier lap sequence paired with counter-flashing reglet depth near ZIP 55118.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Dakota County and primary ZIP 55118. Terrain reference: 1033 ft. Center point: 44.9000, -93.0900. ZIP sample: 55118. Service perimeter note: Coverage extends through Dakota County with dispatch centered near ZIP 55118.
+
+ZIP-corridor snapshot for West St. Paul, MN: sampled sectors include 55118; county routing grid remains Dakota County.
 
 Service reference: MN-55118-8a77b790

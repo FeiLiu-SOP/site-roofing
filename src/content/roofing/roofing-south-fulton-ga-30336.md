@@ -11,25 +11,33 @@ lng: -84.5800
 zipSample: ["30349", "31136", "30272", "30291", "30378"]
 zipCodes: ["30272", "30331", "30349", "31131", "30213", "30291", "31136", "30296", "30378", "30336"]
 localPaths: ["Fulton County / coords 33.6300, -84.5800", "Fulton County / elevation 932 ft band", "Fulton County / primary ZIP 30336", "Fulton County / ZIP 31136 sector", "Fulton County / ZIP 30272 sector"]
-zillowHomeValueUsd: 282670
 ---
 
 **Engineering Notice for South Fulton:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Fulton County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Parapet coping movement in South Fulton, GA can channel water behind wall cladding.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 30336.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Homeowners in South Fulton, GA often face sudden roof work problems that require fast action.
+Step: compare shingle manufacturer wind-zone ratings for South Fulton, GA exposure class.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for South Fulton, GA attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 31136/30336/31131.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 31136, 30336, 31131, 30272, 30296 (county grid: Fulton County).
+Risk flag: In South Fulton, GA, interior stains may track from HVAC condensate rather than roof cladding.
+
+FAQ: Is partial dry-in possible? In South Fulton, GA, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: attic baffle spacing paired with chimney cricket slope near ZIP 30336.
+
+Field note: Attic moisture pathway scan referenced ZIP 30213/30349/30336.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~932 ft across the Fulton County area. Coordinates: 33.6300, -84.5800. ZIP sample: 30349, 30272, 30296, 31136, 30213. Logistics priority: Serving residential sectors across Fulton County and north-east ZIP 30336 grid.
+
+Primary postal anchor 30336 with multi-ZIP overlap in South Fulton; field packets tag Fulton County for county-grid reconciliation.
 
 Service reference: GA-30336-0fe98baa

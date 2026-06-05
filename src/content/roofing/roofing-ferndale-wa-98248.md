@@ -11,26 +11,29 @@ lng: -122.5900
 zipSample: ["98248"]
 zipCodes: ["98248"]
 localPaths: ["Whatcom County / coords 48.8500, -122.5900", "Whatcom County / ZIP 98248 sector", "Whatcom County / elevation 36 ft band", "Whatcom County / primary ZIP 98248"]
-zillowHomeValueUsd: 618759
 ---
 
 **Engineering Notice for Ferndale:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Whatcom County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 98248.
 
-Homeowners in Ferndale, WA often face sudden roof service problems that require fast action.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: avoid large upfront payments without milestones.
+Wind-zone note: Ferndale, WA exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around Ferndale, WA and nearby ZIP sectors.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98248.
+In Ferndale, WA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Wind exposure category reviewed for ZIP sector 98248.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 98248 (county grid: Whatcom County).
+Field routing: pipe boot manufacturer match paired with shingle exposure calibration near ZIP 98248.
+
+ZIP-corridor snapshot for Ferndale, WA: sampled sectors include 98248; county routing grid remains Whatcom County.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~36 ft across the Whatcom County area. Coordinates: 48.8500, -122.5900. ZIP sample: 98248. Service perimeter note: Coverage extends through Whatcom County with dispatch centered near ZIP 98248.
 
 Service reference: WA-98248-a7f48ee4

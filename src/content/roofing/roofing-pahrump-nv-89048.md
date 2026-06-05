@@ -11,26 +11,29 @@ lng: -116.0000
 zipSample: ["89041", "89060", "89048", "89061"]
 zipCodes: ["89060", "89061", "89041", "89048"]
 localPaths: ["Nye County / coords 36.2200, -116.0000", "Nye County / ZIP 89061 sector", "Nye County / primary ZIP 89048", "Nye County / ZIP 89041 sector", "Nye County / ZIP 89060 sector"]
-zillowHomeValueUsd: 371883
 ---
 
 **Engineering Notice for Pahrump:** Structural loading calculated based on 2628 ft terrain assessment. Regional dispatch grid: Nye County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 89048.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent service line items.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pahrump, NV, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 89048/89061/89060 zone).
+Parapet coping movement in Pahrump, NV can channel water behind wall cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 89048/89061/89060 intake.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 89048, 89061, 89060, 89041 (county grid: Nye County).
+Scope trace: deck sheathing thickness plus skylight curb height referenced in Nye County county grid review.
+
+Regional mesh label Nye County: moisture and logistics baselines are keyed to Pahrump, NV before niche-specific work begins.
+
+On-site sector marker: Nye County / primary ZIP 89048 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89048-f491a89a

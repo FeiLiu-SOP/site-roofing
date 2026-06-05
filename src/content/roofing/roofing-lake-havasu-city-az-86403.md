@@ -11,24 +11,35 @@ lng: -114.3100
 zipSample: ["86406", "86403", "86404", "86405"]
 zipCodes: ["86405", "86406", "86404", "86403"]
 localPaths: ["Mohave County / coords 34.5000, -114.3100", "Mohave County / ZIP 86403 sector", "Mohave County / ZIP 86405 sector", "Mohave County / ZIP 86404 sector", "Mohave County / elevation 948 ft band"]
-zillowHomeValueUsd: 387955
 ---
 
 **Engineering Notice for Lake Havasu City:** Structural loading calculated based on 948 ft terrain assessment. Regional dispatch grid: Mohave County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: compare shingle manufacturer wind-zone ratings for Lake Havasu City, AZ exposure class.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Metal panel oil-canning in Lake Havasu City, AZ may signal clip spacing issues, not wind damage alone.
 
-Tip: request a written scope before work starts.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-We coordinate local dispatch coverage around Lake Havasu City, AZ and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Moisture pathway inspection logged near ZIP 86406/86405/86403 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 86406, 86405, 86403, 86404 (county grid: Mohave County).
+In Lake Havasu City, AZ, wind-driven rain can lift shingle tabs before owners notice deck staining.
+
+FAQ: When should permanent service start? In Lake Havasu City, AZ, delayed dry-in can expand insulation and ceiling repairs.
+
+Code context: Ventilation ratios for Lake Havasu City, AZ attics should be checked against current mechanical exhaust additions.
+
+roofing service brief: valley metal gauge and soffit intake free area were cross-checked for the Lake Havasu City intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 86403/86406/86404.
+
+On-site sector marker: Mohave County / primary ZIP 86403 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Mohave County / elevation 948 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-86403-90b8842c

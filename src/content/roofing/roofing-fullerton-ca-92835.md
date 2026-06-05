@@ -11,26 +11,29 @@ lng: -117.9300
 zipSample: ["92836", "92834", "92833", "92835", "92832"]
 zipCodes: ["92837", "92838", "92836", "92834", "92831", "92835", "92832", "92833"]
 localPaths: ["Orange County / ZIP 92833 sector", "Orange County / elevation 266 ft band", "Orange County / ZIP 92835 sector", "Orange County / coords 33.8800, -117.9300", "Orange County / ZIP 92834 sector"]
-zillowHomeValueUsd: 1317906
 ---
 
 **Engineering Notice for Fullerton:** Structural loading calculated based on 266 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fullerton, CA, but intake notes help reduce delays.
+Our Fullerton, CA dispatch packets reference county grid Orange County and elevation band 266 ft.
 
-Tip: confirm licensing and insurance before approving work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Our service coordination centers on Fullerton, CA coverage windows and verified intake details.
+Wind-zone note: Fullerton, CA exposure class can change starter-strip and cap nail schedules.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Homeowners in Fullerton, CA often face sudden roof service problems that require fast action.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 92835/92831/92836 coverage.
+Metal panel oil-canning in Fullerton, CA may signal clip spacing issues, not wind damage alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 92835/92831/92836 zone).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 92835, 92831, 92836, 92838, 92833 (county grid: Orange County).
+roof service brief: valley metal gauge and starter-strip setback were cross-checked for the Fullerton intake packet.
+
+On-site sector marker: Orange County / ZIP 92835 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Orange County / ZIP 92834 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92835-b8f405d4

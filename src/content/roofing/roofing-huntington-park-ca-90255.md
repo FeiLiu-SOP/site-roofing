@@ -11,25 +11,31 @@ lng: -118.2200
 zipSample: ["90255"]
 zipCodes: ["90255"]
 localPaths: ["Los Angeles County / coords 33.9800, -118.2200", "Los Angeles County / ZIP 90255 sector", "Los Angeles County / primary ZIP 90255", "Los Angeles County / elevation 167 ft band"]
-zillowHomeValueUsd: 675368
 ---
 
 **Engineering Notice for Huntington Park:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-We coordinate local dispatch coverage around Huntington Park, CA and nearby ZIP sectors.
+We coordinate Huntington Park, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can you tarp only part of the roof? In Huntington Park, CA, yes—if slope and anchor points support safe tie-offs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 90255.
+Metal panel oil-canning in Huntington Park, CA may signal clip spacing issues, not wind damage alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 90255.
+Code context: Ventilation ratios for Huntington Park, CA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 90255 (county grid: Los Angeles County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roofing service brief: soffit intake free area and deck sheathing thickness were cross-checked for the Huntington Park intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 90255.
+
+Coordinate-anchored dispatch note: center reference 33.9800, -118.2200 at elevation ~167 ft aligns with Los Angeles County intake staging.
+
+Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to Huntington Park, CA before niche-specific work begins.
 
 Service reference: CA-90255-fc75b049

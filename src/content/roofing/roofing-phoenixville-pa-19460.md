@@ -11,24 +11,31 @@ lng: -75.5200
 zipSample: ["19460"]
 zipCodes: ["19460"]
 localPaths: ["Chester County / ZIP 19460 sector", "Chester County / coords 40.1400, -75.5200", "Chester County / elevation 131 ft band", "Chester County / primary ZIP 19460"]
-zillowHomeValueUsd: 517790
 ---
 
 **Engineering Notice for Phoenixville:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Chester County.
 
 
-We coordinate local dispatch coverage around Phoenixville, PA and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: How long can shingles wait after storm damage? In Phoenixville, PA, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Phoenixville, PA, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-In Phoenixville, PA, seasonal demand can change scheduling windows.
+Tip: Note recent wind events when filing insurance photos for Phoenixville, PA.
 
-Field note: Moisture pathway inspection logged near ZIP 19460 intake.
+Regulatory note: Phoenixville, PA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 19460 (county grid: Chester County).
+Wood shake courses in Phoenixville, PA require skip-spacing rules at valleys.
+
+Field routing: skylight curb height paired with ice-barrier lap sequence near ZIP 19460.
+
+Field note: Attic moisture pathway scan referenced ZIP 19460.
+
+Coordinate-anchored dispatch note: center reference 40.1400, -75.5200 at elevation ~131 ft aligns with Chester County intake staging.
+
+Primary postal anchor 19460 with multi-ZIP overlap in Phoenixville; field packets tag Chester County for county-grid reconciliation.
 
 Service reference: PA-19460-8e0dd0c0

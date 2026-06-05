@@ -11,24 +11,31 @@ lng: -78.4900
 zipSample: ["22905", "22903", "22909", "22908", "22904"]
 zipCodes: ["22903", "22908", "22902", "22906", "22909", "22905", "22901", "22904"]
 localPaths: ["Charlottesville County / coords 38.0400, -78.4900", "Charlottesville County / ZIP 22903 sector", "Charlottesville County / ZIP 22904 sector", "Charlottesville County / ZIP 22908 sector", "Charlottesville County / primary ZIP 22908"]
-zillowHomeValueUsd: 533790
 ---
 
 **Engineering Notice for Charlottesville:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Charlottesville County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should permanent restoration start? In Charlottesville, VA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-We coordinate local dispatch coverage around Charlottesville, VA and nearby ZIP sectors.
+Skylight curb flashing in Charlottesville, VA should be sequenced before ridge cap replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22906/22901/22908.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 22906, 22901, 22908, 22909, 22905 (county grid: Charlottesville County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: ice-barrier lap sequence paired with counter-flashing reglet depth near ZIP 22908.
+
+ZIP-corridor snapshot for Charlottesville, VA: sampled sectors include 22906, 22905, 22903, 22908, 22902, 22904, 22901, 22909; county routing grid remains Charlottesville County.
+
+On-site sector marker: Charlottesville County / elevation 456 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22908-9382e1ee

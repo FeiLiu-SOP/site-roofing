@@ -11,25 +11,31 @@ lng: -76.9800
 zipSample: ["20745"]
 zipCodes: ["20745"]
 localPaths: ["Prince George's County / elevation 177 ft band", "Prince George's County / primary ZIP 20745", "Prince George's County / ZIP 20745 sector", "Prince George's County / coords 38.8200, -76.9800"]
-zillowHomeValueUsd: 361925
 ---
 
 **Engineering Notice for Glassmanor:** Structural loading calculated based on 177 ft terrain assessment. Regional dispatch grid: Prince George's County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Hail bruising on Glassmanor, MD ridges may not breach felt until the next wind event.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-We coordinate local dispatch coverage around Glassmanor, MD and nearby ZIP sectors.
+Step: map ventilation intake and exhaust pairs for Glassmanor, MD attic runs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 20745.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 20745 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 20745 (county grid: Prince George's County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Code context: Ventilation ratios for Glassmanor, MD attics should be checked against current mechanical exhaust additions.
+
+Field routing: skylight curb height paired with attic baffle spacing near ZIP 20745.
+
+Coordinate-anchored dispatch note: center reference 38.8200, -76.9800 at elevation ~177 ft aligns with Prince George's County intake staging.
+
+ZIP-corridor snapshot for Glassmanor, MD: sampled sectors include 20745; county routing grid remains Prince George's County.
 
 Service reference: MD-20745-53752b91

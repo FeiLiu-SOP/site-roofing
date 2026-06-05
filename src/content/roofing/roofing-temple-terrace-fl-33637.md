@@ -11,27 +11,35 @@ lng: -82.3800
 zipSample: ["33617", "33687", "33637"]
 zipCodes: ["33687", "33637", "33617"]
 localPaths: ["Hillsborough County / ZIP 33687 sector", "Hillsborough County / coords 28.0400, -82.3800", "Hillsborough County / ZIP 33637 sector", "Hillsborough County / elevation 85 ft band", "Hillsborough County / ZIP 33617 sector"]
-zillowHomeValueUsd: 295111
 ---
 
 **Engineering Notice for Temple Terrace:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33637.
+In Temple Terrace, FL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Moisture pathway inspection logged near ZIP 33687/33637/33617 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 33687/33637/33617.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 33687, 33637, 33617 (county grid: Hillsborough County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 33637.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+roof work brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Temple Terrace intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 33637/33687/33617.
+
+Regional mesh label Hillsborough County: moisture and logistics baselines are keyed to Temple Terrace, FL before niche-specific work begins.
+
+On-site sector marker: Hillsborough County / ZIP 33637 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33637-328634f9

@@ -11,24 +11,35 @@ lng: -77.2600
 zipSample: ["22185", "22180", "22183"]
 zipCodes: ["22185", "22180", "22183"]
 localPaths: ["Fairfax County / ZIP 22183 sector", "Fairfax County / elevation 390 ft band", "Fairfax County / ZIP 22180 sector", "Fairfax County / ZIP 22185 sector", "Fairfax County / primary ZIP 22180"]
-zillowHomeValueUsd: 1072223
 ---
 
 **Engineering Notice for Vienna:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Skylight curb flashing in Vienna, VA should be sequenced before ridge cap replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Vienna, VA, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-In Vienna, VA, seasonal demand can change scheduling windows.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Wind exposure category reviewed for ZIP sector 22183/22180/22185.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 22183, 22180, 22185 (county grid: Fairfax County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Risk flag: In Vienna, VA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: counter-flashing reglet depth plus valley metal gauge referenced in Fairfax County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 22185/22183/22180.
+
+Coordinate-anchored dispatch note: center reference 38.9000, -77.2600 at elevation ~390 ft aligns with Fairfax County intake staging.
+
+Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Vienna, VA before niche-specific work begins.
 
 Service reference: VA-22180-24f1cdda

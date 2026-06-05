@@ -11,26 +11,33 @@ lng: -111.8400
 zipSample: ["84321", "84322", "84341"]
 zipCodes: ["84321", "84322", "84341"]
 localPaths: ["Cache County / primary ZIP 84321", "Cache County / elevation 4514 ft band", "Cache County / ZIP 84321 sector", "Cache County / ZIP 84341 sector", "Cache County / coords 41.7400, -111.8400"]
-zillowHomeValueUsd: 421414
 ---
 
 **Engineering Notice for Logan:** Structural loading calculated based on 4514 ft terrain assessment. Regional dispatch grid: Cache County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Logan, UT roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Is partial dry-in possible? In Logan, UT, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: In Logan, UT, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Moisture pathway inspection logged near ZIP 84341/84321/84322 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 84341/84321/84322 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 84341, 84321, 84322 (county grid: Cache County).
+Wood shake courses in Logan, UT require skip-spacing rules at valleys.
+
+Parapet coping movement in Logan, UT can channel water behind wall cladding.
+
+Scope trace: soffit intake free area plus starter-strip setback referenced in Cache County county grid review.
+
+Regional mesh label Cache County: moisture and logistics baselines are keyed to Logan, UT before niche-specific work begins.
+
+On-site sector marker: Cache County / elevation 4514 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84321-f8259b61

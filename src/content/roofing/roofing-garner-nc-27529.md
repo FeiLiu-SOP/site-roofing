@@ -11,24 +11,33 @@ lng: -78.6200
 zipSample: ["27529", "27699", "27603"]
 zipCodes: ["27603", "27529", "27699"]
 localPaths: ["Wake County / ZIP 27699 sector", "Wake County / elevation 302 ft band", "Wake County / primary ZIP 27529", "Wake County / ZIP 27603 sector", "Wake County / ZIP 27529 sector"]
-zillowHomeValueUsd: 386805
 ---
 
 **Engineering Notice for Garner:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Wake County.
 
 
-Homeowners in Garner, NC often face sudden roofing service problems that require fast action.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Note recent wind events when filing insurance photos for Garner, NC.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Garner, NC exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 27529/27699/27603.
+Hail bruising on Garner, NC ridges may not breach felt until the next wind event.
 
-Dispatch sectors sampled: ZIP 27529, 27699, 27603 (county grid: Wake County).
+FAQ: When should permanent remediation start? In Garner, NC, delayed dry-in can expand insulation and ceiling repairs.
+
+Valley metal in Garner, NC should be reviewed whenever granule loss tracks the water line.
+
+Risk flag: In Garner, NC, interior stains may track from HVAC condensate rather than roof cladding.
+
+roofing service brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Garner intake packet.
+
+On-site sector marker: Wake County / ZIP 27529 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Wake County / ZIP 27603 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27529-e17f113d

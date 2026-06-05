@@ -11,24 +11,33 @@ lng: -91.0400
 zipSample: ["70791", "70819", "70739", "70714", "70818"]
 zipCodes: ["70818", "70739", "70770", "70791", "70819", "70714"]
 localPaths: ["East Baton Rouge Parish / ZIP 70819 sector", "East Baton Rouge Parish / elevation 82 ft band", "East Baton Rouge Parish / primary ZIP 70770", "East Baton Rouge Parish / ZIP 70714 sector", "East Baton Rouge Parish / ZIP 70739 sector"]
-zillowHomeValueUsd: 253846
 ---
 
 **Engineering Notice for Central:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Central, LA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+Across Central, LA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: avoid large upfront payments without milestones.
+Code context: Ventilation ratios for Central, LA attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 70714/70818/70770 coverage.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 70714, 70818, 70770, 70819, 70739 (county grid: East Baton Rouge Parish).
+FAQ: Can you tarp only part of the roof? In Central, LA, yes—if slope and anchor points support safe tie-offs.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+FAQ: How long can shingles wait after storm damage? In Central, LA, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: ice-barrier lap sequence plus skylight curb height referenced in East Baton Rouge Parish county grid review.
+
+Regional mesh label East Baton Rouge Parish: moisture and logistics baselines are keyed to Central, LA before niche-specific work begins.
+
+On-site sector marker: East Baton Rouge Parish / coords 30.5600, -91.0400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70770-7999cfa9

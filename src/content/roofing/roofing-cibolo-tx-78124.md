@@ -11,24 +11,33 @@ lng: -98.2100
 zipSample: ["78108", "78124"]
 zipCodes: ["78108", "78124"]
 localPaths: ["Guadalupe County / coords 29.5600, -98.2100", "Guadalupe County / ZIP 78124 sector", "Guadalupe County / ZIP 78108 sector", "Guadalupe County / primary ZIP 78124", "Guadalupe County / elevation 705 ft band"]
-zillowHomeValueUsd: 344699
 ---
 
 **Engineering Notice for Cibolo:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Guadalupe County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Cibolo, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Our service coordination centers on Cibolo, TX coverage windows and verified intake details.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cibolo, TX, but intake notes help reduce delays.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Wind exposure category reviewed for ZIP sector 78124/78108.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 78124, 78108 (county grid: Guadalupe County).
+Regulatory note: Cibolo, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Low-slope sections in Cibolo, TX need positive drainage before membrane repairs are scoped.
+
+Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Guadalupe County county grid review.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~705 ft across the Guadalupe County area. Coordinates: 29.5600, -98.2100. ZIP sample: 78108, 78124. Regional routing note: Guadalupe County traffic flow is balanced around ZIP 78124 service demand.
+
+On-site sector marker: Guadalupe County / ZIP 78108 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78124-c54fe8d7

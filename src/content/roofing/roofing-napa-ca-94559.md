@@ -11,26 +11,31 @@ lng: -122.3000
 zipSample: ["94558", "94559", "94581"]
 zipCodes: ["94581", "94558", "94559"]
 localPaths: ["Napa County / ZIP 94558 sector", "Napa County / primary ZIP 94559", "Napa County / coords 38.3000, -122.3000", "Napa County / ZIP 94581 sector", "Napa County / elevation 49 ft band"]
-zillowHomeValueUsd: 807828
 ---
 
 **Engineering Notice for Napa:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Napa County.
 
 
-Local conditions in Napa, CA can affect timelines and material choices.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Napa, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Regulatory note: Napa, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94559/94558/94581.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 94559/94558/94581.
+Skylight curb flashing in Napa, CA should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 94559, 94558, 94581 (county grid: Napa County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+roofing service brief: synthetic underlayment slip and starter-strip setback were cross-checked for the Napa intake packet.
+
+Primary postal anchor 94559 with multi-ZIP overlap in Napa; field packets tag Napa County for county-grid reconciliation.
+
+On-site sector marker: Napa County / ZIP 94581 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94559-51c274f7

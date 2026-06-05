@@ -11,25 +11,33 @@ lng: -119.1700
 zipSample: ["99338", "99336", "99337"]
 zipCodes: ["99338", "99337", "99336"]
 localPaths: ["Benton County / ZIP 99337 sector", "Benton County / coords 46.2000, -119.1700", "Benton County / ZIP 99336 sector", "Benton County / ZIP 99338 sector", "Benton County / elevation 554 ft band"]
-zillowHomeValueUsd: 432111
 ---
 
 **Engineering Notice for Kennewick:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Benton County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 99337.
+Regulatory note: Kennewick, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Connection points spot-checked where accessible (ZIP 99336/99337/99338 zone).
+Coastal humidity in Kennewick, WA can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 99336, 99337, 99338 (county grid: Benton County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roof work brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Kennewick intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 99337/99338/99336.
+
+On-site sector marker: Benton County / elevation 554 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Kennewick, WA: sampled sectors include 99338, 99336, 99337; county routing grid remains Benton County.
 
 Service reference: WA-99337-5c95401c

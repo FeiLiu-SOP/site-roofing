@@ -11,26 +11,31 @@ lng: -88.0300
 zipSample: ["60441"]
 zipCodes: ["60441"]
 localPaths: ["Will County / elevation 702 ft band", "Will County / ZIP 60441 sector", "Will County / primary ZIP 60441", "Will County / coords 41.5900, -88.0300"]
-zillowHomeValueUsd: 352652
 ---
 
 **Engineering Notice for Lockport:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Will County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+Step: compare shingle manufacturer wind-zone ratings for Lockport, IL exposure class.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: Lockport, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-In Lockport, IL, seasonal demand can change scheduling windows.
+Across Lockport, IL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Access points and staging constraints recorded for ZIP 60441 coverage.
+Risk flag: In Lockport, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 60441 zone).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 60441 (county grid: Will County).
+Field routing: pipe boot manufacturer match paired with starter-strip setback near ZIP 60441.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 60441.
+
+Coordinate-anchored dispatch note: center reference 41.5900, -88.0300 at elevation ~702 ft aligns with Will County intake staging.
+
+On-site sector marker: Will County / elevation 702 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60441-a518f030

@@ -11,25 +11,31 @@ lng: -94.1500
 zipSample: ["77708", "77713", "77706", "77704", "77720"]
 zipCodes: ["77713", "77701", "77705", "77725", "77726", "77703", "77702", "77708", "77720", "77710", "77707", "77704"]
 localPaths: ["Jefferson County / primary ZIP 77708", "Jefferson County / ZIP 77704 sector", "Jefferson County / coords 30.0800, -94.1500", "Jefferson County / ZIP 77713 sector", "Jefferson County / ZIP 77706 sector"]
-zillowHomeValueUsd: 171384
 ---
 
 **Engineering Notice for Beaumont:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-In Beaumont, TX, seasonal demand can change scheduling windows.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 77708.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Beaumont, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 77702/77701/77708 coverage.
+Tile and shingle mixes in Beaumont, TX require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 77702, 77701, 77708, 77710, 77720 (county grid: Jefferson County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Scope trace: skylight curb height plus ice-barrier lap sequence referenced in Jefferson County county grid review.
+
+On-site sector marker: Jefferson County / coords 30.0800, -94.1500 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Jefferson County / ZIP 77720 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77708-23bad9ea

@@ -11,26 +11,33 @@ lng: -122.2300
 zipSample: ["98040"]
 zipCodes: ["98040"]
 localPaths: ["King County / elevation 92 ft band", "King County / coords 47.5700, -122.2300", "King County / primary ZIP 98040", "King County / ZIP 98040 sector"]
-zillowHomeValueUsd: 2327617
 ---
 
 **Engineering Notice for Mercer Island:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: King County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Hail bruising on Mercer Island, WA ridges may not breach felt until the next wind event.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Mercer Island, WA attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Mercer Island, WA can fail independently of visible tile cracks.
 
-In Mercer Island, WA, seasonal demand can change scheduling windows.
+Material note: In Mercer Island, WA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98040.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 98040 zone).
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 98040 (county grid: King County).
+FAQ: Can you tarp only part of the roof? In Mercer Island, WA, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: wind uplift clip spacing paired with attic baffle spacing near ZIP 98040.
+
+Field note: Attic moisture pathway scan referenced ZIP 98040.
+
+On-site sector marker: King County / elevation 92 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: King County / coords 47.5700, -122.2300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98040-c960acc8

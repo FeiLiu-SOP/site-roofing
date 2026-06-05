@@ -11,26 +11,31 @@ lng: -121.2500
 zipSample: ["95677", "95765"]
 zipCodes: ["95677", "95765"]
 localPaths: ["Placer County / ZIP 95677 sector", "Placer County / coords 38.8100, -121.2500", "Placer County / elevation 387 ft band", "Placer County / ZIP 95765 sector", "Placer County / primary ZIP 95677"]
-zillowHomeValueUsd: 655611
 ---
 
 **Engineering Notice for Rocklin:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Placer County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Rocklin, CA, but intake notes help reduce delays.
+We coordinate Rocklin, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: address recurring issues early to prevent bigger damage.
+Parapet coping movement in Rocklin, CA can channel water behind wall cladding.
 
-We coordinate local dispatch coverage around Rocklin, CA and nearby ZIP sectors.
+Code context: Ventilation ratios for Rocklin, CA attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95677/95765.
+FAQ: Is partial dry-in possible? In Rocklin, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 95677/95765 coverage.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 95677, 95765 (county grid: Placer County).
+Field routing: pipe boot manufacturer match paired with drip-edge metal profile near ZIP 95677.
+
+Field note: Valley debris and granule loss noted for ZIP 95765/95677.
+
+On-site sector marker: Placer County / elevation 387 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Rocklin, CA: sampled sectors include 95765, 95677; county routing grid remains Placer County.
 
 Service reference: CA-95677-f19e6606

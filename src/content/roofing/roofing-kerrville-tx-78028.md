@@ -11,26 +11,33 @@ lng: -99.1300
 zipSample: ["78028"]
 zipCodes: ["78028"]
 localPaths: ["Kerr County / elevation 1624 ft band", "Kerr County / ZIP 78028 sector", "Kerr County / coords 30.0400, -99.1300", "Kerr County / primary ZIP 78028"]
-zillowHomeValueUsd: 348610
 ---
 
 **Engineering Notice for Kerrville:** Structural loading calculated based on 1624 ft terrain assessment. Regional dispatch grid: Kerr County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Kerrville, TX.
 
-Local conditions in Kerrville, TX can affect timelines and material choices.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Kerrville, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: address recurring issues early to prevent bigger damage.
+Skylight curb flashing in Kerrville, TX should be sequenced before ridge cap replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 78028 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Access points and staging constraints recorded for ZIP 78028 coverage.
+FAQ: Can you tarp only part of the roof? In Kerrville, TX, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 78028 (county grid: Kerr County).
+Risk flag: Tile underlayment age in Kerrville, TX can fail independently of visible tile cracks.
+
+Scope trace: drip-edge metal profile plus valley metal gauge referenced in Kerr County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 78028.
+
+Primary postal anchor 78028 with multi-ZIP overlap in Kerrville; field packets tag Kerr County for county-grid reconciliation.
+
+On-site sector marker: Kerr County / ZIP 78028 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78028-30dd877f

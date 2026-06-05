@@ -11,26 +11,31 @@ lng: -71.5000
 zipSample: ["02895"]
 zipCodes: ["02895"]
 localPaths: ["Providence County / primary ZIP 02895", "Providence County / elevation 144 ft band", "Providence County / ZIP 02895 sector", "Providence County / coords 42.0000, -71.5000"]
-zillowHomeValueUsd: 381054
 ---
 
 **Engineering Notice for Woonsocket:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Providence County.
 
 
-Tip: request a written scope before work starts.
+Skylight curb flashing in Woonsocket, RI should be sequenced before ridge cap replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Woonsocket, RI can fail independently of visible tile cracks.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Woonsocket, RI, but intake notes help reduce delays.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Moisture pathway inspection logged near ZIP 02895 intake.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 02895.
+Regulatory note: Woonsocket, RI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 02895 (county grid: Providence County).
+Scope trace: shingle exposure calibration plus attic baffle spacing referenced in Providence County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 02895.
+
+On-site sector marker: Providence County / primary ZIP 02895 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Providence County: moisture and logistics baselines are keyed to Woonsocket, RI before niche-specific work begins.
 
 Service reference: RI-02895-f666225b

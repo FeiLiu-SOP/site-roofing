@@ -11,24 +11,29 @@ lng: -123.2100
 zipSample: ["95418", "95482"]
 zipCodes: ["95482", "95418"]
 localPaths: ["Mendocino County / elevation 650 ft band", "Mendocino County / primary ZIP 95482", "Mendocino County / ZIP 95418 sector", "Mendocino County / ZIP 95482 sector", "Mendocino County / coords 39.1500, -123.2100"]
-zillowHomeValueUsd: 477192
 ---
 
 **Engineering Notice for Ukiah:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Mendocino County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent service line items.
 
-We coordinate local dispatch coverage around Ukiah, CA and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Ukiah, CA attics should be checked against current mechanical exhaust additions.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Note recent wind events when filing insurance photos for Ukiah, CA.
 
-Field note: Connection points spot-checked where accessible (ZIP 95482/95418 zone).
+TPO seam welds in Ukiah, CA commercial sections need probe tests after freeze events.
 
-Dispatch sectors sampled: ZIP 95482, 95418 (county grid: Mendocino County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: starter-strip setback plus wind uplift clip spacing referenced in Mendocino County county grid review.
+
+On-site sector marker: Mendocino County / elevation 650 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Mendocino County / ZIP 95482 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95482-03bfa952

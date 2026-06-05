@@ -11,27 +11,35 @@ lng: -81.8500
 zipSample: ["44116"]
 zipCodes: ["44116"]
 localPaths: ["Cuyahoga County / primary ZIP 44116", "Cuyahoga County / coords 41.4700, -81.8500", "Cuyahoga County / ZIP 44116 sector", "Cuyahoga County / elevation 699 ft band"]
-zillowHomeValueUsd: 393341
 ---
 
 **Engineering Notice for Rocky River:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Coastal humidity in Rocky River, OH can slow shingle seal-down after shoulder-season storms.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 44116.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Access points and staging constraints recorded for ZIP 44116 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44116.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 44116 (county grid: Cuyahoga County).
+Our Rocky River, OH dispatch packets reference county grid Cuyahoga County and elevation band 699 ft.
+
+Regulatory note: Rocky River, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: attic baffle spacing plus pipe boot manufacturer match referenced in Cuyahoga County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 44116.
+
+Coordinate-anchored dispatch note: center reference 41.4700, -81.8500 at elevation ~699 ft aligns with Cuyahoga County intake staging.
+
+Primary postal anchor 44116 with multi-ZIP overlap in Rocky River; field packets tag Cuyahoga County for county-grid reconciliation.
 
 Service reference: OH-44116-bf81109b

@@ -11,25 +11,35 @@ lng: -111.5300
 zipSample: ["85117", "85119", "85178", "85120"]
 zipCodes: ["85178", "85119", "85117", "85120"]
 localPaths: ["Pinal County / ZIP 85178 sector", "Pinal County / ZIP 85120 sector", "Pinal County / primary ZIP 85119", "Pinal County / elevation 1699 ft band", "Pinal County / coords 33.4000, -111.5300"]
-zillowHomeValueUsd: 398023
 ---
 
 **Engineering Notice for Apache Junction:** Structural loading calculated based on 1699 ft terrain assessment. Regional dispatch grid: Pinal County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: request a written scope before work starts.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 85119.
+Synthetic underlayment slip in Apache Junction, AZ is often tied to deck moisture, not wind alone.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around Apache Junction, AZ and nearby ZIP sectors.
+Step: map ventilation intake and exhaust pairs for Apache Junction, AZ attic runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85178/85120/85117.
+Request dry-in and service phases as separate line items. Serving ZIP Code: 85119.
 
-Dispatch sectors sampled: ZIP 85178, 85120, 85117, 85119 (county grid: Pinal County).
+Code context: Ventilation ratios for Apache Junction, AZ attics should be checked against current mechanical exhaust additions.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: valley metal gauge paired with wind uplift clip spacing near ZIP 85119.
+
+Field note: Valley debris and granule loss noted for ZIP 85120/85119/85178.
+
+On-site sector marker: Pinal County / ZIP 85120 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Pinal County / ZIP 85119 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85119-ad208f25

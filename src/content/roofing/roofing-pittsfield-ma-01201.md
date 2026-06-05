@@ -11,24 +11,31 @@ lng: -73.2600
 zipSample: ["01203", "01201", "01202"]
 zipCodes: ["01202", "01203", "01201"]
 localPaths: ["Berkshire County / ZIP 01201 sector", "Berkshire County / elevation 1056 ft band", "Berkshire County / ZIP 01202 sector", "Berkshire County / primary ZIP 01201", "Berkshire County / coords 42.4500, -73.2600"]
-zillowHomeValueUsd: 304111
 ---
 
 **Engineering Notice for Pittsfield:** Structural loading calculated based on 1056 ft terrain assessment. Regional dispatch grid: Berkshire County.
 
 
-Structured milestones protect both sides when scheduling work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: request a written scope before work starts.
+Skylight curb flashing in Pittsfield, MA should be sequenced before ridge cap replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 01201.
 
-Our service coordination centers on Pittsfield, MA coverage windows and verified intake details.
+Risk flag: In Pittsfield, MA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Pittsfield, MA, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 01201/01203/01202 zone).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 01201, 01203, 01202 (county grid: Berkshire County).
+Step: separate emergency tarp scope from permanent service line items.
+
+Field routing: wind uplift clip spacing paired with ice-barrier lap sequence near ZIP 01201.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 01202/01203/01201.
+
+**Regional Infrastructure Brief:** Grid anchor set to Berkshire County. Reference elevation: 1056 ft. Primary coordinates: 42.4500, -73.2600. ZIP sample: 01202, 01201, 01203. Regional routing note: Berkshire County traffic flow is balanced around ZIP 01201 service demand.
+
+Primary postal anchor 01201 with multi-ZIP overlap in Pittsfield; field packets tag Berkshire County for county-grid reconciliation.
 
 Service reference: MA-01201-8f2587f2

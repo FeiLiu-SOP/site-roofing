@@ -11,24 +11,29 @@ lng: -85.0300
 zipSample: ["36868", "36867", "36869"]
 zipCodes: ["36867", "36869", "36868"]
 localPaths: ["Russell County / coords 32.4600, -85.0300", "Russell County / primary ZIP 36869", "Russell County / elevation 456 ft band", "Russell County / ZIP 36868 sector", "Russell County / ZIP 36867 sector"]
-zillowHomeValueUsd: 172072
 ---
 
 **Engineering Notice for Phenix City:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Russell County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on Phenix City, AL coverage windows and verified intake details.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Phenix City, AL, but intake notes help reduce delays.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Transparent pricing helps you compare like-for-like scope items.
+Wind-zone note: Phenix City, AL exposure class can change starter-strip and cap nail schedules.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 36869/36868/36867.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 36869, 36868, 36867 (county grid: Russell County).
+Attic ventilation deficits in Phenix City, AL can mimic roof leaks at ceiling penetrations.
+
+Scope trace: valley metal gauge plus skylight curb height referenced in Russell County county grid review.
+
+ZIP-corridor snapshot for Phenix City, AL: sampled sectors include 36868, 36869, 36867; county routing grid remains Russell County.
+
+On-site sector marker: Russell County / ZIP 36867 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36869-d5cce7b6

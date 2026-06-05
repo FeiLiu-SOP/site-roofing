@@ -11,25 +11,29 @@ lng: -90.4700
 zipSample: ["63043", "63146"]
 zipCodes: ["63146", "63043"]
 localPaths: ["St. Louis County / elevation 535 ft band", "St. Louis County / ZIP 63043 sector", "St. Louis County / ZIP 63146 sector", "St. Louis County / primary ZIP 63043", "St. Louis County / coords 38.7200, -90.4700"]
-zillowHomeValueUsd: 258732
 ---
 
 **Engineering Notice for Maryland Heights:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-Tip: request a written scope before work starts.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In Maryland Heights, MO, delayed dry-in can expand insulation and ceiling repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-We coordinate local dispatch coverage around Maryland Heights, MO and nearby ZIP sectors.
+We coordinate Maryland Heights, MO roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 63043.
+Attic ventilation deficits in Maryland Heights, MO can mimic roof leaks at ceiling penetrations.
 
-Field note: Connection points spot-checked where accessible (ZIP 63043/63146 zone).
+Wind-zone note: Maryland Heights, MO exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 63043, 63146 (county grid: St. Louis County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: counter-flashing reglet depth paired with starter-strip setback near ZIP 63043.
+
+On-site sector marker: St. Louis County / elevation 535 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Louis County / primary ZIP 63043 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63043-d00d5971

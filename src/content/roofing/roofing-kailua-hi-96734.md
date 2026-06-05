@@ -11,26 +11,31 @@ lng: -157.7400
 zipSample: ["96734"]
 zipCodes: ["96734"]
 localPaths: ["Honolulu County / elevation 23 ft band", "Honolulu County / primary ZIP 96734", "Honolulu County / coords 21.3900, -157.7400", "Honolulu County / ZIP 96734 sector"]
-zillowHomeValueUsd: 1523548
 ---
 
 **Engineering Notice for Kailua:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Honolulu County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: avoid large upfront payments without milestones.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: When should permanent service start? In Kailua, HI, delayed dry-in can expand insulation and ceiling repairs.
 
-We coordinate local dispatch coverage around Kailua, HI and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 96734 intake.
+Low-slope sections in Kailua, HI need positive drainage before membrane repairs are scoped.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96734.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 96734 (county grid: Honolulu County).
+Scope trace: pipe boot manufacturer match plus ice-barrier lap sequence referenced in Honolulu County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 96734.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Honolulu County and primary ZIP 96734. Terrain reference: 23 ft. Center point: 21.3900, -157.7400. ZIP sample: 96734. Logistics priority: Serving residential sectors across Honolulu County and north-east ZIP 96734 grid.
+
+Regional mesh label Honolulu County: moisture and logistics baselines are keyed to Kailua, HI before niche-specific work begins.
 
 Service reference: HI-96734-7a56e8ff

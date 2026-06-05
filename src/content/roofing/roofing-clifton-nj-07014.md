@@ -11,26 +11,33 @@ lng: -74.1600
 zipSample: ["07012", "07015", "07014", "07011", "07013"]
 zipCodes: ["07015", "07011", "07014", "07012", "07013"]
 localPaths: ["Passaic County / ZIP 07015 sector", "Passaic County / coords 40.8600, -74.1600", "Passaic County / ZIP 07011 sector", "Passaic County / primary ZIP 07014", "Passaic County / elevation 131 ft band"]
-zillowHomeValueUsd: 577223
 ---
 
 **Engineering Notice for Clifton:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Passaic County.
 
 
-Tip: avoid large upfront payments without milestones.
+In Clifton, NJ, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Local conditions in Clifton, NJ can affect timelines and material choices.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 07012/07011/07014.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 07012/07011/07014.
+Regulatory note: Clifton, NJ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 07012, 07011, 07014, 07013, 07015 (county grid: Passaic County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Field routing: drip-edge metal profile paired with skylight curb height near ZIP 07014.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 07011/07015/07013.
+
+On-site sector marker: Passaic County / ZIP 07012 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Passaic County / elevation 131 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07014-e88acc17

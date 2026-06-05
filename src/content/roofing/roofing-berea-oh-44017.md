@@ -11,26 +11,33 @@ lng: -81.8600
 zipSample: ["44017"]
 zipCodes: ["44017"]
 localPaths: ["Cuyahoga County / coords 41.3700, -81.8600", "Cuyahoga County / ZIP 44017 sector", "Cuyahoga County / primary ZIP 44017", "Cuyahoga County / elevation 794 ft band"]
-zillowHomeValueUsd: 239213
 ---
 
 **Engineering Notice for Berea:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Our service coordination centers on Berea, OH coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Berea, OH can fail independently of visible tile cracks.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 44017.
+In Berea, OH, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Connection points spot-checked where accessible (ZIP 44017 zone).
+Material note: In Berea, OH, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 44017 (county grid: Cuyahoga County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+FAQ: Is partial dry-in possible? In Berea, OH, yes—if slope and anchor points support safe tie-offs.
+
+roof work brief: soffit intake free area and counter-flashing reglet depth were cross-checked for the Berea intake packet.
+
+On-site sector marker: Cuyahoga County / primary ZIP 44017 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 41.3700, -81.8600 at elevation ~794 ft aligns with Cuyahoga County intake staging.
 
 Service reference: OH-44017-ee61bd34

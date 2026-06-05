@@ -11,27 +11,33 @@ lng: -84.5700
 zipSample: ["45011", "45015", "45013"]
 zipCodes: ["45015", "45013", "45011"]
 localPaths: ["Butler County / primary ZIP 45011", "Butler County / ZIP 45015 sector", "Butler County / elevation 594 ft band", "Butler County / coords 39.3900, -84.5700", "Butler County / ZIP 45013 sector"]
-zillowHomeValueUsd: 367929
 ---
 
 **Engineering Notice for Hamilton:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Butler County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 45011.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hamilton, OH, but intake notes help reduce delays.
+Across Hamilton, OH, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 45011/45015/45013.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Connection points spot-checked where accessible (ZIP 45011/45015/45013 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 45011, 45015, 45013 (county grid: Butler County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+FAQ: How long can shingles wait after storm damage? In Hamilton, OH, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: deck sheathing thickness plus counter-flashing reglet depth referenced in Butler County county grid review.
+
+On-site sector marker: Butler County / ZIP 45015 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Hamilton, OH: sampled sectors include 45011, 45015, 45013; county routing grid remains Butler County.
 
 Service reference: OH-45011-f5616ca8

@@ -11,24 +11,33 @@ lng: -157.8500
 zipSample: ["96818", "96843", "96804", "96810", "96802"]
 zipCodes: ["96844", "96814", "96818", "96812", "96802", "96849", "96858", "96816", "96850", "96809", "96807", "96830"]
 localPaths: ["Honolulu County / ZIP 96810 sector", "Honolulu County / ZIP 96802 sector", "Honolulu County / ZIP 96818 sector", "Honolulu County / coords 21.3300, -157.8500", "Honolulu County / ZIP 96843 sector"]
-zillowHomeValueUsd: 530513
 ---
 
 **Engineering Notice for Honolulu:** Structural loading calculated based on 256 ft terrain assessment. Regional dispatch grid: Honolulu County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: compare shingle manufacturer wind-zone ratings for Honolulu, HI exposure class.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Honolulu, HI, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Honolulu, HI exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Wind exposure category reviewed for ZIP sector 96807/96806/96858.
+Risk flag: In Honolulu, HI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 96807, 96806, 96858, 96814, 96828 (county grid: Honolulu County).
+TPO seam welds in Honolulu, HI commercial sections need probe tests after freeze events.
+
+FAQ: When should permanent restoration start? In Honolulu, HI, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: synthetic underlayment slip paired with deck sheathing thickness near ZIP 96859.
+
+Field note: Valley debris and granule loss noted for ZIP 96814/96830/96802.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~256 ft across the Honolulu County area. Coordinates: 21.3300, -157.8500. ZIP sample: 96817, 96819, 96836, 96810, 96826. Service perimeter note: Coverage extends through Honolulu County with dispatch centered near ZIP 96859.
+
+On-site sector marker: Honolulu County / ZIP 96802 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96859-439d946f

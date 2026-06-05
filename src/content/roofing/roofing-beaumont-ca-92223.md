@@ -11,24 +11,29 @@ lng: -116.9800
 zipSample: ["92223"]
 zipCodes: ["92223"]
 localPaths: ["Riverside County / ZIP 92223 sector", "Riverside County / elevation 2602 ft band", "Riverside County / coords 33.9100, -116.9800", "Riverside County / primary ZIP 92223"]
-zillowHomeValueUsd: 537353
 ---
 
 **Engineering Notice for Beaumont:** Structural loading calculated based on 2602 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-In Beaumont, CA, seasonal demand can change scheduling windows.
+Granule embedment loss on Beaumont, CA north slopes can precede mat exposure.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Connection points spot-checked where accessible (ZIP 92223 zone).
+Wind-zone note: Beaumont, CA exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 92223 (county grid: Riverside County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: drip-edge metal profile paired with soffit intake free area near ZIP 92223.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~2602 ft across the Riverside County area. Coordinates: 33.9100, -116.9800. ZIP sample: 92223. Regional routing note: Riverside County traffic flow is balanced around ZIP 92223 service demand.
+
+ZIP-corridor snapshot for Beaumont, CA: sampled sectors include 92223; county routing grid remains Riverside County.
 
 Service reference: CA-92223-26ab8032

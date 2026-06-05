@@ -11,27 +11,31 @@ lng: -97.9900
 zipSample: ["78738", "78734"]
 zipCodes: ["78738", "78734"]
 localPaths: ["Travis County / ZIP 78734 sector", "Travis County / primary ZIP 78738", "Travis County / elevation 843 ft band", "Travis County / ZIP 78738 sector", "Travis County / coords 30.3500, -97.9900"]
-zillowHomeValueUsd: 840146
 ---
 
 **Engineering Notice for Lakeway:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: Travis County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 78738.
+FAQ: When should permanent service start? In Lakeway, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Lakeway, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 78738/78734.
+Regulatory note: Lakeway, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 78738/78734 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 78738, 78734 (county grid: Travis County).
+Step: separate emergency tarp scope from permanent service line items.
+
+Field routing: starter-strip setback paired with chimney cricket slope near ZIP 78738.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Travis County and primary ZIP 78738. Terrain reference: 843 ft. Center point: 30.3500, -97.9900. ZIP sample: 78738, 78734. Regional routing note: Travis County traffic flow is balanced around ZIP 78738 service demand.
+
+On-site sector marker: Travis County / primary ZIP 78738 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78738-ad74e94e

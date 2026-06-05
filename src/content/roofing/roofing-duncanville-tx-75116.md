@@ -11,27 +11,33 @@ lng: -96.9100
 zipSample: ["75138", "75116", "75137"]
 zipCodes: ["75138", "75116", "75137"]
 localPaths: ["Dallas County / ZIP 75137 sector", "Dallas County / ZIP 75116 sector", "Dallas County / ZIP 75138 sector", "Dallas County / primary ZIP 75116", "Dallas County / coords 32.6500, -96.9100"]
-zillowHomeValueUsd: 273602
 ---
 
 **Engineering Notice for Duncanville:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Dallas County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 75116.
+Risk flag: In Duncanville, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Duncanville, TX coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Across Duncanville, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Transparent pricing helps you compare like-for-like scope items.
+Code context: Ventilation ratios for Duncanville, TX attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75116/75138/75137.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Access points and staging constraints recorded for ZIP 75116/75138/75137 coverage.
+Step: map ventilation intake and exhaust pairs for Duncanville, TX attic runs.
 
-Dispatch sectors sampled: ZIP 75116, 75138, 75137 (county grid: Dallas County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Tip: Note recent wind events when filing insurance photos for Duncanville, TX.
+
+Field routing: skylight curb height paired with chimney cricket slope near ZIP 75116.
+
+On-site sector marker: Dallas County / ZIP 75116 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~728 ft across the Dallas County area. Coordinates: 32.6500, -96.9100. ZIP sample: 75138, 75137, 75116. Service perimeter note: Coverage extends through Dallas County with dispatch centered near ZIP 75116.
 
 Service reference: TX-75116-a9d1685d

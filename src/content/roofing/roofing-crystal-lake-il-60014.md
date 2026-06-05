@@ -11,26 +11,33 @@ lng: -88.3400
 zipSample: ["60012", "60014", "60039"]
 zipCodes: ["60014", "60039", "60012"]
 localPaths: ["McHenry County / elevation 902 ft band", "McHenry County / coords 42.2300, -88.3400", "McHenry County / ZIP 60014 sector", "McHenry County / ZIP 60012 sector", "McHenry County / primary ZIP 60014"]
-zillowHomeValueUsd: 359935
 ---
 
 **Engineering Notice for Crystal Lake:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: McHenry County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Homeowners in Crystal Lake, IL often face sudden roof work problems that require fast action.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In Crystal Lake, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 60014/60012/60039 zone).
+Confirm ventilation balance during the same appointment. Serving ZIP Code: 60014.
 
-Field note: Access points and staging constraints recorded for ZIP 60014/60012/60039 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 60014, 60012, 60039 (county grid: McHenry County).
+Granule embedment loss on Crystal Lake, IL north slopes can precede mat exposure.
+
+Risk flag: In Crystal Lake, IL, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: drip-edge metal profile paired with starter-strip setback near ZIP 60014.
+
+On-site sector marker: McHenry County / ZIP 60039 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 60014 with multi-ZIP overlap in Crystal Lake; field packets tag McHenry County for county-grid reconciliation.
 
 Service reference: IL-60014-83557a8b

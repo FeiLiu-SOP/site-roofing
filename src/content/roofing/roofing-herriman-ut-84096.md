@@ -11,26 +11,35 @@ lng: -112.0200
 zipSample: ["84096"]
 zipCodes: ["84096"]
 localPaths: ["Salt Lake County / elevation 5007 ft band", "Salt Lake County / primary ZIP 84096", "Salt Lake County / coords 40.4900, -112.0200", "Salt Lake County / ZIP 84096 sector"]
-zillowHomeValueUsd: 604125
 ---
 
 **Engineering Notice for Herriman:** Structural loading calculated based on 5007 ft terrain assessment. Regional dispatch grid: Salt Lake County.
 
 
-Our service coordination centers on Herriman, UT coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: request a written scope before work starts.
+TPO seam welds in Herriman, UT commercial sections need probe tests after freeze events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84096.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Wind exposure category reviewed for ZIP sector 84096.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 84096 (county grid: Salt Lake County).
+Regulatory note: Herriman, UT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+FAQ: How long can shingles wait after storm damage? In Herriman, UT, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: ice-barrier lap sequence plus chimney cricket slope referenced in Salt Lake County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 84096.
+
+On-site sector marker: Salt Lake County / primary ZIP 84096 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Salt Lake County / coords 40.4900, -112.0200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84096-5fc10562

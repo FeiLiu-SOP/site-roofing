@@ -11,26 +11,33 @@ lng: -77.3900
 zipSample: ["28546", "28544", "28540", "28545", "28547"]
 zipCodes: ["28540", "28545", "28541", "28547", "28543", "28546", "28542", "28544"]
 localPaths: ["Onslow County / coords 34.7300, -77.3900", "Onslow County / ZIP 28545 sector", "Onslow County / ZIP 28546 sector", "Onslow County / ZIP 28540 sector", "Onslow County / ZIP 28547 sector"]
-zillowHomeValueUsd: 266884
 ---
 
 **Engineering Notice for Jacksonville:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Onslow County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Jacksonville, NC exposure class can change starter-strip and cap nail schedules.
 
-In Jacksonville, NC, urgent roof work issues can escalate quickly.
+Step: map ventilation intake and exhaust pairs for Jacksonville, NC attic runs.
 
-Our service coordination centers on Jacksonville, NC coverage windows and verified intake details.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 28546.
 
-Tip: request a written scope before work starts.
+Risk flag: In Jacksonville, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-Transparent pricing helps you compare like-for-like scope items.
+Material note: In Jacksonville, NC, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Access points and staging constraints recorded for ZIP 28541/28542/28547 coverage.
+Low-slope sections in Jacksonville, NC need positive drainage before membrane repairs are scoped.
 
-Field note: Moisture pathway inspection logged near ZIP 28541/28542/28547 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 28541, 28542, 28547, 28540, 28543 (county grid: Onslow County).
+FAQ: Is partial dry-in possible? In Jacksonville, NC, yes—if slope and anchor points support safe tie-offs.
+
+roof work brief: shingle exposure calibration and ridge cap nail schedule were cross-checked for the Jacksonville intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 28543/28545/28541.
+
+ZIP-corridor snapshot for Jacksonville, NC: sampled sectors include 28540, 28547, 28542, 28544, 28546, 28543, 28541, 28545; county routing grid remains Onslow County.
+
+On-site sector marker: Onslow County / ZIP 28545 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28546-aecd2984

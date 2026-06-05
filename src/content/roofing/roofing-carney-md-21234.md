@@ -11,25 +11,31 @@ lng: -76.5200
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / elevation 466 ft band", "Baltimore County / coords 39.4100, -76.5200", "Baltimore County / primary ZIP 21234", "Baltimore County / ZIP 21234 sector"]
-zillowHomeValueUsd: 301672
 ---
 
 **Engineering Notice for Carney:** Structural loading calculated based on 466 ft terrain assessment. Regional dispatch grid: Baltimore County.
 
 
-We coordinate local dispatch coverage around Carney, MD and nearby ZIP sectors.
+Granule embedment loss on Carney, MD north slopes can precede mat exposure.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 21234.
+FAQ: How long can shingles wait after storm damage? In Carney, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-Clear documentation helps align materials, labor, and timeline.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: map ventilation intake and exhaust pairs for Carney, MD attic runs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Connection points spot-checked where accessible (ZIP 21234 zone).
+Risk flag: Tile underlayment age in Carney, MD can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 21234 (county grid: Baltimore County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: deck sheathing thickness plus drip-edge metal profile referenced in Baltimore County county grid review.
+
+On-site sector marker: Baltimore County / coords 39.4100, -76.5200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Baltimore County / primary ZIP 21234 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21234-35ec4c23

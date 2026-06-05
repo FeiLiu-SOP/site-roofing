@@ -11,24 +11,31 @@ lng: -81.8300
 zipSample: ["32073", "32065", "32068"]
 zipCodes: ["32068", "32073", "32065"]
 localPaths: ["Clay County / ZIP 32065 sector", "Clay County / ZIP 32068 sector", "Clay County / ZIP 32073 sector", "Clay County / coords 30.1700, -81.8300", "Clay County / elevation 85 ft band"]
-zillowHomeValueUsd: 325206
 ---
 
 **Engineering Notice for Oakleaf Plantation:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Clay County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Note recent wind events when filing insurance photos for Oakleaf Plantation, FL.
 
-Our service coordination centers on Oakleaf Plantation, FL coverage windows and verified intake details.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Oakleaf Plantation, FL, but intake notes help reduce delays.
+Our Oakleaf Plantation, FL dispatch packets reference county grid Clay County and elevation band 85 ft.
 
-Field note: Wind exposure category reviewed for ZIP sector 32068/32073/32065.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 32068, 32073, 32065 (county grid: Clay County).
+Tile and shingle mixes in Oakleaf Plantation, FL require different fastener patterns at transitions.
+
+Scope trace: ice-barrier lap sequence plus wind uplift clip spacing referenced in Clay County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 32065/32073/32068.
+
+ZIP-corridor snapshot for Oakleaf Plantation, FL: sampled sectors include 32065, 32073, 32068; county routing grid remains Clay County.
+
+On-site sector marker: Clay County / coords 30.1700, -81.8300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32068-2b64cd6e

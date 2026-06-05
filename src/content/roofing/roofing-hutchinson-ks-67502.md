@@ -11,27 +11,33 @@ lng: -97.9100
 zipSample: ["67502", "67501"]
 zipCodes: ["67501", "67502"]
 localPaths: ["Reno County / coords 38.0700, -97.9100", "Reno County / elevation 1552 ft band", "Reno County / ZIP 67501 sector", "Reno County / ZIP 67502 sector", "Reno County / primary ZIP 67502"]
-zillowHomeValueUsd: 212248
 ---
 
 **Engineering Notice for Hutchinson:** Structural loading calculated based on 1552 ft terrain assessment. Regional dispatch grid: Reno County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 67502.
+Code context: Ventilation ratios for Hutchinson, KS attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Hutchinson, KS and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for Hutchinson, KS.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hutchinson, KS, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 67502/67501.
+Low-slope sections in Hutchinson, KS need positive drainage before membrane repairs are scoped.
 
-Field note: Wind exposure category reviewed for ZIP sector 67502/67501.
+FAQ: Can you tarp only part of the roof? In Hutchinson, KS, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 67502, 67501 (county grid: Reno County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: synthetic underlayment slip paired with attic baffle spacing near ZIP 67502.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 67501/67502.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~1552 ft across the Reno County area. Coordinates: 38.0700, -97.9100. ZIP sample: 67501, 67502. Regional routing note: Reno County traffic flow is balanced around ZIP 67502 service demand.
+
+ZIP-corridor snapshot for Hutchinson, KS: sampled sectors include 67501, 67502; county routing grid remains Reno County.
 
 Service reference: KS-67502-b5d2f434

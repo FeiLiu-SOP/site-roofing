@@ -11,26 +11,33 @@ lng: -89.9900
 zipSample: ["39043", "39042"]
 zipCodes: ["39042", "39043"]
 localPaths: ["Rankin County / ZIP 39042 sector", "Rankin County / primary ZIP 39042", "Rankin County / elevation 522 ft band", "Rankin County / coords 32.2800, -89.9900", "Rankin County / ZIP 39043 sector"]
-zillowHomeValueUsd: 282145
 ---
 
 **Engineering Notice for Brandon:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Rankin County.
 
 
-Homeowners in Brandon, MS often face sudden roof work problems that require fast action.
+Freeze-thaw cycles around Brandon, MS stress nail pops along eaves and rake edges.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Brandon, MS.
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-We coordinate local dispatch coverage around Brandon, MS and nearby ZIP sectors.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 39042/39043.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 39042/39043.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 39042, 39043 (county grid: Rankin County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+roof work brief: soffit intake free area and starter-strip setback were cross-checked for the Brandon intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 39042/39043.
+
+On-site sector marker: Rankin County / ZIP 39043 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Rankin County / coords 32.2800, -89.9900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39042-0becd413

@@ -11,27 +11,29 @@ lng: -112.3100
 zipSample: ["84074"]
 zipCodes: ["84074"]
 localPaths: ["Tooele County / ZIP 84074 sector", "Tooele County / primary ZIP 84074", "Tooele County / coords 40.5400, -112.3100", "Tooele County / elevation 4925 ft band"]
-zillowHomeValueUsd: 464580
 ---
 
 **Engineering Notice for Tooele:** Structural loading calculated based on 4925 ft terrain assessment. Regional dispatch grid: Tooele County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Tooele, UT exposure class can change starter-strip and cap nail schedules.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 84074.
+Step: compare shingle manufacturer wind-zone ratings for Tooele, UT exposure class.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 84074.
 
-In Tooele, UT, seasonal demand can change scheduling windows.
+Tile and shingle mixes in Tooele, UT require different fastener patterns at transitions.
 
-Field note: Wind exposure category reviewed for ZIP sector 84074.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84074.
+FAQ: Is partial dry-in possible? In Tooele, UT, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 84074 (county grid: Tooele County).
+Scope trace: deck sheathing thickness plus pipe boot manufacturer match referenced in Tooele County county grid review.
+
+On-site sector marker: Tooele County / ZIP 84074 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Tooele County / coords 40.5400, -112.3100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: UT-84074-d1e3ddf4

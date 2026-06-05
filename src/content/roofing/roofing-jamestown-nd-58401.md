@@ -11,26 +11,33 @@ lng: -98.6900
 zipSample: ["58401", "58405", "58402"]
 zipCodes: ["58405", "58401", "58402"]
 localPaths: ["Stutsman County / elevation 1424 ft band", "Stutsman County / ZIP 58405 sector", "Stutsman County / coords 46.9100, -98.6900", "Stutsman County / primary ZIP 58401", "Stutsman County / ZIP 58402 sector"]
-zillowHomeValueUsd: 230263
 ---
 
 **Engineering Notice for Jamestown:** Structural loading calculated based on 1424 ft terrain assessment. Regional dispatch grid: Stutsman County.
 
 
-In Jamestown, ND, seasonal demand can change scheduling windows.
+Risk flag: Tile underlayment age in Jamestown, ND can fail independently of visible tile cracks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+In Jamestown, ND, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Structured milestones protect both sides when scheduling work.
+Wind-zone note: Jamestown, ND exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 58402/58401/58405.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 58402/58401/58405 coverage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 58402, 58401, 58405 (county grid: Stutsman County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Scope trace: skylight curb height plus ridge cap nail schedule referenced in Stutsman County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 58405/58402/58401.
+
+On-site sector marker: Stutsman County / ZIP 58401 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Stutsman County / ZIP 58402 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ND-58401-d6b2388d

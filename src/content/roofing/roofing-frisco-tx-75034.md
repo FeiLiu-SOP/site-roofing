@@ -11,26 +11,31 @@ lng: -96.8200
 zipSample: ["75035", "75036", "75034", "75033"]
 zipCodes: ["75035", "75033", "75034", "75036"]
 localPaths: ["Collin County / ZIP 75033 sector", "Collin County / ZIP 75036 sector", "Collin County / elevation 705 ft band", "Collin County / coords 33.1600, -96.8200", "Collin County / ZIP 75035 sector"]
-zillowHomeValueUsd: 676154
 ---
 
 **Engineering Notice for Frisco:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Collin County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Frisco, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wood shake courses in Frisco, TX require skip-spacing rules at valleys.
 
-Tip: request a written scope before work starts.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: In Frisco, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 75034/75033/75036.
+FAQ: How long can shingles wait after storm damage? In Frisco, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 75034/75033/75036 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 75034, 75033, 75036, 75035 (county grid: Collin County).
+roofing service brief: counter-flashing reglet depth and ridge cap nail schedule were cross-checked for the Frisco intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 75035/75034/75033.
+
+On-site sector marker: Collin County / ZIP 75036 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Collin County: moisture and logistics baselines are keyed to Frisco, TX before niche-specific work begins.
 
 Service reference: TX-75034-43b8e890

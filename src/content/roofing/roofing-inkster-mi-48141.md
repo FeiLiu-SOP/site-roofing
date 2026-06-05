@@ -11,24 +11,29 @@ lng: -83.3100
 zipSample: ["48141"]
 zipCodes: ["48141"]
 localPaths: ["Wayne County / ZIP 48141 sector", "Wayne County / elevation 636 ft band", "Wayne County / primary ZIP 48141", "Wayne County / coords 42.2900, -83.3100"]
-zillowHomeValueUsd: 108025
 ---
 
 **Engineering Notice for Inkster:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Inkster, MI, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Attic ventilation deficits in Inkster, MI can mimic roof leaks at ceiling penetrations.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can you tarp only part of the roof? In Inkster, MI, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 48141 zone).
+We coordinate Inkster, MI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 48141 (county grid: Wayne County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Field routing: ice-barrier lap sequence paired with drip-edge metal profile near ZIP 48141.
+
+Coordinate-anchored dispatch note: center reference 42.2900, -83.3100 at elevation ~636 ft aligns with Wayne County intake staging.
+
+On-site sector marker: Wayne County / elevation 636 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48141-ec74def1

@@ -11,24 +11,31 @@ lng: -86.1000
 zipSample: ["49423", "49422"]
 zipCodes: ["49422", "49423"]
 localPaths: ["Ottawa County / elevation 656 ft band", "Ottawa County / ZIP 49423 sector", "Ottawa County / coords 42.7700, -86.1000", "Ottawa County / primary ZIP 49423", "Ottawa County / ZIP 49422 sector"]
-zillowHomeValueUsd: 347205
 ---
 
 **Engineering Notice for Holland:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: Ottawa County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Holland, MI exposure class can change starter-strip and cap nail schedules.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: avoid large upfront payments without milestones.
+Step: separate emergency tarp scope from permanent service line items.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Holland, MI, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 49423/49422 intake.
+Attic ventilation deficits in Holland, MI can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 49423, 49422 (county grid: Ottawa County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Material note: In Holland, MI, algae-resistant granules may be specified for north-facing slopes.
+
+roof service brief: ice-barrier lap sequence and starter-strip setback were cross-checked for the Holland intake packet.
+
+Regional mesh label Ottawa County: moisture and logistics baselines are keyed to Holland, MI before niche-specific work begins.
+
+On-site sector marker: Ottawa County / ZIP 49423 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49423-e1b3b0bb

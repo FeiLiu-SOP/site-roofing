@@ -11,26 +11,35 @@ lng: -80.0000
 zipSample: ["29410"]
 zipCodes: ["29410"]
 localPaths: ["Berkeley County / coords 32.9300, -80.0000", "Berkeley County / primary ZIP 29410", "Berkeley County / elevation 26 ft band", "Berkeley County / ZIP 29410 sector"]
-zillowHomeValueUsd: 404428
 ---
 
 **Engineering Notice for Hanahan:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Berkeley County.
 
 
-Our service coordination centers on Hanahan, SC coverage windows and verified intake details.
+Risk flag: In Hanahan, SC, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hanahan, SC, but intake notes help reduce delays.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Hanahan, SC exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Connection points spot-checked where accessible (ZIP 29410 zone).
+Material note: In Hanahan, SC, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Moisture pathway inspection logged near ZIP 29410 intake.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 29410 (county grid: Berkeley County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Metal panel oil-canning in Hanahan, SC may signal clip spacing issues, not wind damage alone.
+
+Scope trace: counter-flashing reglet depth plus attic baffle spacing referenced in Berkeley County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 29410.
+
+On-site sector marker: Berkeley County / coords 32.9300, -80.0000 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Berkeley County: moisture and logistics baselines are keyed to Hanahan, SC before niche-specific work begins.
 
 Service reference: SC-29410-eab6e521

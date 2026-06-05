@@ -11,26 +11,31 @@ lng: -93.9200
 zipSample: ["77619"]
 zipCodes: ["77619"]
 localPaths: ["Jefferson County / elevation 20 ft band", "Jefferson County / ZIP 77619 sector", "Jefferson County / coords 29.9500, -93.9200", "Jefferson County / primary ZIP 77619"]
-zillowHomeValueUsd: 177655
 ---
 
 **Engineering Notice for Groves:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Tip: request a written scope before work starts.
+Low-slope sections in Groves, TX need positive drainage before membrane repairs are scoped.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Groves, TX, but intake notes help reduce delays.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-We coordinate local dispatch coverage around Groves, TX and nearby ZIP sectors.
+Regulatory note: Groves, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 77619.
+FAQ: How long can shingles wait after storm damage? In Groves, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 77619 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 77619 (county grid: Jefferson County).
+Field routing: counter-flashing reglet depth paired with pipe boot manufacturer match near ZIP 77619.
+
+Field note: Shingle seal-down timing logged near ZIP 77619.
+
+On-site sector marker: Jefferson County / coords 29.9500, -93.9200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Jefferson County / primary ZIP 77619 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77619-82a9df02

@@ -11,27 +11,29 @@ lng: -81.1900
 zipSample: ["28054", "28052", "28056"]
 zipCodes: ["28054", "28052", "28056"]
 localPaths: ["Gaston County / elevation 768 ft band", "Gaston County / ZIP 28052 sector", "Gaston County / primary ZIP 28054", "Gaston County / coords 35.2500, -81.1900", "Gaston County / ZIP 28054 sector"]
-zillowHomeValueUsd: 270915
 ---
 
 **Engineering Notice for Gastonia:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Gaston County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Gastonia, NC.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Gastonia, NC, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Gastonia, NC exposure class.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 28054.
+We coordinate Gastonia, NC roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 28056/28054/28052.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 28056/28054/28052.
+Across Gastonia, NC, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Dispatch sectors sampled: ZIP 28056, 28054, 28052 (county grid: Gaston County).
+Field routing: chimney cricket slope paired with ice-barrier lap sequence near ZIP 28054.
+
+On-site sector marker: Gaston County / ZIP 28056 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 28054 with multi-ZIP overlap in Gastonia; field packets tag Gaston County for county-grid reconciliation.
 
 Service reference: NC-28054-a4a6a9f6

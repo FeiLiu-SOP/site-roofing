@@ -11,25 +11,33 @@ lng: -73.6400
 zipSample: ["11501"]
 zipCodes: ["11501"]
 localPaths: ["Nassau County / coords 40.7500, -73.6400", "Nassau County / elevation 118 ft band", "Nassau County / ZIP 11501 sector", "Nassau County / primary ZIP 11501"]
-zillowHomeValueUsd: 814856
 ---
 
 **Engineering Notice for Mineola:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is partial dry-in possible? In Mineola, NY, yes—if slope and anchor points support safe tie-offs.
 
-Local conditions in Mineola, NY can affect timelines and material choices.
+Tile and shingle mixes in Mineola, NY require different fastener patterns at transitions.
 
-Tip: request a written scope before work starts.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mineola, NY, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 11501.
+Regulatory note: Mineola, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11501.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 11501 (county grid: Nassau County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: valley metal gauge plus skylight curb height referenced in Nassau County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 11501.
+
+On-site sector marker: Nassau County / ZIP 11501 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Mineola, NY: sampled sectors include 11501; county routing grid remains Nassau County.
 
 Service reference: NY-11501-e7c4d264

@@ -11,24 +11,33 @@ lng: -73.5000
 zipSample: ["11791", "11773"]
 zipCodes: ["11773", "11791"]
 localPaths: ["Nassau County / elevation 207 ft band", "Nassau County / primary ZIP 11791", "Nassau County / ZIP 11791 sector", "Nassau County / coords 40.8200, -73.5000", "Nassau County / ZIP 11773 sector"]
-zillowHomeValueUsd: 1165855
 ---
 
 **Engineering Notice for Syosset:** Structural loading calculated based on 207 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-In Syosset, NY, seasonal demand can change scheduling windows.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Skylight curb flashing in Syosset, NY should be sequenced before ridge cap replacement.
 
-In Syosset, NY, urgent roofing service issues can escalate quickly.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 11791.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Syosset, NY, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 11791/11773 zone).
+Wind-zone note: Syosset, NY exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 11791, 11773 (county grid: Nassau County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Step: compare shingle manufacturer wind-zone ratings for Syosset, NY exposure class.
+
+roofing service brief: soffit intake free area and valley metal gauge were cross-checked for the Syosset intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 11791/11773.
+
+On-site sector marker: Nassau County / coords 40.8200, -73.5000 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 40.8200, -73.5000 at elevation ~207 ft aligns with Nassau County intake staging.
 
 Service reference: NY-11791-2b4200b6

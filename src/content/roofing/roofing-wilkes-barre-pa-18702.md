@@ -11,27 +11,35 @@ lng: -75.8800
 zipSample: ["18702", "18769", "18710", "18767", "18701"]
 zipCodes: ["18766", "18765", "18711", "18762", "18773", "18710", "18703", "18767", "18705", "18769", "18702", "18701"]
 localPaths: ["Luzerne County / primary ZIP 18702", "Luzerne County / elevation 554 ft band", "Luzerne County / ZIP 18710 sector", "Luzerne County / coords 41.2500, -75.8800", "Luzerne County / ZIP 18769 sector"]
-zillowHomeValueUsd: 168255
 ---
 
 **Engineering Notice for Wilkes-Barre:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Luzerne County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 18702.
+Risk flag: In Wilkes-Barre, PA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: avoid large upfront payments without milestones.
+Material note: In Wilkes-Barre, PA, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: request a written scope before work starts.
+Step: separate emergency tarp scope from permanent service line items.
 
-We coordinate local dispatch coverage around Wilkes-Barre, PA and nearby ZIP sectors.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Wilkes-Barre, PA, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 18767/18702/18710.
+Parapet coping movement in Wilkes-Barre, PA can channel water behind wall cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 18767/18702/18710 intake.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 18767, 18702, 18710, 18703, 18701 (county grid: Luzerne County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+FAQ: When should permanent restoration start? In Wilkes-Barre, PA, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: wind uplift clip spacing plus ice-barrier lap sequence referenced in Luzerne County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 18766/18765/18773.
+
+Regional mesh label Luzerne County: moisture and logistics baselines are keyed to Wilkes-Barre, PA before niche-specific work begins.
+
+ZIP-corridor snapshot for Wilkes-Barre, PA: sampled sectors include 18769, 18767, 18710, 18711, 18762, 18702, 18705, 18765; county routing grid remains Luzerne County.
 
 Service reference: PA-18702-3b33f4ed

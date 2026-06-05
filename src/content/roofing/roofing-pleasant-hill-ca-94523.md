@@ -11,26 +11,31 @@ lng: -122.0800
 zipSample: ["94523"]
 zipCodes: ["94523"]
 localPaths: ["Contra Costa County / primary ZIP 94523", "Contra Costa County / ZIP 94523 sector", "Contra Costa County / elevation 59 ft band", "Contra Costa County / coords 37.9500, -122.0800"]
-zillowHomeValueUsd: 996091
 ---
 
 **Engineering Notice for Pleasant Hill:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-In Pleasant Hill, CA, urgent roofing service issues can escalate quickly.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: address recurring issues early to prevent bigger damage.
+Skylight curb flashing in Pleasant Hill, CA should be sequenced before ridge cap replacement.
 
-In Pleasant Hill, CA, seasonal demand can change scheduling windows.
+Regulatory note: Pleasant Hill, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Pleasant Hill, CA, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94523.
+Risk flag: Tile underlayment age in Pleasant Hill, CA can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 94523.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 94523 (county grid: Contra Costa County).
+FAQ: How long can shingles wait after storm damage? In Pleasant Hill, CA, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: chimney cricket slope paired with shingle exposure calibration near ZIP 94523.
+
+Coordinate-anchored dispatch note: center reference 37.9500, -122.0800 at elevation ~59 ft aligns with Contra Costa County intake staging.
+
+On-site sector marker: Contra Costa County / elevation 59 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94523-24333e42

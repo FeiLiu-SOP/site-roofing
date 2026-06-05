@@ -11,27 +11,29 @@ lng: -81.4000
 zipSample: ["32250", "32240"]
 zipCodes: ["32250", "32240"]
 localPaths: ["Duval County / primary ZIP 32250", "Duval County / ZIP 32250 sector", "Duval County / elevation 33 ft band", "Duval County / ZIP 32240 sector", "Duval County / coords 30.2800, -81.4000"]
-zillowHomeValueUsd: 630380
 ---
 
 **Engineering Notice for Jacksonville Beach:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Duval County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Hail bruising on Jacksonville Beach, FL ridges may not breach felt until the next wind event.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 32250.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Jacksonville Beach, FL attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 32250/32240 coverage.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Moisture pathway inspection logged near ZIP 32250/32240 intake.
+Our Jacksonville Beach, FL dispatch packets reference county grid Duval County and elevation band 33 ft.
 
-Dispatch sectors sampled: ZIP 32250, 32240 (county grid: Duval County).
+Field routing: deck sheathing thickness paired with attic baffle spacing near ZIP 32250.
+
+On-site sector marker: Duval County / ZIP 32240 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Duval County / coords 30.2800, -81.4000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32250-fcda8769

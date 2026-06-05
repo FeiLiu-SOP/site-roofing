@@ -11,26 +11,31 @@ lng: -95.7700
 zipSample: ["74501", "74502"]
 zipCodes: ["74501", "74502"]
 localPaths: ["Pittsburg County / ZIP 74501 sector", "Pittsburg County / ZIP 74502 sector", "Pittsburg County / elevation 758 ft band", "Pittsburg County / coords 34.9300, -95.7700", "Pittsburg County / primary ZIP 74501"]
-zillowHomeValueUsd: 152288
 ---
 
 **Engineering Notice for McAlester:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: Pittsburg County.
 
 
-Our service coordination centers on McAlester, OK coverage windows and verified intake details.
+FAQ: When should permanent remediation start? In McAlester, OK, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: map ventilation intake and exhaust pairs for McAlester, OK attic runs.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 74502/74501.
+Code context: Ventilation ratios for McAlester, OK attics should be checked against current mechanical exhaust additions.
 
-Field note: Connection points spot-checked where accessible (ZIP 74502/74501 zone).
+Skylight curb flashing in McAlester, OK should be sequenced before ridge cap replacement.
 
-Dispatch sectors sampled: ZIP 74502, 74501 (county grid: Pittsburg County).
+Field routing: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 74501.
+
+Field note: Attic moisture pathway scan referenced ZIP 74501/74502.
+
+On-site sector marker: Pittsburg County / elevation 758 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 34.9300, -95.7700 at elevation ~758 ft aligns with Pittsburg County intake staging.
 
 Service reference: OK-74501-1dfbb80b

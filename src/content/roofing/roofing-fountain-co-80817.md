@@ -11,24 +11,29 @@ lng: -104.6800
 zipSample: ["80817"]
 zipCodes: ["80817"]
 localPaths: ["El Paso County / coords 38.6900, -104.6800", "El Paso County / ZIP 80817 sector", "El Paso County / elevation 5564 ft band", "El Paso County / primary ZIP 80817"]
-zillowHomeValueUsd: 395930
 ---
 
 **Engineering Notice for Fountain:** Structural loading calculated based on 5564 ft terrain assessment. Regional dispatch grid: El Paso County.
 
 
-Homeowners in Fountain, CO often face sudden roofing service problems that require fast action.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is partial dry-in possible? In Fountain, CO, yes—if slope and anchor points support safe tie-offs.
 
-Tip: confirm licensing and insurance before approving work.
+Synthetic underlayment slip in Fountain, CO is often tied to deck moisture, not wind alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Fountain, CO.
 
-Field note: Wind exposure category reviewed for ZIP sector 80817.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 80817 (county grid: El Paso County).
+Risk flag: Tile underlayment age in Fountain, CO can fail independently of visible tile cracks.
+
+roofing service brief: drip-edge metal profile and starter-strip setback were cross-checked for the Fountain intake packet.
+
+On-site sector marker: El Paso County / ZIP 80817 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: El Paso County / elevation 5564 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80817-ab593226

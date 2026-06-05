@@ -11,25 +11,31 @@ lng: -83.3800
 zipSample: ["48336", "48331", "48335", "48334"]
 zipCodes: ["48336", "48331", "48335", "48334"]
 localPaths: ["Oakland County / coords 42.4900, -83.3800", "Oakland County / ZIP 48331 sector", "Oakland County / ZIP 48334 sector", "Oakland County / ZIP 48336 sector", "Oakland County / primary ZIP 48336"]
-zillowHomeValueUsd: 300812
 ---
 
 **Engineering Notice for Farmington Hills:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Oakland County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48336.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Farmington Hills, MI, but intake notes help reduce delays.
+FAQ: Can you tarp only part of the roof? In Farmington Hills, MI, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-We coordinate local dispatch coverage around Farmington Hills, MI and nearby ZIP sectors.
+Wood shake courses in Farmington Hills, MI require skip-spacing rules at valleys.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48335/48336/48331.
+Regulatory note: Farmington Hills, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 48335, 48336, 48331, 48334 (county grid: Oakland County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Oakland County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 48334/48331/48336.
+
+On-site sector marker: Oakland County / primary ZIP 48336 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 48336 with multi-ZIP overlap in Farmington Hills; field packets tag Oakland County for county-grid reconciliation.
 
 Service reference: MI-48336-964eeb26

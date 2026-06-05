@@ -11,24 +11,31 @@ lng: -121.7200
 zipSample: ["97603"]
 zipCodes: ["97603"]
 localPaths: ["Klamath County / coords 42.2000, -121.7200", "Klamath County / primary ZIP 97603", "Klamath County / ZIP 97603 sector", "Klamath County / elevation 4140 ft band"]
-zillowHomeValueUsd: 325545
 ---
 
 **Engineering Notice for Altamont:** Structural loading calculated based on 4140 ft terrain assessment. Regional dispatch grid: Klamath County.
 
 
-In Altamont, OR, urgent roof work issues can escalate quickly.
+Wind-zone note: Altamont, OR exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Altamont, OR, but intake notes help reduce delays.
+We coordinate Altamont, OR roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: request a written scope before work starts.
+Parapet coping movement in Altamont, OR can channel water behind wall cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 97603.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 97603 (county grid: Klamath County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Scope trace: attic baffle spacing plus shingle exposure calibration referenced in Klamath County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 97603.
+
+ZIP-corridor snapshot for Altamont, OR: sampled sectors include 97603; county routing grid remains Klamath County.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Klamath County and primary ZIP 97603. Terrain reference: 4140 ft. Center point: 42.2000, -121.7200. ZIP sample: 97603. Logistics priority: Serving residential sectors across Klamath County and north-east ZIP 97603 grid.
 
 Service reference: OR-97603-ee1474bf

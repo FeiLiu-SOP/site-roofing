@@ -11,27 +11,29 @@ lng: -82.9400
 zipSample: ["48066"]
 zipCodes: ["48066"]
 localPaths: ["Macomb County / primary ZIP 48066", "Macomb County / ZIP 48066 sector", "Macomb County / coords 42.5100, -82.9400", "Macomb County / elevation 623 ft band"]
-zillowHomeValueUsd: 168998
 ---
 
 **Engineering Notice for Roseville:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Macomb County.
 
 
-Our service coordination centers on Roseville, MI coverage windows and verified intake details.
+Risk flag: In Roseville, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+TPO seam welds in Roseville, MI commercial sections need probe tests after freeze events.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Roseville, MI, but intake notes help reduce delays.
+Our Roseville, MI dispatch packets reference county grid Macomb County and elevation band 623 ft.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48066.
+Regulatory note: Roseville, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48066.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Access points and staging constraints recorded for ZIP 48066 coverage.
+FAQ: When should permanent remediation start? In Roseville, MI, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 48066 (county grid: Macomb County).
+Scope trace: attic baffle spacing plus deck sheathing thickness referenced in Macomb County county grid review.
+
+ZIP-corridor snapshot for Roseville, MI: sampled sectors include 48066; county routing grid remains Macomb County.
+
+On-site sector marker: Macomb County / ZIP 48066 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48066-cb85b540

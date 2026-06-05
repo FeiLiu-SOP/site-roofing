@@ -11,25 +11,33 @@ lng: -118.8800
 zipSample: ["91320", "91358", "91361", "91359", "91362"]
 zipCodes: ["91361", "91319", "91358", "91320", "91359", "91360", "91362"]
 localPaths: ["Ventura County / elevation 820 ft band", "Ventura County / ZIP 91362 sector", "Ventura County / ZIP 91358 sector", "Ventura County / coords 34.1900, -118.8800", "Ventura County / primary ZIP 91320"]
-zillowHomeValueUsd: 1025290
 ---
 
 **Engineering Notice for Thousand Oaks:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Ventura County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 91320.
+Across Thousand Oaks, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Structured milestones protect both sides when scheduling work.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-We coordinate local dispatch coverage around Thousand Oaks, CA and nearby ZIP sectors.
+Regulatory note: Thousand Oaks, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Thousand Oaks, CA, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Connection points spot-checked where accessible (ZIP 91358/91319/91320 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 91358, 91319, 91320, 91362, 91360 (county grid: Ventura County).
+Step: stage tear-off debris paths away from landscape drains.
+
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: pipe boot manufacturer match paired with chimney cricket slope near ZIP 91320.
+
+Coordinate-anchored dispatch note: center reference 34.1900, -118.8800 at elevation ~820 ft aligns with Ventura County intake staging.
+
+ZIP-corridor snapshot for Thousand Oaks, CA: sampled sectors include 91360, 91319, 91362, 91358, 91361, 91320, 91359; county routing grid remains Ventura County.
 
 Service reference: CA-91320-6e7b1eaa

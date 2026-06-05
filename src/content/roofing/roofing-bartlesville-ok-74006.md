@@ -11,26 +11,33 @@ lng: -95.9500
 zipSample: ["74003", "74004", "74006", "74005"]
 zipCodes: ["74004", "74003", "74005", "74006"]
 localPaths: ["Washington County / ZIP 74005 sector", "Washington County / ZIP 74004 sector", "Washington County / coords 36.7400, -95.9500", "Washington County / elevation 741 ft band", "Washington County / ZIP 74006 sector"]
-zillowHomeValueUsd: 216051
 ---
 
 **Engineering Notice for Bartlesville:** Structural loading calculated based on 741 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-In Bartlesville, OK, urgent roofing service issues can escalate quickly.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: avoid large upfront payments without milestones.
+In Bartlesville, OK, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bartlesville, OK, but intake notes help reduce delays.
+FAQ: Can you tarp only part of the roof? In Bartlesville, OK, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Bartlesville, OK coverage windows and verified intake details.
+Risk flag: In Bartlesville, OK, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 74005/74004/74003.
+Tip: Note recent wind events when filing insurance photos for Bartlesville, OK.
 
-Field note: Connection points spot-checked where accessible (ZIP 74005/74004/74003 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 74005, 74004, 74003, 74006 (county grid: Washington County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roofing service brief: pipe boot manufacturer match and skylight curb height were cross-checked for the Bartlesville intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 74005/74003/74006.
+
+ZIP-corridor snapshot for Bartlesville, OK: sampled sectors include 74005, 74006, 74003, 74004; county routing grid remains Washington County.
+
+Regional mesh label Washington County: moisture and logistics baselines are keyed to Bartlesville, OK before niche-specific work begins.
 
 Service reference: OK-74006-96402e8b

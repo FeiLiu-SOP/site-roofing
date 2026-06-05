@@ -11,26 +11,31 @@ lng: -82.7600
 zipSample: ["33767", "33761", "33759", "33765", "33763"]
 zipCodes: ["33759", "33763", "33755", "33764", "33767", "33756", "33766", "33758", "33765", "33769", "33757", "33761"]
 localPaths: ["Pinellas County / ZIP 33759 sector", "Pinellas County / elevation 82 ft band", "Pinellas County / ZIP 33765 sector", "Pinellas County / primary ZIP 33759", "Pinellas County / ZIP 33767 sector"]
-zillowHomeValueUsd: 343257
 ---
 
 **Engineering Notice for Clearwater:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Pinellas County.
 
 
-Homeowners in Clearwater, FL often face sudden roof service problems that require fast action.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Clearwater, FL exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Low-slope sections in Clearwater, FL need positive drainage before membrane repairs are scoped.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33764/33755/33767.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Access points and staging constraints recorded for ZIP 33764/33755/33767 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 33764, 33755, 33767, 33765, 33758 (county grid: Pinellas County).
+Scope trace: ice-barrier lap sequence plus valley metal gauge referenced in Pinellas County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 33769/33765/33756.
+
+Regional mesh label Pinellas County: moisture and logistics baselines are keyed to Clearwater, FL before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 27.9800, -82.7600 at elevation ~82 ft aligns with Pinellas County intake staging.
 
 Service reference: FL-33759-58ed66af

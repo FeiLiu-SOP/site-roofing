@@ -11,26 +11,31 @@ lng: -95.7800
 zipSample: ["74012", "74014", "74011", "74013"]
 zipCodes: ["74014", "74011", "74013", "74012"]
 localPaths: ["Tulsa County / elevation 728 ft band", "Tulsa County / ZIP 74012 sector", "Tulsa County / ZIP 74011 sector", "Tulsa County / ZIP 74014 sector", "Tulsa County / ZIP 74013 sector"]
-zillowHomeValueUsd: 300894
 ---
 
 **Engineering Notice for Broken Arrow:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Tulsa County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Note recent wind events when filing insurance photos for Broken Arrow, OK.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Is partial dry-in possible? In Broken Arrow, OK, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Broken Arrow, OK, interior stains may track from HVAC condensate rather than roof cladding.
 
-In Broken Arrow, OK, urgent roof work issues can escalate quickly.
+Coastal humidity in Broken Arrow, OK can slow shingle seal-down after shoulder-season storms.
 
-Field note: Connection points spot-checked where accessible (ZIP 74012/74014/74011 zone).
+Regulatory note: Broken Arrow, OK projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 74012/74014/74011.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 74012, 74014, 74011, 74013 (county grid: Tulsa County).
+Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 74014.
+
+Field note: Shingle seal-down timing logged near ZIP 74014/74012/74013.
+
+On-site sector marker: Tulsa County / ZIP 74014 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 74014 with multi-ZIP overlap in Broken Arrow; field packets tag Tulsa County for county-grid reconciliation.
 
 Service reference: OK-74014-672099b5

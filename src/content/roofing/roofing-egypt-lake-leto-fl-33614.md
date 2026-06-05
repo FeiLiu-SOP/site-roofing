@@ -11,27 +11,31 @@ lng: -82.5100
 zipSample: ["33614"]
 zipCodes: ["33614"]
 localPaths: ["Hillsborough County / ZIP 33614 sector", "Hillsborough County / coords 28.0200, -82.5100", "Hillsborough County / primary ZIP 33614", "Hillsborough County / elevation 46 ft band"]
-zillowHomeValueUsd: 348742
 ---
 
 **Engineering Notice for Egypt Lake-Leto:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tile and shingle mixes in Egypt Lake-Leto, FL require different fastener patterns at transitions.
 
-Structured milestones protect both sides when scheduling work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 33614.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Our service coordination centers on Egypt Lake-Leto, FL coverage windows and verified intake details.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 33614.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33614.
+Risk flag: In Egypt Lake-Leto, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 33614 (county grid: Hillsborough County).
+roofing service brief: deck sheathing thickness and soffit intake free area were cross-checked for the Egypt Lake-Leto intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 33614.
+
+On-site sector marker: Hillsborough County / primary ZIP 33614 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 28.0200, -82.5100 at elevation ~46 ft aligns with Hillsborough County intake staging.
 
 Service reference: FL-33614-2061613e

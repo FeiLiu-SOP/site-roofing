@@ -11,24 +11,31 @@ lng: -71.4900
 zipSample: ["03062", "03061", "03063", "03064", "03060"]
 zipCodes: ["03060", "03064", "03062", "03061", "03063"]
 localPaths: ["Hillsborough County / ZIP 03064 sector", "Hillsborough County / ZIP 03063 sector", "Hillsborough County / elevation 203 ft band", "Hillsborough County / ZIP 03061 sector", "Hillsborough County / coords 42.7500, -71.4900"]
-zillowHomeValueUsd: 542676
 ---
 
 **Engineering Notice for Nashua:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 03062.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around Nashua, NH and nearby ZIP sectors.
+Code context: Ventilation ratios for Nashua, NH attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Nashua, NH, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 03064/03061/03063 coverage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 03064, 03061, 03063, 03062, 03060 (county grid: Hillsborough County).
+Wood shake courses in Nashua, NH require skip-spacing rules at valleys.
+
+roof work brief: starter-strip setback and valley metal gauge were cross-checked for the Nashua intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 03062/03063/03060.
+
+ZIP-corridor snapshot for Nashua, NH: sampled sectors include 03063, 03061, 03062, 03064, 03060; county routing grid remains Hillsborough County.
+
+Primary postal anchor 03062 with multi-ZIP overlap in Nashua; field packets tag Hillsborough County for county-grid reconciliation.
 
 Service reference: NH-03062-e993ea44

@@ -11,27 +11,33 @@ lng: -80.1700
 zipSample: ["33149"]
 zipCodes: ["33149"]
 localPaths: ["Miami-Dade County / ZIP 33149 sector", "Miami-Dade County / primary ZIP 33149", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / coords 25.6900, -80.1700"]
-zillowHomeValueUsd: 1654593
 ---
 
 **Engineering Notice for Key Biscayne:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Key Biscayne, FL, but intake notes help reduce delays.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 33149.
 
-Our service coordination centers on Key Biscayne, FL coverage windows and verified intake details.
+Our Key Biscayne, FL dispatch packets reference county grid Miami-Dade County and elevation band 30 ft.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 33149.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Key Biscayne, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 33149.
+Skylight curb flashing in Key Biscayne, FL should be sequenced before ridge cap replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 33149 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 33149 (county grid: Miami-Dade County).
+Step: log deck soundings near vents before tear-off is approved.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roofing service brief: soffit intake free area and attic baffle spacing were cross-checked for the Key Biscayne intake packet.
+
+On-site sector marker: Miami-Dade County / ZIP 33149 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Miami-Dade County. Reference elevation: 30 ft. Primary coordinates: 25.6900, -80.1700. ZIP sample: 33149. Logistics priority: Serving residential sectors across Miami-Dade County and north-east ZIP 33149 grid.
 
 Service reference: FL-33149-89431421

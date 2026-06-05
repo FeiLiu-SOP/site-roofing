@@ -11,24 +11,33 @@ lng: -81.1000
 zipSample: ["32176", "32173", "32175", "32174"]
 zipCodes: ["32173", "32175", "32174", "32176"]
 localPaths: ["Volusia County / primary ZIP 32174", "Volusia County / coords 29.3000, -81.1000", "Volusia County / ZIP 32174 sector", "Volusia County / ZIP 32176 sector", "Volusia County / ZIP 32173 sector"]
-zillowHomeValueUsd: 370007
 ---
 
 **Engineering Notice for Ormond Beach:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Volusia County.
 
 
-Local conditions in Ormond Beach, FL can affect timelines and material choices.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-A written scope helps prevent rework and mismatched expectations.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Ormond Beach, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: Ormond Beach, FL exposure class can change starter-strip and cap nail schedules.
 
-Field note: Access points and staging constraints recorded for ZIP 32175/32173/32174 coverage.
+Granule embedment loss on Ormond Beach, FL north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 32175, 32173, 32174, 32176 (county grid: Volusia County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Scope trace: attic baffle spacing plus soffit intake free area referenced in Volusia County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 32174/32173/32176.
+
+Primary postal anchor 32174 with multi-ZIP overlap in Ormond Beach; field packets tag Volusia County for county-grid reconciliation.
+
+On-site sector marker: Volusia County / primary ZIP 32174 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32174-d09b5262

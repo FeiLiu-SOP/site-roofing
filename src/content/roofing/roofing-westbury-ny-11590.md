@@ -11,26 +11,35 @@ lng: -73.5900
 zipSample: ["11590"]
 zipCodes: ["11590"]
 localPaths: ["Nassau County / elevation 121 ft band", "Nassau County / primary ZIP 11590", "Nassau County / coords 40.7600, -73.5900", "Nassau County / ZIP 11590 sector"]
-zillowHomeValueUsd: 787180
 ---
 
 **Engineering Notice for Westbury:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-We coordinate local dispatch coverage around Westbury, NY and nearby ZIP sectors.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: compare at least two estimates for scope and timeline.
+Tile and shingle mixes in Westbury, NY require different fastener patterns at transitions.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-In Westbury, NY, urgent roof work issues can escalate quickly.
+Material note: In Westbury, NY, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Connection points spot-checked where accessible (ZIP 11590 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 11590 coverage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 11590 (county grid: Nassau County).
+FAQ: Is partial dry-in possible? In Westbury, NY, yes—if slope and anchor points support safe tie-offs.
+
+Regulatory note: Westbury, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: deck sheathing thickness paired with valley metal gauge near ZIP 11590.
+
+Field note: Attic moisture pathway scan referenced ZIP 11590.
+
+On-site sector marker: Nassau County / ZIP 11590 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Westbury, NY: sampled sectors include 11590; county routing grid remains Nassau County.
 
 Service reference: NY-11590-e3cf053b

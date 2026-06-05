@@ -11,25 +11,29 @@ lng: -89.7000
 zipSample: ["38139", "38017", "38027"]
 zipCodes: ["38027", "38139", "38017"]
 localPaths: ["Shelby County / ZIP 38017 sector", "Shelby County / primary ZIP 38017", "Shelby County / ZIP 38139 sector", "Shelby County / ZIP 38027 sector", "Shelby County / elevation 361 ft band"]
-zillowHomeValueUsd: 512193
 ---
 
 **Engineering Notice for Collierville:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Shelby County.
 
 
-Our service coordination centers on Collierville, TN coverage windows and verified intake details.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+TPO seam welds in Collierville, TN commercial sections need probe tests after freeze events.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can you tarp only part of the roof? In Collierville, TN, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Collierville, TN, but intake notes help reduce delays.
+Risk flag: In Collierville, TN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 38017.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 38139/38027/38017 zone).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 38139, 38027, 38017 (county grid: Shelby County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Field routing: attic baffle spacing paired with chimney cricket slope near ZIP 38017.
+
+On-site sector marker: Shelby County / ZIP 38017 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Shelby County / ZIP 38139 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-38017-66c7a277

@@ -11,27 +11,33 @@ lng: -77.3900
 zipSample: ["23222", "23223"]
 zipCodes: ["23223", "23222"]
 localPaths: ["Henrico County / ZIP 23223 sector", "Henrico County / ZIP 23222 sector", "Henrico County / coords 37.5800, -77.3900", "Henrico County / primary ZIP 23222", "Henrico County / elevation 194 ft band"]
-zillowHomeValueUsd: 276034
 ---
 
 **Engineering Notice for East Highland Park:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Henrico County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in East Highland Park, VA, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: address recurring issues early to prevent bigger damage.
+Skylight curb flashing in East Highland Park, VA should be sequenced before ridge cap replacement.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 23222.
+We coordinate East Highland Park, VA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Our service coordination centers on East Highland Park, VA coverage windows and verified intake details.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 23222/23223.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Wind exposure category reviewed for ZIP sector 23222/23223.
+Risk flag: Tile underlayment age in East Highland Park, VA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 23222, 23223 (county grid: Henrico County).
+Regulatory note: East Highland Park, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Step: compare shingle manufacturer wind-zone ratings for East Highland Park, VA exposure class.
+
+Field routing: valley metal gauge paired with attic baffle spacing near ZIP 23222.
+
+On-site sector marker: Henrico County / ZIP 23222 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Henrico County / primary ZIP 23222 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23222-2420fe80

@@ -11,24 +11,29 @@ lng: -80.6500
 zipSample: ["28079", "28110", "28104"]
 zipCodes: ["28079", "28104", "28110"]
 localPaths: ["Union County / elevation 659 ft band", "Union County / primary ZIP 28104", "Union County / ZIP 28079 sector", "Union County / ZIP 28104 sector", "Union County / coords 35.0700, -80.6500"]
-zillowHomeValueUsd: 594916
 ---
 
 **Engineering Notice for Indian Trail:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Union County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around Indian Trail, NC and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-In Indian Trail, NC, seasonal demand can change scheduling windows.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Attic ventilation deficits in Indian Trail, NC can mimic roof leaks at ceiling penetrations.
 
-Field note: Access points and staging constraints recorded for ZIP 28104/28079/28110 coverage.
+Tip: Note recent wind events when filing insurance photos for Indian Trail, NC.
 
-Dispatch sectors sampled: ZIP 28104, 28079, 28110 (county grid: Union County).
+Code context: Ventilation ratios for Indian Trail, NC attics should be checked against current mechanical exhaust additions.
+
+Scope trace: attic baffle spacing plus deck sheathing thickness referenced in Union County county grid review.
+
+On-site sector marker: Union County / elevation 659 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Union County. Reference elevation: 659 ft. Primary coordinates: 35.0700, -80.6500. ZIP sample: 28104, 28079, 28110. Logistics priority: Serving residential sectors across Union County and north-east ZIP 28104 grid.
 
 Service reference: NC-28104-b5e6ba0f

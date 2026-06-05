@@ -11,24 +11,29 @@ lng: -86.4700
 zipSample: ["37066"]
 zipCodes: ["37066"]
 localPaths: ["Sumner County / coords 36.3800, -86.4700", "Sumner County / elevation 515 ft band", "Sumner County / primary ZIP 37066", "Sumner County / ZIP 37066 sector"]
-zillowHomeValueUsd: 440267
 ---
 
 **Engineering Notice for Gallatin:** Structural loading calculated based on 515 ft terrain assessment. Regional dispatch grid: Sumner County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Gallatin, TN can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Gallatin, TN, but intake notes help reduce delays.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: Gallatin, TN exposure class can change starter-strip and cap nail schedules.
 
-In Gallatin, TN, seasonal demand can change scheduling windows.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 37066.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 37066 (county grid: Sumner County).
+Valley metal in Gallatin, TN should be reviewed whenever granule loss tracks the water line.
+
+roof work brief: wind uplift clip spacing and ridge cap nail schedule were cross-checked for the Gallatin intake packet.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Sumner County and primary ZIP 37066. Terrain reference: 515 ft. Center point: 36.3800, -86.4700. ZIP sample: 37066. Service perimeter note: Coverage extends through Sumner County with dispatch centered near ZIP 37066.
+
+On-site sector marker: Sumner County / coords 36.3800, -86.4700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37066-78a6c408

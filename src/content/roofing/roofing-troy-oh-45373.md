@@ -11,25 +11,33 @@ lng: -84.2200
 zipSample: ["45373", "45374"]
 zipCodes: ["45374", "45373"]
 localPaths: ["Miami County / ZIP 45373 sector", "Miami County / primary ZIP 45373", "Miami County / elevation 860 ft band", "Miami County / coords 40.0400, -84.2200", "Miami County / ZIP 45374 sector"]
-zillowHomeValueUsd: 280668
 ---
 
 **Engineering Notice for Troy:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Miami County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Clear documentation helps align materials, labor, and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 45373.
+FAQ: Is partial dry-in possible? In Troy, OH, yes—if slope and anchor points support safe tie-offs.
 
-Our service coordination centers on Troy, OH coverage windows and verified intake details.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Connection points spot-checked where accessible (ZIP 45374/45373 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 45374, 45373 (county grid: Miami County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 45373.
+
+Metal panel oil-canning in Troy, OH may signal clip spacing issues, not wind damage alone.
+
+Scope trace: ridge cap nail schedule plus valley metal gauge referenced in Miami County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 45374/45373.
+
+On-site sector marker: Miami County / ZIP 45374 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Miami County / primary ZIP 45373 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45373-0d509c7e

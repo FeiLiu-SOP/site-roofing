@@ -11,26 +11,29 @@ lng: -86.5800
 zipSample: ["35173", "35235"]
 zipCodes: ["35173", "35235"]
 localPaths: ["Jefferson County / coords 33.6400, -86.5800", "Jefferson County / elevation 804 ft band", "Jefferson County / primary ZIP 35235", "Jefferson County / ZIP 35235 sector", "Jefferson County / ZIP 35173 sector"]
-zillowHomeValueUsd: 184992
 ---
 
 **Engineering Notice for Trussville:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-In Trussville, AL, urgent roofing service issues can escalate quickly.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Trussville, AL, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: avoid large upfront payments without milestones.
+Skylight curb flashing in Trussville, AL should be sequenced before ridge cap replacement.
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Moisture pathway inspection logged near ZIP 35173/35235 intake.
+Code context: Ventilation ratios for Trussville, AL attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 35173/35235.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 35173, 35235 (county grid: Jefferson County).
+roofing service brief: counter-flashing reglet depth and ice-barrier lap sequence were cross-checked for the Trussville intake packet.
+
+Primary postal anchor 35235 with multi-ZIP overlap in Trussville; field packets tag Jefferson County for county-grid reconciliation.
+
+On-site sector marker: Jefferson County / primary ZIP 35235 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35235-94c541c3

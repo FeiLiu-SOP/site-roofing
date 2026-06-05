@@ -11,26 +11,31 @@ lng: -90.7500
 zipSample: ["70360", "70364"]
 zipCodes: ["70360", "70364"]
 localPaths: ["Terrebonne Parish / elevation 16 ft band", "Terrebonne Parish / ZIP 70364 sector", "Terrebonne Parish / coords 29.6200, -90.7500", "Terrebonne Parish / ZIP 70360 sector", "Terrebonne Parish / primary ZIP 70360"]
-zillowHomeValueUsd: 263200
 ---
 
 **Engineering Notice for Bayou Cane:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Terrebonne Parish.
 
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Is partial dry-in possible? In Bayou Cane, LA, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: avoid large upfront payments without milestones.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bayou Cane, LA, but intake notes help reduce delays.
+Tile and shingle mixes in Bayou Cane, LA require different fastener patterns at transitions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70360/70364.
+Regulatory note: Bayou Cane, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 70360/70364 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 70360, 70364 (county grid: Terrebonne Parish).
+Risk flag: In Bayou Cane, LA, interior stains may track from HVAC condensate rather than roof cladding.
+
+Field routing: deck sheathing thickness paired with ice-barrier lap sequence near ZIP 70360.
+
+On-site sector marker: Terrebonne Parish / ZIP 70364 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Terrebonne Parish / elevation 16 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70360-038e87e2

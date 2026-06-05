@@ -11,24 +11,33 @@ lng: -73.6700
 zipSample: ["10573"]
 zipCodes: ["10573"]
 localPaths: ["Westchester County / ZIP 10573 sector", "Westchester County / coords 41.0100, -73.6700", "Westchester County / elevation 79 ft band", "Westchester County / primary ZIP 10573"]
-zillowHomeValueUsd: 868409
 ---
 
 **Engineering Notice for Port Chester:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Westchester County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Skylight curb flashing in Port Chester, NY should be sequenced before ridge cap replacement.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 10573.
 
-Local conditions in Port Chester, NY can affect timelines and material choices.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: avoid large upfront payments without milestones.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Moisture pathway inspection logged near ZIP 10573 intake.
+FAQ: When should permanent restoration start? In Port Chester, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 10573 (county grid: Westchester County).
+TPO seam welds in Port Chester, NY commercial sections need probe tests after freeze events.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Risk flag: In Port Chester, NY, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: attic baffle spacing plus soffit intake free area referenced in Westchester County county grid review.
+
+Coordinate-anchored dispatch note: center reference 41.0100, -73.6700 at elevation ~79 ft aligns with Westchester County intake staging.
+
+ZIP-corridor snapshot for Port Chester, NY: sampled sectors include 10573; county routing grid remains Westchester County.
 
 Service reference: NY-10573-ace4b2ce

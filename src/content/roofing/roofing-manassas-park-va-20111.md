@@ -11,24 +11,29 @@ lng: -77.4400
 zipSample: ["20111"]
 zipCodes: ["20111"]
 localPaths: ["Manassas Park County / coords 38.7700, -77.4400", "Manassas Park County / ZIP 20111 sector", "Manassas Park County / elevation 285 ft band", "Manassas Park County / primary ZIP 20111"]
-zillowHomeValueUsd: 520292
 ---
 
 **Engineering Notice for Manassas Park:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Manassas Park County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should permanent service start? In Manassas Park, VA, delayed dry-in can expand insulation and ceiling repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Coastal humidity in Manassas Park, VA can slow shingle seal-down after shoulder-season storms.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Our service coordination centers on Manassas Park, VA coverage windows and verified intake details.
+Risk flag: In Manassas Park, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Manassas Park, VA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Moisture pathway inspection logged near ZIP 20111 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 20111 (county grid: Manassas Park County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Field routing: attic baffle spacing paired with chimney cricket slope near ZIP 20111.
+
+Primary postal anchor 20111 with multi-ZIP overlap in Manassas Park; field packets tag Manassas Park County for county-grid reconciliation.
+
+On-site sector marker: Manassas Park County / ZIP 20111 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20111-a314dfc1

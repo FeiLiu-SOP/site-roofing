@@ -11,26 +11,35 @@ lng: -82.0000
 zipSample: ["33914", "33993", "33909", "33915", "33904"]
 zipCodes: ["33914", "33990", "33910", "33915", "33993", "33909", "33904", "33991"]
 localPaths: ["Lee County / ZIP 33993 sector", "Lee County / coords 26.6400, -82.0000", "Lee County / ZIP 33914 sector", "Lee County / ZIP 33915 sector", "Lee County / ZIP 33909 sector"]
-zillowHomeValueUsd: 323621
 ---
 
 **Engineering Notice for Cape Coral:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Lee County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Cape Coral, FL.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cape Coral, FL, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Cape Coral, FL exposure class.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Valley metal in Cape Coral, FL should be reviewed whenever granule loss tracks the water line.
 
-Field note: Moisture pathway inspection logged near ZIP 33993/33909/33915 intake.
+FAQ: When should permanent service start? In Cape Coral, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 33993/33909/33915 zone).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 33993, 33909, 33915, 33904, 33991 (county grid: Lee County).
+Code context: Ventilation ratios for Cape Coral, FL attics should be checked against current mechanical exhaust additions.
+
+Regulatory note: Cape Coral, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: counter-flashing reglet depth plus chimney cricket slope referenced in Lee County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 33914/33990/33904.
+
+On-site sector marker: Lee County / ZIP 33914 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Lee County: moisture and logistics baselines are keyed to Cape Coral, FL before niche-specific work begins.
 
 Service reference: FL-33990-c58c8fde

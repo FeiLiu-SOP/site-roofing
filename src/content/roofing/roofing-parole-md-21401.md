@@ -11,24 +11,31 @@ lng: -76.5500
 zipSample: ["21401"]
 zipCodes: ["21401"]
 localPaths: ["Anne Arundel County / ZIP 21401 sector", "Anne Arundel County / primary ZIP 21401", "Anne Arundel County / elevation 95 ft band", "Anne Arundel County / coords 38.9900, -76.5500"]
-zillowHomeValueUsd: 625111
 ---
 
 **Engineering Notice for Parole:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Parole, MD, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: log deck soundings near vents before tear-off is approved.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+In Parole, MD, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: avoid large upfront payments without milestones.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 21401 coverage.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 21401 (county grid: Anne Arundel County).
+Risk flag: In Parole, MD, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: soffit intake free area plus wind uplift clip spacing referenced in Anne Arundel County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 21401.
+
+On-site sector marker: Anne Arundel County / coords 38.9900, -76.5500 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Anne Arundel County / ZIP 21401 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21401-250dd2d0

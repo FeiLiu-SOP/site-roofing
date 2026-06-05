@@ -11,24 +11,35 @@ lng: -91.8200
 zipSample: ["70562", "70563", "70560"]
 zipCodes: ["70563", "70562", "70560"]
 localPaths: ["Iberia Parish / elevation 36 ft band", "Iberia Parish / ZIP 70563 sector", "Iberia Parish / primary ZIP 70560", "Iberia Parish / ZIP 70560 sector", "Iberia Parish / ZIP 70562 sector"]
-zillowHomeValueUsd: 112912
 ---
 
 **Engineering Notice for New Iberia:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Iberia Parish.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: avoid large upfront payments without milestones.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Synthetic underlayment slip in New Iberia, LA is often tied to deck moisture, not wind alone.
 
-Our service coordination centers on New Iberia, LA coverage windows and verified intake details.
+We coordinate New Iberia, LA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Iberia, LA, but intake notes help reduce delays.
+Granule embedment loss on New Iberia, LA north slopes can precede mat exposure.
 
-Field note: Wind exposure category reviewed for ZIP sector 70560/70563/70562.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 70560, 70563, 70562 (county grid: Iberia Parish).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Risk flag: In New Iberia, LA, interior stains may track from HVAC condensate rather than roof cladding.
+
+roof work brief: shingle exposure calibration and skylight curb height were cross-checked for the New Iberia intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 70562/70563/70560.
+
+On-site sector marker: Iberia Parish / ZIP 70562 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Iberia Parish / ZIP 70560 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70560-131632d3

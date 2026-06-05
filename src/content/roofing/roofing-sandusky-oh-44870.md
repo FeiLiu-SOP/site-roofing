@@ -11,24 +11,35 @@ lng: -82.7000
 zipSample: ["44870", "44871"]
 zipCodes: ["44870", "44871"]
 localPaths: ["Erie County / ZIP 44871 sector", "Erie County / elevation 597 ft band", "Erie County / coords 41.4500, -82.7000", "Erie County / primary ZIP 44870", "Erie County / ZIP 44870 sector"]
-zillowHomeValueUsd: 176712
 ---
 
 **Engineering Notice for Sandusky:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Erie County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Sandusky, OH attics should be checked against current mechanical exhaust additions.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sandusky, OH, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Sandusky, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Moisture pathway inspection logged near ZIP 44870/44871 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 44870, 44871 (county grid: Erie County).
+Step: log deck soundings near vents before tear-off is approved.
+
+Material note: In Sandusky, OH, algae-resistant granules may be specified for north-facing slopes.
+
+Granule embedment loss on Sandusky, OH north slopes can precede mat exposure.
+
+roof service brief: ridge cap nail schedule and wind uplift clip spacing were cross-checked for the Sandusky intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 44870/44871.
+
+Primary postal anchor 44870 with multi-ZIP overlap in Sandusky; field packets tag Erie County for county-grid reconciliation.
+
+On-site sector marker: Erie County / ZIP 44871 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44870-316f4530

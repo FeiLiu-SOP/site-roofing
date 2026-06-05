@@ -11,24 +11,31 @@ lng: -77.3100
 zipSample: ["22192"]
 zipCodes: ["22192"]
 localPaths: ["Prince William County / primary ZIP 22192", "Prince William County / coords 38.6800, -77.3100", "Prince William County / ZIP 22192 sector", "Prince William County / elevation 308 ft band"]
-zillowHomeValueUsd: 525370
 ---
 
 **Engineering Notice for Lake Ridge:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Prince William County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lake Ridge, VA, but intake notes help reduce delays.
+TPO seam welds in Lake Ridge, VA commercial sections need probe tests after freeze events.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: In Lake Ridge, VA, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Lake Ridge, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Clear documentation helps align materials, labor, and timeline.
+Regulatory note: Lake Ridge, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 22192.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 22192 (county grid: Prince William County).
+FAQ: When should permanent restoration start? In Lake Ridge, VA, delayed dry-in can expand insulation and ceiling repairs.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+roof service brief: valley metal gauge and skylight curb height were cross-checked for the Lake Ridge intake packet.
+
+Coordinate-anchored dispatch note: center reference 38.6800, -77.3100 at elevation ~308 ft aligns with Prince William County intake staging.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Prince William County and primary ZIP 22192. Terrain reference: 308 ft. Center point: 38.6800, -77.3100. ZIP sample: 22192. Logistics priority: Serving residential sectors across Prince William County and north-east ZIP 22192 grid.
 
 Service reference: VA-22192-fdbe5a63

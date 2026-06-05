@@ -11,27 +11,33 @@ lng: -96.7900
 zipSample: ["75225", "75205", "75275"]
 zipCodes: ["75275", "75225", "75205"]
 localPaths: ["Dallas County / ZIP 75205 sector", "Dallas County / coords 32.8500, -96.7900", "Dallas County / elevation 571 ft band", "Dallas County / ZIP 75225 sector", "Dallas County / ZIP 75275 sector"]
-zillowHomeValueUsd: 2057935
 ---
 
 **Engineering Notice for University Park:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Dallas County.
 
 
-We coordinate local dispatch coverage around University Park, TX and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 75225.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can you tarp only part of the roof? In University Park, TX, yes—if slope and anchor points support safe tie-offs.
 
-Tip: address recurring issues early to prevent bigger damage.
+We coordinate University Park, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Regulatory note: University Park, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75205/75225/75275.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Moisture pathway inspection logged near ZIP 75205/75225/75275 intake.
+Coastal humidity in University Park, TX can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 75205, 75225, 75275 (county grid: Dallas County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roofing service brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the University Park intake packet.
+
+Primary postal anchor 75225 with multi-ZIP overlap in University Park; field packets tag Dallas County for county-grid reconciliation.
+
+ZIP-corridor snapshot for University Park, TX: sampled sectors include 75225, 75205, 75275; county routing grid remains Dallas County.
 
 Service reference: TX-75225-49bc56a0

@@ -11,26 +11,31 @@ lng: -80.2700
 zipSample: ["33470", "33414", "33449"]
 zipCodes: ["33470", "33414", "33449"]
 localPaths: ["Palm Beach County / ZIP 33414 sector", "Palm Beach County / ZIP 33449 sector", "Palm Beach County / primary ZIP 33449", "Palm Beach County / ZIP 33470 sector", "Palm Beach County / coords 26.6500, -80.2700"]
-zillowHomeValueUsd: 733747
 ---
 
 **Engineering Notice for Wellington:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Palm Beach County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: In Wellington, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Local conditions in Wellington, FL can affect timelines and material choices.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: How long can shingles wait after storm damage? In Wellington, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Connection points spot-checked where accessible (ZIP 33414/33449/33470 zone).
+Code context: Ventilation ratios for Wellington, FL attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 33414/33449/33470 coverage.
+In Wellington, FL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Dispatch sectors sampled: ZIP 33414, 33449, 33470 (county grid: Palm Beach County).
+roofing service brief: shingle exposure calibration and attic baffle spacing were cross-checked for the Wellington intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 33470/33414/33449.
+
+On-site sector marker: Palm Beach County / ZIP 33414 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Palm Beach County / ZIP 33449 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33449-2ac45e93

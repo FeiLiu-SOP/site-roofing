@@ -11,24 +11,33 @@ lng: -86.6400
 zipSample: ["32548", "32547"]
 zipCodes: ["32547", "32548"]
 localPaths: ["Okaloosa County / primary ZIP 32548", "Okaloosa County / ZIP 32548 sector", "Okaloosa County / elevation 56 ft band", "Okaloosa County / ZIP 32547 sector", "Okaloosa County / coords 30.4400, -86.6400"]
-zillowHomeValueUsd: 338668
 ---
 
 **Engineering Notice for Wright:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Okaloosa County.
 
 
-Our service coordination centers on Wright, FL coverage windows and verified intake details.
+Regulatory note: Wright, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Wright, FL attics should be checked against current mechanical exhaust additions.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: compare shingle manufacturer wind-zone ratings for Wright, FL exposure class.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Wright, FL, but intake notes help reduce delays.
+FAQ: Can you tarp only part of the roof? In Wright, FL, yes—if slope and anchor points support safe tie-offs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Metal panel oil-canning in Wright, FL may signal clip spacing issues, not wind damage alone.
 
-Field note: Moisture pathway inspection logged near ZIP 32548/32547 intake.
+Material note: In Wright, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 32548, 32547 (county grid: Okaloosa County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+We coordinate Wright, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: synthetic underlayment slip paired with soffit intake free area near ZIP 32548.
+
+On-site sector marker: Okaloosa County / primary ZIP 32548 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Okaloosa County: moisture and logistics baselines are keyed to Wright, FL before niche-specific work begins.
 
 Service reference: FL-32548-07587b0e

@@ -11,27 +11,33 @@ lng: -93.6100
 zipSample: ["55318"]
 zipCodes: ["55318"]
 localPaths: ["Carver County / primary ZIP 55318", "Carver County / elevation 922 ft band", "Carver County / ZIP 55318 sector", "Carver County / coords 44.8200, -93.6100"]
-zillowHomeValueUsd: 478754
 ---
 
 **Engineering Notice for Chaska:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Carver County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Chaska, MN, but intake notes help reduce delays.
+Hail bruising on Chaska, MN ridges may not breach felt until the next wind event.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 55318.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: When should permanent restoration start? In Chaska, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 55318.
 
-Field note: Access points and staging constraints recorded for ZIP 55318 coverage.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Connection points spot-checked where accessible (ZIP 55318 zone).
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 55318 (county grid: Carver County).
+Wind-zone note: Chaska, MN exposure class can change starter-strip and cap nail schedules.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roof work brief: skylight curb height and deck sheathing thickness were cross-checked for the Chaska intake packet.
+
+Coordinate-anchored dispatch note: center reference 44.8200, -93.6100 at elevation ~922 ft aligns with Carver County intake staging.
+
+On-site sector marker: Carver County / ZIP 55318 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55318-7eec915b

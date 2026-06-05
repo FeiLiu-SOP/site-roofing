@@ -11,26 +11,31 @@ lng: -91.1200
 zipSample: ["52601"]
 zipCodes: ["52601"]
 localPaths: ["Des Moines County / ZIP 52601 sector", "Des Moines County / elevation 643 ft band", "Des Moines County / primary ZIP 52601", "Des Moines County / coords 40.8100, -91.1200"]
-zillowHomeValueUsd: 124208
 ---
 
 **Engineering Notice for Burlington:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Des Moines County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Our service coordination centers on Burlington, IA coverage windows and verified intake details.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Burlington, IA can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Burlington, IA, but intake notes help reduce delays.
+Wind-zone note: Burlington, IA exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: In Burlington, IA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Connection points spot-checked where accessible (ZIP 52601 zone).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 52601.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 52601.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 52601 (county grid: Des Moines County).
+Granule embedment loss on Burlington, IA north slopes can precede mat exposure.
+
+Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Des Moines County county grid review.
+
+Coordinate-anchored dispatch note: center reference 40.8100, -91.1200 at elevation ~643 ft aligns with Des Moines County intake staging.
+
+Primary postal anchor 52601 with multi-ZIP overlap in Burlington; field packets tag Des Moines County for county-grid reconciliation.
 
 Service reference: IA-52601-f8cface5

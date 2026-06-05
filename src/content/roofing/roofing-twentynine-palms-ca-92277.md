@@ -11,24 +11,31 @@ lng: -116.0700
 zipSample: ["92278", "92277"]
 zipCodes: ["92277", "92278"]
 localPaths: ["San Bernardino County / ZIP 92277 sector", "San Bernardino County / elevation 2116 ft band", "San Bernardino County / ZIP 92278 sector", "San Bernardino County / primary ZIP 92277", "San Bernardino County / coords 34.1500, -116.0700"]
-zillowHomeValueUsd: 249530
 ---
 
 **Engineering Notice for Twentynine Palms:** Structural loading calculated based on 2116 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: request a written scope before work starts.
+FAQ: When should permanent restoration start? In Twentynine Palms, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Access points and staging constraints recorded for ZIP 92278/92277 coverage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 92278, 92277 (county grid: San Bernardino County).
+Wood shake courses in Twentynine Palms, CA require skip-spacing rules at valleys.
+
+Code context: Ventilation ratios for Twentynine Palms, CA attics should be checked against current mechanical exhaust additions.
+
+roofing service brief: synthetic underlayment slip and valley metal gauge were cross-checked for the Twentynine Palms intake packet.
+
+On-site sector marker: San Bernardino County / primary ZIP 92277 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: San Bernardino County / elevation 2116 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92277-5c2cda38

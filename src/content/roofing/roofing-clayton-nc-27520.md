@@ -11,25 +11,33 @@ lng: -78.4500
 zipSample: ["27527", "27528", "27520"]
 zipCodes: ["27520", "27527", "27528"]
 localPaths: ["Johnston County / ZIP 27520 sector", "Johnston County / ZIP 27527 sector", "Johnston County / primary ZIP 27520", "Johnston County / coords 35.6600, -78.4500", "Johnston County / ZIP 27528 sector"]
-zillowHomeValueUsd: 337468
 ---
 
 **Engineering Notice for Clayton:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Johnston County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-We coordinate local dispatch coverage around Clayton, NC and nearby ZIP sectors.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is partial dry-in possible? In Clayton, NC, yes—if slope and anchor points support safe tie-offs.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 27520.
+Regulatory note: Clayton, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+Granule embedment loss on Clayton, NC north slopes can precede mat exposure.
 
-Field note: Access points and staging constraints recorded for ZIP 27527/27520/27528 coverage.
+Risk flag: In Clayton, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 27527, 27520, 27528 (county grid: Johnston County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Scope trace: attic baffle spacing plus pipe boot manufacturer match referenced in Johnston County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 27528/27527/27520.
+
+ZIP-corridor snapshot for Clayton, NC: sampled sectors include 27528, 27520, 27527; county routing grid remains Johnston County.
+
+On-site sector marker: Johnston County / ZIP 27520 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27520-2afe7e27

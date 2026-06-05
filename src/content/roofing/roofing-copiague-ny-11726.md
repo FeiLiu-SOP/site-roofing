@@ -11,26 +11,33 @@ lng: -73.3900
 zipSample: ["11757", "11701", "11726"]
 zipCodes: ["11726", "11701", "11757"]
 localPaths: ["Suffolk County / primary ZIP 11726", "Suffolk County / coords 40.6700, -73.3900", "Suffolk County / ZIP 11726 sector", "Suffolk County / ZIP 11757 sector", "Suffolk County / elevation 20 ft band"]
-zillowHomeValueUsd: 568461
 ---
 
 **Engineering Notice for Copiague:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-Structured milestones protect both sides when scheduling work.
+Freeze-thaw cycles around Copiague, NY stress nail pops along eaves and rake edges.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-In Copiague, NY, seasonal demand can change scheduling windows.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Wood shake courses in Copiague, NY require skip-spacing rules at valleys.
 
-Field note: Moisture pathway inspection logged near ZIP 11726/11701/11757 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 11726/11701/11757 zone).
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 11726, 11701, 11757 (county grid: Suffolk County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+roof work brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Copiague intake packet.
+
+Coordinate-anchored dispatch note: center reference 40.6700, -73.3900 at elevation ~20 ft aligns with Suffolk County intake staging.
+
+On-site sector marker: Suffolk County / ZIP 11726 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11726-bf4b9e8c

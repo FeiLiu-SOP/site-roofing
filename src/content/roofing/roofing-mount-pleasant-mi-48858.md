@@ -11,24 +11,33 @@ lng: -84.7800
 zipSample: ["48858", "48859"]
 zipCodes: ["48858", "48859"]
 localPaths: ["Isabella County / primary ZIP 48858", "Isabella County / coords 43.6000, -84.7800", "Isabella County / ZIP 48858 sector", "Isabella County / elevation 787 ft band", "Isabella County / ZIP 48859 sector"]
-zillowHomeValueUsd: 220288
 ---
 
 **Engineering Notice for Mount Pleasant:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Isabella County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mount Pleasant, MI, but intake notes help reduce delays.
+Granule embedment loss on Mount Pleasant, MI north slopes can precede mat exposure.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Tile underlayment age in Mount Pleasant, MI can fail independently of visible tile cracks.
 
-We coordinate local dispatch coverage around Mount Pleasant, MI and nearby ZIP sectors.
+In Mount Pleasant, MI, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Moisture pathway inspection logged near ZIP 48858/48859 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 48858, 48859 (county grid: Isabella County).
+Wind-zone note: Mount Pleasant, MI exposure class can change starter-strip and cap nail schedules.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+Scope trace: counter-flashing reglet depth plus starter-strip setback referenced in Isabella County county grid review.
+
+Regional mesh label Isabella County: moisture and logistics baselines are keyed to Mount Pleasant, MI before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~787 ft across the Isabella County area. Coordinates: 43.6000, -84.7800. ZIP sample: 48858, 48859. Service perimeter note: Coverage extends through Isabella County with dispatch centered near ZIP 48858.
 
 Service reference: MI-48858-5e67cb3d

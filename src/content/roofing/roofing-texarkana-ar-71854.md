@@ -11,27 +11,33 @@ lng: -94.0000
 zipSample: ["71854"]
 zipCodes: ["71854"]
 localPaths: ["Miller County / ZIP 71854 sector", "Miller County / coords 33.4400, -94.0000", "Miller County / elevation 387 ft band", "Miller County / primary ZIP 71854"]
-zillowHomeValueUsd: 167066
 ---
 
 **Engineering Notice for Texarkana:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Miller County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 71854.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Our service coordination centers on Texarkana, AR coverage windows and verified intake details.
+Synthetic underlayment slip in Texarkana, AR is often tied to deck moisture, not wind alone.
 
-Field note: Access points and staging constraints recorded for ZIP 71854 coverage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 71854 zone).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 71854 (county grid: Miller County).
+Regulatory note: Texarkana, AR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Field routing: chimney cricket slope paired with ridge cap nail schedule near ZIP 71854.
+
+Field note: Attic moisture pathway scan referenced ZIP 71854.
+
+ZIP-corridor snapshot for Texarkana, AR: sampled sectors include 71854; county routing grid remains Miller County.
+
+Regional mesh label Miller County: moisture and logistics baselines are keyed to Texarkana, AR before niche-specific work begins.
 
 Service reference: AR-71854-fd12f16b

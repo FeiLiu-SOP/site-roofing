@@ -11,26 +11,31 @@ lng: -77.5600
 zipSample: ["20105"]
 zipCodes: ["20105"]
 localPaths: ["Loudoun County / coords 38.9300, -77.5600", "Loudoun County / elevation 344 ft band", "Loudoun County / ZIP 20105 sector", "Loudoun County / primary ZIP 20105"]
-zillowHomeValueUsd: 1102686
 ---
 
 **Engineering Notice for Stone Ridge:** Structural loading calculated based on 344 ft terrain assessment. Regional dispatch grid: Loudoun County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+In Stone Ridge, VA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Regulatory note: Stone Ridge, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Stone Ridge, VA and nearby ZIP sectors.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Wind exposure category reviewed for ZIP sector 20105.
+Risk flag: Tile underlayment age in Stone Ridge, VA can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 20105 coverage.
+FAQ: Is partial dry-in possible? In Stone Ridge, VA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 20105 (county grid: Loudoun County).
+Material note: In Stone Ridge, VA, algae-resistant granules may be specified for north-facing slopes.
+
+roofing service brief: drip-edge metal profile and deck sheathing thickness were cross-checked for the Stone Ridge intake packet.
+
+On-site sector marker: Loudoun County / ZIP 20105 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 38.9300, -77.5600 at elevation ~344 ft aligns with Loudoun County intake staging.
 
 Service reference: VA-20105-07f292d6

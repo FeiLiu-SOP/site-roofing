@@ -11,26 +11,31 @@ lng: -76.8900
 zipSample: ["20785", "20784"]
 zipCodes: ["20784", "20785"]
 localPaths: ["Prince George's County / coords 38.9200, -76.8900", "Prince George's County / elevation 59 ft band", "Prince George's County / ZIP 20784 sector", "Prince George's County / primary ZIP 20784", "Prince George's County / ZIP 20785 sector"]
-zillowHomeValueUsd: 374898
 ---
 
 **Engineering Notice for Landover:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Prince George's County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: compare at least two estimates for scope and timeline.
+Freeze-thaw cycles around Landover, MD stress nail pops along eaves and rake edges.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Our Landover, MD dispatch packets reference county grid Prince George's County and elevation band 59 ft.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Tip: Note recent wind events when filing insurance photos for Landover, MD.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Access points and staging constraints recorded for ZIP 20785/20784 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 20785/20784 intake.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 20785, 20784 (county grid: Prince George's County).
+Risk flag: In Landover, MD, interior stains may track from HVAC condensate rather than roof cladding.
+
+Scope trace: ice-barrier lap sequence plus wind uplift clip spacing referenced in Prince George's County county grid review.
+
+On-site sector marker: Prince George's County / coords 38.9200, -76.8900 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Prince George's County / elevation 59 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20784-38cdd3f4

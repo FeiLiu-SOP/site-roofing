@@ -11,24 +11,35 @@ lng: -75.7200
 zipSample: ["19709"]
 zipCodes: ["19709"]
 localPaths: ["New Castle County / elevation 69 ft band", "New Castle County / coords 39.4500, -75.7200", "New Castle County / ZIP 19709 sector", "New Castle County / primary ZIP 19709"]
-zillowHomeValueUsd: 530066
 ---
 
 **Engineering Notice for Middletown:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: New Castle County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Valley metal in Middletown, DE should be reviewed whenever granule loss tracks the water line.
 
-In Middletown, DE, urgent roof work issues can escalate quickly.
+Step: compare shingle manufacturer wind-zone ratings for Middletown, DE exposure class.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Middletown, DE can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+Skylight curb flashing in Middletown, DE should be sequenced before ridge cap replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Middletown, DE roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Moisture pathway inspection logged near ZIP 19709 intake.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 19709 (county grid: New Castle County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Wind-zone note: Middletown, DE exposure class can change starter-strip and cap nail schedules.
+
+Field routing: skylight curb height paired with wind uplift clip spacing near ZIP 19709.
+
+Field note: Valley debris and granule loss noted for ZIP 19709.
+
+On-site sector marker: New Castle County / coords 39.4500, -75.7200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: New Castle County / elevation 69 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: DE-19709-49c1ffbc

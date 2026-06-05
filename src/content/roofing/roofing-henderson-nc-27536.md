@@ -11,26 +11,33 @@ lng: -78.4200
 zipSample: ["27536"]
 zipCodes: ["27536"]
 localPaths: ["Vance County / primary ZIP 27536", "Vance County / ZIP 27536 sector", "Vance County / coords 36.3300, -78.4200", "Vance County / elevation 469 ft band"]
-zillowHomeValueUsd: 116814
 ---
 
 **Engineering Notice for Henderson:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: Vance County.
 
 
-Our service coordination centers on Henderson, NC coverage windows and verified intake details.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Code context: Ventilation ratios for Henderson, NC attics should be checked against current mechanical exhaust additions.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 27536.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Tile underlayment age in Henderson, NC can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 27536.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Access points and staging constraints recorded for ZIP 27536 coverage.
+Coastal humidity in Henderson, NC can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 27536 (county grid: Vance County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Scope trace: chimney cricket slope plus counter-flashing reglet depth referenced in Vance County county grid review.
+
+On-site sector marker: Vance County / elevation 469 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Henderson, NC: sampled sectors include 27536; county routing grid remains Vance County.
 
 Service reference: NC-27536-95ca2d3d

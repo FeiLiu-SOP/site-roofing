@@ -11,24 +11,29 @@ lng: -73.0400
 zipSample: ["11738"]
 zipCodes: ["11738"]
 localPaths: ["Suffolk County / ZIP 11738 sector", "Suffolk County / primary ZIP 11738", "Suffolk County / coords 40.8400, -73.0400", "Suffolk County / elevation 253 ft band"]
-zillowHomeValueUsd: 640215
 ---
 
 **Engineering Notice for Farmingville:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Metal panel oil-canning in Farmingville, NY may signal clip spacing issues, not wind damage alone.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Can you tarp only part of the roof? In Farmingville, NY, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Farmingville, NY, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-We coordinate local dispatch coverage around Farmingville, NY and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 11738.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 11738 (county grid: Suffolk County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+roof service brief: pipe boot manufacturer match and drip-edge metal profile were cross-checked for the Farmingville intake packet.
+
+Coordinate-anchored dispatch note: center reference 40.8400, -73.0400 at elevation ~253 ft aligns with Suffolk County intake staging.
+
+ZIP-corridor snapshot for Farmingville, NY: sampled sectors include 11738; county routing grid remains Suffolk County.
 
 Service reference: NY-11738-ab332551

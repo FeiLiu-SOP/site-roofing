@@ -11,24 +11,31 @@ lng: -85.7400
 zipSample: ["32408", "32407", "32411", "32401", "32406"]
 zipCodes: ["32406", "32408", "32401", "32411", "32407"]
 localPaths: ["Bay County / primary ZIP 32401", "Bay County / ZIP 32411 sector", "Bay County / ZIP 32408 sector", "Bay County / coords 30.1700, -85.7400", "Bay County / ZIP 32401 sector"]
-zillowHomeValueUsd: 212880
 ---
 
 **Engineering Notice for Upper Grand Lagoon:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Bay County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Regulatory note: Upper Grand Lagoon, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Skylight curb flashing in Upper Grand Lagoon, FL should be sequenced before ridge cap replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: compare shingle manufacturer wind-zone ratings for Upper Grand Lagoon, FL exposure class.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should permanent service start? In Upper Grand Lagoon, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Connection points spot-checked where accessible (ZIP 32411/32406/32401 zone).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 32411, 32406, 32401, 32407, 32408 (county grid: Bay County).
+Risk flag: Tile underlayment age in Upper Grand Lagoon, FL can fail independently of visible tile cracks.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: shingle exposure calibration paired with deck sheathing thickness near ZIP 32401.
+
+Primary postal anchor 32401 with multi-ZIP overlap in Upper Grand Lagoon; field packets tag Bay County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Upper Grand Lagoon, FL: sampled sectors include 32408, 32406, 32401, 32411, 32407; county routing grid remains Bay County.
 
 Service reference: FL-32401-aef1404d

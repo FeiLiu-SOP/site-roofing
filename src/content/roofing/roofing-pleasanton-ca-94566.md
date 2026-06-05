@@ -11,26 +11,29 @@ lng: -121.8800
 zipSample: ["94566", "94588"]
 zipCodes: ["94588", "94566"]
 localPaths: ["Alameda County / coords 37.6700, -121.8800", "Alameda County / ZIP 94566 sector", "Alameda County / primary ZIP 94566", "Alameda County / elevation 341 ft band", "Alameda County / ZIP 94588 sector"]
-zillowHomeValueUsd: 1746567
 ---
 
 **Engineering Notice for Pleasanton:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Alameda County.
 
 
-We coordinate local dispatch coverage around Pleasanton, CA and nearby ZIP sectors.
+Tile and shingle mixes in Pleasanton, CA require different fastener patterns at transitions.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Local conditions in Pleasanton, CA can affect timelines and material choices.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: avoid large upfront payments without milestones.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 94566/94588.
+Regulatory note: Pleasanton, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 94566/94588.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 94566, 94588 (county grid: Alameda County).
+Scope trace: pipe boot manufacturer match plus ridge cap nail schedule referenced in Alameda County county grid review.
+
+On-site sector marker: Alameda County / primary ZIP 94566 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 94566 with multi-ZIP overlap in Pleasanton; field packets tag Alameda County for county-grid reconciliation.
 
 Service reference: CA-94566-8ef07e5b

@@ -11,24 +11,33 @@ lng: -89.4300
 zipSample: ["53744", "53719", "53713", "53711", "53575"]
 zipCodes: ["53719", "53713", "53711", "53575", "53744"]
 localPaths: ["Dane County / primary ZIP 53575", "Dane County / ZIP 53719 sector", "Dane County / ZIP 53744 sector", "Dane County / coords 42.9900, -89.4300", "Dane County / ZIP 53713 sector"]
-zillowHomeValueUsd: 495897
 ---
 
 **Engineering Notice for Fitchburg:** Structural loading calculated based on 1033 ft terrain assessment. Regional dispatch grid: Dane County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-We coordinate local dispatch coverage around Fitchburg, WI and nearby ZIP sectors.
+Coastal humidity in Fitchburg, WI can slow shingle seal-down after shoulder-season storms.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: avoid large upfront payments without milestones.
+Our Fitchburg, WI dispatch packets reference county grid Dane County and elevation band 1033 ft.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 53711/53744/53719.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 53711, 53744, 53719, 53575, 53713 (county grid: Dane County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+roof work brief: attic baffle spacing and valley metal gauge were cross-checked for the Fitchburg intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 53711/53713/53719.
+
+On-site sector marker: Dane County / ZIP 53713 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 42.9900, -89.4300 at elevation ~1033 ft aligns with Dane County intake staging.
 
 Service reference: WI-53575-b9c511e3

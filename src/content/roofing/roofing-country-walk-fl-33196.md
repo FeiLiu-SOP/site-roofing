@@ -11,26 +11,31 @@ lng: -80.4400
 zipSample: ["33186", "33196"]
 zipCodes: ["33196", "33186"]
 localPaths: ["Miami-Dade County / elevation 36 ft band", "Miami-Dade County / coords 25.6300, -80.4400", "Miami-Dade County / ZIP 33196 sector", "Miami-Dade County / primary ZIP 33196", "Miami-Dade County / ZIP 33186 sector"]
-zillowHomeValueUsd: 567228
 ---
 
 **Engineering Notice for Country Walk:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Country Walk, FL, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Note recent wind events when filing insurance photos for Country Walk, FL.
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Country Walk, FL coverage windows and verified intake details.
+Coastal humidity in Country Walk, FL can slow shingle seal-down after shoulder-season storms.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 33196/33186 coverage.
+Step: map ventilation intake and exhaust pairs for Country Walk, FL attic runs.
 
-Field note: Wind exposure category reviewed for ZIP sector 33196/33186.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 33196, 33186 (county grid: Miami-Dade County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: skylight curb height paired with drip-edge metal profile near ZIP 33196.
+
+On-site sector marker: Miami-Dade County / elevation 36 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Miami-Dade County / primary ZIP 33196 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33196-a344b959

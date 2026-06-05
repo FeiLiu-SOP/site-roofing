@@ -11,24 +11,29 @@ lng: -118.0300
 zipSample: ["90604", "90605"]
 zipCodes: ["90604", "90605"]
 localPaths: ["Los Angeles County / coords 33.9300, -118.0300", "Los Angeles County / ZIP 90604 sector", "Los Angeles County / ZIP 90605 sector", "Los Angeles County / elevation 174 ft band", "Los Angeles County / primary ZIP 90604"]
-zillowHomeValueUsd: 828653
 ---
 
 **Engineering Notice for South Whittier:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Step: share symptoms and recent history so the intake notes are complete.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: avoid large upfront payments without milestones.
+Parapet coping movement in South Whittier, CA can channel water behind wall cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 90604/90605 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 90604, 90605 (county grid: Los Angeles County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: shingle exposure calibration plus drip-edge metal profile referenced in Los Angeles County county grid review.
+
+ZIP-corridor snapshot for South Whittier, CA: sampled sectors include 90604, 90605; county routing grid remains Los Angeles County.
+
+Primary postal anchor 90604 with multi-ZIP overlap in South Whittier; field packets tag Los Angeles County for county-grid reconciliation.
 
 Service reference: CA-90604-e02e164e

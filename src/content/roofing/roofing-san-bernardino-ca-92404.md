@@ -11,25 +11,35 @@ lng: -117.2900
 zipSample: ["92407", "92369", "92406", "92415", "92413"]
 zipCodes: ["92401", "92413", "92408", "92423", "92427", "92407", "92403", "92410", "92369", "92404", "92415", "92405"]
 localPaths: ["San Bernardino County / ZIP 92413 sector", "San Bernardino County / ZIP 92415 sector", "San Bernardino County / coords 34.1400, -117.2900", "San Bernardino County / ZIP 92369 sector", "San Bernardino County / ZIP 92407 sector"]
-zillowHomeValueUsd: 480009
 ---
 
 **Engineering Notice for San Bernardino:** Structural loading calculated based on 1201 ft terrain assessment. Regional dispatch grid: San Bernardino County.
 
 
-We coordinate local dispatch coverage around San Bernardino, CA and nearby ZIP sectors.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 92404.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-In San Bernardino, CA, seasonal demand can change scheduling windows.
+Wind-zone note: San Bernardino, CA exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Moisture pathway inspection logged near ZIP 92369/92403/92405 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 92369, 92403, 92405, 92410, 92407 (county grid: San Bernardino County).
+Valley metal in San Bernardino, CA should be reviewed whenever granule loss tracks the water line.
+
+FAQ: How long can shingles wait after storm damage? In San Bernardino, CA, delayed dry-in can expand insulation and ceiling repairs.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Scope trace: drip-edge metal profile plus soffit intake free area referenced in San Bernardino County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 92413/92407/92411.
+
+Regional mesh label San Bernardino County: moisture and logistics baselines are keyed to San Bernardino, CA before niche-specific work begins.
+
+On-site sector marker: San Bernardino County / ZIP 92406 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92404-7e6ff792

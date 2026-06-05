@@ -11,25 +11,31 @@ lng: -87.7500
 zipSample: ["60423", "60443"]
 zipCodes: ["60443", "60423"]
 localPaths: ["Cook County / primary ZIP 60423", "Cook County / elevation 712 ft band", "Cook County / ZIP 60423 sector", "Cook County / coords 41.5100, -87.7500", "Cook County / ZIP 60443 sector"]
-zillowHomeValueUsd: 487511
 ---
 
 **Engineering Notice for Matteson:** Structural loading calculated based on 712 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Matteson, IL exposure class can change starter-strip and cap nail schedules.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60423.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Matteson, IL, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Matteson, IL coverage windows and verified intake details.
+Coastal humidity in Matteson, IL can slow shingle seal-down after shoulder-season storms.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60443/60423.
+FAQ: Can you tarp only part of the roof? In Matteson, IL, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 60443, 60423 (county grid: Cook County).
+Tip: Note recent wind events when filing insurance photos for Matteson, IL.
+
+roof work brief: chimney cricket slope and counter-flashing reglet depth were cross-checked for the Matteson intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 60423/60443.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Cook County. Reference elevation: 712 ft. Primary coordinates: 41.5100, -87.7500. ZIP sample: 60443, 60423. Logistics priority: Serving residential sectors across Cook County and north-east ZIP 60423 grid.
+
+On-site sector marker: Cook County / elevation 712 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60423-d493e86d

@@ -11,25 +11,29 @@ lng: -80.2600
 zipSample: ["33322", "33318", "33325", "33323", "33388"]
 zipCodes: ["33317", "33325", "33313", "33388", "33329", "33322", "33318", "33323", "33324"]
 localPaths: ["Broward County / ZIP 33325 sector", "Broward County / primary ZIP 33322", "Broward County / ZIP 33322 sector", "Broward County / ZIP 33323 sector", "Broward County / ZIP 33318 sector"]
-zillowHomeValueUsd: 261518
 ---
 
 **Engineering Notice for Plantation:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Broward County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 33322.
+Our Plantation, FL dispatch packets reference county grid Broward County and elevation band 16 ft.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Plantation, FL, but intake notes help reduce delays.
+Code context: Ventilation ratios for Plantation, FL attics should be checked against current mechanical exhaust additions.
 
-In Plantation, FL, seasonal demand can change scheduling windows.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Tip: confirm licensing and insurance before approving work.
+Low-slope sections in Plantation, FL need positive drainage before membrane repairs are scoped.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 33388/33322/33329 coverage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 33388, 33322, 33329, 33325, 33324 (county grid: Broward County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Field routing: deck sheathing thickness paired with counter-flashing reglet depth near ZIP 33322.
+
+On-site sector marker: Broward County / ZIP 33325 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Broward County / ZIP 33317 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33322-d227dbfb

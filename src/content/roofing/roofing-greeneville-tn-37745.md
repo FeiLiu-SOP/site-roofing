@@ -11,24 +11,33 @@ lng: -82.8200
 zipSample: ["37745", "37744", "37743"]
 zipCodes: ["37743", "37745", "37744"]
 localPaths: ["Greene County / coords 36.1700, -82.8200", "Greene County / ZIP 37744 sector", "Greene County / ZIP 37743 sector", "Greene County / ZIP 37745 sector", "Greene County / elevation 1608 ft band"]
-zillowHomeValueUsd: 254339
 ---
 
 **Engineering Notice for Greeneville:** Structural loading calculated based on 1608 ft terrain assessment. Regional dispatch grid: Greene County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Greeneville, TN, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Our service coordination centers on Greeneville, TN coverage windows and verified intake details.
+Regulatory note: Greeneville, TN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 37743/37745/37744 zone).
+Across Greeneville, TN, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Dispatch sectors sampled: ZIP 37743, 37745, 37744 (county grid: Greene County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Risk flag: Tile underlayment age in Greeneville, TN can fail independently of visible tile cracks.
+
+roof service brief: skylight curb height and deck sheathing thickness were cross-checked for the Greeneville intake packet.
+
+ZIP-corridor snapshot for Greeneville, TN: sampled sectors include 37744, 37745, 37743; county routing grid remains Greene County.
+
+On-site sector marker: Greene County / primary ZIP 37745 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37745-99965c9d

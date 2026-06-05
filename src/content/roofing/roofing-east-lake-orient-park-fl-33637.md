@@ -11,24 +11,31 @@ lng: -82.3700
 zipSample: ["33637", "33601", "33617", "33680", "33619"]
 zipCodes: ["33680", "33617", "33637", "33619", "33601", "33610"]
 localPaths: ["Hillsborough County / ZIP 33637 sector", "Hillsborough County / ZIP 33617 sector", "Hillsborough County / ZIP 33680 sector", "Hillsborough County / coords 28.0000, -82.3700", "Hillsborough County / primary ZIP 33637"]
-zillowHomeValueUsd: 295109
 ---
 
 **Engineering Notice for East Lake-Orient Park:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Can you tarp only part of the roof? In East Lake-Orient Park, FL, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in East Lake-Orient Park, FL, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Metal panel oil-canning in East Lake-Orient Park, FL may signal clip spacing issues, not wind damage alone.
 
-Our service coordination centers on East Lake-Orient Park, FL coverage windows and verified intake details.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33610/33617/33619.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 33610, 33617, 33619, 33680, 33637 (county grid: Hillsborough County).
+Code context: Ventilation ratios for East Lake-Orient Park, FL attics should be checked against current mechanical exhaust additions.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+roof work brief: starter-strip setback and soffit intake free area were cross-checked for the East Lake-Orient Park intake packet.
+
+On-site sector marker: Hillsborough County / ZIP 33610 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for East Lake-Orient Park, FL: sampled sectors include 33617, 33619, 33637, 33601, 33610, 33680; county routing grid remains Hillsborough County.
 
 Service reference: FL-33637-9ce739d0

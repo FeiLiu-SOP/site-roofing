@@ -11,26 +11,31 @@ lng: -85.5100
 zipSample: ["46750"]
 zipCodes: ["46750"]
 localPaths: ["Huntington County / primary ZIP 46750", "Huntington County / ZIP 46750 sector", "Huntington County / coords 40.8800, -85.5100", "Huntington County / elevation 794 ft band"]
-zillowHomeValueUsd: 191596
 ---
 
 **Engineering Notice for Huntington:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: Huntington County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can you tarp only part of the roof? In Huntington, IN, yes—if slope and anchor points support safe tie-offs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-We coordinate local dispatch coverage around Huntington, IN and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+TPO seam welds in Huntington, IN commercial sections need probe tests after freeze events.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 46750.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 46750.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46750.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 46750 (county grid: Huntington County).
+Scope trace: soffit intake free area plus synthetic underlayment slip referenced in Huntington County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 46750.
+
+Regional mesh label Huntington County: moisture and logistics baselines are keyed to Huntington, IN before niche-specific work begins.
+
+On-site sector marker: Huntington County / primary ZIP 46750 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46750-dc0df85a

@@ -11,26 +11,31 @@ lng: -82.1600
 zipSample: ["24205", "24201", "24202", "24209", "24203"]
 zipCodes: ["24209", "24202", "24203", "24205", "24201"]
 localPaths: ["Bristol County / coords 36.6200, -82.1600", "Bristol County / ZIP 24205 sector", "Bristol County / elevation 1768 ft band", "Bristol County / primary ZIP 24201", "Bristol County / ZIP 24209 sector"]
-zillowHomeValueUsd: 176072
 ---
 
 **Engineering Notice for Bristol:** Structural loading calculated based on 1768 ft terrain assessment. Regional dispatch grid: Bristol County.
 
 
-Our service coordination centers on Bristol, VA coverage windows and verified intake details.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Local conditions in Bristol, VA can affect timelines and material choices.
+FAQ: Is partial dry-in possible? In Bristol, VA, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Synthetic underlayment slip in Bristol, VA is often tied to deck moisture, not wind alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Connection points spot-checked where accessible (ZIP 24201/24205/24203 zone).
+Code context: Ventilation ratios for Bristol, VA attics should be checked against current mechanical exhaust additions.
 
-Field note: Moisture pathway inspection logged near ZIP 24201/24205/24203 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 24201, 24205, 24203, 24209, 24202 (county grid: Bristol County).
+roof service brief: ridge cap nail schedule and synthetic underlayment slip were cross-checked for the Bristol intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 24205/24202/24203.
+
+ZIP-corridor snapshot for Bristol, VA: sampled sectors include 24201, 24209, 24202, 24205, 24203; county routing grid remains Bristol County.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Bristol County. Reference elevation: 1768 ft. Primary coordinates: 36.6200, -82.1600. ZIP sample: 24202, 24201, 24205, 24209, 24203. Service perimeter note: Coverage extends through Bristol County with dispatch centered near ZIP 24201.
 
 Service reference: VA-24201-ed81f676

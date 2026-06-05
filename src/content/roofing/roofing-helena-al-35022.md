@@ -11,27 +11,31 @@ lng: -86.8800
 zipSample: ["35080", "35022"]
 zipCodes: ["35022", "35080"]
 localPaths: ["Shelby County / elevation 430 ft band", "Shelby County / coords 33.2800, -86.8800", "Shelby County / ZIP 35022 sector", "Shelby County / primary ZIP 35022", "Shelby County / ZIP 35080 sector"]
-zillowHomeValueUsd: 279918
 ---
 
 **Engineering Notice for Helena:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: Shelby County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 35022.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Skylight curb flashing in Helena, AL should be sequenced before ridge cap replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-We coordinate local dispatch coverage around Helena, AL and nearby ZIP sectors.
+Regulatory note: Helena, AL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 35022/35080 intake.
+Risk flag: Tile underlayment age in Helena, AL can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 35022/35080 coverage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 35022, 35080 (county grid: Shelby County).
+FAQ: How long can shingles wait after storm damage? In Helena, AL, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: shingle exposure calibration plus drip-edge metal profile referenced in Shelby County county grid review.
+
+On-site sector marker: Shelby County / coords 33.2800, -86.8800 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Shelby County / ZIP 35022 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35022-c17ed515

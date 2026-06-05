@@ -11,26 +11,29 @@ lng: -82.5800
 zipSample: ["34281", "34206", "34205", "34209", "34208"]
 zipCodes: ["34209", "34206", "34281", "34205", "34208"]
 localPaths: ["Manatee County / primary ZIP 34208", "Manatee County / ZIP 34281 sector", "Manatee County / coords 27.4900, -82.5800", "Manatee County / ZIP 34206 sector", "Manatee County / elevation 33 ft band"]
-zillowHomeValueUsd: 323087
 ---
 
 **Engineering Notice for Bradenton:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Manatee County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Note recent wind events when filing insurance photos for Bradenton, FL.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bradenton, FL, but intake notes help reduce delays.
+Hail bruising on Bradenton, FL ridges may not breach felt until the next wind event.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 34205/34209/34206 zone).
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34205/34209/34206.
+We coordinate Bradenton, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 34205, 34209, 34206, 34208, 34281 (county grid: Manatee County).
+Scope trace: drip-edge metal profile plus starter-strip setback referenced in Manatee County county grid review.
+
+On-site sector marker: Manatee County / ZIP 34206 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 34208 with multi-ZIP overlap in Bradenton; field packets tag Manatee County for county-grid reconciliation.
 
 Service reference: FL-34208-45dfca9a

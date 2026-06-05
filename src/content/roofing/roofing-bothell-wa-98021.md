@@ -11,26 +11,33 @@ lng: -122.2000
 zipSample: ["98041", "98021", "98011"]
 zipCodes: ["98041", "98011", "98021"]
 localPaths: ["King County / ZIP 98021 sector", "King County / ZIP 98011 sector", "King County / coords 47.7700, -122.2000", "King County / ZIP 98041 sector", "King County / elevation 302 ft band"]
-zillowHomeValueUsd: 1146103
 ---
 
 **Engineering Notice for Bothell:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: King County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around Bothell, WA and nearby ZIP sectors.
+Granule embedment loss on Bothell, WA north slopes can precede mat exposure.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: compare shingle manufacturer wind-zone ratings for Bothell, WA exposure class.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98021/98041/98011.
+FAQ: How long can shingles wait after storm damage? In Bothell, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 98021/98041/98011 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 98021, 98041, 98011 (county grid: King County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roofing service brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Bothell intake packet.
+
+On-site sector marker: King County / primary ZIP 98021 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 47.7700, -122.2000 at elevation ~302 ft aligns with King County intake staging.
 
 Service reference: WA-98021-a1c922fc

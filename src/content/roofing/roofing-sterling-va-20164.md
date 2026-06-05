@@ -11,26 +11,35 @@ lng: -77.4100
 zipSample: ["20167", "20164"]
 zipCodes: ["20167", "20164"]
 localPaths: ["Loudoun County / ZIP 20167 sector", "Loudoun County / ZIP 20164 sector", "Loudoun County / elevation 335 ft band", "Loudoun County / coords 39.0100, -77.4100", "Loudoun County / primary ZIP 20164"]
-zillowHomeValueUsd: 596600
 ---
 
 **Engineering Notice for Sterling:** Structural loading calculated based on 335 ft terrain assessment. Regional dispatch grid: Loudoun County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Sterling, VA, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is partial dry-in possible? In Sterling, VA, yes—if slope and anchor points support safe tie-offs.
 
-Tip: confirm licensing and insurance before approving work.
+Freeze-thaw cycles around Sterling, VA stress nail pops along eaves and rake edges.
 
-Local conditions in Sterling, VA can affect timelines and material choices.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Access points and staging constraints recorded for ZIP 20167/20164 coverage.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 20167/20164.
+Wood shake courses in Sterling, VA require skip-spacing rules at valleys.
 
-Dispatch sectors sampled: ZIP 20167, 20164 (county grid: Loudoun County).
+Regulatory note: Sterling, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 20164.
+
+Field routing: synthetic underlayment slip paired with drip-edge metal profile near ZIP 20164.
+
+Field note: Attic moisture pathway scan referenced ZIP 20167/20164.
+
+ZIP-corridor snapshot for Sterling, VA: sampled sectors include 20164, 20167; county routing grid remains Loudoun County.
+
+On-site sector marker: Loudoun County / primary ZIP 20164 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20164-19f0c517

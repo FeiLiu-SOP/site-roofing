@@ -11,26 +11,33 @@ lng: -106.4100
 zipSample: ["88081"]
 zipCodes: ["88081"]
 localPaths: ["Doña Ana County / ZIP 88081 sector", "Doña Ana County / coords 32.0400, -106.4100", "Doña Ana County / primary ZIP 88081", "Doña Ana County / elevation 4062 ft band"]
-zillowHomeValueUsd: 216183
 ---
 
 **Engineering Notice for Chaparral:** Structural loading calculated based on 4062 ft terrain assessment. Regional dispatch grid: Doña Ana County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Chaparral, NM, but intake notes help reduce delays.
+Code context: Ventilation ratios for Chaparral, NM attics should be checked against current mechanical exhaust additions.
 
-Tip: address recurring issues early to prevent bigger damage.
+Low-slope sections in Chaparral, NM need positive drainage before membrane repairs are scoped.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-We coordinate local dispatch coverage around Chaparral, NM and nearby ZIP sectors.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-In Chaparral, NM, seasonal demand can change scheduling windows.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 88081 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 88081.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 88081 (county grid: Doña Ana County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Scope trace: deck sheathing thickness plus drip-edge metal profile referenced in Doña Ana County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 88081.
+
+On-site sector marker: Doña Ana County / ZIP 88081 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Doña Ana County / primary ZIP 88081 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88081-d9231d5f

@@ -11,25 +11,29 @@ lng: -105.1100
 zipSample: ["80162", "80128", "80127", "80123"]
 zipCodes: ["80162", "80128", "80123", "80127"]
 localPaths: ["Jefferson County / ZIP 80162 sector", "Jefferson County / ZIP 80123 sector", "Jefferson County / coords 39.5800, -105.1100", "Jefferson County / primary ZIP 80128", "Jefferson County / ZIP 80128 sector"]
-zillowHomeValueUsd: 602628
 ---
 
 **Engineering Notice for Ken Caryl:** Structural loading calculated based on 5807 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Our service coordination centers on Ken Caryl, CO coverage windows and verified intake details.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 80128.
+FAQ: When should permanent restoration start? In Ken Caryl, CO, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Synthetic underlayment slip in Ken Caryl, CO is often tied to deck moisture, not wind alone.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Moisture pathway inspection logged near ZIP 80127/80162/80128 intake.
+Risk flag: In Ken Caryl, CO, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 80127, 80162, 80128, 80123 (county grid: Jefferson County).
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Field routing: drip-edge metal profile paired with ridge cap nail schedule near ZIP 80128.
+
+Regional mesh label Jefferson County: moisture and logistics baselines are keyed to Ken Caryl, CO before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 39.5800, -105.1100 at elevation ~5807 ft aligns with Jefferson County intake staging.
 
 Service reference: CO-80128-6eabfb0a

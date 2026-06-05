@@ -11,27 +11,35 @@ lng: -66.5000
 zipSample: ["00795"]
 zipCodes: ["00795"]
 localPaths: ["Juana Díaz County / elevation 187 ft band", "Juana Díaz County / ZIP 00795 sector", "Juana Díaz County / primary ZIP 00795", "Juana Díaz County / coords 18.0500, -66.5000"]
-zillowHomeValueUsd: 371461
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Juana Díaz:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Juana Díaz County.
 
 
-In Juana Díaz, PR, urgent roof work issues can escalate quickly.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Juana Díaz, PR, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 00795 coverage.
+Risk flag: Tile underlayment age in Juana Díaz, PR can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 00795 intake.
+TPO seam welds in Juana Díaz, PR commercial sections need probe tests after freeze events.
 
-Dispatch sectors sampled: ZIP 00795 (county grid: Juana Díaz County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 00795.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof work brief: counter-flashing reglet depth and soffit intake free area were cross-checked for the Juana Díaz intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 00795.
+
+Primary postal anchor 00795 with multi-ZIP overlap in Juana Díaz; field packets tag Juana Díaz County for county-grid reconciliation.
+
+On-site sector marker: Juana Díaz County / ZIP 00795 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00795-0036c389

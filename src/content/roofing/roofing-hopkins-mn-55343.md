@@ -11,24 +11,29 @@ lng: -93.4100
 zipSample: ["55305", "55343"]
 zipCodes: ["55305", "55343"]
 localPaths: ["Hennepin County / ZIP 55343 sector", "Hennepin County / ZIP 55305 sector", "Hennepin County / primary ZIP 55343", "Hennepin County / coords 44.9300, -93.4100", "Hennepin County / elevation 919 ft band"]
-zillowHomeValueUsd: 344951
 ---
 
 **Engineering Notice for Hopkins:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Hennepin County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Hopkins, MN, but intake notes help reduce delays.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Hopkins, MN attics should be checked against current mechanical exhaust additions.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Low-slope sections in Hopkins, MN need positive drainage before membrane repairs are scoped.
 
-Field note: Wind exposure category reviewed for ZIP sector 55305/55343.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 55305, 55343 (county grid: Hennepin County).
+FAQ: How long can shingles wait after storm damage? In Hopkins, MN, delayed dry-in can expand insulation and ceiling repairs.
+
+roofing service brief: drip-edge metal profile and wind uplift clip spacing were cross-checked for the Hopkins intake packet.
+
+On-site sector marker: Hennepin County / ZIP 55343 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hennepin County / primary ZIP 55343 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55343-a114b5d8

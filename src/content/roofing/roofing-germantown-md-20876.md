@@ -11,24 +11,33 @@ lng: -77.2600
 zipSample: ["20876", "20874", "20875"]
 zipCodes: ["20876", "20874", "20875"]
 localPaths: ["Montgomery County / ZIP 20874 sector", "Montgomery County / elevation 492 ft band", "Montgomery County / coords 39.1800, -77.2600", "Montgomery County / primary ZIP 20876", "Montgomery County / ZIP 20876 sector"]
-zillowHomeValueUsd: 484226
 ---
 
 **Engineering Notice for Germantown:** Structural loading calculated based on 492 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Skylight curb flashing in Germantown, MD should be sequenced before ridge cap replacement.
 
-Tip: request a written scope before work starts.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Germantown, MD, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Germantown, MD, interior stains may track from HVAC condensate rather than roof cladding.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Access points and staging constraints recorded for ZIP 20874/20876/20875 coverage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 20874, 20876, 20875 (county grid: Montgomery County).
+Step: separate emergency tarp scope from permanent remediation line items.
+
+Code context: Ventilation ratios for Germantown, MD attics should be checked against current mechanical exhaust additions.
+
+roof work brief: synthetic underlayment slip and counter-flashing reglet depth were cross-checked for the Germantown intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 20875/20876/20874.
+
+On-site sector marker: Montgomery County / elevation 492 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Germantown, MD: sampled sectors include 20875, 20874, 20876; county routing grid remains Montgomery County.
 
 Service reference: MD-20876-d8159fbf

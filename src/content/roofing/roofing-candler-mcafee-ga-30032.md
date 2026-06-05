@@ -11,24 +11,31 @@ lng: -84.2700
 zipSample: ["30032"]
 zipCodes: ["30032"]
 localPaths: ["DeKalb County / ZIP 30032 sector", "DeKalb County / elevation 948 ft band", "DeKalb County / primary ZIP 30032", "DeKalb County / coords 33.7300, -84.2700"]
-zillowHomeValueUsd: 232649
 ---
 
 **Engineering Notice for Candler-McAfee:** Structural loading calculated based on 948 ft terrain assessment. Regional dispatch grid: DeKalb County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Candler-McAfee, GA, but intake notes help reduce delays.
+Wind-zone note: Candler-McAfee, GA exposure class can change starter-strip and cap nail schedules.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Our service coordination centers on Candler-McAfee, GA coverage windows and verified intake details.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: request a written scope before work starts.
+Attic ventilation deficits in Candler-McAfee, GA can mimic roof leaks at ceiling penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30032.
+Risk flag: Tile underlayment age in Candler-McAfee, GA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 30032 (county grid: DeKalb County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Scope trace: valley metal gauge plus counter-flashing reglet depth referenced in DeKalb County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 30032.
+
+On-site sector marker: DeKalb County / ZIP 30032 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Response coverage aligns with DeKalb County and primary ZIP 30032. Terrain reference: 948 ft. Center point: 33.7300, -84.2700. ZIP sample: 30032. Service perimeter note: Coverage extends through DeKalb County with dispatch centered near ZIP 30032.
 
 Service reference: GA-30032-898e5a58

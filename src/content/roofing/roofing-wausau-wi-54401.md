@@ -11,26 +11,33 @@ lng: -89.6500
 zipSample: ["54403", "54401"]
 zipCodes: ["54403", "54401"]
 localPaths: ["Marathon County / coords 44.9600, -89.6500", "Marathon County / ZIP 54401 sector", "Marathon County / primary ZIP 54401", "Marathon County / elevation 1316 ft band", "Marathon County / ZIP 54403 sector"]
-zillowHomeValueUsd: 251320
 ---
 
 **Engineering Notice for Wausau:** Structural loading calculated based on 1316 ft terrain assessment. Regional dispatch grid: Marathon County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can you tarp only part of the roof? In Wausau, WI, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Homeowners in Wausau, WI often face sudden roof work problems that require fast action.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 54401/54403 zone).
+Skylight curb flashing in Wausau, WI should be sequenced before ridge cap replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 54401/54403 coverage.
+FAQ: How long can shingles wait after storm damage? In Wausau, WI, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 54401, 54403 (county grid: Marathon County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Material note: In Wausau, WI, algae-resistant granules may be specified for north-facing slopes.
+
+Field routing: starter-strip setback paired with chimney cricket slope near ZIP 54401.
+
+On-site sector marker: Marathon County / elevation 1316 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 44.9600, -89.6500 at elevation ~1316 ft aligns with Marathon County intake staging.
 
 Service reference: WI-54401-ad27fe9b

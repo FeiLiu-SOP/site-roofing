@@ -11,26 +11,29 @@ lng: -81.4100
 zipSample: ["32095", "32081"]
 zipCodes: ["32081", "32095"]
 localPaths: ["St. Johns County / ZIP 32095 sector", "St. Johns County / ZIP 32081 sector", "St. Johns County / coords 30.0900, -81.4100", "St. Johns County / primary ZIP 32095", "St. Johns County / elevation 30 ft band"]
-zillowHomeValueUsd: 501176
 ---
 
 **Engineering Notice for Nocatee:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: St. Johns County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: avoid large upfront payments without milestones.
+Code context: Ventilation ratios for Nocatee, FL attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Nocatee, FL, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our service coordination centers on Nocatee, FL coverage windows and verified intake details.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent service line items.
 
-Field note: Wind exposure category reviewed for ZIP sector 32095/32081.
+In Nocatee, FL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Moisture pathway inspection logged near ZIP 32095/32081 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 32095, 32081 (county grid: St. Johns County).
+Scope trace: chimney cricket slope plus shingle exposure calibration referenced in St. Johns County county grid review.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with St. Johns County and primary ZIP 32095. Terrain reference: 30 ft. Center point: 30.0900, -81.4100. ZIP sample: 32081, 32095. Regional routing note: St. Johns County traffic flow is balanced around ZIP 32095 service demand.
+
+Primary postal anchor 32095 with multi-ZIP overlap in Nocatee; field packets tag St. Johns County for county-grid reconciliation.
 
 Service reference: FL-32095-79cfffed

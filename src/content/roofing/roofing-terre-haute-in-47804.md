@@ -11,26 +11,31 @@ lng: -87.3800
 zipSample: ["47807", "47804", "47802", "47803", "47801"]
 zipCodes: ["47802", "47808", "47809", "47801", "47807", "47804", "47803"]
 localPaths: ["Vigo County / primary ZIP 47804", "Vigo County / ZIP 47803 sector", "Vigo County / ZIP 47804 sector", "Vigo County / ZIP 47802 sector", "Vigo County / coords 39.4700, -87.3800"]
-zillowHomeValueUsd: 101359
 ---
 
 **Engineering Notice for Terre Haute:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Vigo County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Terre Haute, IN, but intake notes help reduce delays.
+Risk flag: In Terre Haute, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Terre Haute, IN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: request a written scope before work starts.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 47804/47802/47803.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Access points and staging constraints recorded for ZIP 47804/47802/47803 coverage.
+TPO seam welds in Terre Haute, IN commercial sections need probe tests after freeze events.
 
-Dispatch sectors sampled: ZIP 47804, 47802, 47803, 47808, 47809 (county grid: Vigo County).
+FAQ: Is partial dry-in possible? In Terre Haute, IN, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: attic baffle spacing plus shingle exposure calibration referenced in Vigo County county grid review.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~518 ft across the Vigo County area. Coordinates: 39.4700, -87.3800. ZIP sample: 47807, 47804, 47801, 47802, 47808. Logistics priority: Serving residential sectors across Vigo County and north-east ZIP 47804 grid.
+
+On-site sector marker: Vigo County / elevation 518 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47804-0fd1aa3c

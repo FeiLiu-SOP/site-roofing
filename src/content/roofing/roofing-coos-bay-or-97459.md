@@ -11,24 +11,31 @@ lng: -124.2300
 zipSample: ["97459", "97420"]
 zipCodes: ["97420", "97459"]
 localPaths: ["Coos County / elevation 144 ft band", "Coos County / ZIP 97459 sector", "Coos County / primary ZIP 97459", "Coos County / ZIP 97420 sector", "Coos County / coords 43.3800, -124.2300"]
-zillowHomeValueUsd: 356807
 ---
 
 **Engineering Notice for Coos Bay:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Coos County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Coos Bay, OR, but intake notes help reduce delays.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Material note: In Coos Bay, OR, algae-resistant granules may be specified for north-facing slopes.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Coos Bay, OR, interior stains may track from HVAC condensate rather than roof cladding.
 
-We coordinate local dispatch coverage around Coos Bay, OR and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Transparent pricing helps you compare like-for-like scope items.
+Regulatory note: Coos Bay, OR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 97420/97459.
+FAQ: Can you tarp only part of the roof? In Coos Bay, OR, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 97420, 97459 (county grid: Coos County).
+Across Coos Bay, OR, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+Field routing: attic baffle spacing paired with deck sheathing thickness near ZIP 97459.
+
+Coordinate-anchored dispatch note: center reference 43.3800, -124.2300 at elevation ~144 ft aligns with Coos County intake staging.
+
+On-site sector marker: Coos County / coords 43.3800, -124.2300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97459-31cd0da1

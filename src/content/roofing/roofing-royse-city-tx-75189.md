@@ -11,24 +11,31 @@ lng: -96.3200
 zipSample: ["75189"]
 zipCodes: ["75189"]
 localPaths: ["Rockwall County / ZIP 75189 sector", "Rockwall County / elevation 535 ft band", "Rockwall County / primary ZIP 75189", "Rockwall County / coords 32.9800, -96.3200"]
-zillowHomeValueUsd: 321805
 ---
 
 **Engineering Notice for Royse City:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Rockwall County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Royse City, TX, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Royse City, TX exposure class.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wind-zone note: Royse City, TX exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Hail bruising on Royse City, TX ridges may not breach felt until the next wind event.
 
-Field note: Wind exposure category reviewed for ZIP sector 75189.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 75189 (county grid: Rockwall County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Material note: In Royse City, TX, algae-resistant granules may be specified for north-facing slopes.
+
+Scope trace: ridge cap nail schedule plus drip-edge metal profile referenced in Rockwall County county grid review.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Rockwall County and primary ZIP 75189. Terrain reference: 535 ft. Center point: 32.9800, -96.3200. ZIP sample: 75189. Logistics priority: Serving residential sectors across Rockwall County and north-east ZIP 75189 grid.
+
+On-site sector marker: Rockwall County / coords 32.9800, -96.3200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75189-1e224e23

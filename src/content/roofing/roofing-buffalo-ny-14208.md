@@ -11,24 +11,33 @@ lng: -78.8500
 zipSample: ["14216", "14269", "14233", "14264", "14215"]
 zipCodes: ["14233", "14207", "14280", "14264", "14215", "14205", "14216", "14267", "14211", "14269", "14212", "14206"]
 localPaths: ["Erie County / ZIP 14264 sector", "Erie County / coords 42.9000, -78.8500", "Erie County / ZIP 14215 sector", "Erie County / ZIP 14233 sector", "Erie County / ZIP 14269 sector"]
-zillowHomeValueUsd: 136047
 ---
 
 **Engineering Notice for Buffalo:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Erie County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-We coordinate local dispatch coverage around Buffalo, NY and nearby ZIP sectors.
+Synthetic underlayment slip in Buffalo, NY is often tied to deck moisture, not wind alone.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Risk flag: Tile underlayment age in Buffalo, NY can fail independently of visible tile cracks.
 
-In Buffalo, NY, urgent roofing service issues can escalate quickly.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Access points and staging constraints recorded for ZIP 14233/14272/14212 coverage.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 14208.
 
-Dispatch sectors sampled: ZIP 14233, 14272, 14212, 14220, 14209 (county grid: Erie County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Field routing: soffit intake free area paired with skylight curb height near ZIP 14208.
+
+ZIP-corridor snapshot for Buffalo, NY: sampled sectors include 14201, 14240, 14216, 14209, 14203, 14220, 14276, 14204; county routing grid remains Erie County.
+
+On-site sector marker: Erie County / ZIP 14240 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14208-47f690ac

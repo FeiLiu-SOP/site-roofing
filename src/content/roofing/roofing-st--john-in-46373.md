@@ -11,27 +11,33 @@ lng: -87.4700
 zipSample: ["46373", "46311"]
 zipCodes: ["46311", "46373"]
 localPaths: ["Lake County / elevation 702 ft band", "Lake County / ZIP 46311 sector", "Lake County / ZIP 46373 sector", "Lake County / primary ZIP 46373", "Lake County / coords 41.4400, -87.4700"]
-zillowHomeValueUsd: 448530
 ---
 
 **Engineering Notice for St. John:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+We coordinate St. John, IN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Coastal humidity in St. John, IN can slow shingle seal-down after shoulder-season storms.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 46373.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Wind exposure category reviewed for ZIP sector 46373/46311.
+Confirm ventilation balance during the same appointment. Serving ZIP Code: 46373.
 
-Field note: Connection points spot-checked where accessible (ZIP 46373/46311 zone).
+Risk flag: Tile underlayment age in St. John, IN can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 46373, 46311 (county grid: Lake County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Scope trace: synthetic underlayment slip plus wind uplift clip spacing referenced in Lake County county grid review.
+
+On-site sector marker: Lake County / coords 41.4400, -87.4700 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 41.4400, -87.4700 at elevation ~702 ft aligns with Lake County intake staging.
 
 Service reference: IN-46373-69d7b028

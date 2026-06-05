@@ -11,24 +11,33 @@ lng: -117.6000
 zipSample: ["92688", "92679"]
 zipCodes: ["92679", "92688"]
 localPaths: ["Orange County / coords 33.6300, -117.6000", "Orange County / ZIP 92688 sector", "Orange County / primary ZIP 92679", "Orange County / ZIP 92679 sector", "Orange County / elevation 935 ft band"]
-zillowHomeValueUsd: 1600689
 ---
 
 **Engineering Notice for Rancho Santa Margarita:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Valley metal in Rancho Santa Margarita, CA should be reviewed whenever granule loss tracks the water line.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Freeze-thaw cycles around Rancho Santa Margarita, CA stress nail pops along eaves and rake edges.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Rancho Santa Margarita, CA, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Structured milestones protect both sides when scheduling work.
+Wind-zone note: Rancho Santa Margarita, CA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Access points and staging constraints recorded for ZIP 92688/92679 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 92688, 92679 (county grid: Orange County).
+FAQ: When should permanent service start? In Rancho Santa Margarita, CA, delayed dry-in can expand insulation and ceiling repairs.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Step: note chimney cricket geometry before counter-flashing removal.
+
+roof service brief: wind uplift clip spacing and deck sheathing thickness were cross-checked for the Rancho Santa Margarita intake packet.
+
+Primary postal anchor 92679 with multi-ZIP overlap in Rancho Santa Margarita; field packets tag Orange County for county-grid reconciliation.
+
+On-site sector marker: Orange County / ZIP 92679 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92679-566044cd

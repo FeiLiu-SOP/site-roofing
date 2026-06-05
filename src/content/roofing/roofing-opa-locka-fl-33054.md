@@ -11,24 +11,31 @@ lng: -80.2600
 zipSample: ["33054"]
 zipCodes: ["33054"]
 localPaths: ["Miami-Dade County / elevation 26 ft band", "Miami-Dade County / coords 25.9000, -80.2600", "Miami-Dade County / primary ZIP 33054", "Miami-Dade County / ZIP 33054 sector"]
-zillowHomeValueUsd: 416214
 ---
 
 **Engineering Notice for Opa-locka:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+We coordinate Opa-locka, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Opa-locka, FL, but intake notes help reduce delays.
+FAQ: Is partial dry-in possible? In Opa-locka, FL, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Access points and staging constraints recorded for ZIP 33054 coverage.
+Wood shake courses in Opa-locka, FL require skip-spacing rules at valleys.
 
-Dispatch sectors sampled: ZIP 33054 (county grid: Miami-Dade County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Field routing: attic baffle spacing paired with wind uplift clip spacing near ZIP 33054.
+
+Field note: Attic moisture pathway scan referenced ZIP 33054.
+
+Regional mesh label Miami-Dade County: moisture and logistics baselines are keyed to Opa-locka, FL before niche-specific work begins.
+
+Primary postal anchor 33054 with multi-ZIP overlap in Opa-locka; field packets tag Miami-Dade County for county-grid reconciliation.
 
 Service reference: FL-33054-6fecc1ef

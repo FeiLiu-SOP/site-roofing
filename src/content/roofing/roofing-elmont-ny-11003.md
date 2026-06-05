@@ -11,24 +11,35 @@ lng: -73.7100
 zipSample: ["11003"]
 zipCodes: ["11003"]
 localPaths: ["Nassau County / ZIP 11003 sector", "Nassau County / primary ZIP 11003", "Nassau County / coords 40.7000, -73.7100", "Nassau County / elevation 66 ft band"]
-zillowHomeValueUsd: 726204
 ---
 
 **Engineering Notice for Elmont:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Elmont, NY, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Elmont, NY can fail independently of visible tile cracks.
 
-Tip: avoid large upfront payments without milestones.
+Attic ventilation deficits in Elmont, NY can mimic roof leaks at ceiling penetrations.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-We coordinate local dispatch coverage around Elmont, NY and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Access points and staging constraints recorded for ZIP 11003 coverage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 11003 (county grid: Nassau County).
+Step: compare shingle manufacturer wind-zone ratings for Elmont, NY exposure class.
+
+Schedule a roof inspection with written scope before permanent remediation. Serving ZIP Code: 11003.
+
+Our Elmont, NY dispatch packets reference county grid Nassau County and elevation band 66 ft.
+
+roofing service brief: drip-edge metal profile and attic baffle spacing were cross-checked for the Elmont intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 11003.
+
+Regional mesh label Nassau County: moisture and logistics baselines are keyed to Elmont, NY before niche-specific work begins.
+
+On-site sector marker: Nassau County / primary ZIP 11003 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-11003-22a96589

@@ -11,27 +11,31 @@ lng: -117.3900
 zipSample: ["92516", "92513", "92522", "92504", "92506"]
 zipCodes: ["92517", "92501", "92521", "92503", "92508", "92514", "92516", "92505", "92504", "92513", "92506", "92502"]
 localPaths: ["Riverside County / coords 33.9400, -117.3900", "Riverside County / primary ZIP 92508", "Riverside County / ZIP 92506 sector", "Riverside County / ZIP 92504 sector", "Riverside County / ZIP 92516 sector"]
-zillowHomeValueUsd: 767527
 ---
 
 **Engineering Notice for Riverside:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Riverside, CA, but intake notes help reduce delays.
+We coordinate Riverside, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 92508.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: Riverside, CA exposure class can change starter-strip and cap nail schedules.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: separate emergency tarp scope from permanent service line items.
 
-Field note: Wind exposure category reviewed for ZIP sector 92513/92522/92508.
+Attic ventilation deficits in Riverside, CA can mimic roof leaks at ceiling penetrations.
 
-Field note: Access points and staging constraints recorded for ZIP 92513/92522/92508 coverage.
+FAQ: When should permanent remediation start? In Riverside, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 92513, 92522, 92508, 92507, 92504 (county grid: Riverside County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 92508.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Riverside County. Reference elevation: 892 ft. Primary coordinates: 33.9400, -117.3900. ZIP sample: 92517, 92506, 92504, 92507, 92514. Regional routing note: Riverside County traffic flow is balanced around ZIP 92508 service demand.
+
+Regional mesh label Riverside County: moisture and logistics baselines are keyed to Riverside, CA before niche-specific work begins.
 
 Service reference: CA-92508-dba1f9d8

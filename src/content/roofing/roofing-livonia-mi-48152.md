@@ -11,26 +11,29 @@ lng: -83.3700
 zipSample: ["48150", "48151", "48152", "48154", "48153"]
 zipCodes: ["48153", "48150", "48152", "48151", "48154"]
 localPaths: ["Wayne County / ZIP 48152 sector", "Wayne County / primary ZIP 48152", "Wayne County / ZIP 48151 sector", "Wayne County / ZIP 48150 sector", "Wayne County / ZIP 48153 sector"]
-zillowHomeValueUsd: 323070
 ---
 
 **Engineering Notice for Livonia:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Livonia, MI exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Low-slope sections in Livonia, MI need positive drainage before membrane repairs are scoped.
 
-In Livonia, MI, seasonal demand can change scheduling windows.
+Risk flag: Tile underlayment age in Livonia, MI can fail independently of visible tile cracks.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Moisture pathway inspection logged near ZIP 48151/48153/48154 intake.
+Step: compare shingle manufacturer wind-zone ratings for Livonia, MI exposure class.
 
-Field note: Wind exposure category reviewed for ZIP sector 48151/48153/48154.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 48151, 48153, 48154, 48152, 48150 (county grid: Wayne County).
+Field routing: pipe boot manufacturer match paired with valley metal gauge near ZIP 48152.
+
+Regional mesh label Wayne County: moisture and logistics baselines are keyed to Livonia, MI before niche-specific work begins.
+
+Primary postal anchor 48152 with multi-ZIP overlap in Livonia; field packets tag Wayne County for county-grid reconciliation.
 
 Service reference: MI-48152-96a930d0

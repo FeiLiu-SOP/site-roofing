@@ -11,25 +11,33 @@ lng: -119.7900
 zipSample: ["93110", "93160", "93111"]
 zipCodes: ["93160", "93111", "93110"]
 localPaths: ["Santa Barbara County / ZIP 93111 sector", "Santa Barbara County / ZIP 93110 sector", "Santa Barbara County / coords 34.4400, -119.7900", "Santa Barbara County / primary ZIP 93111", "Santa Barbara County / ZIP 93160 sector"]
-zillowHomeValueUsd: 1671624
 ---
 
 **Engineering Notice for Eastern Goleta Valley:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
 
 
-In Eastern Goleta Valley, CA, urgent roofing service issues can escalate quickly.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 93111.
+Risk flag: Tile underlayment age in Eastern Goleta Valley, CA can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 93111/93110/93160 intake.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 93111, 93110, 93160 (county grid: Santa Barbara County).
+FAQ: Can you tarp only part of the roof? In Eastern Goleta Valley, CA, yes—if slope and anchor points support safe tie-offs.
+
+Granule embedment loss on Eastern Goleta Valley, CA north slopes can precede mat exposure.
+
+Field routing: pipe boot manufacturer match paired with ridge cap nail schedule near ZIP 93111.
+
+Field note: Attic moisture pathway scan referenced ZIP 93160/93110/93111.
+
+On-site sector marker: Santa Barbara County / ZIP 93160 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Santa Barbara County / elevation 125 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93111-fc394f49

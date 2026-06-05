@@ -11,27 +11,29 @@ lng: -87.9700
 zipSample: ["60048"]
 zipCodes: ["60048"]
 localPaths: ["Lake County / elevation 692 ft band", "Lake County / coords 42.2900, -87.9700", "Lake County / ZIP 60048 sector", "Lake County / primary ZIP 60048"]
-zillowHomeValueUsd: 608251
 ---
 
 **Engineering Notice for Libertyville:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: Libertyville, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60048.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-In Libertyville, IL, urgent roof work issues can escalate quickly.
+TPO seam welds in Libertyville, IL commercial sections need probe tests after freeze events.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Access points and staging constraints recorded for ZIP 60048 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Connection points spot-checked where accessible (ZIP 60048 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 60048 (county grid: Lake County).
+Scope trace: skylight curb height plus deck sheathing thickness referenced in Lake County county grid review.
+
+ZIP-corridor snapshot for Libertyville, IL: sampled sectors include 60048; county routing grid remains Lake County.
+
+Regional mesh label Lake County: moisture and logistics baselines are keyed to Libertyville, IL before niche-specific work begins.
 
 Service reference: IL-60048-3bab8913

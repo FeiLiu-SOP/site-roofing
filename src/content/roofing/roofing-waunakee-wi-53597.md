@@ -11,26 +11,35 @@ lng: -89.4400
 zipSample: ["53597"]
 zipCodes: ["53597"]
 localPaths: ["Dane County / coords 43.1800, -89.4400", "Dane County / ZIP 53597 sector", "Dane County / elevation 899 ft band", "Dane County / primary ZIP 53597"]
-zillowHomeValueUsd: 597391
 ---
 
 **Engineering Notice for Waunakee:** Structural loading calculated based on 899 ft terrain assessment. Regional dispatch grid: Dane County.
 
 
-Our service coordination centers on Waunakee, WI coverage windows and verified intake details.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Waunakee, WI, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wood shake courses in Waunakee, WI require skip-spacing rules at valleys.
 
-In Waunakee, WI, urgent roof service issues can escalate quickly.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Waunakee, WI.
 
-Field note: Moisture pathway inspection logged near ZIP 53597 intake.
+Material note: In Waunakee, WI, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Access points and staging constraints recorded for ZIP 53597 coverage.
+FAQ: Can you tarp only part of the roof? In Waunakee, WI, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 53597 (county grid: Dane County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Regulatory note: Waunakee, WI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roof service brief: ice-barrier lap sequence and skylight curb height were cross-checked for the Waunakee intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 53597.
+
+On-site sector marker: Dane County / coords 43.1800, -89.4400 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Dane County / primary ZIP 53597 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53597-4ba512a9

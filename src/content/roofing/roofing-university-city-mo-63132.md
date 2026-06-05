@@ -11,26 +11,33 @@ lng: -90.3300
 zipSample: ["63130", "63132"]
 zipCodes: ["63132", "63130"]
 localPaths: ["St. Louis County / ZIP 63130 sector", "St. Louis County / elevation 535 ft band", "St. Louis County / coords 38.6700, -90.3300", "St. Louis County / primary ZIP 63132", "St. Louis County / ZIP 63132 sector"]
-zillowHomeValueUsd: 356818
 ---
 
 **Engineering Notice for University City:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-Tip: avoid large upfront payments without milestones.
+Skylight curb flashing in University City, MO should be sequenced before ridge cap replacement.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: University City, MO exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is partial dry-in possible? In University City, MO, yes—if slope and anchor points support safe tie-offs.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: map ventilation intake and exhaust pairs for University City, MO attic runs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in University City, MO, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 63132/63130 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Moisture pathway inspection logged near ZIP 63132/63130 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 63132, 63130 (county grid: St. Louis County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Scope trace: counter-flashing reglet depth plus ridge cap nail schedule referenced in St. Louis County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 63132/63130.
+
+On-site sector marker: St. Louis County / elevation 535 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Louis County / coords 38.6700, -90.3300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63132-6542dffb

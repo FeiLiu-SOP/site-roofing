@@ -11,26 +11,35 @@ lng: -118.2600
 zipSample: ["90810", "90248", "90224", "90745", "90746"]
 zipCodes: ["90749", "90745", "90895", "90747", "90224", "90746", "90248", "90810"]
 localPaths: ["Los Angeles County / ZIP 90248 sector", "Los Angeles County / elevation 30 ft band", "Los Angeles County / ZIP 90745 sector", "Los Angeles County / coords 33.8400, -118.2600", "Los Angeles County / primary ZIP 90248"]
-zillowHomeValueUsd: 817439
 ---
 
 **Engineering Notice for Carson:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: request a written scope before work starts.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-We coordinate local dispatch coverage around Carson, CA and nearby ZIP sectors.
+Material note: In Carson, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Structured milestones protect both sides when scheduling work.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 90749/90248/90747 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 90749/90248/90747 zone).
+Risk flag: In Carson, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 90749, 90248, 90747, 90745, 90810 (county grid: Los Angeles County).
+Attic ventilation deficits in Carson, CA can mimic roof leaks at ceiling penetrations.
+
+FAQ: Is partial dry-in possible? In Carson, CA, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: chimney cricket slope plus ridge cap nail schedule referenced in Los Angeles County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 90745/90747/90810.
+
+Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to Carson, CA before niche-specific work begins.
+
+On-site sector marker: Los Angeles County / coords 33.8400, -118.2600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90248-47838706

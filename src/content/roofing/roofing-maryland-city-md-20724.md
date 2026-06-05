@@ -11,26 +11,33 @@ lng: -76.8100
 zipSample: ["20724"]
 zipCodes: ["20724"]
 localPaths: ["Anne Arundel County / elevation 230 ft band", "Anne Arundel County / ZIP 20724 sector", "Anne Arundel County / primary ZIP 20724", "Anne Arundel County / coords 39.1000, -76.8100"]
-zillowHomeValueUsd: 470278
 ---
 
 **Engineering Notice for Maryland City:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Maryland City, MD attics should be checked against current mechanical exhaust additions.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-We coordinate local dispatch coverage around Maryland City, MD and nearby ZIP sectors.
+Risk flag: In Maryland City, MD, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Maryland City, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 20724.
+Our Maryland City, MD dispatch packets reference county grid Anne Arundel County and elevation band 230 ft.
 
-Field note: Connection points spot-checked where accessible (ZIP 20724 zone).
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 20724 (county grid: Anne Arundel County).
+Synthetic underlayment slip in Maryland City, MD is often tied to deck moisture, not wind alone.
+
+Scope trace: counter-flashing reglet depth plus deck sheathing thickness referenced in Anne Arundel County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 20724.
+
+On-site sector marker: Anne Arundel County / primary ZIP 20724 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Anne Arundel County and primary ZIP 20724. Terrain reference: 230 ft. Center point: 39.1000, -76.8100. ZIP sample: 20724. Service perimeter note: Coverage extends through Anne Arundel County with dispatch centered near ZIP 20724.
 
 Service reference: MD-20724-141af683

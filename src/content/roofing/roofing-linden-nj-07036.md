@@ -11,24 +11,31 @@ lng: -74.2400
 zipSample: ["07036"]
 zipCodes: ["07036"]
 localPaths: ["Union County / elevation 7 ft band", "Union County / primary ZIP 07036", "Union County / ZIP 07036 sector", "Union County / coords 40.6300, -74.2400"]
-zillowHomeValueUsd: 537185
 ---
 
 **Engineering Notice for Linden:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Union County.
 
 
-We coordinate local dispatch coverage around Linden, NJ and nearby ZIP sectors.
+FAQ: Can you tarp only part of the roof? In Linden, NJ, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Linden, NJ, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Granule embedment loss on Linden, NJ north slopes can precede mat exposure.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Connection points spot-checked where accessible (ZIP 07036 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 07036 (county grid: Union County).
+Risk flag: Tile underlayment age in Linden, NJ can fail independently of visible tile cracks.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roofing service brief: valley metal gauge and shingle exposure calibration were cross-checked for the Linden intake packet.
+
+Coordinate-anchored dispatch note: center reference 40.6300, -74.2400 at elevation ~7 ft aligns with Union County intake staging.
+
+On-site sector marker: Union County / ZIP 07036 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07036-9a1fcbb7

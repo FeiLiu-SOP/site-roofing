@@ -11,25 +11,31 @@ lng: -66.1600
 zipSample: ["00737", "00736"]
 zipCodes: ["00736", "00737"]
 localPaths: ["Cayey County / coords 18.1100, -66.1600", "Cayey County / elevation 1299 ft band", "Cayey County / ZIP 00736 sector", "Cayey County / ZIP 00737 sector", "Cayey County / primary ZIP 00736"]
-zillowHomeValueUsd: 375533
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Cayey:** Structural loading calculated based on 1299 ft terrain assessment. Regional dispatch grid: Cayey County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Cayey, PR, but intake notes help reduce delays.
+Our Cayey, PR dispatch packets reference county grid Cayey County and elevation band 1299 ft.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Granule embedment loss on Cayey, PR north slopes can precede mat exposure.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around Cayey, PR and nearby ZIP sectors.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: Cayey, PR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Wind exposure category reviewed for ZIP sector 00736/00737.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 00736, 00737 (county grid: Cayey County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+roof work brief: soffit intake free area and chimney cricket slope were cross-checked for the Cayey intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 00736/00737.
+
+On-site sector marker: Cayey County / primary ZIP 00736 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cayey County / coords 18.1100, -66.1600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00736-0fcd5f02

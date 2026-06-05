@@ -11,24 +11,33 @@ lng: -96.0500
 zipSample: ["68182", "68110", "68197", "68132", "68107"]
 zipCodes: ["68172", "68109", "68152", "68144", "68101", "68122", "68154", "68104", "68179", "68107", "68145", "68111"]
 localPaths: ["Douglas County / ZIP 68197 sector", "Douglas County / coords 41.2600, -96.0500", "Douglas County / ZIP 68132 sector", "Douglas County / primary ZIP 68112", "Douglas County / elevation 1152 ft band"]
-zillowHomeValueUsd: 182162
 ---
 
 **Engineering Notice for Omaha:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Douglas County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Omaha, NE, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Homeowners in Omaha, NE often face sudden roof service problems that require fast action.
+Regulatory note: Omaha, NE projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Our service coordination centers on Omaha, NE coverage windows and verified intake details.
+Parapet coping movement in Omaha, NE can channel water behind wall cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 68198/68127/68101.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 68198, 68127, 68101, 68124, 68119 (county grid: Douglas County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+FAQ: How long can shingles wait after storm damage? In Omaha, NE, delayed dry-in can expand insulation and ceiling repairs.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: drip-edge metal profile paired with chimney cricket slope near ZIP 68112.
+
+On-site sector marker: Douglas County / ZIP 68178 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Douglas County / ZIP 68102 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-68112-62095ed5

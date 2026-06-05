@@ -11,24 +11,33 @@ lng: -88.3600
 zipSample: ["60506", "60543", "60538"]
 zipCodes: ["60506", "60538", "60543"]
 localPaths: ["Kane County / primary ZIP 60543", "Kane County / ZIP 60543 sector", "Kane County / elevation 663 ft band", "Kane County / coords 41.7200, -88.3600", "Kane County / ZIP 60538 sector"]
-zillowHomeValueUsd: 416624
 ---
 
 **Engineering Notice for Montgomery:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Kane County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Local conditions in Montgomery, IL can affect timelines and material choices.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Our service coordination centers on Montgomery, IL coverage windows and verified intake details.
+Regulatory note: Montgomery, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Montgomery, IL can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 60543/60538/60506.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 60543, 60538, 60506 (county grid: Kane County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Granule embedment loss on Montgomery, IL north slopes can precede mat exposure.
+
+Field routing: ridge cap nail schedule paired with soffit intake free area near ZIP 60543.
+
+On-site sector marker: Kane County / ZIP 60543 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Kane County / primary ZIP 60543 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60543-011deabd

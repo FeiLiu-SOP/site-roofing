@@ -11,26 +11,33 @@ lng: -95.8800
 zipSample: ["77406", "77441"]
 zipCodes: ["77406", "77441"]
 localPaths: ["Fort Bend County / coords 29.6900, -95.8800", "Fort Bend County / elevation 141 ft band", "Fort Bend County / ZIP 77406 sector", "Fort Bend County / primary ZIP 77441", "Fort Bend County / ZIP 77441 sector"]
-zillowHomeValueUsd: 517815
 ---
 
 **Engineering Notice for Fulshear:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: Fort Bend County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Tile underlayment age in Fulshear, TX can fail independently of visible tile cracks.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: In Fulshear, TX, algae-resistant granules may be specified for north-facing slopes.
 
-A written scope helps prevent rework and mismatched expectations.
+Tile and shingle mixes in Fulshear, TX require different fastener patterns at transitions.
 
-Field note: Wind exposure category reviewed for ZIP sector 77406/77441.
+Regulatory note: Fulshear, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 77406/77441 coverage.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 77406, 77441 (county grid: Fort Bend County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Field routing: drip-edge metal profile paired with wind uplift clip spacing near ZIP 77441.
+
+Field note: Attic moisture pathway scan referenced ZIP 77406/77441.
+
+Primary postal anchor 77441 with multi-ZIP overlap in Fulshear; field packets tag Fort Bend County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Fulshear, TX: sampled sectors include 77406, 77441; county routing grid remains Fort Bend County.
 
 Service reference: TX-77441-1a32f13e

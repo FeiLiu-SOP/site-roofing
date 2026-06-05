@@ -11,24 +11,31 @@ lng: -87.9800
 zipSample: ["60181"]
 zipCodes: ["60181"]
 localPaths: ["DuPage County / coords 41.8900, -87.9800", "DuPage County / elevation 705 ft band", "DuPage County / primary ZIP 60181", "DuPage County / ZIP 60181 sector"]
-zillowHomeValueUsd: 358472
 ---
 
 **Engineering Notice for Villa Park:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: DuPage County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: avoid large upfront payments without milestones.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Our service coordination centers on Villa Park, IL coverage windows and verified intake details.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Villa Park, IL, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Access points and staging constraints recorded for ZIP 60181 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 60181 (county grid: DuPage County).
+In Villa Park, IL, wind-driven rain can lift shingle tabs before owners notice deck staining.
+
+roofing service brief: drip-edge metal profile and deck sheathing thickness were cross-checked for the Villa Park intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 60181.
+
+On-site sector marker: DuPage County / elevation 705 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 41.8900, -87.9800 at elevation ~705 ft aligns with DuPage County intake staging.
 
 Service reference: IL-60181-16703f57

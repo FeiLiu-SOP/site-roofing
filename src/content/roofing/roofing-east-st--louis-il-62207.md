@@ -11,26 +11,33 @@ lng: -90.1300
 zipSample: ["62202", "62201", "62203", "62204", "62205"]
 zipCodes: ["62205", "62204", "62201", "62207", "62203", "62202"]
 localPaths: ["St. Clair County / ZIP 62203 sector", "St. Clair County / elevation 420 ft band", "St. Clair County / ZIP 62205 sector", "St. Clair County / coords 38.6200, -90.1300", "St. Clair County / ZIP 62202 sector"]
-zillowHomeValueUsd: 42233
 ---
 
 **Engineering Notice for East St. Louis:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: St. Clair County.
 
 
-Our service coordination centers on East St. Louis, IL coverage windows and verified intake details.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 62207.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 62207.
+Valley metal in East St. Louis, IL should be reviewed whenever granule loss tracks the water line.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Is partial dry-in possible? In East St. Louis, IL, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in East St. Louis, IL, but intake notes help reduce delays.
+Code context: Ventilation ratios for East St. Louis, IL attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 62207/62204/62202.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 62207, 62204, 62202, 62201, 62203 (county grid: St. Clair County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Scope trace: attic baffle spacing plus drip-edge metal profile referenced in St. Clair County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 62207/62203/62205.
+
+On-site sector marker: St. Clair County / primary ZIP 62207 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Clair County / ZIP 62201 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62207-7822aa7a

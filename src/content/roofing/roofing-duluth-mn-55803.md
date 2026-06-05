@@ -11,27 +11,33 @@ lng: -92.1400
 zipSample: ["55812", "55805", "55808", "55806", "55807"]
 zipCodes: ["55815", "55806", "55807", "55810", "55803", "55805", "55808", "55802", "55812", "55811", "55816", "55804"]
 localPaths: ["St. Louis County / ZIP 55806 sector", "St. Louis County / ZIP 55808 sector", "St. Louis County / ZIP 55807 sector", "St. Louis County / coords 46.7800, -92.1400", "St. Louis County / ZIP 55805 sector"]
-zillowHomeValueUsd: 341371
 ---
 
 **Engineering Notice for Duluth:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 55803.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Granule embedment loss on Duluth, MN north slopes can precede mat exposure.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our service coordination centers on Duluth, MN coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Hail bruising on Duluth, MN ridges may not breach felt until the next wind event.
 
-Field note: Connection points spot-checked where accessible (ZIP 55808/55810/55802 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55808/55810/55802.
+Wind-zone note: Duluth, MN exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 55808, 55810, 55802, 55816, 55811 (county grid: St. Louis County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: pipe boot manufacturer match plus ridge cap nail schedule referenced in St. Louis County county grid review.
+
+On-site sector marker: St. Louis County / ZIP 55805 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Louis County / ZIP 55804 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55803-bd64cccb

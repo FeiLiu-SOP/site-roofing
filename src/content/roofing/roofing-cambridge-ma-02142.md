@@ -11,26 +11,31 @@ lng: -71.1200
 zipSample: ["02142", "02139", "02238", "02138", "02140"]
 zipCodes: ["02139", "02141", "02238", "02138", "02477", "02142", "02140"]
 localPaths: ["Middlesex County / elevation 49 ft band", "Middlesex County / coords 42.3800, -71.1200", "Middlesex County / ZIP 02142 sector", "Middlesex County / ZIP 02139 sector", "Middlesex County / ZIP 02138 sector"]
-zillowHomeValueUsd: 1311575
 ---
 
 **Engineering Notice for Cambridge:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Our service coordination centers on Cambridge, MA coverage windows and verified intake details.
+Freeze-thaw cycles around Cambridge, MA stress nail pops along eaves and rake edges.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cambridge, MA, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 02138/02238/02139.
+Material note: In Cambridge, MA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Access points and staging constraints recorded for ZIP 02138/02238/02139 coverage.
+Tip: Note recent wind events when filing insurance photos for Cambridge, MA.
 
-Dispatch sectors sampled: ZIP 02138, 02238, 02139, 02140, 02141 (county grid: Middlesex County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roof work brief: shingle exposure calibration and counter-flashing reglet depth were cross-checked for the Cambridge intake packet.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Middlesex County. Reference elevation: 49 ft. Primary coordinates: 42.3800, -71.1200. ZIP sample: 02138, 02140, 02142, 02477, 02139. Service perimeter note: Coverage extends through Middlesex County with dispatch centered near ZIP 02142.
+
+On-site sector marker: Middlesex County / ZIP 02142 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-02142-00f9cd61

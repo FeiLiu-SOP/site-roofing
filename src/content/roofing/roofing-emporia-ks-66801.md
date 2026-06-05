@@ -11,27 +11,33 @@ lng: -96.1900
 zipSample: ["66801"]
 zipCodes: ["66801"]
 localPaths: ["Lyon County / elevation 1145 ft band", "Lyon County / primary ZIP 66801", "Lyon County / ZIP 66801 sector", "Lyon County / coords 38.4000, -96.1900"]
-zillowHomeValueUsd: 168944
 ---
 
 **Engineering Notice for Emporia:** Structural loading calculated based on 1145 ft terrain assessment. Regional dispatch grid: Lyon County.
 
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 66801.
+Hail bruising on Emporia, KS ridges may not breach felt until the next wind event.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Emporia, KS exposure class can change starter-strip and cap nail schedules.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Moisture pathway inspection logged near ZIP 66801 intake.
+FAQ: How long can shingles wait after storm damage? In Emporia, KS, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 66801.
+Material note: In Emporia, KS, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 66801 (county grid: Lyon County).
+Skylight curb flashing in Emporia, KS should be sequenced before ridge cap replacement.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Scope trace: soffit intake free area plus wind uplift clip spacing referenced in Lyon County county grid review.
+
+Coordinate-anchored dispatch note: center reference 38.4000, -96.1900 at elevation ~1145 ft aligns with Lyon County intake staging.
+
+Primary postal anchor 66801 with multi-ZIP overlap in Emporia; field packets tag Lyon County for county-grid reconciliation.
 
 Service reference: KS-66801-6135f5b1

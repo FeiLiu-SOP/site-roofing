@@ -11,24 +11,31 @@ lng: -83.2100
 zipSample: ["48195"]
 zipCodes: ["48195"]
 localPaths: ["Wayne County / primary ZIP 48195", "Wayne County / ZIP 48195 sector", "Wayne County / coords 42.2000, -83.2100", "Wayne County / elevation 584 ft band"]
-zillowHomeValueUsd: 192313
 ---
 
 **Engineering Notice for Southgate:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Southgate, MI, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Southgate, MI.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 48195.
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 48195 (county grid: Wayne County).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Wood shake courses in Southgate, MI require skip-spacing rules at valleys.
+
+roof service brief: pipe boot manufacturer match and soffit intake free area were cross-checked for the Southgate intake packet.
+
+Regional mesh label Wayne County: moisture and logistics baselines are keyed to Southgate, MI before niche-specific work begins.
+
+ZIP-corridor snapshot for Southgate, MI: sampled sectors include 48195; county routing grid remains Wayne County.
 
 Service reference: MI-48195-9298722c

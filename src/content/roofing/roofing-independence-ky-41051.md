@@ -11,25 +11,31 @@ lng: -84.5500
 zipSample: ["41051"]
 zipCodes: ["41051"]
 localPaths: ["Kenton County / elevation 797 ft band", "Kenton County / ZIP 41051 sector", "Kenton County / primary ZIP 41051", "Kenton County / coords 38.9500, -84.5500"]
-zillowHomeValueUsd: 329626
 ---
 
 **Engineering Notice for Independence:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: Kenton County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 41051.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-We coordinate local dispatch coverage around Independence, KY and nearby ZIP sectors.
+Attic ventilation deficits in Independence, KY can mimic roof leaks at ceiling penetrations.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Independence, KY, but intake notes help reduce delays.
+Our Independence, KY dispatch packets reference county grid Kenton County and elevation band 797 ft.
 
-In Independence, KY, seasonal demand can change scheduling windows.
+Risk flag: In Independence, KY, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 41051 coverage.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Dispatch sectors sampled: ZIP 41051 (county grid: Kenton County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 41051.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: skylight curb height plus drip-edge metal profile referenced in Kenton County county grid review.
+
+Regional mesh label Kenton County: moisture and logistics baselines are keyed to Independence, KY before niche-specific work begins.
+
+On-site sector marker: Kenton County / primary ZIP 41051 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-41051-30681c3d

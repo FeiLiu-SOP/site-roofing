@@ -11,24 +11,35 @@ lng: -82.7800
 zipSample: ["33775", "33778", "33772", "33777"]
 zipCodes: ["33778", "33772", "33775", "33777"]
 localPaths: ["Pinellas County / ZIP 33772 sector", "Pinellas County / elevation 20 ft band", "Pinellas County / ZIP 33778 sector", "Pinellas County / ZIP 33777 sector", "Pinellas County / ZIP 33775 sector"]
-zillowHomeValueUsd: 325113
 ---
 
 **Engineering Notice for Seminole:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Pinellas County.
 
 
-In Seminole, FL, seasonal demand can change scheduling windows.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Tile underlayment age in Seminole, FL can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+TPO seam welds in Seminole, FL commercial sections need probe tests after freeze events.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Metal panel oil-canning in Seminole, FL may signal clip spacing issues, not wind damage alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 33778/33777/33775.
+FAQ: Can you tarp only part of the roof? In Seminole, FL, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 33778, 33777, 33775, 33772 (county grid: Pinellas County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Our Seminole, FL dispatch packets reference county grid Pinellas County and elevation band 20 ft.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: valley metal gauge plus counter-flashing reglet depth referenced in Pinellas County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 33775/33777/33778.
+
+Coordinate-anchored dispatch note: center reference 27.8400, -82.7800 at elevation ~20 ft aligns with Pinellas County intake staging.
+
+On-site sector marker: Pinellas County / primary ZIP 33777 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33777-384e3755

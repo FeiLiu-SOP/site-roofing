@@ -11,26 +11,29 @@ lng: -81.4800
 zipSample: ["44319", "44216", "44312", "44720", "44685"]
 zipCodes: ["44685", "44720", "44319", "44216", "44232", "44312"]
 localPaths: ["Summit County / elevation 1191 ft band", "Summit County / ZIP 44312 sector", "Summit County / coords 40.9500, -81.4800", "Summit County / ZIP 44319 sector", "Summit County / ZIP 44720 sector"]
-zillowHomeValueUsd: 315341
 ---
 
 **Engineering Notice for Green:** Structural loading calculated based on 1191 ft terrain assessment. Regional dispatch grid: Summit County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: map ventilation intake and exhaust pairs for Green, OH attic runs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Green, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 44685/44720/44319 coverage.
+Regulatory note: Green, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 44685/44720/44319 intake.
+In Green, OH, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Dispatch sectors sampled: ZIP 44685, 44720, 44319, 44312, 44232 (county grid: Summit County).
+Field routing: ridge cap nail schedule paired with ice-barrier lap sequence near ZIP 44685.
+
+Regional mesh label Summit County: moisture and logistics baselines are keyed to Green, OH before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Summit County and primary ZIP 44685. Terrain reference: 1191 ft. Center point: 40.9500, -81.4800. ZIP sample: 44232, 44312, 44685, 44216, 44720. Regional routing note: Summit County traffic flow is balanced around ZIP 44685 service demand.
 
 Service reference: OH-44685-51c20b9b

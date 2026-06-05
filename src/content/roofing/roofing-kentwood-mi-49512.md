@@ -11,26 +11,31 @@ lng: -85.5900
 zipSample: ["49546", "49548", "49560", "49518", "49512"]
 zipCodes: ["49546", "49548", "49508", "49512", "49518", "49560"]
 localPaths: ["Kent County / elevation 751 ft band", "Kent County / ZIP 49518 sector", "Kent County / ZIP 49546 sector", "Kent County / primary ZIP 49512", "Kent County / coords 42.8900, -85.5900"]
-zillowHomeValueUsd: 364960
 ---
 
 **Engineering Notice for Kentwood:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Kent County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is partial dry-in possible? In Kentwood, MI, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Kentwood, MI, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Freeze-thaw cycles around Kentwood, MI stress nail pops along eaves and rake edges.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 49518/49560/49512.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 49518/49560/49512 intake.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 49518, 49560, 49512, 49508, 49548 (county grid: Kent County).
+Code context: Ventilation ratios for Kentwood, MI attics should be checked against current mechanical exhaust additions.
+
+Field routing: pipe boot manufacturer match paired with drip-edge metal profile near ZIP 49512.
+
+On-site sector marker: Kent County / ZIP 49546 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 49512 with multi-ZIP overlap in Kentwood; field packets tag Kent County for county-grid reconciliation.
 
 Service reference: MI-49512-3aaf929a

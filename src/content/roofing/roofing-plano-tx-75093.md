@@ -11,24 +11,29 @@ lng: -96.7500
 zipSample: ["75074", "75093", "75025", "75023", "75024"]
 zipCodes: ["75086", "75024", "75026", "75075", "75093", "75025", "75023", "75074"]
 localPaths: ["Collin County / coords 33.0500, -96.7500", "Collin County / ZIP 75025 sector", "Collin County / ZIP 75074 sector", "Collin County / ZIP 75093 sector", "Collin County / ZIP 75024 sector"]
-zillowHomeValueUsd: 739302
 ---
 
 **Engineering Notice for Plano:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Collin County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Plano, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Plano, TX.
 
-Tip: request a written scope before work starts.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Local conditions in Plano, TX can affect timelines and material choices.
+Step: map ventilation intake and exhaust pairs for Plano, TX attic runs.
 
-Our service coordination centers on Plano, TX coverage windows and verified intake details.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 75023/75024/75086.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 75023, 75024, 75086, 75074, 75075 (county grid: Collin County).
+TPO seam welds in Plano, TX commercial sections need probe tests after freeze events.
+
+Scope trace: drip-edge metal profile plus wind uplift clip spacing referenced in Collin County county grid review.
+
+ZIP-corridor snapshot for Plano, TX: sampled sectors include 75025, 75074, 75093, 75075, 75026, 75024, 75023, 75086; county routing grid remains Collin County.
+
+Coordinate-anchored dispatch note: center reference 33.0500, -96.7500 at elevation ~725 ft aligns with Collin County intake staging.
 
 Service reference: TX-75093-5627a619

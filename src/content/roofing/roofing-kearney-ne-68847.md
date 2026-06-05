@@ -11,24 +11,29 @@ lng: -99.0800
 zipSample: ["68849", "68845", "68847", "68848"]
 zipCodes: ["68847", "68848", "68849", "68845"]
 localPaths: ["Buffalo County / coords 40.7000, -99.0800", "Buffalo County / ZIP 68847 sector", "Buffalo County / primary ZIP 68847", "Buffalo County / ZIP 68845 sector", "Buffalo County / ZIP 68848 sector"]
-zillowHomeValueUsd: 281710
 ---
 
 **Engineering Notice for Kearney:** Structural loading calculated based on 2165 ft terrain assessment. Regional dispatch grid: Buffalo County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: In Kearney, NE, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Note recent wind events when filing insurance photos for Kearney, NE.
 
-We coordinate local dispatch coverage around Kearney, NE and nearby ZIP sectors.
+Wood shake courses in Kearney, NE require skip-spacing rules at valleys.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: Kearney, NE projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: When should permanent restoration start? In Kearney, NE, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 68849/68848/68847.
+Step: compare shingle manufacturer wind-zone ratings for Kearney, NE exposure class.
 
-Dispatch sectors sampled: ZIP 68849, 68848, 68847, 68845 (county grid: Buffalo County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+roofing service brief: starter-strip setback and attic baffle spacing were cross-checked for the Kearney intake packet.
+
+Primary postal anchor 68847 with multi-ZIP overlap in Kearney; field packets tag Buffalo County for county-grid reconciliation.
+
+ZIP-corridor snapshot for Kearney, NE: sampled sectors include 68845, 68849, 68847, 68848; county routing grid remains Buffalo County.
 
 Service reference: NE-68847-4b8bdc1c

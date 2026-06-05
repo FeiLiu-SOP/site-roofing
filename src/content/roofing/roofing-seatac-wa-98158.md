@@ -11,27 +11,35 @@ lng: -122.3000
 zipSample: ["98168", "98188", "98148", "98131", "98198"]
 zipCodes: ["98158", "98198", "98131", "98188", "98148", "98168"]
 localPaths: ["King County / ZIP 98148 sector", "King County / coords 47.4400, -122.3000", "King County / ZIP 98168 sector", "King County / elevation 377 ft band", "King County / ZIP 98131 sector"]
-zillowHomeValueUsd: 587741
 ---
 
 **Engineering Notice for SeaTac:** Structural loading calculated based on 377 ft terrain assessment. Regional dispatch grid: King County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+In SeaTac, WA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 98158.
+FAQ: When should permanent remediation start? In SeaTac, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: In SeaTac, WA, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Moisture pathway inspection logged near ZIP 98168/98188/98148 intake.
+Step: separate emergency tarp scope from permanent service line items.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98168/98188/98148.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 98158.
 
-Dispatch sectors sampled: ZIP 98168, 98188, 98148, 98198, 98131 (county grid: King County).
+Risk flag: Tile underlayment age in SeaTac, WA can fail independently of visible tile cracks.
+
+Code context: Ventilation ratios for SeaTac, WA attics should be checked against current mechanical exhaust additions.
+
+Scope trace: shingle exposure calibration plus drip-edge metal profile referenced in King County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98198/98148/98158.
+
+Primary postal anchor 98158 with multi-ZIP overlap in SeaTac; field packets tag King County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 47.4400, -122.3000 at elevation ~377 ft aligns with King County intake staging.
 
 Service reference: WA-98158-f4ce1990

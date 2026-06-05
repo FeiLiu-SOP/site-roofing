@@ -11,26 +11,33 @@ lng: -70.4500
 zipSample: ["04006", "04005", "04007"]
 zipCodes: ["04006", "04005", "04007"]
 localPaths: ["York County / ZIP 04006 sector", "York County / ZIP 04007 sector", "York County / elevation 151 ft band", "York County / primary ZIP 04005", "York County / ZIP 04005 sector"]
-zillowHomeValueUsd: 499638
 ---
 
 **Engineering Notice for Biddeford:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: York County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Biddeford, ME attics should be checked against current mechanical exhaust additions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Biddeford, ME, but intake notes help reduce delays.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Our service coordination centers on Biddeford, ME coverage windows and verified intake details.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 04005.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Can you tarp only part of the roof? In Biddeford, ME, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 04005/04006/04007.
+Risk flag: In Biddeford, ME, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 04005/04006/04007 coverage.
+TPO seam welds in Biddeford, ME commercial sections need probe tests after freeze events.
 
-Dispatch sectors sampled: ZIP 04005, 04006, 04007 (county grid: York County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: starter-strip setback paired with chimney cricket slope near ZIP 04005.
+
+Field note: Attic moisture pathway scan referenced ZIP 04007/04006/04005.
+
+On-site sector marker: York County / ZIP 04006 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: York County / ZIP 04005 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ME-04005-b9234965

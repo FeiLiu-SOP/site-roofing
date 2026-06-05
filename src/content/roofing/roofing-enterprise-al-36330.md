@@ -11,24 +11,29 @@ lng: -85.8500
 zipSample: ["36331", "36330"]
 zipCodes: ["36330", "36331"]
 localPaths: ["Coffee County / coords 31.3300, -85.8500", "Coffee County / elevation 338 ft band", "Coffee County / ZIP 36331 sector", "Coffee County / primary ZIP 36330", "Coffee County / ZIP 36330 sector"]
-zillowHomeValueUsd: 203834
 ---
 
 **Engineering Notice for Enterprise:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Coffee County.
 
 
-We coordinate local dispatch coverage around Enterprise, AL and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Freeze-thaw cycles around Enterprise, AL stress nail pops along eaves and rake edges.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 36330/36331 coverage.
+FAQ: Is partial dry-in possible? In Enterprise, AL, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 36330, 36331 (county grid: Coffee County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: synthetic underlayment slip plus deck sheathing thickness referenced in Coffee County county grid review.
+
+On-site sector marker: Coffee County / ZIP 36330 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Coffee County / elevation 338 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36330-07acd1c2

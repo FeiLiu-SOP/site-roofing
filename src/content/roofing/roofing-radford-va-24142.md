@@ -11,26 +11,33 @@ lng: -80.5600
 zipSample: ["24143", "24141", "24142"]
 zipCodes: ["24142", "24141", "24143"]
 localPaths: ["Radford County / ZIP 24142 sector", "Radford County / ZIP 24143 sector", "Radford County / elevation 1877 ft band", "Radford County / ZIP 24141 sector", "Radford County / coords 37.1200, -80.5600"]
-zillowHomeValueUsd: 262269
 ---
 
 **Engineering Notice for Radford:** Structural loading calculated based on 1877 ft terrain assessment. Regional dispatch grid: Radford County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+Granule embedment loss on Radford, VA north slopes can precede mat exposure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Radford, VA, but intake notes help reduce delays.
+Regulatory note: Radford, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Across Radford, VA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: request a written scope before work starts.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Connection points spot-checked where accessible (ZIP 24143/24141/24142 zone).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 24143/24141/24142.
+Tip: Note recent wind events when filing insurance photos for Radford, VA.
 
-Dispatch sectors sampled: ZIP 24143, 24141, 24142 (county grid: Radford County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Risk flag: Tile underlayment age in Radford, VA can fail independently of visible tile cracks.
+
+Scope trace: skylight curb height plus starter-strip setback referenced in Radford County county grid review.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~1877 ft across the Radford County area. Coordinates: 37.1200, -80.5600. ZIP sample: 24143, 24141, 24142. Regional routing note: Radford County traffic flow is balanced around ZIP 24142 service demand.
+
+On-site sector marker: Radford County / primary ZIP 24142 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-24142-f9e04db1

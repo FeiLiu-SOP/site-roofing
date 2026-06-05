@@ -11,26 +11,31 @@ lng: -86.0500
 zipSample: ["35769", "35768"]
 zipCodes: ["35768", "35769"]
 localPaths: ["Jackson County / primary ZIP 35768", "Jackson County / ZIP 35768 sector", "Jackson County / elevation 623 ft band", "Jackson County / coords 34.6400, -86.0500", "Jackson County / ZIP 35769 sector"]
-zillowHomeValueUsd: 172949
 ---
 
 **Engineering Notice for Scottsboro:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Jackson County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Scottsboro, AL can fail independently of visible tile cracks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Scottsboro, AL, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Scottsboro, AL exposure class.
 
-Our service coordination centers on Scottsboro, AL coverage windows and verified intake details.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wood shake courses in Scottsboro, AL require skip-spacing rules at valleys.
 
-Field note: Moisture pathway inspection logged near ZIP 35769/35768 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35769/35768.
+Code context: Ventilation ratios for Scottsboro, AL attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 35769, 35768 (county grid: Jackson County).
+Scope trace: attic baffle spacing plus soffit intake free area referenced in Jackson County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 35769/35768.
+
+On-site sector marker: Jackson County / primary ZIP 35768 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Jackson County. Reference elevation: 623 ft. Primary coordinates: 34.6400, -86.0500. ZIP sample: 35768, 35769. Regional routing note: Jackson County traffic flow is balanced around ZIP 35768 service demand.
 
 Service reference: AL-35768-fd4f6822

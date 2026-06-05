@@ -11,26 +11,33 @@ lng: -88.2600
 zipSample: ["54130"]
 zipCodes: ["54130"]
 localPaths: ["Outagamie County / primary ZIP 54130", "Outagamie County / ZIP 54130 sector", "Outagamie County / coords 44.2800, -88.2600", "Outagamie County / elevation 636 ft band"]
-zillowHomeValueUsd: 335242
 ---
 
 **Engineering Notice for Kaukauna:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Outagamie County.
 
 
-In Kaukauna, WI, seasonal demand can change scheduling windows.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is partial dry-in possible? In Kaukauna, WI, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+In Kaukauna, WI, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Moisture pathway inspection logged near ZIP 54130 intake.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 54130 coverage.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Dispatch sectors sampled: ZIP 54130 (county grid: Outagamie County).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Field routing: attic baffle spacing paired with drip-edge metal profile near ZIP 54130.
+
+Field note: Valley debris and granule loss noted for ZIP 54130.
+
+On-site sector marker: Outagamie County / primary ZIP 54130 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 44.2800, -88.2600 at elevation ~636 ft aligns with Outagamie County intake staging.
 
 Service reference: WI-54130-08586075

@@ -11,24 +11,33 @@ lng: -82.4600
 zipSample: ["28793", "28792", "28739", "28791"]
 zipCodes: ["28793", "28791", "28739", "28792"]
 localPaths: ["Henderson County / primary ZIP 28792", "Henderson County / ZIP 28791 sector", "Henderson County / coords 35.3200, -82.4600", "Henderson County / ZIP 28739 sector", "Henderson County / elevation 2103 ft band"]
-zillowHomeValueUsd: 370012
 ---
 
 **Engineering Notice for Hendersonville:** Structural loading calculated based on 2103 ft terrain assessment. Regional dispatch grid: Henderson County.
 
 
-Our service coordination centers on Hendersonville, NC coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can you tarp only part of the roof? In Hendersonville, NC, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hendersonville, NC, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: request a written scope before work starts.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Wind exposure category reviewed for ZIP sector 28791/28792/28793.
+Tip: Note recent wind events when filing insurance photos for Hendersonville, NC.
 
-Dispatch sectors sampled: ZIP 28791, 28792, 28793, 28739 (county grid: Henderson County).
+Wind-zone note: Hendersonville, NC exposure class can change starter-strip and cap nail schedules.
+
+Coastal humidity in Hendersonville, NC can slow shingle seal-down after shoulder-season storms.
+
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Scope trace: synthetic underlayment slip plus ridge cap nail schedule referenced in Henderson County county grid review.
+
+On-site sector marker: Henderson County / ZIP 28793 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Henderson County / coords 35.3200, -82.4600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28792-25b375b7

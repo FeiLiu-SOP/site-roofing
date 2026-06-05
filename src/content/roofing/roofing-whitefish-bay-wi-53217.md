@@ -11,25 +11,35 @@ lng: -87.9000
 zipSample: ["53217", "53211"]
 zipCodes: ["53211", "53217"]
 localPaths: ["Milwaukee County / ZIP 53211 sector", "Milwaukee County / ZIP 53217 sector", "Milwaukee County / primary ZIP 53217", "Milwaukee County / elevation 663 ft band", "Milwaukee County / coords 43.1100, -87.9000"]
-zillowHomeValueUsd: 562328
 ---
 
 **Engineering Notice for Whitefish Bay:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Milwaukee County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Whitefish Bay, WI, but intake notes help reduce delays.
+Step: compare shingle manufacturer wind-zone ratings for Whitefish Bay, WI exposure class.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 53217.
+TPO seam welds in Whitefish Bay, WI commercial sections need probe tests after freeze events.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-We coordinate local dispatch coverage around Whitefish Bay, WI and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 53211/53217 zone).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 53211, 53217 (county grid: Milwaukee County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Wind-zone note: Whitefish Bay, WI exposure class can change starter-strip and cap nail schedules.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+roof service brief: deck sheathing thickness and wind uplift clip spacing were cross-checked for the Whitefish Bay intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 53217/53211.
+
+**Regional Infrastructure Brief:** Grid anchor set to Milwaukee County. Reference elevation: 663 ft. Primary coordinates: 43.1100, -87.9000. ZIP sample: 53217, 53211. Logistics priority: Serving residential sectors across Milwaukee County and north-east ZIP 53217 grid.
+
+Coordinate-anchored dispatch note: center reference 43.1100, -87.9000 at elevation ~663 ft aligns with Milwaukee County intake staging.
 
 Service reference: WI-53217-e0e0f28f

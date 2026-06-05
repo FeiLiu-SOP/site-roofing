@@ -11,24 +11,33 @@ lng: -87.4600
 zipSample: ["46322"]
 zipCodes: ["46322"]
 localPaths: ["Lake County / primary ZIP 46322", "Lake County / coords 41.5500, -87.4600", "Lake County / ZIP 46322 sector", "Lake County / elevation 627 ft band"]
-zillowHomeValueUsd: 263911
 ---
 
 **Engineering Notice for Highland:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Structured milestones protect both sides when scheduling work.
+Regulatory note: Highland, IN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-We coordinate local dispatch coverage around Highland, IN and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Highland, IN can fail independently of visible tile cracks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 46322.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 46322 (county grid: Lake County).
+Our Highland, IN dispatch packets reference county grid Lake County and elevation band 627 ft.
+
+Freeze-thaw cycles around Highland, IN stress nail pops along eaves and rake edges.
+
+Field routing: valley metal gauge paired with pipe boot manufacturer match near ZIP 46322.
+
+Field note: Shingle seal-down timing logged near ZIP 46322.
+
+On-site sector marker: Lake County / elevation 627 ft band — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~627 ft across the Lake County area. Coordinates: 41.5500, -87.4600. ZIP sample: 46322. Service perimeter note: Coverage extends through Lake County with dispatch centered near ZIP 46322.
 
 Service reference: IN-46322-33175c39

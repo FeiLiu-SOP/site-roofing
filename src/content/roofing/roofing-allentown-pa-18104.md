@@ -11,24 +11,33 @@ lng: -75.4800
 zipSample: ["18104", "18001", "18101", "18105", "18102"]
 zipCodes: ["18104", "18101", "18109", "18103", "18102", "18105", "18001"]
 localPaths: ["Lehigh County / ZIP 18001 sector", "Lehigh County / ZIP 18101 sector", "Lehigh County / ZIP 18104 sector", "Lehigh County / primary ZIP 18104", "Lehigh County / ZIP 18105 sector"]
-zillowHomeValueUsd: 393758
 ---
 
 **Engineering Notice for Allentown:** Structural loading calculated based on 266 ft terrain assessment. Regional dispatch grid: Lehigh County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Local conditions in Allentown, PA can affect timelines and material choices.
+Wind-zone note: Allentown, PA exposure class can change starter-strip and cap nail schedules.
 
-Tip: address recurring issues early to prevent bigger damage.
+We coordinate Allentown, PA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 18104.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: In Allentown, PA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 18101/18103/18102.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 18101, 18103, 18102, 18105, 18109 (county grid: Lehigh County).
+Hail bruising on Allentown, PA ridges may not breach felt until the next wind event.
+
+FAQ: How long can shingles wait after storm damage? In Allentown, PA, delayed dry-in can expand insulation and ceiling repairs.
+
+Schedule a roof inspection with written scope before permanent remediation. Serving ZIP Code: 18104.
+
+roof work brief: ridge cap nail schedule and chimney cricket slope were cross-checked for the Allentown intake packet.
+
+On-site sector marker: Lehigh County / ZIP 18102 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Lehigh County: moisture and logistics baselines are keyed to Allentown, PA before niche-specific work begins.
 
 Service reference: PA-18104-92376740

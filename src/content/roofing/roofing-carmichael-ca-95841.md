@@ -11,27 +11,35 @@ lng: -121.3300
 zipSample: ["95841", "95609", "95628", "95608"]
 zipCodes: ["95608", "95841", "95609", "95628"]
 localPaths: ["Sacramento County / coords 38.6300, -121.3300", "Sacramento County / ZIP 95608 sector", "Sacramento County / ZIP 95628 sector", "Sacramento County / ZIP 95609 sector", "Sacramento County / ZIP 95841 sector"]
-zillowHomeValueUsd: 433315
 ---
 
 **Engineering Notice for Carmichael:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Sacramento County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95841.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Parapet coping movement in Carmichael, CA can channel water behind wall cladding.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wood shake courses in Carmichael, CA require skip-spacing rules at valleys.
 
-Field note: Moisture pathway inspection logged near ZIP 95841/95628/95608 intake.
+Code context: Ventilation ratios for Carmichael, CA attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 95841/95628/95608.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 95841, 95628, 95608, 95609 (county grid: Sacramento County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Our Carmichael, CA dispatch packets reference county grid Sacramento County and elevation band 118 ft.
+
+Scope trace: skylight curb height plus soffit intake free area referenced in Sacramento County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 95628/95608/95841.
+
+Primary postal anchor 95841 with multi-ZIP overlap in Carmichael; field packets tag Sacramento County for county-grid reconciliation.
+
+On-site sector marker: Sacramento County / coords 38.6300, -121.3300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95841-d0cb3381

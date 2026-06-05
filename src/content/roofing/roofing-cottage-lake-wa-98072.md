@@ -11,25 +11,31 @@ lng: -122.0800
 zipSample: ["98077", "98072"]
 zipCodes: ["98077", "98072"]
 localPaths: ["King County / ZIP 98077 sector", "King County / coords 47.7500, -122.0800", "King County / elevation 328 ft band", "King County / primary ZIP 98072", "King County / ZIP 98072 sector"]
-zillowHomeValueUsd: 1319433
 ---
 
 **Engineering Notice for Cottage Lake:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: King County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Cottage Lake, WA, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Cottage Lake, WA.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 98072.
+Parapet coping movement in Cottage Lake, WA can channel water behind wall cladding.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for Cottage Lake, WA attics should be checked against current mechanical exhaust additions.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98077/98072.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 98077, 98072 (county grid: King County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roof work brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Cottage Lake intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 98077/98072.
+
+On-site sector marker: King County / coords 47.7500, -122.0800 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 98072 with multi-ZIP overlap in Cottage Lake; field packets tag King County for county-grid reconciliation.
 
 Service reference: WA-98072-f4fe70ea

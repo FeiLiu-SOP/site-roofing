@@ -11,24 +11,33 @@ lng: -117.6600
 zipSample: ["92690", "92692", "92691"]
 zipCodes: ["92691", "92690", "92692"]
 localPaths: ["Orange County / ZIP 92692 sector", "Orange County / coords 33.6100, -117.6600", "Orange County / ZIP 92691 sector", "Orange County / primary ZIP 92692", "Orange County / elevation 577 ft band"]
-zillowHomeValueUsd: 1226904
 ---
 
 **Engineering Notice for Mission Viejo:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: avoid large upfront payments without milestones.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-We coordinate local dispatch coverage around Mission Viejo, CA and nearby ZIP sectors.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: In Mission Viejo, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 92692/92690/92691.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 92692, 92690, 92691 (county grid: Orange County).
+Step: map ventilation intake and exhaust pairs for Mission Viejo, CA attic runs.
+
+Across Mission Viejo, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Field routing: valley metal gauge paired with pipe boot manufacturer match near ZIP 92692.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 92692/92691/92690.
+
+On-site sector marker: Orange County / ZIP 92691 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Orange County / ZIP 92692 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92692-25c279c5

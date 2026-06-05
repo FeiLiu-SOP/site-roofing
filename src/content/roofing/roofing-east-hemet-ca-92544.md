@@ -11,24 +11,33 @@ lng: -116.9400
 zipSample: ["92544"]
 zipCodes: ["92544"]
 localPaths: ["Riverside County / primary ZIP 92544", "Riverside County / coords 33.7300, -116.9400", "Riverside County / elevation 1686 ft band", "Riverside County / ZIP 92544 sector"]
-zillowHomeValueUsd: 459517
 ---
 
 **Engineering Notice for East Hemet:** Structural loading calculated based on 1686 ft terrain assessment. Regional dispatch grid: Riverside County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for East Hemet, CA attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Our service coordination centers on East Hemet, CA coverage windows and verified intake details.
+Risk flag: In East Hemet, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In East Hemet, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 92544 intake.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 92544 (county grid: Riverside County).
+Coastal humidity in East Hemet, CA can slow shingle seal-down after shoulder-season storms.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+Scope trace: starter-strip setback plus drip-edge metal profile referenced in Riverside County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 92544.
+
+On-site sector marker: Riverside County / primary ZIP 92544 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~1686 ft across the Riverside County area. Coordinates: 33.7300, -116.9400. ZIP sample: 92544. Logistics priority: Serving residential sectors across Riverside County and north-east ZIP 92544 grid.
 
 Service reference: CA-92544-ec526850

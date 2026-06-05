@@ -11,24 +11,33 @@ lng: -98.0600
 zipSample: ["78537"]
 zipCodes: ["78537"]
 localPaths: ["Hidalgo County / elevation 105 ft band", "Hidalgo County / ZIP 78537 sector", "Hidalgo County / primary ZIP 78537", "Hidalgo County / coords 26.1500, -98.0600"]
-zillowHomeValueUsd: 152932
 ---
 
 **Engineering Notice for Donna:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Hidalgo County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Tile underlayment age in Donna, TX can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Donna, TX, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-In Donna, TX, seasonal demand can change scheduling windows.
+Regulatory note: Donna, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Donna, TX and nearby ZIP sectors.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 78537.
 
-Field note: Access points and staging constraints recorded for ZIP 78537 coverage.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 78537 (county grid: Hidalgo County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Synthetic underlayment slip in Donna, TX is often tied to deck moisture, not wind alone.
+
+roof work brief: valley metal gauge and chimney cricket slope were cross-checked for the Donna intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 78537.
+
+On-site sector marker: Hidalgo County / coords 26.1500, -98.0600 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Hidalgo County and primary ZIP 78537. Terrain reference: 105 ft. Center point: 26.1500, -98.0600. ZIP sample: 78537. Regional routing note: Hidalgo County traffic flow is balanced around ZIP 78537 service demand.
 
 Service reference: TX-78537-96d14fd8

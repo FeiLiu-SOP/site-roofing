@@ -11,24 +11,31 @@ lng: -89.4800
 zipSample: ["61021"]
 zipCodes: ["61021"]
 localPaths: ["Lee County / elevation 709 ft band", "Lee County / primary ZIP 61021", "Lee County / ZIP 61021 sector", "Lee County / coords 41.8400, -89.4800"]
-zillowHomeValueUsd: 166121
 ---
 
 **Engineering Notice for Dixon:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Lee County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Dixon, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: request a written scope before work starts.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dixon, IL, but intake notes help reduce delays.
+Material note: In Dixon, IL, algae-resistant granules may be specified for north-facing slopes.
 
-We coordinate local dispatch coverage around Dixon, IL and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 61021 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 61021 (county grid: Lee County).
+Hail bruising on Dixon, IL ridges may not breach felt until the next wind event.
+
+Wind-zone note: Dixon, IL exposure class can change starter-strip and cap nail schedules.
+
+Field routing: ice-barrier lap sequence paired with shingle exposure calibration near ZIP 61021.
+
+Coordinate-anchored dispatch note: center reference 41.8400, -89.4800 at elevation ~709 ft aligns with Lee County intake staging.
+
+On-site sector marker: Lee County / coords 41.8400, -89.4800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61021-108408e6

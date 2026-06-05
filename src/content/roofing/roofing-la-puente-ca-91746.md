@@ -11,26 +11,31 @@ lng: -117.9500
 zipSample: ["91749", "91746", "91747", "91744"]
 zipCodes: ["91744", "91747", "91749", "91746"]
 localPaths: ["Los Angeles County / elevation 328 ft band", "Los Angeles County / primary ZIP 91746", "Los Angeles County / coords 34.0300, -117.9500", "Los Angeles County / ZIP 91747 sector", "Los Angeles County / ZIP 91744 sector"]
-zillowHomeValueUsd: 763977
 ---
 
 **Engineering Notice for La Puente:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Los Angeles County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: avoid large upfront payments without milestones.
+Code context: Ventilation ratios for La Puente, CA attics should be checked against current mechanical exhaust additions.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in La Puente, CA, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-We coordinate local dispatch coverage around La Puente, CA and nearby ZIP sectors.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Connection points spot-checked where accessible (ZIP 91747/91746/91749 zone).
+TPO seam welds in La Puente, CA commercial sections need probe tests after freeze events.
 
-Field note: Access points and staging constraints recorded for ZIP 91747/91746/91749 coverage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 91747, 91746, 91749, 91744 (county grid: Los Angeles County).
+Scope trace: starter-strip setback plus soffit intake free area referenced in Los Angeles County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 91749/91747/91744.
+
+On-site sector marker: Los Angeles County / ZIP 91744 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 91746 with multi-ZIP overlap in La Puente; field packets tag Los Angeles County for county-grid reconciliation.
 
 Service reference: CA-91746-cbd01508

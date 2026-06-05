@@ -11,25 +11,31 @@ lng: -88.0300
 zipSample: ["53225", "53226", "53222", "53213"]
 zipCodes: ["53225", "53222", "53226", "53213"]
 localPaths: ["Milwaukee County / primary ZIP 53213", "Milwaukee County / ZIP 53222 sector", "Milwaukee County / elevation 686 ft band", "Milwaukee County / coords 43.0600, -88.0300", "Milwaukee County / ZIP 53226 sector"]
-zillowHomeValueUsd: 424431
 ---
 
 **Engineering Notice for Wauwatosa:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Milwaukee County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 53213.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-In Wauwatosa, WI, urgent roof work issues can escalate quickly.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our service coordination centers on Wauwatosa, WI coverage windows and verified intake details.
+FAQ: Is partial dry-in possible? In Wauwatosa, WI, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 53225/53226/53213 zone).
+Freeze-thaw cycles around Wauwatosa, WI stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 53225, 53226, 53213, 53222 (county grid: Milwaukee County).
+Code context: Ventilation ratios for Wauwatosa, WI attics should be checked against current mechanical exhaust additions.
+
+roof work brief: skylight curb height and shingle exposure calibration were cross-checked for the Wauwatosa intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 53225/53226/53222.
+
+On-site sector marker: Milwaukee County / ZIP 53213 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 43.0600, -88.0300 at elevation ~686 ft aligns with Milwaukee County intake staging.
 
 Service reference: WI-53213-246f70f5

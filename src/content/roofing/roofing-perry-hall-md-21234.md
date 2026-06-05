@@ -11,24 +11,35 @@ lng: -76.4800
 zipSample: ["21234", "21128", "21236"]
 zipCodes: ["21234", "21128", "21236"]
 localPaths: ["Baltimore County / primary ZIP 21234", "Baltimore County / ZIP 21234 sector", "Baltimore County / coords 39.4100, -76.4800", "Baltimore County / ZIP 21128 sector", "Baltimore County / ZIP 21236 sector"]
-zillowHomeValueUsd: 301674
 ---
 
 **Engineering Notice for Perry Hall:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Baltimore County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: request a written scope before work starts.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around Perry Hall, MD and nearby ZIP sectors.
+Freeze-thaw cycles around Perry Hall, MD stress nail pops along eaves and rake edges.
 
-A written scope helps prevent rework and mismatched expectations.
+Code context: Ventilation ratios for Perry Hall, MD attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 21234/21236/21128 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 21234, 21236, 21128 (county grid: Baltimore County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+roofing service brief: chimney cricket slope and ice-barrier lap sequence were cross-checked for the Perry Hall intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 21128/21234/21236.
+
+On-site sector marker: Baltimore County / ZIP 21234 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Baltimore County / primary ZIP 21234 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21234-ddd51de9

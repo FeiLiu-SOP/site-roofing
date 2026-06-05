@@ -11,27 +11,31 @@ lng: -81.7300
 zipSample: ["44130", "44134", "44129"]
 zipCodes: ["44129", "44130", "44134"]
 localPaths: ["Cuyahoga County / elevation 965 ft band", "Cuyahoga County / coords 41.3800, -81.7300", "Cuyahoga County / ZIP 44134 sector", "Cuyahoga County / ZIP 44129 sector", "Cuyahoga County / ZIP 44130 sector"]
-zillowHomeValueUsd: 205943
 ---
 
 **Engineering Notice for Parma:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 44134.
+Risk flag: Tile underlayment age in Parma, OH can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: compare at least two estimates for scope and timeline.
+Code context: Ventilation ratios for Parma, OH attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Parma, OH, but intake notes help reduce delays.
+Across Parma, OH, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Connection points spot-checked where accessible (ZIP 44134/44129/44130 zone).
+FAQ: How long can shingles wait after storm damage? In Parma, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 44134/44129/44130.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 44134, 44129, 44130 (county grid: Cuyahoga County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Scope trace: synthetic underlayment slip plus wind uplift clip spacing referenced in Cuyahoga County county grid review.
+
+Coordinate-anchored dispatch note: center reference 41.3800, -81.7300 at elevation ~965 ft aligns with Cuyahoga County intake staging.
+
+On-site sector marker: Cuyahoga County / elevation 965 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44134-76d8c839

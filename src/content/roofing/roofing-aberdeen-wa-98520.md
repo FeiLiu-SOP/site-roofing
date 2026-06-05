@@ -11,26 +11,31 @@ lng: -123.8100
 zipSample: ["98520"]
 zipCodes: ["98520"]
 localPaths: ["Grays Harbor County / ZIP 98520 sector", "Grays Harbor County / elevation 7 ft band", "Grays Harbor County / primary ZIP 98520", "Grays Harbor County / coords 46.9800, -123.8100"]
-zillowHomeValueUsd: 272267
 ---
 
 **Engineering Notice for Aberdeen:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Grays Harbor County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Aberdeen, WA, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Homeowners in Aberdeen, WA often face sudden roof work problems that require fast action.
+Wind-zone note: Aberdeen, WA exposure class can change starter-strip and cap nail schedules.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Aberdeen, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: confirm licensing and insurance before approving work.
+Across Aberdeen, WA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98520.
+FAQ: How long can shingles wait after storm damage? In Aberdeen, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 98520 intake.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 98520 (county grid: Grays Harbor County).
+Scope trace: shingle exposure calibration plus skylight curb height referenced in Grays Harbor County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98520.
+
+ZIP-corridor snapshot for Aberdeen, WA: sampled sectors include 98520; county routing grid remains Grays Harbor County.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~7 ft across the Grays Harbor County area. Coordinates: 46.9800, -123.8100. ZIP sample: 98520. Logistics priority: Serving residential sectors across Grays Harbor County and north-east ZIP 98520 grid.
 
 Service reference: WA-98520-8135cd27

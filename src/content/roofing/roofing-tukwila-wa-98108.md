@@ -11,27 +11,33 @@ lng: -122.2700
 zipSample: ["98108", "98190", "98188", "98138", "98168"]
 zipCodes: ["98168", "98178", "98190", "98188", "98108", "98138"]
 localPaths: ["King County / coords 47.4800, -122.2700", "King County / ZIP 98108 sector", "King County / ZIP 98168 sector", "King County / ZIP 98190 sector", "King County / ZIP 98138 sector"]
-zillowHomeValueUsd: 703517
 ---
 
 **Engineering Notice for Tukwila:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: King County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+TPO seam welds in Tukwila, WA commercial sections need probe tests after freeze events.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 98108.
+Wind-zone note: Tukwila, WA exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Tukwila, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 98178/98138/98108.
+FAQ: When should permanent restoration start? In Tukwila, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 98178/98138/98108 intake.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 98178, 98138, 98108, 98188, 98168 (county grid: King County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Field routing: ice-barrier lap sequence paired with drip-edge metal profile near ZIP 98108.
+
+Field note: Attic moisture pathway scan referenced ZIP 98108/98190/98168.
+
+Regional mesh label King County: moisture and logistics baselines are keyed to Tukwila, WA before niche-specific work begins.
+
+On-site sector marker: King County / ZIP 98138 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98108-882e5c73

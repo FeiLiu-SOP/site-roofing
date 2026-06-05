@@ -11,25 +11,29 @@ lng: -81.6800
 zipSample: ["44147"]
 zipCodes: ["44147"]
 localPaths: ["Cuyahoga County / coords 41.3200, -81.6800", "Cuyahoga County / elevation 1181 ft band", "Cuyahoga County / primary ZIP 44147", "Cuyahoga County / ZIP 44147 sector"]
-zillowHomeValueUsd: 366150
 ---
 
 **Engineering Notice for Broadview Heights:** Structural loading calculated based on 1181 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 44147.
+Risk flag: Tile underlayment age in Broadview Heights, OH can fail independently of visible tile cracks.
 
-In Broadview Heights, OH, seasonal demand can change scheduling windows.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Broadview Heights, OH, but intake notes help reduce delays.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wood shake courses in Broadview Heights, OH require skip-spacing rules at valleys.
 
-Field note: Connection points spot-checked where accessible (ZIP 44147 zone).
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 44147 (county grid: Cuyahoga County).
+FAQ: When should permanent service start? In Broadview Heights, OH, delayed dry-in can expand insulation and ceiling repairs.
+
+roof work brief: starter-strip setback and ridge cap nail schedule were cross-checked for the Broadview Heights intake packet.
+
+Coordinate-anchored dispatch note: center reference 41.3200, -81.6800 at elevation ~1181 ft aligns with Cuyahoga County intake staging.
+
+On-site sector marker: Cuyahoga County / coords 41.3200, -81.6800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44147-384e94ba

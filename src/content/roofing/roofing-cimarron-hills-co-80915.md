@@ -11,25 +11,31 @@ lng: -104.7000
 zipSample: ["80970", "80922", "80915"]
 zipCodes: ["80970", "80915", "80922"]
 localPaths: ["El Paso County / primary ZIP 80915", "El Paso County / ZIP 80915 sector", "El Paso County / ZIP 80922 sector", "El Paso County / coords 38.8600, -104.7000", "El Paso County / elevation 6457 ft band"]
-zillowHomeValueUsd: 380799
 ---
 
 **Engineering Notice for Cimarron Hills:** Structural loading calculated based on 6457 ft terrain assessment. Regional dispatch grid: El Paso County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 80915.
+Code context: Ventilation ratios for Cimarron Hills, CO attics should be checked against current mechanical exhaust additions.
 
-We coordinate local dispatch coverage around Cimarron Hills, CO and nearby ZIP sectors.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: In Cimarron Hills, CO, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Wind exposure category reviewed for ZIP sector 80915/80922/80970.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 80915, 80922, 80970 (county grid: El Paso County).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Skylight curb flashing in Cimarron Hills, CO should be sequenced before ridge cap replacement.
+
+roof work brief: soffit intake free area and pipe boot manufacturer match were cross-checked for the Cimarron Hills intake packet.
+
+Primary postal anchor 80915 with multi-ZIP overlap in Cimarron Hills; field packets tag El Paso County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~6457 ft across the El Paso County area. Coordinates: 38.8600, -104.7000. ZIP sample: 80970, 80915, 80922. Regional routing note: El Paso County traffic flow is balanced around ZIP 80915 service demand.
 
 Service reference: CO-80915-ccdb9fa8

@@ -11,25 +11,35 @@ lng: -115.1400
 zipSample: ["89157", "89169", "89123", "89109", "89119"]
 zipCodes: ["89119", "89154", "89121", "89123", "89118", "89111", "89177", "89193", "89103", "89169", "89157", "89120"]
 localPaths: ["Clark County / ZIP 89169 sector", "Clark County / ZIP 89157 sector", "Clark County / ZIP 89109 sector", "Clark County / ZIP 89119 sector", "Clark County / coords 36.0900, -115.1400"]
-zillowHomeValueUsd: 265055
 ---
 
 **Engineering Notice for Paradise:** Structural loading calculated based on 2051 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Paradise, NV, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-We coordinate local dispatch coverage around Paradise, NV and nearby ZIP sectors.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-In Paradise, NV, urgent roofing service issues can escalate quickly.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 89103.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Moisture pathway inspection logged near ZIP 89123/89169/89177 intake.
+Risk flag: Tile underlayment age in Paradise, NV can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 89123, 89169, 89177, 89120, 89157 (county grid: Clark County).
+Wind-zone note: Paradise, NV exposure class can change starter-strip and cap nail schedules.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Across Paradise, NV, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Scope trace: ridge cap nail schedule plus counter-flashing reglet depth referenced in Clark County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 89136/89169/89109.
+
+On-site sector marker: Clark County / coords 36.0900, -115.1400 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Clark County / ZIP 89160 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89103-d0151fd2

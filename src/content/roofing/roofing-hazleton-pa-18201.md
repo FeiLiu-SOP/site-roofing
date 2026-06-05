@@ -11,26 +11,31 @@ lng: -75.9700
 zipSample: ["18201"]
 zipCodes: ["18201"]
 localPaths: ["Luzerne County / ZIP 18201 sector", "Luzerne County / coords 40.9500, -75.9700", "Luzerne County / primary ZIP 18201", "Luzerne County / elevation 1677 ft band"]
-zillowHomeValueUsd: 193196
 ---
 
 **Engineering Notice for Hazleton:** Structural loading calculated based on 1677 ft terrain assessment. Regional dispatch grid: Luzerne County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Hazleton, PA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our service coordination centers on Hazleton, PA coverage windows and verified intake details.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Is partial dry-in possible? In Hazleton, PA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Connection points spot-checked where accessible (ZIP 18201 zone).
+Step: map ventilation intake and exhaust pairs for Hazleton, PA attic runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 18201.
+Freeze-thaw cycles around Hazleton, PA stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 18201 (county grid: Luzerne County).
+Scope trace: attic baffle spacing plus soffit intake free area referenced in Luzerne County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 18201.
+
+ZIP-corridor snapshot for Hazleton, PA: sampled sectors include 18201; county routing grid remains Luzerne County.
+
+On-site sector marker: Luzerne County / ZIP 18201 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-18201-5260dd9b

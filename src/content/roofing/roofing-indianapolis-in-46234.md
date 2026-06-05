@@ -11,27 +11,31 @@ lng: -86.1500
 zipSample: ["46285", "46239", "46201", "46234", "46227"]
 zipCodes: ["46259", "46201", "46283", "46268", "46256", "46235", "46221", "46298", "46219", "46253", "46217", "46278"]
 localPaths: ["Marion County / ZIP 46201 sector", "Marion County / coords 39.7800, -86.1500", "Marion County / ZIP 46227 sector", "Marion County / ZIP 46285 sector", "Marion County / ZIP 46239 sector"]
-zillowHomeValueUsd: 279504
 ---
 
 **Engineering Notice for Indianapolis:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Marion County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Indianapolis, IN, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-We coordinate local dispatch coverage around Indianapolis, IN and nearby ZIP sectors.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 46234.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 46234.
 
-Field note: Connection points spot-checked where accessible (ZIP 46247/46262/46239 zone).
+Freeze-thaw cycles around Indianapolis, IN stress nail pops along eaves and rake edges.
 
-Field note: Access points and staging constraints recorded for ZIP 46247/46262/46239 coverage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Dispatch sectors sampled: ZIP 46247, 46262, 46239, 46253, 46201 (county grid: Marion County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: counter-flashing reglet depth paired with wind uplift clip spacing near ZIP 46234.
+
+Primary postal anchor 46234 with multi-ZIP overlap in Indianapolis; field packets tag Marion County for county-grid reconciliation.
+
+On-site sector marker: Marion County / ZIP 46234 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46234-a0594c76

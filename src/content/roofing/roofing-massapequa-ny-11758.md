@@ -11,24 +11,33 @@ lng: -73.4700
 zipSample: ["11758"]
 zipCodes: ["11758"]
 localPaths: ["Nassau County / coords 40.6700, -73.4700", "Nassau County / elevation 16 ft band", "Nassau County / ZIP 11758 sector", "Nassau County / primary ZIP 11758"]
-zillowHomeValueUsd: 804458
 ---
 
 **Engineering Notice for Massapequa:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Nassau County.
 
 
-Our service coordination centers on Massapequa, NY coverage windows and verified intake details.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Massapequa, NY attics should be checked against current mechanical exhaust additions.
 
-Homeowners in Massapequa, NY often face sudden roof work problems that require fast action.
+Parapet coping movement in Massapequa, NY can channel water behind wall cladding.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Massapequa, NY, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Wind exposure category reviewed for ZIP sector 11758.
+Step: separate emergency tarp scope from permanent service line items.
 
-Dispatch sectors sampled: ZIP 11758 (county grid: Nassau County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: starter-strip setback paired with valley metal gauge near ZIP 11758.
+
+Field note: Valley debris and granule loss noted for ZIP 11758.
+
+On-site sector marker: Nassau County / ZIP 11758 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Nassau County. Reference elevation: 16 ft. Primary coordinates: 40.6700, -73.4700. ZIP sample: 11758. Regional routing note: Nassau County traffic flow is balanced around ZIP 11758 service demand.
 
 Service reference: NY-11758-201ca751

@@ -11,27 +11,29 @@ lng: -79.0900
 zipSample: ["27516", "27510"]
 zipCodes: ["27516", "27510"]
 localPaths: ["Orange County / coords 35.9300, -79.0900", "Orange County / ZIP 27510 sector", "Orange County / primary ZIP 27516", "Orange County / elevation 525 ft band", "Orange County / ZIP 27516 sector"]
-zillowHomeValueUsd: 604898
 ---
 
 **Engineering Notice for Carrboro:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Our Carrboro, NC dispatch packets reference county grid Orange County and elevation band 525 ft.
 
-Tip: compare at least two estimates for scope and timeline.
+TPO seam welds in Carrboro, NC commercial sections need probe tests after freeze events.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 27516.
+Regulatory note: Carrboro, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Carrboro, NC, but intake notes help reduce delays.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-We coordinate local dispatch coverage around Carrboro, NC and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 27516/27510.
+Step: map ventilation intake and exhaust pairs for Carrboro, NC attic runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 27516/27510 zone).
+FAQ: Is partial dry-in possible? In Carrboro, NC, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 27516, 27510 (county grid: Orange County).
+Field routing: starter-strip setback paired with synthetic underlayment slip near ZIP 27516.
+
+Regional mesh label Orange County: moisture and logistics baselines are keyed to Carrboro, NC before niche-specific work begins.
+
+On-site sector marker: Orange County / ZIP 27510 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27516-6317ca8c

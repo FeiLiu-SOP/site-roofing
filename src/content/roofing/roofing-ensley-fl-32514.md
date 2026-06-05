@@ -11,26 +11,29 @@ lng: -87.2700
 zipSample: ["32534", "32514"]
 zipCodes: ["32514", "32534"]
 localPaths: ["Escambia County / ZIP 32514 sector", "Escambia County / coords 30.5300, -87.2700", "Escambia County / elevation 138 ft band", "Escambia County / primary ZIP 32514", "Escambia County / ZIP 32534 sector"]
-zillowHomeValueUsd: 259787
 ---
 
 **Engineering Notice for Ensley:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Escambia County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Ensley, FL attics should be checked against current mechanical exhaust additions.
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Can you tarp only part of the roof? In Ensley, FL, yes—if slope and anchor points support safe tie-offs.
 
-Tip: request a written scope before work starts.
+Wood shake courses in Ensley, FL require skip-spacing rules at valleys.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: compare shingle manufacturer wind-zone ratings for Ensley, FL exposure class.
 
-In Ensley, FL, seasonal demand can change scheduling windows.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 32514/32534 zone).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 32514/32534.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 32514, 32534 (county grid: Escambia County).
+roof work brief: skylight curb height and counter-flashing reglet depth were cross-checked for the Ensley intake packet.
+
+On-site sector marker: Escambia County / ZIP 32534 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Escambia County / primary ZIP 32514 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32514-52666a05

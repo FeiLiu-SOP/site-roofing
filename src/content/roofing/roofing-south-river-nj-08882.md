@@ -11,26 +11,31 @@ lng: -74.3800
 zipSample: ["08882"]
 zipCodes: ["08882"]
 localPaths: ["Middlesex County / elevation 23 ft band", "Middlesex County / primary ZIP 08882", "Middlesex County / coords 40.4500, -74.3800", "Middlesex County / ZIP 08882 sector"]
-zillowHomeValueUsd: 528572
 ---
 
 **Engineering Notice for South River:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Can you tarp only part of the roof? In South River, NJ, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wind-zone note: South River, NJ exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Note recent wind events when filing insurance photos for South River, NJ.
 
-Field note: Wind exposure category reviewed for ZIP sector 08882.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Access points and staging constraints recorded for ZIP 08882 coverage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 08882 (county grid: Middlesex County).
+Coastal humidity in South River, NJ can slow shingle seal-down after shoulder-season storms.
+
+Scope trace: skylight curb height plus pipe boot manufacturer match referenced in Middlesex County county grid review.
+
+On-site sector marker: Middlesex County / coords 40.4500, -74.3800 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 08882 with multi-ZIP overlap in South River; field packets tag Middlesex County for county-grid reconciliation.
 
 Service reference: NJ-08882-8010a910

@@ -11,24 +11,33 @@ lng: -90.6100
 zipSample: ["52801", "52808", "52803", "52804", "52805"]
 zipCodes: ["52806", "52805", "52802", "52804", "52809", "52808", "52803", "52801", "52807"]
 localPaths: ["Scott County / ZIP 52803 sector", "Scott County / ZIP 52801 sector", "Scott County / ZIP 52805 sector", "Scott County / primary ZIP 52802", "Scott County / elevation 659 ft band"]
-zillowHomeValueUsd: 107014
 ---
 
 **Engineering Notice for Davenport:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Scott County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Davenport, IA, but intake notes help reduce delays.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around Davenport, IA and nearby ZIP sectors.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: map ventilation intake and exhaust pairs for Davenport, IA attic runs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Freeze-thaw cycles around Davenport, IA stress nail pops along eaves and rake edges.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 52808/52805/52804.
+Regulatory note: Davenport, IA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 52808, 52805, 52804, 52801, 52809 (county grid: Scott County).
+FAQ: How long can shingles wait after storm damage? In Davenport, IA, delayed dry-in can expand insulation and ceiling repairs.
+
+Attic ventilation deficits in Davenport, IA can mimic roof leaks at ceiling penetrations.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: starter-strip setback paired with synthetic underlayment slip near ZIP 52802.
+
+Primary postal anchor 52802 with multi-ZIP overlap in Davenport; field packets tag Scott County for county-grid reconciliation.
+
+Coordinate-anchored dispatch note: center reference 41.5600, -90.6100 at elevation ~659 ft aligns with Scott County intake staging.
 
 Service reference: IA-52802-e14813ee

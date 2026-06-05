@@ -11,24 +11,29 @@ lng: -119.6800
 zipSample: ["93612", "93747", "93611", "93619", "93613"]
 zipCodes: ["93613", "93747", "93611", "93619", "93612"]
 localPaths: ["Fresno County / primary ZIP 93611", "Fresno County / ZIP 93611 sector", "Fresno County / ZIP 93613 sector", "Fresno County / ZIP 93747 sector", "Fresno County / elevation 381 ft band"]
-zillowHomeValueUsd: 499408
 ---
 
 **Engineering Notice for Clovis:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Fresno County.
 
 
-Structured milestones protect both sides when scheduling work.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-We coordinate local dispatch coverage around Clovis, CA and nearby ZIP sectors.
+TPO seam welds in Clovis, CA commercial sections need probe tests after freeze events.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Tile underlayment age in Clovis, CA can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 93619/93611/93613.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 93619, 93611, 93613, 93747, 93612 (county grid: Fresno County).
+Code context: Ventilation ratios for Clovis, CA attics should be checked against current mechanical exhaust additions.
+
+Scope trace: soffit intake free area plus chimney cricket slope referenced in Fresno County county grid review.
+
+On-site sector marker: Fresno County / ZIP 93619 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Fresno County / primary ZIP 93611 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93611-42dfeca0

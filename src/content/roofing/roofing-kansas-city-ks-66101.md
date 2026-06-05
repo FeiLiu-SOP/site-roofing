@@ -11,26 +11,31 @@ lng: -94.7400
 zipSample: ["66102", "66104", "66109", "66118", "66110"]
 zipCodes: ["66115", "66106", "66119", "66104", "66109", "66105", "66112", "66111", "66103", "66160", "66118", "66110"]
 localPaths: ["Wyandotte County / ZIP 66104 sector", "Wyandotte County / ZIP 66109 sector", "Wyandotte County / ZIP 66110 sector", "Wyandotte County / ZIP 66118 sector", "Wyandotte County / ZIP 66102 sector"]
-zillowHomeValueUsd: 123555
 ---
 
 **Engineering Notice for Kansas City:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Wyandotte County.
 
 
-Structured milestones protect both sides when scheduling work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In Kansas City, KS, urgent roof work issues can escalate quickly.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Kansas City, KS, but intake notes help reduce delays.
+Synthetic underlayment slip in Kansas City, KS is often tied to deck moisture, not wind alone.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Access points and staging constraints recorded for ZIP 66105/66111/66119 coverage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 66105/66111/66119 intake.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 66105, 66111, 66119, 66104, 66103 (county grid: Wyandotte County).
+Step: separate emergency tarp scope from permanent service line items.
+
+Scope trace: counter-flashing reglet depth plus deck sheathing thickness referenced in Wyandotte County county grid review.
+
+Primary postal anchor 66101 with multi-ZIP overlap in Kansas City; field packets tag Wyandotte County for county-grid reconciliation.
+
+On-site sector marker: Wyandotte County / ZIP 66160 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-66101-3c180940

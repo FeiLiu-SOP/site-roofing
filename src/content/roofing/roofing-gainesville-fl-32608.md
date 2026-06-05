@@ -11,26 +11,33 @@ lng: -82.3500
 zipSample: ["32611", "32607", "32601", "32605", "32612"]
 zipCodes: ["32627", "32611", "32605", "32601", "32614", "32610", "32603", "32608", "32604", "32609", "32635", "32653"]
 localPaths: ["Alachua County / ZIP 32612 sector", "Alachua County / coords 29.6800, -82.3500", "Alachua County / ZIP 32605 sector", "Alachua County / ZIP 32601 sector", "Alachua County / elevation 180 ft band"]
-zillowHomeValueUsd: 337044
 ---
 
 **Engineering Notice for Gainesville:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Alachua County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Freeze-thaw cycles around Gainesville, FL stress nail pops along eaves and rake edges.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Gainesville, FL, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: avoid large upfront payments without milestones.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Gainesville, FL coverage windows and verified intake details.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: In Gainesville, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Connection points spot-checked where accessible (ZIP 32611/32635/32614 zone).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Wind exposure category reviewed for ZIP sector 32611/32635/32614.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 32611, 32635, 32614, 32605, 32627 (county grid: Alachua County).
+Wind-zone note: Gainesville, FL exposure class can change starter-strip and cap nail schedules.
+
+Scope trace: shingle exposure calibration plus drip-edge metal profile referenced in Alachua County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 32604/32603/32605.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Alachua County and primary ZIP 32608. Terrain reference: 180 ft. Center point: 29.6800, -82.3500. ZIP sample: 32627, 32611, 32653, 32609, 32603. Service perimeter note: Coverage extends through Alachua County with dispatch centered near ZIP 32608.
+
+Regional mesh label Alachua County: moisture and logistics baselines are keyed to Gainesville, FL before niche-specific work begins.
 
 Service reference: FL-32608-fb8fe2a7

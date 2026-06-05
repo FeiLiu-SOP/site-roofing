@@ -11,24 +11,33 @@ lng: -81.3200
 zipSample: ["32707", "32718"]
 zipCodes: ["32718", "32707"]
 localPaths: ["Seminole County / primary ZIP 32707", "Seminole County / elevation 66 ft band", "Seminole County / ZIP 32718 sector", "Seminole County / ZIP 32707 sector", "Seminole County / coords 28.6600, -81.3200"]
-zillowHomeValueUsd: 350069
 ---
 
 **Engineering Notice for Casselberry:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Seminole County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Granule embedment loss on Casselberry, FL north slopes can precede mat exposure.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: map ventilation intake and exhaust pairs for Casselberry, FL attic runs.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Our service coordination centers on Casselberry, FL coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Casselberry, FL, but intake notes help reduce delays.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Wind exposure category reviewed for ZIP sector 32707/32718.
+Wind-zone note: Casselberry, FL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 32707, 32718 (county grid: Seminole County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Risk flag: Tile underlayment age in Casselberry, FL can fail independently of visible tile cracks.
+
+Scope trace: wind uplift clip spacing plus skylight curb height referenced in Seminole County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 32707/32718.
+
+Primary postal anchor 32707 with multi-ZIP overlap in Casselberry; field packets tag Seminole County for county-grid reconciliation.
+
+On-site sector marker: Seminole County / coords 28.6600, -81.3200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32707-edd9aea8

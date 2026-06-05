@@ -11,26 +11,29 @@ lng: -74.2800
 zipSample: ["07065"]
 zipCodes: ["07065"]
 localPaths: ["Union County / ZIP 07065 sector", "Union County / coords 40.6100, -74.2800", "Union County / elevation 36 ft band", "Union County / primary ZIP 07065"]
-zillowHomeValueUsd: 529866
 ---
 
 **Engineering Notice for Rahway:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Union County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-We coordinate local dispatch coverage around Rahway, NJ and nearby ZIP sectors.
+FAQ: When should permanent restoration start? In Rahway, NJ, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Coastal humidity in Rahway, NJ can slow shingle seal-down after shoulder-season storms.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Access points and staging constraints recorded for ZIP 07065 coverage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 07065 intake.
+Wind-zone note: Rahway, NJ exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 07065 (county grid: Union County).
+Scope trace: synthetic underlayment slip plus starter-strip setback referenced in Union County county grid review.
+
+On-site sector marker: Union County / ZIP 07065 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Union County / primary ZIP 07065 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07065-028bfb6e

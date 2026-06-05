@@ -11,24 +11,33 @@ lng: -97.4600
 zipSample: ["78520", "78578", "78566", "78521", "78526"]
 zipCodes: ["78578", "78522", "78526", "78566", "78575", "78520", "78521"]
 localPaths: ["Cameron County / elevation 20 ft band", "Cameron County / primary ZIP 78521", "Cameron County / ZIP 78578 sector", "Cameron County / ZIP 78526 sector", "Cameron County / ZIP 78520 sector"]
-zillowHomeValueUsd: 174146
 ---
 
 **Engineering Notice for Brownsville:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Cameron County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When should permanent restoration start? In Brownsville, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Clear documentation helps align materials, labor, and timeline.
+Hail bruising on Brownsville, TX ridges may not breach felt until the next wind event.
 
-Our service coordination centers on Brownsville, TX coverage windows and verified intake details.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for Brownsville, TX.
 
-Field note: Moisture pathway inspection logged near ZIP 78575/78578/78526 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 78575, 78578, 78526, 78521, 78522 (county grid: Cameron County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+In Brownsville, TX, wind-driven rain can lift shingle tabs before owners notice deck staining.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+roofing service brief: attic baffle spacing and starter-strip setback were cross-checked for the Brownsville intake packet.
+
+ZIP-corridor snapshot for Brownsville, TX: sampled sectors include 78522, 78521, 78578, 78526, 78520, 78575, 78566; county routing grid remains Cameron County.
+
+On-site sector marker: Cameron County / ZIP 78521 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78521-90b0439e

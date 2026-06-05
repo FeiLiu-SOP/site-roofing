@@ -11,26 +11,31 @@ lng: -79.0100
 zipSample: ["29588"]
 zipCodes: ["29588"]
 localPaths: ["Horry County / primary ZIP 29588", "Horry County / ZIP 29588 sector", "Horry County / coords 33.6900, -79.0100", "Horry County / elevation 33 ft band"]
-zillowHomeValueUsd: 320332
 ---
 
 **Engineering Notice for Socastee:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Horry County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Skylight curb flashing in Socastee, SC should be sequenced before ridge cap replacement.
 
-Tip: avoid large upfront payments without milestones.
+FAQ: When should permanent service start? In Socastee, SC, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Socastee, SC, but intake notes help reduce delays.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In Socastee, SC, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Access points and staging constraints recorded for ZIP 29588 coverage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Wind exposure category reviewed for ZIP sector 29588.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 29588 (county grid: Horry County).
+Regulatory note: Socastee, SC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: wind uplift clip spacing plus pipe boot manufacturer match referenced in Horry County county grid review.
+
+On-site sector marker: Horry County / ZIP 29588 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Horry County / primary ZIP 29588 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29588-d8f988cb

@@ -11,24 +11,31 @@ lng: -78.4000
 zipSample: ["16601", "16602", "16603"]
 zipCodes: ["16601", "16602", "16603"]
 localPaths: ["Blair County / elevation 1168 ft band", "Blair County / ZIP 16601 sector", "Blair County / coords 40.5100, -78.4000", "Blair County / ZIP 16602 sector", "Blair County / ZIP 16603 sector"]
-zillowHomeValueUsd: 138372
 ---
 
 **Engineering Notice for Altoona:** Structural loading calculated based on 1168 ft terrain assessment. Regional dispatch grid: Blair County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Homeowners in Altoona, PA often face sudden roofing service problems that require fast action.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Coastal humidity in Altoona, PA can slow shingle seal-down after shoulder-season storms.
 
-A written scope helps prevent rework and mismatched expectations.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Altoona, PA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 16602/16603/16601.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 16602, 16603, 16601 (county grid: Blair County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Tip: Note recent wind events when filing insurance photos for Altoona, PA.
+
+Scope trace: attic baffle spacing plus pipe boot manufacturer match referenced in Blair County county grid review.
+
+On-site sector marker: Blair County / ZIP 16601 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Blair County / primary ZIP 16601 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-16601-39e1e796

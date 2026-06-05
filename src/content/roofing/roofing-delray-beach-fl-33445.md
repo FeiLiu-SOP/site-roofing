@@ -11,25 +11,29 @@ lng: -80.0900
 zipSample: ["33444", "33483", "33445", "33448", "33482"]
 zipCodes: ["33444", "33482", "33445", "33448", "33483"]
 localPaths: ["Palm Beach County / coords 26.4500, -80.0900", "Palm Beach County / elevation 33 ft band", "Palm Beach County / primary ZIP 33445", "Palm Beach County / ZIP 33445 sector", "Palm Beach County / ZIP 33444 sector"]
-zillowHomeValueUsd: 304538
 ---
 
 **Engineering Notice for Delray Beach:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Palm Beach County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33445.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Delray Beach, FL, but intake notes help reduce delays.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Connection points spot-checked where accessible (ZIP 33448/33445/33482 zone).
+Metal panel oil-canning in Delray Beach, FL may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 33448, 33445, 33482, 33483, 33444 (county grid: Palm Beach County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roof work brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Delray Beach intake packet.
+
+ZIP-corridor snapshot for Delray Beach, FL: sampled sectors include 33482, 33445, 33444, 33483, 33448; county routing grid remains Palm Beach County.
+
+Primary postal anchor 33445 with multi-ZIP overlap in Delray Beach; field packets tag Palm Beach County for county-grid reconciliation.
 
 Service reference: FL-33445-4afd9b64

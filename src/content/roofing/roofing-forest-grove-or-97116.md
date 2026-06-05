@@ -11,25 +11,33 @@ lng: -123.1100
 zipSample: ["97116"]
 zipCodes: ["97116"]
 localPaths: ["Washington County / ZIP 97116 sector", "Washington County / coords 45.5200, -123.1100", "Washington County / elevation 194 ft band", "Washington County / primary ZIP 97116"]
-zillowHomeValueUsd: 526967
 ---
 
 **Engineering Notice for Forest Grove:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Washington County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 97116.
+FAQ: When should permanent restoration start? In Forest Grove, OR, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Our service coordination centers on Forest Grove, OR coverage windows and verified intake details.
+Regulatory note: Forest Grove, OR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 97116 zone).
+Tile and shingle mixes in Forest Grove, OR require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 97116 (county grid: Washington County).
+Risk flag: In Forest Grove, OR, interior stains may track from HVAC condensate rather than roof cladding.
+
+Step: stage tear-off debris paths away from landscape drains.
+
+Scope trace: wind uplift clip spacing plus counter-flashing reglet depth referenced in Washington County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 97116.
+
+Regional mesh label Washington County: moisture and logistics baselines are keyed to Forest Grove, OR before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~194 ft across the Washington County area. Coordinates: 45.5200, -123.1100. ZIP sample: 97116. Service perimeter note: Coverage extends through Washington County with dispatch centered near ZIP 97116.
 
 Service reference: OR-97116-ec63b5fd

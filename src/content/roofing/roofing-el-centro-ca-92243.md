@@ -11,24 +11,29 @@ lng: -115.5600
 zipSample: ["92244", "92243"]
 zipCodes: ["92243", "92244"]
 localPaths: ["Imperial County / coords 32.7900, -115.5600", "Imperial County / ZIP 92244 sector", "Imperial County / primary ZIP 92243", "Imperial County / elevation -44 ft band", "Imperial County / ZIP 92243 sector"]
-zillowHomeValueUsd: 385298
 ---
 
 **Engineering Notice for El Centro:** Structural loading calculated based on -44 ft terrain assessment. Regional dispatch grid: Imperial County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in El Centro, CA, but intake notes help reduce delays.
+Parapet coping movement in El Centro, CA can channel water behind wall cladding.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Regulatory note: El Centro, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around El Centro, CA and nearby ZIP sectors.
+FAQ: How long can shingles wait after storm damage? In El Centro, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Transparent pricing helps you compare like-for-like scope items.
+Risk flag: Tile underlayment age in El Centro, CA can fail independently of visible tile cracks.
 
-Field note: Wind exposure category reviewed for ZIP sector 92243/92244.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 92243, 92244 (county grid: Imperial County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+roof service brief: skylight curb height and valley metal gauge were cross-checked for the El Centro intake packet.
+
+On-site sector marker: Imperial County / primary ZIP 92243 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Imperial County. Reference elevation: -44 ft. Primary coordinates: 32.7900, -115.5600. ZIP sample: 92244, 92243. Logistics priority: Serving residential sectors across Imperial County and north-east ZIP 92243 grid.
 
 Service reference: CA-92243-ba869460

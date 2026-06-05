@@ -11,27 +11,35 @@ lng: -104.9800
 zipSample: ["80234", "80260", "80233", "80603"]
 zipCodes: ["80260", "80603", "80233", "80234"]
 localPaths: ["Adams County / ZIP 80603 sector", "Adams County / ZIP 80260 sector", "Adams County / coords 39.9100, -104.9800", "Adams County / primary ZIP 80260", "Adams County / ZIP 80233 sector"]
-zillowHomeValueUsd: 403816
 ---
 
 **Engineering Notice for Northglenn:** Structural loading calculated based on 5384 ft terrain assessment. Regional dispatch grid: Adams County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Tip: address recurring issues early to prevent bigger damage.
+Hail bruising on Northglenn, CO ridges may not breach felt until the next wind event.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 80260.
+Risk flag: In Northglenn, CO, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Northglenn, CO coverage windows and verified intake details.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Access points and staging constraints recorded for ZIP 80603/80234/80233 coverage.
+We coordinate Northglenn, CO roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Connection points spot-checked where accessible (ZIP 80603/80234/80233 zone).
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 80603, 80234, 80233, 80260 (county grid: Adams County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Scope trace: valley metal gauge plus starter-strip setback referenced in Adams County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 80234/80233/80603.
+
+On-site sector marker: Adams County / elevation 5384 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Adams County / ZIP 80260 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80260-e13a6470

@@ -11,25 +11,35 @@ lng: -86.1000
 zipSample: ["35160", "35161"]
 zipCodes: ["35160", "35161"]
 localPaths: ["Talladega County / elevation 597 ft band", "Talladega County / ZIP 35160 sector", "Talladega County / coords 33.4300, -86.1000", "Talladega County / ZIP 35161 sector", "Talladega County / primary ZIP 35160"]
-zillowHomeValueUsd: 145139
 ---
 
 **Engineering Notice for Talladega:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Talladega County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 35160.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-We coordinate local dispatch coverage around Talladega, AL and nearby ZIP sectors.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: How long can shingles wait after storm damage? In Talladega, AL, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 35160/35161 zone).
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 35160, 35161 (county grid: Talladega County).
+Low-slope sections in Talladega, AL need positive drainage before membrane repairs are scoped.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Scope trace: soffit intake free area plus starter-strip setback referenced in Talladega County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 35161/35160.
+
+On-site sector marker: Talladega County / elevation 597 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Talladega County / ZIP 35161 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35160-ffebd4b6

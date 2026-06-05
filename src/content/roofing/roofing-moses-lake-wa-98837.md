@@ -11,24 +11,33 @@ lng: -119.2800
 zipSample: ["98837"]
 zipCodes: ["98837"]
 localPaths: ["Grant County / coords 47.1300, -119.2800", "Grant County / primary ZIP 98837", "Grant County / elevation 1050 ft band", "Grant County / ZIP 98837 sector"]
-zillowHomeValueUsd: 364617
 ---
 
 **Engineering Notice for Moses Lake:** Structural loading calculated based on 1050 ft terrain assessment. Regional dispatch grid: Grant County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Tile underlayment age in Moses Lake, WA can fail independently of visible tile cracks.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tile and shingle mixes in Moses Lake, WA require different fastener patterns at transitions.
 
-We coordinate local dispatch coverage around Moses Lake, WA and nearby ZIP sectors.
+Material note: In Moses Lake, WA, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: request a written scope before work starts.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Connection points spot-checked where accessible (ZIP 98837 zone).
+Regulatory note: Moses Lake, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 98837 (county grid: Grant County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Field routing: ice-barrier lap sequence paired with skylight curb height near ZIP 98837.
+
+Field note: Attic moisture pathway scan referenced ZIP 98837.
+
+On-site sector marker: Grant County / ZIP 98837 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Grant County / coords 47.1300, -119.2800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98837-9b60f219

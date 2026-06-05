@@ -11,28 +11,33 @@ lng: -104.8500
 zipSample: ["80109", "80104", "80108"]
 zipCodes: ["80108", "80109", "80104"]
 localPaths: ["Douglas County / primary ZIP 80104", "Douglas County / elevation 6309 ft band", "Douglas County / ZIP 80104 sector", "Douglas County / ZIP 80109 sector", "Douglas County / coords 39.3800, -104.8500"]
-zillowHomeValueUsd: 614725
 ---
 
 **Engineering Notice for Castle Rock:** Structural loading calculated based on 6309 ft terrain assessment. Regional dispatch grid: Douglas County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Castle Rock, CO can fail independently of visible tile cracks.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 80104.
+Wind-zone note: Castle Rock, CO exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around Castle Rock, CO and nearby ZIP sectors.
+FAQ: How long can shingles wait after storm damage? In Castle Rock, CO, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tile and shingle mixes in Castle Rock, CO require different fastener patterns at transitions.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 80104.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 80104/80109/80108.
+Step: compare shingle manufacturer wind-zone ratings for Castle Rock, CO exposure class.
 
-Field note: Wind exposure category reviewed for ZIP sector 80104/80109/80108.
+Material note: In Castle Rock, CO, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 80104, 80109, 80108 (county grid: Douglas County).
+Our Castle Rock, CO dispatch packets reference county grid Douglas County and elevation band 6309 ft.
+
+Step: separate emergency tarp scope from permanent remediation line items.
+
+roofing service brief: soffit intake free area and attic baffle spacing were cross-checked for the Castle Rock intake packet.
+
+On-site sector marker: Douglas County / ZIP 80108 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Douglas County: moisture and logistics baselines are keyed to Castle Rock, CO before niche-specific work begins.
 
 Service reference: CO-80104-144cafc8

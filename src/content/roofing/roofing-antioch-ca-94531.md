@@ -11,26 +11,31 @@ lng: -121.8000
 zipSample: ["94531", "94509"]
 zipCodes: ["94509", "94531"]
 localPaths: ["Contra Costa County / primary ZIP 94531", "Contra Costa County / elevation 213 ft band", "Contra Costa County / ZIP 94531 sector", "Contra Costa County / coords 37.9800, -121.8000", "Contra Costa County / ZIP 94509 sector"]
-zillowHomeValueUsd: 669697
 ---
 
 **Engineering Notice for Antioch:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: confirm licensing and insurance before approving work.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: avoid large upfront payments without milestones.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Our service coordination centers on Antioch, CA coverage windows and verified intake details.
+Wind-zone note: Antioch, CA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 94531/94509 zone).
+FAQ: When should permanent restoration start? In Antioch, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 94531/94509 intake.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 94531, 94509 (county grid: Contra Costa County).
+Hail bruising on Antioch, CA ridges may not breach felt until the next wind event.
+
+Scope trace: drip-edge metal profile plus starter-strip setback referenced in Contra Costa County county grid review.
+
+On-site sector marker: Contra Costa County / ZIP 94509 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Contra Costa County. Reference elevation: 213 ft. Primary coordinates: 37.9800, -121.8000. ZIP sample: 94509, 94531. Logistics priority: Serving residential sectors across Contra Costa County and north-east ZIP 94531 grid.
 
 Service reference: CA-94531-1fc2eaf9

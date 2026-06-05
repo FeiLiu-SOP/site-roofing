@@ -11,24 +11,31 @@ lng: -112.3200
 zipSample: ["86315", "86314", "86327", "86312"]
 zipCodes: ["86314", "86312", "86327", "86315"]
 localPaths: ["Yavapai County / ZIP 86312 sector", "Yavapai County / coords 34.6000, -112.3200", "Yavapai County / primary ZIP 86327", "Yavapai County / elevation 5052 ft band", "Yavapai County / ZIP 86327 sector"]
-zillowHomeValueUsd: 453838
 ---
 
 **Engineering Notice for Prescott Valley:** Structural loading calculated based on 5052 ft terrain assessment. Regional dispatch grid: Yavapai County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Prescott Valley, AZ coverage windows and verified intake details.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Prescott Valley, AZ exposure class can change starter-strip and cap nail schedules.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: How long can shingles wait after storm damage? In Prescott Valley, AZ, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Prescott Valley, AZ, but intake notes help reduce delays.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 86312/86314/86327.
+Attic ventilation deficits in Prescott Valley, AZ can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 86312, 86314, 86327, 86315 (county grid: Yavapai County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Field routing: valley metal gauge paired with starter-strip setback near ZIP 86327.
+
+On-site sector marker: Yavapai County / ZIP 86312 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Prescott Valley, AZ: sampled sectors include 86327, 86312, 86314, 86315; county routing grid remains Yavapai County.
 
 Service reference: AZ-86327-17981a8b

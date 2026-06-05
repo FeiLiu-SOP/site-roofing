@@ -11,26 +11,33 @@ lng: -88.0100
 zipSample: ["60060"]
 zipCodes: ["60060"]
 localPaths: ["Lake County / ZIP 60060 sector", "Lake County / primary ZIP 60060", "Lake County / coords 42.2700, -88.0100", "Lake County / elevation 758 ft band"]
-zillowHomeValueUsd: 384000
 ---
 
 **Engineering Notice for Mundelein:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60060.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Across Mundelein, IL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-In Mundelein, IL, urgent roof service issues can escalate quickly.
+Risk flag: In Mundelein, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Local conditions in Mundelein, IL can affect timelines and material choices.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 60060 zone).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Access points and staging constraints recorded for ZIP 60060 coverage.
+Tip: Note recent wind events when filing insurance photos for Mundelein, IL.
 
-Dispatch sectors sampled: ZIP 60060 (county grid: Lake County).
+Our Mundelein, IL dispatch packets reference county grid Lake County and elevation band 758 ft.
+
+Wind-zone note: Mundelein, IL exposure class can change starter-strip and cap nail schedules.
+
+roof service brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Mundelein intake packet.
+
+ZIP-corridor snapshot for Mundelein, IL: sampled sectors include 60060; county routing grid remains Lake County.
+
+On-site sector marker: Lake County / elevation 758 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60060-160403bf

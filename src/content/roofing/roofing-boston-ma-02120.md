@@ -11,27 +11,33 @@ lng: -71.0900
 zipSample: ["02284", "02126", "02115", "02118", "02199"]
 zipCodes: ["02131", "02196", "02284", "02130", "02119", "02293", "02115", "02211", "02135", "02114", "02241", "02133"]
 localPaths: ["Suffolk County / coords 42.3200, -71.0900", "Suffolk County / ZIP 02126 sector", "Suffolk County / elevation 98 ft band", "Suffolk County / primary ZIP 02120", "Suffolk County / ZIP 02118 sector"]
-zillowHomeValueUsd: 949213
 ---
 
 **Engineering Notice for Boston:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Suffolk County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in Boston, MA can fail independently of visible tile cracks.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Regulatory note: Boston, MA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Boston, MA, but intake notes help reduce delays.
+TPO seam welds in Boston, MA commercial sections need probe tests after freeze events.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 02120.
+FAQ: Is partial dry-in possible? In Boston, MA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 02210/02110/02114.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Access points and staging constraints recorded for ZIP 02210/02110/02114 coverage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 02210, 02110, 02114, 02283, 02131 (county grid: Suffolk County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Scope trace: wind uplift clip spacing plus valley metal gauge referenced in Suffolk County county grid review.
+
+Coordinate-anchored dispatch note: center reference 42.3200, -71.0900 at elevation ~98 ft aligns with Suffolk County intake staging.
+
+On-site sector marker: Suffolk County / ZIP 02283 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-02120-071afd72

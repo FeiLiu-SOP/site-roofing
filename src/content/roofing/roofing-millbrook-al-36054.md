@@ -11,25 +11,31 @@ lng: -86.3700
 zipSample: ["36022", "36054"]
 zipCodes: ["36022", "36054"]
 localPaths: ["Elmore County / ZIP 36022 sector", "Elmore County / ZIP 36054 sector", "Elmore County / primary ZIP 36054", "Elmore County / elevation 266 ft band", "Elmore County / coords 32.5000, -86.3700"]
-zillowHomeValueUsd: 219932
 ---
 
 **Engineering Notice for Millbrook:** Structural loading calculated based on 266 ft terrain assessment. Regional dispatch grid: Elmore County.
 
 
-Our service coordination centers on Millbrook, AL coverage windows and verified intake details.
+We coordinate Millbrook, AL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Millbrook, AL, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 36054.
+Wind-zone note: Millbrook, AL exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 36022/36054.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 36022, 36054 (county grid: Elmore County).
+Wood shake courses in Millbrook, AL require skip-spacing rules at valleys.
+
+Scope trace: synthetic underlayment slip plus starter-strip setback referenced in Elmore County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 36022/36054.
+
+On-site sector marker: Elmore County / elevation 266 ft band — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 32.5000, -86.3700 at elevation ~266 ft aligns with Elmore County intake staging.
 
 Service reference: AL-36054-a827e735

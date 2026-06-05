@@ -11,24 +11,29 @@ lng: -75.1800
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / ZIP 08865 sector", "Warren County / coords 40.6900, -75.1800", "Warren County / primary ZIP 08865", "Warren County / elevation 308 ft band"]
-zillowHomeValueUsd: 336516
 ---
 
 **Engineering Notice for Phillipsburg:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Warren County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wind-zone note: Phillipsburg, NJ exposure class can change starter-strip and cap nail schedules.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-In Phillipsburg, NJ, seasonal demand can change scheduling windows.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: request a written scope before work starts.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Access points and staging constraints recorded for ZIP 08865 coverage.
+Wood shake courses in Phillipsburg, NJ require skip-spacing rules at valleys.
 
-Dispatch sectors sampled: ZIP 08865 (county grid: Warren County).
+FAQ: When should permanent service start? In Phillipsburg, NJ, delayed dry-in can expand insulation and ceiling repairs.
+
+Scope trace: synthetic underlayment slip plus ridge cap nail schedule referenced in Warren County county grid review.
+
+Regional mesh label Warren County: moisture and logistics baselines are keyed to Phillipsburg, NJ before niche-specific work begins.
+
+On-site sector marker: Warren County / ZIP 08865 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08865-a8347f67

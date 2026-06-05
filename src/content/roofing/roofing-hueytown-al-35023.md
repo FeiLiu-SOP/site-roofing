@@ -11,25 +11,35 @@ lng: -87.0200
 zipSample: ["35023"]
 zipCodes: ["35023"]
 localPaths: ["Jefferson County / elevation 591 ft band", "Jefferson County / primary ZIP 35023", "Jefferson County / coords 33.4200, -87.0200", "Jefferson County / ZIP 35023 sector"]
-zillowHomeValueUsd: 170557
 ---
 
 **Engineering Notice for Hueytown:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 35023.
+Step: map ventilation intake and exhaust pairs for Hueytown, AL attic runs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Hueytown, AL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hueytown, AL, but intake notes help reduce delays.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-A written scope helps prevent rework and mismatched expectations.
+Wood shake courses in Hueytown, AL require skip-spacing rules at valleys.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 35023.
+Wind-zone note: Hueytown, AL exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 35023 (county grid: Jefferson County).
+FAQ: Can you tarp only part of the roof? In Hueytown, AL, yes—if slope and anchor points support safe tie-offs.
+
+Material note: In Hueytown, AL, algae-resistant granules may be specified for north-facing slopes.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: skylight curb height paired with pipe boot manufacturer match near ZIP 35023.
+
+Field note: Attic moisture pathway scan referenced ZIP 35023.
+
+**Regional Infrastructure Brief:** Grid anchor set to Jefferson County. Reference elevation: 591 ft. Primary coordinates: 33.4200, -87.0200. ZIP sample: 35023. Regional routing note: Jefferson County traffic flow is balanced around ZIP 35023 service demand.
+
+ZIP-corridor snapshot for Hueytown, AL: sampled sectors include 35023; county routing grid remains Jefferson County.
 
 Service reference: AL-35023-b67324e7

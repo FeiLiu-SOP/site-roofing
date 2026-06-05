@@ -11,26 +11,31 @@ lng: -122.3000
 zipSample: ["98275"]
 zipCodes: ["98275"]
 localPaths: ["Snohomish County / elevation 423 ft band", "Snohomish County / coords 47.9100, -122.3000", "Snohomish County / ZIP 98275 sector", "Snohomish County / primary ZIP 98275"]
-zillowHomeValueUsd: 933717
 ---
 
 **Engineering Notice for Mukilteo:** Structural loading calculated based on 423 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-We coordinate local dispatch coverage around Mukilteo, WA and nearby ZIP sectors.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Mukilteo, WA attics should be checked against current mechanical exhaust additions.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Is partial dry-in possible? In Mukilteo, WA, yes—if slope and anchor points support safe tie-offs.
 
-In Mukilteo, WA, urgent roofing service issues can escalate quickly.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mukilteo, WA, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 98275.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Moisture pathway inspection logged near ZIP 98275 intake.
+Tile and shingle mixes in Mukilteo, WA require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 98275 (county grid: Snohomish County).
+Field routing: attic baffle spacing paired with starter-strip setback near ZIP 98275.
+
+Field note: Shingle seal-down timing logged near ZIP 98275.
+
+On-site sector marker: Snohomish County / ZIP 98275 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Snohomish County / primary ZIP 98275 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98275-2e2302b5

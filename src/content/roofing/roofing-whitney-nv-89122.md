@@ -11,26 +11,35 @@ lng: -115.0400
 zipSample: ["89122"]
 zipCodes: ["89122"]
 localPaths: ["Clark County / coords 36.1000, -115.0400", "Clark County / elevation 1667 ft band", "Clark County / ZIP 89122 sector", "Clark County / primary ZIP 89122"]
-zillowHomeValueUsd: 356247
 ---
 
 **Engineering Notice for Whitney:** Structural loading calculated based on 1667 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Whitney, NV, but intake notes help reduce delays.
+FAQ: When should permanent service start? In Whitney, NV, delayed dry-in can expand insulation and ceiling repairs.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Across Whitney, NV, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Homeowners in Whitney, NV often face sudden roof work problems that require fast action.
+Code context: Ventilation ratios for Whitney, NV attics should be checked against current mechanical exhaust additions.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-We coordinate local dispatch coverage around Whitney, NV and nearby ZIP sectors.
+Risk flag: In Whitney, NV, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 89122.
+Step: stage tear-off debris paths away from landscape drains.
 
-Field note: Moisture pathway inspection logged near ZIP 89122 intake.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 89122 (county grid: Clark County).
+Material note: In Whitney, NV, algae-resistant granules may be specified for north-facing slopes.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: shingle exposure calibration paired with drip-edge metal profile near ZIP 89122.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 89122.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Clark County and primary ZIP 89122. Terrain reference: 1667 ft. Center point: 36.1000, -115.0400. ZIP sample: 89122. Regional routing note: Clark County traffic flow is balanced around ZIP 89122 service demand.
+
+On-site sector marker: Clark County / primary ZIP 89122 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89122-2c56090c

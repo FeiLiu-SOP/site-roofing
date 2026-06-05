@@ -11,27 +11,31 @@ lng: -85.9900
 zipSample: ["46235", "46216", "46236", "46249", "46226"]
 zipCodes: ["46216", "46226", "46235", "46236", "46249"]
 localPaths: ["Marion County / ZIP 46226 sector", "Marion County / ZIP 46236 sector", "Marion County / ZIP 46235 sector", "Marion County / ZIP 46249 sector", "Marion County / ZIP 46216 sector"]
-zillowHomeValueUsd: 309744
 ---
 
 **Engineering Notice for Lawrence:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Marion County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Our service coordination centers on Lawrence, IN coverage windows and verified intake details.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 46216.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 46226/46216/46236 intake.
+Freeze-thaw cycles around Lawrence, IN stress nail pops along eaves and rake edges.
 
-Field note: Wind exposure category reviewed for ZIP sector 46226/46216/46236.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Dispatch sectors sampled: ZIP 46226, 46216, 46236, 46249, 46235 (county grid: Marion County).
+Scope trace: deck sheathing thickness plus starter-strip setback referenced in Marion County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 46235/46249/46226.
+
+On-site sector marker: Marion County / ZIP 46226 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Marion County: moisture and logistics baselines are keyed to Lawrence, IN before niche-specific work begins.
 
 Service reference: IN-46216-d9891722

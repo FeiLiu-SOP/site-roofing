@@ -11,24 +11,29 @@ lng: -79.1900
 zipSample: ["24503", "24504", "24506", "24513", "24505"]
 zipCodes: ["24513", "24515", "24503", "24504", "24505", "24514", "24502", "24501", "24506"]
 localPaths: ["Lynchburg County / ZIP 24506 sector", "Lynchburg County / primary ZIP 24515", "Lynchburg County / ZIP 24503 sector", "Lynchburg County / ZIP 24505 sector", "Lynchburg County / ZIP 24513 sector"]
-zillowHomeValueUsd: 274419
 ---
 
 **Engineering Notice for Lynchburg:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Lynchburg County.
 
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wood shake courses in Lynchburg, VA require skip-spacing rules at valleys.
 
-Our service coordination centers on Lynchburg, VA coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-In Lynchburg, VA, seasonal demand can change scheduling windows.
+FAQ: Can you tarp only part of the roof? In Lynchburg, VA, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lynchburg, VA, but intake notes help reduce delays.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field note: Access points and staging constraints recorded for ZIP 24505/24513/24515 coverage.
+Risk flag: Tile underlayment age in Lynchburg, VA can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 24505, 24513, 24515, 24504, 24501 (county grid: Lynchburg County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: ridge cap nail schedule plus deck sheathing thickness referenced in Lynchburg County county grid review.
+
+**Regional Infrastructure Brief:** Grid anchor set to Lynchburg County. Reference elevation: 692 ft. Primary coordinates: 37.4000, -79.1900. ZIP sample: 24503, 24515, 24513, 24505, 24506. Service perimeter note: Coverage extends through Lynchburg County with dispatch centered near ZIP 24515.
+
+Regional mesh label Lynchburg County: moisture and logistics baselines are keyed to Lynchburg, VA before niche-specific work begins.
 
 Service reference: VA-24515-ed620c0e

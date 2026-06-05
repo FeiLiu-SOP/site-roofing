@@ -11,25 +11,31 @@ lng: -77.1500
 zipSample: ["22312"]
 zipCodes: ["22312"]
 localPaths: ["Fairfax County / coords 38.8200, -77.1500", "Fairfax County / primary ZIP 22312", "Fairfax County / elevation 243 ft band", "Fairfax County / ZIP 22312 sector"]
-zillowHomeValueUsd: 639326
 ---
 
 **Engineering Notice for Lincolnia:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+FAQ: Is partial dry-in possible? In Lincolnia, VA, yes—if slope and anchor points support safe tie-offs.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 22312.
+Step: map ventilation intake and exhaust pairs for Lincolnia, VA attic runs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Lincolnia, VA, but intake notes help reduce delays.
+We coordinate Lincolnia, VA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Our service coordination centers on Lincolnia, VA coverage windows and verified intake details.
+Risk flag: In Lincolnia, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+In Lincolnia, VA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field note: Access points and staging constraints recorded for ZIP 22312 coverage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 22312 (county grid: Fairfax County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Field routing: deck sheathing thickness paired with counter-flashing reglet depth near ZIP 22312.
+
+On-site sector marker: Fairfax County / primary ZIP 22312 — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Lincolnia, VA before niche-specific work begins.
 
 Service reference: VA-22312-1324cdaf

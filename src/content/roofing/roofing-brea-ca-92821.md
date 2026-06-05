@@ -11,26 +11,31 @@ lng: -117.8700
 zipSample: ["92821", "92823", "92822"]
 zipCodes: ["92823", "92822", "92821"]
 localPaths: ["Orange County / elevation 564 ft band", "Orange County / coords 33.9300, -117.8700", "Orange County / ZIP 92822 sector", "Orange County / ZIP 92823 sector", "Orange County / ZIP 92821 sector"]
-zillowHomeValueUsd: 1120922
 ---
 
 **Engineering Notice for Brea:** Structural loading calculated based on 564 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Brea, CA, but intake notes help reduce delays.
+Tile and shingle mixes in Brea, CA require different fastener patterns at transitions.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: When should permanent restoration start? In Brea, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Transparent pricing helps you compare like-for-like scope items.
+Our Brea, CA dispatch packets reference county grid Orange County and elevation band 564 ft.
 
-Homeowners in Brea, CA often face sudden roof service problems that require fast action.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Access points and staging constraints recorded for ZIP 92822/92823/92821 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 92822/92823/92821 intake.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 92822, 92823, 92821 (county grid: Orange County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Orange County county grid review.
+
+On-site sector marker: Orange County / ZIP 92821 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Brea, CA: sampled sectors include 92821, 92823, 92822; county routing grid remains Orange County.
 
 Service reference: CA-92821-5e140536

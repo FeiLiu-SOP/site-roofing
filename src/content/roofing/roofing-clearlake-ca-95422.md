@@ -11,25 +11,33 @@ lng: -122.6300
 zipSample: ["95424", "95422"]
 zipCodes: ["95422", "95424"]
 localPaths: ["Lake County / elevation 1362 ft band", "Lake County / ZIP 95424 sector", "Lake County / primary ZIP 95422", "Lake County / ZIP 95422 sector", "Lake County / coords 38.9600, -122.6300"]
-zillowHomeValueUsd: 202418
 ---
 
 **Engineering Notice for Clearlake:** Structural loading calculated based on 1362 ft terrain assessment. Regional dispatch grid: Lake County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Clearlake, CA attics should be checked against current mechanical exhaust additions.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Clearlake, CA, but intake notes help reduce delays.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 95422.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Clearlake, CA coverage windows and verified intake details.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Moisture pathway inspection logged near ZIP 95424/95422 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 95424, 95422 (county grid: Lake County).
+Across Clearlake, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+Step: compare shingle manufacturer wind-zone ratings for Clearlake, CA exposure class.
+
+Field routing: chimney cricket slope paired with starter-strip setback near ZIP 95422.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Lake County and primary ZIP 95422. Terrain reference: 1362 ft. Center point: 38.9600, -122.6300. ZIP sample: 95422, 95424. Service perimeter note: Coverage extends through Lake County with dispatch centered near ZIP 95422.
+
+On-site sector marker: Lake County / coords 38.9600, -122.6300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95422-ed6bb953

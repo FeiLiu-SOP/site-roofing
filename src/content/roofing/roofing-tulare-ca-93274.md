@@ -11,26 +11,33 @@ lng: -119.3400
 zipSample: ["93275", "93274"]
 zipCodes: ["93274", "93275"]
 localPaths: ["Tulare County / primary ZIP 93274", "Tulare County / ZIP 93274 sector", "Tulare County / coords 36.2000, -119.3400", "Tulare County / ZIP 93275 sector", "Tulare County / elevation 289 ft band"]
-zillowHomeValueUsd: 355541
 ---
 
 **Engineering Notice for Tulare:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Tulare County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Wind-zone note: Tulare, CA exposure class can change starter-strip and cap nail schedules.
 
-Our service coordination centers on Tulare, CA coverage windows and verified intake details.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Homeowners in Tulare, CA often face sudden roof service problems that require fast action.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+Valley metal in Tulare, CA should be reviewed whenever granule loss tracks the water line.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Access points and staging constraints recorded for ZIP 93274/93275 coverage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Wind exposure category reviewed for ZIP sector 93274/93275.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Dispatch sectors sampled: ZIP 93274, 93275 (county grid: Tulare County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: starter-strip setback paired with shingle exposure calibration near ZIP 93274.
+
+Field note: Valley debris and granule loss noted for ZIP 93275/93274.
+
+On-site sector marker: Tulare County / coords 36.2000, -119.3400 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~289 ft across the Tulare County area. Coordinates: 36.2000, -119.3400. ZIP sample: 93274, 93275. Logistics priority: Serving residential sectors across Tulare County and north-east ZIP 93274 grid.
 
 Service reference: CA-93274-5d1a43d3

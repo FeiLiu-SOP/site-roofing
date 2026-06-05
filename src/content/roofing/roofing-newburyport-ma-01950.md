@@ -11,24 +11,31 @@ lng: -70.8900
 zipSample: ["01950"]
 zipCodes: ["01950"]
 localPaths: ["Essex County / coords 42.8100, -70.8900", "Essex County / elevation 79 ft band", "Essex County / primary ZIP 01950", "Essex County / ZIP 01950 sector"]
-zillowHomeValueUsd: 923072
 ---
 
 **Engineering Notice for Newburyport:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Essex County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Clear documentation helps align materials, labor, and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Newburyport, MA, but intake notes help reduce delays.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Tile underlayment age in Newburyport, MA can fail independently of visible tile cracks.
 
-We coordinate local dispatch coverage around Newburyport, MA and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 01950 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 01950 (county grid: Essex County).
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Coastal humidity in Newburyport, MA can slow shingle seal-down after shoulder-season storms.
+
+roof service brief: ridge cap nail schedule and pipe boot manufacturer match were cross-checked for the Newburyport intake packet.
+
+On-site sector marker: Essex County / ZIP 01950 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Essex County / elevation 79 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-01950-16ce91b3

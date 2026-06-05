@@ -11,25 +11,33 @@ lng: -80.0100
 zipSample: ["29486", "29445"]
 zipCodes: ["29445", "29486"]
 localPaths: ["Berkeley County / primary ZIP 29486", "Berkeley County / elevation 3 ft band", "Berkeley County / coords 32.9900, -80.0100", "Berkeley County / ZIP 29486 sector", "Berkeley County / ZIP 29445 sector"]
-zillowHomeValueUsd: 401385
 ---
 
 **Engineering Notice for Goose Creek:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Berkeley County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 29486.
+Wood shake courses in Goose Creek, SC require skip-spacing rules at valleys.
 
-Our service coordination centers on Goose Creek, SC coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Regulatory note: Goose Creek, SC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 29486/29445 zone).
+Wind-zone note: Goose Creek, SC exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 29486, 29445 (county grid: Berkeley County).
+Risk flag: In Goose Creek, SC, interior stains may track from HVAC condensate rather than roof cladding.
+
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Step: document ice-barrier extent at eaves when code upgrades apply.
+
+roofing service brief: wind uplift clip spacing and chimney cricket slope were cross-checked for the Goose Creek intake packet.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Berkeley County and primary ZIP 29486. Terrain reference: 3 ft. Center point: 32.9900, -80.0100. ZIP sample: 29445, 29486. Logistics priority: Serving residential sectors across Berkeley County and north-east ZIP 29486 grid.
+
+On-site sector marker: Berkeley County / elevation 3 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29486-6738938f

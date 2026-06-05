@@ -11,26 +11,31 @@ lng: -76.9500
 zipSample: ["20866", "20905", "20904"]
 zipCodes: ["20905", "20904", "20866"]
 localPaths: ["Montgomery County / primary ZIP 20866", "Montgomery County / coords 39.0800, -76.9500", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20866 sector", "Montgomery County / ZIP 20905 sector"]
-zillowHomeValueUsd: 468437
 ---
 
 **Engineering Notice for Fairland:** Structural loading calculated based on 453 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Our Fairland, MD dispatch packets reference county grid Montgomery County and elevation band 453 ft.
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Fairland, MD attics should be checked against current mechanical exhaust additions.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 20866.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: stage tear-off debris paths away from landscape drains.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Fairland, MD can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 20905/20866/20904 intake.
+FAQ: When should permanent service start? In Fairland, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 20905/20866/20904.
+Parapet coping movement in Fairland, MD can channel water behind wall cladding.
 
-Dispatch sectors sampled: ZIP 20905, 20866, 20904 (county grid: Montgomery County).
+Field routing: drip-edge metal profile paired with soffit intake free area near ZIP 20866.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 20905/20904/20866.
+
+Primary postal anchor 20866 with multi-ZIP overlap in Fairland; field packets tag Montgomery County for county-grid reconciliation.
+
+On-site sector marker: Montgomery County / primary ZIP 20866 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20866-1da6576a

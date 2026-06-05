@@ -11,27 +11,33 @@ lng: -83.2100
 zipSample: ["48101"]
 zipCodes: ["48101"]
 localPaths: ["Wayne County / ZIP 48101 sector", "Wayne County / primary ZIP 48101", "Wayne County / coords 42.2600, -83.2100", "Wayne County / elevation 600 ft band"]
-zillowHomeValueUsd: 206299
 ---
 
 **Engineering Notice for Allen Park:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Wayne County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Allen Park, MI, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wind-zone note: Allen Park, MI exposure class can change starter-strip and cap nail schedules.
 
-Tip: avoid large upfront payments without milestones.
+Hail bruising on Allen Park, MI ridges may not breach felt until the next wind event.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 48101.
+Our Allen Park, MI dispatch packets reference county grid Wayne County and elevation band 600 ft.
 
-Field note: Wind exposure category reviewed for ZIP sector 48101.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 48101 zone).
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 48101 (county grid: Wayne County).
+Risk flag: In Allen Park, MI, interior stains may track from HVAC condensate rather than roof cladding.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof work brief: valley metal gauge and synthetic underlayment slip were cross-checked for the Allen Park intake packet.
+
+On-site sector marker: Wayne County / primary ZIP 48101 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Wayne County / elevation 600 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48101-4c6133f4

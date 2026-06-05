@@ -11,24 +11,31 @@ lng: -97.3600
 zipSample: ["76036"]
 zipCodes: ["76036"]
 localPaths: ["Tarrant County / elevation 771 ft band", "Tarrant County / coords 32.5800, -97.3600", "Tarrant County / primary ZIP 76036", "Tarrant County / ZIP 76036 sector"]
-zillowHomeValueUsd: 316351
 ---
 
 **Engineering Notice for Crowley:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Tarrant County.
 
 
-Our service coordination centers on Crowley, TX coverage windows and verified intake details.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Hail bruising on Crowley, TX ridges may not breach felt until the next wind event.
 
-Tip: request a written scope before work starts.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Access points and staging constraints recorded for ZIP 76036 coverage.
+Risk flag: In Crowley, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 76036 (county grid: Tarrant County).
+Code context: Ventilation ratios for Crowley, TX attics should be checked against current mechanical exhaust additions.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Field routing: starter-strip setback paired with ridge cap nail schedule near ZIP 76036.
+
+On-site sector marker: Tarrant County / primary ZIP 76036 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 32.5800, -97.3600 at elevation ~771 ft aligns with Tarrant County intake staging.
 
 Service reference: TX-76036-29f538db

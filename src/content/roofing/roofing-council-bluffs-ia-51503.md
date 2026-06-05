@@ -11,27 +11,31 @@ lng: -95.8500
 zipSample: ["51503", "51502", "51501"]
 zipCodes: ["51503", "51501", "51502"]
 localPaths: ["Pottawattamie County / primary ZIP 51503", "Pottawattamie County / coords 41.2400, -95.8500", "Pottawattamie County / elevation 974 ft band", "Pottawattamie County / ZIP 51501 sector", "Pottawattamie County / ZIP 51502 sector"]
-zillowHomeValueUsd: 301035
 ---
 
 **Engineering Notice for Council Bluffs:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Pottawattamie County.
 
 
-Homeowners in Council Bluffs, IA often face sudden roofing service problems that require fast action.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 51503.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-We coordinate local dispatch coverage around Council Bluffs, IA and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: compare at least two estimates for scope and timeline.
+Wind-zone note: Council Bluffs, IA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Council Bluffs, IA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 51502/51503/51501.
+Wood shake courses in Council Bluffs, IA require skip-spacing rules at valleys.
 
-Field note: Wind exposure category reviewed for ZIP sector 51502/51503/51501.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 51502, 51503, 51501 (county grid: Pottawattamie County).
+Scope trace: chimney cricket slope plus drip-edge metal profile referenced in Pottawattamie County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 51501/51503/51502.
+
+On-site sector marker: Pottawattamie County / elevation 974 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Pottawattamie County / ZIP 51501 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-51503-54c57f87

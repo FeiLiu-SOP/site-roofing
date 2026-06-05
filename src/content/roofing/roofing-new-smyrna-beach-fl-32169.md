@@ -11,25 +11,29 @@ lng: -80.9700
 zipSample: ["32170", "32168", "32169"]
 zipCodes: ["32170", "32169", "32168"]
 localPaths: ["Volusia County / ZIP 32169 sector", "Volusia County / primary ZIP 32169", "Volusia County / ZIP 32168 sector", "Volusia County / ZIP 32170 sector", "Volusia County / elevation 36 ft band"]
-zillowHomeValueUsd: 544107
 ---
 
 **Engineering Notice for New Smyrna Beach:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Volusia County.
 
 
-We coordinate local dispatch coverage around New Smyrna Beach, FL and nearby ZIP sectors.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 32169.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-In New Smyrna Beach, FL, urgent roof work issues can escalate quickly.
+Regulatory note: New Smyrna Beach, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: confirm licensing and insurance before approving work.
+Across New Smyrna Beach, FL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Access points and staging constraints recorded for ZIP 32169/32170/32168 coverage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 32169, 32170, 32168 (county grid: Volusia County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Scope trace: attic baffle spacing plus synthetic underlayment slip referenced in Volusia County county grid review.
+
+On-site sector marker: Volusia County / ZIP 32170 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 32169 with multi-ZIP overlap in New Smyrna Beach; field packets tag Volusia County for county-grid reconciliation.
 
 Service reference: FL-32169-570133bb

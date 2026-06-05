@@ -11,26 +11,33 @@ lng: -90.1300
 zipSample: ["62040", "62048"]
 zipCodes: ["62040", "62048"]
 localPaths: ["Madison County / coords 38.7300, -90.1300", "Madison County / ZIP 62048 sector", "Madison County / ZIP 62040 sector", "Madison County / elevation 430 ft band", "Madison County / primary ZIP 62048"]
-zillowHomeValueUsd: 74946
 ---
 
 **Engineering Notice for Granite City:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: Madison County.
 
 
-In Granite City, IL, urgent roof work issues can escalate quickly.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Granite City, IL, but intake notes help reduce delays.
+Step: map ventilation intake and exhaust pairs for Granite City, IL attic runs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-We coordinate local dispatch coverage around Granite City, IL and nearby ZIP sectors.
+Wind-zone note: Granite City, IL exposure class can change starter-strip and cap nail schedules.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Connection points spot-checked where accessible (ZIP 62048/62040 zone).
+Parapet coping movement in Granite City, IL can channel water behind wall cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 62048/62040.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 62048, 62040 (county grid: Madison County).
+Tip: Note recent wind events when filing insurance photos for Granite City, IL.
+
+roof work brief: valley metal gauge and attic baffle spacing were cross-checked for the Granite City intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 62040/62048.
+
+On-site sector marker: Madison County / primary ZIP 62048 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 38.7300, -90.1300 at elevation ~430 ft aligns with Madison County intake staging.
 
 Service reference: IL-62048-fb45784f

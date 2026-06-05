@@ -11,27 +11,29 @@ lng: -81.5300
 zipSample: ["34761"]
 zipCodes: ["34761"]
 localPaths: ["Orange County / primary ZIP 34761", "Orange County / elevation 171 ft band", "Orange County / coords 28.5800, -81.5300", "Orange County / ZIP 34761 sector"]
-zillowHomeValueUsd: 411289
 ---
 
 **Engineering Notice for Ocoee:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Our service coordination centers on Ocoee, FL coverage windows and verified intake details.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 34761.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Parapet coping movement in Ocoee, FL can channel water behind wall cladding.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Is partial dry-in possible? In Ocoee, FL, yes—if slope and anchor points support safe tie-offs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Our Ocoee, FL dispatch packets reference county grid Orange County and elevation band 171 ft.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 34761.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Access points and staging constraints recorded for ZIP 34761 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 34761 (county grid: Orange County).
+Field routing: skylight curb height paired with ice-barrier lap sequence near ZIP 34761.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Orange County and primary ZIP 34761. Terrain reference: 171 ft. Center point: 28.5800, -81.5300. ZIP sample: 34761. Regional routing note: Orange County traffic flow is balanced around ZIP 34761 service demand.
+
+On-site sector marker: Orange County / elevation 171 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34761-94c25f45

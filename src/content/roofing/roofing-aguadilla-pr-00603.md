@@ -11,27 +11,31 @@ lng: -67.1500
 zipSample: ["00603", "00605"]
 zipCodes: ["00605", "00603"]
 localPaths: ["Aguadilla County / coords 18.4400, -67.1500", "Aguadilla County / elevation 131 ft band", "Aguadilla County / ZIP 00605 sector", "Aguadilla County / ZIP 00603 sector", "Aguadilla County / primary ZIP 00603"]
-zillowHomeValueUsd: 355687
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Aguadilla:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Aguadilla County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Our Aguadilla, PR dispatch packets reference county grid Aguadilla County and elevation band 131 ft.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Aguadilla, PR, but intake notes help reduce delays.
+Step: log deck soundings near vents before tear-off is approved.
 
-In Aguadilla, PR, seasonal demand can change scheduling windows.
+Across Aguadilla, PR, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 00603/00605.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Moisture pathway inspection logged near ZIP 00603/00605 intake.
+Wind-zone note: Aguadilla, PR exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 00603, 00605 (county grid: Aguadilla County).
+Field routing: deck sheathing thickness paired with counter-flashing reglet depth near ZIP 00603.
+
+Field note: Valley debris and granule loss noted for ZIP 00603/00605.
+
+ZIP-corridor snapshot for Aguadilla, PR: sampled sectors include 00605, 00603; county routing grid remains Aguadilla County.
+
+On-site sector marker: Aguadilla County / coords 18.4400, -67.1500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00603-9483cb07

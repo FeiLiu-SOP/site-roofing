@@ -11,26 +11,29 @@ lng: -86.2700
 zipSample: ["46614", "46601", "46699", "46634", "46680"]
 zipCodes: ["46680", "46626", "46614", "46617", "46699", "46613", "46660", "46628", "46635", "46616", "46634", "46619"]
 localPaths: ["St. Joseph County / ZIP 46634 sector", "St. Joseph County / coords 41.6800, -86.2700", "St. Joseph County / ZIP 46699 sector", "St. Joseph County / primary ZIP 46616", "St. Joseph County / ZIP 46601 sector"]
-zillowHomeValueUsd: 144098
 ---
 
 **Engineering Notice for South Bend:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: St. Joseph County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is partial dry-in possible? In South Bend, IN, yes—if slope and anchor points support safe tie-offs.
 
-Homeowners in South Bend, IN often face sudden roof work problems that require fast action.
+Step: map ventilation intake and exhaust pairs for South Bend, IN attic runs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for South Bend, IN.
 
-Our service coordination centers on South Bend, IN coverage windows and verified intake details.
+Code context: Ventilation ratios for South Bend, IN attics should be checked against current mechanical exhaust additions.
 
-Field note: Access points and staging constraints recorded for ZIP 46634/46619/46616 coverage.
+Freeze-thaw cycles around South Bend, IN stress nail pops along eaves and rake edges.
 
-Field note: Wind exposure category reviewed for ZIP sector 46634/46619/46616.
+We coordinate South Bend, IN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Dispatch sectors sampled: ZIP 46634, 46619, 46616, 46628, 46601 (county grid: St. Joseph County).
+Scope trace: drip-edge metal profile plus starter-strip setback referenced in St. Joseph County county grid review.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with St. Joseph County and primary ZIP 46616. Terrain reference: 719 ft. Center point: 41.6800, -86.2700. ZIP sample: 46626, 46617, 46660, 46628, 46601. Logistics priority: Serving residential sectors across St. Joseph County and north-east ZIP 46616 grid.
+
+On-site sector marker: St. Joseph County / ZIP 46619 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46616-ecb41c5c

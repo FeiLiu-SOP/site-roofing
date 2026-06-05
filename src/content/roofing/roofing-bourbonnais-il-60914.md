@@ -11,24 +11,31 @@ lng: -87.8800
 zipSample: ["60914"]
 zipCodes: ["60914"]
 localPaths: ["Kankakee County / elevation 696 ft band", "Kankakee County / ZIP 60914 sector", "Kankakee County / primary ZIP 60914", "Kankakee County / coords 41.1800, -87.8800"]
-zillowHomeValueUsd: 293381
 ---
 
 **Engineering Notice for Bourbonnais:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Kankakee County.
 
 
-Tip: avoid large upfront payments without milestones.
+Code context: Ventilation ratios for Bourbonnais, IL attics should be checked against current mechanical exhaust additions.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Metal panel oil-canning in Bourbonnais, IL may signal clip spacing issues, not wind damage alone.
 
-Tip: request a written scope before work starts.
+FAQ: Can you tarp only part of the roof? In Bourbonnais, IL, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Bourbonnais, IL, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Bourbonnais, IL can fail independently of visible tile cracks.
 
-Our service coordination centers on Bourbonnais, IL coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 60914.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 60914 (county grid: Kankakee County).
+Step: compare shingle manufacturer wind-zone ratings for Bourbonnais, IL exposure class.
+
+roof work brief: chimney cricket slope and valley metal gauge were cross-checked for the Bourbonnais intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 60914.
+
+Primary postal anchor 60914 with multi-ZIP overlap in Bourbonnais; field packets tag Kankakee County for county-grid reconciliation.
+
+On-site sector marker: Kankakee County / ZIP 60914 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60914-917f800a

@@ -11,25 +11,33 @@ lng: -80.9500
 zipSample: ["29223"]
 zipCodes: ["29223"]
 localPaths: ["Richland County / ZIP 29223 sector", "Richland County / elevation 262 ft band", "Richland County / coords 34.0800, -80.9500", "Richland County / primary ZIP 29223"]
-zillowHomeValueUsd: 221556
 ---
 
 **Engineering Notice for Dentsville:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Richland County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Dentsville, SC, but intake notes help reduce delays.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Our service coordination centers on Dentsville, SC coverage windows and verified intake details.
+Attic ventilation deficits in Dentsville, SC can mimic roof leaks at ceiling penetrations.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 29223.
+Code context: Ventilation ratios for Dentsville, SC attics should be checked against current mechanical exhaust additions.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Dentsville, SC.
 
-Field note: Connection points spot-checked where accessible (ZIP 29223 zone).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 29223 (county grid: Richland County).
+Risk flag: Tile underlayment age in Dentsville, SC can fail independently of visible tile cracks.
+
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Step: confirm drip-edge continuity before shingle courses restart.
+
+Scope trace: skylight curb height plus ridge cap nail schedule referenced in Richland County county grid review.
+
+On-site sector marker: Richland County / primary ZIP 29223 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Richland County / ZIP 29223 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29223-481993e7

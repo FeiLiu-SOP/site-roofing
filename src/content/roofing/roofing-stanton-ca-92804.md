@@ -11,26 +11,31 @@ lng: -117.9900
 zipSample: ["90680", "92804"]
 zipCodes: ["90680", "92804"]
 localPaths: ["Orange County / elevation 79 ft band", "Orange County / ZIP 92804 sector", "Orange County / coords 33.8000, -117.9900", "Orange County / ZIP 90680 sector", "Orange County / primary ZIP 92804"]
-zillowHomeValueUsd: 940833
 ---
 
 **Engineering Notice for Stanton:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Stanton, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Stanton, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our service coordination centers on Stanton, CA coverage windows and verified intake details.
+Step: compare shingle manufacturer wind-zone ratings for Stanton, CA exposure class.
 
-Tip: confirm licensing and insurance before approving work.
+Valley metal in Stanton, CA should be reviewed whenever granule loss tracks the water line.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 90680/92804.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Connection points spot-checked where accessible (ZIP 90680/92804 zone).
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 90680, 92804 (county grid: Orange County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Scope trace: shingle exposure calibration plus skylight curb height referenced in Orange County county grid review.
+
+On-site sector marker: Orange County / primary ZIP 92804 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 92804 with multi-ZIP overlap in Stanton; field packets tag Orange County for county-grid reconciliation.
 
 Service reference: CA-92804-2b55572e

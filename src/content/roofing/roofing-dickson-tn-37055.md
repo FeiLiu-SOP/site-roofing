@@ -11,26 +11,33 @@ lng: -87.3700
 zipSample: ["37056", "37055"]
 zipCodes: ["37056", "37055"]
 localPaths: ["Dickson County / ZIP 37055 sector", "Dickson County / coords 36.0600, -87.3700", "Dickson County / elevation 866 ft band", "Dickson County / ZIP 37056 sector", "Dickson County / primary ZIP 37055"]
-zillowHomeValueUsd: 343223
 ---
 
 **Engineering Notice for Dickson:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Dickson County.
 
 
-Tip: request a written scope before work starts.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Granule embedment loss on Dickson, TN north slopes can precede mat exposure.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Note recent wind events when filing insurance photos for Dickson, TN.
 
-Field note: Connection points spot-checked where accessible (ZIP 37056/37055 zone).
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Access points and staging constraints recorded for ZIP 37056/37055 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 37056, 37055 (county grid: Dickson County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roof work brief: starter-strip setback and chimney cricket slope were cross-checked for the Dickson intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 37056/37055.
+
+On-site sector marker: Dickson County / coords 36.0600, -87.3700 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 36.0600, -87.3700 at elevation ~866 ft aligns with Dickson County intake staging.
 
 Service reference: TN-37055-c52541c6

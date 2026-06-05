@@ -11,27 +11,33 @@ lng: -95.4700
 zipSample: ["77545"]
 zipCodes: ["77545"]
 localPaths: ["Fort Bend County / coords 29.5400, -95.4700", "Fort Bend County / primary ZIP 77545", "Fort Bend County / elevation 89 ft band", "Fort Bend County / ZIP 77545 sector"]
-zillowHomeValueUsd: 280247
 ---
 
 **Engineering Notice for Fresno:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Fort Bend County.
 
 
-Tip: confirm licensing and insurance before approving work.
+In Fresno, TX, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: compare shingle manufacturer wind-zone ratings for Fresno, TX exposure class.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 77545.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 77545 coverage.
+Material note: In Fresno, TX, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Wind exposure category reviewed for ZIP sector 77545.
+Our Fresno, TX dispatch packets reference county grid Fort Bend County and elevation band 89 ft.
 
-Dispatch sectors sampled: ZIP 77545 (county grid: Fort Bend County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+roof work brief: soffit intake free area and chimney cricket slope were cross-checked for the Fresno intake packet.
+
+ZIP-corridor snapshot for Fresno, TX: sampled sectors include 77545; county routing grid remains Fort Bend County.
+
+On-site sector marker: Fort Bend County / primary ZIP 77545 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77545-a92609d7

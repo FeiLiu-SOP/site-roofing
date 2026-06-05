@@ -11,24 +11,35 @@ lng: -93.0600
 zipSample: ["55076", "55077"]
 zipCodes: ["55077", "55076"]
 localPaths: ["Dakota County / coords 44.8200, -93.0600", "Dakota County / ZIP 55076 sector", "Dakota County / primary ZIP 55077", "Dakota County / elevation 915 ft band", "Dakota County / ZIP 55077 sector"]
-zillowHomeValueUsd: 563382
 ---
 
 **Engineering Notice for Inver Grove Heights:** Structural loading calculated based on 915 ft terrain assessment. Regional dispatch grid: Dakota County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: request a written scope before work starts.
+Code context: Ventilation ratios for Inver Grove Heights, MN attics should be checked against current mechanical exhaust additions.
 
-Our service coordination centers on Inver Grove Heights, MN coverage windows and verified intake details.
+Risk flag: Tile underlayment age in Inver Grove Heights, MN can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Inver Grove Heights, MN, but intake notes help reduce delays.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 55077/55076.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 55077, 55076 (county grid: Dakota County).
+Our Inver Grove Heights, MN dispatch packets reference county grid Dakota County and elevation band 915 ft.
+
+Freeze-thaw cycles around Inver Grove Heights, MN stress nail pops along eaves and rake edges.
+
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
+
+Field routing: counter-flashing reglet depth paired with synthetic underlayment slip near ZIP 55077.
+
+Field note: Valley debris and granule loss noted for ZIP 55077/55076.
+
+ZIP-corridor snapshot for Inver Grove Heights, MN: sampled sectors include 55076, 55077; county routing grid remains Dakota County.
+
+On-site sector marker: Dakota County / elevation 915 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55077-48a86ef8

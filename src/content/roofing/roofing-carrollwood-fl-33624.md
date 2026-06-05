@@ -11,24 +11,31 @@ lng: -82.5100
 zipSample: ["33618", "33688", "33624"]
 zipCodes: ["33688", "33624", "33618"]
 localPaths: ["Hillsborough County / primary ZIP 33624", "Hillsborough County / ZIP 33618 sector", "Hillsborough County / ZIP 33688 sector", "Hillsborough County / ZIP 33624 sector", "Hillsborough County / elevation 69 ft band"]
-zillowHomeValueUsd: 410806
 ---
 
 **Engineering Notice for Carrollwood:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Hillsborough County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: How long can shingles wait after storm damage? In Carrollwood, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Homeowners in Carrollwood, FL often face sudden roof service problems that require fast action.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-We coordinate local dispatch coverage around Carrollwood, FL and nearby ZIP sectors.
+Hail bruising on Carrollwood, FL ridges may not breach felt until the next wind event.
 
-Tip: request a written scope before work starts.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Moisture pathway inspection logged near ZIP 33624/33618/33688 intake.
+Material note: In Carrollwood, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 33624, 33618, 33688 (county grid: Hillsborough County).
+Wind-zone note: Carrollwood, FL exposure class can change starter-strip and cap nail schedules.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: attic baffle spacing paired with counter-flashing reglet depth near ZIP 33624.
+
+Regional mesh label Hillsborough County: moisture and logistics baselines are keyed to Carrollwood, FL before niche-specific work begins.
+
+On-site sector marker: Hillsborough County / ZIP 33688 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33624-06004e13

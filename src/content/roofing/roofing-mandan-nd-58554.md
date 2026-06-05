@@ -11,26 +11,31 @@ lng: -100.8900
 zipSample: ["58554"]
 zipCodes: ["58554"]
 localPaths: ["Morton County / ZIP 58554 sector", "Morton County / primary ZIP 58554", "Morton County / elevation 1650 ft band", "Morton County / coords 46.8300, -100.8900"]
-zillowHomeValueUsd: 341732
 ---
 
 **Engineering Notice for Mandan:** Structural loading calculated based on 1650 ft terrain assessment. Regional dispatch grid: Morton County.
 
 
-Tip: confirm licensing and insurance before approving work.
+We coordinate Mandan, ND roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Mandan, ND attics should be checked against current mechanical exhaust additions.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Synthetic underlayment slip in Mandan, ND is often tied to deck moisture, not wind alone.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Note recent wind events when filing insurance photos for Mandan, ND.
 
-Field note: Access points and staging constraints recorded for ZIP 58554 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 58554 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 58554 (county grid: Morton County).
+roof service brief: pipe boot manufacturer match and soffit intake free area were cross-checked for the Mandan intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 58554.
+
+Coordinate-anchored dispatch note: center reference 46.8300, -100.8900 at elevation ~1650 ft aligns with Morton County intake staging.
+
+On-site sector marker: Morton County / coords 46.8300, -100.8900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ND-58554-ca5743c8

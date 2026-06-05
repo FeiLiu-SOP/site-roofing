@@ -11,26 +11,33 @@ lng: -90.5500
 zipSample: ["63022", "63011", "63024", "63021"]
 zipCodes: ["63021", "63022", "63024", "63011"]
 localPaths: ["St. Louis County / ZIP 63011 sector", "St. Louis County / elevation 620 ft band", "St. Louis County / coords 38.5900, -90.5500", "St. Louis County / ZIP 63022 sector", "St. Louis County / ZIP 63021 sector"]
-zillowHomeValueUsd: 386280
 ---
 
 **Engineering Notice for Ballwin:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-We coordinate local dispatch coverage around Ballwin, MO and nearby ZIP sectors.
+Code context: Ventilation ratios for Ballwin, MO attics should be checked against current mechanical exhaust additions.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Hail bruising on Ballwin, MO ridges may not breach felt until the next wind event.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Moisture pathway inspection logged near ZIP 63011/63022/63021 intake.
+FAQ: Can you tarp only part of the roof? In Ballwin, MO, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 63011/63022/63021 coverage.
+Tile and shingle mixes in Ballwin, MO require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 63011, 63022, 63021, 63024 (county grid: St. Louis County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Tip: Note recent wind events when filing insurance photos for Ballwin, MO.
+
+roofing service brief: valley metal gauge and soffit intake free area were cross-checked for the Ballwin intake packet.
+
+On-site sector marker: St. Louis County / ZIP 63024 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: St. Louis County / ZIP 63022 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63021-f80aa441

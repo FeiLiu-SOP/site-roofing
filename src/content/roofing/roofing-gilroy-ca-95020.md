@@ -11,24 +11,33 @@ lng: -121.5900
 zipSample: ["95020"]
 zipCodes: ["95020"]
 localPaths: ["Santa Clara County / ZIP 95020 sector", "Santa Clara County / coords 37.0000, -121.5900", "Santa Clara County / elevation 210 ft band", "Santa Clara County / primary ZIP 95020"]
-zillowHomeValueUsd: 1080089
 ---
 
 **Engineering Notice for Gilroy:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Santa Clara County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-In Gilroy, CA, urgent roof work issues can escalate quickly.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Transparent pricing helps you compare like-for-like scope items.
+Regulatory note: Gilroy, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 95020 zone).
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 95020 (county grid: Santa Clara County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Attic ventilation deficits in Gilroy, CA can mimic roof leaks at ceiling penetrations.
+
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+roof work brief: attic baffle spacing and counter-flashing reglet depth were cross-checked for the Gilroy intake packet.
+
+Regional mesh label Santa Clara County: moisture and logistics baselines are keyed to Gilroy, CA before niche-specific work begins.
+
+Primary postal anchor 95020 with multi-ZIP overlap in Gilroy; field packets tag Santa Clara County for county-grid reconciliation.
 
 Service reference: CA-95020-ecd3c312

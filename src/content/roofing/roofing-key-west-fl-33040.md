@@ -11,25 +11,33 @@ lng: -81.7800
 zipSample: ["33045", "33040", "33041"]
 zipCodes: ["33040", "33041", "33045"]
 localPaths: ["Monroe County / coords 24.5600, -81.7800", "Monroe County / ZIP 33040 sector", "Monroe County / elevation 10 ft band", "Monroe County / ZIP 33045 sector", "Monroe County / ZIP 33041 sector"]
-zillowHomeValueUsd: 959837
 ---
 
 **Engineering Notice for Key West:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Monroe County.
 
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is partial dry-in possible? In Key West, FL, yes—if slope and anchor points support safe tie-offs.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33040.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+In Key West, FL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Our service coordination centers on Key West, FL coverage windows and verified intake details.
+Code context: Ventilation ratios for Key West, FL attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 33041/33045/33040.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 33041, 33045, 33040 (county grid: Monroe County).
+We coordinate Key West, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
+
+Step: map ventilation intake and exhaust pairs for Key West, FL attic runs.
+
+Scope trace: skylight curb height plus deck sheathing thickness referenced in Monroe County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 33041/33045/33040.
+
+ZIP-corridor snapshot for Key West, FL: sampled sectors include 33040, 33041, 33045; county routing grid remains Monroe County.
+
+On-site sector marker: Monroe County / elevation 10 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33040-3b135ca3

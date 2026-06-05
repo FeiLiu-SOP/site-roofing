@@ -11,24 +11,29 @@ lng: -95.7000
 zipSample: ["66647", "66604", "66616", "66601", "66612"]
 zipCodes: ["66683", "66606", "66624", "66667", "66611", "66605", "66625", "66647", "66601", "66621", "66619", "66609"]
 localPaths: ["Shawnee County / ZIP 66647 sector", "Shawnee County / ZIP 66604 sector", "Shawnee County / elevation 958 ft band", "Shawnee County / ZIP 66612 sector", "Shawnee County / coords 39.0300, -95.7000"]
-zillowHomeValueUsd: 233907
 ---
 
 **Engineering Notice for Topeka:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Shawnee County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Wood shake courses in Topeka, KS require skip-spacing rules at valleys.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 66699/66606/66604.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 66699, 66606, 66604, 66605, 66622 (county grid: Shawnee County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: wind uplift clip spacing paired with shingle exposure calibration near ZIP 66621.
+
+Regional mesh label Shawnee County: moisture and logistics baselines are keyed to Topeka, KS before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 39.0300, -95.7000 at elevation ~958 ft aligns with Shawnee County intake staging.
 
 Service reference: KS-66621-668b7b7d

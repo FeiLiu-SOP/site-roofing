@@ -11,24 +11,29 @@ lng: -87.6600
 zipSample: ["60430"]
 zipCodes: ["60430"]
 localPaths: ["Cook County / elevation 669 ft band", "Cook County / coords 41.5600, -87.6600", "Cook County / ZIP 60430 sector", "Cook County / primary ZIP 60430"]
-zillowHomeValueUsd: 243512
 ---
 
 **Engineering Notice for Homewood:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-In Homewood, IL, urgent roofing service issues can escalate quickly.
+Granule embedment loss on Homewood, IL north slopes can precede mat exposure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Our Homewood, IL dispatch packets reference county grid Cook County and elevation band 669 ft.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Homewood, IL, but intake notes help reduce delays.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60430.
+Regulatory note: Homewood, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 60430 (county grid: Cook County).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60430.
+
+roofing service brief: pipe boot manufacturer match and shingle exposure calibration were cross-checked for the Homewood intake packet.
+
+On-site sector marker: Cook County / primary ZIP 60430 — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 60430 with multi-ZIP overlap in Homewood; field packets tag Cook County for county-grid reconciliation.
 
 Service reference: IL-60430-f0c4859f

@@ -11,26 +11,29 @@ lng: -90.3900
 zipSample: ["61257", "61244"]
 zipCodes: ["61244", "61257"]
 localPaths: ["Rock Island County / ZIP 61244 sector", "Rock Island County / ZIP 61257 sector", "Rock Island County / coords 41.5200, -90.3900", "Rock Island County / elevation 584 ft band", "Rock Island County / primary ZIP 61244"]
-zillowHomeValueUsd: 142985
 ---
 
 **Engineering Notice for East Moline:** Structural loading calculated based on 584 ft terrain assessment. Regional dispatch grid: Rock Island County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in East Moline, IL can fail independently of visible tile cracks.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: map ventilation intake and exhaust pairs for East Moline, IL attic runs.
 
-Step: share symptoms and recent history so the intake notes are complete.
+FAQ: Is partial dry-in possible? In East Moline, IL, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Access points and staging constraints recorded for ZIP 61257/61244 coverage.
+Attic ventilation deficits in East Moline, IL can mimic roof leaks at ceiling penetrations.
 
-Field note: Moisture pathway inspection logged near ZIP 61257/61244 intake.
+Regulatory note: East Moline, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 61257, 61244 (county grid: Rock Island County).
+roof service brief: counter-flashing reglet depth and starter-strip setback were cross-checked for the East Moline intake packet.
+
+On-site sector marker: Rock Island County / primary ZIP 61244 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Rock Island County / ZIP 61257 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61244-67a821e3

@@ -11,24 +11,31 @@ lng: -79.2700
 zipSample: ["27302"]
 zipCodes: ["27302"]
 localPaths: ["Alamance County / coords 36.0900, -79.2700", "Alamance County / elevation 705 ft band", "Alamance County / primary ZIP 27302", "Alamance County / ZIP 27302 sector"]
-zillowHomeValueUsd: 353190
 ---
 
 **Engineering Notice for Mebane:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Alamance County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: address recurring issues early to prevent bigger damage.
+Granule embedment loss on Mebane, NC north slopes can precede mat exposure.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mebane, NC, but intake notes help reduce delays.
+Regulatory note: Mebane, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-In Mebane, NC, urgent roof service issues can escalate quickly.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-We coordinate local dispatch coverage around Mebane, NC and nearby ZIP sectors.
+We coordinate Mebane, NC roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Moisture pathway inspection logged near ZIP 27302 intake.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 27302 (county grid: Alamance County).
+FAQ: How long can shingles wait after storm damage? In Mebane, NC, delayed dry-in can expand insulation and ceiling repairs.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Scope trace: ice-barrier lap sequence plus counter-flashing reglet depth referenced in Alamance County county grid review.
+
+On-site sector marker: Alamance County / ZIP 27302 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 27302 with multi-ZIP overlap in Mebane; field packets tag Alamance County for county-grid reconciliation.
 
 Service reference: NC-27302-dc41a326

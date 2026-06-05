@@ -11,24 +11,33 @@ lng: -83.9400
 zipSample: ["45385"]
 zipCodes: ["45385"]
 localPaths: ["Greene County / elevation 925 ft band", "Greene County / coords 39.6800, -83.9400", "Greene County / ZIP 45385 sector", "Greene County / primary ZIP 45385"]
-zillowHomeValueUsd: 253853
 ---
 
 **Engineering Notice for Xenia:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Greene County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+In Xenia, OH, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-A written scope helps prevent rework and mismatched expectations.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-We coordinate local dispatch coverage around Xenia, OH and nearby ZIP sectors.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Tip: request a written scope before work starts.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Connection points spot-checked where accessible (ZIP 45385 zone).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 45385 (county grid: Greene County).
+Regulatory note: Xenia, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Risk flag: In Xenia, OH, interior stains may track from HVAC condensate rather than roof cladding.
+
+roof work brief: deck sheathing thickness and soffit intake free area were cross-checked for the Xenia intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 45385.
+
+Primary postal anchor 45385 with multi-ZIP overlap in Xenia; field packets tag Greene County for county-grid reconciliation.
+
+On-site sector marker: Greene County / primary ZIP 45385 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45385-f8417776

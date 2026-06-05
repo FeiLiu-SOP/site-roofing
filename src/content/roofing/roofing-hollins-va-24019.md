@@ -11,27 +11,31 @@ lng: -79.9500
 zipSample: ["24019", "24050", "24020"]
 zipCodes: ["24050", "24019", "24020"]
 localPaths: ["Roanoke County / elevation 1112 ft band", "Roanoke County / ZIP 24020 sector", "Roanoke County / coords 37.3400, -79.9500", "Roanoke County / ZIP 24050 sector", "Roanoke County / primary ZIP 24019"]
-zillowHomeValueUsd: 306176
 ---
 
 **Engineering Notice for Hollins:** Structural loading calculated based on 1112 ft terrain assessment. Regional dispatch grid: Roanoke County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 24019.
+Material note: In Hollins, VA, algae-resistant granules may be specified for north-facing slopes.
 
-We coordinate local dispatch coverage around Hollins, VA and nearby ZIP sectors.
+We coordinate Hollins, VA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Homeowners in Hollins, VA often face sudden roof service problems that require fast action.
+In Hollins, VA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: avoid large upfront payments without milestones.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 24050/24019/24020 coverage.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 24050/24019/24020.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Dispatch sectors sampled: ZIP 24050, 24019, 24020 (county grid: Roanoke County).
+FAQ: When should permanent restoration start? In Hollins, VA, delayed dry-in can expand insulation and ceiling repairs.
+
+roof service brief: starter-strip setback and ice-barrier lap sequence were cross-checked for the Hollins intake packet.
+
+Regional mesh label Roanoke County: moisture and logistics baselines are keyed to Hollins, VA before niche-specific work begins.
+
+On-site sector marker: Roanoke County / primary ZIP 24019 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-24019-1db17b91

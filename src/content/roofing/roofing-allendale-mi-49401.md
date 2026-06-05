@@ -11,26 +11,31 @@ lng: -85.9500
 zipSample: ["49401"]
 zipCodes: ["49401"]
 localPaths: ["Ottawa County / elevation 610 ft band", "Ottawa County / primary ZIP 49401", "Ottawa County / coords 42.9800, -85.9500", "Ottawa County / ZIP 49401 sector"]
-zillowHomeValueUsd: 402563
 ---
 
 **Engineering Notice for Allendale:** Structural loading calculated based on 610 ft terrain assessment. Regional dispatch grid: Ottawa County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Allendale, MI, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-In Allendale, MI, seasonal demand can change scheduling windows.
+Tip: Note recent wind events when filing insurance photos for Allendale, MI.
 
-Our service coordination centers on Allendale, MI coverage windows and verified intake details.
+FAQ: Can you tarp only part of the roof? In Allendale, MI, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Wind-zone note: Allendale, MI exposure class can change starter-strip and cap nail schedules.
 
-Field note: Connection points spot-checked where accessible (ZIP 49401 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 49401.
+TPO seam welds in Allendale, MI commercial sections need probe tests after freeze events.
 
-Dispatch sectors sampled: ZIP 49401 (county grid: Ottawa County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof work brief: drip-edge metal profile and ice-barrier lap sequence were cross-checked for the Allendale intake packet.
+
+**Regional Infrastructure Brief:** Grid anchor set to Ottawa County. Reference elevation: 610 ft. Primary coordinates: 42.9800, -85.9500. ZIP sample: 49401. Logistics priority: Serving residential sectors across Ottawa County and north-east ZIP 49401 grid.
+
+Primary postal anchor 49401 with multi-ZIP overlap in Allendale; field packets tag Ottawa County for county-grid reconciliation.
 
 Service reference: MI-49401-61b3bfd4

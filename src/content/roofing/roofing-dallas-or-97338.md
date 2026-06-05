@@ -11,24 +11,29 @@ lng: -123.3100
 zipSample: ["97338"]
 zipCodes: ["97338"]
 localPaths: ["Polk County / primary ZIP 97338", "Polk County / ZIP 97338 sector", "Polk County / coords 44.9200, -123.3100", "Polk County / elevation 322 ft band"]
-zillowHomeValueUsd: 473404
 ---
 
 **Engineering Notice for Dallas:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Polk County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: request a written scope before work starts.
+Wind-zone note: Dallas, OR exposure class can change starter-strip and cap nail schedules.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: address recurring issues early to prevent bigger damage.
+We coordinate Dallas, OR roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Our service coordination centers on Dallas, OR coverage windows and verified intake details.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Field note: Access points and staging constraints recorded for ZIP 97338 coverage.
+Metal panel oil-canning in Dallas, OR may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 97338 (county grid: Polk County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Scope trace: deck sheathing thickness plus valley metal gauge referenced in Polk County county grid review.
+
+Regional mesh label Polk County: moisture and logistics baselines are keyed to Dallas, OR before niche-specific work begins.
+
+On-site sector marker: Polk County / primary ZIP 97338 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97338-f14033e4

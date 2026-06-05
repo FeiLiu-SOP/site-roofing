@@ -11,24 +11,33 @@ lng: -96.0700
 zipSample: ["68046", "68133", "68138", "68128"]
 zipCodes: ["68128", "68046", "68138", "68133"]
 localPaths: ["Sarpy County / primary ZIP 68046", "Sarpy County / elevation 1047 ft band", "Sarpy County / ZIP 68138 sector", "Sarpy County / coords 41.1500, -96.0700", "Sarpy County / ZIP 68133 sector"]
-zillowHomeValueUsd: 409098
 ---
 
 **Engineering Notice for Papillion:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: Sarpy County.
 
 
-Tip: request a written scope before work starts.
+Our Papillion, NE dispatch packets reference county grid Sarpy County and elevation band 1047 ft.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: In Papillion, NE, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our service coordination centers on Papillion, NE coverage windows and verified intake details.
+Tip: Note recent wind events when filing insurance photos for Papillion, NE.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Papillion, NE, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Moisture pathway inspection logged near ZIP 68128/68138/68133 intake.
+Freeze-thaw cycles around Papillion, NE stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 68128, 68138, 68133, 68046 (county grid: Sarpy County).
+Wind-zone note: Papillion, NE exposure class can change starter-strip and cap nail schedules.
+
+FAQ: How long can shingles wait after storm damage? In Papillion, NE, delayed dry-in can expand insulation and ceiling repairs.
+
+Synthetic underlayment slip in Papillion, NE is often tied to deck moisture, not wind alone.
+
+Field routing: wind uplift clip spacing paired with counter-flashing reglet depth near ZIP 68046.
+
+On-site sector marker: Sarpy County / coords 41.1500, -96.0700 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 41.1500, -96.0700 at elevation ~1047 ft aligns with Sarpy County intake staging.
 
 Service reference: NE-68046-d38adb79

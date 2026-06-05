@@ -11,26 +11,33 @@ lng: -98.3300
 zipSample: ["78574", "78572"]
 zipCodes: ["78572", "78574"]
 localPaths: ["Hidalgo County / ZIP 78572 sector", "Hidalgo County / primary ZIP 78574", "Hidalgo County / ZIP 78574 sector", "Hidalgo County / elevation 125 ft band", "Hidalgo County / coords 26.2000, -98.3300"]
-zillowHomeValueUsd: 196726
 ---
 
 **Engineering Notice for Mission:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Hidalgo County.
 
 
-We coordinate local dispatch coverage around Mission, TX and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Across Mission, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Mission, TX, but intake notes help reduce delays.
+Metal panel oil-canning in Mission, TX may signal clip spacing issues, not wind damage alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map ventilation intake and exhaust pairs for Mission, TX attic runs.
 
-Field note: Connection points spot-checked where accessible (ZIP 78572/78574 zone).
+Code context: Ventilation ratios for Mission, TX attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 78572/78574.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 78572, 78574 (county grid: Hidalgo County).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
+
+Tip: Note recent wind events when filing insurance photos for Mission, TX.
+
+roof service brief: ice-barrier lap sequence and deck sheathing thickness were cross-checked for the Mission intake packet.
+
+Primary postal anchor 78574 with multi-ZIP overlap in Mission; field packets tag Hidalgo County for county-grid reconciliation.
+
+On-site sector marker: Hidalgo County / ZIP 78572 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78574-b30aa04e

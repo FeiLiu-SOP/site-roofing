@@ -11,25 +11,29 @@ lng: -71.3900
 zipSample: ["02863"]
 zipCodes: ["02863"]
 localPaths: ["Providence County / elevation 102 ft band", "Providence County / ZIP 02863 sector", "Providence County / primary ZIP 02863", "Providence County / coords 41.8900, -71.3900"]
-zillowHomeValueUsd: 377662
 ---
 
 **Engineering Notice for Central Falls:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Providence County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: In Central Falls, RI, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Central Falls, RI, but intake notes help reduce delays.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Hail bruising on Central Falls, RI ridges may not breach felt until the next wind event.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 02863.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Connection points spot-checked where accessible (ZIP 02863 zone).
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 02863 (county grid: Providence County).
+Code context: Ventilation ratios for Central Falls, RI attics should be checked against current mechanical exhaust additions.
+
+Scope trace: synthetic underlayment slip plus valley metal gauge referenced in Providence County county grid review.
+
+Regional mesh label Providence County: moisture and logistics baselines are keyed to Central Falls, RI before niche-specific work begins.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~102 ft across the Providence County area. Coordinates: 41.8900, -71.3900. ZIP sample: 02863. Service perimeter note: Coverage extends through Providence County with dispatch centered near ZIP 02863.
 
 Service reference: RI-02863-7b539d65

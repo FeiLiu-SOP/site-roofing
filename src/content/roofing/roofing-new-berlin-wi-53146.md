@@ -11,26 +11,35 @@ lng: -88.1300
 zipSample: ["53151", "53146"]
 zipCodes: ["53151", "53146"]
 localPaths: ["Waukesha County / ZIP 53151 sector", "Waukesha County / ZIP 53146 sector", "Waukesha County / primary ZIP 53146", "Waukesha County / elevation 886 ft band", "Waukesha County / coords 42.9700, -88.1300"]
-zillowHomeValueUsd: 441060
 ---
 
 **Engineering Notice for New Berlin:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Waukesha County.
 
 
-We coordinate local dispatch coverage around New Berlin, WI and nearby ZIP sectors.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Homeowners in New Berlin, WI often face sudden roof service problems that require fast action.
+Regulatory note: New Berlin, WI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: In New Berlin, WI, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Note recent wind events when filing insurance photos for New Berlin, WI.
 
-Field note: Moisture pathway inspection logged near ZIP 53146/53151 intake.
+Wood shake courses in New Berlin, WI require skip-spacing rules at valleys.
 
-Field note: Wind exposure category reviewed for ZIP sector 53146/53151.
+Step: compare shingle manufacturer wind-zone ratings for New Berlin, WI exposure class.
 
-Dispatch sectors sampled: ZIP 53146, 53151 (county grid: Waukesha County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: ice-barrier lap sequence paired with chimney cricket slope near ZIP 53146.
+
+Field note: Shingle seal-down timing logged near ZIP 53146/53151.
+
+On-site sector marker: Waukesha County / ZIP 53146 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Waukesha County: moisture and logistics baselines are keyed to New Berlin, WI before niche-specific work begins.
 
 Service reference: WI-53146-2f6b5293

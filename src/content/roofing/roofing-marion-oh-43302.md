@@ -11,26 +11,33 @@ lng: -83.1200
 zipSample: ["43302"]
 zipCodes: ["43302"]
 localPaths: ["Marion County / primary ZIP 43302", "Marion County / elevation 994 ft band", "Marion County / coords 40.6000, -83.1200", "Marion County / ZIP 43302 sector"]
-zillowHomeValueUsd: 165598
 ---
 
 **Engineering Notice for Marion:** Structural loading calculated based on 994 ft terrain assessment. Regional dispatch grid: Marion County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Marion, OH, but intake notes help reduce delays.
+Parapet coping movement in Marion, OH can channel water behind wall cladding.
 
-Tip: request a written scope before work starts.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Structured milestones protect both sides when scheduling work.
+Granule embedment loss on Marion, OH north slopes can precede mat exposure.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Risk flag: Tile underlayment age in Marion, OH can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 43302 zone).
+Regulatory note: Marion, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 43302 coverage.
+FAQ: How long can shingles wait after storm damage? In Marion, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 43302 (county grid: Marion County).
+Tip: Note recent wind events when filing insurance photos for Marion, OH.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof service brief: attic baffle spacing and starter-strip setback were cross-checked for the Marion intake packet.
+
+On-site sector marker: Marion County / coords 40.6000, -83.1200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Marion County / ZIP 43302 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43302-c7f93e11

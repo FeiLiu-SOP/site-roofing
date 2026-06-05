@@ -11,26 +11,31 @@ lng: -76.4900
 zipSample: ["21222", "21224"]
 zipCodes: ["21224", "21222"]
 localPaths: ["Baltimore County / ZIP 21222 sector", "Baltimore County / coords 39.2700, -76.4900", "Baltimore County / ZIP 21224 sector", "Baltimore County / primary ZIP 21222", "Baltimore County / elevation 30 ft band"]
-zillowHomeValueUsd: 226628
 ---
 
 **Engineering Notice for Dundalk:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Baltimore County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Regulatory note: Dundalk, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-We coordinate local dispatch coverage around Dundalk, MD and nearby ZIP sectors.
+FAQ: How long can shingles wait after storm damage? In Dundalk, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 21224/21222 intake.
+Attic ventilation deficits in Dundalk, MD can mimic roof leaks at ceiling penetrations.
 
-Field note: Wind exposure category reviewed for ZIP sector 21224/21222.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 21224, 21222 (county grid: Baltimore County).
+Scope trace: shingle exposure calibration plus soffit intake free area referenced in Baltimore County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 21222/21224.
+
+On-site sector marker: Baltimore County / elevation 30 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Dundalk, MD: sampled sectors include 21222, 21224; county routing grid remains Baltimore County.
 
 Service reference: MD-21222-a6b5538f

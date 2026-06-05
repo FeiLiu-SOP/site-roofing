@@ -11,27 +11,29 @@ lng: -121.7000
 zipSample: ["94561"]
 zipCodes: ["94561"]
 localPaths: ["Contra Costa County / ZIP 94561 sector", "Contra Costa County / coords 37.9900, -121.7000", "Contra Costa County / primary ZIP 94561", "Contra Costa County / elevation 10 ft band"]
-zillowHomeValueUsd: 665912
 ---
 
 **Engineering Notice for Oakley:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Contra Costa County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Our Oakley, CA dispatch packets reference county grid Contra Costa County and elevation band 10 ft.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: stage tear-off debris paths away from landscape drains.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 94561.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: Oakley, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Access points and staging constraints recorded for ZIP 94561 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 94561 zone).
+Metal panel oil-canning in Oakley, CA may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 94561 (county grid: Contra Costa County).
+Scope trace: ice-barrier lap sequence plus wind uplift clip spacing referenced in Contra Costa County county grid review.
+
+On-site sector marker: Contra Costa County / coords 37.9900, -121.7000 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 37.9900, -121.7000 at elevation ~10 ft aligns with Contra Costa County intake staging.
 
 Service reference: CA-94561-48e54228

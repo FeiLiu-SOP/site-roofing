@@ -11,27 +11,31 @@ lng: -115.2600
 zipSample: ["89103", "89146", "89118", "89117", "89147"]
 zipCodes: ["89147", "89150", "89103", "89113", "89117", "89148", "89173", "89118", "89146"]
 localPaths: ["Clark County / primary ZIP 89147", "Clark County / ZIP 89117 sector", "Clark County / ZIP 89146 sector", "Clark County / coords 36.1000, -115.2600", "Clark County / ZIP 89118 sector"]
-zillowHomeValueUsd: 416066
 ---
 
 **Engineering Notice for Spring Valley:** Structural loading calculated based on 2444 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 89147.
+Wind-zone note: Spring Valley, NV exposure class can change starter-strip and cap nail schedules.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Hail bruising on Spring Valley, NV ridges may not breach felt until the next wind event.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Spring Valley, NV can fail independently of visible tile cracks.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Connection points spot-checked where accessible (ZIP 89150/89146/89113 zone).
+FAQ: Is partial dry-in possible? In Spring Valley, NV, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 89150/89146/89113.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 89150, 89146, 89113, 89117, 89173 (county grid: Clark County).
+Field routing: starter-strip setback paired with shingle exposure calibration near ZIP 89147.
+
+Field note: Shingle seal-down timing logged near ZIP 89148/89117/89118.
+
+On-site sector marker: Clark County / ZIP 89117 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Clark County / ZIP 89147 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89147-7e5453aa

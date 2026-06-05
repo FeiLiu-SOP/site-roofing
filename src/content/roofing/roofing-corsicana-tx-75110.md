@@ -11,24 +11,29 @@ lng: -96.4700
 zipSample: ["75109", "75151", "75110"]
 zipCodes: ["75109", "75110", "75151"]
 localPaths: ["Navarro County / primary ZIP 75110", "Navarro County / ZIP 75109 sector", "Navarro County / coords 32.0800, -96.4700", "Navarro County / ZIP 75110 sector", "Navarro County / ZIP 75151 sector"]
-zillowHomeValueUsd: 193014
 ---
 
 **Engineering Notice for Corsicana:** Structural loading calculated based on 436 ft terrain assessment. Regional dispatch grid: Navarro County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: Corsicana, TX exposure class can change starter-strip and cap nail schedules.
 
-We coordinate local dispatch coverage around Corsicana, TX and nearby ZIP sectors.
+FAQ: Is partial dry-in possible? In Corsicana, TX, yes—if slope and anchor points support safe tie-offs.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent service line items.
 
-Structured milestones protect both sides when scheduling work.
+Risk flag: Tile underlayment age in Corsicana, TX can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 75151/75110/75109 intake.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Dispatch sectors sampled: ZIP 75151, 75110, 75109 (county grid: Navarro County).
+Low-slope sections in Corsicana, TX need positive drainage before membrane repairs are scoped.
+
+roofing service brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Corsicana intake packet.
+
+ZIP-corridor snapshot for Corsicana, TX: sampled sectors include 75151, 75109, 75110; county routing grid remains Navarro County.
+
+On-site sector marker: Navarro County / ZIP 75109 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75110-bc2e4702

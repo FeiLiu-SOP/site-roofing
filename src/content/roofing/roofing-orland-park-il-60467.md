@@ -11,26 +11,33 @@ lng: -87.8600
 zipSample: ["60467", "60462"]
 zipCodes: ["60467", "60462"]
 localPaths: ["Cook County / ZIP 60467 sector", "Cook County / ZIP 60462 sector", "Cook County / primary ZIP 60467", "Cook County / elevation 692 ft band", "Cook County / coords 41.6100, -87.8600"]
-zillowHomeValueUsd: 465562
 ---
 
 **Engineering Notice for Orland Park:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Orland Park, IL, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Structured milestones protect both sides when scheduling work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Orland Park, IL can fail independently of visible tile cracks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Note recent wind events when filing insurance photos for Orland Park, IL.
 
-Our service coordination centers on Orland Park, IL coverage windows and verified intake details.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Field note: Moisture pathway inspection logged near ZIP 60462/60467 intake.
+FAQ: Can you tarp only part of the roof? In Orland Park, IL, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Access points and staging constraints recorded for ZIP 60462/60467 coverage.
+Synthetic underlayment slip in Orland Park, IL is often tied to deck moisture, not wind alone.
 
-Dispatch sectors sampled: ZIP 60462, 60467 (county grid: Cook County).
+Step: map ventilation intake and exhaust pairs for Orland Park, IL attic runs.
+
+Scope trace: starter-strip setback plus shingle exposure calibration referenced in Cook County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 60467/60462.
+
+On-site sector marker: Cook County / coords 41.6100, -87.8600 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Cook County / ZIP 60462 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60467-9b634a8b

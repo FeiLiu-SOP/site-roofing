@@ -11,26 +11,33 @@ lng: -95.9000
 zipSample: ["74105", "74153", "74141", "74146", "74129"]
 zipCodes: ["74136", "74148", "74106", "74129", "74115", "74156", "74147", "74112", "74130", "74159", "74128", "74135"]
 localPaths: ["Tulsa County / ZIP 74105 sector", "Tulsa County / elevation 728 ft band", "Tulsa County / ZIP 74141 sector", "Tulsa County / coords 36.1300, -95.9000", "Tulsa County / ZIP 74146 sector"]
-zillowHomeValueUsd: 429421
 ---
 
 **Engineering Notice for Tulsa:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Tulsa County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Tulsa, OK, but intake notes help reduce delays.
+Risk flag: In Tulsa, OK, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-We coordinate local dispatch coverage around Tulsa, OK and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: compare shingle manufacturer wind-zone ratings for Tulsa, OK exposure class.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can you tarp only part of the roof? In Tulsa, OK, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 74121/74135/74159 intake.
+Regulatory note: Tulsa, OK projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 74121/74135/74159.
+Tile and shingle mixes in Tulsa, OK require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 74121, 74135, 74159, 74152, 74146 (county grid: Tulsa County).
+Tip: Note recent wind events when filing insurance photos for Tulsa, OK.
+
+roofing service brief: deck sheathing thickness and synthetic underlayment slip were cross-checked for the Tulsa intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 74015/74136/74159.
+
+On-site sector marker: Tulsa County / ZIP 74132 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Tulsa County / ZIP 74112 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74137-0dc3f805

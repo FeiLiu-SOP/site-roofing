@@ -11,27 +11,31 @@ lng: -91.3900
 zipSample: ["63401"]
 zipCodes: ["63401"]
 localPaths: ["Marion County / ZIP 63401 sector", "Marion County / elevation 650 ft band", "Marion County / coords 39.7100, -91.3900", "Marion County / primary ZIP 63401"]
-zillowHomeValueUsd: 173694
 ---
 
 **Engineering Notice for Hannibal:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Marion County.
 
 
-Homeowners in Hannibal, MO often face sudden roof service problems that require fast action.
+TPO seam welds in Hannibal, MO commercial sections need probe tests after freeze events.
 
-We coordinate local dispatch coverage around Hannibal, MO and nearby ZIP sectors.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 63401.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Hannibal, MO, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: request a written scope before work starts.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field note: Access points and staging constraints recorded for ZIP 63401 coverage.
+Risk flag: In Hannibal, MO, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 63401.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 63401 (county grid: Marion County).
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Field routing: soffit intake free area paired with drip-edge metal profile near ZIP 63401.
+
+On-site sector marker: Marion County / ZIP 63401 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Marion County / primary ZIP 63401 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63401-d3a567f0

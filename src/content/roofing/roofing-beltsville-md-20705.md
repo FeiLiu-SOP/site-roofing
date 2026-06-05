@@ -11,26 +11,31 @@ lng: -76.9200
 zipSample: ["20697", "20705", "20704", "20740"]
 zipCodes: ["20697", "20704", "20705", "20740"]
 localPaths: ["Prince George's County / coords 39.0400, -76.9200", "Prince George's County / primary ZIP 20705", "Prince George's County / ZIP 20740 sector", "Prince George's County / ZIP 20697 sector", "Prince George's County / ZIP 20705 sector"]
-zillowHomeValueUsd: 460398
 ---
 
 **Engineering Notice for Beltsville:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Prince George's County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: How long can shingles wait after storm damage? In Beltsville, MD, delayed dry-in can expand insulation and ceiling repairs.
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 20705.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Tile underlayment age in Beltsville, MD can fail independently of visible tile cracks.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-We coordinate local dispatch coverage around Beltsville, MD and nearby ZIP sectors.
+Regulatory note: Beltsville, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 20704/20697/20705 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 20704/20697/20705.
+Granule embedment loss on Beltsville, MD north slopes can precede mat exposure.
 
-Dispatch sectors sampled: ZIP 20704, 20697, 20705, 20740 (county grid: Prince George's County).
+Field routing: shingle exposure calibration paired with ice-barrier lap sequence near ZIP 20705.
+
+Field note: Attic moisture pathway scan referenced ZIP 20704/20740/20697.
+
+ZIP-corridor snapshot for Beltsville, MD: sampled sectors include 20704, 20697, 20740, 20705; county routing grid remains Prince George's County.
+
+Coordinate-anchored dispatch note: center reference 39.0400, -76.9200 at elevation ~253 ft aligns with Prince George's County intake staging.
 
 Service reference: MD-20705-376fdf56

@@ -11,24 +11,31 @@ lng: -111.7900
 zipSample: ["84655"]
 zipCodes: ["84655"]
 localPaths: ["Utah County / coords 39.9700, -111.7900", "Utah County / primary ZIP 84655", "Utah County / elevation 4997 ft band", "Utah County / ZIP 84655 sector"]
-zillowHomeValueUsd: 500589
 ---
 
 **Engineering Notice for Santaquin:** Structural loading calculated based on 4997 ft terrain assessment. Regional dispatch grid: Utah County.
 
 
-Local conditions in Santaquin, UT can affect timelines and material choices.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: compare shingle manufacturer wind-zone ratings for Santaquin, UT exposure class.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Santaquin, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Santaquin, UT, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Clear documentation helps align materials, labor, and timeline.
+Attic ventilation deficits in Santaquin, UT can mimic roof leaks at ceiling penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 84655.
+Material note: In Santaquin, UT, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 84655 (county grid: Utah County).
+FAQ: Is partial dry-in possible? In Santaquin, UT, yes—if slope and anchor points support safe tie-offs.
+
+Code context: Ventilation ratios for Santaquin, UT attics should be checked against current mechanical exhaust additions.
+
+Field routing: shingle exposure calibration paired with ridge cap nail schedule near ZIP 84655.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~4997 ft across the Utah County area. Coordinates: 39.9700, -111.7900. ZIP sample: 84655. Logistics priority: Serving residential sectors across Utah County and north-east ZIP 84655 grid.
+
+ZIP-corridor snapshot for Santaquin, UT: sampled sectors include 84655; county routing grid remains Utah County.
 
 Service reference: UT-84655-c4e54f35

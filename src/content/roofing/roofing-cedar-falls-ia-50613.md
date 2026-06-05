@@ -11,24 +11,31 @@ lng: -92.4500
 zipSample: ["50614", "50613"]
 zipCodes: ["50613", "50614"]
 localPaths: ["Black Hawk County / primary ZIP 50613", "Black Hawk County / elevation 889 ft band", "Black Hawk County / ZIP 50614 sector", "Black Hawk County / ZIP 50613 sector", "Black Hawk County / coords 42.5200, -92.4500"]
-zillowHomeValueUsd: 258924
 ---
 
 **Engineering Notice for Cedar Falls:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: Black Hawk County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: Can you tarp only part of the roof? In Cedar Falls, IA, yes—if slope and anchor points support safe tie-offs.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Our service coordination centers on Cedar Falls, IA coverage windows and verified intake details.
+Regulatory note: Cedar Falls, IA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: confirm licensing and insurance before approving work.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Access points and staging constraints recorded for ZIP 50614/50613 coverage.
+Metal panel oil-canning in Cedar Falls, IA may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 50614, 50613 (county grid: Black Hawk County).
+Risk flag: Tile underlayment age in Cedar Falls, IA can fail independently of visible tile cracks.
+
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Scope trace: drip-edge metal profile plus shingle exposure calibration referenced in Black Hawk County county grid review.
+
+On-site sector marker: Black Hawk County / elevation 889 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Black Hawk County / ZIP 50614 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50613-9e8c114b

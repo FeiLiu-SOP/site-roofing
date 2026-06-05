@@ -11,26 +11,29 @@ lng: -81.4200
 zipSample: ["32839", "32809"]
 zipCodes: ["32809", "32839"]
 localPaths: ["Orange County / primary ZIP 32809", "Orange County / ZIP 32809 sector", "Orange County / coords 28.4700, -81.4200", "Orange County / ZIP 32839 sector", "Orange County / elevation 108 ft band"]
-zillowHomeValueUsd: 311187
 ---
 
 **Engineering Notice for Oak Ridge:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Structured milestones protect both sides when scheduling work.
+Across Oak Ridge, FL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Oak Ridge, FL attics should be checked against current mechanical exhaust additions.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Connection points spot-checked where accessible (ZIP 32809/32839 zone).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Wind exposure category reviewed for ZIP sector 32809/32839.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 32809, 32839 (county grid: Orange County).
+roofing service brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Oak Ridge intake packet.
+
+On-site sector marker: Orange County / coords 28.4700, -81.4200 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Orange County / ZIP 32809 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32809-76d37608

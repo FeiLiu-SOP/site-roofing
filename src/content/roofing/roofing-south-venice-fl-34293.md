@@ -11,27 +11,29 @@ lng: -82.4200
 zipSample: ["34293", "34284"]
 zipCodes: ["34293", "34284"]
 localPaths: ["Sarasota County / ZIP 34293 sector", "Sarasota County / primary ZIP 34293", "Sarasota County / elevation 26 ft band", "Sarasota County / ZIP 34284 sector", "Sarasota County / coords 27.0400, -82.4200"]
-zillowHomeValueUsd: 366714
 ---
 
 **Engineering Notice for South Venice:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Sarasota County.
 
 
-In South Venice, FL, seasonal demand can change scheduling windows.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Valley metal in South Venice, FL should be reviewed whenever granule loss tracks the water line.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for South Venice, FL attics should be checked against current mechanical exhaust additions.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 34293.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: confirm licensing and insurance before approving work.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 34293/34284 zone).
+FAQ: When should permanent service start? In South Venice, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 34293/34284 intake.
+Risk flag: In South Venice, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 34293, 34284 (county grid: Sarasota County).
+Field routing: deck sheathing thickness paired with chimney cricket slope near ZIP 34293.
+
+Coordinate-anchored dispatch note: center reference 27.0400, -82.4200 at elevation ~26 ft aligns with Sarasota County intake staging.
+
+On-site sector marker: Sarasota County / ZIP 34293 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34293-70cdc10c

@@ -11,24 +11,35 @@ lng: -80.3000
 zipSample: ["33018", "33010", "33012", "33016", "33014"]
 zipCodes: ["33018", "33010", "33014", "33013", "33016", "33012"]
 localPaths: ["Miami-Dade County / primary ZIP 33014", "Miami-Dade County / coords 25.8700, -80.3000", "Miami-Dade County / ZIP 33010 sector", "Miami-Dade County / ZIP 33016 sector", "Miami-Dade County / elevation 33 ft band"]
-zillowHomeValueUsd: 440095
 ---
 
 **Engineering Notice for Hialeah:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our service coordination centers on Hialeah, FL coverage windows and verified intake details.
+Parapet coping movement in Hialeah, FL can channel water behind wall cladding.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-A written scope helps prevent rework and mismatched expectations.
+Freeze-thaw cycles around Hialeah, FL stress nail pops along eaves and rake edges.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Hialeah, FL attics should be checked against current mechanical exhaust additions.
 
-Field note: Wind exposure category reviewed for ZIP sector 33013/33012/33014.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 33013, 33012, 33014, 33018, 33010 (county grid: Miami-Dade County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+FAQ: How long can shingles wait after storm damage? In Hialeah, FL, delayed dry-in can expand insulation and ceiling repairs.
+
+roofing service brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Hialeah intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 33013/33018/33010.
+
+Coordinate-anchored dispatch note: center reference 25.8700, -80.3000 at elevation ~33 ft aligns with Miami-Dade County intake staging.
+
+On-site sector marker: Miami-Dade County / elevation 33 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33014-c654f15a

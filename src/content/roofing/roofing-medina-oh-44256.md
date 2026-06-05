@@ -11,25 +11,31 @@ lng: -81.8700
 zipSample: ["44256"]
 zipCodes: ["44256"]
 localPaths: ["Medina County / coords 41.1400, -81.8700", "Medina County / elevation 1070 ft band", "Medina County / ZIP 44256 sector", "Medina County / primary ZIP 44256"]
-zillowHomeValueUsd: 374755
 ---
 
 **Engineering Notice for Medina:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: Medina County.
 
 
-Our service coordination centers on Medina, OH coverage windows and verified intake details.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 44256.
+Wood shake courses in Medina, OH require skip-spacing rules at valleys.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Homeowners in Medina, OH often face sudden roof service problems that require fast action.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 44256 zone).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 44256 (county grid: Medina County).
+Risk flag: In Medina, OH, interior stains may track from HVAC condensate rather than roof cladding.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: starter-strip setback plus drip-edge metal profile referenced in Medina County county grid review.
+
+On-site sector marker: Medina County / primary ZIP 44256 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 41.1400, -81.8700 at elevation ~1070 ft aligns with Medina County intake staging.
 
 Service reference: OH-44256-d29c120d

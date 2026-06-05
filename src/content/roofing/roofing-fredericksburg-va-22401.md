@@ -11,26 +11,33 @@ lng: -77.4900
 zipSample: ["22401", "22412", "22404"]
 zipCodes: ["22401", "22412", "22404"]
 localPaths: ["Fredericksburg County / ZIP 22401 sector", "Fredericksburg County / primary ZIP 22401", "Fredericksburg County / elevation 131 ft band", "Fredericksburg County / ZIP 22412 sector", "Fredericksburg County / coords 38.3000, -77.4900"]
-zillowHomeValueUsd: 466788
 ---
 
 **Engineering Notice for Fredericksburg:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Fredericksburg County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Regulatory note: Fredericksburg, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fredericksburg, VA, but intake notes help reduce delays.
+Risk flag: In Fredericksburg, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Wood shake courses in Fredericksburg, VA require skip-spacing rules at valleys.
 
-We coordinate local dispatch coverage around Fredericksburg, VA and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 22401/22412/22404 intake.
+Step: map ventilation intake and exhaust pairs for Fredericksburg, VA attic runs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22401/22412/22404.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 22401, 22412, 22404 (county grid: Fredericksburg County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+roof service brief: counter-flashing reglet depth and deck sheathing thickness were cross-checked for the Fredericksburg intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 22404/22401/22412.
+
+On-site sector marker: Fredericksburg County / coords 38.3000, -77.4900 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Fredericksburg County / ZIP 22404 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22401-1d543d30

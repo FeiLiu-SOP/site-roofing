@@ -11,25 +11,31 @@ lng: -78.8700
 zipSample: ["22802", "22803", "22807", "22801"]
 zipCodes: ["22803", "22807", "22802", "22801"]
 localPaths: ["Harrisonburg County / coords 38.4400, -78.8700", "Harrisonburg County / ZIP 22807 sector", "Harrisonburg County / primary ZIP 22801", "Harrisonburg County / elevation 1309 ft band", "Harrisonburg County / ZIP 22802 sector"]
-zillowHomeValueUsd: 368584
 ---
 
 **Engineering Notice for Harrisonburg:** Structural loading calculated based on 1309 ft terrain assessment. Regional dispatch grid: Harrisonburg County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 22801.
+Wind-zone note: Harrisonburg, VA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Harrisonburg, VA.
 
-Tip: address recurring issues early to prevent bigger damage.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: request a written scope before work starts.
+Tile and shingle mixes in Harrisonburg, VA require different fastener patterns at transitions.
 
-We coordinate local dispatch coverage around Harrisonburg, VA and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 22807/22801/22802.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 22807, 22801, 22802, 22803 (county grid: Harrisonburg County).
+FAQ: When should permanent remediation start? In Harrisonburg, VA, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: deck sheathing thickness paired with wind uplift clip spacing near ZIP 22801.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 22801/22803/22802.
+
+On-site sector marker: Harrisonburg County / ZIP 22803 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 22801 with multi-ZIP overlap in Harrisonburg; field packets tag Harrisonburg County for county-grid reconciliation.
 
 Service reference: VA-22801-ff989790

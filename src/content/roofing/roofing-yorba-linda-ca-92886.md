@@ -11,25 +11,33 @@ lng: -117.7700
 zipSample: ["92886", "92887", "92885"]
 zipCodes: ["92885", "92887", "92886"]
 localPaths: ["Orange County / primary ZIP 92886", "Orange County / ZIP 92887 sector", "Orange County / elevation 554 ft band", "Orange County / ZIP 92885 sector", "Orange County / ZIP 92886 sector"]
-zillowHomeValueUsd: 1378756
 ---
 
 **Engineering Notice for Yorba Linda:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: map ventilation intake and exhaust pairs for Yorba Linda, CA attic runs.
 
-We coordinate local dispatch coverage around Yorba Linda, CA and nearby ZIP sectors.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 92886.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 92887/92885/92886.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 92887, 92885, 92886 (county grid: Orange County).
+Parapet coping movement in Yorba Linda, CA can channel water behind wall cladding.
+
+FAQ: Is partial dry-in possible? In Yorba Linda, CA, yes—if slope and anchor points support safe tie-offs.
+
+Scope trace: valley metal gauge plus soffit intake free area referenced in Orange County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 92887/92885/92886.
+
+On-site sector marker: Orange County / ZIP 92887 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Orange County: moisture and logistics baselines are keyed to Yorba Linda, CA before niche-specific work begins.
 
 Service reference: CA-92886-c139de7b

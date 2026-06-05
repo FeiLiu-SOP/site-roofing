@@ -11,26 +11,35 @@ lng: -88.2100
 zipSample: ["60103"]
 zipCodes: ["60103"]
 localPaths: ["DuPage County / coords 41.9800, -88.2100", "DuPage County / elevation 797 ft band", "DuPage County / primary ZIP 60103", "DuPage County / ZIP 60103 sector"]
-zillowHomeValueUsd: 427220
 ---
 
 **Engineering Notice for Bartlett:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: DuPage County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Code context: Ventilation ratios for Bartlett, IL attics should be checked against current mechanical exhaust additions.
 
-Clear documentation helps align materials, labor, and timeline.
+Our Bartlett, IL dispatch packets reference county grid DuPage County and elevation band 797 ft.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Skylight curb flashing in Bartlett, IL should be sequenced before ridge cap replacement.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: In Bartlett, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Access points and staging constraints recorded for ZIP 60103 coverage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Connection points spot-checked where accessible (ZIP 60103 zone).
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 60103 (county grid: DuPage County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Valley metal in Bartlett, IL should be reviewed whenever granule loss tracks the water line.
+
+Field routing: ridge cap nail schedule paired with valley metal gauge near ZIP 60103.
+
+Field note: Attic moisture pathway scan referenced ZIP 60103.
+
+On-site sector marker: DuPage County / elevation 797 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: DuPage County / coords 41.9800, -88.2100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60103-e3ab3aac

@@ -11,24 +11,31 @@ lng: -112.0400
 zipSample: ["83415", "83402", "83401", "83404"]
 zipCodes: ["83402", "83401", "83415", "83404"]
 localPaths: ["Bonneville County / ZIP 83402 sector", "Bonneville County / ZIP 83401 sector", "Bonneville County / primary ZIP 83401", "Bonneville County / ZIP 83404 sector", "Bonneville County / ZIP 83415 sector"]
-zillowHomeValueUsd: 401230
 ---
 
 **Engineering Notice for Idaho Falls:** Structural loading calculated based on 4715 ft terrain assessment. Regional dispatch grid: Bonneville County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Idaho Falls, ID, but intake notes help reduce delays.
+Wind-zone note: Idaho Falls, ID exposure class can change starter-strip and cap nail schedules.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Skylight curb flashing in Idaho Falls, ID should be sequenced before ridge cap replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 83401/83415/83404 zone).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 83401.
 
-Dispatch sectors sampled: ZIP 83401, 83415, 83404, 83402 (county grid: Bonneville County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Bonneville County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 83415/83401/83404.
+
+Primary postal anchor 83401 with multi-ZIP overlap in Idaho Falls; field packets tag Bonneville County for county-grid reconciliation.
+
+On-site sector marker: Bonneville County / primary ZIP 83401 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83401-f8719fe6

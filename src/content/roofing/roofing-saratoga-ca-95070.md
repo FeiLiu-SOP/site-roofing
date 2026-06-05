@@ -11,27 +11,33 @@ lng: -122.0300
 zipSample: ["95070", "95071"]
 zipCodes: ["95071", "95070"]
 localPaths: ["Santa Clara County / coords 37.2700, -122.0300", "Santa Clara County / ZIP 95070 sector", "Santa Clara County / primary ZIP 95070", "Santa Clara County / ZIP 95071 sector", "Santa Clara County / elevation 417 ft band"]
-zillowHomeValueUsd: 4178206
 ---
 
 **Engineering Notice for Saratoga:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Santa Clara County.
 
 
-We coordinate local dispatch coverage around Saratoga, CA and nearby ZIP sectors.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 95070.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Skylight curb flashing in Saratoga, CA should be sequenced before ridge cap replacement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Saratoga, CA can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 95070/95071 zone).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Access points and staging constraints recorded for ZIP 95070/95071 coverage.
+FAQ: How long can shingles wait after storm damage? In Saratoga, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 95070, 95071 (county grid: Santa Clara County).
+Regulatory note: Saratoga, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+roof service brief: deck sheathing thickness and valley metal gauge were cross-checked for the Saratoga intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 95071/95070.
+
+ZIP-corridor snapshot for Saratoga, CA: sampled sectors include 95070, 95071; county routing grid remains Santa Clara County.
+
+On-site sector marker: Santa Clara County / ZIP 95071 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95070-26bcc91d

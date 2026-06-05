@@ -11,24 +11,33 @@ lng: -82.1400
 zipSample: ["30809"]
 zipCodes: ["30809"]
 localPaths: ["Columbia County / elevation 364 ft band", "Columbia County / coords 33.5600, -82.1400", "Columbia County / primary ZIP 30809", "Columbia County / ZIP 30809 sector"]
-zillowHomeValueUsd: 403971
 ---
 
 **Engineering Notice for Evans:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Columbia County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Evans, GA, but intake notes help reduce delays.
+Wind-zone note: Evans, GA exposure class can change starter-strip and cap nail schedules.
 
-Structured milestones protect both sides when scheduling work.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Evans, GA coverage windows and verified intake details.
+Skylight curb flashing in Evans, GA should be sequenced before ridge cap replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 30809.
+Step: separate emergency tarp scope from permanent service line items.
 
-Dispatch sectors sampled: ZIP 30809 (county grid: Columbia County).
+Tip: Note recent wind events when filing insurance photos for Evans, GA.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Field routing: drip-edge metal profile paired with ridge cap nail schedule near ZIP 30809.
+
+Field note: Shingle seal-down timing logged near ZIP 30809.
+
+Primary postal anchor 30809 with multi-ZIP overlap in Evans; field packets tag Columbia County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~364 ft across the Columbia County area. Coordinates: 33.5600, -82.1400. ZIP sample: 30809. Service perimeter note: Coverage extends through Columbia County with dispatch centered near ZIP 30809.
 
 Service reference: GA-30809-efe48608

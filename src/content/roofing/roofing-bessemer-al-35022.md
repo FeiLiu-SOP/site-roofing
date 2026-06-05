@@ -11,27 +11,31 @@ lng: -86.9700
 zipSample: ["35022", "35020"]
 zipCodes: ["35022", "35020"]
 localPaths: ["Jefferson County / ZIP 35022 sector", "Jefferson County / ZIP 35020 sector", "Jefferson County / primary ZIP 35022", "Jefferson County / coords 33.3700, -86.9700", "Jefferson County / elevation 515 ft band"]
-zillowHomeValueUsd: 279917
 ---
 
 **Engineering Notice for Bessemer:** Structural loading calculated based on 515 ft terrain assessment. Regional dispatch grid: Jefferson County.
 
 
-A written scope helps prevent rework and mismatched expectations.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 35022.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Bessemer, AL coverage windows and verified intake details.
+Our Bessemer, AL dispatch packets reference county grid Jefferson County and elevation band 515 ft.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bessemer, AL, but intake notes help reduce delays.
+Synthetic underlayment slip in Bessemer, AL is often tied to deck moisture, not wind alone.
 
-Field note: Moisture pathway inspection logged near ZIP 35020/35022 intake.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field note: Wind exposure category reviewed for ZIP sector 35020/35022.
+Code context: Ventilation ratios for Bessemer, AL attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 35020, 35022 (county grid: Jefferson County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+roof work brief: skylight curb height and ice-barrier lap sequence were cross-checked for the Bessemer intake packet.
+
+On-site sector marker: Jefferson County / ZIP 35022 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Jefferson County. Reference elevation: 515 ft. Primary coordinates: 33.3700, -86.9700. ZIP sample: 35022, 35020. Regional routing note: Jefferson County traffic flow is balanced around ZIP 35022 service demand.
 
 Service reference: AL-35022-b089135c

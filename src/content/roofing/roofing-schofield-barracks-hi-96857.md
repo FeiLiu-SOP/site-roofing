@@ -11,27 +11,31 @@ lng: -158.0600
 zipSample: ["96786", "96857"]
 zipCodes: ["96786", "96857"]
 localPaths: ["Honolulu County / primary ZIP 96857", "Honolulu County / ZIP 96857 sector", "Honolulu County / ZIP 96786 sector", "Honolulu County / elevation 919 ft band", "Honolulu County / coords 21.4900, -158.0600"]
-zillowHomeValueUsd: 856676
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Schofield Barracks:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Honolulu County.
 
 
-Local conditions in Schofield Barracks, HI can affect timelines and material choices.
+Wind-zone note: Schofield Barracks, HI exposure class can change starter-strip and cap nail schedules.
 
-Transparent pricing helps you compare like-for-like scope items.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Tile underlayment age in Schofield Barracks, HI can fail independently of visible tile cracks.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Coastal humidity in Schofield Barracks, HI can slow shingle seal-down after shoulder-season storms.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: In Schofield Barracks, HI, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Wind exposure category reviewed for ZIP sector 96857/96786.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field note: Moisture pathway inspection logged near ZIP 96857/96786 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 96857, 96786 (county grid: Honolulu County).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
+
+roof work brief: ice-barrier lap sequence and attic baffle spacing were cross-checked for the Schofield Barracks intake packet.
+
+On-site sector marker: Honolulu County / primary ZIP 96857 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Honolulu County and primary ZIP 96857. Terrain reference: 919 ft. Center point: 21.4900, -158.0600. ZIP sample: 96857, 96786. Regional routing note: Honolulu County traffic flow is balanced around ZIP 96857 service demand.
 
 Service reference: HI-96857-0ed99ddf

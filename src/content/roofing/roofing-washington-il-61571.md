@@ -11,26 +11,31 @@ lng: -89.4300
 zipSample: ["61571"]
 zipCodes: ["61571"]
 localPaths: ["Tazewell County / ZIP 61571 sector", "Tazewell County / primary ZIP 61571", "Tazewell County / elevation 761 ft band", "Tazewell County / coords 40.7000, -89.4300"]
-zillowHomeValueUsd: 226518
 ---
 
 **Engineering Notice for Washington:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Tazewell County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Washington, IL, but intake notes help reduce delays.
+Step: map ventilation intake and exhaust pairs for Washington, IL attic runs.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+FAQ: Can you tarp only part of the roof? In Washington, IL, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Access points and staging constraints recorded for ZIP 61571 coverage.
+Wood shake courses in Washington, IL require skip-spacing rules at valleys.
 
-Field note: Moisture pathway inspection logged near ZIP 61571 intake.
+Material note: In Washington, IL, algae-resistant granules may be specified for north-facing slopes.
 
-Dispatch sectors sampled: ZIP 61571 (county grid: Tazewell County).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+
+Scope trace: pipe boot manufacturer match plus skylight curb height referenced in Tazewell County county grid review.
+
+Regional mesh label Tazewell County: moisture and logistics baselines are keyed to Washington, IL before niche-specific work begins.
+
+On-site sector marker: Tazewell County / elevation 761 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61571-66894a54

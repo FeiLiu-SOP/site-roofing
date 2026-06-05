@@ -11,26 +11,33 @@ lng: -119.2000
 zipSample: ["93263"]
 zipCodes: ["93263"]
 localPaths: ["Kern County / ZIP 93263 sector", "Kern County / elevation 381 ft band", "Kern County / coords 35.4800, -119.2000", "Kern County / primary ZIP 93263"]
-zillowHomeValueUsd: 382043
 ---
 
 **Engineering Notice for Shafter:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Kern County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Is partial dry-in possible? In Shafter, CA, yes—if slope and anchor points support safe tie-offs.
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Shafter, CA, but intake notes help reduce delays.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Our service coordination centers on Shafter, CA coverage windows and verified intake details.
+Wind-zone note: Shafter, CA exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 93263.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 93263 intake.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 93263 (county grid: Kern County).
+Across Shafter, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
+
+Scope trace: starter-strip setback plus chimney cricket slope referenced in Kern County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 93263.
+
+Primary postal anchor 93263 with multi-ZIP overlap in Shafter; field packets tag Kern County for county-grid reconciliation.
+
+On-site sector marker: Kern County / ZIP 93263 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93263-c31c7817

@@ -11,26 +11,29 @@ lng: -77.2000
 zipSample: ["22042", "22003"]
 zipCodes: ["22003", "22042"]
 localPaths: ["Fairfax County / primary ZIP 22003", "Fairfax County / ZIP 22003 sector", "Fairfax County / coords 38.8300, -77.2000", "Fairfax County / elevation 361 ft band", "Fairfax County / ZIP 22042 sector"]
-zillowHomeValueUsd: 763752
 ---
 
 **Engineering Notice for Annandale:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Regulatory note: Annandale, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Structured milestones protect both sides when scheduling work.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-We coordinate local dispatch coverage around Annandale, VA and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Annandale, VA can fail independently of visible tile cracks.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: address recurring issues early to prevent bigger damage.
+Attic ventilation deficits in Annandale, VA can mimic roof leaks at ceiling penetrations.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 22003/22042.
+Our Annandale, VA dispatch packets reference county grid Fairfax County and elevation band 361 ft.
 
-Field note: Wind exposure category reviewed for ZIP sector 22003/22042.
+FAQ: Is partial dry-in possible? In Annandale, VA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 22003, 22042 (county grid: Fairfax County).
+Field routing: drip-edge metal profile paired with soffit intake free area near ZIP 22003.
+
+Primary postal anchor 22003 with multi-ZIP overlap in Annandale; field packets tag Fairfax County for county-grid reconciliation.
+
+Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Annandale, VA before niche-specific work begins.
 
 Service reference: VA-22003-faedd342

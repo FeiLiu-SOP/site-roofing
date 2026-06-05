@@ -11,26 +11,31 @@ lng: -87.8300
 zipSample: ["60465"]
 zipCodes: ["60465"]
 localPaths: ["Cook County / primary ZIP 60465", "Cook County / elevation 607 ft band", "Cook County / coords 41.7000, -87.8300", "Cook County / ZIP 60465 sector"]
-zillowHomeValueUsd: 279959
 ---
 
 **Engineering Notice for Palos Hills:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Our Palos Hills, IL dispatch packets reference county grid Cook County and elevation band 607 ft.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Skylight curb flashing in Palos Hills, IL should be sequenced before ridge cap replacement.
 
-Local conditions in Palos Hills, IL can affect timelines and material choices.
+Regulatory note: Palos Hills, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Connection points spot-checked where accessible (ZIP 60465 zone).
+Material note: In Palos Hills, IL, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60465.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 60465 (county grid: Cook County).
+Risk flag: Tile underlayment age in Palos Hills, IL can fail independently of visible tile cracks.
+
+roof work brief: valley metal gauge and soffit intake free area were cross-checked for the Palos Hills intake packet.
+
+Coordinate-anchored dispatch note: center reference 41.7000, -87.8300 at elevation ~607 ft aligns with Cook County intake staging.
+
+Regional mesh label Cook County: moisture and logistics baselines are keyed to Palos Hills, IL before niche-specific work begins.
 
 Service reference: IL-60465-49b6a37c

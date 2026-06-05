@@ -11,27 +11,31 @@ lng: -81.6000
 zipSample: ["33898", "33859", "33853"]
 zipCodes: ["33898", "33853", "33859"]
 localPaths: ["Polk County / primary ZIP 33898", "Polk County / elevation 184 ft band", "Polk County / ZIP 33898 sector", "Polk County / ZIP 33853 sector", "Polk County / coords 27.9200, -81.6000"]
-zillowHomeValueUsd: 251316
 ---
 
 **Engineering Notice for Lake Wales:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Polk County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: request a written scope before work starts.
+Regulatory note: Lake Wales, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 33898.
+Skylight curb flashing in Lake Wales, FL should be sequenced before ridge cap replacement.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Moisture pathway inspection logged near ZIP 33898/33853/33859 intake.
+Risk flag: Tile underlayment age in Lake Wales, FL can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 33898/33853/33859 zone).
+FAQ: When should permanent restoration start? In Lake Wales, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Dispatch sectors sampled: ZIP 33898, 33853, 33859 (county grid: Polk County).
+Field routing: ice-barrier lap sequence paired with ridge cap nail schedule near ZIP 33898.
+
+Field note: Valley debris and granule loss noted for ZIP 33859/33898/33853.
+
+ZIP-corridor snapshot for Lake Wales, FL: sampled sectors include 33898, 33853, 33859; county routing grid remains Polk County.
+
+On-site sector marker: Polk County / ZIP 33859 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33898-37220121

@@ -11,26 +11,31 @@ lng: -110.9800
 zipSample: ["85737", "85704", "85755", "85742"]
 zipCodes: ["85704", "85737", "85742", "85755"]
 localPaths: ["Pima County / ZIP 85755 sector", "Pima County / ZIP 85737 sector", "Pima County / ZIP 85742 sector", "Pima County / coords 32.4200, -110.9800", "Pima County / elevation 2740 ft band"]
-zillowHomeValueUsd: 513214
 ---
 
 **Engineering Notice for Oro Valley:** Structural loading calculated based on 2740 ft terrain assessment. Regional dispatch grid: Pima County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 85755.
+Metal panel oil-canning in Oro Valley, AZ may signal clip spacing issues, not wind damage alone.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 85755.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85755/85704/85742.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Dispatch sectors sampled: ZIP 85755, 85704, 85742, 85737 (county grid: Pima County).
+Wind-zone note: Oro Valley, AZ exposure class can change starter-strip and cap nail schedules.
+
+roof service brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Oro Valley intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 85737/85742/85755.
+
+On-site sector marker: Pima County / ZIP 85704 sector — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Oro Valley, AZ: sampled sectors include 85742, 85755, 85704, 85737; county routing grid remains Pima County.
 
 Service reference: AZ-85755-6bc2b063

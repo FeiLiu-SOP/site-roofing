@@ -11,24 +11,33 @@ lng: -71.0500
 zipSample: ["02149"]
 zipCodes: ["02149"]
 localPaths: ["Middlesex County / elevation 49 ft band", "Middlesex County / primary ZIP 02149", "Middlesex County / coords 42.4100, -71.0500", "Middlesex County / ZIP 02149 sector"]
-zillowHomeValueUsd: 639351
 ---
 
 **Engineering Notice for Everett:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 02149.
 
-We coordinate local dispatch coverage around Everett, MA and nearby ZIP sectors.
+Hail bruising on Everett, MA ridges may not breach felt until the next wind event.
 
-Tip: request a written scope before work starts.
+Risk flag: Tile underlayment age in Everett, MA can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: map ventilation intake and exhaust pairs for Everett, MA attic runs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Our Everett, MA dispatch packets reference county grid Middlesex County and elevation band 49 ft.
 
-Field note: Wind exposure category reviewed for ZIP sector 02149.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 02149 (county grid: Middlesex County).
+Wood shake courses in Everett, MA require skip-spacing rules at valleys.
+
+FAQ: How long can shingles wait after storm damage? In Everett, MA, delayed dry-in can expand insulation and ceiling repairs.
+
+Code context: Ventilation ratios for Everett, MA attics should be checked against current mechanical exhaust additions.
+
+roofing service brief: counter-flashing reglet depth and skylight curb height were cross-checked for the Everett intake packet.
+
+On-site sector marker: Middlesex County / primary ZIP 02149 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Middlesex County / ZIP 02149 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MA-02149-c308d6c9

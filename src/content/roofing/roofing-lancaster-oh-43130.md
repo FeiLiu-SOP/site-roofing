@@ -11,26 +11,29 @@ lng: -82.6000
 zipSample: ["43130"]
 zipCodes: ["43130"]
 localPaths: ["Fairfield County / primary ZIP 43130", "Fairfield County / coords 39.7200, -82.6000", "Fairfield County / elevation 840 ft band", "Fairfield County / ZIP 43130 sector"]
-zillowHomeValueUsd: 271925
 ---
 
 **Engineering Notice for Lancaster:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: Fairfield County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Lancaster, OH attics should be checked against current mechanical exhaust additions.
 
-Structured milestones protect both sides when scheduling work.
+TPO seam welds in Lancaster, OH commercial sections need probe tests after freeze events.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 43130.
+Risk flag: Tile underlayment age in Lancaster, OH can fail independently of visible tile cracks.
 
-Field note: Access points and staging constraints recorded for ZIP 43130 coverage.
+Step: stage tear-off debris paths away from landscape drains.
 
-Dispatch sectors sampled: ZIP 43130 (county grid: Fairfield County).
+roof service brief: ridge cap nail schedule and starter-strip setback were cross-checked for the Lancaster intake packet.
+
+Coordinate-anchored dispatch note: center reference 39.7200, -82.6000 at elevation ~840 ft aligns with Fairfield County intake staging.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~840 ft across the Fairfield County area. Coordinates: 39.7200, -82.6000. ZIP sample: 43130. Regional routing note: Fairfield County traffic flow is balanced around ZIP 43130 service demand.
 
 Service reference: OH-43130-f4db3c18

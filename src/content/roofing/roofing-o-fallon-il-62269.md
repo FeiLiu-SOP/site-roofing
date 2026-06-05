@@ -11,25 +11,29 @@ lng: -89.9100
 zipSample: ["62269"]
 zipCodes: ["62269"]
 localPaths: ["St. Clair County / elevation 548 ft band", "St. Clair County / primary ZIP 62269", "St. Clair County / coords 38.6000, -89.9100", "St. Clair County / ZIP 62269 sector"]
-zillowHomeValueUsd: 306881
 ---
 
 **Engineering Notice for O'Fallon:** Structural loading calculated based on 548 ft terrain assessment. Regional dispatch grid: St. Clair County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in O'Fallon, IL, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Tip: request a written scope before work starts.
+Our O'Fallon, IL dispatch packets reference county grid St. Clair County and elevation band 548 ft.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 62269.
+Attic ventilation deficits in O'Fallon, IL can mimic roof leaks at ceiling penetrations.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Access points and staging constraints recorded for ZIP 62269 coverage.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 62269 (county grid: St. Clair County).
+FAQ: Can you tarp only part of the roof? In O'Fallon, IL, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: ridge cap nail schedule paired with ice-barrier lap sequence near ZIP 62269.
+
+ZIP-corridor snapshot for O'Fallon, IL: sampled sectors include 62269; county routing grid remains St. Clair County.
+
+On-site sector marker: St. Clair County / ZIP 62269 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62269-57480d0b

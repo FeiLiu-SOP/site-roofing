@@ -11,26 +11,33 @@ lng: -79.0400
 zipSample: ["27599", "27517", "27516", "27515", "27514"]
 zipCodes: ["27515", "27514", "27599", "27516", "27517"]
 localPaths: ["Orange County / coords 35.9300, -79.0400", "Orange County / ZIP 27516 sector", "Orange County / primary ZIP 27599", "Orange County / ZIP 27515 sector", "Orange County / elevation 302 ft band"]
-zillowHomeValueUsd: 642683
 ---
 
 **Engineering Notice for Chapel Hill:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Tip: avoid large upfront payments without milestones.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-In Chapel Hill, NC, urgent roof service issues can escalate quickly.
+Synthetic underlayment slip in Chapel Hill, NC is often tied to deck moisture, not wind alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 27599/27516/27515.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Moisture pathway inspection logged near ZIP 27599/27516/27515 intake.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 27599, 27516, 27515, 27517, 27514 (county grid: Orange County).
+Code context: Ventilation ratios for Chapel Hill, NC attics should be checked against current mechanical exhaust additions.
+
+Field routing: soffit intake free area paired with ice-barrier lap sequence near ZIP 27599.
+
+Field note: Valley debris and granule loss noted for ZIP 27516/27514/27599.
+
+On-site sector marker: Orange County / ZIP 27516 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Orange County / elevation 302 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27599-1c0e0e89

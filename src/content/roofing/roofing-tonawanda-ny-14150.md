@@ -11,25 +11,31 @@ lng: -78.8800
 zipSample: ["14151", "14150"]
 zipCodes: ["14150", "14151"]
 localPaths: ["Erie County / coords 43.0100, -78.8800", "Erie County / ZIP 14151 sector", "Erie County / primary ZIP 14150", "Erie County / elevation 577 ft band", "Erie County / ZIP 14150 sector"]
-zillowHomeValueUsd: 251710
 ---
 
 **Engineering Notice for Tonawanda:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Erie County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 14150.
+Wind-zone note: Tonawanda, NY exposure class can change starter-strip and cap nail schedules.
 
-Tip: avoid large upfront payments without milestones.
+Skylight curb flashing in Tonawanda, NY should be sequenced before ridge cap replacement.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should permanent restoration start? In Tonawanda, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Tonawanda, NY coverage windows and verified intake details.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: request a written scope before work starts.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Connection points spot-checked where accessible (ZIP 14151/14150 zone).
+Risk flag: Tile underlayment age in Tonawanda, NY can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 14151, 14150 (county grid: Erie County).
+Step: log deck soundings near vents before tear-off is approved.
+
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
+
+Scope trace: shingle exposure calibration plus valley metal gauge referenced in Erie County county grid review.
+
+On-site sector marker: Erie County / primary ZIP 14150 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Erie County / elevation 577 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14150-95e05a13

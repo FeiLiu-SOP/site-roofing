@@ -11,26 +11,33 @@ lng: -158.0800
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / coords 21.3600, -158.0800", "Honolulu County / elevation 705 ft band", "Honolulu County / primary ZIP 96707", "Honolulu County / ZIP 96707 sector"]
-zillowHomeValueUsd: 860407
 ---
 
 **Engineering Notice for Makakilo:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Honolulu County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Makakilo, HI, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-A written scope helps prevent rework and mismatched expectations.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Access points and staging constraints recorded for ZIP 96707 coverage.
+Wind-zone note: Makakilo, HI exposure class can change starter-strip and cap nail schedules.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 96707.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 96707 (county grid: Honolulu County).
+Synthetic underlayment slip in Makakilo, HI is often tied to deck moisture, not wind alone.
+
+roofing service brief: ridge cap nail schedule and synthetic underlayment slip were cross-checked for the Makakilo intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 96707.
+
+Regional mesh label Honolulu County: moisture and logistics baselines are keyed to Makakilo, HI before niche-specific work begins.
+
+Primary postal anchor 96707 with multi-ZIP overlap in Makakilo; field packets tag Honolulu County for county-grid reconciliation.
 
 Service reference: HI-96707-89e56031

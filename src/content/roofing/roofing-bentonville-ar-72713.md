@@ -11,25 +11,31 @@ lng: -94.2300
 zipSample: ["72712", "72713"]
 zipCodes: ["72712", "72713"]
 localPaths: ["Benton County / ZIP 72713 sector", "Benton County / primary ZIP 72713", "Benton County / elevation 1276 ft band", "Benton County / coords 36.3500, -94.2300", "Benton County / ZIP 72712 sector"]
-zillowHomeValueUsd: 454890
 ---
 
 **Engineering Notice for Bentonville:** Structural loading calculated based on 1276 ft terrain assessment. Regional dispatch grid: Benton County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Bentonville, AR, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: avoid large upfront payments without milestones.
+Our Bentonville, AR dispatch packets reference county grid Benton County and elevation band 1276 ft.
 
-In Bentonville, AR, seasonal demand can change scheduling windows.
+FAQ: Can you tarp only part of the roof? In Bentonville, AR, yes—if slope and anchor points support safe tie-offs.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 72713.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Wood shake courses in Bentonville, AR require skip-spacing rules at valleys.
 
-Field note: Moisture pathway inspection logged near ZIP 72712/72713 intake.
+Code context: Ventilation ratios for Bentonville, AR attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 72712, 72713 (county grid: Benton County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+roof service brief: valley metal gauge and shingle exposure calibration were cross-checked for the Bentonville intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 72712/72713.
+
+On-site sector marker: Benton County / ZIP 72712 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Benton County: moisture and logistics baselines are keyed to Bentonville, AR before niche-specific work begins.
 
 Service reference: AR-72713-70e59396

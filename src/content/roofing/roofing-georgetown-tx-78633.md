@@ -11,27 +11,33 @@ lng: -97.7000
 zipSample: ["78633", "78627", "78626", "78628"]
 zipCodes: ["78626", "78628", "78633", "78627"]
 localPaths: ["Williamson County / ZIP 78627 sector", "Williamson County / coords 30.6700, -97.7000", "Williamson County / elevation 797 ft band", "Williamson County / ZIP 78626 sector", "Williamson County / ZIP 78628 sector"]
-zillowHomeValueUsd: 442379
 ---
 
 **Engineering Notice for Georgetown:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: Williamson County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Valley metal in Georgetown, TX should be reviewed whenever granule loss tracks the water line.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Georgetown, TX, but intake notes help reduce delays.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Our service coordination centers on Georgetown, TX coverage windows and verified intake details.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 78633.
+Wind-zone note: Georgetown, TX exposure class can change starter-strip and cap nail schedules.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Note recent wind events when filing insurance photos for Georgetown, TX.
 
-Field note: Moisture pathway inspection logged near ZIP 78633/78627/78628 intake.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Field note: Wind exposure category reviewed for ZIP sector 78633/78627/78628.
+FAQ: Is partial dry-in possible? In Georgetown, TX, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 78633, 78627, 78628, 78626 (county grid: Williamson County).
+Risk flag: Tile underlayment age in Georgetown, TX can fail independently of visible tile cracks.
+
+Field routing: counter-flashing reglet depth paired with chimney cricket slope near ZIP 78633.
+
+Field note: Shingle seal-down timing logged near ZIP 78633/78627/78628.
+
+On-site sector marker: Williamson County / ZIP 78626 sector — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Grid anchor set to Williamson County. Reference elevation: 797 ft. Primary coordinates: 30.6700, -97.7000. ZIP sample: 78626, 78627, 78628, 78633. Logistics priority: Serving residential sectors across Williamson County and north-east ZIP 78633 grid.
 
 Service reference: TX-78633-2768d25d

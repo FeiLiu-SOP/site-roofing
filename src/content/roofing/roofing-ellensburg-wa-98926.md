@@ -11,25 +11,33 @@ lng: -120.5500
 zipSample: ["98926"]
 zipCodes: ["98926"]
 localPaths: ["Kittitas County / primary ZIP 98926", "Kittitas County / coords 47.0000, -120.5500", "Kittitas County / elevation 1562 ft band", "Kittitas County / ZIP 98926 sector"]
-zillowHomeValueUsd: 458942
 ---
 
 **Engineering Notice for Ellensburg:** Structural loading calculated based on 1562 ft terrain assessment. Regional dispatch grid: Kittitas County.
 
 
-Clear documentation helps align materials, labor, and timeline.
+Tip: Note recent wind events when filing insurance photos for Ellensburg, WA.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 98926.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 98926.
+Risk flag: Tile underlayment age in Ellensburg, WA can fail independently of visible tile cracks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Ellensburg, WA, but intake notes help reduce delays.
+TPO seam welds in Ellensburg, WA commercial sections need probe tests after freeze events.
 
-Field note: Access points and staging constraints recorded for ZIP 98926 coverage.
+Regulatory note: Ellensburg, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Dispatch sectors sampled: ZIP 98926 (county grid: Kittitas County).
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+
+roof work brief: starter-strip setback and valley metal gauge were cross-checked for the Ellensburg intake packet.
+
+Regional mesh label Kittitas County: moisture and logistics baselines are keyed to Ellensburg, WA before niche-specific work begins.
+
+On-site sector marker: Kittitas County / primary ZIP 98926 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98926-4ce08a7a

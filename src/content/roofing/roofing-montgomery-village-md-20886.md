@@ -11,24 +11,33 @@ lng: -77.2000
 zipSample: ["20886"]
 zipCodes: ["20886"]
 localPaths: ["Montgomery County / elevation 417 ft band", "Montgomery County / coords 39.1800, -77.2000", "Montgomery County / ZIP 20886 sector", "Montgomery County / primary ZIP 20886"]
-zillowHomeValueUsd: 388808
 ---
 
 **Engineering Notice for Montgomery Village:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Montgomery County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+In Montgomery Village, MD, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Montgomery Village, MD, but intake notes help reduce delays.
+FAQ: Can you tarp only part of the roof? In Montgomery Village, MD, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Local conditions in Montgomery Village, MD can affect timelines and material choices.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-A written scope helps prevent rework and mismatched expectations.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 20886.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 20886 (county grid: Montgomery County).
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roof work brief: drip-edge metal profile and valley metal gauge were cross-checked for the Montgomery Village intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 20886.
+
+On-site sector marker: Montgomery County / elevation 417 ft band — logged for map parity and ZIP-corridor verification.
+
+ZIP-corridor snapshot for Montgomery Village, MD: sampled sectors include 20886; county routing grid remains Montgomery County.
 
 Service reference: MD-20886-71f4f8da

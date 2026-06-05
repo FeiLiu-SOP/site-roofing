@@ -11,24 +11,33 @@ lng: -68.7900
 zipSample: ["04401", "04402"]
 zipCodes: ["04401", "04402"]
 localPaths: ["Penobscot County / ZIP 04402 sector", "Penobscot County / coords 44.8300, -68.7900", "Penobscot County / elevation 167 ft band", "Penobscot County / primary ZIP 04401", "Penobscot County / ZIP 04401 sector"]
-zillowHomeValueUsd: 299382
 ---
 
 **Engineering Notice for Bangor:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Penobscot County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Tile and shingle mixes in Bangor, ME require different fastener patterns at transitions.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Bangor, ME.
 
-We coordinate local dispatch coverage around Bangor, ME and nearby ZIP sectors.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: request a written scope before work starts.
+Step: separate emergency tarp scope from permanent service line items.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Bangor, ME, but intake notes help reduce delays.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Moisture pathway inspection logged near ZIP 04401/04402 intake.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 04401, 04402 (county grid: Penobscot County).
+Regulatory note: Bangor, ME projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: counter-flashing reglet depth plus synthetic underlayment slip referenced in Penobscot County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 04402/04401.
+
+Primary postal anchor 04401 with multi-ZIP overlap in Bangor; field packets tag Penobscot County for county-grid reconciliation.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Penobscot County and primary ZIP 04401. Terrain reference: 167 ft. Center point: 44.8300, -68.7900. ZIP sample: 04401, 04402. Logistics priority: Serving residential sectors across Penobscot County and north-east ZIP 04401 grid.
 
 Service reference: ME-04401-989b872f

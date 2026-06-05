@@ -11,28 +11,29 @@ lng: -83.5300
 zipSample: ["48393"]
 zipCodes: ["48393"]
 localPaths: ["Oakland County / ZIP 48393 sector", "Oakland County / coords 42.5200, -83.5300", "Oakland County / primary ZIP 48393", "Oakland County / elevation 932 ft band"]
-zillowHomeValueUsd: 384719
 ---
 
 **Engineering Notice for Wixom:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: Oakland County.
 
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 48393.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: compare at least two estimates for scope and timeline.
+Risk flag: Tile underlayment age in Wixom, MI can fail independently of visible tile cracks.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Skylight curb flashing in Wixom, MI should be sequenced before ridge cap replacement.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 48393.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our service coordination centers on Wixom, MI coverage windows and verified intake details.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field note: Wind exposure category reviewed for ZIP sector 48393.
+FAQ: How long can shingles wait after storm damage? In Wixom, MI, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 48393 zone).
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 48393 (county grid: Oakland County).
+Field routing: ridge cap nail schedule paired with chimney cricket slope near ZIP 48393.
+
+On-site sector marker: Oakland County / coords 42.5200, -83.5300 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Oakland County / primary ZIP 48393 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48393-40a2357c

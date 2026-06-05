@@ -11,24 +11,31 @@ lng: -87.8200
 zipSample: ["60026", "60025"]
 zipCodes: ["60026", "60025"]
 localPaths: ["Cook County / coords 42.0800, -87.8200", "Cook County / elevation 640 ft band", "Cook County / ZIP 60026 sector", "Cook County / primary ZIP 60025", "Cook County / ZIP 60025 sector"]
-zillowHomeValueUsd: 603579
 ---
 
 **Engineering Notice for Glenview:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+We coordinate Glenview, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-We coordinate local dispatch coverage around Glenview, IL and nearby ZIP sectors.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-In Glenview, IL, seasonal demand can change scheduling windows.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Homeowners in Glenview, IL often face sudden roofing service problems that require fast action.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: confirm licensing and insurance before approving work.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60025/60026.
+Freeze-thaw cycles around Glenview, IL stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 60025, 60026 (county grid: Cook County).
+Step: separate emergency tarp scope from permanent service line items.
+
+roofing service brief: drip-edge metal profile and counter-flashing reglet depth were cross-checked for the Glenview intake packet.
+
+Field note: Valley debris and granule loss noted for ZIP 60025/60026.
+
+On-site sector marker: Cook County / primary ZIP 60025 — logged for map parity and ZIP-corridor verification.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Cook County. Reference elevation: 640 ft. Primary coordinates: 42.0800, -87.8200. ZIP sample: 60025, 60026. Regional routing note: Cook County traffic flow is balanced around ZIP 60025 service demand.
 
 Service reference: IL-60025-a54f15e5

@@ -11,26 +11,31 @@ lng: -80.0700
 zipSample: ["29420", "29485", "29405", "29416", "29423"]
 zipCodes: ["29405", "29406", "29456", "29420", "29423", "29416", "29485", "29419", "29418", "29404"]
 localPaths: ["Charleston County / ZIP 29405 sector", "Charleston County / ZIP 29416 sector", "Charleston County / ZIP 29485 sector", "Charleston County / primary ZIP 29420", "Charleston County / ZIP 29420 sector"]
-zillowHomeValueUsd: 331642
 ---
 
 **Engineering Notice for North Charleston:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Charleston County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Our service coordination centers on North Charleston, SC coverage windows and verified intake details.
+Step: log deck soundings near vents before tear-off is approved.
 
-Transparent pricing helps you compare like-for-like scope items.
+FAQ: Is partial dry-in possible? In North Charleston, SC, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+In North Charleston, SC, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: address recurring issues early to prevent bigger damage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 29405/29420/29418 intake.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Wind exposure category reviewed for ZIP sector 29405/29420/29418.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Dispatch sectors sampled: ZIP 29405, 29420, 29418, 29419, 29404 (county grid: Charleston County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Field routing: soffit intake free area paired with wind uplift clip spacing near ZIP 29420.
+
+On-site sector marker: Charleston County / ZIP 29419 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 32.9100, -80.0700 at elevation ~43 ft aligns with Charleston County intake staging.
 
 Service reference: SC-29420-b772353e

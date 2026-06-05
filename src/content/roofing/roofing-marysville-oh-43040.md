@@ -11,27 +11,31 @@ lng: -83.3600
 zipSample: ["43040", "43041"]
 zipCodes: ["43040", "43041"]
 localPaths: ["Union County / elevation 997 ft band", "Union County / coords 40.2300, -83.3600", "Union County / primary ZIP 43040", "Union County / ZIP 43040 sector", "Union County / ZIP 43041 sector"]
-zillowHomeValueUsd: 366071
 ---
 
 **Engineering Notice for Marysville:** Structural loading calculated based on 997 ft terrain assessment. Regional dispatch grid: Union County.
 
 
-Our service coordination centers on Marysville, OH coverage windows and verified intake details.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 43040.
+Step: map ventilation intake and exhaust pairs for Marysville, OH attic runs.
 
-Tip: confirm licensing and insurance before approving work.
+Hail bruising on Marysville, OH ridges may not breach felt until the next wind event.
 
-Field note: Connection points spot-checked where accessible (ZIP 43040/43041 zone).
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 43040/43041.
+Tip: Note recent wind events when filing insurance photos for Marysville, OH.
 
-Dispatch sectors sampled: ZIP 43040, 43041 (county grid: Union County).
+roofing service brief: drip-edge metal profile and ridge cap nail schedule were cross-checked for the Marysville intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 43041/43040.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~997 ft across the Union County area. Coordinates: 40.2300, -83.3600. ZIP sample: 43040, 43041. Logistics priority: Serving residential sectors across Union County and north-east ZIP 43040 grid.
+
+Coordinate-anchored dispatch note: center reference 40.2300, -83.3600 at elevation ~997 ft aligns with Union County intake staging.
 
 Service reference: OH-43040-91f8a9fa

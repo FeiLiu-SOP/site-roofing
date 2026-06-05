@@ -11,27 +11,33 @@ lng: -115.3300
 zipSample: ["89135"]
 zipCodes: ["89135"]
 localPaths: ["Clark County / coords 36.1200, -115.3300", "Clark County / ZIP 89135 sector", "Clark County / elevation 2887 ft band", "Clark County / primary ZIP 89135"]
-zillowHomeValueUsd: 720066
 ---
 
 **Engineering Notice for Summerlin South:** Structural loading calculated based on 2887 ft terrain assessment. Regional dispatch grid: Clark County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Summerlin South, NV, but intake notes help reduce delays.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-In Summerlin South, NV, seasonal demand can change scheduling windows.
+Step: separate emergency tarp scope from permanent service line items.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 89135.
+Coastal humidity in Summerlin South, NV can slow shingle seal-down after shoulder-season storms.
 
-Tip: avoid large upfront payments without milestones.
+Tip: Note recent wind events when filing insurance photos for Summerlin South, NV.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Material note: In Summerlin South, NV, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 89135.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Connection points spot-checked where accessible (ZIP 89135 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 89135 (county grid: Clark County).
+Risk flag: In Summerlin South, NV, interior stains may track from HVAC condensate rather than roof cladding.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: skylight curb height paired with soffit intake free area near ZIP 89135.
+
+Coordinate-anchored dispatch note: center reference 36.1200, -115.3300 at elevation ~2887 ft aligns with Clark County intake staging.
+
+On-site sector marker: Clark County / elevation 2887 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NV-89135-15450f8f

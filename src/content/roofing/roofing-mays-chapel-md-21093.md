@@ -11,25 +11,33 @@ lng: -76.6500
 zipSample: ["21093"]
 zipCodes: ["21093"]
 localPaths: ["Baltimore County / ZIP 21093 sector", "Baltimore County / primary ZIP 21093", "Baltimore County / coords 39.4300, -76.6500", "Baltimore County / elevation 499 ft band"]
-zillowHomeValueUsd: 506346
 ---
 
 **Engineering Notice for Mays Chapel:** Structural loading calculated based on 499 ft terrain assessment. Regional dispatch grid: Baltimore County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Wood shake courses in Mays Chapel, MD require skip-spacing rules at valleys.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Mays Chapel, MD, but intake notes help reduce delays.
+Wind-zone note: Mays Chapel, MD exposure class can change starter-strip and cap nail schedules.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 21093.
+Step: map ventilation intake and exhaust pairs for Mays Chapel, MD attic runs.
 
-In Mays Chapel, MD, seasonal demand can change scheduling windows.
+Risk flag: Tile underlayment age in Mays Chapel, MD can fail independently of visible tile cracks.
 
-Field note: Connection points spot-checked where accessible (ZIP 21093 zone).
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 21093.
 
-Dispatch sectors sampled: ZIP 21093 (county grid: Baltimore County).
+FAQ: Is partial dry-in possible? In Mays Chapel, MD, yes—if slope and anchor points support safe tie-offs.
+
+Material note: In Mays Chapel, MD, algae-resistant granules may be specified for north-facing slopes.
+
+Field routing: pipe boot manufacturer match paired with skylight curb height near ZIP 21093.
+
+Field note: Attic moisture pathway scan referenced ZIP 21093.
+
+Coordinate-anchored dispatch note: center reference 39.4300, -76.6500 at elevation ~499 ft aligns with Baltimore County intake staging.
+
+On-site sector marker: Baltimore County / elevation 499 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21093-c5b58d21

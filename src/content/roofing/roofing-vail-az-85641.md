@@ -11,27 +11,33 @@ lng: -110.6900
 zipSample: ["85744", "85641"]
 zipCodes: ["85744", "85641"]
 localPaths: ["Pima County / ZIP 85744 sector", "Pima County / coords 32.0200, -110.6900", "Pima County / elevation 3346 ft band", "Pima County / primary ZIP 85641", "Pima County / ZIP 85641 sector"]
-zillowHomeValueUsd: 407196
 ---
 
 **Engineering Notice for Vail:** Structural loading calculated based on 3346 ft terrain assessment. Regional dispatch grid: Pima County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Code context: Ventilation ratios for Vail, AZ attics should be checked against current mechanical exhaust additions.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 85641.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+We coordinate Vail, AZ roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85744/85641.
+FAQ: How long can shingles wait after storm damage? In Vail, AZ, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 85744/85641 zone).
+Attic ventilation deficits in Vail, AZ can mimic roof leaks at ceiling penetrations.
 
-Dispatch sectors sampled: ZIP 85744, 85641 (county grid: Pima County).
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+Field routing: deck sheathing thickness paired with wind uplift clip spacing near ZIP 85641.
+
+Field note: Valley debris and granule loss noted for ZIP 85641/85744.
+
+Primary postal anchor 85641 with multi-ZIP overlap in Vail; field packets tag Pima County for county-grid reconciliation.
+
+On-site sector marker: Pima County / coords 32.0200, -110.6900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85641-96227cdd

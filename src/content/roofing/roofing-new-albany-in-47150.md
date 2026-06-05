@@ -11,24 +11,29 @@ lng: -85.8200
 zipSample: ["47151", "47150"]
 zipCodes: ["47151", "47150"]
 localPaths: ["Floyd County / coords 38.3100, -85.8200", "Floyd County / ZIP 47151 sector", "Floyd County / elevation 482 ft band", "Floyd County / ZIP 47150 sector", "Floyd County / primary ZIP 47150"]
-zillowHomeValueUsd: 232456
 ---
 
 **Engineering Notice for New Albany:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Floyd County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in New Albany, IN, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-We coordinate local dispatch coverage around New Albany, IN and nearby ZIP sectors.
+In New Albany, IN, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Tip: compare at least two estimates for scope and timeline.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field note: Access points and staging constraints recorded for ZIP 47150/47151 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Dispatch sectors sampled: ZIP 47150, 47151 (county grid: Floyd County).
+FAQ: How long can shingles wait after storm damage? In New Albany, IN, delayed dry-in can expand insulation and ceiling repairs.
+
+Field routing: pipe boot manufacturer match paired with valley metal gauge near ZIP 47150.
+
+On-site sector marker: Floyd County / primary ZIP 47150 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 38.3100, -85.8200 at elevation ~482 ft aligns with Floyd County intake staging.
 
 Service reference: IN-47150-a69073b9

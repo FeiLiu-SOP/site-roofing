@@ -11,24 +11,33 @@ lng: -92.6000
 zipSample: ["55089", "55066"]
 zipCodes: ["55066", "55089"]
 localPaths: ["Goodhue County / coords 44.5800, -92.6000", "Goodhue County / ZIP 55089 sector", "Goodhue County / elevation 686 ft band", "Goodhue County / primary ZIP 55089", "Goodhue County / ZIP 55066 sector"]
-zillowHomeValueUsd: 486960
 ---
 
 **Engineering Notice for Red Wing:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Goodhue County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Material note: In Red Wing, MN, algae-resistant granules may be specified for north-facing slopes.
 
-In Red Wing, MN, urgent roof service issues can escalate quickly.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Red Wing, MN, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Our service coordination centers on Red Wing, MN coverage windows and verified intake details.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: request a written scope before work starts.
+FAQ: When should permanent restoration start? In Red Wing, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Moisture pathway inspection logged near ZIP 55089/55066 intake.
+Valley metal in Red Wing, MN should be reviewed whenever granule loss tracks the water line.
 
-Dispatch sectors sampled: ZIP 55089, 55066 (county grid: Goodhue County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Code context: Ventilation ratios for Red Wing, MN attics should be checked against current mechanical exhaust additions.
+
+Field routing: chimney cricket slope paired with drip-edge metal profile near ZIP 55089.
+
+Field note: Attic moisture pathway scan referenced ZIP 55066/55089.
+
+On-site sector marker: Goodhue County / ZIP 55066 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 55089 with multi-ZIP overlap in Red Wing; field packets tag Goodhue County for county-grid reconciliation.
 
 Service reference: MN-55089-61059456

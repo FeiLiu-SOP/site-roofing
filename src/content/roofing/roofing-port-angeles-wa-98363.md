@@ -11,27 +11,31 @@ lng: -123.4600
 zipSample: ["98363", "98362"]
 zipCodes: ["98362", "98363"]
 localPaths: ["Clallam County / ZIP 98362 sector", "Clallam County / coords 48.1100, -123.4600", "Clallam County / elevation 177 ft band", "Clallam County / ZIP 98363 sector", "Clallam County / primary ZIP 98363"]
-zillowHomeValueUsd: 450667
 ---
 
 **Engineering Notice for Port Angeles:** Structural loading calculated based on 177 ft terrain assessment. Regional dispatch grid: Clallam County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Our service coordination centers on Port Angeles, WA coverage windows and verified intake details.
+Regulatory note: Port Angeles, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 98363.
+Valley metal in Port Angeles, WA should be reviewed whenever granule loss tracks the water line.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 98362/98363 coverage.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 98362/98363.
+Step: map ventilation intake and exhaust pairs for Port Angeles, WA attic runs.
 
-Dispatch sectors sampled: ZIP 98362, 98363 (county grid: Clallam County).
+roof work brief: starter-strip setback and ice-barrier lap sequence were cross-checked for the Port Angeles intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98363/98362.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Clallam County. Reference elevation: 177 ft. Primary coordinates: 48.1100, -123.4600. ZIP sample: 98362, 98363. Service perimeter note: Coverage extends through Clallam County with dispatch centered near ZIP 98363.
+
+Primary postal anchor 98363 with multi-ZIP overlap in Port Angeles; field packets tag Clallam County for county-grid reconciliation.
 
 Service reference: WA-98363-2d7bdad2

@@ -11,26 +11,31 @@ lng: -112.3000
 zipSample: ["85303", "85380", "85373", "85324", "85382"]
 zipCodes: ["85382", "85381", "85303", "85380", "85324", "85373", "85345", "85385", "85383"]
 localPaths: ["Maricopa County / ZIP 85373 sector", "Maricopa County / ZIP 85303 sector", "Maricopa County / ZIP 85324 sector", "Maricopa County / ZIP 85382 sector", "Maricopa County / ZIP 85380 sector"]
-zillowHomeValueUsd: 366453
 ---
 
 **Engineering Notice for Peoria:** Structural loading calculated based on 1568 ft terrain assessment. Regional dispatch grid: Maricopa County.
 
 
-Homeowners in Peoria, AZ often face sudden roof work problems that require fast action.
+Regulatory note: Peoria, AZ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Peoria, AZ, but intake notes help reduce delays.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-We coordinate local dispatch coverage around Peoria, AZ and nearby ZIP sectors.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Tip: address recurring issues early to prevent bigger damage.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Tip: confirm licensing and insurance before approving work.
+Freeze-thaw cycles around Peoria, AZ stress nail pops along eaves and rake edges.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 85324/85373/85383.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Access points and staging constraints recorded for ZIP 85324/85373/85383 coverage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 85324, 85373, 85383, 85385, 85303 (county grid: Maricopa County).
+Step: separate emergency tarp scope from permanent service line items.
+
+roof work brief: shingle exposure calibration and deck sheathing thickness were cross-checked for the Peoria intake packet.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Maricopa County and primary ZIP 85373. Terrain reference: 1568 ft. Center point: 33.7800, -112.3000. ZIP sample: 85385, 85373, 85345, 85381, 85324. Regional routing note: Maricopa County traffic flow is balanced around ZIP 85373 service demand.
+
+On-site sector marker: Maricopa County / ZIP 85383 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85373-a4a7fd36

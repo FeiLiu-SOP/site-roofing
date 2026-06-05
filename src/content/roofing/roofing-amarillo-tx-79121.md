@@ -11,26 +11,29 @@ lng: -101.8300
 zipSample: ["79117", "79116", "79107", "79103", "79120"]
 zipCodes: ["79174", "79104", "79168", "79172", "79116", "79101", "79110", "79107", "79111", "79106", "79117", "79121"]
 localPaths: ["Potter County / ZIP 79116 sector", "Potter County / ZIP 79117 sector", "Potter County / elevation 3675 ft band", "Potter County / coords 35.2000, -101.8300", "Potter County / ZIP 79103 sector"]
-zillowHomeValueUsd: 298027
 ---
 
 **Engineering Notice for Amarillo:** Structural loading calculated based on 3675 ft terrain assessment. Regional dispatch grid: Potter County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Amarillo, TX, but intake notes help reduce delays.
+Wind-zone note: Amarillo, TX exposure class can change starter-strip and cap nail schedules.
 
-Transparent pricing helps you compare like-for-like scope items.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 79121.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: document ice-barrier extent at eaves when code upgrades apply.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: In Amarillo, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 79102/79106/79118.
+FAQ: How long can shingles wait after storm damage? In Amarillo, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 79102/79106/79118.
+Tile and shingle mixes in Amarillo, TX require different fastener patterns at transitions.
 
-Dispatch sectors sampled: ZIP 79102, 79106, 79118, 79168, 79189 (county grid: Potter County).
+roof service brief: skylight curb height and valley metal gauge were cross-checked for the Amarillo intake packet.
+
+On-site sector marker: Potter County / ZIP 79111 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Potter County / ZIP 79168 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79121-5767b41c

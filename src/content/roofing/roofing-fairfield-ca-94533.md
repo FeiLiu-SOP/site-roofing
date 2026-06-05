@@ -11,26 +11,31 @@ lng: -122.0300
 zipSample: ["94535", "94533", "94534"]
 zipCodes: ["94535", "94534", "94533"]
 localPaths: ["Solano County / coords 38.2600, -122.0300", "Solano County / primary ZIP 94533", "Solano County / elevation 26 ft band", "Solano County / ZIP 94534 sector", "Solano County / ZIP 94535 sector"]
-zillowHomeValueUsd: 539170
 ---
 
 **Engineering Notice for Fairfield:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Solano County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Fairfield, CA, but intake notes help reduce delays.
+Across Fairfield, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Wind-zone note: Fairfield, CA exposure class can change starter-strip and cap nail schedules.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field note: Wind exposure category reviewed for ZIP sector 94533/94534/94535.
+Risk flag: Tile underlayment age in Fairfield, CA can fail independently of visible tile cracks.
 
-Field note: Moisture pathway inspection logged near ZIP 94533/94534/94535 intake.
+FAQ: Can you tarp only part of the roof? In Fairfield, CA, yes—if slope and anchor points support safe tie-offs.
 
-Dispatch sectors sampled: ZIP 94533, 94534, 94535 (county grid: Solano County).
+Scope trace: skylight curb height plus synthetic underlayment slip referenced in Solano County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 94535/94533/94534.
+
+On-site sector marker: Solano County / elevation 26 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Solano County / ZIP 94533 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94533-15818fd2

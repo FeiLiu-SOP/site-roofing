@@ -11,26 +11,31 @@ lng: -96.9700
 zipSample: ["75060", "75059", "75368", "75063", "75326"]
 zipCodes: ["75015", "75039", "75059", "75014", "75038", "75368", "75062", "75063", "75061", "75060", "75326", "75017"]
 localPaths: ["Dallas County / primary ZIP 75063", "Dallas County / ZIP 75063 sector", "Dallas County / ZIP 75368 sector", "Dallas County / elevation 577 ft band", "Dallas County / ZIP 75326 sector"]
-zillowHomeValueUsd: 610904
 ---
 
 **Engineering Notice for Irving:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Dallas County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Wind-zone note: Irving, TX exposure class can change starter-strip and cap nail schedules.
 
-Local conditions in Irving, TX can affect timelines and material choices.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Step: log deck soundings near vents before tear-off is approved.
 
-Tip: address recurring issues early to prevent bigger damage.
+Our Irving, TX dispatch packets reference county grid Dallas County and elevation band 577 ft.
 
-Field note: Wind exposure category reviewed for ZIP sector 75061/75059/75014.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Connection points spot-checked where accessible (ZIP 75061/75059/75014 zone).
+Metal panel oil-canning in Irving, TX may signal clip spacing issues, not wind damage alone.
 
-Dispatch sectors sampled: ZIP 75061, 75059, 75014, 75326, 75062 (county grid: Dallas County).
+Scope trace: ridge cap nail schedule plus shingle exposure calibration referenced in Dallas County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 75063/75038/75059.
+
+Coordinate-anchored dispatch note: center reference 32.8600, -96.9700 at elevation ~577 ft aligns with Dallas County intake staging.
+
+ZIP-corridor snapshot for Irving, TX: sampled sectors include 75062, 75368, 75017, 75060, 75014, 75326, 75015, 75061; county routing grid remains Dallas County.
 
 Service reference: TX-75063-08ffabf1

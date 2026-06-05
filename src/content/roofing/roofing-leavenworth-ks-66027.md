@@ -11,24 +11,31 @@ lng: -94.9200
 zipSample: ["66048", "66027"]
 zipCodes: ["66027", "66048"]
 localPaths: ["Leavenworth County / ZIP 66048 sector", "Leavenworth County / ZIP 66027 sector", "Leavenworth County / elevation 860 ft band", "Leavenworth County / coords 39.3200, -94.9200", "Leavenworth County / primary ZIP 66027"]
-zillowHomeValueUsd: 260091
 ---
 
 **Engineering Notice for Leavenworth:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Leavenworth County.
 
 
-We coordinate local dispatch coverage around Leavenworth, KS and nearby ZIP sectors.
+Attic ventilation deficits in Leavenworth, KS can mimic roof leaks at ceiling penetrations.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Tile underlayment age in Leavenworth, KS can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+Regulatory note: Leavenworth, KS projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Moisture pathway inspection logged near ZIP 66027/66048 intake.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Dispatch sectors sampled: ZIP 66027, 66048 (county grid: Leavenworth County).
+Step: map ventilation intake and exhaust pairs for Leavenworth, KS attic runs.
+
+Field routing: valley metal gauge paired with ridge cap nail schedule near ZIP 66027.
+
+Field note: Valley debris and granule loss noted for ZIP 66048/66027.
+
+On-site sector marker: Leavenworth County / ZIP 66027 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Leavenworth County / ZIP 66048 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-66027-96fb62cc

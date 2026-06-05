@@ -11,24 +11,33 @@ lng: -85.0800
 zipSample: ["30112", "30117", "30109", "30118", "30116"]
 zipCodes: ["30116", "30109", "30118", "30117", "30112"]
 localPaths: ["Carroll County / elevation 1066 ft band", "Carroll County / ZIP 30116 sector", "Carroll County / coords 33.5800, -85.0800", "Carroll County / ZIP 30112 sector", "Carroll County / ZIP 30109 sector"]
-zillowHomeValueUsd: 281220
 ---
 
 **Engineering Notice for Carrollton:** Structural loading calculated based on 1066 ft terrain assessment. Regional dispatch grid: Carroll County.
 
 
-In Carrollton, GA, seasonal demand can change scheduling windows.
+In Carrollton, GA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-We coordinate local dispatch coverage around Carrollton, GA and nearby ZIP sectors.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: confirm licensing and insurance before approving work.
+Risk flag: Tile underlayment age in Carrollton, GA can fail independently of visible tile cracks.
 
-Tip: address recurring issues early to prevent bigger damage.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: When should permanent remediation start? In Carrollton, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 30112/30116/30109 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 30112, 30116, 30109, 30118, 30117 (county grid: Carroll County).
+Material note: In Carrollton, GA, algae-resistant granules may be specified for north-facing slopes.
+
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+roof service brief: wind uplift clip spacing and chimney cricket slope were cross-checked for the Carrollton intake packet.
+
+On-site sector marker: Carroll County / ZIP 30118 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Carroll County / elevation 1066 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30118-b66d3877

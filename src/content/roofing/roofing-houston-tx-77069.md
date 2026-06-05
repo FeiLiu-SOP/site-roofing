@@ -11,26 +11,31 @@ lng: -95.3900
 zipSample: ["77074", "77208", "77261", "77287", "77274"]
 zipCodes: ["77407", "77084", "77504", "77254", "77085", "77292", "77091", "77073", "77336", "77028", "77223", "77060"]
 localPaths: ["Harris County / elevation 69 ft band", "Harris County / ZIP 77261 sector", "Harris County / ZIP 77074 sector", "Harris County / coords 29.7900, -95.3900", "Harris County / ZIP 77274 sector"]
-zillowHomeValueUsd: 330498
 ---
 
 **Engineering Notice for Houston:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Harris County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Synthetic underlayment slip in Houston, TX is often tied to deck moisture, not wind alone.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: When should permanent remediation start? In Houston, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-A written scope helps prevent rework and mismatched expectations.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 77069.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Moisture pathway inspection logged near ZIP 77237/77036/77046 intake.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 77237/77036/77046.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 77237, 77036, 77046, 77291, 77047 (county grid: Harris County).
+Scope trace: drip-edge metal profile plus deck sheathing thickness referenced in Harris County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 77081/77086/77245.
+
+On-site sector marker: Harris County / ZIP 77028 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Harris County / ZIP 77059 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77069-571995d4

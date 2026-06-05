@@ -11,25 +11,33 @@ lng: -111.1600
 zipSample: ["85743", "85652", "85742", "85653", "85658"]
 zipCodes: ["85658", "85740", "85652", "85743", "85653", "85741", "85742"]
 localPaths: ["Pima County / ZIP 85653 sector", "Pima County / elevation 2067 ft band", "Pima County / primary ZIP 85653", "Pima County / coords 32.4400, -111.1600", "Pima County / ZIP 85658 sector"]
-zillowHomeValueUsd: 386437
 ---
 
 **Engineering Notice for Marana:** Structural loading calculated based on 2067 ft terrain assessment. Regional dispatch grid: Pima County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 85653.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Homeowners in Marana, AZ often face sudden roofing service problems that require fast action.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Our service coordination centers on Marana, AZ coverage windows and verified intake details.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+TPO seam welds in Marana, AZ commercial sections need probe tests after freeze events.
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 85652/85740/85741.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Dispatch sectors sampled: ZIP 85652, 85740, 85741, 85653, 85658 (county grid: Pima County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Risk flag: Tile underlayment age in Marana, AZ can fail independently of visible tile cracks.
+
+roofing service brief: shingle exposure calibration and drip-edge metal profile were cross-checked for the Marana intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 85743/85740/85653.
+
+On-site sector marker: Pima County / ZIP 85653 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Pima County / coords 32.4400, -111.1600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-85653-aa3af6ab

@@ -11,24 +11,33 @@ lng: -119.7900
 zipSample: ["93755", "93772", "93726", "93771", "93794"]
 zipCodes: ["93744", "93765", "93706", "93724", "93792", "93717", "93774", "93750", "93844", "93720", "93705", "93701"]
 localPaths: ["Fresno County / coords 36.7800, -119.7900", "Fresno County / ZIP 93726 sector", "Fresno County / elevation 328 ft band", "Fresno County / ZIP 93794 sector", "Fresno County / ZIP 93772 sector"]
-zillowHomeValueUsd: 401098
 ---
 
 **Engineering Notice for Fresno:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Fresno County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-We coordinate local dispatch coverage around Fresno, CA and nearby ZIP sectors.
+Granule embedment loss on Fresno, CA north slopes can precede mat exposure.
 
-Transparent pricing helps you compare like-for-like scope items.
+Wind-zone note: Fresno, CA exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 93711/93760/93772.
+Step: map ventilation intake and exhaust pairs for Fresno, CA attic runs.
 
-Dispatch sectors sampled: ZIP 93711, 93760, 93772, 93792, 93775 (county grid: Fresno County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Risk flag: Tile underlayment age in Fresno, CA can fail independently of visible tile cracks.
+
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
+
+Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Fresno County county grid review.
+
+Coordinate-anchored dispatch note: center reference 36.7800, -119.7900 at elevation ~328 ft aligns with Fresno County intake staging.
+
+On-site sector marker: Fresno County / elevation 328 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93740-cb7dfde9

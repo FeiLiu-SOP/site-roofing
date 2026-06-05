@@ -11,26 +11,33 @@ lng: -80.9400
 zipSample: ["29716", "29715"]
 zipCodes: ["29715", "29716"]
 localPaths: ["York County / ZIP 29715 sector", "York County / elevation 656 ft band", "York County / primary ZIP 29715", "York County / coords 35.0100, -80.9400", "York County / ZIP 29716 sector"]
-zillowHomeValueUsd: 486328
 ---
 
 **Engineering Notice for Fort Mill:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: York County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Fort Mill, SC, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-We coordinate local dispatch coverage around Fort Mill, SC and nearby ZIP sectors.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: compare at least two estimates for scope and timeline.
+Metal panel oil-canning in Fort Mill, SC may signal clip spacing issues, not wind damage alone.
 
-Transparent pricing helps you compare like-for-like scope items.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Wind exposure category reviewed for ZIP sector 29715/29716.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 29715.
 
-Field note: Moisture pathway inspection logged near ZIP 29715/29716 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 29715, 29716 (county grid: York County).
+Step: stage tear-off debris paths away from landscape drains.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+roofing service brief: shingle exposure calibration and counter-flashing reglet depth were cross-checked for the Fort Mill intake packet.
+
+On-site sector marker: York County / ZIP 29716 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: York County / primary ZIP 29715 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29715-21918f37

@@ -11,27 +11,31 @@ lng: -80.6500
 zipSample: ["28227"]
 zipCodes: ["28227"]
 localPaths: ["Mecklenburg County / elevation 791 ft band", "Mecklenburg County / primary ZIP 28227", "Mecklenburg County / coords 35.1800, -80.6500", "Mecklenburg County / ZIP 28227 sector"]
-zillowHomeValueUsd: 390092
 ---
 
 **Engineering Notice for Mint Hill:** Structural loading calculated based on 791 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
 
 
-We coordinate local dispatch coverage around Mint Hill, NC and nearby ZIP sectors.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Homeowners in Mint Hill, NC often face sudden roof service problems that require fast action.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 28227.
+Coastal humidity in Mint Hill, NC can slow shingle seal-down after shoulder-season storms.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field note: Moisture pathway inspection logged near ZIP 28227 intake.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field note: Wind exposure category reviewed for ZIP sector 28227.
+Step: compare shingle manufacturer wind-zone ratings for Mint Hill, NC exposure class.
 
-Dispatch sectors sampled: ZIP 28227 (county grid: Mecklenburg County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Field routing: starter-strip setback paired with drip-edge metal profile near ZIP 28227.
+
+On-site sector marker: Mecklenburg County / primary ZIP 28227 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 35.1800, -80.6500 at elevation ~791 ft aligns with Mecklenburg County intake staging.
 
 Service reference: NC-28227-c1b866f3

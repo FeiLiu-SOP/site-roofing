@@ -11,25 +11,33 @@ lng: -81.2200
 zipSample: ["29072", "29071"]
 zipCodes: ["29071", "29072"]
 localPaths: ["Lexington County / primary ZIP 29072", "Lexington County / ZIP 29072 sector", "Lexington County / elevation 338 ft band", "Lexington County / coords 33.9900, -81.2200", "Lexington County / ZIP 29071 sector"]
-zillowHomeValueUsd: 361359
 ---
 
 **Engineering Notice for Lexington:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Lexington County.
 
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: In Lexington, SC, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Valley metal in Lexington, SC should be reviewed whenever granule loss tracks the water line.
 
-Transparent pricing helps you compare like-for-like scope items.
+Code context: Ventilation ratios for Lexington, SC attics should be checked against current mechanical exhaust additions.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 29072.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Connection points spot-checked where accessible (ZIP 29072/29071 zone).
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Dispatch sectors sampled: ZIP 29072, 29071 (county grid: Lexington County).
+Step: verify starter-strip alignment before field shingle exposure is set.
+
+Tip: Note recent wind events when filing insurance photos for Lexington, SC.
+
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
+
+Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Lexington County county grid review.
+
+On-site sector marker: Lexington County / primary ZIP 29072 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 33.9900, -81.2200 at elevation ~338 ft aligns with Lexington County intake staging.
 
 Service reference: SC-29072-9c106034

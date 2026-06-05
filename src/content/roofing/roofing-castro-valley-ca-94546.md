@@ -11,25 +11,31 @@ lng: -122.0600
 zipSample: ["94552", "94578", "94546"]
 zipCodes: ["94578", "94552", "94546"]
 localPaths: ["Alameda County / ZIP 94578 sector", "Alameda County / elevation 361 ft band", "Alameda County / primary ZIP 94546", "Alameda County / ZIP 94546 sector", "Alameda County / ZIP 94552 sector"]
-zillowHomeValueUsd: 1035771
 ---
 
 **Engineering Notice for Castro Valley:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Alameda County.
 
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 94546.
+Skylight curb flashing in Castro Valley, CA should be sequenced before ridge cap replacement.
 
-Tip: request a written scope before work starts.
+We coordinate Castro Valley, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-We coordinate local dispatch coverage around Castro Valley, CA and nearby ZIP sectors.
+Code context: Ventilation ratios for Castro Valley, CA attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Castro Valley, CA, but intake notes help reduce delays.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: compare at least two estimates for scope and timeline.
+FAQ: How long can shingles wait after storm damage? In Castro Valley, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 94546/94578/94552 coverage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Dispatch sectors sampled: ZIP 94546, 94578, 94552 (county grid: Alameda County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Scope trace: ice-barrier lap sequence plus ridge cap nail schedule referenced in Alameda County county grid review.
+
+On-site sector marker: Alameda County / ZIP 94578 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 94546 with multi-ZIP overlap in Castro Valley; field packets tag Alameda County for county-grid reconciliation.
 
 Service reference: CA-94546-281da140

@@ -11,27 +11,35 @@ lng: -90.4200
 zipSample: ["63122"]
 zipCodes: ["63122"]
 localPaths: ["St. Louis County / coords 38.5800, -90.4200", "St. Louis County / elevation 594 ft band", "St. Louis County / primary ZIP 63122", "St. Louis County / ZIP 63122 sector"]
-zillowHomeValueUsd: 505125
 ---
 
 **Engineering Notice for Kirkwood:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: St. Louis County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Tip: avoid large upfront payments without milestones.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: confirm licensing and insurance before approving work.
+Wood shake courses in Kirkwood, MO require skip-spacing rules at valleys.
 
-Our service coordination centers on Kirkwood, MO coverage windows and verified intake details.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 63122.
+Step: compare shingle manufacturer wind-zone ratings for Kirkwood, MO exposure class.
 
-Field note: Moisture pathway inspection logged near ZIP 63122 intake.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 63122 coverage.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 63122 (county grid: St. Louis County).
+Wind-zone note: Kirkwood, MO exposure class can change starter-strip and cap nail schedules.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Field routing: shingle exposure calibration paired with chimney cricket slope near ZIP 63122.
+
+Field note: Attic moisture pathway scan referenced ZIP 63122.
+
+ZIP-corridor snapshot for Kirkwood, MO: sampled sectors include 63122; county routing grid remains St. Louis County.
+
+**Regional Infrastructure Brief:** Service coverage aligns with St. Louis County and primary ZIP 63122. Terrain reference: 594 ft. Center point: 38.5800, -90.4200. ZIP sample: 63122. Regional routing note: St. Louis County traffic flow is balanced around ZIP 63122 service demand.
 
 Service reference: MO-63122-ee461a5a

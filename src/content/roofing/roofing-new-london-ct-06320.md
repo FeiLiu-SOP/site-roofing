@@ -11,25 +11,35 @@ lng: -72.1000
 zipSample: ["06320"]
 zipCodes: ["06320"]
 localPaths: ["Southeastern Connecticut County / elevation 30 ft band", "Southeastern Connecticut County / ZIP 06320 sector", "Southeastern Connecticut County / coords 41.3500, -72.1000", "Southeastern Connecticut County / primary ZIP 06320"]
-zillowHomeValueUsd: 312561
 ---
 
 **Engineering Notice for New London:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Southeastern Connecticut County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: map ventilation intake and exhaust pairs for New London, CT attic runs.
 
-Our service coordination centers on New London, CT coverage windows and verified intake details.
+FAQ: Is partial dry-in possible? In New London, CT, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Material note: In New London, CT, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 06320.
+Metal panel oil-canning in New London, CT may signal clip spacing issues, not wind damage alone.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 06320.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 06320 (county grid: Southeastern Connecticut County).
+Risk flag: In New London, CT, interior stains may track from HVAC condensate rather than roof cladding.
+
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+Scope trace: deck sheathing thickness plus wind uplift clip spacing referenced in Southeastern Connecticut County county grid review.
+
+Field note: Valley debris and granule loss noted for ZIP 06320.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~30 ft across the Southeastern Connecticut County area. Coordinates: 41.3500, -72.1000. ZIP sample: 06320. Logistics priority: Serving residential sectors across Southeastern Connecticut County and north-east ZIP 06320 grid.
+
+ZIP-corridor snapshot for New London, CT: sampled sectors include 06320; county routing grid remains Southeastern Connecticut County.
 
 Service reference: CT-06320-aa56972f

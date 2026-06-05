@@ -11,24 +11,31 @@ lng: -81.4300
 zipSample: ["44224"]
 zipCodes: ["44224"]
 localPaths: ["Summit County / coords 41.1800, -81.4300", "Summit County / primary ZIP 44224", "Summit County / elevation 1152 ft band", "Summit County / ZIP 44224 sector"]
-zillowHomeValueUsd: 293488
 ---
 
 **Engineering Notice for Stow:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Summit County.
 
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Stow, OH, but intake notes help reduce delays.
+Tip: Note recent wind events when filing insurance photos for Stow, OH.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Code context: Ventilation ratios for Stow, OH attics should be checked against current mechanical exhaust additions.
 
-Tip: compare at least two estimates for scope and timeline.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-We coordinate local dispatch coverage around Stow, OH and nearby ZIP sectors.
+Wood shake courses in Stow, OH require skip-spacing rules at valleys.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 44224.
+Risk flag: In Stow, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 44224 (county grid: Summit County).
+Our Stow, OH dispatch packets reference county grid Summit County and elevation band 1152 ft.
+
+roof work brief: wind uplift clip spacing and chimney cricket slope were cross-checked for the Stow intake packet.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 44224.
+
+Coordinate-anchored dispatch note: center reference 41.1800, -81.4300 at elevation ~1152 ft aligns with Summit County intake staging.
+
+Primary postal anchor 44224 with multi-ZIP overlap in Stow; field packets tag Summit County for county-grid reconciliation.
 
 Service reference: OH-44224-c31219f8

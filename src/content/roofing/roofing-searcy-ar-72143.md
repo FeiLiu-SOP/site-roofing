@@ -11,24 +11,31 @@ lng: -91.7400
 zipSample: ["72143", "72145", "72149"]
 zipCodes: ["72149", "72145", "72143"]
 localPaths: ["White County / ZIP 72145 sector", "White County / elevation 233 ft band", "White County / primary ZIP 72143", "White County / ZIP 72149 sector", "White County / ZIP 72143 sector"]
-zillowHomeValueUsd: 217347
 ---
 
 **Engineering Notice for Searcy:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: White County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Tip: request a written scope before work starts.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Local conditions in Searcy, AR can affect timelines and material choices.
+Tile and shingle mixes in Searcy, AR require different fastener patterns at transitions.
 
-Tip: address recurring issues early to prevent bigger damage.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Searcy, AR, but intake notes help reduce delays.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Connection points spot-checked where accessible (ZIP 72143/72145/72149 zone).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Dispatch sectors sampled: ZIP 72143, 72145, 72149 (county grid: White County).
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
+
+Step: map ventilation intake and exhaust pairs for Searcy, AR attic runs.
+
+Field routing: counter-flashing reglet depth paired with chimney cricket slope near ZIP 72143.
+
+Regional mesh label White County: moisture and logistics baselines are keyed to Searcy, AR before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 35.2400, -91.7400 at elevation ~233 ft aligns with White County intake staging.
 
 Service reference: AR-72143-36e60657

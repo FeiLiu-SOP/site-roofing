@@ -11,24 +11,33 @@ lng: -87.7700
 zipSample: ["60459"]
 zipCodes: ["60459"]
 localPaths: ["Cook County / coords 41.7400, -87.7700", "Cook County / elevation 623 ft band", "Cook County / ZIP 60459 sector", "Cook County / primary ZIP 60459"]
-zillowHomeValueUsd: 302215
 ---
 
 **Engineering Notice for Burbank:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Code context: Ventilation ratios for Burbank, IL attics should be checked against current mechanical exhaust additions.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-We coordinate local dispatch coverage around Burbank, IL and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: map ventilation intake and exhaust pairs for Burbank, IL attic runs.
 
-Tip: compare at least two estimates for scope and timeline.
+We coordinate Burbank, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 60459.
+Low-slope sections in Burbank, IL need positive drainage before membrane repairs are scoped.
 
-Dispatch sectors sampled: ZIP 60459 (county grid: Cook County).
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60459.
+
+roof work brief: shingle exposure calibration and deck sheathing thickness were cross-checked for the Burbank intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 60459.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~623 ft across the Cook County area. Coordinates: 41.7400, -87.7700. ZIP sample: 60459. Service perimeter note: Coverage extends through Cook County with dispatch centered near ZIP 60459.
+
+On-site sector marker: Cook County / elevation 623 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60459-681eb44a

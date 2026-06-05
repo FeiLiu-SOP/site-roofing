@@ -11,25 +11,33 @@ lng: -97.2300
 zipSample: ["76248", "76262"]
 zipCodes: ["76248", "76262"]
 localPaths: ["Tarrant County / ZIP 76262 sector", "Tarrant County / coords 32.9300, -97.2300", "Tarrant County / ZIP 76248 sector", "Tarrant County / elevation 669 ft band", "Tarrant County / primary ZIP 76248"]
-zillowHomeValueUsd: 589552
 ---
 
 **Engineering Notice for Keller:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Tarrant County.
 
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 76248.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: Is partial dry-in possible? In Keller, TX, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Keller, TX, but intake notes help reduce delays.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Clear documentation helps align materials, labor, and timeline.
+Attic ventilation deficits in Keller, TX can mimic roof leaks at ceiling penetrations.
 
-Tip: confirm licensing and insurance before approving work.
+Step: log deck soundings near vents before tear-off is approved.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 76262/76248.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Dispatch sectors sampled: ZIP 76262, 76248 (county grid: Tarrant County).
+Regulatory note: Keller, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 76248.
+
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
+
+roof service brief: counter-flashing reglet depth and deck sheathing thickness were cross-checked for the Keller intake packet.
+
+On-site sector marker: Tarrant County / ZIP 76248 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Tarrant County / primary ZIP 76248 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76248-0b4e5969

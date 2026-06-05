@@ -11,24 +11,31 @@ lng: -87.1900
 zipSample: ["32504", "32522", "32591", "32503", "32524"]
 zipCodes: ["32591", "32522", "32504", "32524", "32502", "32503", "32513", "32501"]
 localPaths: ["Escambia County / coords 30.4400, -87.1900", "Escambia County / ZIP 32503 sector", "Escambia County / elevation 56 ft band", "Escambia County / ZIP 32522 sector", "Escambia County / ZIP 32591 sector"]
-zillowHomeValueUsd: 294313
 ---
 
 **Engineering Notice for Pensacola:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Escambia County.
 
 
-Tip: avoid large upfront payments without milestones.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-We coordinate local dispatch coverage around Pensacola, FL and nearby ZIP sectors.
+Risk flag: Tile underlayment age in Pensacola, FL can fail independently of visible tile cracks.
 
-Clear documentation helps align materials, labor, and timeline.
+Metal panel oil-canning in Pensacola, FL may signal clip spacing issues, not wind damage alone.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Structured milestones protect both sides when scheduling work.
+Regulatory note: Pensacola, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field note: Moisture pathway inspection logged near ZIP 32591/32502/32503 intake.
+Tip: Note recent wind events when filing insurance photos for Pensacola, FL.
 
-Dispatch sectors sampled: ZIP 32591, 32502, 32503, 32504, 32501 (county grid: Escambia County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+FAQ: Can you tarp only part of the roof? In Pensacola, FL, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: soffit intake free area paired with chimney cricket slope near ZIP 32503.
+
+ZIP-corridor snapshot for Pensacola, FL: sampled sectors include 32504, 32503, 32591, 32522, 32513, 32524, 32501, 32502; county routing grid remains Escambia County.
+
+On-site sector marker: Escambia County / primary ZIP 32503 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32503-c6e4ed87

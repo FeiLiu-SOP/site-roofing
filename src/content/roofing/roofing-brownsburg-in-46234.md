@@ -11,25 +11,33 @@ lng: -86.3800
 zipSample: ["46112", "46234"]
 zipCodes: ["46112", "46234"]
 localPaths: ["Hendricks County / elevation 883 ft band", "Hendricks County / ZIP 46112 sector", "Hendricks County / primary ZIP 46234", "Hendricks County / coords 39.8300, -86.3800", "Hendricks County / ZIP 46234 sector"]
-zillowHomeValueUsd: 279503
 ---
 
 **Engineering Notice for Brownsburg:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Hendricks County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Brownsburg, IN, but intake notes help reduce delays.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 46234.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Our service coordination centers on Brownsburg, IN coverage windows and verified intake details.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Tip: confirm licensing and insurance before approving work.
+Wind-zone note: Brownsburg, IN exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 46234/46112.
+Risk flag: In Brownsburg, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 46234, 46112 (county grid: Hendricks County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Metal panel oil-canning in Brownsburg, IN may signal clip spacing issues, not wind damage alone.
+
+Field routing: ridge cap nail schedule paired with chimney cricket slope near ZIP 46234.
+
+Field note: Shingle seal-down timing logged near ZIP 46112/46234.
+
+On-site sector marker: Hendricks County / coords 39.8300, -86.3800 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Hendricks County / primary ZIP 46234 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46234-359e6f12

@@ -11,25 +11,29 @@ lng: -89.9300
 zipSample: ["70187", "70119", "70170", "70117", "70165"]
 zipCodes: ["70117", "70142", "70157", "70163", "70128", "70159", "70116", "70181", "70153", "70176", "70125", "70126"]
 localPaths: ["Orleans Parish / ZIP 70119 sector", "Orleans Parish / ZIP 70165 sector", "Orleans Parish / ZIP 70117 sector", "Orleans Parish / ZIP 70170 sector", "Orleans Parish / primary ZIP 70139"]
-zillowHomeValueUsd: 364579
 ---
 
 **Engineering Notice for New Orleans:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Orleans Parish.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Metal panel oil-canning in New Orleans, LA may signal clip spacing issues, not wind damage alone.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 70139.
+Regulatory note: New Orleans, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on New Orleans, LA coverage windows and verified intake details.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 70129/70175/70178.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Dispatch sectors sampled: ZIP 70129, 70175, 70178, 70139, 70128 (county grid: Orleans Parish).
+FAQ: Is partial dry-in possible? In New Orleans, LA, yes—if slope and anchor points support safe tie-offs.
+
+Field routing: ridge cap nail schedule paired with attic baffle spacing near ZIP 70139.
+
+Coordinate-anchored dispatch note: center reference 30.0700, -89.9300 at elevation ~33 ft aligns with Orleans Parish intake staging.
+
+On-site sector marker: Orleans Parish / ZIP 70130 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70139-2156a8e1

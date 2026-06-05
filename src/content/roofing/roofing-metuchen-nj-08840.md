@@ -11,26 +11,31 @@ lng: -74.3600
 zipSample: ["08840"]
 zipCodes: ["08840"]
 localPaths: ["Middlesex County / coords 40.5400, -74.3600", "Middlesex County / ZIP 08840 sector", "Middlesex County / primary ZIP 08840", "Middlesex County / elevation 98 ft band"]
-zillowHomeValueUsd: 682591
 ---
 
 **Engineering Notice for Metuchen:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Middlesex County.
 
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: map ventilation intake and exhaust pairs for Metuchen, NJ attic runs.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Tile underlayment age in Metuchen, NJ can fail independently of visible tile cracks.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Material note: In Metuchen, NJ, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: How long can shingles wait after storm damage? In Metuchen, NJ, delayed dry-in can expand insulation and ceiling repairs.
 
-Tip: request a written scope before work starts.
+Tip: Note recent wind events when filing insurance photos for Metuchen, NJ.
 
-Field note: Access points and staging constraints recorded for ZIP 08840 coverage.
+Wind-zone note: Metuchen, NJ exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 08840.
+Freeze-thaw cycles around Metuchen, NJ stress nail pops along eaves and rake edges.
 
-Dispatch sectors sampled: ZIP 08840 (county grid: Middlesex County).
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roof work brief: attic baffle spacing and drip-edge metal profile were cross-checked for the Metuchen intake packet.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Middlesex County. Reference elevation: 98 ft. Primary coordinates: 40.5400, -74.3600. ZIP sample: 08840. Logistics priority: Serving residential sectors across Middlesex County and north-east ZIP 08840 grid.
+
+Coordinate-anchored dispatch note: center reference 40.5400, -74.3600 at elevation ~98 ft aligns with Middlesex County intake staging.
 
 Service reference: NJ-08840-f9dfebec

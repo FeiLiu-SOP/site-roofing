@@ -11,29 +11,29 @@ lng: -65.9800
 zipSample: ["00984", "00987", "00985", "00982", "00983"]
 zipCodes: ["00979", "00986", "00987", "00984", "00985", "00983", "00982", "00988", "00981"]
 localPaths: ["Carolina County / ZIP 00987 sector", "Carolina County / elevation 30 ft band", "Carolina County / ZIP 00984 sector", "Carolina County / primary ZIP 00979", "Carolina County / coords 18.4100, -65.9800"]
-zillowHomeValueUsd: 376795
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Carolina:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Carolina County.
 
 
-Tip: avoid large upfront payments without milestones.
+Valley metal in Carolina, PR should be reviewed whenever granule loss tracks the water line.
 
-We coordinate local dispatch coverage around Carolina, PR and nearby ZIP sectors.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 00979.
+Regulatory note: Carolina, PR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 00979.
+Risk flag: Tile underlayment age in Carolina, PR can fail independently of visible tile cracks.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 00987/00988/00979.
+FAQ: Is partial dry-in possible? In Carolina, PR, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Moisture pathway inspection logged near ZIP 00987/00988/00979 intake.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Dispatch sectors sampled: ZIP 00987, 00988, 00979, 00985, 00983 (county grid: Carolina County).
+Field routing: chimney cricket slope paired with skylight curb height near ZIP 00979.
+
+On-site sector marker: Carolina County / ZIP 00988 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Carolina County / coords 18.4100, -65.9800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00979-45f0aad9

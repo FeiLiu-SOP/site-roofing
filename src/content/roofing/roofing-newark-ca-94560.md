@@ -11,26 +11,33 @@ lng: -122.0300
 zipSample: ["94560"]
 zipCodes: ["94560"]
 localPaths: ["Alameda County / ZIP 94560 sector", "Alameda County / elevation 13 ft band", "Alameda County / primary ZIP 94560", "Alameda County / coords 37.5200, -122.0300"]
-zillowHomeValueUsd: 1260652
 ---
 
 **Engineering Notice for Newark:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Alameda County.
 
 
-Our service coordination centers on Newark, CA coverage windows and verified intake details.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Code context: Ventilation ratios for Newark, CA attics should be checked against current mechanical exhaust additions.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field note: Access points and staging constraints recorded for ZIP 94560 coverage.
+FAQ: Is partial dry-in possible? In Newark, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field note: Wind exposure category reviewed for ZIP sector 94560.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 94560 (county grid: Alameda County).
+Metal panel oil-canning in Newark, CA may signal clip spacing issues, not wind damage alone.
+
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+roofing service brief: valley metal gauge and counter-flashing reglet depth were cross-checked for the Newark intake packet.
+
+ZIP-corridor snapshot for Newark, CA: sampled sectors include 94560; county routing grid remains Alameda County.
+
+On-site sector marker: Alameda County / primary ZIP 94560 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94560-a1c5a6af

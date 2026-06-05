@@ -11,26 +11,35 @@ lng: -96.5800
 zipSample: ["75020"]
 zipCodes: ["75020"]
 localPaths: ["Grayson County / primary ZIP 75020", "Grayson County / ZIP 75020 sector", "Grayson County / coords 33.7700, -96.5800", "Grayson County / elevation 823 ft band"]
-zillowHomeValueUsd: 222100
 ---
 
 **Engineering Notice for Denison:** Structural loading calculated based on 823 ft terrain assessment. Regional dispatch grid: Grayson County.
 
 
-Tip: avoid large upfront payments without milestones.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-In Denison, TX, seasonal demand can change scheduling windows.
+Attic ventilation deficits in Denison, TX can mimic roof leaks at ceiling penetrations.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 75020.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 75020.
+Our Denison, TX dispatch packets reference county grid Grayson County and elevation band 823 ft.
 
-Field note: Connection points spot-checked where accessible (ZIP 75020 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 75020 (county grid: Grayson County).
+FAQ: Can you tarp only part of the roof? In Denison, TX, yes—if slope and anchor points support safe tie-offs.
+
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
+
+Field routing: counter-flashing reglet depth paired with drip-edge metal profile near ZIP 75020.
+
+Field note: Shingle seal-down timing logged near ZIP 75020.
+
+On-site sector marker: Grayson County / elevation 823 ft band — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Grayson County: moisture and logistics baselines are keyed to Denison, TX before niche-specific work begins.
 
 Service reference: TX-75020-f87a9a72

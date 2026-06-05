@@ -11,26 +11,31 @@ lng: -82.5500
 zipSample: ["28776", "28805", "28801", "28815", "28806"]
 zipCodes: ["28801", "28804", "28810", "28805", "28814", "28816", "28776", "28815", "28806", "28803"]
 localPaths: ["Buncombe County / elevation 2123 ft band", "Buncombe County / ZIP 28815 sector", "Buncombe County / ZIP 28806 sector", "Buncombe County / ZIP 28805 sector", "Buncombe County / coords 35.5700, -82.5500"]
-zillowHomeValueUsd: 404987
 ---
 
 **Engineering Notice for Asheville:** Structural loading calculated based on 2123 ft terrain assessment. Regional dispatch grid: Buncombe County.
 
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Asheville, NC coverage windows and verified intake details.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should permanent restoration start? In Asheville, NC, delayed dry-in can expand insulation and ceiling repairs.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Freeze-thaw cycles around Asheville, NC stress nail pops along eaves and rake edges.
 
-Field note: Connection points spot-checked where accessible (ZIP 28814/28815/28810 zone).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 28814/28815/28810.
+Step: confirm drip-edge continuity before shingle courses restart.
 
-Dispatch sectors sampled: ZIP 28814, 28815, 28810, 28801, 28805 (county grid: Buncombe County).
+Field routing: soffit intake free area paired with ice-barrier lap sequence near ZIP 28806.
+
+Field note: Valley debris and granule loss noted for ZIP 28804/28814/28816.
+
+On-site sector marker: Buncombe County / elevation 2123 ft band — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Buncombe County / ZIP 28776 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28806-e6800b99

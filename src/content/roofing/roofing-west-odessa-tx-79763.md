@@ -11,25 +11,31 @@ lng: -102.5000
 zipSample: ["79763", "79764", "79760"]
 zipCodes: ["79764", "79760", "79763"]
 localPaths: ["Ector County / ZIP 79760 sector", "Ector County / coords 31.8400, -102.5000", "Ector County / ZIP 79763 sector", "Ector County / ZIP 79764 sector", "Ector County / primary ZIP 79763"]
-zillowHomeValueUsd: 215075
 ---
 
 **Engineering Notice for West Odessa:** Structural loading calculated based on 2963 ft terrain assessment. Regional dispatch grid: Ector County.
 
 
-We coordinate local dispatch coverage around West Odessa, TX and nearby ZIP sectors.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-A written scope helps prevent rework and mismatched expectations.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 79763.
+Parapet coping movement in West Odessa, TX can channel water behind wall cladding.
 
-Field note: Access points and staging constraints recorded for ZIP 79764/79760/79763 coverage.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Dispatch sectors sampled: ZIP 79764, 79760, 79763 (county grid: Ector County).
+FAQ: Can you tarp only part of the roof? In West Odessa, TX, yes—if slope and anchor points support safe tie-offs.
+
+roofing service brief: ridge cap nail schedule and chimney cricket slope were cross-checked for the West Odessa intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 79760/79763/79764.
+
+On-site sector marker: Ector County / ZIP 79764 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Ector County / ZIP 79763 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79763-fbc1c754

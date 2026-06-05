@@ -11,28 +11,31 @@ lng: -122.1000
 zipSample: ["98258"]
 zipCodes: ["98258"]
 localPaths: ["Snohomish County / elevation 262 ft band", "Snohomish County / primary ZIP 98258", "Snohomish County / coords 48.0000, -122.1000", "Snohomish County / ZIP 98258 sector"]
-zillowHomeValueUsd: 714386
 ---
 
 **Engineering Notice for Lake Stevens:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: compare shingle manufacturer wind-zone ratings for Lake Stevens, WA exposure class.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 98258.
+Granule embedment loss on Lake Stevens, WA north slopes can precede mat exposure.
 
-We coordinate local dispatch coverage around Lake Stevens, WA and nearby ZIP sectors.
+Risk flag: In Lake Stevens, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Tip: request a written scope before work starts.
+Wind-zone note: Lake Stevens, WA exposure class can change starter-strip and cap nail schedules.
 
-Schedule an inspection and get a clear plan before work begins.
-Serving ZIP Code: 98258.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Wind exposure category reviewed for ZIP sector 98258.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field note: Access points and staging constraints recorded for ZIP 98258 coverage.
+Tip: Note recent wind events when filing insurance photos for Lake Stevens, WA.
 
-Dispatch sectors sampled: ZIP 98258 (county grid: Snohomish County).
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
+
+roof work brief: ridge cap nail schedule and soffit intake free area were cross-checked for the Lake Stevens intake packet.
+
+On-site sector marker: Snohomish County / coords 48.0000, -122.1000 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 48.0000, -122.1000 at elevation ~262 ft aligns with Snohomish County intake staging.
 
 Service reference: WA-98258-0b90aeec

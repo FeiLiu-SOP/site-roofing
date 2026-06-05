@@ -11,24 +11,35 @@ lng: -81.4300
 zipSample: ["34143", "34142"]
 zipCodes: ["34143", "34142"]
 localPaths: ["Collier County / ZIP 34142 sector", "Collier County / coords 26.4300, -81.4300", "Collier County / primary ZIP 34142", "Collier County / ZIP 34143 sector", "Collier County / elevation 52 ft band"]
-zillowHomeValueUsd: 342515
 ---
 
 **Engineering Notice for Immokalee:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Collier County.
 
 
-Step: share symptoms and recent history so the intake notes are complete.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-In Immokalee, FL, urgent roof service issues can escalate quickly.
+FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Tip: confirm licensing and insurance before approving work.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-We coordinate local dispatch coverage around Immokalee, FL and nearby ZIP sectors.
+Material note: In Immokalee, FL, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Connection points spot-checked where accessible (ZIP 34142/34143 zone).
+Step: log deck soundings near vents before tear-off is approved.
 
-Dispatch sectors sampled: ZIP 34142, 34143 (county grid: Collier County).
+Step: separate emergency tarp scope from permanent restoration line items.
+
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+Skylight curb flashing in Immokalee, FL should be sequenced before ridge cap replacement.
+
+Scope trace: drip-edge metal profile plus chimney cricket slope referenced in Collier County county grid review.
+
+Field note: Shingle seal-down timing logged near ZIP 34142/34143.
+
+On-site sector marker: Collier County / coords 26.4300, -81.4300 — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Collier County / primary ZIP 34142 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34142-34db7d38

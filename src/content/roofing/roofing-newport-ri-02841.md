@@ -11,26 +11,31 @@ lng: -71.3200
 zipSample: ["02840", "02841"]
 zipCodes: ["02841", "02840"]
 localPaths: ["Newport County / ZIP 02841 sector", "Newport County / ZIP 02840 sector", "Newport County / elevation 0 ft band", "Newport County / coords 41.4800, -71.3200", "Newport County / primary ZIP 02841"]
-zillowHomeValueUsd: 941650
 ---
 
 **Engineering Notice for Newport:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Newport County.
 
 
-Tip: address recurring issues early to prevent bigger damage.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Local conditions in Newport, RI can affect timelines and material choices.
+Code context: Ventilation ratios for Newport, RI attics should be checked against current mechanical exhaust additions.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Step: compare shingle manufacturer wind-zone ratings for Newport, RI exposure class.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Newport, RI, but intake notes help reduce delays.
+Material note: In Newport, RI, algae-resistant granules may be specified for north-facing slopes.
 
-Field note: Access points and staging constraints recorded for ZIP 02841/02840 coverage.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 02841/02840.
+Risk flag: Tile underlayment age in Newport, RI can fail independently of visible tile cracks.
 
-Dispatch sectors sampled: ZIP 02841, 02840 (county grid: Newport County).
+TPO seam welds in Newport, RI commercial sections need probe tests after freeze events.
+
+Scope trace: soffit intake free area plus ice-barrier lap sequence referenced in Newport County county grid review.
+
+Regional mesh label Newport County: moisture and logistics baselines are keyed to Newport, RI before niche-specific work begins.
+
+On-site sector marker: Newport County / elevation 0 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: RI-02841-6f9b5eb7

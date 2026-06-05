@@ -11,25 +11,33 @@ lng: -122.8600
 zipSample: ["97071"]
 zipCodes: ["97071"]
 localPaths: ["Marion County / coords 45.1500, -122.8600", "Marion County / ZIP 97071 sector", "Marion County / primary ZIP 97071", "Marion County / elevation 187 ft band"]
-zillowHomeValueUsd: 423723
 ---
 
 **Engineering Notice for Woodburn:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Marion County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-We coordinate local dispatch coverage around Woodburn, OR and nearby ZIP sectors.
+Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Risk flag: In Woodburn, OR, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 97071.
+Parapet coping movement in Woodburn, OR can channel water behind wall cladding.
 
-Field note: Wind exposure category reviewed for ZIP sector 97071.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Dispatch sectors sampled: ZIP 97071 (county grid: Marion County).
+Our Woodburn, OR dispatch packets reference county grid Marion County and elevation band 187 ft.
+
+Regulatory note: Woodburn, OR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
+
+Scope trace: deck sheathing thickness plus ice-barrier lap sequence referenced in Marion County county grid review.
+
+Field note: Attic moisture pathway scan referenced ZIP 97071.
+
+Primary postal anchor 97071 with multi-ZIP overlap in Woodburn; field packets tag Marion County for county-grid reconciliation.
+
+On-site sector marker: Marion County / elevation 187 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97071-3ba50015

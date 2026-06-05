@@ -11,24 +11,33 @@ lng: -79.0600
 zipSample: ["24401", "24402"]
 zipCodes: ["24401", "24402"]
 localPaths: ["Staunton County / primary ZIP 24401", "Staunton County / ZIP 24402 sector", "Staunton County / coords 38.1600, -79.0600", "Staunton County / ZIP 24401 sector", "Staunton County / elevation 1411 ft band"]
-zillowHomeValueUsd: 308858
 ---
 
 **Engineering Notice for Staunton:** Structural loading calculated based on 1411 ft terrain assessment. Regional dispatch grid: Staunton County.
 
 
-Tip: confirm licensing and insurance before approving work.
+Code context: Ventilation ratios for Staunton, VA attics should be checked against current mechanical exhaust additions.
 
-Tip: address recurring issues early to prevent bigger damage.
+Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Granule embedment loss on Staunton, VA north slopes can precede mat exposure.
 
-In Staunton, VA, seasonal demand can change scheduling windows.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Staunton, VA, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Connection points spot-checked where accessible (ZIP 24401/24402 zone).
+Our Staunton, VA dispatch packets reference county grid Staunton County and elevation band 1411 ft.
 
-Dispatch sectors sampled: ZIP 24401, 24402 (county grid: Staunton County).
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
+
+Step: compare shingle manufacturer wind-zone ratings for Staunton, VA exposure class.
+
+Tip: Save shingle wrapper labels for warranty color and lot matching.
+
+Scope trace: valley metal gauge plus deck sheathing thickness referenced in Staunton County county grid review.
+
+Coordinate-anchored dispatch note: center reference 38.1600, -79.0600 at elevation ~1411 ft aligns with Staunton County intake staging.
+
+Regional mesh label Staunton County: moisture and logistics baselines are keyed to Staunton, VA before niche-specific work begins.
 
 Service reference: VA-24401-e69eafe4

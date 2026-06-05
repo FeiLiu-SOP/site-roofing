@@ -11,26 +11,29 @@ lng: -82.1000
 zipSample: ["30907", "30809"]
 zipCodes: ["30809", "30907"]
 localPaths: ["Columbia County / elevation 338 ft band", "Columbia County / ZIP 30907 sector", "Columbia County / coords 33.5200, -82.1000", "Columbia County / ZIP 30809 sector", "Columbia County / primary ZIP 30907"]
-zillowHomeValueUsd: 267156
 ---
 
 **Engineering Notice for Martinez:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Columbia County.
 
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Code context: Ventilation ratios for Martinez, GA attics should be checked against current mechanical exhaust additions.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Martinez, GA, but intake notes help reduce delays.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our service coordination centers on Martinez, GA coverage windows and verified intake details.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Our Martinez, GA dispatch packets reference county grid Columbia County and elevation band 338 ft.
 
-Field note: Moisture pathway inspection logged near ZIP 30907/30809 intake.
+Across Martinez, GA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field note: Access points and staging constraints recorded for ZIP 30907/30809 coverage.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-Dispatch sectors sampled: ZIP 30907, 30809 (county grid: Columbia County).
+Field routing: starter-strip setback paired with deck sheathing thickness near ZIP 30907.
+
+Regional mesh label Columbia County: moisture and logistics baselines are keyed to Martinez, GA before niche-specific work begins.
+
+Coordinate-anchored dispatch note: center reference 33.5200, -82.1000 at elevation ~338 ft aligns with Columbia County intake staging.
 
 Service reference: GA-30907-7c55280b

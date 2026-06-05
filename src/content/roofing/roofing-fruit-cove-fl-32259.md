@@ -11,24 +11,29 @@ lng: -81.6200
 zipSample: ["32259"]
 zipCodes: ["32259"]
 localPaths: ["St. Johns County / ZIP 32259 sector", "St. Johns County / primary ZIP 32259", "St. Johns County / elevation 39 ft band", "St. Johns County / coords 30.1000, -81.6200"]
-zillowHomeValueUsd: 541876
 ---
 
 **Engineering Notice for Fruit Cove:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: St. Johns County.
 
 
-We coordinate local dispatch coverage around Fruit Cove, FL and nearby ZIP sectors.
+Valley metal in Fruit Cove, FL should be reviewed whenever granule loss tracks the water line.
 
-Tip: request a written scope before work starts.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Wind-zone note: Fruit Cove, FL exposure class can change starter-strip and cap nail schedules.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Note recent wind events when filing insurance photos for Fruit Cove, FL.
 
-Field note: Moisture pathway inspection logged near ZIP 32259 intake.
+Risk flag: In Fruit Cove, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 32259 (county grid: St. Johns County).
+Step: note chimney cricket geometry before counter-flashing removal.
+
+Scope trace: valley metal gauge plus ice-barrier lap sequence referenced in St. Johns County county grid review.
+
+ZIP-corridor snapshot for Fruit Cove, FL: sampled sectors include 32259; county routing grid remains St. Johns County.
+
+Regional mesh label St. Johns County: moisture and logistics baselines are keyed to Fruit Cove, FL before niche-specific work begins.
 
 Service reference: FL-32259-f13709e4

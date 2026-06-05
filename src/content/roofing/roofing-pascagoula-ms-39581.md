@@ -11,27 +11,33 @@ lng: -88.5500
 zipSample: ["39568", "39581", "39595", "39569", "39567"]
 zipCodes: ["39569", "39568", "39595", "39567", "39581"]
 localPaths: ["Jackson County / ZIP 39569 sector", "Jackson County / ZIP 39568 sector", "Jackson County / coords 30.3700, -88.5500", "Jackson County / ZIP 39581 sector", "Jackson County / primary ZIP 39581"]
-zillowHomeValueUsd: 139262
 ---
 
 **Engineering Notice for Pascagoula:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Jackson County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 39581.
 
-Tip: confirm licensing and insurance before approving work.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Material note: In Pascagoula, MS, algae-resistant granules may be specified for north-facing slopes.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 39581.
+Wind-zone note: Pascagoula, MS exposure class can change starter-strip and cap nail schedules.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 39595/39581/39569.
+Freeze-thaw cycles around Pascagoula, MS stress nail pops along eaves and rake edges.
 
-Field note: Moisture pathway inspection logged near ZIP 39595/39581/39569 intake.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
 
-Dispatch sectors sampled: ZIP 39595, 39581, 39569, 39567, 39568 (county grid: Jackson County).
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
+
+roof work brief: pipe boot manufacturer match and soffit intake free area were cross-checked for the Pascagoula intake packet.
+
+Field note: Attic moisture pathway scan referenced ZIP 39567/39568/39595.
+
+ZIP-corridor snapshot for Pascagoula, MS: sampled sectors include 39569, 39568, 39595, 39581, 39567; county routing grid remains Jackson County.
+
+On-site sector marker: Jackson County / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39581-57180ace

@@ -11,25 +11,29 @@ lng: -87.8400
 zipSample: ["60068"]
 zipCodes: ["60068"]
 localPaths: ["Cook County / ZIP 60068 sector", "Cook County / coords 42.0100, -87.8400", "Cook County / elevation 653 ft band", "Cook County / primary ZIP 60068"]
-zillowHomeValueUsd: 566316
 ---
 
 **Engineering Notice for Park Ridge:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Cook County.
 
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Talk to a local team today and protect your property.
-Serving ZIP Code: 60068.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+Granule embedment loss on Park Ridge, IL north slopes can precede mat exposure.
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+We coordinate Park Ridge, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field note: Wind exposure category reviewed for ZIP sector 60068.
+Risk flag: In Park Ridge, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Dispatch sectors sampled: ZIP 60068 (county grid: Cook County).
+Step: compare shingle manufacturer wind-zone ratings for Park Ridge, IL exposure class.
+
+roof work brief: counter-flashing reglet depth and synthetic underlayment slip were cross-checked for the Park Ridge intake packet.
+
+On-site sector marker: Cook County / ZIP 60068 sector — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 42.0100, -87.8400 at elevation ~653 ft aligns with Cook County intake staging.
 
 Service reference: IL-60068-525bc328

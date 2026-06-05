@@ -11,27 +11,31 @@ lng: -97.3400
 zipSample: ["67114"]
 zipCodes: ["67114"]
 localPaths: ["Harvey County / ZIP 67114 sector", "Harvey County / primary ZIP 67114", "Harvey County / elevation 1453 ft band", "Harvey County / coords 38.0400, -97.3400"]
-zillowHomeValueUsd: 170187
 ---
 
 **Engineering Notice for Newton:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: Harvey County.
 
 
-FAQ: What should I prepare before a visit? Share photos if possible and list recent changes, prior work, and access notes.
+Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Newton, KS, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-We coordinate local dispatch coverage around Newton, KS and nearby ZIP sectors.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 67114.
+Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 67114.
+Skylight curb flashing in Newton, KS should be sequenced before ridge cap replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 67114 intake.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Dispatch sectors sampled: ZIP 67114 (county grid: Harvey County).
+Risk flag: Tile underlayment age in Newton, KS can fail independently of visible tile cracks.
+
+roof work brief: deck sheathing thickness and wind uplift clip spacing were cross-checked for the Newton intake packet.
+
+On-site sector marker: Harvey County / ZIP 67114 sector — logged for map parity and ZIP-corridor verification.
+
+Regional mesh label Harvey County: moisture and logistics baselines are keyed to Newton, KS before niche-specific work begins.
 
 Service reference: KS-67114-5c23f4bb

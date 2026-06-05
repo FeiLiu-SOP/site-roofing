@@ -11,26 +11,29 @@ lng: -122.0800
 zipSample: ["94587", "94557", "94542", "94540", "94541"]
 zipCodes: ["94542", "94544", "94557", "94541", "94587", "94545", "94540", "94543"]
 localPaths: ["Alameda County / ZIP 94540 sector", "Alameda County / ZIP 94587 sector", "Alameda County / ZIP 94557 sector", "Alameda County / ZIP 94541 sector", "Alameda County / ZIP 94542 sector"]
-zillowHomeValueUsd: 783174
 ---
 
 **Engineering Notice for Hayward:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Alameda County.
 
 
-Local conditions in Hayward, CA can affect timelines and material choices.
+Freeze-thaw cycles around Hayward, CA stress nail pops along eaves and rake edges.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: note chimney cricket geometry before counter-flashing removal.
 
-Tip: avoid large upfront payments without milestones.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our service coordination centers on Hayward, CA coverage windows and verified intake details.
+FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field note: Wind exposure category reviewed for ZIP sector 94545/94543/94542.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Access points and staging constraints recorded for ZIP 94545/94543/94542 coverage.
+Code context: Ventilation ratios for Hayward, CA attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 94545, 94543, 94542, 94541, 94540 (county grid: Alameda County).
+roof service brief: soffit intake free area and drip-edge metal profile were cross-checked for the Hayward intake packet.
+
+On-site sector marker: Alameda County / ZIP 94587 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Alameda County / primary ZIP 94541 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94541-61653713

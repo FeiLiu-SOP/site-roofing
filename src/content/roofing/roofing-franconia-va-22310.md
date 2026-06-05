@@ -11,25 +11,31 @@ lng: -77.1600
 zipSample: ["22315", "22310"]
 zipCodes: ["22315", "22310"]
 localPaths: ["Fairfax County / ZIP 22310 sector", "Fairfax County / ZIP 22315 sector", "Fairfax County / coords 38.7700, -77.1600", "Fairfax County / elevation 249 ft band", "Fairfax County / primary ZIP 22310"]
-zillowHomeValueUsd: 673045
 ---
 
 **Engineering Notice for Franconia:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Fairfax County.
 
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Franconia, VA, but intake notes help reduce delays.
+Low-slope sections in Franconia, VA need positive drainage before membrane repairs are scoped.
 
-Tip: request a written scope before work starts.
+FAQ: When should permanent service start? In Franconia, VA, delayed dry-in can expand insulation and ceiling repairs.
 
-Our service coordination centers on Franconia, VA coverage windows and verified intake details.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 22310.
+Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Wind-zone note: Franconia, VA exposure class can change starter-strip and cap nail schedules.
 
-Field note: Wind exposure category reviewed for ZIP sector 22310/22315.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Dispatch sectors sampled: ZIP 22310, 22315 (county grid: Fairfax County).
+Step: map ventilation intake and exhaust pairs for Franconia, VA attic runs.
+
+roof service brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Franconia intake packet.
+
+Field note: Shingle seal-down timing logged near ZIP 22315/22310.
+
+Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Franconia, VA before niche-specific work begins.
+
+On-site sector marker: Fairfax County / ZIP 22315 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22310-e617257e

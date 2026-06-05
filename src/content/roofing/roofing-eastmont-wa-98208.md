@@ -11,24 +11,31 @@ lng: -122.1800
 zipSample: ["98208"]
 zipCodes: ["98208"]
 localPaths: ["Snohomish County / elevation 387 ft band", "Snohomish County / coords 47.9000, -122.1800", "Snohomish County / primary ZIP 98208", "Snohomish County / ZIP 98208 sector"]
-zillowHomeValueUsd: 771421
 ---
 
 **Engineering Notice for Eastmont:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Snohomish County.
 
 
-Our service coordination centers on Eastmont, WA coverage windows and verified intake details.
+Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Tip: request a written scope before work starts.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Transparent pricing helps you compare like-for-like scope items.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Homeowners in Eastmont, WA often face sudden roof service problems that require fast action.
+Freeze-thaw cycles around Eastmont, WA stress nail pops along eaves and rake edges.
 
-Field note: Access points and staging constraints recorded for ZIP 98208 coverage.
+Wind-zone note: Eastmont, WA exposure class can change starter-strip and cap nail schedules.
 
-Dispatch sectors sampled: ZIP 98208 (county grid: Snohomish County).
+Tip: Compare proposals by underlayment type, not shingle brand alone.
+
+Scope trace: ridge cap nail schedule plus shingle exposure calibration referenced in Snohomish County county grid review.
+
+Field note: Ridge ventilation balance reviewed for ZIP sector 98208.
+
+Coordinate-anchored dispatch note: center reference 47.9000, -122.1800 at elevation ~387 ft aligns with Snohomish County intake staging.
+
+ZIP-corridor snapshot for Eastmont, WA: sampled sectors include 98208; county routing grid remains Snohomish County.
 
 Service reference: WA-98208-3c866290

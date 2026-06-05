@@ -11,26 +11,29 @@ lng: -81.6000
 zipSample: ["34787"]
 zipCodes: ["34787"]
 localPaths: ["Orange County / primary ZIP 34787", "Orange County / coords 28.5400, -81.6000", "Orange County / ZIP 34787 sector", "Orange County / elevation 135 ft band"]
-zillowHomeValueUsd: 571207
 ---
 
 **Engineering Notice for Winter Garden:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Orange County.
 
 
-Step: confirm access points and any prior work so the scope can be accurate.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-A written scope helps prevent rework and mismatched expectations.
+Our Winter Garden, FL dispatch packets reference county grid Orange County and elevation band 135 ft.
 
-Tip: schedule preventive maintenance to reduce repeat calls.
+Step: verify starter-strip alignment before field shingle exposure is set.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Winter Garden, FL, but intake notes help reduce delays.
+Risk flag: Tile underlayment age in Winter Garden, FL can fail independently of visible tile cracks.
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+FAQ: When should permanent remediation start? In Winter Garden, FL, delayed dry-in can expand insulation and ceiling repairs.
 
-Field note: Access points and staging constraints recorded for ZIP 34787 coverage.
+Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field note: Wind exposure category reviewed for ZIP sector 34787.
+In Winter Garden, FL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Dispatch sectors sampled: ZIP 34787 (county grid: Orange County).
+Scope trace: valley metal gauge plus chimney cricket slope referenced in Orange County county grid review.
+
+Regional mesh label Orange County: moisture and logistics baselines are keyed to Winter Garden, FL before niche-specific work begins.
+
+On-site sector marker: Orange County / elevation 135 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34787-3ca622fc

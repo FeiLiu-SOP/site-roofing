@@ -11,26 +11,29 @@ lng: -93.6900
 zipSample: ["55376", "55313"]
 zipCodes: ["55313", "55376"]
 localPaths: ["Wright County / ZIP 55376 sector", "Wright County / coords 45.2000, -93.6900", "Wright County / ZIP 55313 sector", "Wright County / primary ZIP 55313", "Wright County / elevation 942 ft band"]
-zillowHomeValueUsd: 375225
 ---
 
 **Engineering Notice for St. Michael:** Structural loading calculated based on 942 ft terrain assessment. Regional dispatch grid: Wright County.
 
 
-About us: Our process prioritizes documentation, safety checks, and transparent communication.
+FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Tip: avoid large upfront payments without milestones.
+Step: stage tear-off debris paths away from landscape drains.
 
-In St. Michael, MN, seasonal demand can change scheduling windows.
+Coastal humidity in St. Michael, MN can slow shingle seal-down after shoulder-season storms.
 
-We coordinate local dispatch coverage around St. Michael, MN and nearby ZIP sectors.
+Tip: Note recent wind events when filing insurance photos for St. Michael, MN.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in St. Michael, MN, but intake notes help reduce delays.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field note: Wind exposure category reviewed for ZIP sector 55376/55313.
+About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
 
-Field note: Moisture pathway inspection logged near ZIP 55376/55313 intake.
+Code context: Ventilation ratios for St. Michael, MN attics should be checked against current mechanical exhaust additions.
 
-Dispatch sectors sampled: ZIP 55376, 55313 (county grid: Wright County).
+Scope trace: pipe boot manufacturer match plus ice-barrier lap sequence referenced in Wright County county grid review.
+
+Primary postal anchor 55313 with multi-ZIP overlap in St. Michael; field packets tag Wright County for county-grid reconciliation.
+
+On-site sector marker: Wright County / primary ZIP 55313 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55313-055a955d

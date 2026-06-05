@@ -11,25 +11,31 @@ lng: -88.8300
 zipSample: ["53916"]
 zipCodes: ["53916"]
 localPaths: ["Dodge County / coords 43.4700, -88.8300", "Dodge County / elevation 922 ft band", "Dodge County / ZIP 53916 sector", "Dodge County / primary ZIP 53916"]
-zillowHomeValueUsd: 288100
 ---
 
 **Engineering Notice for Beaver Dam:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Dodge County.
 
 
-About us: We focus on clear scope, practical scheduling, and straightforward next steps.
+Parapet coping movement in Beaver Dam, WI can channel water behind wall cladding.
 
-Book a service window and confirm next steps in writing.
-Serving ZIP Code: 53916.
+Step: map ventilation intake and exhaust pairs for Beaver Dam, WI attic runs.
 
-Step: share symptoms and recent history so the intake notes are complete.
+Risk flag: Tile underlayment age in Beaver Dam, WI can fail independently of visible tile cracks.
 
-Tip: confirm licensing and insurance before approving work.
+FAQ: Is partial dry-in possible? In Beaver Dam, WI, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: What is the typical response window? Response timing depends on coverage and demand in Beaver Dam, WI, but intake notes help reduce delays.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Wind exposure category reviewed for ZIP sector 53916.
+Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Dispatch sectors sampled: ZIP 53916 (county grid: Dodge County).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+
+Field routing: skylight curb height paired with ice-barrier lap sequence near ZIP 53916.
+
+Field note: Shingle seal-down timing logged near ZIP 53916.
+
+On-site sector marker: Dodge County / ZIP 53916 sector — logged for map parity and ZIP-corridor verification.
+
+On-site sector marker: Dodge County / primary ZIP 53916 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53916-a0348f3b

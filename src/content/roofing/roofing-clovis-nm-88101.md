@@ -11,27 +11,29 @@ lng: -103.1900
 zipSample: ["88101", "88102"]
 zipCodes: ["88101", "88102"]
 localPaths: ["Curry County / elevation 4311 ft band", "Curry County / primary ZIP 88101", "Curry County / ZIP 88102 sector", "Curry County / coords 34.4400, -103.1900", "Curry County / ZIP 88101 sector"]
-zillowHomeValueUsd: 161587
 ---
 
 **Engineering Notice for Clovis:** Structural loading calculated based on 4311 ft terrain assessment. Regional dispatch grid: Curry County.
 
 
-FAQ: How can I speed up the appointment? Share photos if possible and list recent changes, prior work, and access notes.
+About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Tip: avoid large upfront payments without milestones.
+Step: stage tear-off debris paths away from landscape drains.
 
-We coordinate local dispatch coverage around Clovis, NM and nearby ZIP sectors.
+Code context: Ventilation ratios for Clovis, NM attics should be checked against current mechanical exhaust additions.
 
-Request an intake review and a practical timeline.
-Serving ZIP Code: 88101.
+FAQ: Is partial dry-in possible? In Clovis, NM, yes—if slope and anchor points support safe tie-offs.
 
-FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
+Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field note: Drainage/runoff patterns reviewed for ZIP sector 88102/88101.
+Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field note: Access points and staging constraints recorded for ZIP 88102/88101 coverage.
+Coastal humidity in Clovis, NM can slow shingle seal-down after shoulder-season storms.
 
-Dispatch sectors sampled: ZIP 88102, 88101 (county grid: Curry County).
+Field routing: starter-strip setback paired with wind uplift clip spacing near ZIP 88101.
+
+On-site sector marker: Curry County / primary ZIP 88101 — logged for map parity and ZIP-corridor verification.
+
+Coordinate-anchored dispatch note: center reference 34.4400, -103.1900 at elevation ~4311 ft aligns with Curry County intake staging.
 
 Service reference: NM-88101-357113c0

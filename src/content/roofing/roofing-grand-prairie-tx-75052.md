@@ -11,24 +11,33 @@ lng: -97.0200
 zipSample: ["75104", "75051", "75053", "75054", "75052"]
 zipCodes: ["75051", "75052", "75054", "75104", "75053", "75050", "75265"]
 localPaths: ["Dallas County / ZIP 75104 sector", "Dallas County / primary ZIP 75052", "Dallas County / elevation 535 ft band", "Dallas County / ZIP 75053 sector", "Dallas County / coords 32.6900, -97.0200"]
-zillowHomeValueUsd: 324304
 ---
 
 **Engineering Notice for Grand Prairie:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Dallas County.
 
 
-Tip: compare at least two estimates for scope and timeline.
+Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: How fast can you respond? Response timing depends on coverage and demand in Grand Prairie, TX, but intake notes help reduce delays.
+Material note: In Grand Prairie, TX, algae-resistant granules may be specified for north-facing slopes.
 
-We coordinate local dispatch coverage around Grand Prairie, TX and nearby ZIP sectors.
+FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Clear documentation helps align materials, labor, and timeline.
+Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: Do you provide an estimate before work? In many cases, you can request a scope summary and pricing outline before scheduling.
+Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field note: Connection points spot-checked where accessible (ZIP 75265/75053/75054 zone).
+About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
 
-Dispatch sectors sampled: ZIP 75265, 75053, 75054, 75051, 75050 (county grid: Dallas County).
+Tip: Photograph ceiling stains with a reference ruler before tarping.
+
+Valley metal in Grand Prairie, TX should be reviewed whenever granule loss tracks the water line.
+
+Field routing: wind uplift clip spacing paired with pipe boot manufacturer match near ZIP 75052.
+
+Field note: Shingle seal-down timing logged near ZIP 75051/75052/75265.
+
+On-site sector marker: Dallas County / ZIP 75053 sector — logged for map parity and ZIP-corridor verification.
+
+Primary postal anchor 75052 with multi-ZIP overlap in Grand Prairie; field packets tag Dallas County for county-grid reconciliation.
 
 Service reference: TX-75052-184310fa
