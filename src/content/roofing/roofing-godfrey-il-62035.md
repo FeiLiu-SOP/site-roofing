@@ -11,11 +11,14 @@ lng: -90.2200
 zipSample: ["62035"]
 zipCodes: ["62035"]
 localPaths: ["Madison County / ZIP 62035 sector", "Madison County / elevation 587 ft band", "Madison County / coords 38.9600, -90.2200", "Madison County / primary ZIP 62035"]
-zillowHomeValueUsd: 213363
 ---
 
-**Engineering Notice for Godfrey:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Godfrey:** Storm and emergency leak triage uses 587 ft elevation band with Madison County service-area context for roofing repairs.
 
+
+Roof service service in Godfrey, IL, Madison County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof restoration crews serving Godfrey, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -31,9 +34,7 @@ Step: note chimney cricket geometry before counter-flashing removal.
 
 We coordinate Godfrey, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-roof service brief: wind uplift clip spacing and shingle exposure calibration were cross-checked for the Godfrey intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 62035.
+Roof restoration brief: wind uplift clip spacing and shingle exposure calibration were cross-checked for the Godfrey shingle and leak scope.
 
 Regional mesh label Madison County: moisture and logistics baselines are keyed to Godfrey, IL before niche-specific work begins.
 

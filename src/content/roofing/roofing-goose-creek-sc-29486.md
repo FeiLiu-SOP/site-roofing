@@ -11,13 +11,16 @@ lng: -80.0100
 zipSample: ["29486", "29445"]
 zipCodes: ["29445", "29486"]
 localPaths: ["Berkeley County / primary ZIP 29486", "Berkeley County / elevation 3 ft band", "Berkeley County / coords 32.9900, -80.0100", "Berkeley County / ZIP 29486 sector", "Berkeley County / ZIP 29445 sector"]
-zillowHomeValueUsd: 401397
 ---
 
-**Engineering Notice for Goose Creek:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Berkeley County.
+**Engineering Notice for Goose Creek:** Roof repair scope references 3 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Berkeley County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Emergency roof service in Goose Creek, SC often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Berkeley County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service service in Goose Creek, SC, Berkeley County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Wood shake courses in Goose Creek, SC require skip-spacing rules at valleys.
 
@@ -35,7 +38,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-roofing service brief: wind uplift clip spacing and chimney cricket slope were cross-checked for the Goose Creek intake packet.
+Roof restoration brief: wind uplift clip spacing and chimney cricket slope were cross-checked for the Goose Creek shingle and leak scope.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Berkeley County and primary ZIP 29486. Terrain reference: 3 ft. Center point: 32.9900, -80.0100. ZIP sample: 29445, 29486. Logistics priority: Serving residential sectors across Berkeley County and north-east ZIP 29486 grid.
 

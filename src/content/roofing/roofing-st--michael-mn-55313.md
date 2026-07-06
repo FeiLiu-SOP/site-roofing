@@ -11,11 +11,14 @@ lng: -93.6900
 zipSample: ["55376", "55313"]
 zipCodes: ["55313", "55376"]
 localPaths: ["Wright County / ZIP 55376 sector", "Wright County / coords 45.2000, -93.6900", "Wright County / ZIP 55313 sector", "Wright County / primary ZIP 55313", "Wright County / elevation 942 ft band"]
-zillowHomeValueUsd: 375250
 ---
 
-**Engineering Notice for St. Michael:** Structural loading calculated based on 942 ft terrain assessment. Regional dispatch grid: Wright County.
+**Engineering Notice for St. Michael:** Roof repair scope references 942 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Wright County.
 
+
+Certified roof restoration crews serving St. Michael, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in St. Michael, MN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Wright County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -27,11 +30,9 @@ Tip: Note recent wind events when filing insurance photos for St. Michael, MN.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for St. Michael, MN attics should be checked against current mechanical exhaust additions.
-
-Scope trace: pipe boot manufacturer match plus ice-barrier lap sequence referenced in Wright County county grid review.
 
 Primary postal anchor 55313 with multi-ZIP overlap in St. Michael; field packets tag Wright County for county-grid reconciliation.
 

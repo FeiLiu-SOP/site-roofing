@@ -11,11 +11,14 @@ lng: -121.1400
 zipSample: ["95671", "95763", "95630"]
 zipCodes: ["95671", "95630", "95763"]
 localPaths: ["Sacramento County / ZIP 95763 sector", "Sacramento County / ZIP 95630 sector", "Sacramento County / coords 38.6700, -121.1400", "Sacramento County / elevation 328 ft band", "Sacramento County / primary ZIP 95630"]
-zillowHomeValueUsd: 763782
 ---
 
-**Engineering Notice for Folsom:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Folsom:** Storm and emergency leak triage uses 328 ft elevation band with Sacramento County service-area context for roofing repairs.
 
+
+Emergency roof restoration in Folsom, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Sacramento County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service service in Folsom, CA, Sacramento County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: In Folsom, CA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -23,7 +26,7 @@ Regulatory note: Folsom, CA projects may trigger ice-barrier upgrades when tear-
 
 FAQ: Is partial dry-in possible? In Folsom, CA, yes—if slope and anchor points support safe tie-offs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -33,7 +36,7 @@ Step: map ventilation intake and exhaust pairs for Folsom, CA attic runs.
 
 Metal panel oil-canning in Folsom, CA may signal clip spacing issues, not wind damage alone.
 
-Scope trace: skylight curb height plus shingle exposure calibration referenced in Sacramento County county grid review.
+Scope trace: skylight curb height plus shingle exposure calibration referenced in Sacramento County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 95630/95763/95671.
 

@@ -11,15 +11,18 @@ lng: -82.2300
 zipSample: ["29681"]
 zipCodes: ["29681"]
 localPaths: ["Greenville County / coords 34.8100, -82.2300", "Greenville County / ZIP 29681 sector", "Greenville County / primary ZIP 29681", "Greenville County / elevation 876 ft band"]
-zillowHomeValueUsd: 402414
 ---
 
-**Engineering Notice for Five Forks:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Greenville County.
+**Engineering Notice for Five Forks:** Shingle, flashing, and ventilation review recorded at 876 ft AMSL context (Greenville County).
 
+
+Certified roof restoration crews serving Five Forks, SC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Five Forks, SC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Greenville County clarifies whether restoration or replacement fits the damage pattern.
 
 FAQ: Can you tarp only part of the roof? In Five Forks, SC, yes—if slope and anchor points support safe tie-offs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: map ventilation intake and exhaust pairs for Five Forks, SC attic runs.
 
@@ -31,7 +34,7 @@ Regulatory note: Five Forks, SC projects may trigger ice-barrier upgrades when t
 
 Risk flag: Tile underlayment age in Five Forks, SC can fail independently of visible tile cracks.
 
-roof service brief: starter-strip setback and wind uplift clip spacing were cross-checked for the Five Forks intake packet.
+Roof restoration brief: starter-strip setback and wind uplift clip spacing were cross-checked for the Five Forks shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 29681.
 

@@ -11,13 +11,16 @@ lng: -73.9200
 zipSample: ["10032", "10268", "10155", "10116", "11418"]
 zipCodes: ["10163", "10109", "10055", "10130", "11230", "10040", "11202", "11374", "11693", "10271", "11413", "10270"]
 localPaths: ["Queens County / ZIP 10268 sector", "Queens County / primary ZIP 11229", "Queens County / ZIP 11418 sector", "Queens County / ZIP 10116 sector", "Queens County / elevation 66 ft band"]
-zillowHomeValueUsd: 767732
 ---
 
-**Engineering Notice for New York:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Queens County.
+**Engineering Notice for New York:** Roof repair scope references 66 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Queens County.
 
 
-Our New York, NY dispatch packets reference county grid Queens County and elevation band 66 ft.
+Licensed roof restoration crews serving New York, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work remediation in New York, NY, Queens County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Our New York, NY service packets reference Queens County and elevation band 66 ft for shingle and leak scope.
 
 Risk flag: In New York, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,7 +34,7 @@ Parapet coping movement in New York, NY can channel water behind wall cladding.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Scope trace: counter-flashing reglet depth plus synthetic underlayment slip referenced in Queens County county grid review.
+Scope trace: counter-flashing reglet depth plus synthetic underlayment slip referenced in Queens County storm and leak review.
 
 Coordinate-anchored dispatch note: center reference 40.6900, -73.9200 at elevation ~66 ft aligns with Queens County intake staging.
 

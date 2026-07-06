@@ -11,13 +11,16 @@ lng: -80.3200
 zipSample: ["33157", "33158", "33257"]
 zipCodes: ["33257", "33157", "33158"]
 localPaths: ["Miami-Dade County / coords 25.6200, -80.3200", "Miami-Dade County / ZIP 33158 sector", "Miami-Dade County / ZIP 33257 sector", "Miami-Dade County / ZIP 33157 sector", "Miami-Dade County / elevation 36 ft band"]
-zillowHomeValueUsd: 1346482
 ---
 
-**Engineering Notice for Palmetto Bay:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Palmetto Bay:** Roof repair scope references 36 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Miami-Dade County.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Certified roof remediation crews serving Palmetto Bay, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Palmetto Bay, FL, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Skylight curb flashing in Palmetto Bay, FL should be sequenced before ridge cap replacement.
 
@@ -33,7 +36,7 @@ Risk flag: In Palmetto Bay, FL, interior stains may track from HVAC condensate r
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Scope trace: counter-flashing reglet depth plus chimney cricket slope referenced in Miami-Dade County county grid review.
+Scope trace: counter-flashing reglet depth plus chimney cricket slope referenced in Miami-Dade County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 33157/33257/33158.
 

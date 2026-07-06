@@ -11,11 +11,14 @@ lng: -74.4400
 zipSample: ["07062", "07063", "07060"]
 zipCodes: ["07060", "07062", "07063"]
 localPaths: ["Somerset County / coords 40.6200, -74.4400", "Somerset County / ZIP 07060 sector", "Somerset County / primary ZIP 07062", "Somerset County / elevation 85 ft band", "Somerset County / ZIP 07063 sector"]
-zillowHomeValueUsd: 498032
 ---
 
-**Engineering Notice for North Plainfield:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Somerset County.
+**Engineering Notice for North Plainfield:** Storm and emergency leak triage uses 85 ft elevation band with Somerset County service-area context for roofing repairs.
 
+
+Storm damage roof service in North Plainfield, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Somerset County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof restoration in North Plainfield, NJ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Somerset County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -34,8 +37,6 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 Step: note chimney cricket geometry before counter-flashing removal.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
-
-roof service brief: ice-barrier lap sequence and soffit intake free area were cross-checked for the North Plainfield intake packet.
 
 On-site sector marker: Somerset County / primary ZIP 07062 — logged for map parity and ZIP-corridor verification.
 

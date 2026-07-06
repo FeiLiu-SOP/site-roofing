@@ -11,17 +11,20 @@ lng: -98.8200
 zipSample: ["78582"]
 zipCodes: ["78582"]
 localPaths: ["Starr County / elevation 187 ft band", "Starr County / coords 26.3800, -98.8200", "Starr County / ZIP 78582 sector", "Starr County / primary ZIP 78582"]
-zillowHomeValueUsd: 146563
 ---
 
-**Engineering Notice for Rio Grande City:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Starr County.
+**Engineering Notice for Rio Grande City:** Shingle, flashing, and ventilation review recorded at 187 ft AMSL context (Starr County).
 
+
+Licensed roof service crews serving Rio Grande City, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Rio Grande City, TX, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Valley metal in Rio Grande City, TX should be reviewed whenever granule loss tracks the water line.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 78582.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -34,8 +37,6 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
 Risk flag: In Rio Grande City, TX, interior stains may track from HVAC condensate rather than roof cladding.
-
-Field routing: skylight curb height paired with drip-edge metal profile near ZIP 78582.
 
 Regional mesh label Starr County: moisture and logistics baselines are keyed to Rio Grande City, TX before niche-specific work begins.
 

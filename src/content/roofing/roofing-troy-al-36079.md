@@ -11,11 +11,14 @@ lng: -85.9700
 zipSample: ["36081", "36082", "36079"]
 zipCodes: ["36079", "36082", "36081"]
 localPaths: ["Pike County / primary ZIP 36079", "Pike County / coords 31.8000, -85.9700", "Pike County / ZIP 36081 sector", "Pike County / ZIP 36082 sector", "Pike County / ZIP 36079 sector"]
-zillowHomeValueUsd: 206635
 ---
 
-**Engineering Notice for Troy:** Structural loading calculated based on 551 ft terrain assessment. Regional dispatch grid: Pike County.
+**Engineering Notice for Troy:** Shingle, flashing, and ventilation review recorded at 551 ft AMSL context (Pike County).
 
+
+Roof service service in Troy, AL, Pike County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Troy, AL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pike County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Tile underlayment age in Troy, AL can fail independently of visible tile cracks.
 
@@ -31,11 +34,11 @@ Step: log deck soundings near vents before tear-off is approved.
 
 FAQ: Is partial dry-in possible? In Troy, AL, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Scope trace: chimney cricket slope plus ridge cap nail schedule referenced in Pike County county grid review.
+Scope trace: chimney cricket slope plus ridge cap nail schedule referenced in Pike County storm and leak review.
 
 Regional mesh label Pike County: moisture and logistics baselines are keyed to Troy, AL before niche-specific work begins.
 

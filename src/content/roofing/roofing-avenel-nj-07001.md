@@ -11,11 +11,14 @@ lng: -74.2700
 zipSample: ["07001"]
 zipCodes: ["07001"]
 localPaths: ["Middlesex County / primary ZIP 07001", "Middlesex County / coords 40.5800, -74.2700", "Middlesex County / elevation 56 ft band", "Middlesex County / ZIP 07001 sector"]
-zillowHomeValueUsd: 527503
 ---
 
-**Engineering Notice for Avenel:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Avenel:** Storm and emergency leak triage uses 56 ft elevation band with Middlesex County service-area context for roofing repairs.
 
+
+Qualified roof remediation crews serving Avenel, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Avenel, NJ, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -31,7 +34,7 @@ Risk flag: Tile underlayment age in Avenel, NJ can fail independently of visible
 
 Wind-zone note: Avenel, NJ exposure class can change starter-strip and cap nail schedules.
 
-Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Middlesex County county grid review.
+Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Middlesex County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 07001.
 

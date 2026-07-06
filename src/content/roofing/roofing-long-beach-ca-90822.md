@@ -11,11 +11,14 @@ lng: -118.1700
 zipSample: ["90815", "90848", "90832", "90833", "90822"]
 zipCodes: ["90814", "90806", "90802", "90847", "90809", "90833", "90822", "90848", "90801", "90853", "90844", "90831"]
 localPaths: ["Los Angeles County / primary ZIP 90822", "Los Angeles County / ZIP 90848 sector", "Los Angeles County / ZIP 90815 sector", "Los Angeles County / ZIP 90832 sector", "Los Angeles County / elevation 187 ft band"]
-zillowHomeValueUsd: 714547
 ---
 
-**Engineering Notice for Long Beach:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Long Beach:** Storm and emergency leak triage uses 187 ft elevation band with Los Angeles County service-area context for roofing repairs.
 
+
+Roof service service in Long Beach, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Long Beach, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -23,7 +26,7 @@ Step: separate emergency tarp scope from permanent restoration line items.
 
 Material note: In Long Beach, CA, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -35,9 +38,7 @@ Wind-zone note: Long Beach, CA exposure class can change starter-strip and cap n
 
 We coordinate Long Beach, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field routing: soffit intake free area paired with pipe boot manufacturer match near ZIP 90822.
-
-Field note: Valley debris and granule loss noted for ZIP 90804/90853/90801.
+Local service note: soffit intake free area paired with pipe boot manufacturer match near ZIP 90822 for emergency roofing service repairs.
 
 On-site sector marker: Los Angeles County / ZIP 90842 sector — logged for map parity and ZIP-corridor verification.
 

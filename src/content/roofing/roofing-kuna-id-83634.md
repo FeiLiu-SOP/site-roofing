@@ -11,11 +11,14 @@ lng: -116.3900
 zipSample: ["83634", "83642"]
 zipCodes: ["83642", "83634"]
 localPaths: ["Ada County / ZIP 83634 sector", "Ada County / coords 43.4900, -116.3900", "Ada County / elevation 2726 ft band", "Ada County / primary ZIP 83634", "Ada County / ZIP 83642 sector"]
-zillowHomeValueUsd: 459309
 ---
 
-**Engineering Notice for Kuna:** Structural loading calculated based on 2726 ft terrain assessment. Regional dispatch grid: Ada County.
+**Engineering Notice for Kuna:** Shingle, flashing, and ventilation review recorded at 2726 ft AMSL context (Ada County).
 
+
+Licensed roof remediation crews serving Kuna, ID review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Kuna, ID often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Ada County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Tile underlayment age in Kuna, ID can fail independently of visible tile cracks.
 
@@ -27,17 +30,15 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Tile and shingle mixes in Kuna, ID require different fastener patterns at transitions.
 
-FAQ: When should permanent remediation start? In Kuna, ID, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Kuna, ID, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Code context: Ventilation ratios for Kuna, ID attics should be checked against current mechanical exhaust additions.
 
 Step: log deck soundings near vents before tear-off is approved.
 
-Field routing: starter-strip setback paired with valley metal gauge near ZIP 83634.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 83642/83634.
+Local service note: starter-strip setback paired with valley metal gauge near ZIP 83634 for emergency roofing service repairs.
 
 ZIP-corridor snapshot for Kuna, ID: sampled sectors include 83634, 83642; county routing grid remains Ada County.
 

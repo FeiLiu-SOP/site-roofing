@@ -11,11 +11,14 @@ lng: -82.0700
 zipSample: ["30906", "30805", "30917", "30914", "30903"]
 zipCodes: ["30909", "30999", "30907", "30904", "30917", "30919", "30805", "30914", "30903", "30905", "30812", "30815"]
 localPaths: ["Richmond County / elevation 351 ft band", "Richmond County / ZIP 30903 sector", "Richmond County / coords 33.3600, -82.0700", "Richmond County / ZIP 30906 sector", "Richmond County / ZIP 30917 sector"]
-zillowHomeValueUsd: 145471
 ---
 
-**Engineering Notice for Augusta:** Structural loading calculated based on 351 ft terrain assessment. Regional dispatch grid: Richmond County.
+**Engineering Notice for Augusta:** Storm and emergency leak triage uses 351 ft elevation band with Richmond County service-area context for roofing repairs.
 
+
+Roof work restoration in Augusta, GA, Richmond County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Augusta, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Richmond County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -31,9 +34,7 @@ FAQ: Is partial dry-in possible? In Augusta, GA, yes—if slope and anchor point
 
 Tip: Note recent wind events when filing insurance photos for Augusta, GA.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-Field routing: starter-strip setback paired with wind uplift clip spacing near ZIP 30912.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Richmond County. Reference elevation: 351 ft. Primary coordinates: 33.3600, -82.0700. ZIP sample: 30805, 30999, 30904, 30909, 30815. Service perimeter note: Coverage extends through Richmond County with dispatch centered near ZIP 30912.
 

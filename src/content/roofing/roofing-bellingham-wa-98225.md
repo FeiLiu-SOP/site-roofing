@@ -11,11 +11,14 @@ lng: -122.4700
 zipSample: ["98229", "98226", "98225", "98228"]
 zipCodes: ["98228", "98225", "98226", "98229"]
 localPaths: ["Whatcom County / primary ZIP 98225", "Whatcom County / coords 48.7500, -122.4700", "Whatcom County / ZIP 98229 sector", "Whatcom County / ZIP 98226 sector", "Whatcom County / ZIP 98228 sector"]
-zillowHomeValueUsd: 669604
 ---
 
-**Engineering Notice for Bellingham:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Whatcom County.
+**Engineering Notice for Bellingham:** Shingle, flashing, and ventilation review recorded at 66 ft AMSL context (Whatcom County).
 
+
+Storm damage roof work in Bellingham, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Whatcom County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Bellingham, WA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 98225.
 
@@ -32,8 +35,6 @@ Regulatory note: Bellingham, WA projects may trigger ice-barrier upgrades when t
 We coordinate Bellingham, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
 Step: compare shingle manufacturer wind-zone ratings for Bellingham, WA exposure class.
-
-Scope trace: skylight curb height plus pipe boot manufacturer match referenced in Whatcom County county grid review.
 
 On-site sector marker: Whatcom County / ZIP 98229 sector — logged for map parity and ZIP-corridor verification.
 

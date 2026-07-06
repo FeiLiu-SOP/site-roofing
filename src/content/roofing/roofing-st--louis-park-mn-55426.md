@@ -11,11 +11,14 @@ lng: -93.3600
 zipSample: ["55426", "55416"]
 zipCodes: ["55416", "55426"]
 localPaths: ["Hennepin County / elevation 909 ft band", "Hennepin County / ZIP 55426 sector", "Hennepin County / coords 44.9500, -93.3600", "Hennepin County / ZIP 55416 sector", "Hennepin County / primary ZIP 55426"]
-zillowHomeValueUsd: 370760
 ---
 
-**Engineering Notice for St. Louis Park:** Structural loading calculated based on 909 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for St. Louis Park:** Storm and emergency leak triage uses 909 ft elevation band with Hennepin County service-area context for roofing repairs.
 
+
+Roof work remediation in St. Louis Park, MN, Hennepin County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits St. Louis Park, MN, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -31,13 +34,11 @@ Wind-zone note: St. Louis Park, MN exposure class can change starter-strip and c
 
 Hail bruising on St. Louis Park, MN ridges may not breach felt until the next wind event.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-roof work brief: starter-strip setback and soffit intake free area were cross-checked for the St. Louis Park intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 55416/55426.
+Roof restoration brief: starter-strip setback and soffit intake free area were cross-checked for the St. Louis Park shingle and leak scope.
 
 On-site sector marker: Hennepin County / ZIP 55426 sector — logged for map parity and ZIP-corridor verification.
 

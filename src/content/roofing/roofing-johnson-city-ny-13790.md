@@ -11,11 +11,14 @@ lng: -75.9600
 zipSample: ["13790"]
 zipCodes: ["13790"]
 localPaths: ["Broome County / primary ZIP 13790", "Broome County / elevation 860 ft band", "Broome County / coords 42.1200, -75.9600", "Broome County / ZIP 13790 sector"]
-zillowHomeValueUsd: 156642
 ---
 
-**Engineering Notice for Johnson City:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Broome County.
+**Engineering Notice for Johnson City:** Shingle, flashing, and ventilation review recorded at 860 ft AMSL context (Broome County).
 
+
+Emergency roof remediation in Johnson City, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Broome County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof service crews serving Johnson City, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Freeze-thaw cycles around Johnson City, NY stress nail pops along eaves and rake edges.
 
@@ -27,11 +30,11 @@ Tip: Note recent wind events when filing insurance photos for Johnson City, NY.
 
 Step: separate emergency tarp scope from permanent remediation line items.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wind-zone note: Johnson City, NY exposure class can change starter-strip and cap nail schedules.
 
-roof service brief: chimney cricket slope and starter-strip setback were cross-checked for the Johnson City intake packet.
+Roof restoration brief: chimney cricket slope and starter-strip setback were cross-checked for the Johnson City shingle and leak scope.
 
 On-site sector marker: Broome County / ZIP 13790 sector — logged for map parity and ZIP-corridor verification.
 

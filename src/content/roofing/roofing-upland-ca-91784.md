@@ -11,11 +11,14 @@ lng: -117.6600
 zipSample: ["91784", "91786", "91785"]
 zipCodes: ["91785", "91784", "91786"]
 localPaths: ["San Bernardino County / elevation 1483 ft band", "San Bernardino County / primary ZIP 91784", "San Bernardino County / coords 34.1200, -117.6600", "San Bernardino County / ZIP 91784 sector", "San Bernardino County / ZIP 91785 sector"]
-zillowHomeValueUsd: 986175
 ---
 
-**Engineering Notice for Upland:** Structural loading calculated based on 1483 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Upland:** Roof repair scope references 1483 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Bernardino County.
 
+
+Storm damage roof service in Upland, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Bernardino County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Upland, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 We coordinate Upland, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -31,9 +34,7 @@ Metal panel oil-canning in Upland, CA may signal clip spacing issues, not wind d
 
 FAQ: Is partial dry-in possible? In Upland, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field routing: starter-strip setback paired with valley metal gauge near ZIP 91784.
-
-Field note: Attic moisture pathway scan referenced ZIP 91785/91784/91786.
+Local service note: starter-strip setback paired with valley metal gauge near ZIP 91784 for emergency roof service repairs.
 
 On-site sector marker: San Bernardino County / ZIP 91786 sector — logged for map parity and ZIP-corridor verification.
 

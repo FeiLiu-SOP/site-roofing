@@ -11,11 +11,14 @@ lng: -90.6100
 zipSample: ["63304", "63376"]
 zipCodes: ["63304", "63376"]
 localPaths: ["St. Charles County / ZIP 63376 sector", "St. Charles County / elevation 512 ft band", "St. Charles County / coords 38.7800, -90.6100", "St. Charles County / primary ZIP 63376", "St. Charles County / ZIP 63304 sector"]
-zillowHomeValueUsd: 325174
 ---
 
-**Engineering Notice for St. Peters:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: St. Charles County.
+**Engineering Notice for St. Peters:** Roof repair scope references 512 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in St. Charles County.
 
+
+When wind or hail hits St. Peters, MO, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof work in St. Peters, MO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Charles County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -31,9 +34,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Coastal humidity in St. Peters, MO can slow shingle seal-down after shoulder-season storms.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-roof work brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the St. Peters intake packet.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 On-site sector marker: St. Charles County / elevation 512 ft band — logged for map parity and ZIP-corridor verification.
 

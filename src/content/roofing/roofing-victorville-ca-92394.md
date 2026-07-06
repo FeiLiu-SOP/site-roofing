@@ -11,13 +11,16 @@ lng: -117.3500
 zipSample: ["92392", "92393", "92394", "92395"]
 zipCodes: ["92394", "92392", "92395", "92393"]
 localPaths: ["San Bernardino County / ZIP 92393 sector", "San Bernardino County / primary ZIP 92394", "San Bernardino County / ZIP 92395 sector", "San Bernardino County / elevation 2959 ft band", "San Bernardino County / coords 34.5300, -117.3500"]
-zillowHomeValueUsd: 431282
 ---
 
-**Engineering Notice for Victorville:** Structural loading calculated based on 2959 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Victorville:** Roof repair scope references 2959 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Bernardino County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Roofing service service in Victorville, CA, San Bernardino County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof remediation crews serving Victorville, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Regulatory note: Victorville, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -31,7 +34,7 @@ FAQ: Is partial dry-in possible? In Victorville, CA, yes—if slope and anchor p
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-roofing service brief: deck sheathing thickness and attic baffle spacing were cross-checked for the Victorville intake packet.
+Roof service brief: deck sheathing thickness and attic baffle spacing were cross-checked for the Victorville shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 92392/92393/92394.
 

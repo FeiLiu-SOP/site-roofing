@@ -11,11 +11,14 @@ lng: -87.7600
 zipSample: ["60804"]
 zipCodes: ["60804"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / ZIP 60804 sector", "Cook County / primary ZIP 60804", "Cook County / coords 41.8400, -87.7600"]
-zillowHomeValueUsd: 264533
 ---
 
-**Engineering Notice for Cicero:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Cicero:** Shingle, flashing, and ventilation review recorded at 614 ft AMSL context (Cook County).
 
+
+Storm damage roof service in Cicero, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cook County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof restoration in Cicero, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cook County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -31,11 +34,9 @@ Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Coastal humidity in Cicero, IL can slow shingle seal-down after shoulder-season storms.
-
-Field routing: ridge cap nail schedule paired with shingle exposure calibration near ZIP 60804.
 
 On-site sector marker: Cook County / primary ZIP 60804 — logged for map parity and ZIP-corridor verification.
 

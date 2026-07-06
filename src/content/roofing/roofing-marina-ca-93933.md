@@ -11,11 +11,14 @@ lng: -121.7900
 zipSample: ["93933"]
 zipCodes: ["93933"]
 localPaths: ["Monterey County / primary ZIP 93933", "Monterey County / ZIP 93933 sector", "Monterey County / coords 36.6800, -121.7900", "Monterey County / elevation 72 ft band"]
-zillowHomeValueUsd: 869407
 ---
 
-**Engineering Notice for Marina:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Monterey County.
+**Engineering Notice for Marina:** Shingle, flashing, and ventilation review recorded at 72 ft AMSL context (Monterey County).
 
+
+Qualified roof restoration crews serving Marina, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Marina, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Monterey County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -27,13 +30,13 @@ Code context: Ventilation ratios for Marina, CA attics should be checked against
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tile and shingle mixes in Marina, CA require different fastener patterns at transitions.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-Scope trace: ridge cap nail schedule plus valley metal gauge referenced in Monterey County county grid review.
+Scope trace: ridge cap nail schedule plus valley metal gauge referenced in Monterey County storm and leak review.
 
 Regional mesh label Monterey County: moisture and logistics baselines are keyed to Marina, CA before niche-specific work begins.
 

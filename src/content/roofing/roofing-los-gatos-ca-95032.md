@@ -11,17 +11,20 @@ lng: -121.9600
 zipSample: ["95032", "95030", "95036"]
 zipCodes: ["95030", "95032", "95036"]
 localPaths: ["Santa Clara County / coords 37.2300, -121.9600", "Santa Clara County / ZIP 95032 sector", "Santa Clara County / elevation 354 ft band", "Santa Clara County / ZIP 95036 sector", "Santa Clara County / ZIP 95030 sector"]
-zillowHomeValueUsd: 2648084
 ---
 
-**Engineering Notice for Los Gatos:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Los Gatos:** Shingle, flashing, and ventilation review recorded at 354 ft AMSL context (Santa Clara County).
 
+
+Emergency roof remediation in Los Gatos, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Santa Clara County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work service in Los Gatos, CA, Santa Clara County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Parapet coping movement in Los Gatos, CA can channel water behind wall cladding.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -31,7 +34,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Scope trace: soffit intake free area plus pipe boot manufacturer match referenced in Santa Clara County county grid review.
+Scope trace: soffit intake free area plus pipe boot manufacturer match referenced in Santa Clara County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 95030/95032/95036.
 

@@ -11,13 +11,16 @@ lng: -70.9400
 zipSample: ["02744", "02742", "02741", "02745", "02740"]
 zipCodes: ["02741", "02744", "02746", "02740", "02745", "02742"]
 localPaths: ["Bristol County / primary ZIP 02740", "Bristol County / ZIP 02741 sector", "Bristol County / coords 41.6700, -70.9400", "Bristol County / elevation 85 ft band", "Bristol County / ZIP 02742 sector"]
-zillowHomeValueUsd: 419962
 ---
 
-**Engineering Notice for New Bedford:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Bristol County.
+**Engineering Notice for New Bedford:** Roof repair scope references 85 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Bristol County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Licensed roof restoration crews serving New Bedford, MA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in New Bedford, MA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bristol County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Attic ventilation deficits in New Bedford, MA can mimic roof leaks at ceiling penetrations.
 
@@ -35,9 +38,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Scope trace: deck sheathing thickness plus ridge cap nail schedule referenced in Bristol County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 02740/02746/02742.
+Scope trace: deck sheathing thickness plus ridge cap nail schedule referenced in Bristol County storm and leak review.
 
 Primary postal anchor 02740 with multi-ZIP overlap in New Bedford; field packets tag Bristol County for county-grid reconciliation.
 

@@ -11,13 +11,16 @@ lng: -103.1900
 zipSample: ["88101", "88102"]
 zipCodes: ["88101", "88102"]
 localPaths: ["Curry County / elevation 4311 ft band", "Curry County / primary ZIP 88101", "Curry County / ZIP 88102 sector", "Curry County / coords 34.4400, -103.1900", "Curry County / ZIP 88101 sector"]
-zillowHomeValueUsd: 161611
 ---
 
-**Engineering Notice for Clovis:** Structural loading calculated based on 4311 ft terrain assessment. Regional dispatch grid: Curry County.
+**Engineering Notice for Clovis:** Storm and emergency leak triage uses 4311 ft elevation band with Curry County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+When wind or hail hits Clovis, NM, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Clovis, NM often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Curry County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -31,7 +34,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Coastal humidity in Clovis, NM can slow shingle seal-down after shoulder-season storms.
 
-Field routing: starter-strip setback paired with wind uplift clip spacing near ZIP 88101.
+Local service note: starter-strip setback paired with wind uplift clip spacing near ZIP 88101 for emergency roof work repairs.
 
 On-site sector marker: Curry County / primary ZIP 88101 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -88.1100
 zipSample: ["60441", "60403"]
 zipCodes: ["60441", "60403"]
 localPaths: ["Will County / coords 41.5700, -88.1100", "Will County / ZIP 60403 sector", "Will County / elevation 636 ft band", "Will County / primary ZIP 60403", "Will County / ZIP 60441 sector"]
-zillowHomeValueUsd: 276285
 ---
 
-**Engineering Notice for Crest Hill:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for Crest Hill:** Roof repair scope references 636 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Will County.
 
+
+Storm damage roof service in Crest Hill, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Will County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof remediation in Crest Hill, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Will County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -30,8 +33,6 @@ Risk flag: Tile underlayment age in Crest Hill, IL can fail independently of vis
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
-
-roof service brief: valley metal gauge and ice-barrier lap sequence were cross-checked for the Crest Hill intake packet.
 
 On-site sector marker: Will County / primary ZIP 60403 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -88.4300
 zipSample: ["54952"]
 zipCodes: ["54952"]
 localPaths: ["Winnebago County / ZIP 54952 sector", "Winnebago County / primary ZIP 54952", "Winnebago County / coords 44.2100, -88.4300", "Winnebago County / elevation 761 ft band"]
-zillowHomeValueUsd: 277343
 ---
 
-**Engineering Notice for Menasha:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Winnebago County.
+**Engineering Notice for Menasha:** Shingle, flashing, and ventilation review recorded at 761 ft AMSL context (Winnebago County).
 
+
+Licensed roof service crews serving Menasha, WI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Menasha, WI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -31,11 +34,9 @@ Risk flag: In Menasha, WI, interior stains may track from HVAC condensate rather
 
 Material note: In Menasha, WI, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-Field routing: ridge cap nail schedule paired with soffit intake free area near ZIP 54952.
-
-Field note: Attic moisture pathway scan referenced ZIP 54952.
+Local service note: ridge cap nail schedule paired with soffit intake free area near ZIP 54952 for emergency roof work repairs.
 
 On-site sector marker: Winnebago County / primary ZIP 54952 — logged for map parity and ZIP-corridor verification.
 

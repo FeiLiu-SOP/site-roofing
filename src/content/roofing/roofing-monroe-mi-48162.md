@@ -11,11 +11,14 @@ lng: -83.3800
 zipSample: ["48161", "48162"]
 zipCodes: ["48162", "48161"]
 localPaths: ["Monroe County / ZIP 48161 sector", "Monroe County / ZIP 48162 sector", "Monroe County / primary ZIP 48162", "Monroe County / elevation 581 ft band", "Monroe County / coords 41.9200, -83.3800"]
-zillowHomeValueUsd: 231471
 ---
 
-**Engineering Notice for Monroe:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: Monroe County.
+**Engineering Notice for Monroe:** Roof repair scope references 581 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Monroe County.
 
+
+Emergency roof remediation in Monroe, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Monroe County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof service crews serving Monroe, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wind-zone note: Monroe, MI exposure class can change starter-strip and cap nail schedules.
 
@@ -31,13 +34,11 @@ Material note: In Monroe, MI, algae-resistant granules may be specified for nort
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Field routing: shingle exposure calibration paired with ice-barrier lap sequence near ZIP 48162.
-
-Field note: Shingle seal-down timing logged near ZIP 48161/48162.
+Local service note: shingle exposure calibration paired with ice-barrier lap sequence near ZIP 48162 for emergency roof work repairs.
 
 On-site sector marker: Monroe County / ZIP 48162 sector — logged for map parity and ZIP-corridor verification.
 

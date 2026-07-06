@@ -6,16 +6,19 @@ state: "FL"
 zipCode: "33040"
 county: "Monroe County"
 elevationFt: 10
-lat: 24.5600
+lat: 24.5900
 lng: -81.7800
 zipSample: ["33045", "33040", "33041"]
 zipCodes: ["33040", "33041", "33045"]
-localPaths: ["Monroe County / coords 24.5600, -81.7800", "Monroe County / ZIP 33040 sector", "Monroe County / elevation 10 ft band", "Monroe County / ZIP 33045 sector", "Monroe County / ZIP 33041 sector"]
-zillowHomeValueUsd: 959849
+localPaths: ["Monroe County / coords 24.5900, -81.7800", "Monroe County / ZIP 33040 sector", "Monroe County / elevation 10 ft band", "Monroe County / ZIP 33045 sector", "Monroe County / ZIP 33041 sector"]
 ---
 
-**Engineering Notice for Key West:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Monroe County.
+**Engineering Notice for Key West:** Storm and emergency leak triage uses 10 ft elevation band with Monroe County service-area context for roofing repairs.
 
+
+Qualified roof service crews serving Key West, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Key West, FL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Is partial dry-in possible? In Key West, FL, yes—if slope and anchor points support safe tie-offs.
 
@@ -33,9 +36,7 @@ We coordinate Key West, FL roof reviews with photo logs, moisture notes, and rea
 
 Step: map ventilation intake and exhaust pairs for Key West, FL attic runs.
 
-Scope trace: skylight curb height plus deck sheathing thickness referenced in Monroe County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 33041/33045/33040.
+Scope trace: skylight curb height plus deck sheathing thickness referenced in Monroe County storm and leak review.
 
 ZIP-corridor snapshot for Key West, FL: sampled sectors include 33040, 33041, 33045; county routing grid remains Monroe County.
 

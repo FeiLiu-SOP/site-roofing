@@ -11,17 +11,20 @@ lng: -120.8400
 zipSample: ["93635"]
 zipCodes: ["93635"]
 localPaths: ["Merced County / primary ZIP 93635", "Merced County / ZIP 93635 sector", "Merced County / elevation 118 ft band", "Merced County / coords 37.0600, -120.8400"]
-zillowHomeValueUsd: 462292
 ---
 
-**Engineering Notice for Los Banos:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Merced County.
+**Engineering Notice for Los Banos:** Shingle, flashing, and ventilation review recorded at 118 ft AMSL context (Merced County).
 
+
+Emergency roof service in Los Banos, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Merced County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Los Banos, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Merced County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -33,7 +36,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Material note: In Los Banos, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Scope trace: synthetic underlayment slip plus valley metal gauge referenced in Merced County county grid review.
+Scope trace: synthetic underlayment slip plus valley metal gauge referenced in Merced County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 93635.
 

@@ -11,17 +11,20 @@ lng: -82.8800
 zipSample: ["43216", "43213"]
 zipCodes: ["43213", "43216"]
 localPaths: ["Franklin County / primary ZIP 43213", "Franklin County / coords 39.9700, -82.8800", "Franklin County / elevation 797 ft band", "Franklin County / ZIP 43216 sector", "Franklin County / ZIP 43213 sector"]
-zillowHomeValueUsd: 213955
 ---
 
-**Engineering Notice for Whitehall:** Structural loading calculated based on 797 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Whitehall:** Storm and emergency leak triage uses 797 ft elevation band with Franklin County service-area context for roofing repairs.
 
+
+Emergency roof restoration in Whitehall, OH often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Franklin County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof restoration crews serving Whitehall, OH review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -31,7 +34,7 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 Coastal humidity in Whitehall, OH can slow shingle seal-down after shoulder-season storms.
 
-roof service brief: ridge cap nail schedule and valley metal gauge were cross-checked for the Whitehall intake packet.
+Roof service brief: ridge cap nail schedule and valley metal gauge were cross-checked for the Whitehall shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 43216/43213.
 

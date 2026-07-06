@@ -11,11 +11,14 @@ lng: -71.1200
 zipSample: ["02142", "02139", "02238", "02138", "02140"]
 zipCodes: ["02139", "02141", "02238", "02138", "02477", "02142", "02140"]
 localPaths: ["Middlesex County / elevation 49 ft band", "Middlesex County / coords 42.3800, -71.1200", "Middlesex County / ZIP 02142 sector", "Middlesex County / ZIP 02139 sector", "Middlesex County / ZIP 02138 sector"]
-zillowHomeValueUsd: 1311590
 ---
 
-**Engineering Notice for Cambridge:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Cambridge:** Roof repair scope references 49 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Middlesex County.
 
+
+Storm damage roof work in Cambridge, MA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Middlesex County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof remediation in Cambridge, MA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Middlesex County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -25,7 +28,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: In Cambridge, MA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -33,7 +36,7 @@ Tip: Note recent wind events when filing insurance photos for Cambridge, MA.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-roof work brief: shingle exposure calibration and counter-flashing reglet depth were cross-checked for the Cambridge intake packet.
+Roof service brief: shingle exposure calibration and counter-flashing reglet depth were cross-checked for the Cambridge shingle and leak scope.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Middlesex County. Reference elevation: 49 ft. Primary coordinates: 42.3800, -71.1200. ZIP sample: 02138, 02140, 02142, 02477, 02139. Service perimeter note: Coverage extends through Middlesex County with dispatch centered near ZIP 02142.
 

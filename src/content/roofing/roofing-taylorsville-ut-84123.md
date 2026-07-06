@@ -11,13 +11,16 @@ lng: -111.9500
 zipSample: ["84123", "84184", "84129"]
 zipCodes: ["84184", "84123", "84129"]
 localPaths: ["Salt Lake County / ZIP 84129 sector", "Salt Lake County / coords 40.6600, -111.9500", "Salt Lake County / primary ZIP 84123", "Salt Lake County / ZIP 84123 sector", "Salt Lake County / elevation 4360 ft band"]
-zillowHomeValueUsd: 537858
 ---
 
-**Engineering Notice for Taylorsville:** Structural loading calculated based on 4360 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Taylorsville:** Roof repair scope references 4360 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Salt Lake County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Emergency roof remediation in Taylorsville, UT often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Salt Lake County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Taylorsville, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Salt Lake County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Taylorsville, UT can fail independently of visible tile cracks.
 
@@ -33,7 +36,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Scope trace: wind uplift clip spacing plus shingle exposure calibration referenced in Salt Lake County county grid review.
+Scope trace: wind uplift clip spacing plus shingle exposure calibration referenced in Salt Lake County storm and leak review.
 
 On-site sector marker: Salt Lake County / ZIP 84184 sector — logged for map parity and ZIP-corridor verification.
 

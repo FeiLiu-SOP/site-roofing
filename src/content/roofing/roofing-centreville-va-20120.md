@@ -11,11 +11,14 @@ lng: -77.4400
 zipSample: ["20121", "20120", "20124"]
 zipCodes: ["20121", "20124", "20120"]
 localPaths: ["Fairfax County / elevation 259 ft band", "Fairfax County / primary ZIP 20120", "Fairfax County / ZIP 20120 sector", "Fairfax County / coords 38.8400, -77.4400", "Fairfax County / ZIP 20121 sector"]
-zillowHomeValueUsd: 702199
 ---
 
-**Engineering Notice for Centreville:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Centreville:** Shingle, flashing, and ventilation review recorded at 259 ft AMSL context (Fairfax County).
 
+
+Roofing service restoration in Centreville, VA, Fairfax County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof remediation crews serving Centreville, VA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -33,9 +36,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-Our Centreville, VA dispatch packets reference county grid Fairfax County and elevation band 259 ft.
-
-roofing service brief: skylight curb height and deck sheathing thickness were cross-checked for the Centreville intake packet.
+Our Centreville, VA service packets reference Fairfax County and elevation band 259 ft for shingle and leak scope.
 
 On-site sector marker: Fairfax County / primary ZIP 20120 — logged for map parity and ZIP-corridor verification.
 

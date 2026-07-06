@@ -11,11 +11,14 @@ lng: -96.7300
 zipSample: ["57103", "57105", "57117", "57193", "57107"]
 zipCodes: ["57108", "57106", "57110", "57105", "57103", "57109", "57104", "57117", "57197", "57101", "57107", "57193"]
 localPaths: ["Minnehaha County / coords 43.5400, -96.7300", "Minnehaha County / ZIP 57105 sector", "Minnehaha County / primary ZIP 57108", "Minnehaha County / ZIP 57103 sector", "Minnehaha County / ZIP 57117 sector"]
-zillowHomeValueUsd: 434372
 ---
 
-**Engineering Notice for Sioux Falls:** Structural loading calculated based on 1467 ft terrain assessment. Regional dispatch grid: Minnehaha County.
+**Engineering Notice for Sioux Falls:** Shingle, flashing, and ventilation review recorded at 1467 ft AMSL context (Minnehaha County).
 
+
+Qualified roof restoration crews serving Sioux Falls, SD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Sioux Falls, SD, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -27,17 +30,15 @@ Freeze-thaw cycles around Sioux Falls, SD stress nail pops along eaves and rake 
 
 Step: compare shingle manufacturer wind-zone ratings for Sioux Falls, SD exposure class.
 
-FAQ: When should permanent service start? In Sioux Falls, SD, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Sioux Falls, SD, delayed dry-in can expand insulation and ceiling repairs.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Scope trace: skylight curb height plus ice-barrier lap sequence referenced in Minnehaha County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 57110/57101/57107.
+Scope trace: skylight curb height plus ice-barrier lap sequence referenced in Minnehaha County storm and leak review.
 
 Primary postal anchor 57108 with multi-ZIP overlap in Sioux Falls; field packets tag Minnehaha County for county-grid reconciliation.
 

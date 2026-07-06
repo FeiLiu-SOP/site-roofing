@@ -11,11 +11,14 @@ lng: -121.7700
 zipSample: ["95077", "95076", "95019"]
 zipCodes: ["95076", "95077", "95019"]
 localPaths: ["Santa Cruz County / primary ZIP 95076", "Santa Cruz County / ZIP 95076 sector", "Santa Cruz County / ZIP 95077 sector", "Santa Cruz County / elevation 66 ft band", "Santa Cruz County / coords 36.9200, -121.7700"]
-zillowHomeValueUsd: 839607
 ---
 
-**Engineering Notice for Watsonville:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Santa Cruz County.
+**Engineering Notice for Watsonville:** Storm and emergency leak triage uses 66 ft elevation band with Santa Cruz County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Watsonville, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Santa Cruz County clarifies whether remediation or replacement fits the damage pattern.
+
+Certified roof remediation crews serving Watsonville, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: map ventilation intake and exhaust pairs for Watsonville, CA attic runs.
 
@@ -31,11 +34,9 @@ Attic ventilation deficits in Watsonville, CA can mimic roof leaks at ceiling pe
 
 Wind-zone note: Watsonville, CA exposure class can change starter-strip and cap nail schedules.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Note recent wind events when filing insurance photos for Watsonville, CA.
-
-roofing service brief: drip-edge metal profile and valley metal gauge were cross-checked for the Watsonville intake packet.
 
 On-site sector marker: Santa Cruz County / primary ZIP 95076 — logged for map parity and ZIP-corridor verification.
 

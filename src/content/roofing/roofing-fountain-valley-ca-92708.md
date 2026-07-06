@@ -11,11 +11,14 @@ lng: -117.9500
 zipSample: ["92708", "92728"]
 zipCodes: ["92708", "92728"]
 localPaths: ["Orange County / elevation 52 ft band", "Orange County / ZIP 92728 sector", "Orange County / primary ZIP 92708", "Orange County / ZIP 92708 sector", "Orange County / coords 33.7100, -117.9500"]
-zillowHomeValueUsd: 1395112
 ---
 
-**Engineering Notice for Fountain Valley:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Fountain Valley:** Shingle, flashing, and ventilation review recorded at 52 ft AMSL context (Orange County).
 
+
+Emergency roof remediation in Fountain Valley, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Orange County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Fountain Valley, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether service or replacement fits the damage pattern.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -27,13 +30,11 @@ Risk flag: Tile underlayment age in Fountain Valley, CA can fail independently o
 
 Regulatory note: Fountain Valley, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Attic ventilation deficits in Fountain Valley, CA can mimic roof leaks at ceiling penetrations.
 
-roofing service brief: attic baffle spacing and shingle exposure calibration were cross-checked for the Fountain Valley intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 92728/92708.
+Roof remediation brief: attic baffle spacing and shingle exposure calibration were cross-checked for the Fountain Valley shingle and leak scope.
 
 On-site sector marker: Orange County / ZIP 92708 sector — logged for map parity and ZIP-corridor verification.
 

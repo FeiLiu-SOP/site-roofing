@@ -11,11 +11,14 @@ lng: -90.4800
 zipSample: ["70069", "70068"]
 zipCodes: ["70068", "70069"]
 localPaths: ["St. John the Baptist Parish / coords 30.0700, -90.4800", "St. John the Baptist Parish / ZIP 70069 sector", "St. John the Baptist Parish / primary ZIP 70068", "St. John the Baptist Parish / elevation -1 ft band", "St. John the Baptist Parish / ZIP 70068 sector"]
-zillowHomeValueUsd: 214954
 ---
 
-**Engineering Notice for Laplace:** Structural loading calculated based on -1 ft terrain assessment. Regional dispatch grid: St. John the Baptist Parish.
+**Engineering Notice for Laplace:** Roof repair scope references -1 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in St. John the Baptist Parish.
 
+
+Emergency roof service in Laplace, LA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in St. John the Baptist Parish should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Laplace, LA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. John the Baptist Parish clarifies whether service or replacement fits the damage pattern.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -31,11 +34,11 @@ Code context: Ventilation ratios for Laplace, LA attics should be checked agains
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wood shake courses in Laplace, LA require skip-spacing rules at valleys.
 
-Scope trace: soffit intake free area plus valley metal gauge referenced in St. John the Baptist Parish county grid review.
+Scope trace: soffit intake free area plus valley metal gauge referenced in St. John the Baptist Parish storm and leak review.
 
 On-site sector marker: St. John the Baptist Parish / elevation -1 ft band — logged for map parity and ZIP-corridor verification.
 

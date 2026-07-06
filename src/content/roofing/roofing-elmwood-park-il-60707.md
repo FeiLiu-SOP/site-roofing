@@ -11,11 +11,14 @@ lng: -87.8200
 zipSample: ["60707"]
 zipCodes: ["60707"]
 localPaths: ["Cook County / elevation 636 ft band", "Cook County / ZIP 60707 sector", "Cook County / coords 41.9200, -87.8200", "Cook County / primary ZIP 60707"]
-zillowHomeValueUsd: 334757
 ---
 
-**Engineering Notice for Elmwood Park:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Elmwood Park:** Roof repair scope references 636 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Cook County.
 
+
+Emergency roof remediation in Elmwood Park, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cook County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Elmwood Park, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cook County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: In Elmwood Park, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -33,7 +36,7 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 We coordinate Elmwood Park, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field routing: attic baffle spacing paired with shingle exposure calibration near ZIP 60707.
+Local service note: attic baffle spacing paired with shingle exposure calibration near ZIP 60707 for emergency roof work repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 60707.
 

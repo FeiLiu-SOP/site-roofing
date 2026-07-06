@@ -11,17 +11,20 @@ lng: -82.6900
 zipSample: ["34688", "34677", "34685"]
 zipCodes: ["34677", "34688", "34685"]
 localPaths: ["Pinellas County / coords 28.1200, -82.6900", "Pinellas County / ZIP 34677 sector", "Pinellas County / primary ZIP 34677", "Pinellas County / ZIP 34688 sector", "Pinellas County / ZIP 34685 sector"]
-zillowHomeValueUsd: 365775
 ---
 
-**Engineering Notice for East Lake:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Pinellas County.
+**Engineering Notice for East Lake:** Roof repair scope references 56 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Pinellas County.
 
+
+Qualified roof service crews serving East Lake, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in East Lake, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pinellas County clarifies whether remediation or replacement fits the damage pattern.
 
 FAQ: Can you tarp only part of the roof? In East Lake, FL, yes—if slope and anchor points support safe tie-offs.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: In East Lake, FL, algae-resistant granules may be specified for north-facing slopes.
 
@@ -35,7 +38,7 @@ Regulatory note: East Lake, FL projects may trigger ice-barrier upgrades when te
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-roof service brief: skylight curb height and drip-edge metal profile were cross-checked for the East Lake intake packet.
+Roof remediation brief: skylight curb height and drip-edge metal profile were cross-checked for the East Lake shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 34688/34677/34685.
 

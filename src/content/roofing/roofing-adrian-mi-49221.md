@@ -11,11 +11,14 @@ lng: -84.0400
 zipSample: ["49221"]
 zipCodes: ["49221"]
 localPaths: ["Lenawee County / coords 41.9000, -84.0400", "Lenawee County / primary ZIP 49221", "Lenawee County / ZIP 49221 sector", "Lenawee County / elevation 771 ft band"]
-zillowHomeValueUsd: 207426
 ---
 
-**Engineering Notice for Adrian:** Structural loading calculated based on 771 ft terrain assessment. Regional dispatch grid: Lenawee County.
+**Engineering Notice for Adrian:** Shingle, flashing, and ventilation review recorded at 771 ft AMSL context (Lenawee County).
 
+
+When wind or hail hits Adrian, MI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Adrian, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Lenawee County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Note recent wind events when filing insurance photos for Adrian, MI.
 
@@ -29,11 +32,9 @@ Risk flag: In Adrian, MI, interior stains may track from HVAC condensate rather 
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roof work brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Adrian intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 49221.
+Roof restoration brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Adrian shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 41.9000, -84.0400 at elevation ~771 ft aligns with Lenawee County intake staging.
 

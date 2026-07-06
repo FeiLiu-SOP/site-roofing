@@ -11,11 +11,14 @@ lng: -90.7200
 zipSample: ["63366", "63367", "63368"]
 zipCodes: ["63367", "63366", "63368"]
 localPaths: ["St. Charles County / ZIP 63367 sector", "St. Charles County / coords 38.7800, -90.7200", "St. Charles County / ZIP 63366 sector", "St. Charles County / primary ZIP 63367", "St. Charles County / ZIP 63368 sector"]
-zillowHomeValueUsd: 441377
 ---
 
-**Engineering Notice for O'Fallon:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: St. Charles County.
+**Engineering Notice for O'Fallon:** Storm and emergency leak triage uses 597 ft elevation band with St. Charles County service-area context for roofing repairs.
 
+
+When wind or hail hits O'Fallon, MO, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Certified roof service crews serving O'Fallon, MO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: In O'Fallon, MO, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -35,7 +38,7 @@ We coordinate O'Fallon, MO roof reviews with photo logs, moisture notes, and rea
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Scope trace: chimney cricket slope plus synthetic underlayment slip referenced in St. Charles County county grid review.
+Scope trace: chimney cricket slope plus synthetic underlayment slip referenced in St. Charles County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 63366/63367/63368.
 

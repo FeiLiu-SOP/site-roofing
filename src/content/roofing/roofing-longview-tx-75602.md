@@ -11,13 +11,16 @@ lng: -94.7600
 zipSample: ["75604", "75602", "75606", "75660", "75608"]
 zipCodes: ["75601", "75606", "75604", "75605", "75615", "75608", "75660", "75602"]
 localPaths: ["Gregg County / ZIP 75602 sector", "Gregg County / ZIP 75660 sector", "Gregg County / primary ZIP 75602", "Gregg County / ZIP 75604 sector", "Gregg County / elevation 331 ft band"]
-zillowHomeValueUsd: 140562
 ---
 
-**Engineering Notice for Longview:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: Gregg County.
+**Engineering Notice for Longview:** Shingle, flashing, and ventilation review recorded at 331 ft AMSL context (Gregg County).
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Emergency roof remediation in Longview, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Gregg County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof service crews serving Longview, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Code context: Ventilation ratios for Longview, TX attics should be checked against current mechanical exhaust additions.
 
@@ -31,7 +34,7 @@ Hail bruising on Longview, TX ridges may not breach felt until the next wind eve
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-Scope trace: drip-edge metal profile plus ridge cap nail schedule referenced in Gregg County county grid review.
+Scope trace: drip-edge metal profile plus ridge cap nail schedule referenced in Gregg County storm and leak review.
 
 On-site sector marker: Gregg County / ZIP 75615 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -84.2100
 zipSample: ["45036"]
 zipCodes: ["45036"]
 localPaths: ["Warren County / elevation 764 ft band", "Warren County / coords 39.4300, -84.2100", "Warren County / primary ZIP 45036", "Warren County / ZIP 45036 sector"]
-zillowHomeValueUsd: 405132
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Warren County.
+**Engineering Notice for Lebanon:** Shingle, flashing, and ventilation review recorded at 764 ft AMSL context (Warren County).
 
+
+Qualified roof remediation crews serving Lebanon, OH review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work service in Lebanon, OH, Warren County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -23,7 +26,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Regulatory note: Lebanon, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: In Lebanon, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,9 +34,7 @@ In Lebanon, OH, wind-driven rain can lift shingle tabs before owners notice deck
 
 FAQ: Is partial dry-in possible? In Lebanon, OH, yes—if slope and anchor points support safe tie-offs.
 
-Scope trace: starter-strip setback plus ice-barrier lap sequence referenced in Warren County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 45036.
+Scope trace: starter-strip setback plus ice-barrier lap sequence referenced in Warren County storm and leak review.
 
 On-site sector marker: Warren County / coords 39.4300, -84.2100 — logged for map parity and ZIP-corridor verification.
 

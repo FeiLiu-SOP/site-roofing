@@ -11,13 +11,16 @@ lng: -110.9700
 zipSample: ["85614", "85629"]
 zipCodes: ["85629", "85614"]
 localPaths: ["Pima County / coords 31.9300, -110.9700", "Pima County / primary ZIP 85629", "Pima County / elevation 2749 ft band", "Pima County / ZIP 85614 sector", "Pima County / ZIP 85629 sector"]
-zillowHomeValueUsd: 338564
 ---
 
-**Engineering Notice for Sahuarita:** Structural loading calculated based on 2749 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Sahuarita:** Storm and emergency leak triage uses 2749 ft elevation band with Pima County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Storm damage roof work in Sahuarita, AZ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pima County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof service in Sahuarita, AZ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pima County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -35,7 +38,7 @@ Coastal humidity in Sahuarita, AZ can slow shingle seal-down after shoulder-seas
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-roof work brief: attic baffle spacing and pipe boot manufacturer match were cross-checked for the Sahuarita intake packet.
+Roof restoration brief: attic baffle spacing and pipe boot manufacturer match were cross-checked for the Sahuarita shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 85629/85614.
 

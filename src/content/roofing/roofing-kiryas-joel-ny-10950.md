@@ -11,15 +11,18 @@ lng: -74.1700
 zipSample: ["10950"]
 zipCodes: ["10950"]
 localPaths: ["Orange County / ZIP 10950 sector", "Orange County / elevation 728 ft band", "Orange County / primary ZIP 10950", "Orange County / coords 41.3400, -74.1700"]
-zillowHomeValueUsd: 529123
 ---
 
-**Engineering Notice for Kiryas Joel:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Kiryas Joel:** Storm and emergency leak triage uses 728 ft elevation band with Orange County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Emergency roof restoration in Kiryas Joel, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Orange County should photograph ceiling stains and attic wet spots before crews arrive.
 
-Step: separate emergency tarp scope from permanent service line items.
+Roof work restoration in Kiryas Joel, NY, Orange County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
+
+Step: separate emergency tarp scope from permanent remediation line items.
 
 FAQ: Is partial dry-in possible? In Kiryas Joel, NY, yes—if slope and anchor points support safe tie-offs.
 
@@ -31,9 +34,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Scope trace: starter-strip setback plus pipe boot manufacturer match referenced in Orange County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 10950.
+Scope trace: starter-strip setback plus pipe boot manufacturer match referenced in Orange County storm and leak review.
 
 On-site sector marker: Orange County / ZIP 10950 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -118.2200
 zipSample: ["90255"]
 zipCodes: ["90255"]
 localPaths: ["Los Angeles County / coords 33.9800, -118.2200", "Los Angeles County / ZIP 90255 sector", "Los Angeles County / primary ZIP 90255", "Los Angeles County / elevation 167 ft band"]
-zillowHomeValueUsd: 675395
 ---
 
-**Engineering Notice for Huntington Park:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Huntington Park:** Shingle, flashing, and ventilation review recorded at 167 ft AMSL context (Los Angeles County).
 
+
+Storm damage roofing service in Huntington Park, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Huntington Park, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -31,9 +34,7 @@ Code context: Ventilation ratios for Huntington Park, CA attics should be checke
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-roofing service brief: soffit intake free area and deck sheathing thickness were cross-checked for the Huntington Park intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 90255.
+Roof remediation brief: soffit intake free area and deck sheathing thickness were cross-checked for the Huntington Park shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 33.9800, -118.2200 at elevation ~167 ft aligns with Los Angeles County intake staging.
 

@@ -11,13 +11,16 @@ lng: -89.4700
 zipSample: ["61550", "61650"]
 zipCodes: ["61550", "61650"]
 localPaths: ["Tazewell County / ZIP 61550 sector", "Tazewell County / elevation 722 ft band", "Tazewell County / ZIP 61650 sector", "Tazewell County / coords 40.6100, -89.4700", "Tazewell County / primary ZIP 61550"]
-zillowHomeValueUsd: 280479
 ---
 
-**Engineering Notice for Morton:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Tazewell County.
+**Engineering Notice for Morton:** Roof repair scope references 722 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Tazewell County.
 
 
-Our Morton, IL dispatch packets reference county grid Tazewell County and elevation band 722 ft.
+When wind or hail hits Morton, IL, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service service in Morton, IL, Tazewell County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Our Morton, IL service packets reference Tazewell County and elevation band 722 ft for shingle and leak scope.
 
 Material note: In Morton, IL, algae-resistant granules may be specified for north-facing slopes.
 
@@ -33,7 +36,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Valley metal in Morton, IL should be reviewed whenever granule loss tracks the water line.
 
-Scope trace: chimney cricket slope plus counter-flashing reglet depth referenced in Tazewell County county grid review.
+Scope trace: chimney cricket slope plus counter-flashing reglet depth referenced in Tazewell County storm and leak review.
 
 On-site sector marker: Tazewell County / primary ZIP 61550 — logged for map parity and ZIP-corridor verification.
 

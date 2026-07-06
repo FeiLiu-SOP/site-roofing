@@ -11,11 +11,14 @@ lng: -84.2000
 zipSample: ["30022", "30097", "30005"]
 zipCodes: ["30022", "30097", "30005"]
 localPaths: ["Fulton County / primary ZIP 30022", "Fulton County / ZIP 30097 sector", "Fulton County / ZIP 30022 sector", "Fulton County / ZIP 30005 sector", "Fulton County / elevation 965 ft band"]
-zillowHomeValueUsd: 678086
 ---
 
-**Engineering Notice for Johns Creek:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for Johns Creek:** Roof repair scope references 965 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Fulton County.
 
+
+Emergency roof service in Johns Creek, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Fulton County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Johns Creek, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Fulton County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 30022.
 
@@ -23,15 +26,13 @@ Step: map ventilation intake and exhaust pairs for Johns Creek, GA attic runs.
 
 Regulatory note: Johns Creek, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Is partial dry-in possible? In Johns Creek, GA, yes—if slope and anchor points support safe tie-offs.
 
 Skylight curb flashing in Johns Creek, GA should be sequenced before ridge cap replacement.
 
 Risk flag: In Johns Creek, GA, interior stains may track from HVAC condensate rather than roof cladding.
-
-roofing service brief: ice-barrier lap sequence and drip-edge metal profile were cross-checked for the Johns Creek intake packet.
 
 Coordinate-anchored dispatch note: center reference 34.0300, -84.2000 at elevation ~965 ft aligns with Fulton County intake staging.
 

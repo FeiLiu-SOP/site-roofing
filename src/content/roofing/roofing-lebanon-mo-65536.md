@@ -11,15 +11,18 @@ lng: -92.6600
 zipSample: ["65536"]
 zipCodes: ["65536"]
 localPaths: ["Laclede County / primary ZIP 65536", "Laclede County / elevation 1286 ft band", "Laclede County / coords 37.6700, -92.6600", "Laclede County / ZIP 65536 sector"]
-zillowHomeValueUsd: 228906
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 1286 ft terrain assessment. Regional dispatch grid: Laclede County.
+**Engineering Notice for Lebanon:** Storm and emergency leak triage uses 1286 ft elevation band with Laclede County service-area context for roofing repairs.
 
+
+Emergency roof service in Lebanon, MO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Laclede County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof restoration crews serving Lebanon, MO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Wind-zone note: Lebanon, MO exposure class can change starter-strip and cap nail schedules.
 
@@ -33,7 +36,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 In Lebanon, MO, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field routing: chimney cricket slope paired with counter-flashing reglet depth near ZIP 65536.
+Local service note: chimney cricket slope paired with counter-flashing reglet depth near ZIP 65536 for emergency roof work repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 65536.
 

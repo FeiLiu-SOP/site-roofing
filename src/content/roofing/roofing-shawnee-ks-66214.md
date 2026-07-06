@@ -11,11 +11,14 @@ lng: -94.8100
 zipSample: ["66227", "66216", "66286", "66214", "66226"]
 zipCodes: ["66214", "66218", "66227", "66216", "66217", "66286", "66203", "66226"]
 localPaths: ["Johnson County / ZIP 66226 sector", "Johnson County / ZIP 66286 sector", "Johnson County / elevation 850 ft band", "Johnson County / ZIP 66227 sector", "Johnson County / primary ZIP 66214"]
-zillowHomeValueUsd: 389067
 ---
 
-**Engineering Notice for Shawnee:** Structural loading calculated based on 850 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Shawnee:** Roof repair scope references 850 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Johnson County.
 
+
+Roofing service service in Shawnee, KS, Johnson County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Shawnee, KS often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Johnson County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -29,11 +32,9 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-roofing service brief: ridge cap nail schedule and wind uplift clip spacing were cross-checked for the Shawnee intake packet.
 
 On-site sector marker: Johnson County / primary ZIP 66214 — logged for map parity and ZIP-corridor verification.
 

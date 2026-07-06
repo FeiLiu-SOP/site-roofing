@@ -11,11 +11,14 @@ lng: -98.1100
 zipSample: ["78130", "78131", "78135", "78132"]
 zipCodes: ["78130", "78135", "78131", "78132"]
 localPaths: ["Comal County / ZIP 78132 sector", "Comal County / ZIP 78131 sector", "Comal County / coords 29.7000, -98.1100", "Comal County / ZIP 78135 sector", "Comal County / primary ZIP 78132"]
-zillowHomeValueUsd: 561018
 ---
 
-**Engineering Notice for New Braunfels:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Comal County.
+**Engineering Notice for New Braunfels:** Shingle, flashing, and ventilation review recorded at 633 ft AMSL context (Comal County).
 
+
+Licensed roof service crews serving New Braunfels, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in New Braunfels, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Comal County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Low-slope sections in New Braunfels, TX need positive drainage before membrane repairs are scoped.
 
@@ -31,11 +34,11 @@ Risk flag: In New Braunfels, TX, interior stains may track from HVAC condensate 
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field routing: shingle exposure calibration paired with pipe boot manufacturer match near ZIP 78132.
+Local service note: shingle exposure calibration paired with pipe boot manufacturer match near ZIP 78132 for emergency roof service repairs.
 
 ZIP-corridor snapshot for New Braunfels, TX: sampled sectors include 78131, 78135, 78130, 78132; county routing grid remains Comal County.
 

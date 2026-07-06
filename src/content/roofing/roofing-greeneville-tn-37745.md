@@ -11,13 +11,16 @@ lng: -82.8200
 zipSample: ["37745", "37744", "37743"]
 zipCodes: ["37743", "37745", "37744"]
 localPaths: ["Greene County / coords 36.1700, -82.8200", "Greene County / ZIP 37744 sector", "Greene County / ZIP 37743 sector", "Greene County / ZIP 37745 sector", "Greene County / elevation 1608 ft band"]
-zillowHomeValueUsd: 254351
 ---
 
-**Engineering Notice for Greeneville:** Structural loading calculated based on 1608 ft terrain assessment. Regional dispatch grid: Greene County.
+**Engineering Notice for Greeneville:** Storm and emergency leak triage uses 1608 ft elevation band with Greene County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Storm damage roof service in Greeneville, TN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Greene County clarifies whether remediation or replacement fits the damage pattern.
+
+Roofing service service in Greeneville, TN, Greene County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Regulatory note: Greeneville, TN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -34,8 +37,6 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 Step: confirm drip-edge continuity before shingle courses restart.
 
 Risk flag: Tile underlayment age in Greeneville, TN can fail independently of visible tile cracks.
-
-roof service brief: skylight curb height and deck sheathing thickness were cross-checked for the Greeneville intake packet.
 
 ZIP-corridor snapshot for Greeneville, TN: sampled sectors include 37744, 37745, 37743; county routing grid remains Greene County.
 

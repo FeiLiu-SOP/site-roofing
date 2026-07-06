@@ -11,13 +11,16 @@ lng: -118.8200
 zipSample: ["97801"]
 zipCodes: ["97801"]
 localPaths: ["Umatilla County / primary ZIP 97801", "Umatilla County / coords 45.6800, -118.8200", "Umatilla County / ZIP 97801 sector", "Umatilla County / elevation 1115 ft band"]
-zillowHomeValueUsd: 293557
 ---
 
-**Engineering Notice for Pendleton:** Structural loading calculated based on 1115 ft terrain assessment. Regional dispatch grid: Umatilla County.
+**Engineering Notice for Pendleton:** Roof repair scope references 1115 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Umatilla County.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Emergency roof remediation in Pendleton, OR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Umatilla County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Pendleton, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Umatilla County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -32,8 +35,6 @@ Material note: In Pendleton, OR, algae-resistant granules may be specified for n
 Risk flag: In Pendleton, OR, interior stains may track from HVAC condensate rather than roof cladding.
 
 Wind-zone note: Pendleton, OR exposure class can change starter-strip and cap nail schedules.
-
-Field routing: pipe boot manufacturer match paired with synthetic underlayment slip near ZIP 97801.
 
 **Regional Infrastructure Brief:** Grid anchor set to Umatilla County. Reference elevation: 1115 ft. Primary coordinates: 45.6800, -118.8200. ZIP sample: 97801. Logistics priority: Serving residential sectors across Umatilla County and north-east ZIP 97801 grid.
 

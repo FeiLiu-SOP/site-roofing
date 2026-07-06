@@ -11,11 +11,14 @@ lng: -97.1200
 zipSample: ["76005", "76002", "76013", "76007", "76019"]
 zipCodes: ["76001", "76012", "76018", "76011", "76006", "76010", "76013", "76005", "76003", "76007", "76094", "76019"]
 localPaths: ["Tarrant County / coords 32.7000, -97.1200", "Tarrant County / ZIP 76019 sector", "Tarrant County / ZIP 76002 sector", "Tarrant County / primary ZIP 76011", "Tarrant County / elevation 663 ft band"]
-zillowHomeValueUsd: 255698
 ---
 
-**Engineering Notice for Arlington:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Arlington:** Roof repair scope references 663 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Tarrant County.
 
+
+When wind or hail hits Arlington, TX, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Arlington, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Tarrant County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -25,7 +28,7 @@ Material note: In Arlington, TX, algae-resistant granules may be specified for n
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Tile underlayment age in Arlington, TX can fail independently of visible tile cracks.
 
@@ -35,7 +38,7 @@ Wood shake courses in Arlington, TX require skip-spacing rules at valleys.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Scope trace: starter-strip setback plus soffit intake free area referenced in Tarrant County county grid review.
+Scope trace: starter-strip setback plus soffit intake free area referenced in Tarrant County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 76096/76012/76001.
 

@@ -11,11 +11,14 @@ lng: -85.0300
 zipSample: ["36868", "36867", "36869"]
 zipCodes: ["36867", "36869", "36868"]
 localPaths: ["Russell County / coords 32.4600, -85.0300", "Russell County / primary ZIP 36869", "Russell County / elevation 456 ft band", "Russell County / ZIP 36868 sector", "Russell County / ZIP 36867 sector"]
-zillowHomeValueUsd: 172084
 ---
 
-**Engineering Notice for Phenix City:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Russell County.
+**Engineering Notice for Phenix City:** Storm and emergency leak triage uses 456 ft elevation band with Russell County service-area context for roofing repairs.
 
+
+When wind or hail hits Phenix City, AL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Phenix City, AL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Russell County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -27,11 +30,11 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Wind-zone note: Phenix City, AL exposure class can change starter-strip and cap nail schedules.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Attic ventilation deficits in Phenix City, AL can mimic roof leaks at ceiling penetrations.
 
-Scope trace: valley metal gauge plus skylight curb height referenced in Russell County county grid review.
+Scope trace: valley metal gauge plus skylight curb height referenced in Russell County storm and leak review.
 
 ZIP-corridor snapshot for Phenix City, AL: sampled sectors include 36868, 36869, 36867; county routing grid remains Russell County.
 

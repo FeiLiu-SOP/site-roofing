@@ -11,11 +11,14 @@ lng: -98.6900
 zipSample: ["58401", "58405", "58402"]
 zipCodes: ["58405", "58401", "58402"]
 localPaths: ["Stutsman County / elevation 1424 ft band", "Stutsman County / ZIP 58405 sector", "Stutsman County / coords 46.9100, -98.6900", "Stutsman County / primary ZIP 58401", "Stutsman County / ZIP 58402 sector"]
-zillowHomeValueUsd: 230275
 ---
 
-**Engineering Notice for Jamestown:** Structural loading calculated based on 1424 ft terrain assessment. Regional dispatch grid: Stutsman County.
+**Engineering Notice for Jamestown:** Storm and emergency leak triage uses 1424 ft elevation band with Stutsman County service-area context for roofing repairs.
 
+
+Roof work remediation in Jamestown, ND, Stutsman County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Jamestown, ND may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Stutsman County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: Tile underlayment age in Jamestown, ND can fail independently of visible tile cracks.
 
@@ -25,7 +28,7 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Wind-zone note: Jamestown, ND exposure class can change starter-strip and cap nail schedules.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -33,7 +36,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Scope trace: skylight curb height plus ridge cap nail schedule referenced in Stutsman County county grid review.
+Scope trace: skylight curb height plus ridge cap nail schedule referenced in Stutsman County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 58405/58402/58401.
 

@@ -11,15 +11,18 @@ lng: -122.2300
 zipSample: ["94591", "94589", "94590", "94592"]
 zipCodes: ["94592", "94589", "94590", "94591"]
 localPaths: ["Solano County / coords 38.1100, -122.2300", "Solano County / elevation 66 ft band", "Solano County / ZIP 94591 sector", "Solano County / primary ZIP 94592", "Solano County / ZIP 94592 sector"]
-zillowHomeValueUsd: 721292
 ---
 
-**Engineering Notice for Vallejo:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Solano County.
+**Engineering Notice for Vallejo:** Roof repair scope references 66 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Solano County.
 
+
+Emergency roof remediation in Vallejo, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Solano County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service remediation in Vallejo, CA, Solano County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Regulatory note: Vallejo, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -31,7 +34,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Freeze-thaw cycles around Vallejo, CA stress nail pops along eaves and rake edges.
 
-Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Solano County county grid review.
+Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Solano County storm and leak review.
 
 On-site sector marker: Solano County / ZIP 94589 sector — logged for map parity and ZIP-corridor verification.
 

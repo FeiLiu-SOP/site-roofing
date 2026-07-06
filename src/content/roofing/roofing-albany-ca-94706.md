@@ -11,11 +11,14 @@ lng: -122.3000
 zipSample: ["94706"]
 zipCodes: ["94706"]
 localPaths: ["Alameda County / elevation 49 ft band", "Alameda County / primary ZIP 94706", "Alameda County / ZIP 94706 sector", "Alameda County / coords 37.8900, -122.3000"]
-zillowHomeValueUsd: 1260309
 ---
 
-**Engineering Notice for Albany:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Albany:** Shingle, flashing, and ventilation review recorded at 49 ft AMSL context (Alameda County).
 
+
+Emergency roof restoration in Albany, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Alameda County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Albany, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Alameda County clarifies whether restoration or replacement fits the damage pattern.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -29,11 +32,11 @@ Risk flag: Tile underlayment age in Albany, CA can fail independently of visible
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Scope trace: starter-strip setback plus ridge cap nail schedule referenced in Alameda County county grid review.
+Scope trace: starter-strip setback plus ridge cap nail schedule referenced in Alameda County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 94706.
 

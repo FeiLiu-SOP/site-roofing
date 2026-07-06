@@ -11,13 +11,16 @@ lng: -90.8100
 zipSample: ["70310", "70301"]
 zipCodes: ["70301", "70310"]
 localPaths: ["Lafourche Parish / elevation 33 ft band", "Lafourche Parish / ZIP 70310 sector", "Lafourche Parish / ZIP 70301 sector", "Lafourche Parish / coords 29.7900, -90.8100", "Lafourche Parish / primary ZIP 70301"]
-zillowHomeValueUsd: 224535
 ---
 
-**Engineering Notice for Thibodaux:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Lafourche Parish.
+**Engineering Notice for Thibodaux:** Storm and emergency leak triage uses 33 ft elevation band with Lafourche Parish service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Certified roof restoration crews serving Thibodaux, LA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Thibodaux, LA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Lafourche Parish should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -30,8 +33,6 @@ Low-slope sections in Thibodaux, LA need positive drainage before membrane repai
 Regulatory note: Thibodaux, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
-
-Scope trace: synthetic underlayment slip plus chimney cricket slope referenced in Lafourche Parish county grid review.
 
 Primary postal anchor 70301 with multi-ZIP overlap in Thibodaux; field packets tag Lafourche Parish for county-grid reconciliation.
 

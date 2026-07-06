@@ -11,11 +11,14 @@ lng: -117.2300
 zipSample: ["92028", "92088"]
 zipCodes: ["92028", "92088"]
 localPaths: ["San Diego County / ZIP 92028 sector", "San Diego County / coords 33.3700, -117.2300", "San Diego County / elevation 705 ft band", "San Diego County / ZIP 92088 sector", "San Diego County / primary ZIP 92028"]
-zillowHomeValueUsd: 885145
 ---
 
-**Engineering Notice for Fallbrook:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Fallbrook:** Shingle, flashing, and ventilation review recorded at 705 ft AMSL context (San Diego County).
 
+
+Roof work service in Fallbrook, CA, San Diego County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Fallbrook, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Diego County clarifies whether service or replacement fits the damage pattern.
 
 FAQ: How long can shingles wait after storm damage? In Fallbrook, CA, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -23,7 +26,7 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Risk flag: In Fallbrook, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 TPO seam welds in Fallbrook, CA commercial sections need probe tests after freeze events.
 
@@ -33,7 +36,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Scope trace: deck sheathing thickness plus starter-strip setback referenced in San Diego County county grid review.
+Scope trace: deck sheathing thickness plus starter-strip setback referenced in San Diego County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 92028/92088.
 

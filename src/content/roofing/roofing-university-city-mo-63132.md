@@ -11,11 +11,14 @@ lng: -90.3300
 zipSample: ["63130", "63132"]
 zipCodes: ["63132", "63130"]
 localPaths: ["St. Louis County / ZIP 63130 sector", "St. Louis County / elevation 535 ft band", "St. Louis County / coords 38.6700, -90.3300", "St. Louis County / primary ZIP 63132", "St. Louis County / ZIP 63132 sector"]
-zillowHomeValueUsd: 356835
 ---
 
-**Engineering Notice for University City:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for University City:** Shingle, flashing, and ventilation review recorded at 535 ft AMSL context (St. Louis County).
 
+
+Roof service service in University City, MO, St. Louis County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in University City, MO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in St. Louis County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Skylight curb flashing in University City, MO should be sequenced before ridge cap replacement.
 
@@ -29,13 +32,11 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Scope trace: counter-flashing reglet depth plus ridge cap nail schedule referenced in St. Louis County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 63132/63130.
+Scope trace: counter-flashing reglet depth plus ridge cap nail schedule referenced in St. Louis County storm and leak review.
 
 On-site sector marker: St. Louis County / elevation 535 ft band — logged for map parity and ZIP-corridor verification.
 

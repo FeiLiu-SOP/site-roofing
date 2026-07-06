@@ -11,11 +11,14 @@ lng: -80.6400
 zipSample: ["28083", "28081", "28082", "28027"]
 zipCodes: ["28083", "28027", "28082", "28081"]
 localPaths: ["Cabarrus County / ZIP 28081 sector", "Cabarrus County / ZIP 28027 sector", "Cabarrus County / primary ZIP 28027", "Cabarrus County / ZIP 28082 sector", "Cabarrus County / ZIP 28083 sector"]
-zillowHomeValueUsd: 414975
 ---
 
-**Engineering Notice for Kannapolis:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Cabarrus County.
+**Engineering Notice for Kannapolis:** Shingle, flashing, and ventilation review recorded at 761 ft AMSL context (Cabarrus County).
 
+
+Roof work service in Kannapolis, NC, Cabarrus County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Kannapolis, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cabarrus County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -31,11 +34,9 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Coastal humidity in Kannapolis, NC can slow shingle seal-down after shoulder-season storms.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-Field routing: valley metal gauge paired with pipe boot manufacturer match near ZIP 28027.
-
-Field note: Valley debris and granule loss noted for ZIP 28081/28083/28027.
+Local service note: valley metal gauge paired with pipe boot manufacturer match near ZIP 28027 for emergency roof work repairs.
 
 On-site sector marker: Cabarrus County / ZIP 28082 sector — logged for map parity and ZIP-corridor verification.
 

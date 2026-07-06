@@ -11,19 +11,22 @@ lng: -111.9400
 zipSample: ["84065"]
 zipCodes: ["84065"]
 localPaths: ["Salt Lake County / ZIP 84065 sector", "Salt Lake County / elevation 4521 ft band", "Salt Lake County / primary ZIP 84065", "Salt Lake County / coords 40.4700, -111.9400"]
-zillowHomeValueUsd: 643150
 ---
 
-**Engineering Notice for Bluffdale:** Structural loading calculated based on 4521 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Bluffdale:** Roof repair scope references 4521 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Salt Lake County.
 
+
+Licensed roof restoration crews serving Bluffdale, UT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service restoration in Bluffdale, UT, Salt Lake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Code context: Ventilation ratios for Bluffdale, UT attics should be checked against current mechanical exhaust additions.
 
 Across Bluffdale, UT, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-FAQ: When should permanent restoration start? In Bluffdale, UT, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In Bluffdale, UT, delayed dry-in can expand insulation and ceiling repairs.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 84065.
 
@@ -31,7 +34,7 @@ Step: compare shingle manufacturer wind-zone ratings for Bluffdale, UT exposure 
 
 Risk flag: In Bluffdale, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-roof service brief: ridge cap nail schedule and shingle exposure calibration were cross-checked for the Bluffdale intake packet.
+Roof restoration brief: ridge cap nail schedule and shingle exposure calibration were cross-checked for the Bluffdale shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 84065.
 

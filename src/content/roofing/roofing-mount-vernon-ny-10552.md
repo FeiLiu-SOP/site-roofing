@@ -11,13 +11,16 @@ lng: -73.8300
 zipSample: ["10550", "10551", "10552", "10553"]
 zipCodes: ["10552", "10550", "10553", "10551"]
 localPaths: ["Westchester County / elevation 148 ft band", "Westchester County / ZIP 10553 sector", "Westchester County / ZIP 10550 sector", "Westchester County / coords 40.9100, -73.8300", "Westchester County / ZIP 10552 sector"]
-zillowHomeValueUsd: 534704
 ---
 
-**Engineering Notice for Mount Vernon:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Westchester County.
+**Engineering Notice for Mount Vernon:** Roof repair scope references 148 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Westchester County.
 
 
-Our Mount Vernon, NY dispatch packets reference county grid Westchester County and elevation band 148 ft.
+Roof service restoration in Mount Vernon, NY, Westchester County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Mount Vernon, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Westchester County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Our Mount Vernon, NY remediation packets reference Westchester County and elevation band 148 ft for shingle and leak scope.
 
 Attic ventilation deficits in Mount Vernon, NY can mimic roof leaks at ceiling penetrations.
 
@@ -35,7 +38,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 FAQ: Is partial dry-in possible? In Mount Vernon, NY, yes—if slope and anchor points support safe tie-offs.
 
-roof service brief: skylight curb height and counter-flashing reglet depth were cross-checked for the Mount Vernon intake packet.
+Roof remediation brief: skylight curb height and counter-flashing reglet depth were cross-checked for the Mount Vernon shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 10550/10552/10553.
 

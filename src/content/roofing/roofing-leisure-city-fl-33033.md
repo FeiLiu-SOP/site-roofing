@@ -11,17 +11,20 @@ lng: -80.4400
 zipSample: ["33033"]
 zipCodes: ["33033"]
 localPaths: ["Miami-Dade County / coords 25.4900, -80.4400", "Miami-Dade County / ZIP 33033 sector", "Miami-Dade County / primary ZIP 33033", "Miami-Dade County / elevation 30 ft band"]
-zillowHomeValueUsd: 434646
 ---
 
-**Engineering Notice for Leisure City:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Leisure City:** Shingle, flashing, and ventilation review recorded at 30 ft AMSL context (Miami-Dade County).
 
+
+Storm damage roofing service in Leisure City, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Miami-Dade County clarifies whether service or replacement fits the damage pattern.
+
+Roof service remediation in Leisure City, FL, Miami-Dade County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: When should permanent remediation start? In Leisure City, FL, delayed dry-in can expand insulation and ceiling repairs.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -32,8 +35,6 @@ Code context: Ventilation ratios for Leisure City, FL attics should be checked a
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Field routing: soffit intake free area paired with ridge cap nail schedule near ZIP 33033.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~30 ft across the Miami-Dade County area. Coordinates: 25.4900, -80.4400. ZIP sample: 33033. Service perimeter note: Coverage extends through Miami-Dade County with dispatch centered near ZIP 33033.
 

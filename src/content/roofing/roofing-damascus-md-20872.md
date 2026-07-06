@@ -11,11 +11,14 @@ lng: -77.2000
 zipSample: ["20872", "20882"]
 zipCodes: ["20872", "20882"]
 localPaths: ["Montgomery County / primary ZIP 20872", "Montgomery County / elevation 699 ft band", "Montgomery County / ZIP 20872 sector", "Montgomery County / coords 39.2700, -77.2000", "Montgomery County / ZIP 20882 sector"]
-zillowHomeValueUsd: 550655
 ---
 
-**Engineering Notice for Damascus:** Structural loading calculated based on 699 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Damascus:** Roof repair scope references 699 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Montgomery County.
 
+
+Storm damage roof work in Damascus, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Montgomery County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Damascus, MD, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Freeze-thaw cycles around Damascus, MD stress nail pops along eaves and rake edges.
 
@@ -35,7 +38,7 @@ Code context: Ventilation ratios for Damascus, MD attics should be checked again
 
 We coordinate Damascus, MD roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field routing: ice-barrier lap sequence paired with starter-strip setback near ZIP 20872.
+Local service note: ice-barrier lap sequence paired with starter-strip setback near ZIP 20872 for emergency roof work repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 20872/20882.
 

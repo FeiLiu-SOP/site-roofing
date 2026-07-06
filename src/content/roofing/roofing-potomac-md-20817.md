@@ -11,11 +11,14 @@ lng: -77.1900
 zipSample: ["20827", "20859", "20854", "20817"]
 zipCodes: ["20827", "20854", "20817", "20859"]
 localPaths: ["Montgomery County / ZIP 20817 sector", "Montgomery County / ZIP 20859 sector", "Montgomery County / elevation 305 ft band", "Montgomery County / ZIP 20854 sector", "Montgomery County / coords 39.0100, -77.1900"]
-zillowHomeValueUsd: 1309904
 ---
 
-**Engineering Notice for Potomac:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Potomac:** Roof repair scope references 305 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Montgomery County.
 
+
+Roofing service service in Potomac, MD, Montgomery County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Potomac, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Montgomery County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -29,11 +32,9 @@ Regulatory note: Potomac, MD projects may trigger ice-barrier upgrades when tear
 
 Step: stage tear-off debris paths away from landscape drains.
 
-Our Potomac, MD dispatch packets reference county grid Montgomery County and elevation band 305 ft.
+Our Potomac, MD restoration packets reference Montgomery County and elevation band 305 ft for shingle and leak scope.
 
-Field routing: attic baffle spacing paired with soffit intake free area near ZIP 20817.
-
-Field note: Valley debris and granule loss noted for ZIP 20827/20817/20859.
+Local service note: attic baffle spacing paired with soffit intake free area near ZIP 20817 for emergency roof work repairs.
 
 On-site sector marker: Montgomery County / coords 39.0100, -77.1900 — logged for map parity and ZIP-corridor verification.
 

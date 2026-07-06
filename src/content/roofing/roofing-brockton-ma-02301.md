@@ -11,15 +11,18 @@ lng: -71.0200
 zipSample: ["02305", "02302", "02303", "02301", "02304"]
 zipCodes: ["02305", "02303", "02304", "02301", "02302"]
 localPaths: ["Plymouth County / ZIP 02301 sector", "Plymouth County / primary ZIP 02301", "Plymouth County / ZIP 02302 sector", "Plymouth County / ZIP 02303 sector", "Plymouth County / coords 42.0800, -71.0200"]
-zillowHomeValueUsd: 513456
 ---
 
-**Engineering Notice for Brockton:** Structural loading calculated based on 135 ft terrain assessment. Regional dispatch grid: Plymouth County.
+**Engineering Notice for Brockton:** Roof repair scope references 135 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Plymouth County.
 
+
+Emergency roof service in Brockton, MA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Plymouth County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof service crews serving Brockton, MA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -35,7 +38,7 @@ FAQ: Can you tarp only part of the roof? In Brockton, MA, yes—if slope and anc
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-roof work brief: wind uplift clip spacing and pipe boot manufacturer match were cross-checked for the Brockton intake packet.
+Roof service brief: wind uplift clip spacing and pipe boot manufacturer match were cross-checked for the Brockton shingle and leak scope.
 
 On-site sector marker: Plymouth County / ZIP 02301 sector — logged for map parity and ZIP-corridor verification.
 

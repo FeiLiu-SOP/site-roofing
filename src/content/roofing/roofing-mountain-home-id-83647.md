@@ -11,11 +11,14 @@ lng: -115.7000
 zipSample: ["83647"]
 zipCodes: ["83647"]
 localPaths: ["Elmore County / elevation 3143 ft band", "Elmore County / ZIP 83647 sector", "Elmore County / coords 43.1300, -115.7000", "Elmore County / primary ZIP 83647"]
-zillowHomeValueUsd: 355936
 ---
 
-**Engineering Notice for Mountain Home:** Structural loading calculated based on 3143 ft terrain assessment. Regional dispatch grid: Elmore County.
+**Engineering Notice for Mountain Home:** Shingle, flashing, and ventilation review recorded at 3143 ft AMSL context (Elmore County).
 
+
+Storm damage roof work in Mountain Home, ID may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Elmore County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof restoration in Mountain Home, ID often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Elmore County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: When should permanent service start? In Mountain Home, ID, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -35,7 +38,7 @@ Regulatory note: Mountain Home, ID projects may trigger ice-barrier upgrades whe
 
 We coordinate Mountain Home, ID roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Elmore County county grid review.
+Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Elmore County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 83647.
 

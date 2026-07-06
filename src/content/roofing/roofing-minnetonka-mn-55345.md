@@ -11,11 +11,14 @@ lng: -93.4600
 zipSample: ["55305", "55345", "55391", "55343"]
 zipCodes: ["55305", "55345", "55391", "55343"]
 localPaths: ["Hennepin County / primary ZIP 55345", "Hennepin County / ZIP 55345 sector", "Hennepin County / ZIP 55305 sector", "Hennepin County / ZIP 55391 sector", "Hennepin County / coords 44.9300, -93.4600"]
-zillowHomeValueUsd: 534601
 ---
 
-**Engineering Notice for Minnetonka:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Minnetonka:** Storm and emergency leak triage uses 991 ft elevation band with Hennepin County service-area context for roofing repairs.
 
+
+Qualified roof restoration crews serving Minnetonka, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Minnetonka, MN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hennepin County clarifies whether remediation or replacement fits the damage pattern.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -29,9 +32,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Granule embedment loss on Minnetonka, MN north slopes can precede mat exposure.
 
-Our Minnetonka, MN dispatch packets reference county grid Hennepin County and elevation band 991 ft.
-
-roofing service brief: starter-strip setback and deck sheathing thickness were cross-checked for the Minnetonka intake packet.
+Our Minnetonka, MN restoration packets reference Hennepin County and elevation band 991 ft for shingle and leak scope.
 
 ZIP-corridor snapshot for Minnetonka, MN: sampled sectors include 55305, 55345, 55391, 55343; county routing grid remains Hennepin County.
 

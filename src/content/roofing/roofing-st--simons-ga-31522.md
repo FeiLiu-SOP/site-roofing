@@ -11,11 +11,14 @@ lng: -81.3900
 zipSample: ["31522"]
 zipCodes: ["31522"]
 localPaths: ["Glynn County / elevation 20 ft band", "Glynn County / primary ZIP 31522", "Glynn County / coords 31.1800, -81.3900", "Glynn County / ZIP 31522 sector"]
-zillowHomeValueUsd: 688200
 ---
 
-**Engineering Notice for St. Simons:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Glynn County.
+**Engineering Notice for St. Simons:** Shingle, flashing, and ventilation review recorded at 20 ft AMSL context (Glynn County).
 
+
+Roofing service restoration in St. Simons, GA, Glynn County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in St. Simons, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Glynn County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Hail bruising on St. Simons, GA ridges may not breach felt until the next wind event.
 
@@ -27,15 +30,15 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Risk flag: In St. Simons, GA, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-roofing service brief: pipe boot manufacturer match and starter-strip setback were cross-checked for the St. Simons intake packet.
+Roof restoration brief: pipe boot manufacturer match and starter-strip setback were cross-checked for the St. Simons shingle and leak scope.
 
 On-site sector marker: Glynn County / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 

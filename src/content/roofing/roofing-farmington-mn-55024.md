@@ -11,11 +11,14 @@ lng: -93.1700
 zipSample: ["55024"]
 zipCodes: ["55024"]
 localPaths: ["Dakota County / coords 44.6600, -93.1700", "Dakota County / ZIP 55024 sector", "Dakota County / elevation 909 ft band", "Dakota County / primary ZIP 55024"]
-zillowHomeValueUsd: 400275
 ---
 
-**Engineering Notice for Farmington:** Structural loading calculated based on 909 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Farmington:** Storm and emergency leak triage uses 909 ft elevation band with Dakota County service-area context for roofing repairs.
 
+
+Roof work service in Farmington, MN, Dakota County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Farmington, MN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Dakota County clarifies whether restoration or replacement fits the damage pattern.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -23,19 +26,19 @@ Risk flag: Tile underlayment age in Farmington, MN can fail independently of vis
 
 Regulatory note: Farmington, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: When should permanent service start? In Farmington, MN, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Farmington, MN, delayed dry-in can expand insulation and ceiling repairs.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Attic ventilation deficits in Farmington, MN can mimic roof leaks at ceiling penetrations.
 
-Field routing: pipe boot manufacturer match paired with drip-edge metal profile near ZIP 55024.
+Local service note: pipe boot manufacturer match paired with drip-edge metal profile near ZIP 55024 for emergency roof work repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 55024.
 

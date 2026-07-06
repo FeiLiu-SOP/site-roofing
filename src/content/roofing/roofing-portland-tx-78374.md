@@ -11,11 +11,14 @@ lng: -97.3300
 zipSample: ["78374", "78390"]
 zipCodes: ["78390", "78374"]
 localPaths: ["San Patricio County / primary ZIP 78374", "San Patricio County / ZIP 78374 sector", "San Patricio County / elevation 52 ft band", "San Patricio County / coords 27.8900, -97.3300", "San Patricio County / ZIP 78390 sector"]
-zillowHomeValueUsd: 267409
 ---
 
-**Engineering Notice for Portland:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: San Patricio County.
+**Engineering Notice for Portland:** Roof repair scope references 52 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Patricio County.
 
+
+Storm damage roofing service in Portland, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Patricio County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof service in Portland, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in San Patricio County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Coastal humidity in Portland, TX can slow shingle seal-down after shoulder-season storms.
 
@@ -25,15 +28,13 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 Tip: Note recent wind events when filing insurance photos for Portland, TX.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field routing: starter-strip setback paired with drip-edge metal profile near ZIP 78374.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 78374/78390.
+Local service note: starter-strip setback paired with drip-edge metal profile near ZIP 78374 for emergency roof service repairs.
 
 On-site sector marker: San Patricio County / primary ZIP 78374 — logged for map parity and ZIP-corridor verification.
 

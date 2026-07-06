@@ -11,11 +11,14 @@ lng: -122.3000
 zipSample: ["94002"]
 zipCodes: ["94002"]
 localPaths: ["San Mateo County / ZIP 94002 sector", "San Mateo County / coords 37.5200, -122.3000", "San Mateo County / elevation 226 ft band", "San Mateo County / primary ZIP 94002"]
-zillowHomeValueUsd: 2339014
 ---
 
-**Engineering Notice for Belmont:** Structural loading calculated based on 226 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Belmont:** Roof repair scope references 226 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Mateo County.
 
+
+Storm damage roofing service in Belmont, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Mateo County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Belmont, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -27,11 +30,9 @@ Risk flag: In Belmont, CA, interior stains may track from HVAC condensate rather
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Regulatory note: Belmont, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
-
-Field routing: valley metal gauge paired with soffit intake free area near ZIP 94002.
 
 ZIP-corridor snapshot for Belmont, CA: sampled sectors include 94002; county routing grid remains San Mateo County.
 

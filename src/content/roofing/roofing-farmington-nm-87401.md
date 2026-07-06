@@ -11,11 +11,14 @@ lng: -108.1800
 zipSample: ["87401", "87402"]
 zipCodes: ["87401", "87402"]
 localPaths: ["San Juan County / coords 36.7600, -108.1800", "San Juan County / ZIP 87402 sector", "San Juan County / elevation 5482 ft band", "San Juan County / primary ZIP 87401", "San Juan County / ZIP 87401 sector"]
-zillowHomeValueUsd: 265325
 ---
 
-**Engineering Notice for Farmington:** Structural loading calculated based on 5482 ft terrain assessment. Regional dispatch grid: San Juan County.
+**Engineering Notice for Farmington:** Roof repair scope references 5482 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Juan County.
 
+
+When wind or hail hits Farmington, NM, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Farmington, NM often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in San Juan County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Across Farmington, NM, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -27,15 +30,13 @@ FAQ: How long can shingles wait after storm damage? In Farmington, NM, delayed d
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Our Farmington, NM dispatch packets reference county grid San Juan County and elevation band 5482 ft.
+Our Farmington, NM service packets reference San Juan County and elevation band 5482 ft for shingle and leak scope.
 
 Code context: Ventilation ratios for Farmington, NM attics should be checked against current mechanical exhaust additions.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Scope trace: drip-edge metal profile plus starter-strip setback referenced in San Juan County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 87401/87402.
+Scope trace: drip-edge metal profile plus starter-strip setback referenced in San Juan County storm and leak review.
 
 On-site sector marker: San Juan County / ZIP 87401 sector — logged for map parity and ZIP-corridor verification.
 

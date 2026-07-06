@@ -11,11 +11,14 @@ lng: -97.1500
 zipSample: ["76034"]
 zipCodes: ["76034"]
 localPaths: ["Tarrant County / primary ZIP 76034", "Tarrant County / ZIP 76034 sector", "Tarrant County / coords 32.8900, -97.1500", "Tarrant County / elevation 653 ft band"]
-zillowHomeValueUsd: 912164
 ---
 
-**Engineering Notice for Colleyville:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Colleyville:** Storm and emergency leak triage uses 653 ft elevation band with Tarrant County service-area context for roofing repairs.
 
+
+Storm damage roof service in Colleyville, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Tarrant County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Colleyville, TX, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -23,7 +26,7 @@ Hail bruising on Colleyville, TX ridges may not breach felt until the next wind 
 
 Material note: In Colleyville, TX, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -34,8 +37,6 @@ FAQ: Can you tarp only part of the roof? In Colleyville, TX, yes—if slope and 
 Regulatory note: Colleyville, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
 Risk flag: In Colleyville, TX, interior stains may track from HVAC condensate rather than roof cladding.
-
-Field routing: attic baffle spacing paired with counter-flashing reglet depth near ZIP 76034.
 
 Coordinate-anchored dispatch note: center reference 32.8900, -97.1500 at elevation ~653 ft aligns with Tarrant County intake staging.
 

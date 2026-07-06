@@ -11,13 +11,16 @@ lng: -77.0600
 zipSample: ["20906", "20915", "20902"]
 zipCodes: ["20906", "20902", "20915"]
 localPaths: ["Montgomery County / coords 39.0500, -77.0600", "Montgomery County / ZIP 20902 sector", "Montgomery County / ZIP 20906 sector", "Montgomery County / primary ZIP 20906", "Montgomery County / elevation 397 ft band"]
-zillowHomeValueUsd: 447357
 ---
 
-**Engineering Notice for Wheaton:** Structural loading calculated based on 397 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Wheaton:** Roof repair scope references 397 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Montgomery County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Storm damage roofing service in Wheaton, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Montgomery County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Wheaton, MD, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: In Wheaton, MD, algae-resistant granules may be specified for north-facing slopes.
 
@@ -33,9 +36,7 @@ Code context: Ventilation ratios for Wheaton, MD attics should be checked agains
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-Field routing: ice-barrier lap sequence paired with soffit intake free area near ZIP 20906.
-
-Field note: Attic moisture pathway scan referenced ZIP 20906/20915/20902.
+Local service note: ice-barrier lap sequence paired with soffit intake free area near ZIP 20906 for emergency roof service repairs.
 
 ZIP-corridor snapshot for Wheaton, MD: sampled sectors include 20902, 20915, 20906; county routing grid remains Montgomery County.
 

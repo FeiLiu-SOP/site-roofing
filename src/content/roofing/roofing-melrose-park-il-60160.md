@@ -11,11 +11,14 @@ lng: -87.8600
 zipSample: ["60161", "60160"]
 zipCodes: ["60161", "60160"]
 localPaths: ["Cook County / elevation 643 ft band", "Cook County / primary ZIP 60160", "Cook County / coords 41.9000, -87.8600", "Cook County / ZIP 60161 sector", "Cook County / ZIP 60160 sector"]
-zillowHomeValueUsd: 311379
 ---
 
-**Engineering Notice for Melrose Park:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Melrose Park:** Shingle, flashing, and ventilation review recorded at 643 ft AMSL context (Cook County).
 
+
+When wind or hail hits Melrose Park, IL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Melrose Park, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cook County clarifies whether restoration or replacement fits the damage pattern.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -34,8 +37,6 @@ We coordinate Melrose Park, IL roof reviews with photo logs, moisture notes, and
 FAQ: When should permanent restoration start? In Melrose Park, IL, delayed dry-in can expand insulation and ceiling repairs.
 
 Risk flag: Tile underlayment age in Melrose Park, IL can fail independently of visible tile cracks.
-
-Field routing: ice-barrier lap sequence paired with skylight curb height near ZIP 60160.
 
 Primary postal anchor 60160 with multi-ZIP overlap in Melrose Park; field packets tag Cook County for county-grid reconciliation.
 

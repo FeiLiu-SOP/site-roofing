@@ -11,11 +11,14 @@ lng: -77.3900
 zipSample: ["23805", "23803", "23804", "23806"]
 zipCodes: ["23803", "23805", "23806", "23804"]
 localPaths: ["Petersburg County / ZIP 23805 sector", "Petersburg County / coords 37.2000, -77.3900", "Petersburg County / ZIP 23804 sector", "Petersburg County / primary ZIP 23803", "Petersburg County / elevation 174 ft band"]
-zillowHomeValueUsd: 234897
 ---
 
-**Engineering Notice for Petersburg:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Petersburg County.
+**Engineering Notice for Petersburg:** Shingle, flashing, and ventilation review recorded at 174 ft AMSL context (Petersburg County).
 
+
+Certified roof restoration crews serving Petersburg, VA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Petersburg, VA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -35,9 +38,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 We coordinate Petersburg, VA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-roofing service brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Petersburg intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 23804/23806/23805.
+Roof remediation brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Petersburg shingle and leak scope.
 
 On-site sector marker: Petersburg County / elevation 174 ft band — logged for map parity and ZIP-corridor verification.
 

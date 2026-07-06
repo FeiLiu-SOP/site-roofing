@@ -11,11 +11,14 @@ lng: -79.2700
 zipSample: ["27302"]
 zipCodes: ["27302"]
 localPaths: ["Alamance County / coords 36.0900, -79.2700", "Alamance County / elevation 705 ft band", "Alamance County / primary ZIP 27302", "Alamance County / ZIP 27302 sector"]
-zillowHomeValueUsd: 353202
 ---
 
-**Engineering Notice for Mebane:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Alamance County.
+**Engineering Notice for Mebane:** Shingle, flashing, and ventilation review recorded at 705 ft AMSL context (Alamance County).
 
+
+Certified roof service crews serving Mebane, NC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Mebane, NC, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -32,8 +35,6 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 FAQ: How long can shingles wait after storm damage? In Mebane, NC, delayed dry-in can expand insulation and ceiling repairs.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Scope trace: ice-barrier lap sequence plus counter-flashing reglet depth referenced in Alamance County county grid review.
 
 On-site sector marker: Alamance County / ZIP 27302 sector — logged for map parity and ZIP-corridor verification.
 

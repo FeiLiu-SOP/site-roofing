@@ -11,11 +11,14 @@ lng: -73.6700
 zipSample: ["11563"]
 zipCodes: ["11563"]
 localPaths: ["Nassau County / ZIP 11563 sector", "Nassau County / elevation 16 ft band", "Nassau County / coords 40.6600, -73.6700", "Nassau County / primary ZIP 11563"]
-zillowHomeValueUsd: 748003
 ---
 
-**Engineering Notice for Lynbrook:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Lynbrook:** Roof repair scope references 16 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Nassau County.
 
+
+Certified roof remediation crews serving Lynbrook, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Lynbrook, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Nassau County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Code context: Ventilation ratios for Lynbrook, NY attics should be checked against current mechanical exhaust additions.
 
@@ -23,7 +26,7 @@ Parapet coping movement in Lynbrook, NY can channel water behind wall cladding.
 
 Material note: In Lynbrook, NY, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -33,7 +36,7 @@ Step: compare shingle manufacturer wind-zone ratings for Lynbrook, NY exposure c
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Scope trace: drip-edge metal profile plus wind uplift clip spacing referenced in Nassau County county grid review.
+Scope trace: drip-edge metal profile plus wind uplift clip spacing referenced in Nassau County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 11563.
 

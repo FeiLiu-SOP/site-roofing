@@ -11,11 +11,14 @@ lng: -87.6800
 zipSample: ["54220"]
 zipCodes: ["54220"]
 localPaths: ["Manitowoc County / elevation 630 ft band", "Manitowoc County / primary ZIP 54220", "Manitowoc County / coords 44.1000, -87.6800", "Manitowoc County / ZIP 54220 sector"]
-zillowHomeValueUsd: 236151
 ---
 
-**Engineering Notice for Manitowoc:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Manitowoc County.
+**Engineering Notice for Manitowoc:** Shingle, flashing, and ventilation review recorded at 630 ft AMSL context (Manitowoc County).
 
+
+Roof service remediation in Manitowoc, WI, Manitowoc County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Manitowoc, WI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -31,9 +34,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Step: map ventilation intake and exhaust pairs for Manitowoc, WI attic runs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-Scope trace: valley metal gauge plus soffit intake free area referenced in Manitowoc County county grid review.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 On-site sector marker: Manitowoc County / primary ZIP 54220 — logged for map parity and ZIP-corridor verification.
 

@@ -11,15 +11,18 @@ lng: -77.5700
 zipSample: ["23235"]
 zipCodes: ["23235"]
 localPaths: ["Chesterfield County / ZIP 23235 sector", "Chesterfield County / coords 37.5200, -77.5700", "Chesterfield County / primary ZIP 23235", "Chesterfield County / elevation 322 ft band"]
-zillowHomeValueUsd: 412292
 ---
 
-**Engineering Notice for Bon Air:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Chesterfield County.
+**Engineering Notice for Bon Air:** Storm and emergency leak triage uses 322 ft elevation band with Chesterfield County service-area context for roofing repairs.
 
+
+Emergency roof restoration in Bon Air, VA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Chesterfield County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits Bon Air, VA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: log deck soundings near vents before tear-off is approved.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for Bon Air, VA attics should be checked against current mechanical exhaust additions.
 
@@ -35,9 +38,7 @@ Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 23235.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field routing: wind uplift clip spacing paired with synthetic underlayment slip near ZIP 23235.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 23235.
+Local service note: wind uplift clip spacing paired with synthetic underlayment slip near ZIP 23235 for emergency roof service repairs.
 
 Coordinate-anchored dispatch note: center reference 37.5200, -77.5700 at elevation ~322 ft aligns with Chesterfield County intake staging.
 

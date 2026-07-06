@@ -11,11 +11,14 @@ lng: -68.7900
 zipSample: ["04401", "04402"]
 zipCodes: ["04401", "04402"]
 localPaths: ["Penobscot County / ZIP 04402 sector", "Penobscot County / coords 44.8300, -68.7900", "Penobscot County / elevation 167 ft band", "Penobscot County / primary ZIP 04401", "Penobscot County / ZIP 04401 sector"]
-zillowHomeValueUsd: 299406
 ---
 
-**Engineering Notice for Bangor:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Penobscot County.
+**Engineering Notice for Bangor:** Roof repair scope references 167 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Penobscot County.
 
+
+Roof work service in Bangor, ME, Penobscot County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Bangor, ME often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Penobscot County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tile and shingle mixes in Bangor, ME require different fastener patterns at transitions.
 
@@ -31,9 +34,9 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Regulatory note: Bangor, ME projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Scope trace: counter-flashing reglet depth plus synthetic underlayment slip referenced in Penobscot County county grid review.
+Scope trace: counter-flashing reglet depth plus synthetic underlayment slip referenced in Penobscot County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 04402/04401.
 

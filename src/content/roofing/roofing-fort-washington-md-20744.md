@@ -11,17 +11,20 @@ lng: -77.0100
 zipSample: ["20744", "20749"]
 zipCodes: ["20744", "20749"]
 localPaths: ["Prince George's County / primary ZIP 20744", "Prince George's County / ZIP 20749 sector", "Prince George's County / ZIP 20744 sector", "Prince George's County / coords 38.7300, -77.0100", "Prince George's County / elevation 72 ft band"]
-zillowHomeValueUsd: 448962
 ---
 
-**Engineering Notice for Fort Washington:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Fort Washington:** Shingle, flashing, and ventilation review recorded at 72 ft AMSL context (Prince George's County).
 
+
+Storm damage roof service in Fort Washington, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Prince George's County clarifies whether service or replacement fits the damage pattern.
+
+Roof work remediation in Fort Washington, MD, Prince George's County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: In Fort Washington, MD, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,7 +34,7 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Wind-zone note: Fort Washington, MD exposure class can change starter-strip and cap nail schedules.
 
-roof service brief: chimney cricket slope and wind uplift clip spacing were cross-checked for the Fort Washington intake packet.
+Roof remediation brief: chimney cricket slope and wind uplift clip spacing were cross-checked for the Fort Washington shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 20749/20744.
 

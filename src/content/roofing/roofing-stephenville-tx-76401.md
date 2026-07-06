@@ -11,11 +11,14 @@ lng: -98.2200
 zipSample: ["76401", "76402"]
 zipCodes: ["76402", "76401"]
 localPaths: ["Erath County / elevation 1362 ft band", "Erath County / primary ZIP 76401", "Erath County / ZIP 76401 sector", "Erath County / ZIP 76402 sector", "Erath County / coords 32.2100, -98.2200"]
-zillowHomeValueUsd: 323686
 ---
 
-**Engineering Notice for Stephenville:** Structural loading calculated based on 1362 ft terrain assessment. Regional dispatch grid: Erath County.
+**Engineering Notice for Stephenville:** Shingle, flashing, and ventilation review recorded at 1362 ft AMSL context (Erath County).
 
+
+Emergency roof service in Stephenville, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Erath County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service remediation in Stephenville, TX, Erath County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -23,7 +26,7 @@ Across Stephenville, TX, ice-dam seasons often begin with clogged gutters rather
 
 Risk flag: Tile underlayment age in Stephenville, TX can fail independently of visible tile cracks.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent restoration line items.
 
 Material note: In Stephenville, TX, algae-resistant granules may be specified for north-facing slopes.
 
@@ -35,9 +38,7 @@ We coordinate Stephenville, TX roof reviews with photo logs, moisture notes, and
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-roof service brief: chimney cricket slope and deck sheathing thickness were cross-checked for the Stephenville intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 76402/76401.
+Roof service brief: chimney cricket slope and deck sheathing thickness were cross-checked for the Stephenville shingle and leak scope.
 
 On-site sector marker: Erath County / primary ZIP 76401 — logged for map parity and ZIP-corridor verification.
 

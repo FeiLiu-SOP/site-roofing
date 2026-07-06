@@ -11,11 +11,14 @@ lng: -90.1300
 zipSample: ["62202", "62201", "62203", "62204", "62205"]
 zipCodes: ["62205", "62204", "62201", "62207", "62203", "62202"]
 localPaths: ["St. Clair County / ZIP 62203 sector", "St. Clair County / elevation 420 ft band", "St. Clair County / ZIP 62205 sector", "St. Clair County / coords 38.6200, -90.1300", "St. Clair County / ZIP 62202 sector"]
-zillowHomeValueUsd: 42257
 ---
 
-**Engineering Notice for East St. Louis:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: St. Clair County.
+**Engineering Notice for East St. Louis:** Shingle, flashing, and ventilation review recorded at 420 ft AMSL context (St. Clair County).
 
+
+Licensed roof service crews serving East St. Louis, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in East St. Louis, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in St. Clair County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -27,13 +30,13 @@ FAQ: Is partial dry-in possible? In East St. Louis, IL, yes—if slope and ancho
 
 Code context: Ventilation ratios for East St. Louis, IL attics should be checked against current mechanical exhaust additions.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Scope trace: attic baffle spacing plus drip-edge metal profile referenced in St. Clair County county grid review.
+Scope trace: attic baffle spacing plus drip-edge metal profile referenced in St. Clair County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 62207/62203/62205.
 

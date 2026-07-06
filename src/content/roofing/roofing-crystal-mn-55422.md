@@ -11,17 +11,20 @@ lng: -93.3600
 zipSample: ["55428", "55427", "55429", "55422"]
 zipCodes: ["55429", "55428", "55427", "55422"]
 localPaths: ["Hennepin County / ZIP 55422 sector", "Hennepin County / ZIP 55429 sector", "Hennepin County / elevation 892 ft band", "Hennepin County / coords 45.0400, -93.3600", "Hennepin County / ZIP 55428 sector"]
-zillowHomeValueUsd: 339146
 ---
 
-**Engineering Notice for Crystal:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Crystal:** Storm and emergency leak triage uses 892 ft elevation band with Hennepin County service-area context for roofing repairs.
 
+
+Emergency roof service in Crystal, MN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Hennepin County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof remediation crews serving Crystal, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
 Skylight curb flashing in Crystal, MN should be sequenced before ridge cap replacement.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -35,9 +38,7 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roof work brief: valley metal gauge and drip-edge metal profile were cross-checked for the Crystal intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 55428/55429/55422.
+Roof restoration brief: valley metal gauge and drip-edge metal profile were cross-checked for the Crystal shingle and leak scope.
 
 Primary postal anchor 55422 with multi-ZIP overlap in Crystal; field packets tag Hennepin County for county-grid reconciliation.
 

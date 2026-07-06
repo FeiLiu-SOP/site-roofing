@@ -11,17 +11,20 @@ lng: -73.4500
 zipSample: ["11735"]
 zipCodes: ["11735"]
 localPaths: ["Nassau County / primary ZIP 11735", "Nassau County / coords 40.7200, -73.4500", "Nassau County / ZIP 11735 sector", "Nassau County / elevation 52 ft band"]
-zillowHomeValueUsd: 716954
 ---
 
-**Engineering Notice for South Farmingdale:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for South Farmingdale:** Roof repair scope references 52 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Nassau County.
 
+
+Storm damage roof work in South Farmingdale, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Nassau County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof service remediation in South Farmingdale, NY, Nassau County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: log deck soundings near vents before tear-off is approved.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -35,9 +38,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Granule embedment loss on South Farmingdale, NY north slopes can precede mat exposure.
 
-Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Nassau County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 11735.
+Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Nassau County storm and leak review.
 
 On-site sector marker: Nassau County / elevation 52 ft band — logged for map parity and ZIP-corridor verification.
 

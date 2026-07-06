@@ -11,11 +11,14 @@ lng: -80.8000
 zipSample: ["44005", "44004"]
 zipCodes: ["44005", "44004"]
 localPaths: ["Ashtabula County / coords 41.8800, -80.8000", "Ashtabula County / ZIP 44005 sector", "Ashtabula County / ZIP 44004 sector", "Ashtabula County / elevation 640 ft band", "Ashtabula County / primary ZIP 44004"]
-zillowHomeValueUsd: 151168
 ---
 
-**Engineering Notice for Ashtabula:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Ashtabula County.
+**Engineering Notice for Ashtabula:** Roof repair scope references 640 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Ashtabula County.
 
+
+Roof work restoration in Ashtabula, OH, Ashtabula County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof restoration crews serving Ashtabula, OH review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -33,9 +36,7 @@ Step: confirm drip-edge continuity before shingle courses restart.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-Field routing: soffit intake free area paired with skylight curb height near ZIP 44004.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Primary postal anchor 44004 with multi-ZIP overlap in Ashtabula; field packets tag Ashtabula County for county-grid reconciliation.
 

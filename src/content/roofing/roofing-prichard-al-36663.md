@@ -11,11 +11,14 @@ lng: -88.1300
 zipSample: ["36612", "36663", "36610", "36613"]
 zipCodes: ["36663", "36613", "36610", "36612"]
 localPaths: ["Mobile County / elevation 62 ft band", "Mobile County / primary ZIP 36663", "Mobile County / ZIP 36610 sector", "Mobile County / ZIP 36613 sector", "Mobile County / ZIP 36612 sector"]
-zillowHomeValueUsd: 147147
 ---
 
-**Engineering Notice for Prichard:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Mobile County.
+**Engineering Notice for Prichard:** Storm and emergency leak triage uses 62 ft elevation band with Mobile County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Prichard, AL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Mobile County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service service in Prichard, AL, Mobile County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -33,11 +36,9 @@ Step: confirm drip-edge continuity before shingle courses restart.
 
 FAQ: When should permanent remediation start? In Prichard, AL, delayed dry-in can expand insulation and ceiling repairs.
 
-Our Prichard, AL dispatch packets reference county grid Mobile County and elevation band 62 ft.
+Our Prichard, AL restoration packets reference Mobile County and elevation band 62 ft for shingle and leak scope.
 
-roof service brief: soffit intake free area and ridge cap nail schedule were cross-checked for the Prichard intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 36612/36610/36613.
+Roof remediation brief: soffit intake free area and ridge cap nail schedule were cross-checked for the Prichard shingle and leak scope.
 
 On-site sector marker: Mobile County / ZIP 36613 sector — logged for map parity and ZIP-corridor verification.
 

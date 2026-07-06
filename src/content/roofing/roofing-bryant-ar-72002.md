@@ -11,17 +11,20 @@ lng: -92.4900
 zipSample: ["72002", "72089", "72022"]
 zipCodes: ["72002", "72022", "72089"]
 localPaths: ["Saline County / primary ZIP 72002", "Saline County / ZIP 72002 sector", "Saline County / ZIP 72022 sector", "Saline County / coords 34.6200, -92.4900", "Saline County / elevation 390 ft band"]
-zillowHomeValueUsd: 249492
 ---
 
-**Engineering Notice for Bryant:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Saline County.
+**Engineering Notice for Bryant:** Roof repair scope references 390 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Saline County.
 
 
-FAQ: When should permanent restoration start? In Bryant, AR, delayed dry-in can expand insulation and ceiling repairs.
+Emergency roof restoration in Bryant, AR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Saline County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service remediation in Bryant, AR, Saline County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+FAQ: When should permanent service start? In Bryant, AR, delayed dry-in can expand insulation and ceiling repairs.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Tile underlayment age in Bryant, AR can fail independently of visible tile cracks.
 
@@ -30,8 +33,6 @@ Regulatory note: Bryant, AR projects may trigger ice-barrier upgrades when tear-
 Step: map ventilation intake and exhaust pairs for Bryant, AR attic runs.
 
 Freeze-thaw cycles around Bryant, AR stress nail pops along eaves and rake edges.
-
-roof service brief: pipe boot manufacturer match and skylight curb height were cross-checked for the Bryant intake packet.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~390 ft across the Saline County area. Coordinates: 34.6200, -92.4900. ZIP sample: 72089, 72022, 72002. Regional routing note: Saline County traffic flow is balanced around ZIP 72002 service demand.
 

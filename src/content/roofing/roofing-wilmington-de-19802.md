@@ -11,11 +11,14 @@ lng: -75.5400
 zipSample: ["19806", "19805", "19801", "19802", "19809"]
 zipCodes: ["19880", "19898", "19806", "19885", "19884", "19850", "19893", "19805", "19895", "19899", "19802", "19801"]
 localPaths: ["New Castle County / ZIP 19806 sector", "New Castle County / ZIP 19805 sector", "New Castle County / ZIP 19801 sector", "New Castle County / primary ZIP 19802", "New Castle County / ZIP 19809 sector"]
-zillowHomeValueUsd: 201417
 ---
 
-**Engineering Notice for Wilmington:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: New Castle County.
+**Engineering Notice for Wilmington:** Storm and emergency leak triage uses 36 ft elevation band with New Castle County service-area context for roofing repairs.
 
+
+When wind or hail hits Wilmington, DE, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Certified roof remediation crews serving Wilmington, DE review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -35,7 +38,7 @@ Granule embedment loss on Wilmington, DE north slopes can precede mat exposure.
 
 FAQ: When should permanent remediation start? In Wilmington, DE, delayed dry-in can expand insulation and ceiling repairs.
 
-roof work brief: attic baffle spacing and skylight curb height were cross-checked for the Wilmington intake packet.
+Roof restoration brief: attic baffle spacing and skylight curb height were cross-checked for the Wilmington shingle and leak scope.
 
 On-site sector marker: New Castle County / coords 39.7400, -75.5400 — logged for map parity and ZIP-corridor verification.
 

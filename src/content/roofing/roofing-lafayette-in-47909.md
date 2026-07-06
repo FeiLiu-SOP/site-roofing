@@ -11,11 +11,14 @@ lng: -86.8600
 zipSample: ["47905", "47901", "47904", "47903", "47909"]
 zipCodes: ["47902", "47909", "47901", "47905", "47904", "47903"]
 localPaths: ["Tippecanoe County / ZIP 47904 sector", "Tippecanoe County / ZIP 47901 sector", "Tippecanoe County / ZIP 47905 sector", "Tippecanoe County / primary ZIP 47909", "Tippecanoe County / elevation 669 ft band"]
-zillowHomeValueUsd: 275913
 ---
 
-**Engineering Notice for Lafayette:** Structural loading calculated based on 669 ft terrain assessment. Regional dispatch grid: Tippecanoe County.
+**Engineering Notice for Lafayette:** Storm and emergency leak triage uses 669 ft elevation band with Tippecanoe County service-area context for roofing repairs.
 
+
+Certified roof restoration crews serving Lafayette, IN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Lafayette, IN, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: compare shingle manufacturer wind-zone ratings for Lafayette, IN exposure class.
 
@@ -35,9 +38,7 @@ We coordinate Lafayette, IN roof reviews with photo logs, moisture notes, and re
 
 Freeze-thaw cycles around Lafayette, IN stress nail pops along eaves and rake edges.
 
-roof service brief: starter-strip setback and drip-edge metal profile were cross-checked for the Lafayette intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 47904/47905/47902.
+Roof restoration brief: starter-strip setback and drip-edge metal profile were cross-checked for the Lafayette shingle and leak scope.
 
 On-site sector marker: Tippecanoe County / ZIP 47905 sector — logged for map parity and ZIP-corridor verification.
 

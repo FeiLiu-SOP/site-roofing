@@ -11,11 +11,14 @@ lng: -83.0700
 zipSample: ["43015"]
 zipCodes: ["43015"]
 localPaths: ["Delaware County / primary ZIP 43015", "Delaware County / ZIP 43015 sector", "Delaware County / coords 40.2900, -83.0700", "Delaware County / elevation 915 ft band"]
-zillowHomeValueUsd: 408710
 ---
 
-**Engineering Notice for Delaware:** Structural loading calculated based on 915 ft terrain assessment. Regional dispatch grid: Delaware County.
+**Engineering Notice for Delaware:** Storm and emergency leak triage uses 915 ft elevation band with Delaware County service-area context for roofing repairs.
 
+
+Storm damage roof service in Delaware, OH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Delaware County clarifies whether remediation or replacement fits the damage pattern.
+
+Certified roof remediation crews serving Delaware, OH review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Regulatory note: Delaware, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -29,9 +32,9 @@ Hail bruising on Delaware, OH ridges may not breach felt until the next wind eve
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-roof service brief: soffit intake free area and shingle exposure calibration were cross-checked for the Delaware intake packet.
+Roof remediation brief: soffit intake free area and shingle exposure calibration were cross-checked for the Delaware shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 43015.
 

@@ -11,15 +11,18 @@ lng: -117.1000
 zipSample: ["91951", "92136", "91950"]
 zipCodes: ["91951", "92136", "91950"]
 localPaths: ["San Diego County / ZIP 91951 sector", "San Diego County / primary ZIP 92136", "San Diego County / ZIP 92136 sector", "San Diego County / ZIP 91950 sector", "San Diego County / elevation 43 ft band"]
-zillowHomeValueUsd: 690276
 ---
 
-**Engineering Notice for National City:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for National City:** Roof repair scope references 43 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Diego County.
 
+
+When wind or hail hits National City, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Licensed roof remediation crews serving National City, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: In National City, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -33,9 +36,7 @@ Wind-zone note: National City, CA exposure class can change starter-strip and ca
 
 Coastal humidity in National City, CA can slow shingle seal-down after shoulder-season storms.
 
-Scope trace: soffit intake free area plus shingle exposure calibration referenced in San Diego County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 91951/92136/91950.
+Scope trace: soffit intake free area plus shingle exposure calibration referenced in San Diego County storm and leak review.
 
 On-site sector marker: San Diego County / coords 32.6700, -117.1000 — logged for map parity and ZIP-corridor verification.
 

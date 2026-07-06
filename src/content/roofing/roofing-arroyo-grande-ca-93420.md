@@ -11,11 +11,14 @@ lng: -120.5800
 zipSample: ["93420", "93421"]
 zipCodes: ["93420", "93421"]
 localPaths: ["San Luis Obispo County / elevation 217 ft band", "San Luis Obispo County / ZIP 93421 sector", "San Luis Obispo County / primary ZIP 93420", "San Luis Obispo County / coords 35.1200, -120.5800", "San Luis Obispo County / ZIP 93420 sector"]
-zillowHomeValueUsd: 1050001
 ---
 
-**Engineering Notice for Arroyo Grande:** Structural loading calculated based on 217 ft terrain assessment. Regional dispatch grid: San Luis Obispo County.
+**Engineering Notice for Arroyo Grande:** Storm and emergency leak triage uses 217 ft elevation band with San Luis Obispo County service-area context for roofing repairs.
 
+
+When wind or hail hits Arroyo Grande, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Arroyo Grande, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Luis Obispo County clarifies whether restoration or replacement fits the damage pattern.
 
 In Arroyo Grande, CA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -35,7 +38,7 @@ We coordinate Arroyo Grande, CA roof reviews with photo logs, moisture notes, an
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in San Luis Obispo County county grid review.
+Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in San Luis Obispo County storm and leak review.
 
 On-site sector marker: San Luis Obispo County / ZIP 93421 sector — logged for map parity and ZIP-corridor verification.
 

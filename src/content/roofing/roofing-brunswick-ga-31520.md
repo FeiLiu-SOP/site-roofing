@@ -11,13 +11,16 @@ lng: -81.4700
 zipSample: ["31520", "31521"]
 zipCodes: ["31520", "31521"]
 localPaths: ["Glynn County / ZIP 31521 sector", "Glynn County / primary ZIP 31520", "Glynn County / ZIP 31520 sector", "Glynn County / elevation 3 ft band", "Glynn County / coords 31.1400, -81.4700"]
-zillowHomeValueUsd: 148454
 ---
 
-**Engineering Notice for Brunswick:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Glynn County.
+**Engineering Notice for Brunswick:** Roof repair scope references 3 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Glynn County.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+When wind or hail hits Brunswick, GA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Certified roof remediation crews serving Brunswick, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -34,8 +37,6 @@ Regulatory note: Brunswick, GA projects may trigger ice-barrier upgrades when te
 Metal panel oil-canning in Brunswick, GA may signal clip spacing issues, not wind damage alone.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
-
-Field routing: valley metal gauge paired with wind uplift clip spacing near ZIP 31520.
 
 On-site sector marker: Glynn County / elevation 3 ft band — logged for map parity and ZIP-corridor verification.
 

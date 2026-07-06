@@ -11,11 +11,14 @@ lng: -89.9900
 zipSample: ["62226"]
 zipCodes: ["62226"]
 localPaths: ["St. Clair County / primary ZIP 62226", "St. Clair County / elevation 574 ft band", "St. Clair County / coords 38.5500, -89.9900", "St. Clair County / ZIP 62226 sector"]
-zillowHomeValueUsd: 180670
 ---
 
-**Engineering Notice for Swansea:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: St. Clair County.
+**Engineering Notice for Swansea:** Storm and emergency leak triage uses 574 ft elevation band with St. Clair County service-area context for roofing repairs.
 
+
+Roofing service restoration in Swansea, IL, St. Clair County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Swansea, IL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Granule embedment loss on Swansea, IL north slopes can precede mat exposure.
 
@@ -27,11 +30,11 @@ FAQ: Is partial dry-in possible? In Swansea, IL, yes—if slope and anchor point
 
 Tip: Note recent wind events when filing insurance photos for Swansea, IL.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: compare shingle manufacturer wind-zone ratings for Swansea, IL exposure class.
 
-Scope trace: starter-strip setback plus shingle exposure calibration referenced in St. Clair County county grid review.
+Scope trace: starter-strip setback plus shingle exposure calibration referenced in St. Clair County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 62226.
 

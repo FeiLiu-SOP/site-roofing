@@ -11,11 +11,14 @@ lng: -117.7300
 zipSample: ["92654", "92637"]
 zipCodes: ["92637", "92654"]
 localPaths: ["Orange County / coords 33.6100, -117.7300", "Orange County / primary ZIP 92637", "Orange County / elevation 453 ft band", "Orange County / ZIP 92637 sector", "Orange County / ZIP 92654 sector"]
-zillowHomeValueUsd: 470913
 ---
 
-**Engineering Notice for Laguna Woods:** Structural loading calculated based on 453 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Laguna Woods:** Storm and emergency leak triage uses 453 ft elevation band with Orange County service-area context for roofing repairs.
 
+
+Emergency roof service in Laguna Woods, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Orange County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof restoration crews serving Laguna Woods, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Tile underlayment age in Laguna Woods, CA can fail independently of visible tile cracks.
 
@@ -27,11 +30,11 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 92637.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Wind-zone note: Laguna Woods, CA exposure class can change starter-strip and cap nail schedules.
 
-Scope trace: ice-barrier lap sequence plus wind uplift clip spacing referenced in Orange County county grid review.
+Scope trace: ice-barrier lap sequence plus wind uplift clip spacing referenced in Orange County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 92637/92654.
 

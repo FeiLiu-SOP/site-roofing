@@ -11,11 +11,14 @@ lng: -118.3100
 zipSample: ["90249", "90247"]
 zipCodes: ["90247", "90249"]
 localPaths: ["Los Angeles County / ZIP 90247 sector", "Los Angeles County / ZIP 90249 sector", "Los Angeles County / coords 33.8900, -118.3100", "Los Angeles County / elevation 59 ft band", "Los Angeles County / primary ZIP 90249"]
-zillowHomeValueUsd: 811712
 ---
 
-**Engineering Notice for Gardena:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Gardena:** Roof repair scope references 59 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
+
+Storm damage roofing service in Gardena, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof restoration in Gardena, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Los Angeles County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -25,9 +28,9 @@ Material note: In Gardena, CA, algae-resistant granules may be specified for nor
 
 Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: When should permanent service start? In Gardena, CA, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In Gardena, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -35,7 +38,7 @@ Freeze-thaw cycles around Gardena, CA stress nail pops along eaves and rake edge
 
 Code context: Ventilation ratios for Gardena, CA attics should be checked against current mechanical exhaust additions.
 
-Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Los Angeles County county grid review.
+Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Los Angeles County storm and leak review.
 
 ZIP-corridor snapshot for Gardena, CA: sampled sectors include 90249, 90247; county routing grid remains Los Angeles County.
 

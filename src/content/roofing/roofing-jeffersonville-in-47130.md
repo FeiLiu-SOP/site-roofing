@@ -11,11 +11,14 @@ lng: -85.7000
 zipSample: ["47131", "47144", "47199", "47130", "47190"]
 zipCodes: ["47132", "47134", "47199", "47130", "47190", "47144", "47133", "47131"]
 localPaths: ["Clark County / ZIP 47199 sector", "Clark County / ZIP 47130 sector", "Clark County / primary ZIP 47130", "Clark County / ZIP 47190 sector", "Clark County / elevation 568 ft band"]
-zillowHomeValueUsd: 252857
 ---
 
-**Engineering Notice for Jeffersonville:** Structural loading calculated based on 568 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Jeffersonville:** Roof repair scope references 568 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Clark County.
 
+
+Certified roof restoration crews serving Jeffersonville, IN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Jeffersonville, IN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Clark County clarifies whether service or replacement fits the damage pattern.
 
 Material note: In Jeffersonville, IN, algae-resistant granules may be specified for north-facing slopes.
 
@@ -25,7 +28,7 @@ Risk flag: Tile underlayment age in Jeffersonville, IN can fail independently of
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -33,9 +36,7 @@ Skylight curb flashing in Jeffersonville, IN should be sequenced before ridge ca
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-roofing service brief: counter-flashing reglet depth and shingle exposure calibration were cross-checked for the Jeffersonville intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 47144/47131/47130.
+Roof remediation brief: counter-flashing reglet depth and shingle exposure calibration were cross-checked for the Jeffersonville shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 38.3400, -85.7000 at elevation ~568 ft aligns with Clark County intake staging.
 

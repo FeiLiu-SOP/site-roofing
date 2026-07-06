@@ -11,17 +11,20 @@ lng: -76.8100
 zipSample: ["17112", "17109", "17177"]
 zipCodes: ["17177", "17109", "17112"]
 localPaths: ["Dauphin County / ZIP 17177 sector", "Dauphin County / ZIP 17112 sector", "Dauphin County / ZIP 17109 sector", "Dauphin County / primary ZIP 17109", "Dauphin County / elevation 528 ft band"]
-zillowHomeValueUsd: 261216
 ---
 
-**Engineering Notice for Colonial Park:** Structural loading calculated based on 528 ft terrain assessment. Regional dispatch grid: Dauphin County.
+**Engineering Notice for Colonial Park:** Shingle, flashing, and ventilation review recorded at 528 ft AMSL context (Dauphin County).
 
+
+Licensed roof remediation crews serving Colonial Park, PA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Colonial Park, PA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Dauphin County clarifies whether restoration or replacement fits the damage pattern.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wind-zone note: Colonial Park, PA exposure class can change starter-strip and cap nail schedules.
 
@@ -33,7 +36,7 @@ TPO seam welds in Colonial Park, PA commercial sections need probe tests after f
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-roof service brief: drip-edge metal profile and ice-barrier lap sequence were cross-checked for the Colonial Park intake packet.
+Roof restoration brief: drip-edge metal profile and ice-barrier lap sequence were cross-checked for the Colonial Park shingle and leak scope.
 
 ZIP-corridor snapshot for Colonial Park, PA: sampled sectors include 17177, 17109, 17112; county routing grid remains Dauphin County.
 

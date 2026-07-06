@@ -11,11 +11,14 @@ lng: -85.5100
 zipSample: ["38502", "38506", "38503", "38501", "38505"]
 zipCodes: ["38501", "38505", "38502", "38503", "38506"]
 localPaths: ["Putnam County / ZIP 38505 sector", "Putnam County / primary ZIP 38503", "Putnam County / ZIP 38506 sector", "Putnam County / ZIP 38501 sector", "Putnam County / ZIP 38502 sector"]
-zillowHomeValueUsd: 300306
 ---
 
-**Engineering Notice for Cookeville:** Structural loading calculated based on 1079 ft terrain assessment. Regional dispatch grid: Putnam County.
+**Engineering Notice for Cookeville:** Storm and emergency leak triage uses 1079 ft elevation band with Putnam County service-area context for roofing repairs.
 
+
+Storm damage roof work in Cookeville, TN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Putnam County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof restoration in Cookeville, TN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Putnam County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: How long can shingles wait after storm damage? In Cookeville, TN, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -33,9 +36,9 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Material note: In Cookeville, TN, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Scope trace: pipe boot manufacturer match plus shingle exposure calibration referenced in Putnam County county grid review.
+Scope trace: pipe boot manufacturer match plus shingle exposure calibration referenced in Putnam County storm and leak review.
 
 Regional mesh label Putnam County: moisture and logistics baselines are keyed to Cookeville, TN before niche-specific work begins.
 

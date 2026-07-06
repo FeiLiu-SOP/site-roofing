@@ -11,11 +11,14 @@ lng: -119.2900
 zipSample: ["97838"]
 zipCodes: ["97838"]
 localPaths: ["Umatilla County / ZIP 97838 sector", "Umatilla County / coords 45.8300, -119.2900", "Umatilla County / elevation 486 ft band", "Umatilla County / primary ZIP 97838"]
-zillowHomeValueUsd: 340758
 ---
 
-**Engineering Notice for Hermiston:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Umatilla County.
+**Engineering Notice for Hermiston:** Storm and emergency leak triage uses 486 ft elevation band with Umatilla County service-area context for roofing repairs.
 
+
+Storm damage roof service in Hermiston, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Umatilla County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Hermiston, OR, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Code context: Ventilation ratios for Hermiston, OR attics should be checked against current mechanical exhaust additions.
 
@@ -23,7 +26,7 @@ Coastal humidity in Hermiston, OR can slow shingle seal-down after shoulder-seas
 
 Step: compare shingle manufacturer wind-zone ratings for Hermiston, OR exposure class.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -35,9 +38,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-roof service brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Hermiston intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 97838.
+Roof service brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Hermiston shingle and leak scope.
 
 On-site sector marker: Umatilla County / primary ZIP 97838 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -84.7400
 zipSample: ["45056"]
 zipCodes: ["45056"]
 localPaths: ["Butler County / elevation 919 ft band", "Butler County / primary ZIP 45056", "Butler County / ZIP 45056 sector", "Butler County / coords 39.5100, -84.7400"]
-zillowHomeValueUsd: 336014
 ---
 
-**Engineering Notice for Oxford:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Butler County.
+**Engineering Notice for Oxford:** Roof repair scope references 919 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Butler County.
 
+
+Storm damage roofing service in Oxford, OH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Butler County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof restoration in Oxford, OH often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Butler County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Valley metal in Oxford, OH should be reviewed whenever granule loss tracks the water line.
 
@@ -29,11 +32,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-Our Oxford, OH dispatch packets reference county grid Butler County and elevation band 919 ft.
+Our Oxford, OH service packets reference Butler County and elevation band 919 ft for shingle and leak scope.
 
-Scope trace: deck sheathing thickness plus starter-strip setback referenced in Butler County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 45056.
+Scope trace: deck sheathing thickness plus starter-strip setback referenced in Butler County storm and leak review.
 
 ZIP-corridor snapshot for Oxford, OH: sampled sectors include 45056; county routing grid remains Butler County.
 

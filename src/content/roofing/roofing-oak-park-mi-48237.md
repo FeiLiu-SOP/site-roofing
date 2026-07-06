@@ -11,11 +11,14 @@ lng: -83.1800
 zipSample: ["48237"]
 zipCodes: ["48237"]
 localPaths: ["Oakland County / ZIP 48237 sector", "Oakland County / primary ZIP 48237", "Oakland County / coords 42.4600, -83.1800", "Oakland County / elevation 673 ft band"]
-zillowHomeValueUsd: 233003
 ---
 
-**Engineering Notice for Oak Park:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Oak Park:** Roof repair scope references 673 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Oakland County.
 
+
+Qualified roof service crews serving Oak Park, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Oak Park, MI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 We coordinate Oak Park, MI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -35,9 +38,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Scope trace: chimney cricket slope plus skylight curb height referenced in Oakland County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 48237.
+Scope trace: chimney cricket slope plus skylight curb height referenced in Oakland County storm and leak review.
 
 Primary postal anchor 48237 with multi-ZIP overlap in Oak Park; field packets tag Oakland County for county-grid reconciliation.
 

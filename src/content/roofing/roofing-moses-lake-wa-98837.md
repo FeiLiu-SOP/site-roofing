@@ -11,11 +11,14 @@ lng: -119.2800
 zipSample: ["98837"]
 zipCodes: ["98837"]
 localPaths: ["Grant County / coords 47.1300, -119.2800", "Grant County / primary ZIP 98837", "Grant County / elevation 1050 ft band", "Grant County / ZIP 98837 sector"]
-zillowHomeValueUsd: 364631
 ---
 
-**Engineering Notice for Moses Lake:** Structural loading calculated based on 1050 ft terrain assessment. Regional dispatch grid: Grant County.
+**Engineering Notice for Moses Lake:** Shingle, flashing, and ventilation review recorded at 1050 ft AMSL context (Grant County).
 
+
+Roof service service in Moses Lake, WA, Grant County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Moses Lake, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Grant County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: Tile underlayment age in Moses Lake, WA can fail independently of visible tile cracks.
 
@@ -31,11 +34,9 @@ Regulatory note: Moses Lake, WA projects may trigger ice-barrier upgrades when t
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Field routing: ice-barrier lap sequence paired with skylight curb height near ZIP 98837.
-
-Field note: Attic moisture pathway scan referenced ZIP 98837.
+Local service note: ice-barrier lap sequence paired with skylight curb height near ZIP 98837 for emergency roof work repairs.
 
 On-site sector marker: Grant County / ZIP 98837 sector — logged for map parity and ZIP-corridor verification.
 

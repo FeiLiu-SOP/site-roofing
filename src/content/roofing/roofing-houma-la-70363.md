@@ -11,11 +11,14 @@ lng: -90.7100
 zipSample: ["70360", "70361", "70363"]
 zipCodes: ["70360", "70361", "70363"]
 localPaths: ["Terrebonne Parish / elevation 49 ft band", "Terrebonne Parish / primary ZIP 70363", "Terrebonne Parish / coords 29.5800, -90.7100", "Terrebonne Parish / ZIP 70361 sector", "Terrebonne Parish / ZIP 70363 sector"]
-zillowHomeValueUsd: 125687
 ---
 
-**Engineering Notice for Houma:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Terrebonne Parish.
+**Engineering Notice for Houma:** Storm and emergency leak triage uses 49 ft elevation band with Terrebonne Parish service-area context for roofing repairs.
 
+
+Storm damage roof work in Houma, LA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Terrebonne Parish clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Houma, LA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Code context: Ventilation ratios for Houma, LA attics should be checked against current mechanical exhaust additions.
 
@@ -30,8 +33,6 @@ Step: confirm drip-edge continuity before shingle courses restart.
 Risk flag: In Houma, LA, interior stains may track from HVAC condensate rather than roof cladding.
 
 We coordinate Houma, LA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
-
-Field routing: counter-flashing reglet depth paired with deck sheathing thickness near ZIP 70363.
 
 Primary postal anchor 70363 with multi-ZIP overlap in Houma; field packets tag Terrebonne Parish for county-grid reconciliation.
 

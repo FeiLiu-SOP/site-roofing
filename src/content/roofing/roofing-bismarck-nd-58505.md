@@ -11,17 +11,20 @@ lng: -100.7700
 zipSample: ["58505", "58503", "58504", "58501", "58507"]
 zipCodes: ["58501", "58507", "58504", "58503", "58505"]
 localPaths: ["Burleigh County / primary ZIP 58505", "Burleigh County / ZIP 58507 sector", "Burleigh County / ZIP 58501 sector", "Burleigh County / elevation 1752 ft band", "Burleigh County / ZIP 58505 sector"]
-zillowHomeValueUsd: 448769
 ---
 
-**Engineering Notice for Bismarck:** Structural loading calculated based on 1752 ft terrain assessment. Regional dispatch grid: Burleigh County.
+**Engineering Notice for Bismarck:** Storm and emergency leak triage uses 1752 ft elevation band with Burleigh County service-area context for roofing repairs.
 
+
+Storm damage roof work in Bismarck, ND may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Burleigh County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Bismarck, ND, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our Bismarck, ND dispatch packets reference county grid Burleigh County and elevation band 1752 ft.
+Our Bismarck, ND service packets reference Burleigh County and elevation band 1752 ft for shingle and leak scope.
 
 Metal panel oil-canning in Bismarck, ND may signal clip spacing issues, not wind damage alone.
 
@@ -31,7 +34,7 @@ Wind-zone note: Bismarck, ND exposure class can change starter-strip and cap nai
 
 Step: map ventilation intake and exhaust pairs for Bismarck, ND attic runs.
 
-Field routing: synthetic underlayment slip paired with pipe boot manufacturer match near ZIP 58505.
+Local service note: synthetic underlayment slip paired with pipe boot manufacturer match near ZIP 58505 for emergency roofing service repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 58507/58501/58505.
 

@@ -11,11 +11,14 @@ lng: -76.8600
 zipSample: ["21029", "20588", "21150", "21046", "21045"]
 zipCodes: ["21045", "21046", "21150", "21029", "21044", "20588"]
 localPaths: ["Howard County / primary ZIP 21044", "Howard County / ZIP 21150 sector", "Howard County / ZIP 21045 sector", "Howard County / ZIP 20588 sector", "Howard County / coords 39.2000, -76.8600"]
-zillowHomeValueUsd: 547343
 ---
 
-**Engineering Notice for Columbia:** Structural loading calculated based on 315 ft terrain assessment. Regional dispatch grid: Howard County.
+**Engineering Notice for Columbia:** Roof repair scope references 315 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Howard County.
 
+
+Emergency roof remediation in Columbia, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Howard County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof service crews serving Columbia, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: map ventilation intake and exhaust pairs for Columbia, MD attic runs.
 
@@ -35,7 +38,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Scope trace: pipe boot manufacturer match plus attic baffle spacing referenced in Howard County county grid review.
+Scope trace: pipe boot manufacturer match plus attic baffle spacing referenced in Howard County storm and leak review.
 
 Regional mesh label Howard County: moisture and logistics baselines are keyed to Columbia, MD before niche-specific work begins.
 

@@ -11,11 +11,14 @@ lng: -73.6800
 zipSample: ["11050"]
 zipCodes: ["11050"]
 localPaths: ["Nassau County / elevation 187 ft band", "Nassau County / coords 40.8300, -73.6800", "Nassau County / ZIP 11050 sector", "Nassau County / primary ZIP 11050"]
-zillowHomeValueUsd: 1301416
 ---
 
-**Engineering Notice for Port Washington:** Structural loading calculated based on 187 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Port Washington:** Roof repair scope references 187 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Nassau County.
 
+
+When wind or hail hits Port Washington, NY, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof service in Port Washington, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Nassau County clarifies whether remediation or replacement fits the damage pattern.
 
 Hail bruising on Port Washington, NY ridges may not breach felt until the next wind event.
 
@@ -32,8 +35,6 @@ Step: stage tear-off debris paths away from landscape drains.
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
 We coordinate Port Washington, NY roof reviews with photo logs, moisture notes, and realistic dry-in windows.
-
-roof work brief: pipe boot manufacturer match and wind uplift clip spacing were cross-checked for the Port Washington intake packet.
 
 Regional mesh label Nassau County: moisture and logistics baselines are keyed to Port Washington, NY before niche-specific work begins.
 

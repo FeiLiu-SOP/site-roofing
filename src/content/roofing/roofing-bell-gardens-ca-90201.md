@@ -11,11 +11,14 @@ lng: -118.1600
 zipSample: ["90201", "90205", "90202"]
 zipCodes: ["90205", "90202", "90201"]
 localPaths: ["Los Angeles County / ZIP 90202 sector", "Los Angeles County / coords 33.9700, -118.1600", "Los Angeles County / primary ZIP 90201", "Los Angeles County / elevation 118 ft band", "Los Angeles County / ZIP 90205 sector"]
-zillowHomeValueUsd: 687019
 ---
 
-**Engineering Notice for Bell Gardens:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Bell Gardens:** Storm and emergency leak triage uses 118 ft elevation band with Los Angeles County service-area context for roofing repairs.
 
+
+Certified roof remediation crews serving Bell Gardens, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work service in Bell Gardens, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -35,7 +38,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field routing: wind uplift clip spacing paired with ridge cap nail schedule near ZIP 90201.
+Local service note: wind uplift clip spacing paired with ridge cap nail schedule near ZIP 90201 for emergency roof service repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 90202/90201/90205.
 

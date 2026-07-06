@@ -11,11 +11,14 @@ lng: -81.4400
 zipSample: ["32860", "32810", "32703"]
 zipCodes: ["32703", "32810", "32860"]
 localPaths: ["Orange County / coords 28.6300, -81.4400", "Orange County / primary ZIP 32703", "Orange County / elevation 98 ft band", "Orange County / ZIP 32810 sector", "Orange County / ZIP 32703 sector"]
-zillowHomeValueUsd: 357330
 ---
 
-**Engineering Notice for Lockhart:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Lockhart:** Storm and emergency leak triage uses 98 ft elevation band with Orange County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Lockhart, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Lockhart, FL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -34,8 +37,6 @@ Wind-zone note: Lockhart, FL exposure class can change starter-strip and cap nai
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
-
-roofing service brief: starter-strip setback and counter-flashing reglet depth were cross-checked for the Lockhart intake packet.
 
 On-site sector marker: Orange County / primary ZIP 32703 — logged for map parity and ZIP-corridor verification.
 

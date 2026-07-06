@@ -11,11 +11,14 @@ lng: -83.7200
 zipSample: ["30655", "30656"]
 zipCodes: ["30655", "30656"]
 localPaths: ["Walton County / ZIP 30656 sector", "Walton County / primary ZIP 30656", "Walton County / ZIP 30655 sector", "Walton County / elevation 951 ft band", "Walton County / coords 33.8000, -83.7200"]
-zillowHomeValueUsd: 398088
 ---
 
-**Engineering Notice for Monroe:** Structural loading calculated based on 951 ft terrain assessment. Regional dispatch grid: Walton County.
+**Engineering Notice for Monroe:** Storm and emergency leak triage uses 951 ft elevation band with Walton County service-area context for roofing repairs.
 
+
+Emergency roof service in Monroe, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Walton County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Monroe, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Walton County clarifies whether restoration or replacement fits the damage pattern.
 
 Step: map ventilation intake and exhaust pairs for Monroe, GA attic runs.
 
@@ -32,8 +35,6 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 Valley metal in Monroe, GA should be reviewed whenever granule loss tracks the water line.
 
 Wind-zone note: Monroe, GA exposure class can change starter-strip and cap nail schedules.
-
-Field routing: deck sheathing thickness paired with drip-edge metal profile near ZIP 30656.
 
 On-site sector marker: Walton County / coords 33.8000, -83.7200 — logged for map parity and ZIP-corridor verification.
 

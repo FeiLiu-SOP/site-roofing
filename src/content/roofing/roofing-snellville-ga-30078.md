@@ -11,15 +11,18 @@ lng: -84.0000
 zipSample: ["30078"]
 zipCodes: ["30078"]
 localPaths: ["Gwinnett County / ZIP 30078 sector", "Gwinnett County / coords 33.8600, -84.0000", "Gwinnett County / elevation 1037 ft band", "Gwinnett County / primary ZIP 30078"]
-zillowHomeValueUsd: 371162
 ---
 
-**Engineering Notice for Snellville:** Structural loading calculated based on 1037 ft terrain assessment. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Snellville:** Roof repair scope references 1037 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Gwinnett County.
 
+
+Emergency roof service in Snellville, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Gwinnett County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Snellville, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Gwinnett County clarifies whether service or replacement fits the damage pattern.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Freeze-thaw cycles around Snellville, GA stress nail pops along eaves and rake edges.
 
@@ -33,9 +36,7 @@ Risk flag: Tile underlayment age in Snellville, GA can fail independently of vis
 
 Step: map ventilation intake and exhaust pairs for Snellville, GA attic runs.
 
-roof work brief: skylight curb height and pipe boot manufacturer match were cross-checked for the Snellville intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 30078.
+Roof restoration brief: skylight curb height and pipe boot manufacturer match were cross-checked for the Snellville shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 33.8600, -84.0000 at elevation ~1037 ft aligns with Gwinnett County intake staging.
 

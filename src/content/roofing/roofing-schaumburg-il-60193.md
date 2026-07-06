@@ -11,13 +11,16 @@ lng: -88.0800
 zipSample: ["60196", "60173", "60168", "60195", "60194"]
 zipCodes: ["60168", "60195", "60194", "60173", "60196", "60193"]
 localPaths: ["Cook County / ZIP 60195 sector", "Cook County / ZIP 60194 sector", "Cook County / ZIP 60168 sector", "Cook County / ZIP 60196 sector", "Cook County / ZIP 60173 sector"]
-zillowHomeValueUsd: 362722
 ---
 
-**Engineering Notice for Schaumburg:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Schaumburg:** Roof repair scope references 801 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Cook County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Certified roof restoration crews serving Schaumburg, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Schaumburg, IL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -34,8 +37,6 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
 Across Schaumburg, IL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
-
-roof work brief: counter-flashing reglet depth and pipe boot manufacturer match were cross-checked for the Schaumburg intake packet.
 
 On-site sector marker: Cook County / ZIP 60195 sector — logged for map parity and ZIP-corridor verification.
 

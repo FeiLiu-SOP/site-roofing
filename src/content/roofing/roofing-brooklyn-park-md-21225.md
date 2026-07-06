@@ -11,21 +11,24 @@ lng: -76.6200
 zipSample: ["21225"]
 zipCodes: ["21225"]
 localPaths: ["Anne Arundel County / primary ZIP 21225", "Anne Arundel County / ZIP 21225 sector", "Anne Arundel County / coords 39.2200, -76.6200", "Anne Arundel County / elevation 171 ft band"]
-zillowHomeValueUsd: 223573
 ---
 
-**Engineering Notice for Brooklyn Park:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Brooklyn Park:** Roof repair scope references 171 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Anne Arundel County.
 
+
+Emergency roof remediation in Brooklyn Park, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Anne Arundel County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof remediation crews serving Brooklyn Park, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 In Brooklyn Park, MD, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -35,9 +38,7 @@ Regulatory note: Brooklyn Park, MD projects may trigger ice-barrier upgrades whe
 
 Material note: In Brooklyn Park, MD, algae-resistant granules may be specified for north-facing slopes.
 
-Field routing: ridge cap nail schedule paired with deck sheathing thickness near ZIP 21225.
-
-Field note: Valley debris and granule loss noted for ZIP 21225.
+Local service note: ridge cap nail schedule paired with deck sheathing thickness near ZIP 21225 for emergency roof service repairs.
 
 On-site sector marker: Anne Arundel County / primary ZIP 21225 — logged for map parity and ZIP-corridor verification.
 

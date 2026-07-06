@@ -11,15 +11,18 @@ lng: -77.1600
 zipSample: ["20851", "20849", "20857", "20847", "20852"]
 zipCodes: ["20851", "20857", "20847", "20848", "20852", "20850", "20849"]
 localPaths: ["Montgomery County / ZIP 20852 sector", "Montgomery County / ZIP 20847 sector", "Montgomery County / ZIP 20851 sector", "Montgomery County / coords 39.0800, -77.1600", "Montgomery County / ZIP 20857 sector"]
-zillowHomeValueUsd: 697018
 ---
 
-**Engineering Notice for Rockville:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Rockville:** Roof repair scope references 463 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Montgomery County.
 
+
+Storm damage roof work in Rockville, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Montgomery County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Rockville, MD, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Tile underlayment age in Rockville, MD can fail independently of visible tile cracks.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -30,8 +33,6 @@ Code context: Ventilation ratios for Rockville, MD attics should be checked agai
 Metal panel oil-canning in Rockville, MD may signal clip spacing issues, not wind damage alone.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
-
-Scope trace: chimney cricket slope plus attic baffle spacing referenced in Montgomery County county grid review.
 
 Regional mesh label Montgomery County: moisture and logistics baselines are keyed to Rockville, MD before niche-specific work begins.
 

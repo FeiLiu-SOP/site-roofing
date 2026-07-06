@@ -11,11 +11,14 @@ lng: -84.4900
 zipSample: ["30115", "30114"]
 zipCodes: ["30115", "30114"]
 localPaths: ["Cherokee County / coords 34.2500, -84.4900", "Cherokee County / primary ZIP 30114", "Cherokee County / elevation 958 ft band", "Cherokee County / ZIP 30114 sector", "Cherokee County / ZIP 30115 sector"]
-zillowHomeValueUsd: 470389
 ---
 
-**Engineering Notice for Canton:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Cherokee County.
+**Engineering Notice for Canton:** Shingle, flashing, and ventilation review recorded at 958 ft AMSL context (Cherokee County).
 
+
+Emergency roof restoration in Canton, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cherokee County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service restoration in Canton, GA, Cherokee County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -31,9 +34,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Freeze-thaw cycles around Canton, GA stress nail pops along eaves and rake edges.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-Scope trace: ridge cap nail schedule plus counter-flashing reglet depth referenced in Cherokee County county grid review.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Primary postal anchor 30114 with multi-ZIP overlap in Canton; field packets tag Cherokee County for county-grid reconciliation.
 

@@ -11,13 +11,16 @@ lng: -72.9700
 zipSample: ["06516", "06504"]
 zipCodes: ["06504", "06516"]
 localPaths: ["South Central Connecticut County / elevation 66 ft band", "South Central Connecticut County / ZIP 06516 sector", "South Central Connecticut County / coords 41.2700, -72.9700", "South Central Connecticut County / primary ZIP 06516", "South Central Connecticut County / ZIP 06504 sector"]
-zillowHomeValueUsd: 354645
 ---
 
-**Engineering Notice for West Haven:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: South Central Connecticut County.
+**Engineering Notice for West Haven:** Roof repair scope references 66 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in South Central Connecticut County.
 
 
-FAQ: When should permanent service start? In West Haven, CT, delayed dry-in can expand insulation and ceiling repairs.
+When wind or hail hits West Haven, CT, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work remediation in West Haven, CT, South Central Connecticut County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+FAQ: When should permanent remediation start? In West Haven, CT, delayed dry-in can expand insulation and ceiling repairs.
 
 Risk flag: Tile underlayment age in West Haven, CT can fail independently of visible tile cracks.
 
@@ -31,11 +34,9 @@ Step: map ventilation intake and exhaust pairs for West Haven, CT attic runs.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 06516.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-roof work brief: chimney cricket slope and starter-strip setback were cross-checked for the West Haven intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 06504/06516.
+Roof restoration brief: chimney cricket slope and starter-strip setback were cross-checked for the West Haven shingle and leak scope.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~66 ft across the South Central Connecticut County area. Coordinates: 41.2700, -72.9700. ZIP sample: 06516, 06504. Regional routing note: South Central Connecticut County traffic flow is balanced around ZIP 06516 service demand.
 

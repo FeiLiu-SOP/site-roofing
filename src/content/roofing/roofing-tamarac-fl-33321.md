@@ -6,18 +6,21 @@ state: "FL"
 zipCode: "33321"
 county: "Broward County"
 elevationFt: 20
-lat: 26.2100
+lat: 26.2400
 lng: -80.2500
 zipSample: ["33321", "33359", "33319"]
 zipCodes: ["33319", "33359", "33321"]
-localPaths: ["Broward County / elevation 20 ft band", "Broward County / ZIP 33319 sector", "Broward County / coords 26.2100, -80.2500", "Broward County / ZIP 33359 sector", "Broward County / ZIP 33321 sector"]
-zillowHomeValueUsd: 296718
+localPaths: ["Broward County / elevation 20 ft band", "Broward County / ZIP 33319 sector", "Broward County / coords 26.2400, -80.2500", "Broward County / ZIP 33359 sector", "Broward County / ZIP 33321 sector"]
 ---
 
-**Engineering Notice for Tamarac:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for Tamarac:** Shingle, flashing, and ventilation review recorded at 20 ft AMSL context (Broward County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Roofing service service in Tamarac, FL, Broward County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Tamarac, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Broward County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -33,9 +36,7 @@ TPO seam welds in Tamarac, FL commercial sections need probe tests after freeze 
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field routing: deck sheathing thickness paired with counter-flashing reglet depth near ZIP 33321.
-
-On-site sector marker: Broward County / coords 26.2100, -80.2500 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Broward County / coords 26.2400, -80.2500 — logged for map parity and ZIP-corridor verification.
 
 On-site sector marker: Broward County / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 

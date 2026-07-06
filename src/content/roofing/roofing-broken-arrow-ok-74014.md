@@ -11,17 +11,20 @@ lng: -95.7800
 zipSample: ["74012", "74014", "74011", "74013"]
 zipCodes: ["74014", "74011", "74013", "74012"]
 localPaths: ["Tulsa County / elevation 728 ft band", "Tulsa County / ZIP 74012 sector", "Tulsa County / ZIP 74011 sector", "Tulsa County / ZIP 74014 sector", "Tulsa County / ZIP 74013 sector"]
-zillowHomeValueUsd: 300906
 ---
 
-**Engineering Notice for Broken Arrow:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Broken Arrow:** Roof repair scope references 728 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Tulsa County.
 
+
+Storm damage roof work in Broken Arrow, OK may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Tulsa County clarifies whether remediation or replacement fits the damage pattern.
+
+Certified roof remediation crews serving Broken Arrow, OK review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Note recent wind events when filing insurance photos for Broken Arrow, OK.
 
 FAQ: Is partial dry-in possible? In Broken Arrow, OK, yes—if slope and anchor points support safe tie-offs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: In Broken Arrow, OK, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,7 +34,7 @@ Regulatory note: Broken Arrow, OK projects may trigger ice-barrier upgrades when
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 74014.
+Local service note: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 74014 for emergency roofing service repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 74014/74012/74013.
 

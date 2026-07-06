@@ -11,17 +11,20 @@ lng: -71.5500
 zipSample: ["01752"]
 zipCodes: ["01752"]
 localPaths: ["Middlesex County / primary ZIP 01752", "Middlesex County / ZIP 01752 sector", "Middlesex County / elevation 440 ft band", "Middlesex County / coords 42.3500, -71.5500"]
-zillowHomeValueUsd: 579223
 ---
 
-**Engineering Notice for Marlborough:** Structural loading calculated based on 440 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Marlborough:** Roof repair scope references 440 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Middlesex County.
 
+
+Storm damage roofing service in Marlborough, MA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Middlesex County clarifies whether remediation or replacement fits the damage pattern.
+
+Roofing service remediation in Marlborough, MA, Middlesex County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Freeze-thaw cycles around Marlborough, MA stress nail pops along eaves and rake edges.
 
 Regulatory note: Marlborough, MA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Note recent wind events when filing insurance photos for Marlborough, MA.
 
@@ -31,9 +34,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Step: log deck soundings near vents before tear-off is approved.
 
-Scope trace: skylight curb height plus synthetic underlayment slip referenced in Middlesex County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 01752.
+Scope trace: skylight curb height plus synthetic underlayment slip referenced in Middlesex County storm and leak review.
 
 On-site sector marker: Middlesex County / coords 42.3500, -71.5500 — logged for map parity and ZIP-corridor verification.
 

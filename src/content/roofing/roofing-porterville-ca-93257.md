@@ -11,15 +11,18 @@ lng: -119.0300
 zipSample: ["93257"]
 zipCodes: ["93257"]
 localPaths: ["Tulare County / coords 36.0600, -119.0300", "Tulare County / ZIP 93257 sector", "Tulare County / elevation 449 ft band", "Tulare County / primary ZIP 93257"]
-zillowHomeValueUsd: 326638
 ---
 
-**Engineering Notice for Porterville:** Structural loading calculated based on 449 ft terrain assessment. Regional dispatch grid: Tulare County.
+**Engineering Notice for Porterville:** Shingle, flashing, and ventilation review recorded at 449 ft AMSL context (Tulare County).
 
+
+Storm damage roof service in Porterville, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Tulare County clarifies whether remediation or replacement fits the damage pattern.
+
+Certified roof remediation crews serving Porterville, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Attic ventilation deficits in Porterville, CA can mimic roof leaks at ceiling penetrations.
 
-Our Porterville, CA dispatch packets reference county grid Tulare County and elevation band 449 ft.
+Our Porterville, CA restoration packets reference Tulare County and elevation band 449 ft for shingle and leak scope.
 
 FAQ: Is partial dry-in possible? In Porterville, CA, yes—if slope and anchor points support safe tie-offs.
 
@@ -35,7 +38,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Tulare County county grid review.
+Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Tulare County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 93257.
 

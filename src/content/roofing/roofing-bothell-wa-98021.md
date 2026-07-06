@@ -11,11 +11,14 @@ lng: -122.2000
 zipSample: ["98041", "98021", "98011"]
 zipCodes: ["98041", "98011", "98021"]
 localPaths: ["King County / ZIP 98021 sector", "King County / ZIP 98011 sector", "King County / coords 47.7700, -122.2000", "King County / ZIP 98041 sector", "King County / elevation 302 ft band"]
-zillowHomeValueUsd: 1146127
 ---
 
-**Engineering Notice for Bothell:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Bothell:** Roof repair scope references 302 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in King County.
 
+
+When wind or hail hits Bothell, WA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof work in Bothell, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in King County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -33,9 +36,9 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roofing service brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Bothell intake packet.
+Roof remediation brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Bothell shingle and leak scope.
 
 On-site sector marker: King County / primary ZIP 98021 — logged for map parity and ZIP-corridor verification.
 

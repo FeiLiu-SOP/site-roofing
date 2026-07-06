@@ -11,15 +11,18 @@ lng: -118.2400
 zipSample: ["90001", "90002"]
 zipCodes: ["90002", "90001"]
 localPaths: ["Los Angeles County / elevation 151 ft band", "Los Angeles County / ZIP 90001 sector", "Los Angeles County / ZIP 90002 sector", "Los Angeles County / coords 33.9700, -118.2400", "Los Angeles County / primary ZIP 90001"]
-zillowHomeValueUsd: 588283
 ---
 
-**Engineering Notice for Florence-Graham:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Florence-Graham:** Storm and emergency leak triage uses 151 ft elevation band with Los Angeles County service-area context for roofing repairs.
 
+
+Emergency roof service in Florence-Graham, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Los Angeles County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits Florence-Graham, CA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Can you tarp only part of the roof? In Florence-Graham, CA, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Valley metal in Florence-Graham, CA should be reviewed whenever granule loss tracks the water line.
 
@@ -27,11 +30,9 @@ Tip: Note recent wind events when filing insurance photos for Florence-Graham, C
 
 Wind-zone note: Florence-Graham, CA exposure class can change starter-strip and cap nail schedules.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Los Angeles County county grid review.
 
 ZIP-corridor snapshot for Florence-Graham, CA: sampled sectors include 90002, 90001; county routing grid remains Los Angeles County.
 

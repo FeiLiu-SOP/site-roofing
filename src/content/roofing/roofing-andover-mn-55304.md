@@ -11,11 +11,14 @@ lng: -93.3300
 zipSample: ["55304"]
 zipCodes: ["55304"]
 localPaths: ["Anoka County / elevation 876 ft band", "Anoka County / ZIP 55304 sector", "Anoka County / coords 45.2600, -93.3300", "Anoka County / primary ZIP 55304"]
-zillowHomeValueUsd: 451288
 ---
 
-**Engineering Notice for Andover:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Anoka County.
+**Engineering Notice for Andover:** Shingle, flashing, and ventilation review recorded at 876 ft AMSL context (Anoka County).
 
+
+Certified roof remediation crews serving Andover, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service restoration in Andover, MN, Anoka County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -27,13 +30,13 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Step: stage tear-off debris paths away from landscape drains.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Wind-zone note: Andover, MN exposure class can change starter-strip and cap nail schedules.
 
-Field routing: skylight curb height paired with synthetic underlayment slip near ZIP 55304.
+Local service note: skylight curb height paired with synthetic underlayment slip near ZIP 55304 for emergency roof service repairs.
 
 Coordinate-anchored dispatch note: center reference 45.2600, -93.3300 at elevation ~876 ft aligns with Anoka County intake staging.
 

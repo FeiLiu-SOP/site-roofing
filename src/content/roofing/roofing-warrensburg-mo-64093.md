@@ -11,11 +11,14 @@ lng: -93.7300
 zipSample: ["64093"]
 zipCodes: ["64093"]
 localPaths: ["Johnson County / elevation 837 ft band", "Johnson County / coords 38.7600, -93.7300", "Johnson County / primary ZIP 64093", "Johnson County / ZIP 64093 sector"]
-zillowHomeValueUsd: 266531
 ---
 
-**Engineering Notice for Warrensburg:** Structural loading calculated based on 837 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Warrensburg:** Shingle, flashing, and ventilation review recorded at 837 ft AMSL context (Johnson County).
 
+
+Licensed roof service crews serving Warrensburg, MO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Warrensburg, MO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Johnson County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -29,11 +32,9 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-Scope trace: counter-flashing reglet depth plus ice-barrier lap sequence referenced in Johnson County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 64093.
+Scope trace: counter-flashing reglet depth plus ice-barrier lap sequence referenced in Johnson County storm and leak review.
 
 On-site sector marker: Johnson County / ZIP 64093 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,15 +11,18 @@ lng: -80.1700
 zipSample: ["33280", "33160", "33162"]
 zipCodes: ["33162", "33280", "33160"]
 localPaths: ["Miami-Dade County / ZIP 33280 sector", "Miami-Dade County / ZIP 33162 sector", "Miami-Dade County / ZIP 33160 sector", "Miami-Dade County / coords 25.9300, -80.1700", "Miami-Dade County / elevation 36 ft band"]
-zillowHomeValueUsd: 463907
 ---
 
-**Engineering Notice for North Miami Beach:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for North Miami Beach:** Roof repair scope references 36 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Miami-Dade County.
 
+
+Storm damage roof service in North Miami Beach, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Miami-Dade County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof work service in North Miami Beach, FL, Miami-Dade County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: In North Miami Beach, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -33,9 +36,7 @@ FAQ: How long can shingles wait after storm damage? In North Miami Beach, FL, de
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Scope trace: valley metal gauge plus synthetic underlayment slip referenced in Miami-Dade County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 33160/33162/33280.
+Scope trace: valley metal gauge plus synthetic underlayment slip referenced in Miami-Dade County storm and leak review.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Miami-Dade County and primary ZIP 33162. Terrain reference: 36 ft. Center point: 25.9300, -80.1700. ZIP sample: 33160, 33280, 33162. Regional routing note: Miami-Dade County traffic flow is balanced around ZIP 33162 service demand.
 

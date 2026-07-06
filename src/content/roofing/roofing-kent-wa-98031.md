@@ -11,15 +11,18 @@ lng: -122.2100
 zipSample: ["98064", "98042", "98031", "98032", "98035"]
 zipCodes: ["98030", "98035", "98042", "98032", "98064", "98031", "98089"]
 localPaths: ["King County / primary ZIP 98031", "King County / ZIP 98042 sector", "King County / coords 47.3900, -122.2100", "King County / ZIP 98031 sector", "King County / ZIP 98064 sector"]
-zillowHomeValueUsd: 679967
 ---
 
-**Engineering Notice for Kent:** Structural loading calculated based on 400 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Kent:** Storm and emergency leak triage uses 400 ft elevation band with King County service-area context for roofing repairs.
 
+
+Roof work restoration in Kent, WA, King County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Kent, WA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Wind-zone note: Kent, WA exposure class can change starter-strip and cap nail schedules.
 
-Our Kent, WA dispatch packets reference county grid King County and elevation band 400 ft.
+Our Kent, WA remediation packets reference King County and elevation band 400 ft for shingle and leak scope.
 
 Across Kent, WA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -31,7 +34,7 @@ Risk flag: In Kent, WA, interior stains may track from HVAC condensate rather th
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field routing: starter-strip setback paired with drip-edge metal profile near ZIP 98031.
+Local service note: starter-strip setback paired with drip-edge metal profile near ZIP 98031 for emergency roof work repairs.
 
 On-site sector marker: King County / ZIP 98032 sector — logged for map parity and ZIP-corridor verification.
 

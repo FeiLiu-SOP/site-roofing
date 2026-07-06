@@ -11,12 +11,14 @@ lng: -158.0600
 zipSample: ["96786", "96857"]
 zipCodes: ["96786", "96857"]
 localPaths: ["Honolulu County / primary ZIP 96857", "Honolulu County / ZIP 96857 sector", "Honolulu County / ZIP 96786 sector", "Honolulu County / elevation 919 ft band", "Honolulu County / coords 21.4900, -158.0600"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 913399
 ---
 
-**Engineering Notice for Schofield Barracks:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Schofield Barracks:** Roof repair scope references 919 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Honolulu County.
 
+
+When wind or hail hits Schofield Barracks, HI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof service in Schofield Barracks, HI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Honolulu County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Wind-zone note: Schofield Barracks, HI exposure class can change starter-strip and cap nail schedules.
 
@@ -30,11 +32,9 @@ Material note: In Schofield Barracks, HI, algae-resistant granules may be specif
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
-
-roof work brief: ice-barrier lap sequence and attic baffle spacing were cross-checked for the Schofield Barracks intake packet.
 
 On-site sector marker: Honolulu County / primary ZIP 96857 — logged for map parity and ZIP-corridor verification.
 

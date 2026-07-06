@@ -11,11 +11,14 @@ lng: -81.7900
 zipSample: ["33931", "34134", "34135"]
 zipCodes: ["34135", "34134", "33931"]
 localPaths: ["Lee County / primary ZIP 33931", "Lee County / coords 26.3600, -81.7900", "Lee County / ZIP 34135 sector", "Lee County / ZIP 33931 sector", "Lee County / ZIP 34134 sector"]
-zillowHomeValueUsd: 495263
 ---
 
-**Engineering Notice for Bonita Springs:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Bonita Springs:** Roof repair scope references 36 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Lee County.
 
+
+Roof work service in Bonita Springs, FL, Lee County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Bonita Springs, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lee County clarifies whether restoration or replacement fits the damage pattern.
 
 Coastal humidity in Bonita Springs, FL can slow shingle seal-down after shoulder-season storms.
 
@@ -29,9 +32,7 @@ Risk flag: Tile underlayment age in Bonita Springs, FL can fail independently of
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-Scope trace: starter-strip setback plus drip-edge metal profile referenced in Lee County county grid review.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 On-site sector marker: Lee County / primary ZIP 33931 — logged for map parity and ZIP-corridor verification.
 

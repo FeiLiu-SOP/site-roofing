@@ -11,11 +11,14 @@ lng: -93.3900
 zipSample: ["55428", "55427"]
 zipCodes: ["55427", "55428"]
 localPaths: ["Hennepin County / elevation 922 ft band", "Hennepin County / ZIP 55428 sector", "Hennepin County / ZIP 55427 sector", "Hennepin County / coords 45.0400, -93.3900", "Hennepin County / primary ZIP 55427"]
-zillowHomeValueUsd: 367338
 ---
 
-**Engineering Notice for New Hope:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for New Hope:** Roof repair scope references 922 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Hennepin County.
 
+
+Emergency roof restoration in New Hope, MN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Hennepin County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in New Hope, MN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hennepin County clarifies whether service or replacement fits the damage pattern.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -31,13 +34,11 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Skylight curb flashing in New Hope, MN should be sequenced before ridge cap replacement.
 
-Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Hennepin County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 55427/55428.
+Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Hennepin County storm and leak review.
 
 Primary postal anchor 55427 with multi-ZIP overlap in New Hope; field packets tag Hennepin County for county-grid reconciliation.
 

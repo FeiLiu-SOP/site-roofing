@@ -11,11 +11,14 @@ lng: -90.3700
 zipSample: ["63114", "63132"]
 zipCodes: ["63114", "63132"]
 localPaths: ["St. Louis County / elevation 663 ft band", "St. Louis County / coords 38.7000, -90.3700", "St. Louis County / ZIP 63132 sector", "St. Louis County / ZIP 63114 sector", "St. Louis County / primary ZIP 63114"]
-zillowHomeValueUsd: 139421
 ---
 
-**Engineering Notice for Overland:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Overland:** Roof repair scope references 663 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in St. Louis County.
 
+
+Qualified roof service crews serving Overland, MO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service restoration in Overland, MO, St. Louis County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -27,11 +30,9 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Coastal humidity in Overland, MO can slow shingle seal-down after shoulder-season storms.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for Overland, MO attics should be checked against current mechanical exhaust additions.
-
-Scope trace: soffit intake free area plus wind uplift clip spacing referenced in St. Louis County county grid review.
 
 On-site sector marker: St. Louis County / coords 38.7000, -90.3700 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -83.6500
 zipSample: ["48178"]
 zipCodes: ["48178"]
 localPaths: ["Oakland County / ZIP 48178 sector", "Oakland County / coords 42.4600, -83.6500", "Oakland County / primary ZIP 48178", "Oakland County / elevation 922 ft band"]
-zillowHomeValueUsd: 465792
 ---
 
-**Engineering Notice for South Lyon:** Structural loading calculated based on 922 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for South Lyon:** Storm and emergency leak triage uses 922 ft elevation band with Oakland County service-area context for roofing repairs.
 
+
+Roof service restoration in South Lyon, MI, Oakland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits South Lyon, MI, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: In South Lyon, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -25,17 +28,15 @@ TPO seam welds in South Lyon, MI commercial sections need probe tests after free
 
 Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: When should permanent restoration start? In South Lyon, MI, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In South Lyon, MI, delayed dry-in can expand insulation and ceiling repairs.
 
 Wind-zone note: South Lyon, MI exposure class can change starter-strip and cap nail schedules.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: Tile underlayment age in South Lyon, MI can fail independently of visible tile cracks.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
-
-Field routing: chimney cricket slope paired with skylight curb height near ZIP 48178.
 
 On-site sector marker: Oakland County / ZIP 48178 sector — logged for map parity and ZIP-corridor verification.
 

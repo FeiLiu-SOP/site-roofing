@@ -11,11 +11,14 @@ lng: -83.2400
 zipSample: ["48326", "48321"]
 zipCodes: ["48321", "48326"]
 localPaths: ["Oakland County / ZIP 48326 sector", "Oakland County / primary ZIP 48326", "Oakland County / elevation 965 ft band", "Oakland County / ZIP 48321 sector", "Oakland County / coords 42.6700, -83.2400"]
-zillowHomeValueUsd: 280681
 ---
 
-**Engineering Notice for Auburn Hills:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Auburn Hills:** Storm and emergency leak triage uses 965 ft elevation band with Oakland County service-area context for roofing repairs.
 
+
+When wind or hail hits Auburn Hills, MI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof remediation in Auburn Hills, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Oakland County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -23,7 +26,7 @@ Risk flag: In Auburn Hills, MI, interior stains may track from HVAC condensate r
 
 FAQ: Is partial dry-in possible? In Auburn Hills, MI, yes—if slope and anchor points support safe tie-offs.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Hail bruising on Auburn Hills, MI ridges may not breach felt until the next wind event.
 
@@ -31,11 +34,9 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Material note: In Auburn Hills, MI, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Field routing: ridge cap nail schedule paired with ice-barrier lap sequence near ZIP 48326.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 48321/48326.
+Local service note: ridge cap nail schedule paired with ice-barrier lap sequence near ZIP 48326 for emergency roof work repairs.
 
 On-site sector marker: Oakland County / ZIP 48321 sector — logged for map parity and ZIP-corridor verification.
 

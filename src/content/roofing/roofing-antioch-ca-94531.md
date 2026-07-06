@@ -11,15 +11,18 @@ lng: -121.8000
 zipSample: ["94531", "94509"]
 zipCodes: ["94509", "94531"]
 localPaths: ["Contra Costa County / primary ZIP 94531", "Contra Costa County / elevation 213 ft band", "Contra Costa County / ZIP 94531 sector", "Contra Costa County / coords 37.9800, -121.8000", "Contra Costa County / ZIP 94509 sector"]
-zillowHomeValueUsd: 669712
 ---
 
-**Engineering Notice for Antioch:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Antioch:** Roof repair scope references 213 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Contra Costa County.
 
+
+When wind or hail hits Antioch, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Antioch, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Contra Costa County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -33,7 +36,7 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Hail bruising on Antioch, CA ridges may not breach felt until the next wind event.
 
-Scope trace: drip-edge metal profile plus starter-strip setback referenced in Contra Costa County county grid review.
+Scope trace: drip-edge metal profile plus starter-strip setback referenced in Contra Costa County storm and leak review.
 
 On-site sector marker: Contra Costa County / ZIP 94509 sector — logged for map parity and ZIP-corridor verification.
 

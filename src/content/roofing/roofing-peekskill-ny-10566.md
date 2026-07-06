@@ -11,11 +11,14 @@ lng: -73.9200
 zipSample: ["10566"]
 zipCodes: ["10566"]
 localPaths: ["Westchester County / coords 41.2900, -73.9200", "Westchester County / elevation 203 ft band", "Westchester County / ZIP 10566 sector", "Westchester County / primary ZIP 10566"]
-zillowHomeValueUsd: 500794
 ---
 
-**Engineering Notice for Peekskill:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Westchester County.
+**Engineering Notice for Peekskill:** Storm and emergency leak triage uses 203 ft elevation band with Westchester County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Peekskill, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Westchester County clarifies whether service or replacement fits the damage pattern.
+
+Roof work restoration in Peekskill, NY, Westchester County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Hail bruising on Peekskill, NY ridges may not breach felt until the next wind event.
 
@@ -23,7 +26,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Risk flag: In Peekskill, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -35,7 +38,7 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Code context: Ventilation ratios for Peekskill, NY attics should be checked against current mechanical exhaust additions.
 
-Field routing: starter-strip setback paired with synthetic underlayment slip near ZIP 10566.
+Local service note: starter-strip setback paired with synthetic underlayment slip near ZIP 10566 for emergency roof work repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 10566.
 

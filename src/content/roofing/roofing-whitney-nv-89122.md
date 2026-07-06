@@ -11,13 +11,16 @@ lng: -115.0400
 zipSample: ["89122"]
 zipCodes: ["89122"]
 localPaths: ["Clark County / coords 36.1000, -115.0400", "Clark County / elevation 1667 ft band", "Clark County / ZIP 89122 sector", "Clark County / primary ZIP 89122"]
-zillowHomeValueUsd: 356259
 ---
 
-**Engineering Notice for Whitney:** Structural loading calculated based on 1667 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Whitney:** Roof repair scope references 1667 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Clark County.
 
 
-FAQ: When should permanent service start? In Whitney, NV, delayed dry-in can expand insulation and ceiling repairs.
+When wind or hail hits Whitney, NV, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof remediation in Whitney, NV often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Clark County should photograph ceiling stains and attic wet spots before crews arrive.
+
+FAQ: When should permanent remediation start? In Whitney, NV, delayed dry-in can expand insulation and ceiling repairs.
 
 Across Whitney, NV, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -33,9 +36,9 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Material note: In Whitney, NV, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-Field routing: shingle exposure calibration paired with drip-edge metal profile near ZIP 89122.
+Local service note: shingle exposure calibration paired with drip-edge metal profile near ZIP 89122 for emergency roof work repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 89122.
 

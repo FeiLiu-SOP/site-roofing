@@ -11,13 +11,16 @@ lng: -118.1700
 zipSample: ["90022", "90023", "90063"]
 zipCodes: ["90023", "90063", "90022"]
 localPaths: ["Los Angeles County / ZIP 90063 sector", "Los Angeles County / ZIP 90023 sector", "Los Angeles County / coords 34.0300, -118.1700", "Los Angeles County / ZIP 90022 sector", "Los Angeles County / primary ZIP 90063"]
-zillowHomeValueUsd: 669425
 ---
 
-**Engineering Notice for East Los Angeles:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for East Los Angeles:** Roof repair scope references 292 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Storm damage roof work in East Los Angeles, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof remediation in East Los Angeles, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Los Angeles County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -31,7 +34,7 @@ Attic ventilation deficits in East Los Angeles, CA can mimic roof leaks at ceili
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-roof work brief: drip-edge metal profile and deck sheathing thickness were cross-checked for the East Los Angeles intake packet.
+Roof remediation brief: drip-edge metal profile and deck sheathing thickness were cross-checked for the East Los Angeles shingle and leak scope.
 
 On-site sector marker: Los Angeles County / ZIP 90022 sector — logged for map parity and ZIP-corridor verification.
 

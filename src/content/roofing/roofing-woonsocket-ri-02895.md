@@ -11,11 +11,14 @@ lng: -71.5000
 zipSample: ["02895"]
 zipCodes: ["02895"]
 localPaths: ["Providence County / primary ZIP 02895", "Providence County / elevation 144 ft band", "Providence County / ZIP 02895 sector", "Providence County / coords 42.0000, -71.5000"]
-zillowHomeValueUsd: 381067
 ---
 
-**Engineering Notice for Woonsocket:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Providence County.
+**Engineering Notice for Woonsocket:** Shingle, flashing, and ventilation review recorded at 144 ft AMSL context (Providence County).
 
+
+Certified roof remediation crews serving Woonsocket, RI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Woonsocket, RI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Providence County clarifies whether remediation or replacement fits the damage pattern.
 
 Skylight curb flashing in Woonsocket, RI should be sequenced before ridge cap replacement.
 
@@ -23,17 +26,15 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Risk flag: Tile underlayment age in Woonsocket, RI can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Regulatory note: Woonsocket, RI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Scope trace: shingle exposure calibration plus attic baffle spacing referenced in Providence County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 02895.
+Scope trace: shingle exposure calibration plus attic baffle spacing referenced in Providence County storm and leak review.
 
 On-site sector marker: Providence County / primary ZIP 02895 — logged for map parity and ZIP-corridor verification.
 

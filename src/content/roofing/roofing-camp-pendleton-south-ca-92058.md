@@ -11,11 +11,14 @@ lng: -117.3900
 zipSample: ["92058"]
 zipCodes: ["92058"]
 localPaths: ["San Diego County / ZIP 92058 sector", "San Diego County / coords 33.2300, -117.3900", "San Diego County / elevation 33 ft band", "San Diego County / primary ZIP 92058"]
-zillowHomeValueUsd: 780453
 ---
 
-**Engineering Notice for Camp Pendleton South:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Camp Pendleton South:** Roof repair scope references 33 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Diego County.
 
+
+Roofing service service in Camp Pendleton South, CA, San Diego County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof remediation crews serving Camp Pendleton South, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wind-zone note: Camp Pendleton South, CA exposure class can change starter-strip and cap nail schedules.
 
@@ -23,7 +26,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -35,9 +38,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-roofing service brief: pipe boot manufacturer match and drip-edge metal profile were cross-checked for the Camp Pendleton South intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 92058.
+Roof service brief: pipe boot manufacturer match and drip-edge metal profile were cross-checked for the Camp Pendleton South shingle and leak scope.
 
 ZIP-corridor snapshot for Camp Pendleton South, CA: sampled sectors include 92058; county routing grid remains San Diego County.
 

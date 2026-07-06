@@ -11,11 +11,14 @@ lng: -120.4400
 zipSample: ["93458", "93455", "93454"]
 zipCodes: ["93455", "93458", "93454"]
 localPaths: ["Santa Barbara County / ZIP 93458 sector", "Santa Barbara County / ZIP 93454 sector", "Santa Barbara County / elevation 213 ft band", "Santa Barbara County / coords 34.9300, -120.4400", "Santa Barbara County / primary ZIP 93454"]
-zillowHomeValueUsd: 626995
 ---
 
-**Engineering Notice for Santa Maria:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Santa Maria:** Roof repair scope references 213 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Santa Barbara County.
 
+
+Storm damage roof work in Santa Maria, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Santa Barbara County clarifies whether remediation or replacement fits the damage pattern.
+
+Certified roof remediation crews serving Santa Maria, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -31,9 +34,7 @@ FAQ: Can you tarp only part of the roof? In Santa Maria, CA, yes—if slope and 
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-roof work brief: starter-strip setback and shingle exposure calibration were cross-checked for the Santa Maria intake packet.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Santa Barbara County and primary ZIP 93454. Terrain reference: 213 ft. Center point: 34.9300, -120.4400. ZIP sample: 93458, 93455, 93454. Logistics priority: Serving residential sectors across Santa Barbara County and north-east ZIP 93454 grid.
 

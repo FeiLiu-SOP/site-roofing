@@ -11,15 +11,18 @@ lng: -93.7800
 zipSample: ["50323", "50334", "50322"]
 zipCodes: ["50334", "50323", "50322"]
 localPaths: ["Polk County / ZIP 50322 sector", "Polk County / ZIP 50334 sector", "Polk County / primary ZIP 50323", "Polk County / coords 41.6400, -93.7800", "Polk County / ZIP 50323 sector"]
-zillowHomeValueUsd: 452186
 ---
 
-**Engineering Notice for Urbandale:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Urbandale:** Shingle, flashing, and ventilation review recorded at 971 ft AMSL context (Polk County).
 
+
+When wind or hail hits Urbandale, IA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work remediation in Urbandale, IA, Polk County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: map ventilation intake and exhaust pairs for Urbandale, IA attic runs.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Can you tarp only part of the roof? In Urbandale, IA, yes—if slope and anchor points support safe tie-offs.
 
@@ -33,7 +36,7 @@ Code context: Ventilation ratios for Urbandale, IA attics should be checked agai
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-roof work brief: ridge cap nail schedule and soffit intake free area were cross-checked for the Urbandale intake packet.
+Roof service brief: ridge cap nail schedule and soffit intake free area were cross-checked for the Urbandale shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 41.6400, -93.7800 at elevation ~971 ft aligns with Polk County intake staging.
 

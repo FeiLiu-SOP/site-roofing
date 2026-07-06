@@ -11,11 +11,14 @@ lng: -115.5600
 zipSample: ["92244", "92243"]
 zipCodes: ["92243", "92244"]
 localPaths: ["Imperial County / coords 32.7900, -115.5600", "Imperial County / ZIP 92244 sector", "Imperial County / primary ZIP 92243", "Imperial County / elevation -44 ft band", "Imperial County / ZIP 92243 sector"]
-zillowHomeValueUsd: 385311
 ---
 
-**Engineering Notice for El Centro:** Structural loading calculated based on -44 ft terrain assessment. Regional dispatch grid: Imperial County.
+**Engineering Notice for El Centro:** Storm and emergency leak triage uses -44 ft elevation band with Imperial County service-area context for roofing repairs.
 
+
+Emergency roof service in El Centro, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Imperial County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service service in El Centro, CA, Imperial County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Parapet coping movement in El Centro, CA can channel water behind wall cladding.
 
@@ -27,11 +30,9 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Risk flag: Tile underlayment age in El Centro, CA can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
-
-roof service brief: skylight curb height and valley metal gauge were cross-checked for the El Centro intake packet.
 
 On-site sector marker: Imperial County / primary ZIP 92243 — logged for map parity and ZIP-corridor verification.
 

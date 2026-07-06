@@ -11,13 +11,16 @@ lng: -74.2900
 zipSample: ["07728"]
 zipCodes: ["07728"]
 localPaths: ["Monmouth County / ZIP 07728 sector", "Monmouth County / elevation 154 ft band", "Monmouth County / primary ZIP 07728", "Monmouth County / coords 40.2300, -74.2900"]
-zillowHomeValueUsd: 635727
 ---
 
-**Engineering Notice for West Freehold:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Monmouth County.
+**Engineering Notice for West Freehold:** Shingle, flashing, and ventilation review recorded at 154 ft AMSL context (Monmouth County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Certified roof service crews serving West Freehold, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in West Freehold, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Monmouth County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wind-zone note: West Freehold, NJ exposure class can change starter-strip and cap nail schedules.
 
@@ -31,9 +34,7 @@ Tip: Note recent wind events when filing insurance photos for West Freehold, NJ.
 
 Risk flag: In West Freehold, NJ, interior stains may track from HVAC condensate rather than roof cladding.
 
-roof work brief: ridge cap nail schedule and shingle exposure calibration were cross-checked for the West Freehold intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 07728.
+Roof restoration brief: ridge cap nail schedule and shingle exposure calibration were cross-checked for the West Freehold shingle and leak scope.
 
 On-site sector marker: Monmouth County / coords 40.2300, -74.2900 — logged for map parity and ZIP-corridor verification.
 

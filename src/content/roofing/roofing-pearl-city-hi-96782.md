@@ -11,11 +11,14 @@ lng: -157.9600
 zipSample: ["96782", "96701"]
 zipCodes: ["96782", "96701"]
 localPaths: ["Honolulu County / primary ZIP 96782", "Honolulu County / coords 21.4000, -157.9600", "Honolulu County / elevation 230 ft band", "Honolulu County / ZIP 96701 sector", "Honolulu County / ZIP 96782 sector"]
-zillowHomeValueUsd: 945886
 ---
 
-**Engineering Notice for Pearl City:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Pearl City:** Roof repair scope references 230 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Honolulu County.
 
+
+When wind or hail hits Pearl City, HI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work restoration in Pearl City, HI, Honolulu County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Hail bruising on Pearl City, HI ridges may not breach felt until the next wind event.
 
@@ -31,11 +34,11 @@ FAQ: Is partial dry-in possible? In Pearl City, HI, yes—if slope and anchor po
 
 Material note: In Pearl City, HI, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: stage tear-off debris paths away from landscape drains.
 
-roof work brief: ridge cap nail schedule and attic baffle spacing were cross-checked for the Pearl City intake packet.
+Roof restoration brief: ridge cap nail schedule and attic baffle spacing were cross-checked for the Pearl City shingle and leak scope.
 
 On-site sector marker: Honolulu County / coords 21.4000, -157.9600 — logged for map parity and ZIP-corridor verification.
 

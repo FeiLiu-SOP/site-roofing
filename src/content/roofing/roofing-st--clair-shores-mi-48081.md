@@ -11,13 +11,16 @@ lng: -82.9000
 zipSample: ["48082", "48080", "48090", "48081"]
 zipCodes: ["48082", "48081", "48080", "48090"]
 localPaths: ["Macomb County / coords 42.4900, -82.9000", "Macomb County / ZIP 48090 sector", "Macomb County / primary ZIP 48081", "Macomb County / elevation 597 ft band", "Macomb County / ZIP 48081 sector"]
-zillowHomeValueUsd: 238821
 ---
 
-**Engineering Notice for St. Clair Shores:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Macomb County.
+**Engineering Notice for St. Clair Shores:** Roof repair scope references 597 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Macomb County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Emergency roof service in St. Clair Shores, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Macomb County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof restoration crews serving St. Clair Shores, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for St. Clair Shores, MI attics should be checked against current mechanical exhaust additions.
 
@@ -31,9 +34,7 @@ Granule embedment loss on St. Clair Shores, MI north slopes can precede mat expo
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-roof work brief: counter-flashing reglet depth and synthetic underlayment slip were cross-checked for the St. Clair Shores intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 48081/48080/48082.
+Roof restoration brief: counter-flashing reglet depth and synthetic underlayment slip were cross-checked for the St. Clair Shores shingle and leak scope.
 
 On-site sector marker: Macomb County / ZIP 48081 sector — logged for map parity and ZIP-corridor verification.
 

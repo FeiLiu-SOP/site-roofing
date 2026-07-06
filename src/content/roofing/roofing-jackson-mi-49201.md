@@ -11,15 +11,18 @@ lng: -84.4000
 zipSample: ["49203", "49201", "49202"]
 zipCodes: ["49203", "49202", "49201"]
 localPaths: ["Jackson County / coords 42.2400, -84.4000", "Jackson County / ZIP 49203 sector", "Jackson County / primary ZIP 49201", "Jackson County / ZIP 49202 sector", "Jackson County / elevation 948 ft band"]
-zillowHomeValueUsd: 248658
 ---
 
-**Engineering Notice for Jackson:** Structural loading calculated based on 948 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Jackson:** Roof repair scope references 948 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Jackson County.
 
+
+Certified roof service crews serving Jackson, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Jackson, MI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Jackson County clarifies whether restoration or replacement fits the damage pattern.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -33,7 +36,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-roofing service brief: wind uplift clip spacing and pipe boot manufacturer match were cross-checked for the Jackson intake packet.
+Roof restoration brief: wind uplift clip spacing and pipe boot manufacturer match were cross-checked for the Jackson shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 49202/49201/49203.
 

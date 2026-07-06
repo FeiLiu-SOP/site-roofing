@@ -11,17 +11,20 @@ lng: -87.9900
 zipSample: ["54305", "54301", "54306", "54303", "54308"]
 zipCodes: ["54302", "54301", "54303", "54311", "54306", "54305", "54308", "54304"]
 localPaths: ["Brown County / ZIP 54306 sector", "Brown County / ZIP 54305 sector", "Brown County / ZIP 54308 sector", "Brown County / ZIP 54301 sector", "Brown County / primary ZIP 54304"]
-zillowHomeValueUsd: 289067
 ---
 
-**Engineering Notice for Green Bay:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Brown County.
+**Engineering Notice for Green Bay:** Roof repair scope references 591 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Brown County.
 
+
+Storm damage roofing service in Green Bay, WI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Brown County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof service remediation in Green Bay, WI, Brown County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Across Green Bay, WI, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-FAQ: When should permanent restoration start? In Green Bay, WI, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In Green Bay, WI, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -32,8 +35,6 @@ Regulatory note: Green Bay, WI projects may trigger ice-barrier upgrades when te
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-roofing service brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Green Bay intake packet.
 
 On-site sector marker: Brown County / coords 44.5100, -87.9900 — logged for map parity and ZIP-corridor verification.
 

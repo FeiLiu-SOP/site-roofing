@@ -11,13 +11,16 @@ lng: -119.5600
 zipSample: ["93657"]
 zipCodes: ["93657"]
 localPaths: ["Fresno County / coords 36.7000, -119.5600", "Fresno County / elevation 371 ft band", "Fresno County / ZIP 93657 sector", "Fresno County / primary ZIP 93657"]
-zillowHomeValueUsd: 412134
 ---
 
-**Engineering Notice for Sanger:** Structural loading calculated based on 371 ft terrain assessment. Regional dispatch grid: Fresno County.
+**Engineering Notice for Sanger:** Roof repair scope references 371 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Fresno County.
 
 
-Our Sanger, CA dispatch packets reference county grid Fresno County and elevation band 371 ft.
+Roof service remediation in Sanger, CA, Fresno County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Sanger, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Fresno County clarifies whether service or replacement fits the damage pattern.
+
+Our Sanger, CA restoration packets reference Fresno County and elevation band 371 ft for shingle and leak scope.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -32,8 +35,6 @@ Material note: In Sanger, CA, algae-resistant granules may be specified for nort
 Metal panel oil-canning in Sanger, CA may signal clip spacing issues, not wind damage alone.
 
 Step: confirm drip-edge continuity before shingle courses restart.
-
-Scope trace: attic baffle spacing plus skylight curb height referenced in Fresno County county grid review.
 
 ZIP-corridor snapshot for Sanger, CA: sampled sectors include 93657; county routing grid remains Fresno County.
 

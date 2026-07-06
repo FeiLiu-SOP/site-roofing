@@ -11,11 +11,14 @@ lng: -84.7100
 zipSample: ["30122", "30154", "30134", "30133", "30135"]
 zipCodes: ["30154", "30135", "30133", "30122", "30134"]
 localPaths: ["Douglas County / ZIP 30134 sector", "Douglas County / primary ZIP 30134", "Douglas County / ZIP 30133 sector", "Douglas County / coords 33.7400, -84.7100", "Douglas County / ZIP 30122 sector"]
-zillowHomeValueUsd: 285461
 ---
 
-**Engineering Notice for Douglasville:** Structural loading calculated based on 994 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Douglasville:** Roof repair scope references 994 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Douglas County.
 
+
+Licensed roof restoration crews serving Douglasville, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work remediation in Douglasville, GA, Douglas County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Metal panel oil-canning in Douglasville, GA may signal clip spacing issues, not wind damage alone.
 
@@ -31,9 +34,9 @@ Code context: Ventilation ratios for Douglasville, GA attics should be checked a
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Field routing: starter-strip setback paired with attic baffle spacing near ZIP 30134.
+Local service note: starter-strip setback paired with attic baffle spacing near ZIP 30134 for emergency roof service repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 30135/30154/30134.
 

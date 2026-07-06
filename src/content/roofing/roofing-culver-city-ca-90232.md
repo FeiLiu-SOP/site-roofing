@@ -7,17 +7,20 @@ zipCode: "90232"
 county: "Los Angeles County"
 elevationFt: 59
 lat: 34.0100
-lng: -118.4000
+lng: -118.3700
 zipSample: ["90231", "90230", "90232"]
 zipCodes: ["90230", "90232", "90231"]
 localPaths: ["Los Angeles County / ZIP 90232 sector", "Los Angeles County / ZIP 90231 sector", "Los Angeles County / primary ZIP 90232", "Los Angeles County / ZIP 90230 sector", "Los Angeles County / elevation 59 ft band"]
-zillowHomeValueUsd: 1737100
 ---
 
-**Engineering Notice for Culver City:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Culver City:** Shingle, flashing, and ventilation review recorded at 59 ft AMSL context (Los Angeles County).
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+When wind or hail hits Culver City, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service service in Culver City, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Material note: In Culver City, CA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -33,12 +36,10 @@ Step: note chimney cricket geometry before counter-flashing removal.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field routing: wind uplift clip spacing paired with ice-barrier lap sequence near ZIP 90232.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 90230/90232/90231.
+Local service note: wind uplift clip spacing paired with ice-barrier lap sequence near ZIP 90232 for emergency roofing service repairs.
 
 Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to Culver City, CA before niche-specific work begins.
 
-On-site sector marker: Los Angeles County / coords 34.0100, -118.4000 — logged for map parity and ZIP-corridor verification.
+On-site sector marker: Los Angeles County / coords 34.0100, -118.3700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90232-4ff76012

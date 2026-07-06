@@ -11,13 +11,16 @@ lng: -97.2600
 zipSample: ["67037"]
 zipCodes: ["67037"]
 localPaths: ["Sedgwick County / coords 37.5600, -97.2600", "Sedgwick County / ZIP 67037 sector", "Sedgwick County / primary ZIP 67037", "Sedgwick County / elevation 1306 ft band"]
-zillowHomeValueUsd: 282728
 ---
 
-**Engineering Notice for Derby:** Structural loading calculated based on 1306 ft terrain assessment. Regional dispatch grid: Sedgwick County.
+**Engineering Notice for Derby:** Roof repair scope references 1306 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Sedgwick County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Certified roof restoration crews serving Derby, KS review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Derby, KS often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Sedgwick County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -32,8 +35,6 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 Material note: In Derby, KS, algae-resistant granules may be specified for north-facing slopes.
 
 Parapet coping movement in Derby, KS can channel water behind wall cladding.
-
-Field routing: ridge cap nail schedule paired with chimney cricket slope near ZIP 67037.
 
 On-site sector marker: Sedgwick County / coords 37.5600, -97.2600 — logged for map parity and ZIP-corridor verification.
 

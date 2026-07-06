@@ -11,19 +11,22 @@ lng: -98.3400
 zipSample: ["78233"]
 zipCodes: ["78233"]
 localPaths: ["Bexar County / primary ZIP 78233", "Bexar County / coords 29.5500, -98.3400", "Bexar County / ZIP 78233 sector", "Bexar County / elevation 866 ft band"]
-zillowHomeValueUsd: 233002
 ---
 
-**Engineering Notice for Live Oak:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Bexar County.
+**Engineering Notice for Live Oak:** Roof repair scope references 866 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Bexar County.
 
+
+Roof service service in Live Oak, TX, Bexar County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Live Oak, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bexar County clarifies whether restoration or replacement fits the damage pattern.
 
 Wind-zone note: Live Oak, TX exposure class can change starter-strip and cap nail schedules.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 TPO seam welds in Live Oak, TX commercial sections need probe tests after freeze events.
 
-Our Live Oak, TX dispatch packets reference county grid Bexar County and elevation band 866 ft.
+Our Live Oak, TX restoration packets reference Bexar County and elevation band 866 ft for shingle and leak scope.
 
 FAQ: Is partial dry-in possible? In Live Oak, TX, yes—if slope and anchor points support safe tie-offs.
 
@@ -33,9 +36,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field routing: synthetic underlayment slip paired with valley metal gauge near ZIP 78233.
-
-Field note: Valley debris and granule loss noted for ZIP 78233.
+Local service note: synthetic underlayment slip paired with valley metal gauge near ZIP 78233 for emergency roof service repairs.
 
 ZIP-corridor snapshot for Live Oak, TX: sampled sectors include 78233; county routing grid remains Bexar County.
 

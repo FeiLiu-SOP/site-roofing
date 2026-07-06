@@ -11,11 +11,14 @@ lng: -71.2400
 zipSample: ["02454", "02451", "02452", "02453", "02455"]
 zipCodes: ["02452", "02453", "02455", "02454", "02451"]
 localPaths: ["Middlesex County / primary ZIP 02453", "Middlesex County / elevation 112 ft band", "Middlesex County / coords 42.3900, -71.2400", "Middlesex County / ZIP 02454 sector", "Middlesex County / ZIP 02451 sector"]
-zillowHomeValueUsd: 814622
 ---
 
-**Engineering Notice for Waltham:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Waltham:** Shingle, flashing, and ventilation review recorded at 112 ft AMSL context (Middlesex County).
 
+
+Emergency roof service in Waltham, MA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Middlesex County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service service in Waltham, MA, Middlesex County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: In Waltham, MA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -27,15 +30,13 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Code context: Ventilation ratios for Waltham, MA attics should be checked against current mechanical exhaust additions.
 
-Our Waltham, MA dispatch packets reference county grid Middlesex County and elevation band 112 ft.
+Our Waltham, MA service packets reference Middlesex County and elevation band 112 ft for shingle and leak scope.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Material note: In Waltham, MA, algae-resistant granules may be specified for north-facing slopes.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
-
-Scope trace: shingle exposure calibration plus counter-flashing reglet depth referenced in Middlesex County county grid review.
 
 On-site sector marker: Middlesex County / elevation 112 ft band — logged for map parity and ZIP-corridor verification.
 

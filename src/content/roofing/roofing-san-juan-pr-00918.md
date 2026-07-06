@@ -11,16 +11,18 @@ lng: -66.0600
 zipSample: ["00975", "00924", "00969", "00908", "00922"]
 zipCodes: ["00931", "00907", "00955", "00975", "00939", "00901", "00926", "00910", "00936", "00928", "00917", "00969"]
 localPaths: ["San Juan County / ZIP 00975 sector", "San Juan County / primary ZIP 00918", "San Juan County / ZIP 00908 sector", "San Juan County / ZIP 00924 sector", "San Juan County / ZIP 00922 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 356856
 ---
 
-**Engineering Notice for San Juan:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: San Juan County.
+**Engineering Notice for San Juan:** Roof repair scope references 43 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Juan County.
 
+
+Licensed roof restoration crews serving San Juan, PR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in San Juan, PR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in San Juan County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -30,13 +32,11 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Wind-zone note: San Juan, PR exposure class can change starter-strip and cap nail schedules.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Synthetic underlayment slip in San Juan, PR is often tied to deck moisture, not wind alone.
 
-Scope trace: counter-flashing reglet depth plus shingle exposure calibration referenced in San Juan County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 00931/00911/00907.
+Scope trace: counter-flashing reglet depth plus shingle exposure calibration referenced in San Juan County storm and leak review.
 
 On-site sector marker: San Juan County / ZIP 00925 sector — logged for map parity and ZIP-corridor verification.
 

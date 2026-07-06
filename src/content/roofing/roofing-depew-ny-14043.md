@@ -11,11 +11,14 @@ lng: -78.7000
 zipSample: ["14043"]
 zipCodes: ["14043"]
 localPaths: ["Erie County / ZIP 14043 sector", "Erie County / coords 42.9100, -78.7000", "Erie County / primary ZIP 14043", "Erie County / elevation 679 ft band"]
-zillowHomeValueUsd: 260987
 ---
 
-**Engineering Notice for Depew:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Erie County.
+**Engineering Notice for Depew:** Shingle, flashing, and ventilation review recorded at 679 ft AMSL context (Erie County).
 
+
+Storm damage roof work in Depew, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Erie County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof service remediation in Depew, NY, Erie County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -25,7 +28,7 @@ FAQ: Can you tarp only part of the roof? In Depew, NY, yes—if slope and anchor
 
 Wood shake courses in Depew, NY require skip-spacing rules at valleys.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Metal panel oil-canning in Depew, NY may signal clip spacing issues, not wind damage alone.
 
@@ -35,9 +38,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-roof work brief: shingle exposure calibration and deck sheathing thickness were cross-checked for the Depew intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 14043.
+Roof restoration brief: shingle exposure calibration and deck sheathing thickness were cross-checked for the Depew shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 42.9100, -78.7000 at elevation ~679 ft aligns with Erie County intake staging.
 

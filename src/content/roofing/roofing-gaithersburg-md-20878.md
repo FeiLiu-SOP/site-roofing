@@ -11,13 +11,16 @@ lng: -77.2100
 zipSample: ["20879", "20878", "20884", "20877", "20885"]
 zipCodes: ["20877", "20878", "20884", "20899", "20898", "20885", "20879"]
 localPaths: ["Montgomery County / ZIP 20878 sector", "Montgomery County / coords 39.1300, -77.2100", "Montgomery County / ZIP 20885 sector", "Montgomery County / ZIP 20877 sector", "Montgomery County / primary ZIP 20878"]
-zillowHomeValueUsd: 703146
 ---
 
-**Engineering Notice for Gaithersburg:** Structural loading calculated based on 466 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Gaithersburg:** Shingle, flashing, and ventilation review recorded at 466 ft AMSL context (Montgomery County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Licensed roof service crews serving Gaithersburg, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Gaithersburg, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Montgomery County clarifies whether service or replacement fits the damage pattern.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Regulatory note: Gaithersburg, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -33,9 +36,7 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field routing: wind uplift clip spacing paired with shingle exposure calibration near ZIP 20878.
-
-Field note: Valley debris and granule loss noted for ZIP 20884/20879/20885.
+Local service note: wind uplift clip spacing paired with shingle exposure calibration near ZIP 20878 for emergency roofing service repairs.
 
 On-site sector marker: Montgomery County / ZIP 20885 sector — logged for map parity and ZIP-corridor verification.
 

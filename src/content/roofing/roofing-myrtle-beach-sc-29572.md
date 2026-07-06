@@ -11,11 +11,14 @@ lng: -78.8800
 zipSample: ["29578", "29577", "29572"]
 zipCodes: ["29578", "29572", "29577"]
 localPaths: ["Horry County / ZIP 29572 sector", "Horry County / ZIP 29578 sector", "Horry County / elevation 3 ft band", "Horry County / ZIP 29577 sector", "Horry County / primary ZIP 29572"]
-zillowHomeValueUsd: 316501
 ---
 
-**Engineering Notice for Myrtle Beach:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Horry County.
+**Engineering Notice for Myrtle Beach:** Storm and emergency leak triage uses 3 ft elevation band with Horry County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving Myrtle Beach, SC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service restoration in Myrtle Beach, SC, Horry County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: compare shingle manufacturer wind-zone ratings for Myrtle Beach, SC exposure class.
 
@@ -31,11 +34,9 @@ FAQ: Can you tarp only part of the roof? In Myrtle Beach, SC, yes—if slope and
 
 Granule embedment loss on Myrtle Beach, SC north slopes can precede mat exposure.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-Scope trace: valley metal gauge plus skylight curb height referenced in Horry County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 29577/29578/29572.
+Scope trace: valley metal gauge plus skylight curb height referenced in Horry County storm and leak review.
 
 On-site sector marker: Horry County / ZIP 29572 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -90.3500
 zipSample: ["63119"]
 zipCodes: ["63119"]
 localPaths: ["St. Louis County / coords 38.5900, -90.3500", "St. Louis County / ZIP 63119 sector", "St. Louis County / elevation 581 ft band", "St. Louis County / primary ZIP 63119"]
-zillowHomeValueUsd: 378648
 ---
 
-**Engineering Notice for Webster Groves:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Webster Groves:** Shingle, flashing, and ventilation review recorded at 581 ft AMSL context (St. Louis County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Emergency roof service in Webster Groves, MO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in St. Louis County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Webster Groves, MO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Louis County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -30,8 +33,6 @@ Wind-zone note: Webster Groves, MO exposure class can change starter-strip and c
 TPO seam welds in Webster Groves, MO commercial sections need probe tests after freeze events.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
-
-Scope trace: pipe boot manufacturer match plus starter-strip setback referenced in St. Louis County county grid review.
 
 On-site sector marker: St. Louis County / coords 38.5900, -90.3500 — logged for map parity and ZIP-corridor verification.
 

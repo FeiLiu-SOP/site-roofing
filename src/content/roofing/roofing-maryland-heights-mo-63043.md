@@ -11,11 +11,14 @@ lng: -90.4700
 zipSample: ["63043", "63146"]
 zipCodes: ["63146", "63043"]
 localPaths: ["St. Louis County / elevation 535 ft band", "St. Louis County / ZIP 63043 sector", "St. Louis County / ZIP 63146 sector", "St. Louis County / primary ZIP 63043", "St. Louis County / coords 38.7200, -90.4700"]
-zillowHomeValueUsd: 258744
 ---
 
-**Engineering Notice for Maryland Heights:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Maryland Heights:** Storm and emergency leak triage uses 535 ft elevation band with St. Louis County service-area context for roofing repairs.
 
+
+When wind or hail hits Maryland Heights, MO, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof service in Maryland Heights, MO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Louis County clarifies whether remediation or replacement fits the damage pattern.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -30,8 +33,6 @@ Attic ventilation deficits in Maryland Heights, MO can mimic roof leaks at ceili
 Wind-zone note: Maryland Heights, MO exposure class can change starter-strip and cap nail schedules.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Field routing: counter-flashing reglet depth paired with starter-strip setback near ZIP 63043.
 
 On-site sector marker: St. Louis County / elevation 535 ft band — logged for map parity and ZIP-corridor verification.
 

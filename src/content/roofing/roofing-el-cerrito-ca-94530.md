@@ -11,11 +11,14 @@ lng: -122.3000
 zipSample: ["94530"]
 zipCodes: ["94530"]
 localPaths: ["Contra Costa County / primary ZIP 94530", "Contra Costa County / elevation 194 ft band", "Contra Costa County / coords 37.9200, -122.3000", "Contra Costa County / ZIP 94530 sector"]
-zillowHomeValueUsd: 1139693
 ---
 
-**Engineering Notice for El Cerrito:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for El Cerrito:** Roof repair scope references 194 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Contra Costa County.
 
+
+Storm damage roofing service in El Cerrito, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Contra Costa County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits El Cerrito, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -27,15 +30,13 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 Regulatory note: El Cerrito, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 94530.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field routing: wind uplift clip spacing paired with counter-flashing reglet depth near ZIP 94530.
-
-Field note: Shingle seal-down timing logged near ZIP 94530.
+Local service note: wind uplift clip spacing paired with counter-flashing reglet depth near ZIP 94530 for emergency roofing service repairs.
 
 On-site sector marker: Contra Costa County / coords 37.9200, -122.3000 — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -158.0700
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / ZIP 96707 sector", "Honolulu County / coords 21.3400, -158.0700", "Honolulu County / elevation 89 ft band", "Honolulu County / primary ZIP 96707"]
-zillowHomeValueUsd: 860442
 ---
 
-**Engineering Notice for Kapolei:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Kapolei:** Storm and emergency leak triage uses 89 ft elevation band with Honolulu County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Licensed roof remediation crews serving Kapolei, HI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Kapolei, HI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Honolulu County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Note recent wind events when filing insurance photos for Kapolei, HI.
 
@@ -31,7 +34,7 @@ FAQ: Is partial dry-in possible? In Kapolei, HI, yes—if slope and anchor point
 
 Synthetic underlayment slip in Kapolei, HI is often tied to deck moisture, not wind alone.
 
-roof work brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Kapolei intake packet.
+Roof remediation brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Kapolei shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 96707.
 

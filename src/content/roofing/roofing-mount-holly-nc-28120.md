@@ -11,13 +11,16 @@ lng: -81.0100
 zipSample: ["28120", "28236", "28012"]
 zipCodes: ["28120", "28236", "28012"]
 localPaths: ["Gaston County / ZIP 28120 sector", "Gaston County / primary ZIP 28120", "Gaston County / ZIP 28236 sector", "Gaston County / ZIP 28012 sector", "Gaston County / coords 35.3100, -81.0100"]
-zillowHomeValueUsd: 366797
 ---
 
-**Engineering Notice for Mount Holly:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Gaston County.
+**Engineering Notice for Mount Holly:** Storm and emergency leak triage uses 666 ft elevation band with Gaston County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Qualified roof service crews serving Mount Holly, NC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Mount Holly, NC often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Gaston County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: In Mount Holly, NC, algae-resistant granules may be specified for north-facing slopes.
 
@@ -33,9 +36,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field routing: wind uplift clip spacing paired with shingle exposure calibration near ZIP 28120.
-
-Field note: Attic moisture pathway scan referenced ZIP 28012/28120/28236.
+Local service note: wind uplift clip spacing paired with shingle exposure calibration near ZIP 28120 for emergency roof service repairs.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Gaston County and primary ZIP 28120. Terrain reference: 666 ft. Center point: 35.3100, -81.0100. ZIP sample: 28236, 28120, 28012. Regional routing note: Gaston County traffic flow is balanced around ZIP 28120 service demand.
 

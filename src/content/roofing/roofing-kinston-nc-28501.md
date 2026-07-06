@@ -11,15 +11,18 @@ lng: -77.5900
 zipSample: ["28501", "28503", "28504", "28502"]
 zipCodes: ["28503", "28502", "28504", "28501"]
 localPaths: ["Lenoir County / ZIP 28501 sector", "Lenoir County / elevation 95 ft band", "Lenoir County / ZIP 28502 sector", "Lenoir County / primary ZIP 28501", "Lenoir County / ZIP 28504 sector"]
-zillowHomeValueUsd: 97103
 ---
 
-**Engineering Notice for Kinston:** Structural loading calculated based on 95 ft terrain assessment. Regional dispatch grid: Lenoir County.
+**Engineering Notice for Kinston:** Shingle, flashing, and ventilation review recorded at 95 ft AMSL context (Lenoir County).
 
+
+Certified roof remediation crews serving Kinston, NC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service service in Kinston, NC, Lenoir County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Regulatory note: Kinston, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -32,8 +35,6 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
 FAQ: Is partial dry-in possible? In Kinston, NC, yes—if slope and anchor points support safe tie-offs.
-
-roof service brief: synthetic underlayment slip and attic baffle spacing were cross-checked for the Kinston intake packet.
 
 On-site sector marker: Lenoir County / ZIP 28503 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -88.0400
 zipSample: ["60517"]
 zipCodes: ["60517"]
 localPaths: ["DuPage County / coords 41.7400, -88.0400", "DuPage County / primary ZIP 60517", "DuPage County / ZIP 60517 sector", "DuPage County / elevation 758 ft band"]
-zillowHomeValueUsd: 405885
 ---
 
-**Engineering Notice for Woodridge:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Woodridge:** Roof repair scope references 758 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in DuPage County.
 
+
+Roof service restoration in Woodridge, IL, DuPage County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Woodridge, IL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -25,7 +28,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Code context: Ventilation ratios for Woodridge, IL attics should be checked against current mechanical exhaust additions.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Coastal humidity in Woodridge, IL can slow shingle seal-down after shoulder-season storms.
 
@@ -33,7 +36,7 @@ Risk flag: Tile underlayment age in Woodridge, IL can fail independently of visi
 
 Step: log deck soundings near vents before tear-off is approved.
 
-roof service brief: attic baffle spacing and deck sheathing thickness were cross-checked for the Woodridge intake packet.
+Roof service brief: attic baffle spacing and deck sheathing thickness were cross-checked for the Woodridge shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 60517.
 

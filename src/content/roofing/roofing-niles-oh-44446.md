@@ -11,13 +11,16 @@ lng: -80.7500
 zipSample: ["44446"]
 zipCodes: ["44446"]
 localPaths: ["Trumbull County / ZIP 44446 sector", "Trumbull County / primary ZIP 44446", "Trumbull County / coords 41.1900, -80.7500", "Trumbull County / elevation 902 ft band"]
-zillowHomeValueUsd: 130869
 ---
 
-**Engineering Notice for Niles:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Trumbull County.
+**Engineering Notice for Niles:** Storm and emergency leak triage uses 902 ft elevation band with Trumbull County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Emergency roof restoration in Niles, OH often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Trumbull County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Niles, OH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Trumbull County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -31,7 +34,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field routing: starter-strip setback paired with valley metal gauge near ZIP 44446.
+Local service note: starter-strip setback paired with valley metal gauge near ZIP 44446 for emergency roofing service repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 44446.
 

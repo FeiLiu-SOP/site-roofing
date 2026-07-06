@@ -11,13 +11,16 @@ lng: -158.0800
 zipSample: ["96707"]
 zipCodes: ["96707"]
 localPaths: ["Honolulu County / coords 21.3600, -158.0800", "Honolulu County / elevation 705 ft band", "Honolulu County / primary ZIP 96707", "Honolulu County / ZIP 96707 sector"]
-zillowHomeValueUsd: 860443
 ---
 
-**Engineering Notice for Makakilo:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Makakilo:** Storm and emergency leak triage uses 705 ft elevation band with Honolulu County service-area context for roofing repairs.
 
 
-Step: separate emergency tarp scope from permanent remediation line items.
+When wind or hail hits Makakilo, HI, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Makakilo, HI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Honolulu County clarifies whether remediation or replacement fits the damage pattern.
+
+Step: separate emergency tarp scope from permanent service line items.
 
 Risk flag: In Makakilo, HI, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -29,13 +32,11 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Wind-zone note: Makakilo, HI exposure class can change starter-strip and cap nail schedules.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Synthetic underlayment slip in Makakilo, HI is often tied to deck moisture, not wind alone.
 
-roofing service brief: ridge cap nail schedule and synthetic underlayment slip were cross-checked for the Makakilo intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 96707.
+Roof remediation brief: ridge cap nail schedule and synthetic underlayment slip were cross-checked for the Makakilo shingle and leak scope.
 
 Regional mesh label Honolulu County: moisture and logistics baselines are keyed to Makakilo, HI before niche-specific work begins.
 

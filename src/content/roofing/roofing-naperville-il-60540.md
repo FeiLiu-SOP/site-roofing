@@ -11,11 +11,14 @@ lng: -88.1700
 zipSample: ["60565", "60564", "60563", "60540", "60567"]
 zipCodes: ["60563", "60564", "60567", "60565", "60540"]
 localPaths: ["DuPage County / ZIP 60564 sector", "DuPage County / coords 41.7500, -88.1700", "DuPage County / primary ZIP 60540", "DuPage County / ZIP 60567 sector", "DuPage County / ZIP 60565 sector"]
-zillowHomeValueUsd: 633149
 ---
 
-**Engineering Notice for Naperville:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Naperville:** Shingle, flashing, and ventilation review recorded at 709 ft AMSL context (DuPage County).
 
+
+Qualified roof remediation crews serving Naperville, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service service in Naperville, IL, DuPage County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -25,13 +28,11 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-roofing service brief: ice-barrier lap sequence and drip-edge metal profile were cross-checked for the Naperville intake packet.
 
 On-site sector marker: DuPage County / ZIP 60563 sector — logged for map parity and ZIP-corridor verification.
 

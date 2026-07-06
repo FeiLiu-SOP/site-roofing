@@ -11,13 +11,16 @@ lng: -77.1800
 zipSample: ["22040", "22046"]
 zipCodes: ["22046", "22040"]
 localPaths: ["Falls Church County / coords 38.8800, -77.1800", "Falls Church County / elevation 338 ft band", "Falls Church County / primary ZIP 22046", "Falls Church County / ZIP 22046 sector", "Falls Church County / ZIP 22040 sector"]
-zillowHomeValueUsd: 1052527
 ---
 
-**Engineering Notice for Falls Church:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Falls Church County.
+**Engineering Notice for Falls Church:** Roof repair scope references 338 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Falls Church County.
 
 
-Our Falls Church, VA dispatch packets reference county grid Falls Church County and elevation band 338 ft.
+Emergency roof restoration in Falls Church, VA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Falls Church County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof remediation crews serving Falls Church, VA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Our Falls Church, VA remediation packets reference Falls Church County and elevation band 338 ft for shingle and leak scope.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -31,9 +34,7 @@ Freeze-thaw cycles around Falls Church, VA stress nail pops along eaves and rake
 
 Regulatory note: Falls Church, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Falls Church County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 22040/22046.
+Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Falls Church County storm and leak review.
 
 On-site sector marker: Falls Church County / coords 38.8800, -77.1800 — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -122.3700
 zipSample: ["94011", "94010"]
 zipCodes: ["94011", "94010"]
 localPaths: ["San Mateo County / elevation 16 ft band", "San Mateo County / primary ZIP 94010", "San Mateo County / coords 37.5900, -122.3700", "San Mateo County / ZIP 94011 sector", "San Mateo County / ZIP 94010 sector"]
-zillowHomeValueUsd: 3405675
 ---
 
-**Engineering Notice for Burlingame:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Burlingame:** Roof repair scope references 16 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Mateo County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+When wind or hail hits Burlingame, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Burlingame, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in San Mateo County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -34,8 +37,6 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 Freeze-thaw cycles around Burlingame, CA stress nail pops along eaves and rake edges.
 
 FAQ: Can you tarp only part of the roof? In Burlingame, CA, yes—if slope and anchor points support safe tie-offs.
-
-Field routing: wind uplift clip spacing paired with starter-strip setback near ZIP 94010.
 
 Coordinate-anchored dispatch note: center reference 37.5900, -122.3700 at elevation ~16 ft aligns with San Mateo County intake staging.
 

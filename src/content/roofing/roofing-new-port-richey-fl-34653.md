@@ -11,15 +11,18 @@ lng: -82.7200
 zipSample: ["34652", "34656", "34653"]
 zipCodes: ["34656", "34653", "34652"]
 localPaths: ["Pasco County / ZIP 34652 sector", "Pasco County / ZIP 34653 sector", "Pasco County / primary ZIP 34653", "Pasco County / elevation 46 ft band", "Pasco County / coords 28.2500, -82.7200"]
-zillowHomeValueUsd: 249442
 ---
 
-**Engineering Notice for New Port Richey:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Pasco County.
+**Engineering Notice for New Port Richey:** Roof repair scope references 46 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Pasco County.
 
+
+Certified roof service crews serving New Port Richey, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in New Port Richey, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pasco County clarifies whether service or replacement fits the damage pattern.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 TPO seam welds in New Port Richey, FL commercial sections need probe tests after freeze events.
 
@@ -31,7 +34,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Scope trace: deck sheathing thickness plus counter-flashing reglet depth referenced in Pasco County county grid review.
+Scope trace: deck sheathing thickness plus counter-flashing reglet depth referenced in Pasco County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 34652/34653/34656.
 

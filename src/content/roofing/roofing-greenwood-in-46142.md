@@ -11,11 +11,14 @@ lng: -86.1100
 zipSample: ["46143", "46142"]
 zipCodes: ["46142", "46143"]
 localPaths: ["Johnson County / ZIP 46143 sector", "Johnson County / elevation 807 ft band", "Johnson County / primary ZIP 46142", "Johnson County / ZIP 46142 sector", "Johnson County / coords 39.6000, -86.1100"]
-zillowHomeValueUsd: 317820
 ---
 
-**Engineering Notice for Greenwood:** Structural loading calculated based on 807 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Greenwood:** Storm and emergency leak triage uses 807 ft elevation band with Johnson County service-area context for roofing repairs.
 
+
+When wind or hail hits Greenwood, IN, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Greenwood, IN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Johnson County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Material note: In Greenwood, IN, algae-resistant granules may be specified for north-facing slopes.
 
@@ -25,7 +28,7 @@ Low-slope sections in Greenwood, IN need positive drainage before membrane repai
 
 Wind-zone note: Greenwood, IN exposure class can change starter-strip and cap nail schedules.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Greenwood, IN can fail independently of visible tile cracks.
 
@@ -35,9 +38,7 @@ Tip: Note recent wind events when filing insurance photos for Greenwood, IN.
 
 FAQ: Can you tarp only part of the roof? In Greenwood, IN, yes—if slope and anchor points support safe tie-offs.
 
-roof service brief: starter-strip setback and chimney cricket slope were cross-checked for the Greenwood intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 46143/46142.
+Roof service brief: starter-strip setback and chimney cricket slope were cross-checked for the Greenwood shingle and leak scope.
 
 On-site sector marker: Johnson County / ZIP 46143 sector — logged for map parity and ZIP-corridor verification.
 

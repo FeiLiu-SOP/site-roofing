@@ -11,11 +11,14 @@ lng: -79.8300
 zipSample: ["27411", "27409", "27301", "27403", "27435"]
 zipCodes: ["27402", "27427", "27435", "27412", "27455", "27214", "27413", "27301", "27497", "27438", "27417", "27409"]
 localPaths: ["Guilford County / ZIP 27403 sector", "Guilford County / elevation 820 ft band", "Guilford County / coords 36.1000, -79.8300", "Guilford County / ZIP 27301 sector", "Guilford County / ZIP 27435 sector"]
-zillowHomeValueUsd: 228234
 ---
 
-**Engineering Notice for Greensboro:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Guilford County.
+**Engineering Notice for Greensboro:** Roof repair scope references 820 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Guilford County.
 
+
+Certified roof service crews serving Greensboro, NC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Greensboro, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Guilford County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -31,7 +34,7 @@ Step: map ventilation intake and exhaust pairs for Greensboro, NC attic runs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field routing: counter-flashing reglet depth paired with starter-strip setback near ZIP 27411.
+Local service note: counter-flashing reglet depth paired with starter-strip setback near ZIP 27411 for emergency roof work repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 27411/27214/27408.
 

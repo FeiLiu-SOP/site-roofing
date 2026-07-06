@@ -11,11 +11,14 @@ lng: -88.0900
 zipSample: ["60532"]
 zipCodes: ["60532"]
 localPaths: ["DuPage County / coords 41.7900, -88.0900", "DuPage County / ZIP 60532 sector", "DuPage County / primary ZIP 60532", "DuPage County / elevation 673 ft band"]
-zillowHomeValueUsd: 425947
 ---
 
-**Engineering Notice for Lisle:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Lisle:** Storm and emergency leak triage uses 673 ft elevation band with DuPage County service-area context for roofing repairs.
 
+
+Certified roof remediation crews serving Lisle, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service remediation in Lisle, IL, DuPage County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Tile underlayment age in Lisle, IL can fail independently of visible tile cracks.
 
@@ -34,8 +37,6 @@ TPO seam welds in Lisle, IL commercial sections need probe tests after freeze ev
 Step: compare shingle manufacturer wind-zone ratings for Lisle, IL exposure class.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
-
-Field routing: shingle exposure calibration paired with starter-strip setback near ZIP 60532.
 
 On-site sector marker: DuPage County / coords 41.7900, -88.0900 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -122.1200
 zipSample: ["94570", "94575", "94556"]
 zipCodes: ["94570", "94575", "94556"]
 localPaths: ["Contra Costa County / ZIP 94570 sector", "Contra Costa County / ZIP 94575 sector", "Contra Costa County / primary ZIP 94556", "Contra Costa County / elevation 594 ft band", "Contra Costa County / coords 37.8400, -122.1200"]
-zillowHomeValueUsd: 1665937
 ---
 
-**Engineering Notice for Moraga:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Moraga:** Roof repair scope references 594 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Contra Costa County.
 
+
+Emergency roof restoration in Moraga, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Contra Costa County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Moraga, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Contra Costa County clarifies whether restoration or replacement fits the damage pattern.
 
 Material note: In Moraga, CA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -31,9 +34,7 @@ Across Moraga, CA, ice-dam seasons often begin with clogged gutters rather than 
 
 FAQ: When should permanent restoration start? In Moraga, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
-
-Field routing: ridge cap nail schedule paired with soffit intake free area near ZIP 94556.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 On-site sector marker: Contra Costa County / ZIP 94575 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -83.1000
 zipSample: ["48071"]
 zipCodes: ["48071"]
 localPaths: ["Oakland County / elevation 633 ft band", "Oakland County / primary ZIP 48071", "Oakland County / coords 42.5100, -83.1000", "Oakland County / ZIP 48071 sector"]
-zillowHomeValueUsd: 219560
 ---
 
-**Engineering Notice for Madison Heights:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Madison Heights:** Storm and emergency leak triage uses 633 ft elevation band with Oakland County service-area context for roofing repairs.
 
+
+When wind or hail hits Madison Heights, MI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service remediation in Madison Heights, MI, Oakland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -31,7 +34,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Tile and shingle mixes in Madison Heights, MI require different fastener patterns at transitions.
 
-Field routing: drip-edge metal profile paired with attic baffle spacing near ZIP 48071.
+Local service note: drip-edge metal profile paired with attic baffle spacing near ZIP 48071 for emergency roof service repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 48071.
 

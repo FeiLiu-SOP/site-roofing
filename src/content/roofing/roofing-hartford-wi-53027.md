@@ -11,11 +11,14 @@ lng: -88.3800
 zipSample: ["53027"]
 zipCodes: ["53027"]
 localPaths: ["Washington County / coords 43.3200, -88.3800", "Washington County / elevation 1020 ft band", "Washington County / primary ZIP 53027", "Washington County / ZIP 53027 sector"]
-zillowHomeValueUsd: 409562
 ---
 
-**Engineering Notice for Hartford:** Structural loading calculated based on 1020 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Hartford:** Shingle, flashing, and ventilation review recorded at 1020 ft AMSL context (Washington County).
 
+
+Storm damage roof service in Hartford, WI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Washington County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Hartford, WI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -29,11 +32,9 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 53027.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wind-zone note: Hartford, WI exposure class can change starter-strip and cap nail schedules.
-
-roof service brief: chimney cricket slope and soffit intake free area were cross-checked for the Hartford intake packet.
 
 Regional mesh label Washington County: moisture and logistics baselines are keyed to Hartford, WI before niche-specific work begins.
 

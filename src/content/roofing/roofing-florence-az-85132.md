@@ -11,11 +11,14 @@ lng: -111.4200
 zipSample: ["85132"]
 zipCodes: ["85132"]
 localPaths: ["Pinal County / elevation 1526 ft band", "Pinal County / primary ZIP 85132", "Pinal County / ZIP 85132 sector", "Pinal County / coords 33.0600, -111.4200"]
-zillowHomeValueUsd: 334120
 ---
 
-**Engineering Notice for Florence:** Structural loading calculated based on 1526 ft terrain assessment. Regional dispatch grid: Pinal County.
+**Engineering Notice for Florence:** Storm and emergency leak triage uses 1526 ft elevation band with Pinal County service-area context for roofing repairs.
 
+
+Roof service service in Florence, AZ, Pinal County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Florence, AZ, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: In Florence, AZ, algae-resistant granules may be specified for north-facing slopes.
 
@@ -31,9 +34,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-Scope trace: counter-flashing reglet depth plus synthetic underlayment slip referenced in Pinal County county grid review.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 On-site sector marker: Pinal County / ZIP 85132 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -122.2900
 zipSample: ["98371", "98352", "98374", "98373", "98372"]
 zipCodes: ["98372", "98374", "98371", "98352", "98373"]
 localPaths: ["Pierce County / elevation 115 ft band", "Pierce County / coords 47.1800, -122.2900", "Pierce County / ZIP 98374 sector", "Pierce County / ZIP 98371 sector", "Pierce County / ZIP 98352 sector"]
-zillowHomeValueUsd: 584151
 ---
 
-**Engineering Notice for Puyallup:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Puyallup:** Shingle, flashing, and ventilation review recorded at 115 ft AMSL context (Pierce County).
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Storm damage roof work in Puyallup, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pierce County clarifies whether remediation or replacement fits the damage pattern.
+
+Certified roof remediation crews serving Puyallup, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Regulatory note: Puyallup, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -34,8 +37,6 @@ Metal panel oil-canning in Puyallup, WA may signal clip spacing issues, not wind
 Across Puyallup, WA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
-
-Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Pierce County county grid review.
 
 On-site sector marker: Pierce County / ZIP 98374 sector — logged for map parity and ZIP-corridor verification.
 

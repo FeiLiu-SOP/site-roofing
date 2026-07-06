@@ -11,11 +11,14 @@ lng: -111.0100
 zipSample: ["85705"]
 zipCodes: ["85705"]
 localPaths: ["Pima County / elevation 2270 ft band", "Pima County / coords 32.2900, -111.0100", "Pima County / ZIP 85705 sector", "Pima County / primary ZIP 85705"]
-zillowHomeValueUsd: 254268
 ---
 
-**Engineering Notice for Flowing Wells:** Structural loading calculated based on 2270 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Flowing Wells:** Shingle, flashing, and ventilation review recorded at 2270 ft AMSL context (Pima County).
 
+
+Storm damage roof service in Flowing Wells, AZ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pima County clarifies whether restoration or replacement fits the damage pattern.
+
+Certified roof remediation crews serving Flowing Wells, AZ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: In Flowing Wells, AZ, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -27,13 +30,11 @@ Step: compare shingle manufacturer wind-zone ratings for Flowing Wells, AZ expos
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field routing: skylight curb height paired with wind uplift clip spacing near ZIP 85705.
-
-Field note: Valley debris and granule loss noted for ZIP 85705.
+Local service note: skylight curb height paired with wind uplift clip spacing near ZIP 85705 for emergency roof service repairs.
 
 On-site sector marker: Pima County / coords 32.2900, -111.0100 — logged for map parity and ZIP-corridor verification.
 

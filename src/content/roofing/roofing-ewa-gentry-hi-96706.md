@@ -11,13 +11,16 @@ lng: -158.0300
 zipSample: ["96706"]
 zipCodes: ["96706"]
 localPaths: ["Honolulu County / coords 21.3300, -158.0300", "Honolulu County / ZIP 96706 sector", "Honolulu County / primary ZIP 96706", "Honolulu County / elevation 52 ft band"]
-zillowHomeValueUsd: 830564
 ---
 
-**Engineering Notice for Ewa Gentry:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Ewa Gentry:** Storm and emergency leak triage uses 52 ft elevation band with Honolulu County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+When wind or hail hits Ewa Gentry, HI, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof service in Ewa Gentry, HI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Honolulu County clarifies whether service or replacement fits the damage pattern.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Low-slope sections in Ewa Gentry, HI need positive drainage before membrane repairs are scoped.
 
@@ -31,7 +34,7 @@ Code context: Ventilation ratios for Ewa Gentry, HI attics should be checked aga
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field routing: wind uplift clip spacing paired with ridge cap nail schedule near ZIP 96706.
+Local service note: wind uplift clip spacing paired with ridge cap nail schedule near ZIP 96706 for emergency roofing service repairs.
 
 On-site sector marker: Honolulu County / ZIP 96706 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -117.9200
 zipSample: ["91702", "91722"]
 zipCodes: ["91722", "91702"]
 localPaths: ["Los Angeles County / coords 34.1000, -117.9200", "Los Angeles County / ZIP 91722 sector", "Los Angeles County / elevation 463 ft band", "Los Angeles County / ZIP 91702 sector", "Los Angeles County / primary ZIP 91722"]
-zillowHomeValueUsd: 764499
 ---
 
-**Engineering Notice for Vincent:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Vincent:** Roof repair scope references 463 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
+
+Roofing service remediation in Vincent, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof service crews serving Vincent, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -35,7 +38,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Wind-zone note: Vincent, CA exposure class can change starter-strip and cap nail schedules.
 
-Field routing: synthetic underlayment slip paired with valley metal gauge near ZIP 91722.
+Local service note: synthetic underlayment slip paired with valley metal gauge near ZIP 91722 for emergency roofing service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 91722/91702.
 

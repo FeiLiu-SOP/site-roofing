@@ -11,11 +11,14 @@ lng: -119.0300
 zipSample: ["93011", "93012", "93010"]
 zipCodes: ["93010", "93012", "93011"]
 localPaths: ["Ventura County / coords 34.2200, -119.0300", "Ventura County / ZIP 93011 sector", "Ventura County / ZIP 93010 sector", "Ventura County / ZIP 93012 sector", "Ventura County / elevation 164 ft band"]
-zillowHomeValueUsd: 925650
 ---
 
-**Engineering Notice for Camarillo:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Ventura County.
+**Engineering Notice for Camarillo:** Shingle, flashing, and ventilation review recorded at 164 ft AMSL context (Ventura County).
 
+
+Storm damage roof work in Camarillo, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Ventura County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Camarillo, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: separate emergency tarp scope from permanent service line items.
 
@@ -29,9 +32,9 @@ Risk flag: Tile underlayment age in Camarillo, CA can fail independently of visi
 
 Tip: Note recent wind events when filing insurance photos for Camarillo, CA.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Scope trace: ice-barrier lap sequence plus skylight curb height referenced in Ventura County county grid review.
+Scope trace: ice-barrier lap sequence plus skylight curb height referenced in Ventura County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 93010/93011/93012.
 

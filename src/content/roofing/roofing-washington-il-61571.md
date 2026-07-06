@@ -11,11 +11,14 @@ lng: -89.4300
 zipSample: ["61571"]
 zipCodes: ["61571"]
 localPaths: ["Tazewell County / ZIP 61571 sector", "Tazewell County / primary ZIP 61571", "Tazewell County / elevation 761 ft band", "Tazewell County / coords 40.7000, -89.4300"]
-zillowHomeValueUsd: 226571
 ---
 
-**Engineering Notice for Washington:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Tazewell County.
+**Engineering Notice for Washington:** Shingle, flashing, and ventilation review recorded at 761 ft AMSL context (Tazewell County).
 
+
+Emergency roof restoration in Washington, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Tazewell County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service remediation in Washington, IL, Tazewell County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -31,9 +34,7 @@ Wood shake courses in Washington, IL require skip-spacing rules at valleys.
 
 Material note: In Washington, IL, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-Scope trace: pipe boot manufacturer match plus skylight curb height referenced in Tazewell County county grid review.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Regional mesh label Tazewell County: moisture and logistics baselines are keyed to Washington, IL before niche-specific work begins.
 

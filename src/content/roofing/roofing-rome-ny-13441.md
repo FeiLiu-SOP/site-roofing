@@ -11,13 +11,16 @@ lng: -75.4900
 zipSample: ["13442", "13308", "13449", "13441", "13440"]
 zipCodes: ["13440", "13308", "13449", "13441", "13442"]
 localPaths: ["Oneida County / coords 43.2300, -75.4900", "Oneida County / ZIP 13441 sector", "Oneida County / ZIP 13442 sector", "Oneida County / ZIP 13308 sector", "Oneida County / ZIP 13440 sector"]
-zillowHomeValueUsd: 201278
 ---
 
-**Engineering Notice for Rome:** Structural loading calculated based on 443 ft terrain assessment. Regional dispatch grid: Oneida County.
+**Engineering Notice for Rome:** Storm and emergency leak triage uses 443 ft elevation band with Oneida County service-area context for roofing repairs.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Qualified roof remediation crews serving Rome, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Rome, NY, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -30,8 +33,6 @@ Code context: Ventilation ratios for Rome, NY attics should be checked against c
 Skylight curb flashing in Rome, NY should be sequenced before ridge cap replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Field routing: pipe boot manufacturer match paired with synthetic underlayment slip near ZIP 13441.
 
 Coordinate-anchored dispatch note: center reference 43.2300, -75.4900 at elevation ~443 ft aligns with Oneida County intake staging.
 

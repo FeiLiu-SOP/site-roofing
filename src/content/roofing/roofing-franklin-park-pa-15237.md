@@ -11,13 +11,16 @@ lng: -80.1000
 zipSample: ["15237", "15143", "15090"]
 zipCodes: ["15143", "15237", "15090"]
 localPaths: ["Allegheny County / elevation 1257 ft band", "Allegheny County / ZIP 15090 sector", "Allegheny County / primary ZIP 15237", "Allegheny County / ZIP 15143 sector", "Allegheny County / coords 40.5900, -80.1000"]
-zillowHomeValueUsd: 356644
 ---
 
-**Engineering Notice for Franklin Park:** Structural loading calculated based on 1257 ft terrain assessment. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Franklin Park:** Shingle, flashing, and ventilation review recorded at 1257 ft AMSL context (Allegheny County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+When wind or hail hits Franklin Park, PA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service restoration in Franklin Park, PA, Allegheny County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -33,7 +36,7 @@ Low-slope sections in Franklin Park, PA need positive drainage before membrane r
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-roofing service brief: deck sheathing thickness and skylight curb height were cross-checked for the Franklin Park intake packet.
+Roof service brief: deck sheathing thickness and skylight curb height were cross-checked for the Franklin Park shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 15143/15237/15090.
 

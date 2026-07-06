@@ -11,11 +11,14 @@ lng: -118.0700
 zipSample: ["90703"]
 zipCodes: ["90703"]
 localPaths: ["Los Angeles County / elevation 66 ft band", "Los Angeles County / coords 33.8700, -118.0700", "Los Angeles County / primary ZIP 90703", "Los Angeles County / ZIP 90703 sector"]
-zillowHomeValueUsd: 1096367
 ---
 
-**Engineering Notice for Cerritos:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Cerritos:** Shingle, flashing, and ventilation review recorded at 66 ft AMSL context (Los Angeles County).
 
+
+Storm damage roof work in Cerritos, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether restoration or replacement fits the damage pattern.
+
+Roofing service service in Cerritos, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -31,9 +34,9 @@ Step: note chimney cricket geometry before counter-flashing removal.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: When should permanent remediation start? In Cerritos, CA, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent service start? In Cerritos, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-roof work brief: shingle exposure calibration and deck sheathing thickness were cross-checked for the Cerritos intake packet.
+Roof remediation brief: shingle exposure calibration and deck sheathing thickness were cross-checked for the Cerritos shingle and leak scope.
 
 On-site sector marker: Los Angeles County / primary ZIP 90703 — logged for map parity and ZIP-corridor verification.
 

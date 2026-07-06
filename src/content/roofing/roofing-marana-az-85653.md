@@ -11,15 +11,18 @@ lng: -111.1600
 zipSample: ["85743", "85652", "85742", "85653", "85658"]
 zipCodes: ["85658", "85740", "85652", "85743", "85653", "85741", "85742"]
 localPaths: ["Pima County / ZIP 85653 sector", "Pima County / elevation 2067 ft band", "Pima County / primary ZIP 85653", "Pima County / coords 32.4400, -111.1600", "Pima County / ZIP 85658 sector"]
-zillowHomeValueUsd: 386471
 ---
 
-**Engineering Notice for Marana:** Structural loading calculated based on 2067 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Marana:** Shingle, flashing, and ventilation review recorded at 2067 ft AMSL context (Pima County).
 
+
+Emergency roof service in Marana, AZ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pima County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof restoration crews serving Marana, AZ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -33,9 +36,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Risk flag: Tile underlayment age in Marana, AZ can fail independently of visible tile cracks.
 
-roofing service brief: shingle exposure calibration and drip-edge metal profile were cross-checked for the Marana intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 85743/85740/85653.
+Roof service brief: shingle exposure calibration and drip-edge metal profile were cross-checked for the Marana shingle and leak scope.
 
 On-site sector marker: Pima County / ZIP 85653 sector — logged for map parity and ZIP-corridor verification.
 

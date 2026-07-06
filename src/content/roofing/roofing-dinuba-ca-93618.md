@@ -11,11 +11,14 @@ lng: -119.4000
 zipSample: ["93618"]
 zipCodes: ["93618"]
 localPaths: ["Tulare County / ZIP 93618 sector", "Tulare County / primary ZIP 93618", "Tulare County / coords 36.5500, -119.4000", "Tulare County / elevation 338 ft band"]
-zillowHomeValueUsd: 357688
 ---
 
-**Engineering Notice for Dinuba:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Tulare County.
+**Engineering Notice for Dinuba:** Roof repair scope references 338 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Tulare County.
 
+
+Roof service restoration in Dinuba, CA, Tulare County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Dinuba, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Tulare County should photograph ceiling stains and attic wet spots before crews arrive.
 
 We coordinate Dinuba, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -33,9 +36,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-roof service brief: counter-flashing reglet depth and ice-barrier lap sequence were cross-checked for the Dinuba intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 93618.
+Roof remediation brief: counter-flashing reglet depth and ice-barrier lap sequence were cross-checked for the Dinuba shingle and leak scope.
 
 Primary postal anchor 93618 with multi-ZIP overlap in Dinuba; field packets tag Tulare County for county-grid reconciliation.
 

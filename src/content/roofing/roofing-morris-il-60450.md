@@ -11,11 +11,14 @@ lng: -88.4300
 zipSample: ["60450"]
 zipCodes: ["60450"]
 localPaths: ["Grundy County / coords 41.3700, -88.4300", "Grundy County / elevation 538 ft band", "Grundy County / ZIP 60450 sector", "Grundy County / primary ZIP 60450"]
-zillowHomeValueUsd: 307971
 ---
 
-**Engineering Notice for Morris:** Structural loading calculated based on 538 ft terrain assessment. Regional dispatch grid: Grundy County.
+**Engineering Notice for Morris:** Shingle, flashing, and ventilation review recorded at 538 ft AMSL context (Grundy County).
 
+
+Licensed roof service crews serving Morris, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Morris, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Grundy County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Note recent wind events when filing insurance photos for Morris, IL.
 
@@ -31,9 +34,9 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Synthetic underlayment slip in Morris, IL is often tied to deck moisture, not wind alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roof service brief: counter-flashing reglet depth and wind uplift clip spacing were cross-checked for the Morris intake packet.
+Roof remediation brief: counter-flashing reglet depth and wind uplift clip spacing were cross-checked for the Morris shingle and leak scope.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Grundy County and primary ZIP 60450. Terrain reference: 538 ft. Center point: 41.3700, -88.4300. ZIP sample: 60450. Service perimeter note: Coverage extends through Grundy County with dispatch centered near ZIP 60450.
 

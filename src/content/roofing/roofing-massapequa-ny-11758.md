@@ -11,11 +11,14 @@ lng: -73.4700
 zipSample: ["11758"]
 zipCodes: ["11758"]
 localPaths: ["Nassau County / coords 40.6700, -73.4700", "Nassau County / elevation 16 ft band", "Nassau County / ZIP 11758 sector", "Nassau County / primary ZIP 11758"]
-zillowHomeValueUsd: 804482
 ---
 
-**Engineering Notice for Massapequa:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Massapequa:** Shingle, flashing, and ventilation review recorded at 16 ft AMSL context (Nassau County).
 
+
+Storm damage roof work in Massapequa, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Nassau County clarifies whether remediation or replacement fits the damage pattern.
+
+Certified roof restoration crews serving Massapequa, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -25,7 +28,7 @@ Parapet coping movement in Massapequa, NY can channel water behind wall cladding
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: separate emergency tarp scope from permanent service line items.
 
@@ -33,7 +36,7 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field routing: starter-strip setback paired with valley metal gauge near ZIP 11758.
+Local service note: starter-strip setback paired with valley metal gauge near ZIP 11758 for emergency roof work repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 11758.
 

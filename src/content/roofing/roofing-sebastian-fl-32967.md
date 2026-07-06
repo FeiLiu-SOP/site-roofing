@@ -11,11 +11,14 @@ lng: -80.4800
 zipSample: ["32958", "32978", "32967"]
 zipCodes: ["32967", "32978", "32958"]
 localPaths: ["Indian River County / primary ZIP 32967", "Indian River County / ZIP 32967 sector", "Indian River County / elevation 46 ft band", "Indian River County / coords 27.7800, -80.4800", "Indian River County / ZIP 32958 sector"]
-zillowHomeValueUsd: 405615
 ---
 
-**Engineering Notice for Sebastian:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Indian River County.
+**Engineering Notice for Sebastian:** Shingle, flashing, and ventilation review recorded at 46 ft AMSL context (Indian River County).
 
+
+Storm damage roof service in Sebastian, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Indian River County clarifies whether service or replacement fits the damage pattern.
+
+Certified roof restoration crews serving Sebastian, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -29,11 +32,9 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Coastal humidity in Sebastian, FL can slow shingle seal-down after shoulder-season storms.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-Field routing: soffit intake free area paired with deck sheathing thickness near ZIP 32967.
-
-Field note: Shingle seal-down timing logged near ZIP 32978/32967/32958.
+Local service note: soffit intake free area paired with deck sheathing thickness near ZIP 32967 for emergency roof work repairs.
 
 Primary postal anchor 32967 with multi-ZIP overlap in Sebastian; field packets tag Indian River County for county-grid reconciliation.
 

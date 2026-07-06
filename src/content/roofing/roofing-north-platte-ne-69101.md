@@ -11,11 +11,14 @@ lng: -100.7600
 zipSample: ["69101", "69103"]
 zipCodes: ["69101", "69103"]
 localPaths: ["Lincoln County / coords 41.1300, -100.7600", "Lincoln County / ZIP 69101 sector", "Lincoln County / ZIP 69103 sector", "Lincoln County / primary ZIP 69101", "Lincoln County / elevation 2812 ft band"]
-zillowHomeValueUsd: 208953
 ---
 
-**Engineering Notice for North Platte:** Structural loading calculated based on 2812 ft terrain assessment. Regional dispatch grid: Lincoln County.
+**Engineering Notice for North Platte:** Shingle, flashing, and ventilation review recorded at 2812 ft AMSL context (Lincoln County).
 
+
+Emergency roof restoration in North Platte, NE often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Lincoln County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work remediation in North Platte, NE, Lincoln County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Metal panel oil-canning in North Platte, NE may signal clip spacing issues, not wind damage alone.
 
@@ -29,11 +32,11 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Step: map ventilation intake and exhaust pairs for North Platte, NE attic runs.
 
-Our North Platte, NE dispatch packets reference county grid Lincoln County and elevation band 2812 ft.
+Our North Platte, NE service packets reference Lincoln County and elevation band 2812 ft for shingle and leak scope.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-roof work brief: wind uplift clip spacing and skylight curb height were cross-checked for the North Platte intake packet.
+Roof service brief: wind uplift clip spacing and skylight curb height were cross-checked for the North Platte shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 41.1300, -100.7600 at elevation ~2812 ft aligns with Lincoln County intake staging.
 

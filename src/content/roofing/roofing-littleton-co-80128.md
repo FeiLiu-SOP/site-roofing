@@ -11,11 +11,14 @@ lng: -105.0200
 zipSample: ["80160", "80128", "80120", "80123", "80166"]
 zipCodes: ["80166", "80165", "80128", "80160", "80123", "80122", "80120"]
 localPaths: ["Arapahoe County / coords 39.5900, -105.0200", "Arapahoe County / elevation 5420 ft band", "Arapahoe County / ZIP 80120 sector", "Arapahoe County / ZIP 80166 sector", "Arapahoe County / ZIP 80128 sector"]
-zillowHomeValueUsd: 602665
 ---
 
-**Engineering Notice for Littleton:** Structural loading calculated based on 5420 ft terrain assessment. Regional dispatch grid: Arapahoe County.
+**Engineering Notice for Littleton:** Storm and emergency leak triage uses 5420 ft elevation band with Arapahoe County service-area context for roofing repairs.
 
+
+Certified roof remediation crews serving Littleton, CO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Littleton, CO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Arapahoe County clarifies whether service or replacement fits the damage pattern.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -25,7 +28,7 @@ Parapet coping movement in Littleton, CO can channel water behind wall cladding.
 
 Risk flag: Tile underlayment age in Littleton, CO can fail independently of visible tile cracks.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -35,9 +38,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 FAQ: Is partial dry-in possible? In Littleton, CO, yes—if slope and anchor points support safe tie-offs.
 
-Scope trace: wind uplift clip spacing plus ridge cap nail schedule referenced in Arapahoe County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 80123/80165/80122.
+Scope trace: wind uplift clip spacing plus ridge cap nail schedule referenced in Arapahoe County storm and leak review.
 
 On-site sector marker: Arapahoe County / ZIP 80128 sector — logged for map parity and ZIP-corridor verification.
 

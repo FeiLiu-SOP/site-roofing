@@ -6,20 +6,23 @@ state: "NY"
 zipCode: "11946"
 county: "Suffolk County"
 elevationFt: 20
-lat: 40.8700
-lng: -72.5200
+lat: 40.8805
+lng: -72.5500
 zipSample: ["11946"]
 zipCodes: ["11946"]
-localPaths: ["Suffolk County / elevation 20 ft band", "Suffolk County / primary ZIP 11946", "Suffolk County / ZIP 11946 sector", "Suffolk County / coords 40.8700, -72.5200"]
-zillowHomeValueUsd: 933953
+localPaths: ["Suffolk County / elevation 20 ft band", "Suffolk County / primary ZIP 11946", "Suffolk County / ZIP 11946 sector", "Suffolk County / coords 40.8805, -72.5500"]
 ---
 
-**Engineering Notice for Hampton Bays:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Hampton Bays:** Roof repair scope references 20 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Suffolk County.
 
+
+Qualified roof restoration crews serving Hampton Bays, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Hampton Bays, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Suffolk County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: log deck soundings near vents before tear-off is approved.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Is partial dry-in possible? In Hampton Bays, NY, yes—if slope and anchor points support safe tie-offs.
 
@@ -35,10 +38,8 @@ Risk flag: In Hampton Bays, NY, interior stains may track from HVAC condensate r
 
 Material note: In Hampton Bays, NY, algae-resistant granules may be specified for north-facing slopes.
 
-Field routing: wind uplift clip spacing paired with pipe boot manufacturer match near ZIP 11946.
+**Regional Infrastructure Brief:** Topographical load indicates ~20 ft across the Suffolk County area. Coordinates: 40.8805, -72.5500. ZIP sample: 11946. Regional routing note: Suffolk County traffic flow is balanced around ZIP 11946 service demand.
 
-**Regional Infrastructure Brief:** Topographical load indicates ~20 ft across the Suffolk County area. Coordinates: 40.8700, -72.5200. ZIP sample: 11946. Regional routing note: Suffolk County traffic flow is balanced around ZIP 11946 service demand.
-
-Coordinate-anchored dispatch note: center reference 40.8700, -72.5200 at elevation ~20 ft aligns with Suffolk County intake staging.
+Coordinate-anchored dispatch note: center reference 40.8805, -72.5500 at elevation ~20 ft aligns with Suffolk County intake staging.
 
 Service reference: NY-11946-62a3dc25

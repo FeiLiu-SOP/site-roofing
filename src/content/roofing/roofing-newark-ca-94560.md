@@ -11,11 +11,14 @@ lng: -122.0300
 zipSample: ["94560"]
 zipCodes: ["94560"]
 localPaths: ["Alameda County / ZIP 94560 sector", "Alameda County / elevation 13 ft band", "Alameda County / primary ZIP 94560", "Alameda County / coords 37.5200, -122.0300"]
-zillowHomeValueUsd: 1260679
 ---
 
-**Engineering Notice for Newark:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Newark:** Roof repair scope references 13 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Alameda County.
 
+
+Certified roof remediation crews serving Newark, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service restoration in Newark, CA, Alameda County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -33,9 +36,9 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Metal panel oil-canning in Newark, CA may signal clip spacing issues, not wind damage alone.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roofing service brief: valley metal gauge and counter-flashing reglet depth were cross-checked for the Newark intake packet.
+Roof restoration brief: valley metal gauge and counter-flashing reglet depth were cross-checked for the Newark shingle and leak scope.
 
 ZIP-corridor snapshot for Newark, CA: sampled sectors include 94560; county routing grid remains Alameda County.
 

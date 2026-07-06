@@ -11,11 +11,14 @@ lng: -87.9500
 zipSample: ["60491"]
 zipCodes: ["60491"]
 localPaths: ["Will County / primary ZIP 60491", "Will County / elevation 764 ft band", "Will County / coords 41.6000, -87.9500", "Will County / ZIP 60491 sector"]
-zillowHomeValueUsd: 501823
 ---
 
-**Engineering Notice for Homer Glen:** Structural loading calculated based on 764 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for Homer Glen:** Storm and emergency leak triage uses 764 ft elevation band with Will County service-area context for roofing repairs.
 
+
+When wind or hail hits Homer Glen, IL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work remediation in Homer Glen, IL, Will County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Parapet coping movement in Homer Glen, IL can channel water behind wall cladding.
 
@@ -30,8 +33,6 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
-
-roof service brief: wind uplift clip spacing and skylight curb height were cross-checked for the Homer Glen intake packet.
 
 On-site sector marker: Will County / coords 41.6000, -87.9500 — logged for map parity and ZIP-corridor verification.
 

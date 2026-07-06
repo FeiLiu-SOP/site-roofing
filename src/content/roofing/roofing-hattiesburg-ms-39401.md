@@ -11,11 +11,14 @@ lng: -89.3200
 zipSample: ["39403", "39407", "39401", "39406", "39402"]
 zipCodes: ["39402", "39403", "39406", "39407", "39401"]
 localPaths: ["Forrest County / primary ZIP 39401", "Forrest County / ZIP 39403 sector", "Forrest County / coords 31.3100, -89.3200", "Forrest County / elevation 223 ft band", "Forrest County / ZIP 39402 sector"]
-zillowHomeValueUsd: 145878
 ---
 
-**Engineering Notice for Hattiesburg:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Forrest County.
+**Engineering Notice for Hattiesburg:** Shingle, flashing, and ventilation review recorded at 223 ft AMSL context (Forrest County).
 
+
+Licensed roof restoration crews serving Hattiesburg, MS review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work service in Hattiesburg, MS, Forrest County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -27,15 +30,15 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Regulatory note: Hattiesburg, MS projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: In Hattiesburg, MS, algae-resistant granules may be specified for north-facing slopes.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-Request dry-in and restoration phases as separate line items. Serving ZIP Code: 39401.
+Request dry-in and service phases as separate line items. Serving ZIP Code: 39401.
 
-roof work brief: attic baffle spacing and soffit intake free area were cross-checked for the Hattiesburg intake packet.
+Roof restoration brief: attic baffle spacing and soffit intake free area were cross-checked for the Hattiesburg shingle and leak scope.
 
 On-site sector marker: Forrest County / ZIP 39407 sector — logged for map parity and ZIP-corridor verification.
 

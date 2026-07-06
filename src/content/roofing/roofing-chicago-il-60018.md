@@ -11,11 +11,14 @@ lng: -87.6900
 zipSample: ["60659", "60684", "60643", "60827", "60687"]
 zipCodes: ["60656", "60623", "60615", "60661", "60694", "60640", "60638", "60659", "60688", "60630", "60613", "60646"]
 localPaths: ["Cook County / ZIP 60659 sector", "Cook County / primary ZIP 60018", "Cook County / ZIP 60684 sector", "Cook County / ZIP 60827 sector", "Cook County / coords 41.8400, -87.6900"]
-zillowHomeValueUsd: 378039
 ---
 
-**Engineering Notice for Chicago:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Chicago:** Shingle, flashing, and ventilation review recorded at 594 ft AMSL context (Cook County).
 
+
+Qualified roof service crews serving Chicago, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Chicago, IL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Attic ventilation deficits in Chicago, IL can mimic roof leaks at ceiling penetrations.
 
@@ -29,9 +32,9 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Field routing: starter-strip setback paired with deck sheathing thickness near ZIP 60018.
+Local service note: starter-strip setback paired with deck sheathing thickness near ZIP 60018 for emergency roof service repairs.
 
 On-site sector marker: Cook County / primary ZIP 60018 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -77.2000
 zipSample: ["17013"]
 zipCodes: ["17013"]
 localPaths: ["Cumberland County / primary ZIP 17013", "Cumberland County / coords 40.2000, -77.2000", "Cumberland County / elevation 489 ft band", "Cumberland County / ZIP 17013 sector"]
-zillowHomeValueUsd: 285886
 ---
 
-**Engineering Notice for Carlisle:** Structural loading calculated based on 489 ft terrain assessment. Regional dispatch grid: Cumberland County.
+**Engineering Notice for Carlisle:** Shingle, flashing, and ventilation review recorded at 489 ft AMSL context (Cumberland County).
 
+
+Emergency roof restoration in Carlisle, PA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cumberland County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof remediation crews serving Carlisle, PA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -29,9 +32,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-Scope trace: deck sheathing thickness plus pipe boot manufacturer match referenced in Cumberland County county grid review.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 On-site sector marker: Cumberland County / primary ZIP 17013 — logged for map parity and ZIP-corridor verification.
 

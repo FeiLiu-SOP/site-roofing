@@ -11,13 +11,16 @@ lng: -87.2700
 zipSample: ["32507", "32506", "32505"]
 zipCodes: ["32507", "32506", "32505"]
 localPaths: ["Escambia County / ZIP 32507 sector", "Escambia County / ZIP 32506 sector", "Escambia County / elevation 98 ft band", "Escambia County / ZIP 32505 sector", "Escambia County / primary ZIP 32505"]
-zillowHomeValueUsd: 148969
 ---
 
-**Engineering Notice for West Pensacola:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Escambia County.
+**Engineering Notice for West Pensacola:** Shingle, flashing, and ventilation review recorded at 98 ft AMSL context (Escambia County).
 
 
-FAQ: When should permanent service start? In West Pensacola, FL, delayed dry-in can expand insulation and ceiling repairs.
+Licensed roof remediation crews serving West Pensacola, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in West Pensacola, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Escambia County should photograph ceiling stains and attic wet spots before crews arrive.
+
+FAQ: When should permanent restoration start? In West Pensacola, FL, delayed dry-in can expand insulation and ceiling repairs.
 
 Risk flag: Tile underlayment age in West Pensacola, FL can fail independently of visible tile cracks.
 
@@ -33,7 +36,7 @@ We coordinate West Pensacola, FL roof reviews with photo logs, moisture notes, a
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field routing: skylight curb height paired with ice-barrier lap sequence near ZIP 32505.
+Local service note: skylight curb height paired with ice-barrier lap sequence near ZIP 32505 for emergency roof work repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 32507/32505/32506.
 

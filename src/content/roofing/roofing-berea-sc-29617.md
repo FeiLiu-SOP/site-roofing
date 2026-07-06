@@ -11,11 +11,14 @@ lng: -82.4700
 zipSample: ["29611", "29617"]
 zipCodes: ["29611", "29617"]
 localPaths: ["Greenville County / primary ZIP 29617", "Greenville County / ZIP 29611 sector", "Greenville County / ZIP 29617 sector", "Greenville County / coords 34.8800, -82.4700", "Greenville County / elevation 1073 ft band"]
-zillowHomeValueUsd: 264633
 ---
 
-**Engineering Notice for Berea:** Structural loading calculated based on 1073 ft terrain assessment. Regional dispatch grid: Greenville County.
+**Engineering Notice for Berea:** Storm and emergency leak triage uses 1073 ft elevation band with Greenville County service-area context for roofing repairs.
 
+
+When wind or hail hits Berea, SC, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof remediation crews serving Berea, SC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Coastal humidity in Berea, SC can slow shingle seal-down after shoulder-season storms.
 
@@ -29,11 +32,11 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Regulatory note: Berea, SC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: In Berea, SC, algae-resistant granules may be specified for north-facing slopes.
 
-roof work brief: deck sheathing thickness and wind uplift clip spacing were cross-checked for the Berea intake packet.
+Roof service brief: deck sheathing thickness and wind uplift clip spacing were cross-checked for the Berea shingle and leak scope.
 
 On-site sector marker: Greenville County / coords 34.8800, -82.4700 — logged for map parity and ZIP-corridor verification.
 

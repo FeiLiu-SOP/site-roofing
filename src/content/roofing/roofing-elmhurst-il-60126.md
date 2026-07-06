@@ -11,11 +11,14 @@ lng: -87.9400
 zipSample: ["60126"]
 zipCodes: ["60126"]
 localPaths: ["DuPage County / elevation 705 ft band", "DuPage County / primary ZIP 60126", "DuPage County / coords 41.9000, -87.9400", "DuPage County / ZIP 60126 sector"]
-zillowHomeValueUsd: 611462
 ---
 
-**Engineering Notice for Elmhurst:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Elmhurst:** Shingle, flashing, and ventilation review recorded at 705 ft AMSL context (DuPage County).
 
+
+Emergency roof restoration in Elmhurst, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in DuPage County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof remediation crews serving Elmhurst, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: map ventilation intake and exhaust pairs for Elmhurst, IL attic runs.
 
@@ -33,9 +36,9 @@ Regulatory note: Elmhurst, IL projects may trigger ice-barrier upgrades when tea
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Our Elmhurst, IL dispatch packets reference county grid DuPage County and elevation band 705 ft.
+Our Elmhurst, IL restoration packets reference DuPage County and elevation band 705 ft for shingle and leak scope.
 
-roof service brief: valley metal gauge and synthetic underlayment slip were cross-checked for the Elmhurst intake packet.
+Roof remediation brief: valley metal gauge and synthetic underlayment slip were cross-checked for the Elmhurst shingle and leak scope.
 
 On-site sector marker: DuPage County / coords 41.9000, -87.9400 — logged for map parity and ZIP-corridor verification.
 

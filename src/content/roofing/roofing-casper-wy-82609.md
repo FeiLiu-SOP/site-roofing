@@ -11,11 +11,14 @@ lng: -106.3200
 zipSample: ["82604", "82609", "82605", "82601", "82602"]
 zipCodes: ["82604", "82605", "82602", "82609", "82601"]
 localPaths: ["Natrona County / primary ZIP 82609", "Natrona County / ZIP 82605 sector", "Natrona County / ZIP 82601 sector", "Natrona County / ZIP 82609 sector", "Natrona County / ZIP 82602 sector"]
-zillowHomeValueUsd: 349359
 ---
 
-**Engineering Notice for Casper:** Structural loading calculated based on 5171 ft terrain assessment. Regional dispatch grid: Natrona County.
+**Engineering Notice for Casper:** Storm and emergency leak triage uses 5171 ft elevation band with Natrona County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Casper, WY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Natrona County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof restoration crews serving Casper, WY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -25,15 +28,13 @@ Risk flag: In Casper, WY, interior stains may track from HVAC condensate rather 
 
 FAQ: How long can shingles wait after storm damage? In Casper, WY, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
 Coastal humidity in Casper, WY can slow shingle seal-down after shoulder-season storms.
 
 Step: note chimney cricket geometry before counter-flashing removal.
-
-Scope trace: wind uplift clip spacing plus soffit intake free area referenced in Natrona County county grid review.
 
 On-site sector marker: Natrona County / ZIP 82601 sector — logged for map parity and ZIP-corridor verification.
 

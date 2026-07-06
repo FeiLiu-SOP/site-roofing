@@ -11,11 +11,14 @@ lng: -117.0400
 zipSample: ["92399"]
 zipCodes: ["92399"]
 localPaths: ["San Bernardino County / ZIP 92399 sector", "San Bernardino County / primary ZIP 92399", "San Bernardino County / elevation 2628 ft band", "San Bernardino County / coords 34.0300, -117.0400"]
-zillowHomeValueUsd: 570005
 ---
 
-**Engineering Notice for Yucaipa:** Structural loading calculated based on 2628 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Yucaipa:** Roof repair scope references 2628 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Bernardino County.
 
+
+Storm damage roof work in Yucaipa, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Bernardino County clarifies whether restoration or replacement fits the damage pattern.
+
+Roofing service service in Yucaipa, CA, San Bernardino County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -33,7 +36,7 @@ Material note: In Yucaipa, CA, algae-resistant granules may be specified for nor
 
 Risk flag: Tile underlayment age in Yucaipa, CA can fail independently of visible tile cracks.
 
-Scope trace: counter-flashing reglet depth plus soffit intake free area referenced in San Bernardino County county grid review.
+Scope trace: counter-flashing reglet depth plus soffit intake free area referenced in San Bernardino County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 92399.
 

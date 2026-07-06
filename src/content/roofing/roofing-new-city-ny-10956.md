@@ -11,11 +11,14 @@ lng: -73.9900
 zipSample: ["10956"]
 zipCodes: ["10956"]
 localPaths: ["Rockland County / coords 41.1500, -73.9900", "Rockland County / ZIP 10956 sector", "Rockland County / primary ZIP 10956", "Rockland County / elevation 200 ft band"]
-zillowHomeValueUsd: 791536
 ---
 
-**Engineering Notice for New City:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Rockland County.
+**Engineering Notice for New City:** Roof repair scope references 200 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Rockland County.
 
+
+Storm damage roofing service in New City, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Rockland County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits New City, NY, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Code context: Ventilation ratios for New City, NY attics should be checked against current mechanical exhaust additions.
 
@@ -23,15 +26,13 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Low-slope sections in New City, NY need positive drainage before membrane repairs are scoped.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
-
-Scope trace: synthetic underlayment slip plus ridge cap nail schedule referenced in Rockland County county grid review.
 
 On-site sector marker: Rockland County / primary ZIP 10956 — logged for map parity and ZIP-corridor verification.
 

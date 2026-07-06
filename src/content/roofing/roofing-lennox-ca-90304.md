@@ -7,15 +7,18 @@ zipCode: "90304"
 county: "Los Angeles County"
 elevationFt: 82
 lat: 33.9400
-lng: -118.3600
+lng: -118.3300
 zipSample: ["90304"]
 zipCodes: ["90304"]
-localPaths: ["Los Angeles County / ZIP 90304 sector", "Los Angeles County / primary ZIP 90304", "Los Angeles County / coords 33.9400, -118.3600", "Los Angeles County / elevation 82 ft band"]
-zillowHomeValueUsd: 739029
+localPaths: ["Los Angeles County / ZIP 90304 sector", "Los Angeles County / primary ZIP 90304", "Los Angeles County / coords 33.9400, -118.3300", "Los Angeles County / elevation 82 ft band"]
 ---
 
-**Engineering Notice for Lennox:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Lennox:** Shingle, flashing, and ventilation review recorded at 82 ft AMSL context (Los Angeles County).
 
+
+Licensed roof remediation crews serving Lennox, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Lennox, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Los Angeles County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -32,8 +35,6 @@ Skylight curb flashing in Lennox, CA should be sequenced before ridge cap replac
 We coordinate Lennox, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
-
-Field routing: shingle exposure calibration paired with counter-flashing reglet depth near ZIP 90304.
 
 Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to Lennox, CA before niche-specific work begins.
 

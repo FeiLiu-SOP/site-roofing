@@ -11,11 +11,14 @@ lng: -83.8900
 zipSample: ["48706", "48708"]
 zipCodes: ["48706", "48708"]
 localPaths: ["Bay County / elevation 600 ft band", "Bay County / ZIP 48706 sector", "Bay County / coords 43.5900, -83.8900", "Bay County / primary ZIP 48706", "Bay County / ZIP 48708 sector"]
-zillowHomeValueUsd: 184986
 ---
 
-**Engineering Notice for Bay City:** Structural loading calculated based on 600 ft terrain assessment. Regional dispatch grid: Bay County.
+**Engineering Notice for Bay City:** Shingle, flashing, and ventilation review recorded at 600 ft AMSL context (Bay County).
 
+
+When wind or hail hits Bay City, MI, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Bay City, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Bay County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -23,7 +26,7 @@ Risk flag: In Bay City, MI, interior stains may track from HVAC condensate rathe
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -31,7 +34,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Tile and shingle mixes in Bay City, MI require different fastener patterns at transitions.
 
-roof service brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the Bay City intake packet.
+Roof service brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the Bay City shingle and leak scope.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Bay County. Reference elevation: 600 ft. Primary coordinates: 43.5900, -83.8900. ZIP sample: 48706, 48708. Service perimeter note: Coverage extends through Bay County with dispatch centered near ZIP 48706.
 

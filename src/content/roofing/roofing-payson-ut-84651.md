@@ -11,15 +11,18 @@ lng: -111.7400
 zipSample: ["84651"]
 zipCodes: ["84651"]
 localPaths: ["Utah County / ZIP 84651 sector", "Utah County / coords 40.0400, -111.7400", "Utah County / primary ZIP 84651", "Utah County / elevation 4678 ft band"]
-zillowHomeValueUsd: 518349
 ---
 
-**Engineering Notice for Payson:** Structural loading calculated based on 4678 ft terrain assessment. Regional dispatch grid: Utah County.
+**Engineering Notice for Payson:** Storm and emergency leak triage uses 4678 ft elevation band with Utah County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Payson, UT often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Utah County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Payson, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Utah County clarifies whether remediation or replacement fits the damage pattern.
 
 Wind-zone note: Payson, UT exposure class can change starter-strip and cap nail schedules.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Low-slope sections in Payson, UT need positive drainage before membrane repairs are scoped.
 
@@ -27,11 +30,9 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-FAQ: When should permanent remediation start? In Payson, UT, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Payson, UT, delayed dry-in can expand insulation and ceiling repairs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-roof work brief: attic baffle spacing and starter-strip setback were cross-checked for the Payson intake packet.
 
 Primary postal anchor 84651 with multi-ZIP overlap in Payson; field packets tag Utah County for county-grid reconciliation.
 

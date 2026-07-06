@@ -11,11 +11,14 @@ lng: -86.4600
 zipSample: ["36066", "36067", "36068"]
 zipCodes: ["36066", "36068", "36067"]
 localPaths: ["Autauga County / ZIP 36067 sector", "Autauga County / coords 32.4600, -86.4600", "Autauga County / elevation 315 ft band", "Autauga County / ZIP 36068 sector", "Autauga County / ZIP 36066 sector"]
-zillowHomeValueUsd: 288258
 ---
 
-**Engineering Notice for Prattville:** Structural loading calculated based on 315 ft terrain assessment. Regional dispatch grid: Autauga County.
+**Engineering Notice for Prattville:** Shingle, flashing, and ventilation review recorded at 315 ft AMSL context (Autauga County).
 
+
+Roof work remediation in Prattville, AL, Autauga County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Prattville, AL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Autauga County clarifies whether remediation or replacement fits the damage pattern.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -31,9 +34,9 @@ Regulatory note: Prattville, AL projects may trigger ice-barrier upgrades when t
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roof work brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Prattville intake packet.
+Roof restoration brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Prattville shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 32.4600, -86.4600 at elevation ~315 ft aligns with Autauga County intake staging.
 

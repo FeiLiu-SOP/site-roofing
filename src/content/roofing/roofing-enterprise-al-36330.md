@@ -11,11 +11,14 @@ lng: -85.8500
 zipSample: ["36331", "36330"]
 zipCodes: ["36330", "36331"]
 localPaths: ["Coffee County / coords 31.3300, -85.8500", "Coffee County / elevation 338 ft band", "Coffee County / ZIP 36331 sector", "Coffee County / primary ZIP 36330", "Coffee County / ZIP 36330 sector"]
-zillowHomeValueUsd: 203858
 ---
 
-**Engineering Notice for Enterprise:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Coffee County.
+**Engineering Notice for Enterprise:** Roof repair scope references 338 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Coffee County.
 
+
+Roof service restoration in Enterprise, AL, Coffee County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Enterprise, AL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -29,9 +32,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 FAQ: Is partial dry-in possible? In Enterprise, AL, yes—if slope and anchor points support safe tie-offs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Scope trace: synthetic underlayment slip plus deck sheathing thickness referenced in Coffee County county grid review.
+Scope trace: synthetic underlayment slip plus deck sheathing thickness referenced in Coffee County storm and leak review.
 
 On-site sector marker: Coffee County / ZIP 36330 sector — logged for map parity and ZIP-corridor verification.
 

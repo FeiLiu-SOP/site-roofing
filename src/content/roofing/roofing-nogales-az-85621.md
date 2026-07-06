@@ -11,11 +11,14 @@ lng: -110.9300
 zipSample: ["85621"]
 zipCodes: ["85621"]
 localPaths: ["Santa Cruz County / elevation 3770 ft band", "Santa Cruz County / ZIP 85621 sector", "Santa Cruz County / coords 31.3600, -110.9300", "Santa Cruz County / primary ZIP 85621"]
-zillowHomeValueUsd: 220983
 ---
 
-**Engineering Notice for Nogales:** Structural loading calculated based on 3770 ft terrain assessment. Regional dispatch grid: Santa Cruz County.
+**Engineering Notice for Nogales:** Roof repair scope references 3770 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Santa Cruz County.
 
+
+Roofing service restoration in Nogales, AZ, Santa Cruz County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof remediation crews serving Nogales, AZ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Regulatory note: Nogales, AZ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -31,7 +34,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Across Nogales, AZ, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field routing: wind uplift clip spacing paired with pipe boot manufacturer match near ZIP 85621.
+Local service note: wind uplift clip spacing paired with pipe boot manufacturer match near ZIP 85621 for emergency roof service repairs.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~3770 ft across the Santa Cruz County area. Coordinates: 31.3600, -110.9300. ZIP sample: 85621. Logistics priority: Serving residential sectors across Santa Cruz County and north-east ZIP 85621 grid.
 

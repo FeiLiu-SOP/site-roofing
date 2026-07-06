@@ -11,11 +11,14 @@ lng: -101.4800
 zipSample: ["79721", "79720"]
 zipCodes: ["79720", "79721"]
 localPaths: ["Howard County / primary ZIP 79720", "Howard County / ZIP 79720 sector", "Howard County / ZIP 79721 sector", "Howard County / coords 32.2400, -101.4800", "Howard County / elevation 2536 ft band"]
-zillowHomeValueUsd: 140889
 ---
 
-**Engineering Notice for Big Spring:** Structural loading calculated based on 2536 ft terrain assessment. Regional dispatch grid: Howard County.
+**Engineering Notice for Big Spring:** Shingle, flashing, and ventilation review recorded at 2536 ft AMSL context (Howard County).
 
+
+Qualified roof restoration crews serving Big Spring, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Big Spring, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Howard County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -25,7 +28,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Material note: In Big Spring, TX, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wind-zone note: Big Spring, TX exposure class can change starter-strip and cap nail schedules.
 
@@ -33,9 +36,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 FAQ: How long can shingles wait after storm damage? In Big Spring, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-roof work brief: ice-barrier lap sequence and attic baffle spacing were cross-checked for the Big Spring intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 79721/79720.
+Roof service brief: ice-barrier lap sequence and attic baffle spacing were cross-checked for the Big Spring shingle and leak scope.
 
 ZIP-corridor snapshot for Big Spring, TX: sampled sectors include 79721, 79720; county routing grid remains Howard County.
 

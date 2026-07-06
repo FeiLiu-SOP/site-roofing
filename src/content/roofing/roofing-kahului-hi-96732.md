@@ -11,17 +11,20 @@ lng: -156.4600
 zipSample: ["96732", "96733"]
 zipCodes: ["96732", "96733"]
 localPaths: ["Maui County / elevation 46 ft band", "Maui County / primary ZIP 96732", "Maui County / ZIP 96733 sector", "Maui County / ZIP 96732 sector", "Maui County / coords 20.8700, -156.4600"]
-zillowHomeValueUsd: 1034301
 ---
 
-**Engineering Notice for Kahului:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Maui County.
+**Engineering Notice for Kahului:** Shingle, flashing, and ventilation review recorded at 46 ft AMSL context (Maui County).
 
+
+Roofing service restoration in Kahului, HI, Maui County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Kahului, HI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Maui County clarifies whether remediation or replacement fits the damage pattern.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
 Risk flag: Tile underlayment age in Kahului, HI can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -33,7 +36,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Metal panel oil-canning in Kahului, HI may signal clip spacing issues, not wind damage alone.
 
-Scope trace: skylight curb height plus ridge cap nail schedule referenced in Maui County county grid review.
+Scope trace: skylight curb height plus ridge cap nail schedule referenced in Maui County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 96732/96733.
 

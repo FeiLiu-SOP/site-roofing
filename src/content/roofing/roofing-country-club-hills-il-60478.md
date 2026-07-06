@@ -11,11 +11,14 @@ lng: -87.7300
 zipSample: ["60478"]
 zipCodes: ["60478"]
 localPaths: ["Cook County / coords 41.5600, -87.7300", "Cook County / ZIP 60478 sector", "Cook County / elevation 689 ft band", "Cook County / primary ZIP 60478"]
-zillowHomeValueUsd: 200173
 ---
 
-**Engineering Notice for Country Club Hills:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Country Club Hills:** Shingle, flashing, and ventilation review recorded at 689 ft AMSL context (Cook County).
 
+
+Certified roof remediation crews serving Country Club Hills, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Country Club Hills, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cook County clarifies whether remediation or replacement fits the damage pattern.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -35,9 +38,7 @@ Code context: Ventilation ratios for Country Club Hills, IL attics should be che
 
 Step: log deck soundings near vents before tear-off is approved.
 
-Field routing: valley metal gauge paired with soffit intake free area near ZIP 60478.
-
-Field note: Valley debris and granule loss noted for ZIP 60478.
+Local service note: valley metal gauge paired with soffit intake free area near ZIP 60478 for emergency roofing service repairs.
 
 On-site sector marker: Cook County / primary ZIP 60478 — logged for map parity and ZIP-corridor verification.
 

@@ -11,15 +11,18 @@ lng: -121.4500
 zipSample: ["95377", "95304", "95376"]
 zipCodes: ["95376", "95304", "95377"]
 localPaths: ["San Joaquin County / elevation 59 ft band", "San Joaquin County / ZIP 95377 sector", "San Joaquin County / primary ZIP 95377", "San Joaquin County / ZIP 95376 sector", "San Joaquin County / coords 37.7300, -121.4500"]
-zillowHomeValueUsd: 774394
 ---
 
-**Engineering Notice for Tracy:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: San Joaquin County.
+**Engineering Notice for Tracy:** Storm and emergency leak triage uses 59 ft elevation band with San Joaquin County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Tracy, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in San Joaquin County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Tracy, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Joaquin County clarifies whether remediation or replacement fits the damage pattern.
 
 Wind-zone note: Tracy, CA exposure class can change starter-strip and cap nail schedules.
 
-Our Tracy, CA dispatch packets reference county grid San Joaquin County and elevation band 59 ft.
+Our Tracy, CA remediation packets reference San Joaquin County and elevation band 59 ft for shingle and leak scope.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -34,8 +37,6 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 Risk flag: Tile underlayment age in Tracy, CA can fail independently of visible tile cracks.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
-
-Scope trace: skylight curb height plus counter-flashing reglet depth referenced in San Joaquin County county grid review.
 
 On-site sector marker: San Joaquin County / ZIP 95304 sector — logged for map parity and ZIP-corridor verification.
 

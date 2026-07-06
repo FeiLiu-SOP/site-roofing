@@ -11,11 +11,14 @@ lng: -90.7100
 zipSample: ["52001", "52099", "52002", "52004", "52003"]
 zipCodes: ["52003", "52002", "52001", "52004", "52099"]
 localPaths: ["Dubuque County / ZIP 52099 sector", "Dubuque County / elevation 820 ft band", "Dubuque County / ZIP 52003 sector", "Dubuque County / ZIP 52001 sector", "Dubuque County / ZIP 52002 sector"]
-zillowHomeValueUsd: 339226
 ---
 
-**Engineering Notice for Dubuque:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Dubuque County.
+**Engineering Notice for Dubuque:** Roof repair scope references 820 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Dubuque County.
 
+
+Storm damage roof work in Dubuque, IA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Dubuque County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Dubuque, IA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 We coordinate Dubuque, IA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -31,7 +34,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Regulatory note: Dubuque, IA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field routing: soffit intake free area paired with shingle exposure calibration near ZIP 52002.
+Local service note: soffit intake free area paired with shingle exposure calibration near ZIP 52002 for emergency roof service repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 52099/52003/52002.
 

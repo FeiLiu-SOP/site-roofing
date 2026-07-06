@@ -11,11 +11,14 @@ lng: -111.9000
 zipSample: ["84190", "84165", "84119", "84115"]
 zipCodes: ["84119", "84115", "84165", "84190"]
 localPaths: ["Salt Lake County / ZIP 84165 sector", "Salt Lake County / coords 40.7100, -111.9000", "Salt Lake County / ZIP 84190 sector", "Salt Lake County / primary ZIP 84119", "Salt Lake County / ZIP 84115 sector"]
-zillowHomeValueUsd: 437633
 ---
 
-**Engineering Notice for South Salt Lake:** Structural loading calculated based on 4262 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for South Salt Lake:** Shingle, flashing, and ventilation review recorded at 4262 ft AMSL context (Salt Lake County).
 
+
+Storm damage roof work in South Salt Lake, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Salt Lake County clarifies whether service or replacement fits the damage pattern.
+
+Roof service service in South Salt Lake, UT, Salt Lake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -35,9 +38,7 @@ Regulatory note: South Salt Lake, UT projects may trigger ice-barrier upgrades w
 
 FAQ: How long can shingles wait after storm damage? In South Salt Lake, UT, delayed dry-in can expand insulation and ceiling repairs.
 
-roof work brief: ice-barrier lap sequence and starter-strip setback were cross-checked for the South Salt Lake intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 84165/84115/84190.
+Roof restoration brief: ice-barrier lap sequence and starter-strip setback were cross-checked for the South Salt Lake shingle and leak scope.
 
 On-site sector marker: Salt Lake County / primary ZIP 84119 — logged for map parity and ZIP-corridor verification.
 

@@ -11,15 +11,18 @@ lng: -77.2300
 zipSample: ["22152"]
 zipCodes: ["22152"]
 localPaths: ["Fairfax County / elevation 295 ft band", "Fairfax County / primary ZIP 22152", "Fairfax County / coords 38.7800, -77.2300", "Fairfax County / ZIP 22152 sector"]
-zillowHomeValueUsd: 697901
 ---
 
-**Engineering Notice for West Springfield:** Structural loading calculated based on 295 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for West Springfield:** Shingle, flashing, and ventilation review recorded at 295 ft AMSL context (Fairfax County).
 
+
+Qualified roof restoration crews serving West Springfield, VA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in West Springfield, VA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Fairfax County clarifies whether remediation or replacement fits the damage pattern.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -33,9 +36,7 @@ Step: compare shingle manufacturer wind-zone ratings for West Springfield, VA ex
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field routing: counter-flashing reglet depth paired with deck sheathing thickness near ZIP 22152.
-
-Field note: Valley debris and granule loss noted for ZIP 22152.
+Local service note: counter-flashing reglet depth paired with deck sheathing thickness near ZIP 22152 for emergency roof work repairs.
 
 On-site sector marker: Fairfax County / elevation 295 ft band — logged for map parity and ZIP-corridor verification.
 

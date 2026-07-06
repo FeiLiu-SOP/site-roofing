@@ -11,13 +11,16 @@ lng: -73.7000
 zipSample: ["11002", "11001"]
 zipCodes: ["11001", "11002"]
 localPaths: ["Nassau County / ZIP 11001 sector", "Nassau County / elevation 92 ft band", "Nassau County / primary ZIP 11001", "Nassau County / ZIP 11002 sector", "Nassau County / coords 40.7200, -73.7000"]
-zillowHomeValueUsd: 850861
 ---
 
-**Engineering Notice for Floral Park:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Floral Park:** Shingle, flashing, and ventilation review recorded at 92 ft AMSL context (Nassau County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Licensed roof remediation crews serving Floral Park, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Floral Park, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Nassau County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wind-zone note: Floral Park, NY exposure class can change starter-strip and cap nail schedules.
 
@@ -31,7 +34,7 @@ Valley metal in Floral Park, NY should be reviewed whenever granule loss tracks 
 
 FAQ: Is partial dry-in possible? In Floral Park, NY, yes—if slope and anchor points support safe tie-offs.
 
-roofing service brief: ice-barrier lap sequence and starter-strip setback were cross-checked for the Floral Park intake packet.
+Roof remediation brief: ice-barrier lap sequence and starter-strip setback were cross-checked for the Floral Park shingle and leak scope.
 
 ZIP-corridor snapshot for Floral Park, NY: sampled sectors include 11001, 11002; county routing grid remains Nassau County.
 

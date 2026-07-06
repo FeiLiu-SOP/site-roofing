@@ -11,11 +11,14 @@ lng: -88.3600
 zipSample: ["61938"]
 zipCodes: ["61938"]
 localPaths: ["Coles County / elevation 728 ft band", "Coles County / primary ZIP 61938", "Coles County / coords 39.4800, -88.3600", "Coles County / ZIP 61938 sector"]
-zillowHomeValueUsd: 122422
 ---
 
-**Engineering Notice for Mattoon:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Coles County.
+**Engineering Notice for Mattoon:** Shingle, flashing, and ventilation review recorded at 728 ft AMSL context (Coles County).
 
+
+Licensed roof service crews serving Mattoon, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Mattoon, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Coles County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Valley metal in Mattoon, IL should be reviewed whenever granule loss tracks the water line.
 
@@ -27,7 +30,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Risk flag: Tile underlayment age in Mattoon, IL can fail independently of visible tile cracks.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -35,7 +38,7 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Scope trace: valley metal gauge plus soffit intake free area referenced in Coles County county grid review.
+Scope trace: valley metal gauge plus soffit intake free area referenced in Coles County storm and leak review.
 
 On-site sector marker: Coles County / coords 39.4800, -88.3600 — logged for map parity and ZIP-corridor verification.
 

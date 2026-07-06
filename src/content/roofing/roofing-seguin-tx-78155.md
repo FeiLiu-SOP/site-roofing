@@ -11,17 +11,20 @@ lng: -97.9700
 zipSample: ["78156", "78115", "78155"]
 zipCodes: ["78155", "78156", "78115"]
 localPaths: ["Guadalupe County / coords 29.5900, -97.9700", "Guadalupe County / elevation 571 ft band", "Guadalupe County / ZIP 78115 sector", "Guadalupe County / ZIP 78155 sector", "Guadalupe County / ZIP 78156 sector"]
-zillowHomeValueUsd: 272078
 ---
 
-**Engineering Notice for Seguin:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Guadalupe County.
+**Engineering Notice for Seguin:** Storm and emergency leak triage uses 571 ft elevation band with Guadalupe County service-area context for roofing repairs.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Roof work restoration in Seguin, TX, Guadalupe County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Seguin, TX, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Our Seguin, TX dispatch packets reference county grid Guadalupe County and elevation band 571 ft.
+Our Seguin, TX restoration packets reference Guadalupe County and elevation band 571 ft for shingle and leak scope.
 
 TPO seam welds in Seguin, TX commercial sections need probe tests after freeze events.
 
@@ -35,7 +38,7 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field routing: deck sheathing thickness paired with drip-edge metal profile near ZIP 78155.
+Local service note: deck sheathing thickness paired with drip-edge metal profile near ZIP 78155 for emergency roof work repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 78115/78156/78155.
 

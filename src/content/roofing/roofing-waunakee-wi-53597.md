@@ -11,15 +11,18 @@ lng: -89.4400
 zipSample: ["53597"]
 zipCodes: ["53597"]
 localPaths: ["Dane County / coords 43.1800, -89.4400", "Dane County / ZIP 53597 sector", "Dane County / elevation 899 ft band", "Dane County / primary ZIP 53597"]
-zillowHomeValueUsd: 597403
 ---
 
-**Engineering Notice for Waunakee:** Structural loading calculated based on 899 ft terrain assessment. Regional dispatch grid: Dane County.
+**Engineering Notice for Waunakee:** Roof repair scope references 899 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Dane County.
 
+
+Storm damage roof service in Waunakee, WI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Dane County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Waunakee, WI, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wood shake courses in Waunakee, WI require skip-spacing rules at valleys.
 
@@ -35,7 +38,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Regulatory note: Waunakee, WI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-roof service brief: ice-barrier lap sequence and skylight curb height were cross-checked for the Waunakee intake packet.
+Roof service brief: ice-barrier lap sequence and skylight curb height were cross-checked for the Waunakee shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 53597.
 

@@ -11,11 +11,14 @@ lng: -122.3400
 zipSample: ["94801", "94802", "94806", "94807", "94805"]
 zipCodes: ["94803", "94850", "94530", "94808", "94807", "94806", "94801", "94804", "94802", "94805"]
 localPaths: ["Contra Costa County / coords 37.9500, -122.3400", "Contra Costa County / ZIP 94801 sector", "Contra Costa County / elevation 75 ft band", "Contra Costa County / primary ZIP 94530", "Contra Costa County / ZIP 94802 sector"]
-zillowHomeValueUsd: 1139694
 ---
 
-**Engineering Notice for Richmond:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Richmond:** Roof repair scope references 75 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Contra Costa County.
 
+
+Licensed roof remediation crews serving Richmond, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Richmond, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Contra Costa County clarifies whether restoration or replacement fits the damage pattern.
 
 TPO seam welds in Richmond, CA commercial sections need probe tests after freeze events.
 
@@ -31,11 +34,9 @@ Risk flag: Tile underlayment age in Richmond, CA can fail independently of visib
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
-
-roofing service brief: chimney cricket slope and ice-barrier lap sequence were cross-checked for the Richmond intake packet.
 
 On-site sector marker: Contra Costa County / ZIP 94807 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -82.4200
 zipSample: ["43055", "43093", "43058"]
 zipCodes: ["43093", "43055", "43058"]
 localPaths: ["Licking County / ZIP 43058 sector", "Licking County / coords 40.0700, -82.4200", "Licking County / ZIP 43055 sector", "Licking County / ZIP 43093 sector", "Licking County / primary ZIP 43055"]
-zillowHomeValueUsd: 245646
 ---
 
-**Engineering Notice for Newark:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Licking County.
+**Engineering Notice for Newark:** Storm and emergency leak triage uses 856 ft elevation band with Licking County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Emergency roof restoration in Newark, OH often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Licking County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Newark, OH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Licking County clarifies whether service or replacement fits the damage pattern.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -31,7 +34,7 @@ Low-slope sections in Newark, OH need positive drainage before membrane repairs 
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-roof work brief: soffit intake free area and ice-barrier lap sequence were cross-checked for the Newark intake packet.
+Roof service brief: soffit intake free area and ice-barrier lap sequence were cross-checked for the Newark shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 40.0700, -82.4200 at elevation ~856 ft aligns with Licking County intake staging.
 

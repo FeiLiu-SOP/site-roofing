@@ -11,13 +11,16 @@ lng: -85.6500
 zipSample: ["40223", "40023", "40218", "40241", "40018"]
 zipCodes: ["40059", "40219", "40242", "40027", "40241", "40272", "40261", "40213", "40245", "40207", "40214", "40291"]
 localPaths: ["Jefferson County / ZIP 40223 sector", "Jefferson County / ZIP 40218 sector", "Jefferson County / primary ZIP 40245", "Jefferson County / ZIP 40023 sector", "Jefferson County / ZIP 40241 sector"]
-zillowHomeValueUsd: 480839
 ---
 
-**Engineering Notice for Louisville:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Louisville:** Storm and emergency leak triage uses 571 ft elevation band with Jefferson County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+When wind or hail hits Louisville, KY, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof remediation in Louisville, KY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Jefferson County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -31,7 +34,7 @@ FAQ: Can you tarp only part of the roof? In Louisville, KY, yes—if slope and a
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-Field routing: valley metal gauge paired with synthetic underlayment slip near ZIP 40245.
+Local service note: valley metal gauge paired with synthetic underlayment slip near ZIP 40245 for emergency roof service repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 40207/40209/40216.
 

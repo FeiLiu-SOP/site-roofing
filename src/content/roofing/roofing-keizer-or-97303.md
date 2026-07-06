@@ -11,11 +11,14 @@ lng: -123.0200
 zipSample: ["97307", "97303"]
 zipCodes: ["97307", "97303"]
 localPaths: ["Marion County / elevation 138 ft band", "Marion County / ZIP 97303 sector", "Marion County / coords 45.0000, -123.0200", "Marion County / ZIP 97307 sector", "Marion County / primary ZIP 97303"]
-zillowHomeValueUsd: 450625
 ---
 
-**Engineering Notice for Keizer:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Keizer:** Roof repair scope references 138 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Marion County.
 
+
+When wind or hail hits Keizer, OR, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof service crews serving Keizer, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: How long can shingles wait after storm damage? In Keizer, OR, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -27,13 +30,11 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Material note: In Keizer, OR, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Metal panel oil-canning in Keizer, OR may signal clip spacing issues, not wind damage alone.
-
-Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in Marion County county grid review.
 
 Regional mesh label Marion County: moisture and logistics baselines are keyed to Keizer, OR before niche-specific work begins.
 

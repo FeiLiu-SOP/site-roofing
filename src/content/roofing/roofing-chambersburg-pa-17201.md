@@ -11,11 +11,14 @@ lng: -77.6600
 zipSample: ["17201"]
 zipCodes: ["17201"]
 localPaths: ["Franklin County / coords 39.9300, -77.6600", "Franklin County / ZIP 17201 sector", "Franklin County / elevation 633 ft band", "Franklin County / primary ZIP 17201"]
-zillowHomeValueUsd: 252502
 ---
 
-**Engineering Notice for Chambersburg:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Chambersburg:** Roof repair scope references 633 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Franklin County.
 
+
+Emergency roof restoration in Chambersburg, PA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Franklin County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service service in Chambersburg, PA, Franklin County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -29,9 +32,7 @@ Wind-zone note: Chambersburg, PA exposure class can change starter-strip and cap
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-Scope trace: shingle exposure calibration plus counter-flashing reglet depth referenced in Franklin County county grid review.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 On-site sector marker: Franklin County / ZIP 17201 sector — logged for map parity and ZIP-corridor verification.
 

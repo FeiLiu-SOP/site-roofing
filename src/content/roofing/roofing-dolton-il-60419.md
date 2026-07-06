@@ -11,15 +11,18 @@ lng: -87.6000
 zipSample: ["60419"]
 zipCodes: ["60419"]
 localPaths: ["Cook County / coords 41.6300, -87.6000", "Cook County / ZIP 60419 sector", "Cook County / elevation 620 ft band", "Cook County / primary ZIP 60419"]
-zillowHomeValueUsd: 150073
 ---
 
-**Engineering Notice for Dolton:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Dolton:** Storm and emergency leak triage uses 620 ft elevation band with Cook County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving Dolton, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Dolton, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cook County clarifies whether remediation or replacement fits the damage pattern.
 
 FAQ: How long can shingles wait after storm damage? In Dolton, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Parapet coping movement in Dolton, IL can channel water behind wall cladding.
 
@@ -31,9 +34,7 @@ Risk flag: Tile underlayment age in Dolton, IL can fail independently of visible
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-roofing service brief: ridge cap nail schedule and valley metal gauge were cross-checked for the Dolton intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 60419.
+Roof service brief: ridge cap nail schedule and valley metal gauge were cross-checked for the Dolton shingle and leak scope.
 
 On-site sector marker: Cook County / ZIP 60419 sector — logged for map parity and ZIP-corridor verification.
 

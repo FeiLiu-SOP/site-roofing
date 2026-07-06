@@ -11,11 +11,14 @@ lng: -121.1800
 zipSample: ["97058"]
 zipCodes: ["97058"]
 localPaths: ["Wasco County / elevation 75 ft band", "Wasco County / primary ZIP 97058", "Wasco County / ZIP 97058 sector", "Wasco County / coords 45.6100, -121.1800"]
-zillowHomeValueUsd: 388201
 ---
 
-**Engineering Notice for The Dalles:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Wasco County.
+**Engineering Notice for The Dalles:** Shingle, flashing, and ventilation review recorded at 75 ft AMSL context (Wasco County).
 
+
+Storm damage roof work in The Dalles, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Wasco County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits The Dalles, OR, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 TPO seam welds in The Dalles, OR commercial sections need probe tests after freeze events.
 
@@ -23,15 +26,15 @@ Step: separate emergency tarp scope from permanent service line items.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: When should permanent service start? In The Dalles, OR, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In The Dalles, OR, delayed dry-in can expand insulation and ceiling repairs.
 
 Code context: Ventilation ratios for The Dalles, OR attics should be checked against current mechanical exhaust additions.
 
-Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Wasco County county grid review.
+Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Wasco County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 97058.
 

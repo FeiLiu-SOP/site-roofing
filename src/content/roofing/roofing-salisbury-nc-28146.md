@@ -11,11 +11,14 @@ lng: -80.4900
 zipSample: ["28146", "28144", "28147", "28145"]
 zipCodes: ["28146", "28145", "28144", "28147"]
 localPaths: ["Rowan County / ZIP 28146 sector", "Rowan County / ZIP 28144 sector", "Rowan County / coords 35.6700, -80.4900", "Rowan County / primary ZIP 28146", "Rowan County / elevation 715 ft band"]
-zillowHomeValueUsd: 302610
 ---
 
-**Engineering Notice for Salisbury:** Structural loading calculated based on 715 ft terrain assessment. Regional dispatch grid: Rowan County.
+**Engineering Notice for Salisbury:** Roof repair scope references 715 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Rowan County.
 
+
+Storm damage roofing service in Salisbury, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Rowan County clarifies whether service or replacement fits the damage pattern.
+
+Roof service restoration in Salisbury, NC, Rowan County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -25,15 +28,13 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Metal panel oil-canning in Salisbury, NC may signal clip spacing issues, not wind damage alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Step: stage tear-off debris paths away from landscape drains.
-
-Scope trace: pipe boot manufacturer match plus skylight curb height referenced in Rowan County county grid review.
 
 Primary postal anchor 28146 with multi-ZIP overlap in Salisbury; field packets tag Rowan County for county-grid reconciliation.
 

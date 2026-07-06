@@ -11,11 +11,14 @@ lng: -97.6000
 zipSample: ["78660", "78691"]
 zipCodes: ["78691", "78660"]
 localPaths: ["Travis County / ZIP 78691 sector", "Travis County / coords 30.4500, -97.6000", "Travis County / elevation 696 ft band", "Travis County / ZIP 78660 sector", "Travis County / primary ZIP 78660"]
-zillowHomeValueUsd: 378266
 ---
 
-**Engineering Notice for Pflugerville:** Structural loading calculated based on 696 ft terrain assessment. Regional dispatch grid: Travis County.
+**Engineering Notice for Pflugerville:** Roof repair scope references 696 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Travis County.
 
+
+Emergency roof restoration in Pflugerville, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Travis County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof service crews serving Pflugerville, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -27,11 +30,11 @@ Code context: Ventilation ratios for Pflugerville, TX attics should be checked a
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roof work brief: valley metal gauge and attic baffle spacing were cross-checked for the Pflugerville intake packet.
+Roof restoration brief: valley metal gauge and attic baffle spacing were cross-checked for the Pflugerville shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 30.4500, -97.6000 at elevation ~696 ft aligns with Travis County intake staging.
 

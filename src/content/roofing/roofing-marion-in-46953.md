@@ -11,13 +11,16 @@ lng: -85.6600
 zipSample: ["46952", "46953"]
 zipCodes: ["46953", "46952"]
 localPaths: ["Grant County / coords 40.5500, -85.6600", "Grant County / ZIP 46952 sector", "Grant County / primary ZIP 46953", "Grant County / elevation 817 ft band", "Grant County / ZIP 46953 sector"]
-zillowHomeValueUsd: 107761
 ---
 
-**Engineering Notice for Marion:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Grant County.
+**Engineering Notice for Marion:** Shingle, flashing, and ventilation review recorded at 817 ft AMSL context (Grant County).
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Emergency roof remediation in Marion, IN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Grant County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service restoration in Marion, IN, Grant County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Material note: In Marion, IN, algae-resistant granules may be specified for north-facing slopes.
 
@@ -34,8 +37,6 @@ Risk flag: In Marion, IN, interior stains may track from HVAC condensate rather 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
-
-Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Grant County county grid review.
 
 On-site sector marker: Grant County / ZIP 46952 sector — logged for map parity and ZIP-corridor verification.
 

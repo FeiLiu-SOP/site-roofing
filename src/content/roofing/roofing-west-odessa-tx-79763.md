@@ -11,15 +11,18 @@ lng: -102.5000
 zipSample: ["79763", "79764", "79760"]
 zipCodes: ["79764", "79760", "79763"]
 localPaths: ["Ector County / ZIP 79760 sector", "Ector County / coords 31.8400, -102.5000", "Ector County / ZIP 79763 sector", "Ector County / ZIP 79764 sector", "Ector County / primary ZIP 79763"]
-zillowHomeValueUsd: 215087
 ---
 
-**Engineering Notice for West Odessa:** Structural loading calculated based on 2963 ft terrain assessment. Regional dispatch grid: Ector County.
+**Engineering Notice for West Odessa:** Storm and emergency leak triage uses 2963 ft elevation band with Ector County service-area context for roofing repairs.
 
+
+Emergency roof remediation in West Odessa, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Ector County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits West Odessa, TX, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -31,9 +34,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 FAQ: Can you tarp only part of the roof? In West Odessa, TX, yes—if slope and anchor points support safe tie-offs.
 
-roofing service brief: ridge cap nail schedule and chimney cricket slope were cross-checked for the West Odessa intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 79760/79763/79764.
+Roof service brief: ridge cap nail schedule and chimney cricket slope were cross-checked for the West Odessa shingle and leak scope.
 
 On-site sector marker: Ector County / ZIP 79764 sector — logged for map parity and ZIP-corridor verification.
 

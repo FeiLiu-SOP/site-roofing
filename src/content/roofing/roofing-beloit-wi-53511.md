@@ -11,11 +11,14 @@ lng: -89.0200
 zipSample: ["53512", "53511"]
 zipCodes: ["53511", "53512"]
 localPaths: ["Rock County / elevation 804 ft band", "Rock County / ZIP 53512 sector", "Rock County / ZIP 53511 sector", "Rock County / primary ZIP 53511", "Rock County / coords 42.5200, -89.0200"]
-zillowHomeValueUsd: 210177
 ---
 
-**Engineering Notice for Beloit:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Rock County.
+**Engineering Notice for Beloit:** Roof repair scope references 804 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Rock County.
 
+
+Qualified roof restoration crews serving Beloit, WI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service service in Beloit, WI, Rock County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -33,9 +36,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Coastal humidity in Beloit, WI can slow shingle seal-down after shoulder-season storms.
 
-roof service brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Beloit intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 53512/53511.
+Roof service brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Beloit shingle and leak scope.
 
 On-site sector marker: Rock County / elevation 804 ft band — logged for map parity and ZIP-corridor verification.
 

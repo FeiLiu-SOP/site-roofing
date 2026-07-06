@@ -11,11 +11,14 @@ lng: -82.5500
 zipSample: ["37664", "37665", "37662", "37663", "37660"]
 zipCodes: ["37669", "37660", "37664", "37665", "37663", "37662"]
 localPaths: ["Sullivan County / coords 36.5200, -82.5500", "Sullivan County / ZIP 37662 sector", "Sullivan County / elevation 1201 ft band", "Sullivan County / ZIP 37665 sector", "Sullivan County / ZIP 37660 sector"]
-zillowHomeValueUsd: 167106
 ---
 
-**Engineering Notice for Kingsport:** Structural loading calculated based on 1201 ft terrain assessment. Regional dispatch grid: Sullivan County.
+**Engineering Notice for Kingsport:** Shingle, flashing, and ventilation review recorded at 1201 ft AMSL context (Sullivan County).
 
+
+Emergency roof remediation in Kingsport, TN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Sullivan County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service restoration in Kingsport, TN, Sullivan County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -27,7 +30,7 @@ Step: log deck soundings near vents before tear-off is approved.
 
 Risk flag: Tile underlayment age in Kingsport, TN can fail independently of visible tile cracks.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tile and shingle mixes in Kingsport, TN require different fastener patterns at transitions.
 
@@ -35,9 +38,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 FAQ: Can you tarp only part of the roof? In Kingsport, TN, yes—if slope and anchor points support safe tie-offs.
 
-Scope trace: starter-strip setback plus counter-flashing reglet depth referenced in Sullivan County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 37664/37665/37663.
+Scope trace: starter-strip setback plus counter-flashing reglet depth referenced in Sullivan County storm and leak review.
 
 On-site sector marker: Sullivan County / elevation 1201 ft band — logged for map parity and ZIP-corridor verification.
 

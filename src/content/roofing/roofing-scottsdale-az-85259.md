@@ -11,11 +11,14 @@ lng: -111.8700
 zipSample: ["85266", "85257", "85255", "85252", "85250"]
 zipCodes: ["85258", "85252", "85260", "85262", "85259", "85254", "85255", "85257", "85250", "85266", "85271", "85251"]
 localPaths: ["Maricopa County / ZIP 85257 sector", "Maricopa County / coords 33.6900, -111.8700", "Maricopa County / elevation 2156 ft band", "Maricopa County / ZIP 85266 sector", "Maricopa County / primary ZIP 85259"]
-zillowHomeValueUsd: 1143703
 ---
 
-**Engineering Notice for Scottsdale:** Structural loading calculated based on 2156 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Scottsdale:** Shingle, flashing, and ventilation review recorded at 2156 ft AMSL context (Maricopa County).
 
+
+Emergency roof restoration in Scottsdale, AZ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Maricopa County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work restoration in Scottsdale, AZ, Maricopa County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 85259.
 
@@ -29,11 +32,9 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roof work brief: attic baffle spacing and drip-edge metal profile were cross-checked for the Scottsdale intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 85267/85259/85254.
+Roof service brief: attic baffle spacing and drip-edge metal profile were cross-checked for the Scottsdale shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 33.6900, -111.8700 at elevation ~2156 ft aligns with Maricopa County intake staging.
 

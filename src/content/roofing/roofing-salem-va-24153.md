@@ -11,11 +11,14 @@ lng: -80.0600
 zipSample: ["24155", "24153", "24157"]
 zipCodes: ["24153", "24157", "24155"]
 localPaths: ["Salem County / coords 37.2900, -80.0600", "Salem County / ZIP 24155 sector", "Salem County / primary ZIP 24153", "Salem County / ZIP 24153 sector", "Salem County / elevation 1017 ft band"]
-zillowHomeValueUsd: 305142
 ---
 
-**Engineering Notice for Salem:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: Salem County.
+**Engineering Notice for Salem:** Storm and emergency leak triage uses 1017 ft elevation band with Salem County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Salem, VA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Salem County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof service in Salem, VA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Salem County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Tile underlayment age in Salem, VA can fail independently of visible tile cracks.
 
@@ -29,11 +32,9 @@ FAQ: Is partial dry-in possible? In Salem, VA, yes—if slope and anchor points 
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: map ventilation intake and exhaust pairs for Salem, VA attic runs.
-
-Scope trace: soffit intake free area plus attic baffle spacing referenced in Salem County county grid review.
 
 ZIP-corridor snapshot for Salem, VA: sampled sectors include 24153, 24157, 24155; county routing grid remains Salem County.
 

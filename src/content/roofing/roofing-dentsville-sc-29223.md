@@ -11,13 +11,16 @@ lng: -80.9500
 zipSample: ["29223"]
 zipCodes: ["29223"]
 localPaths: ["Richland County / ZIP 29223 sector", "Richland County / elevation 262 ft band", "Richland County / coords 34.0800, -80.9500", "Richland County / primary ZIP 29223"]
-zillowHomeValueUsd: 221568
 ---
 
-**Engineering Notice for Dentsville:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Richland County.
+**Engineering Notice for Dentsville:** Storm and emergency leak triage uses 262 ft elevation band with Richland County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Roofing service service in Dentsville, SC, Richland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof restoration crews serving Dentsville, SC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -34,8 +37,6 @@ Risk flag: Tile underlayment age in Dentsville, SC can fail independently of vis
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Step: confirm drip-edge continuity before shingle courses restart.
-
-Scope trace: skylight curb height plus ridge cap nail schedule referenced in Richland County county grid review.
 
 On-site sector marker: Richland County / primary ZIP 29223 — logged for map parity and ZIP-corridor verification.
 

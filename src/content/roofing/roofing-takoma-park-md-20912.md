@@ -11,13 +11,16 @@ lng: -77.0000
 zipSample: ["20912", "20913"]
 zipCodes: ["20913", "20912"]
 localPaths: ["Montgomery County / primary ZIP 20912", "Montgomery County / elevation 259 ft band", "Montgomery County / ZIP 20913 sector", "Montgomery County / ZIP 20912 sector", "Montgomery County / coords 38.9800, -77.0000"]
-zillowHomeValueUsd: 688454
 ---
 
-**Engineering Notice for Takoma Park:** Structural loading calculated based on 259 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Takoma Park:** Roof repair scope references 259 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Montgomery County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Emergency roof service in Takoma Park, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Montgomery County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Takoma Park, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Montgomery County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Tile underlayment age in Takoma Park, MD can fail independently of visible tile cracks.
 
@@ -35,7 +38,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field routing: counter-flashing reglet depth paired with chimney cricket slope near ZIP 20912.
+Local service note: counter-flashing reglet depth paired with chimney cricket slope near ZIP 20912 for emergency roof service repairs.
 
 On-site sector marker: Montgomery County / ZIP 20912 sector — logged for map parity and ZIP-corridor verification.
 

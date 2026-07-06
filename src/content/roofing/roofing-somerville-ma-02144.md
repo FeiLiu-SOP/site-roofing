@@ -11,11 +11,14 @@ lng: -71.1000
 zipSample: ["02145", "02144", "02143"]
 zipCodes: ["02143", "02144", "02145"]
 localPaths: ["Middlesex County / ZIP 02144 sector", "Middlesex County / ZIP 02145 sector", "Middlesex County / ZIP 02143 sector", "Middlesex County / coords 42.3900, -71.1000", "Middlesex County / primary ZIP 02144"]
-zillowHomeValueUsd: 1057609
 ---
 
-**Engineering Notice for Somerville:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Somerville:** Roof repair scope references 72 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Middlesex County.
 
+
+Roofing service remediation in Somerville, MA, Middlesex County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof remediation crews serving Somerville, MA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tile and shingle mixes in Somerville, MA require different fastener patterns at transitions.
 
@@ -31,9 +34,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-Field routing: pipe boot manufacturer match paired with drip-edge metal profile near ZIP 02144.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Middlesex County and primary ZIP 02144. Terrain reference: 72 ft. Center point: 42.3900, -71.1000. ZIP sample: 02143, 02144, 02145. Regional routing note: Middlesex County traffic flow is balanced around ZIP 02144 service demand.
 

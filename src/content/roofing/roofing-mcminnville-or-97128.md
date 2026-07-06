@@ -11,11 +11,14 @@ lng: -123.1900
 zipSample: ["97128"]
 zipCodes: ["97128"]
 localPaths: ["Yamhill County / primary ZIP 97128", "Yamhill County / coords 45.2100, -123.1900", "Yamhill County / elevation 164 ft band", "Yamhill County / ZIP 97128 sector"]
-zillowHomeValueUsd: 485291
 ---
 
-**Engineering Notice for McMinnville:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Yamhill County.
+**Engineering Notice for McMinnville:** Roof repair scope references 164 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Yamhill County.
 
+
+Roofing service service in McMinnville, OR, Yamhill County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof service crews serving McMinnville, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -31,11 +34,11 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wind-zone note: McMinnville, OR exposure class can change starter-strip and cap nail schedules.
 
-Scope trace: starter-strip setback plus deck sheathing thickness referenced in Yamhill County county grid review.
+Scope trace: starter-strip setback plus deck sheathing thickness referenced in Yamhill County storm and leak review.
 
 On-site sector marker: Yamhill County / elevation 164 ft band — logged for map parity and ZIP-corridor verification.
 

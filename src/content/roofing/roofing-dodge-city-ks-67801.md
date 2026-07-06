@@ -11,13 +11,16 @@ lng: -100.0200
 zipSample: ["67801"]
 zipCodes: ["67801"]
 localPaths: ["Ford County / primary ZIP 67801", "Ford County / ZIP 67801 sector", "Ford County / coords 37.7600, -100.0200", "Ford County / elevation 2595 ft band"]
-zillowHomeValueUsd: 209895
 ---
 
-**Engineering Notice for Dodge City:** Structural loading calculated based on 2595 ft terrain assessment. Regional dispatch grid: Ford County.
+**Engineering Notice for Dodge City:** Shingle, flashing, and ventilation review recorded at 2595 ft AMSL context (Ford County).
 
 
-Our Dodge City, KS dispatch packets reference county grid Ford County and elevation band 2595 ft.
+Roofing service remediation in Dodge City, KS, Ford County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Dodge City, KS often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Ford County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Our Dodge City, KS service packets reference Ford County and elevation band 2595 ft for shingle and leak scope.
 
 Risk flag: Tile underlayment age in Dodge City, KS can fail independently of visible tile cracks.
 
@@ -30,8 +33,6 @@ TPO seam welds in Dodge City, KS commercial sections need probe tests after free
 FAQ: Can you tarp only part of the roof? In Dodge City, KS, yes—if slope and anchor points support safe tie-offs.
 
 Regulatory note: Dodge City, KS projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
-
-Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in Ford County county grid review.
 
 Coordinate-anchored dispatch note: center reference 37.7600, -100.0200 at elevation ~2595 ft aligns with Ford County intake staging.
 

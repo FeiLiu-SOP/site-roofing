@@ -11,11 +11,14 @@ lng: -116.4300
 zipSample: ["92270"]
 zipCodes: ["92270"]
 localPaths: ["Riverside County / ZIP 92270 sector", "Riverside County / primary ZIP 92270", "Riverside County / coords 33.7600, -116.4300", "Riverside County / elevation 249 ft band"]
-zillowHomeValueUsd: 843975
 ---
 
-**Engineering Notice for Rancho Mirage:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Rancho Mirage:** Roof repair scope references 249 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Riverside County.
 
+
+Emergency roof service in Rancho Mirage, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Riverside County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service remediation in Rancho Mirage, CA, Riverside County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: In Rancho Mirage, CA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -29,13 +32,13 @@ Step: compare shingle manufacturer wind-zone ratings for Rancho Mirage, CA expos
 
 Wind-zone note: Rancho Mirage, CA exposure class can change starter-strip and cap nail schedules.
 
-Our Rancho Mirage, CA dispatch packets reference county grid Riverside County and elevation band 249 ft.
+Our Rancho Mirage, CA restoration packets reference Riverside County and elevation band 249 ft for shingle and leak scope.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-roof service brief: soffit intake free area and ice-barrier lap sequence were cross-checked for the Rancho Mirage intake packet.
+Roof restoration brief: soffit intake free area and ice-barrier lap sequence were cross-checked for the Rancho Mirage shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 92270.
 

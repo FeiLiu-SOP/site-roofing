@@ -11,17 +11,20 @@ lng: -117.9500
 zipSample: ["90631", "90632", "90633"]
 zipCodes: ["90631", "90632", "90633"]
 localPaths: ["Orange County / coords 33.9300, -117.9500", "Orange County / elevation 279 ft band", "Orange County / primary ZIP 90631", "Orange County / ZIP 90631 sector", "Orange County / ZIP 90633 sector"]
-zillowHomeValueUsd: 942853
 ---
 
-**Engineering Notice for La Habra:** Structural loading calculated based on 279 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for La Habra:** Roof repair scope references 279 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Orange County.
 
+
+Qualified roof remediation crews serving La Habra, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits La Habra, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: stage tear-off debris paths away from landscape drains.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Hail bruising on La Habra, CA ridges may not breach felt until the next wind event.
 
@@ -33,7 +36,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field routing: drip-edge metal profile paired with skylight curb height near ZIP 90631.
+Local service note: drip-edge metal profile paired with skylight curb height near ZIP 90631 for emergency roof service repairs.
 
 On-site sector marker: Orange County / ZIP 90633 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -122.8400
 zipSample: ["97229"]
 zipCodes: ["97229"]
 localPaths: ["Washington County / coords 45.5600, -122.8400", "Washington County / primary ZIP 97229", "Washington County / elevation 272 ft band", "Washington County / ZIP 97229 sector"]
-zillowHomeValueUsd: 743106
 ---
 
-**Engineering Notice for Bethany:** Structural loading calculated based on 272 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Bethany:** Shingle, flashing, and ventilation review recorded at 272 ft AMSL context (Washington County).
 
+
+Storm damage roof work in Bethany, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Washington County clarifies whether service or replacement fits the damage pattern.
+
+Licensed roof service crews serving Bethany, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Can you tarp only part of the roof? In Bethany, OR, yes—if slope and anchor points support safe tie-offs.
 
@@ -31,9 +34,9 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Valley metal in Bethany, OR should be reviewed whenever granule loss tracks the water line.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-Scope trace: starter-strip setback plus soffit intake free area referenced in Washington County county grid review.
+Scope trace: starter-strip setback plus soffit intake free area referenced in Washington County storm and leak review.
 
 On-site sector marker: Washington County / elevation 272 ft band — logged for map parity and ZIP-corridor verification.
 

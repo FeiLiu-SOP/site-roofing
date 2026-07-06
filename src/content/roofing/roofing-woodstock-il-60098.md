@@ -11,11 +11,14 @@ lng: -88.4400
 zipSample: ["60098"]
 zipCodes: ["60098"]
 localPaths: ["McHenry County / primary ZIP 60098", "McHenry County / coords 42.3100, -88.4400", "McHenry County / ZIP 60098 sector", "McHenry County / elevation 932 ft band"]
-zillowHomeValueUsd: 332749
 ---
 
-**Engineering Notice for Woodstock:** Structural loading calculated based on 932 ft terrain assessment. Regional dispatch grid: McHenry County.
+**Engineering Notice for Woodstock:** Shingle, flashing, and ventilation review recorded at 932 ft AMSL context (McHenry County).
 
+
+When wind or hail hits Woodstock, IL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service restoration in Woodstock, IL, McHenry County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Wind-zone note: Woodstock, IL exposure class can change starter-strip and cap nail schedules.
 
@@ -29,9 +32,9 @@ Synthetic underlayment slip in Woodstock, IL is often tied to deck moisture, not
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-Field routing: soffit intake free area paired with pipe boot manufacturer match near ZIP 60098.
+Local service note: soffit intake free area paired with pipe boot manufacturer match near ZIP 60098 for emergency roofing service repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 60098.
 

@@ -11,15 +11,18 @@ lng: -84.7200
 zipSample: ["41005"]
 zipCodes: ["41005"]
 localPaths: ["Boone County / elevation 837 ft band", "Boone County / primary ZIP 41005", "Boone County / coords 39.0200, -84.7200", "Boone County / ZIP 41005 sector"]
-zillowHomeValueUsd: 323855
 ---
 
-**Engineering Notice for Burlington:** Structural loading calculated based on 837 ft terrain assessment. Regional dispatch grid: Boone County.
+**Engineering Notice for Burlington:** Shingle, flashing, and ventilation review recorded at 837 ft AMSL context (Boone County).
 
+
+Storm damage roof service in Burlington, KY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Boone County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof work restoration in Burlington, KY, Boone County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Wind-zone note: Burlington, KY exposure class can change starter-strip and cap nail schedules.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: map ventilation intake and exhaust pairs for Burlington, KY attic runs.
 
@@ -34,8 +37,6 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
 Parapet coping movement in Burlington, KY can channel water behind wall cladding.
-
-Scope trace: chimney cricket slope plus shingle exposure calibration referenced in Boone County county grid review.
 
 Primary postal anchor 41005 with multi-ZIP overlap in Burlington; field packets tag Boone County for county-grid reconciliation.
 

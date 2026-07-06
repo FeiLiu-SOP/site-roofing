@@ -11,11 +11,14 @@ lng: -84.3000
 zipSample: ["30036", "30030", "30031"]
 zipCodes: ["30030", "30036", "30031"]
 localPaths: ["DeKalb County / ZIP 30036 sector", "DeKalb County / primary ZIP 30030", "DeKalb County / ZIP 30030 sector", "DeKalb County / ZIP 30031 sector", "DeKalb County / coords 33.7700, -84.3000"]
-zillowHomeValueUsd: 639052
 ---
 
-**Engineering Notice for Decatur:** Structural loading calculated based on 1030 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Decatur:** Shingle, flashing, and ventilation review recorded at 1030 ft AMSL context (DeKalb County).
 
+
+When wind or hail hits Decatur, GA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work restoration in Decatur, GA, DeKalb County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -31,13 +34,11 @@ Wind-zone note: Decatur, GA exposure class can change starter-strip and cap nail
 
 Freeze-thaw cycles around Decatur, GA stress nail pops along eaves and rake edges.
 
-Our Decatur, GA dispatch packets reference county grid DeKalb County and elevation band 1030 ft.
+Our Decatur, GA service packets reference DeKalb County and elevation band 1030 ft for shingle and leak scope.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field routing: chimney cricket slope paired with counter-flashing reglet depth near ZIP 30030.
-
-Field note: Shingle seal-down timing logged near ZIP 30030/30031/30036.
+Local service note: chimney cricket slope paired with counter-flashing reglet depth near ZIP 30030 for emergency roof service repairs.
 
 On-site sector marker: DeKalb County / primary ZIP 30030 — logged for map parity and ZIP-corridor verification.
 

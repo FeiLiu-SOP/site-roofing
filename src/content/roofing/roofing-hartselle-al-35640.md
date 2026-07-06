@@ -11,11 +11,14 @@ lng: -86.9400
 zipSample: ["35640"]
 zipCodes: ["35640"]
 localPaths: ["Morgan County / elevation 659 ft band", "Morgan County / primary ZIP 35640", "Morgan County / ZIP 35640 sector", "Morgan County / coords 34.4400, -86.9400"]
-zillowHomeValueUsd: 244827
 ---
 
-**Engineering Notice for Hartselle:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Morgan County.
+**Engineering Notice for Hartselle:** Shingle, flashing, and ventilation review recorded at 659 ft AMSL context (Morgan County).
 
+
+Roof service remediation in Hartselle, AL, Morgan County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof restoration crews serving Hartselle, AL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 We coordinate Hartselle, AL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -35,7 +38,7 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field routing: synthetic underlayment slip paired with shingle exposure calibration near ZIP 35640.
+Local service note: synthetic underlayment slip paired with shingle exposure calibration near ZIP 35640 for emergency roof work repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 35640.
 

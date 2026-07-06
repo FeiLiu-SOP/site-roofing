@@ -11,11 +11,14 @@ lng: -80.2200
 zipSample: ["33147", "33150", "33168", "33167"]
 zipCodes: ["33147", "33168", "33150", "33167"]
 localPaths: ["Miami-Dade County / ZIP 33168 sector", "Miami-Dade County / elevation 26 ft band", "Miami-Dade County / primary ZIP 33147", "Miami-Dade County / ZIP 33150 sector", "Miami-Dade County / ZIP 33167 sector"]
-zillowHomeValueUsd: 434371
 ---
 
-**Engineering Notice for Pinewood:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Pinewood:** Shingle, flashing, and ventilation review recorded at 26 ft AMSL context (Miami-Dade County).
 
+
+Certified roof restoration crews serving Pinewood, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service remediation in Pinewood, FL, Miami-Dade County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -35,7 +38,7 @@ Wood shake courses in Pinewood, FL require skip-spacing rules at valleys.
 
 Regulatory note: Pinewood, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field routing: chimney cricket slope paired with counter-flashing reglet depth near ZIP 33147.
+Local service note: chimney cricket slope paired with counter-flashing reglet depth near ZIP 33147 for emergency roof work repairs.
 
 Primary postal anchor 33147 with multi-ZIP overlap in Pinewood; field packets tag Miami-Dade County for county-grid reconciliation.
 

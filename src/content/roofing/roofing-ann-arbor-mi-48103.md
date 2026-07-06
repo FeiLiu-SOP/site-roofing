@@ -11,17 +11,20 @@ lng: -83.7300
 zipSample: ["48103", "48109", "48104", "48113", "48108"]
 zipCodes: ["48108", "48104", "48109", "48105", "48103", "48113"]
 localPaths: ["Washtenaw County / ZIP 48103 sector", "Washtenaw County / coords 42.2800, -83.7300", "Washtenaw County / ZIP 48108 sector", "Washtenaw County / primary ZIP 48103", "Washtenaw County / elevation 889 ft band"]
-zillowHomeValueUsd: 522036
 ---
 
-**Engineering Notice for Ann Arbor:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: Washtenaw County.
+**Engineering Notice for Ann Arbor:** Storm and emergency leak triage uses 889 ft elevation band with Washtenaw County service-area context for roofing repairs.
 
+
+When wind or hail hits Ann Arbor, MI, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service service in Ann Arbor, MI, Washtenaw County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 48103.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: In Ann Arbor, MI, algae-resistant granules may be specified for north-facing slopes.
 
@@ -32,8 +35,6 @@ In Ann Arbor, MI, wind-driven rain can lift shingle tabs before owners notice de
 Step: log deck soundings near vents before tear-off is approved.
 
 FAQ: How long can shingles wait after storm damage? In Ann Arbor, MI, delayed dry-in can expand insulation and ceiling repairs.
-
-Field routing: chimney cricket slope paired with counter-flashing reglet depth near ZIP 48103.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Washtenaw County and primary ZIP 48103. Terrain reference: 889 ft. Center point: 42.2800, -83.7300. ZIP sample: 48108, 48103, 48109, 48105, 48104. Regional routing note: Washtenaw County traffic flow is balanced around ZIP 48103 service demand.
 

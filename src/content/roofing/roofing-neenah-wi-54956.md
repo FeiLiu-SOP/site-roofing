@@ -11,11 +11,14 @@ lng: -88.4800
 zipSample: ["54956", "54957"]
 zipCodes: ["54956", "54957"]
 localPaths: ["Winnebago County / ZIP 54956 sector", "Winnebago County / primary ZIP 54956", "Winnebago County / elevation 751 ft band", "Winnebago County / ZIP 54957 sector", "Winnebago County / coords 44.1700, -88.4800"]
-zillowHomeValueUsd: 341622
 ---
 
-**Engineering Notice for Neenah:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Winnebago County.
+**Engineering Notice for Neenah:** Roof repair scope references 751 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Winnebago County.
 
+
+Roof service service in Neenah, WI, Winnebago County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof service crews serving Neenah, WI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 In Neenah, WI, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -33,9 +36,7 @@ Code context: Ventilation ratios for Neenah, WI attics should be checked against
 
 FAQ: Is partial dry-in possible? In Neenah, WI, yes—if slope and anchor points support safe tie-offs.
 
-Scope trace: wind uplift clip spacing plus ice-barrier lap sequence referenced in Winnebago County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 54956/54957.
+Scope trace: wind uplift clip spacing plus ice-barrier lap sequence referenced in Winnebago County storm and leak review.
 
 Coordinate-anchored dispatch note: center reference 44.1700, -88.4800 at elevation ~751 ft aligns with Winnebago County intake staging.
 

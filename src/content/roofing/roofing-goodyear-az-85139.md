@@ -11,11 +11,14 @@ lng: -112.3600
 zipSample: ["85338", "85395", "85326", "85139"]
 zipCodes: ["85139", "85338", "85326", "85395"]
 localPaths: ["Maricopa County / ZIP 85395 sector", "Maricopa County / ZIP 85139 sector", "Maricopa County / coords 33.2600, -112.3600", "Maricopa County / primary ZIP 85139", "Maricopa County / elevation 1217 ft band"]
-zillowHomeValueUsd: 340102
 ---
 
-**Engineering Notice for Goodyear:** Structural loading calculated based on 1217 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Goodyear:** Shingle, flashing, and ventilation review recorded at 1217 ft AMSL context (Maricopa County).
 
+
+Emergency roof remediation in Goodyear, AZ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Maricopa County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof service crews serving Goodyear, AZ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -31,11 +34,9 @@ Risk flag: In Goodyear, AZ, interior stains may track from HVAC condensate rathe
 
 Code context: Ventilation ratios for Goodyear, AZ attics should be checked against current mechanical exhaust additions.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roofing service brief: synthetic underlayment slip and counter-flashing reglet depth were cross-checked for the Goodyear intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 85326/85139/85338.
+Roof service brief: synthetic underlayment slip and counter-flashing reglet depth were cross-checked for the Goodyear shingle and leak scope.
 
 Primary postal anchor 85139 with multi-ZIP overlap in Goodyear; field packets tag Maricopa County for county-grid reconciliation.
 

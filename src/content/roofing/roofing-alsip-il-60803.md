@@ -11,11 +11,14 @@ lng: -87.7400
 zipSample: ["60803"]
 zipCodes: ["60803"]
 localPaths: ["Cook County / ZIP 60803 sector", "Cook County / coords 41.6700, -87.7400", "Cook County / primary ZIP 60803", "Cook County / elevation 633 ft band"]
-zillowHomeValueUsd: 255644
 ---
 
-**Engineering Notice for Alsip:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Alsip:** Shingle, flashing, and ventilation review recorded at 633 ft AMSL context (Cook County).
 
+
+Storm damage roofing service in Alsip, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cook County clarifies whether restoration or replacement fits the damage pattern.
+
+Certified roof service crews serving Alsip, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: In Alsip, IL, algae-resistant granules may be specified for north-facing slopes.
 
@@ -23,7 +26,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Step: log deck soundings near vents before tear-off is approved.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Attic ventilation deficits in Alsip, IL can mimic roof leaks at ceiling penetrations.
 
@@ -33,7 +36,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-roofing service brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Alsip intake packet.
+Roof remediation brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Alsip shingle and leak scope.
 
 On-site sector marker: Cook County / coords 41.6700, -87.7400 — logged for map parity and ZIP-corridor verification.
 

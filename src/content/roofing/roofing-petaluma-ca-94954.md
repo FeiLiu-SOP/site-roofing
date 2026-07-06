@@ -11,11 +11,14 @@ lng: -122.6300
 zipSample: ["94954", "94953", "94952"]
 zipCodes: ["94952", "94954", "94953"]
 localPaths: ["Sonoma County / primary ZIP 94954", "Sonoma County / elevation 13 ft band", "Sonoma County / ZIP 94954 sector", "Sonoma County / ZIP 94953 sector", "Sonoma County / coords 38.2400, -122.6300"]
-zillowHomeValueUsd: 836270
 ---
 
-**Engineering Notice for Petaluma:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Sonoma County.
+**Engineering Notice for Petaluma:** Roof repair scope references 13 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Sonoma County.
 
+
+Licensed roof service crews serving Petaluma, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service restoration in Petaluma, CA, Sonoma County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -27,11 +30,11 @@ FAQ: How long can shingles wait after storm damage? In Petaluma, CA, delayed dry
 
 Metal panel oil-canning in Petaluma, CA may signal clip spacing issues, not wind damage alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field routing: pipe boot manufacturer match paired with deck sheathing thickness near ZIP 94954.
+Local service note: pipe boot manufacturer match paired with deck sheathing thickness near ZIP 94954 for emergency roofing service repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 94953/94952/94954.
 

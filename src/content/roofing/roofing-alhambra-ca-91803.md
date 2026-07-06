@@ -11,11 +11,14 @@ lng: -118.1400
 zipSample: ["91803", "91804", "91801", "91899", "91802"]
 zipCodes: ["91896", "91803", "91802", "91899", "91801", "91804"]
 localPaths: ["Los Angeles County / ZIP 91804 sector", "Los Angeles County / coords 34.0800, -118.1400", "Los Angeles County / ZIP 91803 sector", "Los Angeles County / elevation 456 ft band", "Los Angeles County / ZIP 91899 sector"]
-zillowHomeValueUsd: 960763
 ---
 
-**Engineering Notice for Alhambra:** Structural loading calculated based on 456 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Alhambra:** Roof repair scope references 456 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
+
+Qualified roof remediation crews serving Alhambra, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Alhambra, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Los Angeles County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -31,9 +34,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-Scope trace: deck sheathing thickness plus valley metal gauge referenced in Los Angeles County county grid review.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 ZIP-corridor snapshot for Alhambra, CA: sampled sectors include 91802, 91803, 91801, 91804, 91896, 91899; county routing grid remains Los Angeles County.
 

@@ -11,15 +11,18 @@ lng: -88.4300
 zipSample: ["60142"]
 zipCodes: ["60142"]
 localPaths: ["McHenry County / primary ZIP 60142", "McHenry County / elevation 869 ft band", "McHenry County / coords 42.1600, -88.4300", "McHenry County / ZIP 60142 sector"]
-zillowHomeValueUsd: 417936
 ---
 
-**Engineering Notice for Huntley:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: McHenry County.
+**Engineering Notice for Huntley:** Shingle, flashing, and ventilation review recorded at 869 ft AMSL context (McHenry County).
 
+
+Storm damage roof service in Huntley, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in McHenry County clarifies whether restoration or replacement fits the damage pattern.
+
+Qualified roof service crews serving Huntley, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: log deck soundings near vents before tear-off is approved.
 
-Our Huntley, IL dispatch packets reference county grid McHenry County and elevation band 869 ft.
+Our Huntley, IL service packets reference McHenry County and elevation band 869 ft for shingle and leak scope.
 
 Tip: Note recent wind events when filing insurance photos for Huntley, IL.
 
@@ -35,7 +38,7 @@ Freeze-thaw cycles around Huntley, IL stress nail pops along eaves and rake edge
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Scope trace: wind uplift clip spacing plus deck sheathing thickness referenced in McHenry County county grid review.
+Scope trace: wind uplift clip spacing plus deck sheathing thickness referenced in McHenry County storm and leak review.
 
 On-site sector marker: McHenry County / primary ZIP 60142 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -88.0100
 zipSample: ["60060"]
 zipCodes: ["60060"]
 localPaths: ["Lake County / ZIP 60060 sector", "Lake County / primary ZIP 60060", "Lake County / coords 42.2700, -88.0100", "Lake County / elevation 758 ft band"]
-zillowHomeValueUsd: 384013
 ---
 
-**Engineering Notice for Mundelein:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Mundelein:** Storm and emergency leak triage uses 758 ft elevation band with Lake County service-area context for roofing repairs.
 
+
+Storm damage roof service in Mundelein, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lake County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Mundelein, IL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60060.
 
@@ -31,11 +34,9 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Tip: Note recent wind events when filing insurance photos for Mundelein, IL.
 
-Our Mundelein, IL dispatch packets reference county grid Lake County and elevation band 758 ft.
+Our Mundelein, IL service packets reference Lake County and elevation band 758 ft for shingle and leak scope.
 
 Wind-zone note: Mundelein, IL exposure class can change starter-strip and cap nail schedules.
-
-roof service brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Mundelein intake packet.
 
 ZIP-corridor snapshot for Mundelein, IL: sampled sectors include 60060; county routing grid remains Lake County.
 

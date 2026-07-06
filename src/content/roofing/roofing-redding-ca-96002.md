@@ -11,11 +11,14 @@ lng: -122.3600
 zipSample: ["96002", "96003", "96001"]
 zipCodes: ["96003", "96002", "96001"]
 localPaths: ["Shasta County / ZIP 96003 sector", "Shasta County / ZIP 96001 sector", "Shasta County / primary ZIP 96002", "Shasta County / ZIP 96002 sector", "Shasta County / elevation 541 ft band"]
-zillowHomeValueUsd: 376024
 ---
 
-**Engineering Notice for Redding:** Structural loading calculated based on 541 ft terrain assessment. Regional dispatch grid: Shasta County.
+**Engineering Notice for Redding:** Roof repair scope references 541 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Shasta County.
 
+
+Emergency roof restoration in Redding, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Shasta County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service remediation in Redding, CA, Shasta County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Attic ventilation deficits in Redding, CA can mimic roof leaks at ceiling penetrations.
 
@@ -29,11 +32,9 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Regulatory note: Redding, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-roof service brief: drip-edge metal profile and valley metal gauge were cross-checked for the Redding intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 96003/96001/96002.
+Roof service brief: drip-edge metal profile and valley metal gauge were cross-checked for the Redding shingle and leak scope.
 
 On-site sector marker: Shasta County / coords 40.5700, -122.3600 — logged for map parity and ZIP-corridor verification.
 

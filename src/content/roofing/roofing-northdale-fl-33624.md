@@ -11,17 +11,20 @@ lng: -82.5300
 zipSample: ["33548", "33624", "33558"]
 zipCodes: ["33548", "33624", "33558"]
 localPaths: ["Hillsborough County / ZIP 33624 sector", "Hillsborough County / coords 28.1100, -82.5300", "Hillsborough County / ZIP 33558 sector", "Hillsborough County / primary ZIP 33624", "Hillsborough County / ZIP 33548 sector"]
-zillowHomeValueUsd: 410831
 ---
 
-**Engineering Notice for Northdale:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Northdale:** Shingle, flashing, and ventilation review recorded at 72 ft AMSL context (Hillsborough County).
 
+
+Certified roof service crews serving Northdale, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Northdale, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hillsborough County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 Regulatory note: Northdale, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: compare shingle manufacturer wind-zone ratings for Northdale, FL exposure class.
 
@@ -31,7 +34,7 @@ FAQ: How long can shingles wait after storm damage? In Northdale, FL, delayed dr
 
 Tip: Note recent wind events when filing insurance photos for Northdale, FL.
 
-Scope trace: soffit intake free area plus wind uplift clip spacing referenced in Hillsborough County county grid review.
+Scope trace: soffit intake free area plus wind uplift clip spacing referenced in Hillsborough County storm and leak review.
 
 On-site sector marker: Hillsborough County / ZIP 33624 sector — logged for map parity and ZIP-corridor verification.
 

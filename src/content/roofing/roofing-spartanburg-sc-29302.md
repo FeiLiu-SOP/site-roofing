@@ -11,11 +11,14 @@ lng: -81.9300
 zipSample: ["29301", "29306", "29319", "29302", "29304"]
 zipCodes: ["29302", "29304", "29307", "29319", "29301", "29306"]
 localPaths: ["Spartanburg County / elevation 774 ft band", "Spartanburg County / ZIP 29304 sector", "Spartanburg County / ZIP 29302 sector", "Spartanburg County / ZIP 29306 sector", "Spartanburg County / coords 34.9400, -81.9300"]
-zillowHomeValueUsd: 269439
 ---
 
-**Engineering Notice for Spartanburg:** Structural loading calculated based on 774 ft terrain assessment. Regional dispatch grid: Spartanburg County.
+**Engineering Notice for Spartanburg:** Storm and emergency leak triage uses 774 ft elevation band with Spartanburg County service-area context for roofing repairs.
 
+
+Emergency roof restoration in Spartanburg, SC often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Spartanburg County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service remediation in Spartanburg, SC, Spartanburg County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 We coordinate Spartanburg, SC roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -29,9 +32,7 @@ Low-slope sections in Spartanburg, SC need positive drainage before membrane rep
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Step: separate emergency tarp scope from permanent restoration line items.
-
-Scope trace: pipe boot manufacturer match plus counter-flashing reglet depth referenced in Spartanburg County county grid review.
+Step: separate emergency tarp scope from permanent service line items.
 
 On-site sector marker: Spartanburg County / ZIP 29304 sector — logged for map parity and ZIP-corridor verification.
 

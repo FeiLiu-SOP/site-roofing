@@ -11,13 +11,16 @@ lng: -85.9900
 zipSample: ["46235", "46216", "46236", "46249", "46226"]
 zipCodes: ["46216", "46226", "46235", "46236", "46249"]
 localPaths: ["Marion County / ZIP 46226 sector", "Marion County / ZIP 46236 sector", "Marion County / ZIP 46235 sector", "Marion County / ZIP 46249 sector", "Marion County / ZIP 46216 sector"]
-zillowHomeValueUsd: 309756
 ---
 
-**Engineering Notice for Lawrence:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Lawrence:** Storm and emergency leak triage uses 856 ft elevation band with Marion County service-area context for roofing repairs.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Certified roof service crews serving Lawrence, IN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Lawrence, IN, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -31,9 +34,7 @@ Freeze-thaw cycles around Lawrence, IN stress nail pops along eaves and rake edg
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Scope trace: deck sheathing thickness plus starter-strip setback referenced in Marion County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 46235/46249/46226.
+Scope trace: deck sheathing thickness plus starter-strip setback referenced in Marion County storm and leak review.
 
 On-site sector marker: Marion County / ZIP 46226 sector — logged for map parity and ZIP-corridor verification.
 

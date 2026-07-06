@@ -11,11 +11,14 @@ lng: -122.8200
 zipSample: ["97075", "97076", "97008", "97007", "97003"]
 zipCodes: ["97006", "97076", "97005", "97079", "97003", "97075", "97225", "97008", "97077", "97007"]
 localPaths: ["Washington County / elevation 236 ft band", "Washington County / ZIP 97007 sector", "Washington County / ZIP 97003 sector", "Washington County / primary ZIP 97225", "Washington County / ZIP 97008 sector"]
-zillowHomeValueUsd: 743435
 ---
 
-**Engineering Notice for Beaverton:** Structural loading calculated based on 236 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Beaverton:** Shingle, flashing, and ventilation review recorded at 236 ft AMSL context (Washington County).
 
+
+When wind or hail hits Beaverton, OR, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof remediation crews serving Beaverton, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -27,15 +30,13 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: Tile underlayment age in Beaverton, OR can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Wind-zone note: Beaverton, OR exposure class can change starter-strip and cap nail schedules.
-
-roof service brief: deck sheathing thickness and attic baffle spacing were cross-checked for the Beaverton intake packet.
 
 On-site sector marker: Washington County / ZIP 97008 sector — logged for map parity and ZIP-corridor verification.
 

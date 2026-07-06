@@ -11,15 +11,18 @@ lng: -93.2100
 zipSample: ["55112"]
 zipCodes: ["55112"]
 localPaths: ["Ramsey County / elevation 869 ft band", "Ramsey County / ZIP 55112 sector", "Ramsey County / primary ZIP 55112", "Ramsey County / coords 45.0700, -93.2100"]
-zillowHomeValueUsd: 377324
 ---
 
-**Engineering Notice for New Brighton:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Ramsey County.
+**Engineering Notice for New Brighton:** Roof repair scope references 869 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Ramsey County.
 
+
+Certified roof remediation crews serving New Brighton, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in New Brighton, MN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Ramsey County clarifies whether service or replacement fits the damage pattern.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our New Brighton, MN dispatch packets reference county grid Ramsey County and elevation band 869 ft.
+Our New Brighton, MN remediation packets reference Ramsey County and elevation band 869 ft for shingle and leak scope.
 
 Risk flag: Tile underlayment age in New Brighton, MN can fail independently of visible tile cracks.
 
@@ -33,7 +36,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Step: compare shingle manufacturer wind-zone ratings for New Brighton, MN exposure class.
 
-Scope trace: wind uplift clip spacing plus chimney cricket slope referenced in Ramsey County county grid review.
+Scope trace: wind uplift clip spacing plus chimney cricket slope referenced in Ramsey County storm and leak review.
 
 On-site sector marker: Ramsey County / elevation 869 ft band — logged for map parity and ZIP-corridor verification.
 

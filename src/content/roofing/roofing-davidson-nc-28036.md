@@ -11,11 +11,14 @@ lng: -80.8200
 zipSample: ["28035", "28036"]
 zipCodes: ["28035", "28036"]
 localPaths: ["Mecklenburg County / elevation 751 ft band", "Mecklenburg County / ZIP 28036 sector", "Mecklenburg County / primary ZIP 28036", "Mecklenburg County / coords 35.4800, -80.8200", "Mecklenburg County / ZIP 28035 sector"]
-zillowHomeValueUsd: 655817
 ---
 
-**Engineering Notice for Davidson:** Structural loading calculated based on 751 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Davidson:** Roof repair scope references 751 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Mecklenburg County.
 
+
+Roofing service service in Davidson, NC, Mecklenburg County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Davidson, NC, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -33,9 +36,7 @@ Risk flag: Tile underlayment age in Davidson, NC can fail independently of visib
 
 Step: separate emergency tarp scope from permanent remediation line items.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
-
-Scope trace: attic baffle spacing plus ridge cap nail schedule referenced in Mecklenburg County county grid review.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 On-site sector marker: Mecklenburg County / coords 35.4800, -80.8200 — logged for map parity and ZIP-corridor verification.
 

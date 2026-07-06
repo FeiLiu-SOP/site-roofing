@@ -11,13 +11,16 @@ lng: -87.6300
 zipSample: ["60412", "60411"]
 zipCodes: ["60412", "60411"]
 localPaths: ["Cook County / elevation 663 ft band", "Cook County / ZIP 60411 sector", "Cook County / ZIP 60412 sector", "Cook County / coords 41.5100, -87.6300", "Cook County / primary ZIP 60411"]
-zillowHomeValueUsd: 168679
 ---
 
-**Engineering Notice for Chicago Heights:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Chicago Heights:** Storm and emergency leak triage uses 663 ft elevation band with Cook County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Roof work service in Chicago Heights, IL, Cook County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof service crews serving Chicago Heights, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Valley metal in Chicago Heights, IL should be reviewed whenever granule loss tracks the water line.
 
@@ -35,7 +38,7 @@ Risk flag: Tile underlayment age in Chicago Heights, IL can fail independently o
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-Field routing: pipe boot manufacturer match paired with ice-barrier lap sequence near ZIP 60411.
+Local service note: pipe boot manufacturer match paired with ice-barrier lap sequence near ZIP 60411 for emergency roofing service repairs.
 
 Regional mesh label Cook County: moisture and logistics baselines are keyed to Chicago Heights, IL before niche-specific work begins.
 

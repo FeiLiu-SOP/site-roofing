@@ -11,13 +11,16 @@ lng: -75.5200
 zipSample: ["19460"]
 zipCodes: ["19460"]
 localPaths: ["Chester County / ZIP 19460 sector", "Chester County / coords 40.1400, -75.5200", "Chester County / elevation 131 ft band", "Chester County / primary ZIP 19460"]
-zillowHomeValueUsd: 517829
 ---
 
-**Engineering Notice for Phoenixville:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Chester County.
+**Engineering Notice for Phoenixville:** Shingle, flashing, and ventilation review recorded at 131 ft AMSL context (Chester County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+When wind or hail hits Phoenixville, PA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service service in Phoenixville, PA, Chester County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -31,7 +34,7 @@ Regulatory note: Phoenixville, PA projects may trigger ice-barrier upgrades when
 
 Wood shake courses in Phoenixville, PA require skip-spacing rules at valleys.
 
-Field routing: skylight curb height paired with ice-barrier lap sequence near ZIP 19460.
+Local service note: skylight curb height paired with ice-barrier lap sequence near ZIP 19460 for emergency roofing service repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 19460.
 

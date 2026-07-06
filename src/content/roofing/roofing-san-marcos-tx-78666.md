@@ -11,11 +11,14 @@ lng: -97.9400
 zipSample: ["78656", "78666", "78667"]
 zipCodes: ["78656", "78666", "78667"]
 localPaths: ["Hays County / elevation 597 ft band", "Hays County / coords 29.8700, -97.9400", "Hays County / ZIP 78656 sector", "Hays County / ZIP 78667 sector", "Hays County / primary ZIP 78666"]
-zillowHomeValueUsd: 314015
 ---
 
-**Engineering Notice for San Marcos:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Hays County.
+**Engineering Notice for San Marcos:** Storm and emergency leak triage uses 597 ft elevation band with Hays County service-area context for roofing repairs.
 
+
+When wind or hail hits San Marcos, TX, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof remediation crews serving San Marcos, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Attic ventilation deficits in San Marcos, TX can mimic roof leaks at ceiling penetrations.
 
@@ -31,9 +34,7 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-Scope trace: chimney cricket slope plus skylight curb height referenced in Hays County county grid review.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Coordinate-anchored dispatch note: center reference 29.8700, -97.9400 at elevation ~597 ft aligns with Hays County intake staging.
 

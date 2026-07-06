@@ -11,13 +11,16 @@ lng: -88.0300
 zipSample: ["60441"]
 zipCodes: ["60441"]
 localPaths: ["Will County / elevation 702 ft band", "Will County / ZIP 60441 sector", "Will County / primary ZIP 60441", "Will County / coords 41.5900, -88.0300"]
-zillowHomeValueUsd: 352664
 ---
 
-**Engineering Notice for Lockport:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for Lockport:** Roof repair scope references 702 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Will County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+When wind or hail hits Lockport, IL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service restoration in Lockport, IL, Will County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: compare shingle manufacturer wind-zone ratings for Lockport, IL exposure class.
 
@@ -31,7 +34,7 @@ Risk flag: In Lockport, IL, interior stains may track from HVAC condensate rathe
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field routing: pipe boot manufacturer match paired with starter-strip setback near ZIP 60441.
+Local service note: pipe boot manufacturer match paired with starter-strip setback near ZIP 60441 for emergency roofing service repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 60441.
 

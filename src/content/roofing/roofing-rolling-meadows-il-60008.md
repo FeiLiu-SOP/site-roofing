@@ -11,11 +11,14 @@ lng: -88.0300
 zipSample: ["60008"]
 zipCodes: ["60008"]
 localPaths: ["Cook County / coords 42.0700, -88.0300", "Cook County / ZIP 60008 sector", "Cook County / primary ZIP 60008", "Cook County / elevation 722 ft band"]
-zillowHomeValueUsd: 330999
 ---
 
-**Engineering Notice for Rolling Meadows:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Rolling Meadows:** Shingle, flashing, and ventilation review recorded at 722 ft AMSL context (Cook County).
 
+
+When wind or hail hits Rolling Meadows, IL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service remediation in Rolling Meadows, IL, Cook County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -35,7 +38,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field routing: soffit intake free area paired with deck sheathing thickness near ZIP 60008.
+Local service note: soffit intake free area paired with deck sheathing thickness near ZIP 60008 for emergency roofing service repairs.
 
 Primary postal anchor 60008 with multi-ZIP overlap in Rolling Meadows; field packets tag Cook County for county-grid reconciliation.
 

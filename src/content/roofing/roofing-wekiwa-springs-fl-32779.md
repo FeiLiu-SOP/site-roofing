@@ -11,11 +11,14 @@ lng: -81.4300
 zipSample: ["32779", "32752", "32791"]
 zipCodes: ["32791", "32779", "32752"]
 localPaths: ["Seminole County / coords 28.7000, -81.4300", "Seminole County / elevation 79 ft band", "Seminole County / ZIP 32779 sector", "Seminole County / primary ZIP 32779", "Seminole County / ZIP 32791 sector"]
-zillowHomeValueUsd: 536773
 ---
 
-**Engineering Notice for Wekiwa Springs:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Seminole County.
+**Engineering Notice for Wekiwa Springs:** Shingle, flashing, and ventilation review recorded at 79 ft AMSL context (Seminole County).
 
+
+Storm damage roofing service in Wekiwa Springs, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Seminole County clarifies whether remediation or replacement fits the damage pattern.
+
+Roofing service remediation in Wekiwa Springs, FL, Seminole County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -29,11 +32,9 @@ FAQ: When should permanent remediation start? In Wekiwa Springs, FL, delayed dry
 
 Code context: Ventilation ratios for Wekiwa Springs, FL attics should be checked against current mechanical exhaust additions.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roofing service brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Wekiwa Springs intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 32752/32779/32791.
+Roof remediation brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Wekiwa Springs shingle and leak scope.
 
 On-site sector marker: Seminole County / ZIP 32779 sector — logged for map parity and ZIP-corridor verification.
 

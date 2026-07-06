@@ -11,11 +11,14 @@ lng: -88.1200
 zipSample: ["53051", "53052"]
 zipCodes: ["53052", "53051"]
 localPaths: ["Waukesha County / primary ZIP 53051", "Waukesha County / elevation 860 ft band", "Waukesha County / ZIP 53052 sector", "Waukesha County / ZIP 53051 sector", "Waukesha County / coords 43.1500, -88.1200"]
-zillowHomeValueUsd: 431077
 ---
 
-**Engineering Notice for Menomonee Falls:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Waukesha County.
+**Engineering Notice for Menomonee Falls:** Storm and emergency leak triage uses 860 ft elevation band with Waukesha County service-area context for roofing repairs.
 
+
+Certified roof restoration crews serving Menomonee Falls, WI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Menomonee Falls, WI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Waukesha County clarifies whether service or replacement fits the damage pattern.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -29,9 +32,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Parapet coping movement in Menomonee Falls, WI can channel water behind wall cladding.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
-
-Scope trace: skylight curb height plus valley metal gauge referenced in Waukesha County county grid review.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 On-site sector marker: Waukesha County / ZIP 53051 sector — logged for map parity and ZIP-corridor verification.
 

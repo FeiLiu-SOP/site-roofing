@@ -11,11 +11,14 @@ lng: -97.7500
 zipSample: ["78754", "78772", "78723", "78725", "78760"]
 zipCodes: ["78719", "78727", "73301", "78759", "78766", "78703", "78713", "78720", "78755", "78711", "78754", "78723"]
 localPaths: ["Travis County / ZIP 78754 sector", "Travis County / ZIP 78723 sector", "Travis County / ZIP 78760 sector", "Travis County / ZIP 78772 sector", "Travis County / coords 30.3000, -97.7500"]
-zillowHomeValueUsd: 555258
 ---
 
-**Engineering Notice for Austin:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Travis County.
+**Engineering Notice for Austin:** Storm and emergency leak triage uses 630 ft elevation band with Travis County service-area context for roofing repairs.
 
+
+Roofing service remediation in Austin, TX, Travis County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Austin, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Travis County clarifies whether service or replacement fits the damage pattern.
 
 Code context: Ventilation ratios for Austin, TX attics should be checked against current mechanical exhaust additions.
 
@@ -33,9 +36,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-Scope trace: wind uplift clip spacing plus skylight curb height referenced in Travis County county grid review.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 ZIP-corridor snapshot for Austin, TX: sampled sectors include 78724, 78725, 78752, 78708, 78760, 78759, 78651, 78772; county routing grid remains Travis County.
 

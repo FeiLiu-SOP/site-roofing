@@ -11,11 +11,14 @@ lng: -83.1300
 zipSample: ["48220"]
 zipCodes: ["48220"]
 localPaths: ["Oakland County / primary ZIP 48220", "Oakland County / ZIP 48220 sector", "Oakland County / coords 42.4600, -83.1300", "Oakland County / elevation 650 ft band"]
-zillowHomeValueUsd: 245139
 ---
 
-**Engineering Notice for Ferndale:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Ferndale:** Shingle, flashing, and ventilation review recorded at 650 ft AMSL context (Oakland County).
 
+
+Emergency roof service in Ferndale, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Oakland County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work service in Ferndale, MI, Oakland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Regulatory note: Ferndale, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -25,15 +28,13 @@ TPO seam welds in Ferndale, MI commercial sections need probe tests after freeze
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: When should permanent service start? In Ferndale, MI, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Ferndale, MI, delayed dry-in can expand insulation and ceiling repairs.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
-
-Scope trace: chimney cricket slope plus counter-flashing reglet depth referenced in Oakland County county grid review.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Regional mesh label Oakland County: moisture and logistics baselines are keyed to Ferndale, MI before niche-specific work begins.
 

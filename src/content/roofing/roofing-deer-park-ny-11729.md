@@ -6,16 +6,19 @@ state: "NY"
 zipCode: "11729"
 county: "Suffolk County"
 elevationFt: 82
-lat: 40.7600
-lng: -73.3200
+lat: 40.7705
+lng: -73.3500
 zipSample: ["11729"]
 zipCodes: ["11729"]
-localPaths: ["Suffolk County / primary ZIP 11729", "Suffolk County / ZIP 11729 sector", "Suffolk County / elevation 82 ft band", "Suffolk County / coords 40.7600, -73.3200"]
-zillowHomeValueUsd: 639053
+localPaths: ["Suffolk County / primary ZIP 11729", "Suffolk County / ZIP 11729 sector", "Suffolk County / elevation 82 ft band", "Suffolk County / coords 40.7705, -73.3500"]
 ---
 
-**Engineering Notice for Deer Park:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Deer Park:** Roof repair scope references 82 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Suffolk County.
 
+
+Emergency roof remediation in Deer Park, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Suffolk County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof remediation crews serving Deer Park, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -27,11 +30,11 @@ Low-slope sections in Deer Park, NY need positive drainage before membrane repai
 
 Wind-zone note: Deer Park, NY exposure class can change starter-strip and cap nail schedules.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-roof service brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Deer Park intake packet.
+Roof remediation brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Deer Park shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 11729.
 

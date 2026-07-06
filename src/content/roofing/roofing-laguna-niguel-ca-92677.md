@@ -11,11 +11,14 @@ lng: -117.7000
 zipSample: ["92677", "92607"]
 zipCodes: ["92677", "92607"]
 localPaths: ["Orange County / ZIP 92607 sector", "Orange County / coords 33.5300, -117.7000", "Orange County / ZIP 92677 sector", "Orange County / primary ZIP 92677", "Orange County / elevation 489 ft band"]
-zillowHomeValueUsd: 1498196
 ---
 
-**Engineering Notice for Laguna Niguel:** Structural loading calculated based on 489 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Laguna Niguel:** Roof repair scope references 489 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Orange County.
 
+
+Emergency roof restoration in Laguna Niguel, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Orange County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Laguna Niguel, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -27,11 +30,9 @@ Freeze-thaw cycles around Laguna Niguel, CA stress nail pops along eaves and rak
 
 Regulatory note: Laguna Niguel, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
-
-roof work brief: shingle exposure calibration and chimney cricket slope were cross-checked for the Laguna Niguel intake packet.
 
 On-site sector marker: Orange County / ZIP 92607 sector — logged for map parity and ZIP-corridor verification.
 

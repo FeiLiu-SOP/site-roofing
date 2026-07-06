@@ -11,11 +11,14 @@ lng: -86.6400
 zipSample: ["32548", "32547"]
 zipCodes: ["32547", "32548"]
 localPaths: ["Okaloosa County / primary ZIP 32548", "Okaloosa County / ZIP 32548 sector", "Okaloosa County / elevation 56 ft band", "Okaloosa County / ZIP 32547 sector", "Okaloosa County / coords 30.4400, -86.6400"]
-zillowHomeValueUsd: 338692
 ---
 
-**Engineering Notice for Wright:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Okaloosa County.
+**Engineering Notice for Wright:** Storm and emergency leak triage uses 56 ft elevation band with Okaloosa County service-area context for roofing repairs.
 
+
+Licensed roof restoration crews serving Wright, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Wright, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Okaloosa County clarifies whether service or replacement fits the damage pattern.
 
 Regulatory note: Wright, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -34,8 +37,6 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 We coordinate Wright, FL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-Field routing: synthetic underlayment slip paired with soffit intake free area near ZIP 32548.
 
 On-site sector marker: Okaloosa County / primary ZIP 32548 — logged for map parity and ZIP-corridor verification.
 

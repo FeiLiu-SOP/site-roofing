@@ -11,13 +11,16 @@ lng: -100.4800
 zipSample: ["78852"]
 zipCodes: ["78852"]
 localPaths: ["Maverick County / coords 28.7100, -100.4800", "Maverick County / ZIP 78852 sector", "Maverick County / elevation 787 ft band", "Maverick County / primary ZIP 78852"]
-zillowHomeValueUsd: 230786
 ---
 
-**Engineering Notice for Eagle Pass:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Maverick County.
+**Engineering Notice for Eagle Pass:** Shingle, flashing, and ventilation review recorded at 787 ft AMSL context (Maverick County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Certified roof remediation crews serving Eagle Pass, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service service in Eagle Pass, TX, Maverick County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -31,9 +34,7 @@ Low-slope sections in Eagle Pass, TX need positive drainage before membrane repa
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-roofing service brief: deck sheathing thickness and counter-flashing reglet depth were cross-checked for the Eagle Pass intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 78852.
+Roof remediation brief: deck sheathing thickness and counter-flashing reglet depth were cross-checked for the Eagle Pass shingle and leak scope.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Maverick County and primary ZIP 78852. Terrain reference: 787 ft. Center point: 28.7100, -100.4800. ZIP sample: 78852. Regional routing note: Maverick County traffic flow is balanced around ZIP 78852 service demand.
 

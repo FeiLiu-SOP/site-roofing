@@ -11,11 +11,14 @@ lng: -94.9300
 zipSample: ["66030"]
 zipCodes: ["66030"]
 localPaths: ["Johnson County / ZIP 66030 sector", "Johnson County / primary ZIP 66030", "Johnson County / coords 38.8100, -94.9300", "Johnson County / elevation 1070 ft band"]
-zillowHomeValueUsd: 352621
 ---
 
-**Engineering Notice for Gardner:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Gardner:** Shingle, flashing, and ventilation review recorded at 1070 ft AMSL context (Johnson County).
 
+
+When wind or hail hits Gardner, KS, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof service in Gardner, KS often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Johnson County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Tile underlayment age in Gardner, KS can fail independently of visible tile cracks.
 
@@ -27,13 +30,11 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Step: stage tear-off debris paths away from landscape drains.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
-
-Field routing: counter-flashing reglet depth paired with synthetic underlayment slip near ZIP 66030.
 
 On-site sector marker: Johnson County / coords 38.8100, -94.9300 — logged for map parity and ZIP-corridor verification.
 

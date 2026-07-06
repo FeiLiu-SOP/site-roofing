@@ -11,13 +11,16 @@ lng: -90.3000
 zipSample: ["63136", "63135"]
 zipCodes: ["63136", "63135"]
 localPaths: ["St. Louis County / ZIP 63135 sector", "St. Louis County / primary ZIP 63136", "St. Louis County / elevation 574 ft band", "St. Louis County / ZIP 63136 sector", "St. Louis County / coords 38.7500, -90.3000"]
-zillowHomeValueUsd: 85945
 ---
 
-**Engineering Notice for Ferguson:** Structural loading calculated based on 574 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Ferguson:** Roof repair scope references 574 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in St. Louis County.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Roofing service restoration in Ferguson, MO, St. Louis County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Ferguson, MO, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 63136.
 
@@ -25,7 +28,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Metal panel oil-canning in Ferguson, MO may signal clip spacing issues, not wind damage alone.
 
-FAQ: When should permanent remediation start? In Ferguson, MO, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Ferguson, MO, delayed dry-in can expand insulation and ceiling repairs.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -33,9 +36,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Scope trace: ice-barrier lap sequence plus synthetic underlayment slip referenced in St. Louis County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 63135/63136.
+Scope trace: ice-barrier lap sequence plus synthetic underlayment slip referenced in St. Louis County storm and leak review.
 
 On-site sector marker: St. Louis County / primary ZIP 63136 — logged for map parity and ZIP-corridor verification.
 

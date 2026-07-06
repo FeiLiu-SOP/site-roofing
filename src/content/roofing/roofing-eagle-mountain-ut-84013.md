@@ -11,11 +11,14 @@ lng: -112.0100
 zipSample: ["84005", "84013"]
 zipCodes: ["84005", "84013"]
 localPaths: ["Utah County / coords 40.3100, -112.0100", "Utah County / ZIP 84013 sector", "Utah County / primary ZIP 84013", "Utah County / ZIP 84005 sector", "Utah County / elevation 4885 ft band"]
-zillowHomeValueUsd: 538913
 ---
 
-**Engineering Notice for Eagle Mountain:** Structural loading calculated based on 4885 ft terrain assessment. Regional dispatch grid: Utah County.
+**Engineering Notice for Eagle Mountain:** Roof repair scope references 4885 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Utah County.
 
+
+Storm damage roof service in Eagle Mountain, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Utah County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof remediation in Eagle Mountain, UT often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Utah County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -31,11 +34,9 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
-
-Scope trace: skylight curb height plus valley metal gauge referenced in Utah County county grid review.
 
 Primary postal anchor 84013 with multi-ZIP overlap in Eagle Mountain; field packets tag Utah County for county-grid reconciliation.
 

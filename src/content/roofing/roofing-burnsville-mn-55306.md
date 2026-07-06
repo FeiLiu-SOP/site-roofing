@@ -11,11 +11,14 @@ lng: -93.2800
 zipSample: ["55337", "55306"]
 zipCodes: ["55306", "55337"]
 localPaths: ["Dakota County / coords 44.7600, -93.2800", "Dakota County / ZIP 55306 sector", "Dakota County / primary ZIP 55306", "Dakota County / ZIP 55337 sector", "Dakota County / elevation 968 ft band"]
-zillowHomeValueUsd: 416553
 ---
 
-**Engineering Notice for Burnsville:** Structural loading calculated based on 968 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Burnsville:** Roof repair scope references 968 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Dakota County.
 
+
+Emergency roof restoration in Burnsville, MN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Dakota County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service remediation in Burnsville, MN, Dakota County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -29,15 +32,13 @@ FAQ: How long can shingles wait after storm damage? In Burnsville, MN, delayed d
 
 Regulatory note: Burnsville, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wind-zone note: Burnsville, MN exposure class can change starter-strip and cap nail schedules.
 
 Step: compare shingle manufacturer wind-zone ratings for Burnsville, MN exposure class.
 
-Scope trace: wind uplift clip spacing plus valley metal gauge referenced in Dakota County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 55337/55306.
+Scope trace: wind uplift clip spacing plus valley metal gauge referenced in Dakota County storm and leak review.
 
 On-site sector marker: Dakota County / ZIP 55306 sector — logged for map parity and ZIP-corridor verification.
 

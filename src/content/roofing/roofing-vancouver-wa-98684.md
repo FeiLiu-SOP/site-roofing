@@ -11,17 +11,20 @@ lng: -122.6000
 zipSample: ["98664", "98684", "98661", "98682", "98662"]
 zipCodes: ["98663", "98687", "98683", "98662", "98661", "98684", "98665", "98664", "98682", "98660"]
 localPaths: ["Clark County / coords 45.6400, -122.6000", "Clark County / ZIP 98662 sector", "Clark County / primary ZIP 98684", "Clark County / ZIP 98684 sector", "Clark County / elevation 180 ft band"]
-zillowHomeValueUsd: 491650
 ---
 
-**Engineering Notice for Vancouver:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Vancouver:** Roof repair scope references 180 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Clark County.
 
+
+Storm damage roof work in Vancouver, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Clark County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof restoration in Vancouver, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Clark County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Our Vancouver, WA dispatch packets reference county grid Clark County and elevation band 180 ft.
+Our Vancouver, WA remediation packets reference Clark County and elevation band 180 ft for shingle and leak scope.
 
 Risk flag: Tile underlayment age in Vancouver, WA can fail independently of visible tile cracks.
 
@@ -35,7 +38,7 @@ Regulatory note: Vancouver, WA projects may trigger ice-barrier upgrades when te
 
 Across Vancouver, WA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-roof work brief: wind uplift clip spacing and ice-barrier lap sequence were cross-checked for the Vancouver intake packet.
+Roof remediation brief: wind uplift clip spacing and ice-barrier lap sequence were cross-checked for the Vancouver shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 98687/98663/98684.
 

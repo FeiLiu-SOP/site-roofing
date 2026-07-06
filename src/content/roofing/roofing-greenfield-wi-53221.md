@@ -11,11 +11,14 @@ lng: -88.0100
 zipSample: ["53221", "53228", "53220"]
 zipCodes: ["53220", "53221", "53228"]
 localPaths: ["Milwaukee County / ZIP 53221 sector", "Milwaukee County / ZIP 53220 sector", "Milwaukee County / elevation 817 ft band", "Milwaukee County / coords 42.9600, -88.0100", "Milwaukee County / ZIP 53228 sector"]
-zillowHomeValueUsd: 287556
 ---
 
-**Engineering Notice for Greenfield:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Milwaukee County.
+**Engineering Notice for Greenfield:** Shingle, flashing, and ventilation review recorded at 817 ft AMSL context (Milwaukee County).
 
+
+Storm damage roof service in Greenfield, WI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Milwaukee County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof restoration in Greenfield, WI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Milwaukee County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Coastal humidity in Greenfield, WI can slow shingle seal-down after shoulder-season storms.
 
@@ -31,9 +34,7 @@ Wind-zone note: Greenfield, WI exposure class can change starter-strip and cap n
 
 We coordinate Greenfield, WI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Milwaukee County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 53220/53221/53228.
+Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Milwaukee County storm and leak review.
 
 On-site sector marker: Milwaukee County / ZIP 53221 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -80.6600
 zipSample: ["28104"]
 zipCodes: ["28104"]
 localPaths: ["Union County / elevation 679 ft band", "Union County / primary ZIP 28104", "Union County / coords 35.1100, -80.6600", "Union County / ZIP 28104 sector"]
-zillowHomeValueUsd: 594941
 ---
 
-**Engineering Notice for Stallings:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Union County.
+**Engineering Notice for Stallings:** Shingle, flashing, and ventilation review recorded at 679 ft AMSL context (Union County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Licensed roof remediation crews serving Stallings, NC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service service in Stallings, NC, Union County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: In Stallings, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -33,9 +36,7 @@ Attic ventilation deficits in Stallings, NC can mimic roof leaks at ceiling pene
 
 Wind-zone note: Stallings, NC exposure class can change starter-strip and cap nail schedules.
 
-Step: separate emergency tarp scope from permanent remediation line items.
-
-Scope trace: synthetic underlayment slip plus shingle exposure calibration referenced in Union County county grid review.
+Step: separate emergency tarp scope from permanent restoration line items.
 
 On-site sector marker: Union County / ZIP 28104 sector — logged for map parity and ZIP-corridor verification.
 

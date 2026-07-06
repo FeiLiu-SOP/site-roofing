@@ -11,15 +11,18 @@ lng: -80.3200
 zipSample: ["26330", "26306", "26301"]
 zipCodes: ["26301", "26330", "26306"]
 localPaths: ["Harrison County / primary ZIP 26301", "Harrison County / coords 39.2900, -80.3200", "Harrison County / ZIP 26301 sector", "Harrison County / ZIP 26306 sector", "Harrison County / elevation 1099 ft band"]
-zillowHomeValueUsd: 116866
 ---
 
-**Engineering Notice for Clarksburg:** Structural loading calculated based on 1099 ft terrain assessment. Regional dispatch grid: Harrison County.
+**Engineering Notice for Clarksburg:** Roof repair scope references 1099 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Harrison County.
 
+
+Storm damage roof service in Clarksburg, WV may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Harrison County clarifies whether remediation or replacement fits the damage pattern.
+
+Licensed roof remediation crews serving Clarksburg, WV review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Is partial dry-in possible? In Clarksburg, WV, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -31,7 +34,7 @@ Code context: Ventilation ratios for Clarksburg, WV attics should be checked aga
 
 Across Clarksburg, WV, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Scope trace: counter-flashing reglet depth plus ridge cap nail schedule referenced in Harrison County county grid review.
+Scope trace: counter-flashing reglet depth plus ridge cap nail schedule referenced in Harrison County storm and leak review.
 
 Primary postal anchor 26301 with multi-ZIP overlap in Clarksburg; field packets tag Harrison County for county-grid reconciliation.
 

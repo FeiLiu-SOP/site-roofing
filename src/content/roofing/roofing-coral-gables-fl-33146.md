@@ -11,11 +11,14 @@ lng: -80.2700
 zipSample: ["33134", "33234", "33206", "33158", "33143"]
 zipCodes: ["33114", "33143", "33158", "33156", "33134", "33146", "33206", "33234"]
 localPaths: ["Miami-Dade County / ZIP 33158 sector", "Miami-Dade County / elevation 43 ft band", "Miami-Dade County / coords 25.7000, -80.2700", "Miami-Dade County / ZIP 33206 sector", "Miami-Dade County / ZIP 33134 sector"]
-zillowHomeValueUsd: 1867147
 ---
 
-**Engineering Notice for Coral Gables:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Coral Gables:** Shingle, flashing, and ventilation review recorded at 43 ft AMSL context (Miami-Dade County).
 
+
+Emergency roof service in Coral Gables, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Miami-Dade County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service service in Coral Gables, FL, Miami-Dade County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Can you tarp only part of the roof? In Coral Gables, FL, yes—if slope and anchor points support safe tie-offs.
 
@@ -27,11 +30,9 @@ Metal panel oil-canning in Coral Gables, FL may signal clip spacing issues, not 
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Our Coral Gables, FL dispatch packets reference county grid Miami-Dade County and elevation band 43 ft.
+Our Coral Gables, FL service packets reference Miami-Dade County and elevation band 43 ft for shingle and leak scope.
 
 Wind-zone note: Coral Gables, FL exposure class can change starter-strip and cap nail schedules.
-
-roofing service brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Coral Gables intake packet.
 
 On-site sector marker: Miami-Dade County / ZIP 33146 sector — logged for map parity and ZIP-corridor verification.
 

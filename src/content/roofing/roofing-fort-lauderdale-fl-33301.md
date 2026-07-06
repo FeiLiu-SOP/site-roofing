@@ -11,11 +11,14 @@ lng: -80.1500
 zipSample: ["33305", "33301", "33315", "33320", "33309"]
 zipCodes: ["33346", "33312", "33348", "33340", "33306", "33309", "33320", "33308", "33315", "33339", "33305", "33304"]
 localPaths: ["Broward County / coords 26.1400, -80.1500", "Broward County / ZIP 33309 sector", "Broward County / ZIP 33301 sector", "Broward County / elevation 26 ft band", "Broward County / ZIP 33305 sector"]
-zillowHomeValueUsd: 868503
 ---
 
-**Engineering Notice for Fort Lauderdale:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for Fort Lauderdale:** Storm and emergency leak triage uses 26 ft elevation band with Broward County service-area context for roofing repairs.
 
+
+Storm damage roof work in Fort Lauderdale, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Broward County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Fort Lauderdale, FL, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -31,9 +34,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Scope trace: ridge cap nail schedule plus pipe boot manufacturer match referenced in Broward County county grid review.
+Scope trace: ridge cap nail schedule plus pipe boot manufacturer match referenced in Broward County storm and leak review.
 
 On-site sector marker: Broward County / elevation 26 ft band — logged for map parity and ZIP-corridor verification.
 

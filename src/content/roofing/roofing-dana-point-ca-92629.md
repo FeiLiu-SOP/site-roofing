@@ -11,11 +11,14 @@ lng: -117.7000
 zipSample: ["92629", "92624"]
 zipCodes: ["92629", "92624"]
 localPaths: ["Orange County / primary ZIP 92629", "Orange County / elevation 285 ft band", "Orange County / coords 33.4700, -117.7000", "Orange County / ZIP 92624 sector", "Orange County / ZIP 92629 sector"]
-zillowHomeValueUsd: 1753680
 ---
 
-**Engineering Notice for Dana Point:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Dana Point:** Shingle, flashing, and ventilation review recorded at 285 ft AMSL context (Orange County).
 
+
+Certified roof restoration crews serving Dana Point, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Dana Point, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Orange County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: In Dana Point, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -29,13 +32,13 @@ Risk flag: Tile underlayment age in Dana Point, CA can fail independently of vis
 
 Tile and shingle mixes in Dana Point, CA require different fastener patterns at transitions.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Regulatory note: Dana Point, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Orange County county grid review.
+Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Orange County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 92624/92629.
 

@@ -11,11 +11,14 @@ lng: -121.5900
 zipSample: ["95020"]
 zipCodes: ["95020"]
 localPaths: ["Santa Clara County / ZIP 95020 sector", "Santa Clara County / coords 37.0000, -121.5900", "Santa Clara County / elevation 210 ft band", "Santa Clara County / primary ZIP 95020"]
-zillowHomeValueUsd: 1080104
 ---
 
-**Engineering Notice for Gilroy:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Gilroy:** Roof repair scope references 210 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Santa Clara County.
 
+
+Roof work restoration in Gilroy, CA, Santa Clara County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Gilroy, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -33,9 +36,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Attic ventilation deficits in Gilroy, CA can mimic roof leaks at ceiling penetrations.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-roof work brief: attic baffle spacing and counter-flashing reglet depth were cross-checked for the Gilroy intake packet.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Regional mesh label Santa Clara County: moisture and logistics baselines are keyed to Gilroy, CA before niche-specific work begins.
 

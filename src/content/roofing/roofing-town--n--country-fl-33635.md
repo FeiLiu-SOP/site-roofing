@@ -11,13 +11,16 @@ lng: -82.5800
 zipSample: ["33635", "33634", "33615", "33685"]
 zipCodes: ["33635", "33685", "33634", "33615"]
 localPaths: ["Hillsborough County / coords 28.0100, -82.5800", "Hillsborough County / ZIP 33685 sector", "Hillsborough County / ZIP 33634 sector", "Hillsborough County / primary ZIP 33635", "Hillsborough County / ZIP 33635 sector"]
-zillowHomeValueUsd: 445883
 ---
 
-**Engineering Notice for Town 'n' Country:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Town 'n' Country:** Roof repair scope references 30 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Hillsborough County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Qualified roof remediation crews serving Town 'n' Country, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Town 'n' Country, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Hillsborough County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Is partial dry-in possible? In Town 'n' Country, FL, yes—if slope and anchor points support safe tie-offs.
 
@@ -35,7 +38,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Material note: In Town 'n' Country, FL, algae-resistant granules may be specified for north-facing slopes.
 
-roofing service brief: deck sheathing thickness and valley metal gauge were cross-checked for the Town 'n' Country intake packet.
+Roof service brief: deck sheathing thickness and valley metal gauge were cross-checked for the Town 'n' Country shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 33615/33634/33685.
 

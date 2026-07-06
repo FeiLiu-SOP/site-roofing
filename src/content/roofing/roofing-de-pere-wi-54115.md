@@ -11,17 +11,20 @@ lng: -88.0800
 zipSample: ["54115", "54344"]
 zipCodes: ["54344", "54115"]
 localPaths: ["Brown County / elevation 620 ft band", "Brown County / coords 44.4300, -88.0800", "Brown County / primary ZIP 54115", "Brown County / ZIP 54344 sector", "Brown County / ZIP 54115 sector"]
-zillowHomeValueUsd: 417734
 ---
 
-**Engineering Notice for De Pere:** Structural loading calculated based on 620 ft terrain assessment. Regional dispatch grid: Brown County.
+**Engineering Notice for De Pere:** Roof repair scope references 620 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Brown County.
 
+
+Storm damage roofing service in De Pere, WI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Brown County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof restoration in De Pere, WI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Brown County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: In De Pere, WI, interior stains may track from HVAC condensate rather than roof cladding.
 
 Step: map ventilation intake and exhaust pairs for De Pere, WI attic runs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -30,8 +33,6 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 Code context: Ventilation ratios for De Pere, WI attics should be checked against current mechanical exhaust additions.
 
 Valley metal in De Pere, WI should be reviewed whenever granule loss tracks the water line.
-
-Scope trace: soffit intake free area plus shingle exposure calibration referenced in Brown County county grid review.
 
 Coordinate-anchored dispatch note: center reference 44.4300, -88.0800 at elevation ~620 ft aligns with Brown County intake staging.
 

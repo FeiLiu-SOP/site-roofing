@@ -11,13 +11,16 @@ lng: -77.1900
 zipSample: ["22067", "22107", "22108", "22109", "22106"]
 zipCodes: ["22101", "22108", "22107", "22102", "22067", "22109", "22103", "22046", "22043", "22106"]
 localPaths: ["Fairfax County / ZIP 22109 sector", "Fairfax County / ZIP 22067 sector", "Fairfax County / coords 38.9400, -77.1900", "Fairfax County / ZIP 22107 sector", "Fairfax County / ZIP 22106 sector"]
-zillowHomeValueUsd: 1052529
 ---
 
-**Engineering Notice for McLean:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for McLean:** Roof repair scope references 341 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Fairfax County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+When wind or hail hits McLean, VA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof service in McLean, VA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Fairfax County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -30,8 +33,6 @@ Parapet coping movement in McLean, VA can channel water behind wall cladding.
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Regulatory note: McLean, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
-
-roof work brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the McLean intake packet.
 
 On-site sector marker: Fairfax County / ZIP 22107 sector — logged for map parity and ZIP-corridor verification.
 

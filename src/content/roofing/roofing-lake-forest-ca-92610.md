@@ -11,11 +11,14 @@ lng: -117.6700
 zipSample: ["92609", "92630", "92610"]
 zipCodes: ["92610", "92609", "92630"]
 localPaths: ["Orange County / ZIP 92609 sector", "Orange County / coords 33.6600, -117.6700", "Orange County / primary ZIP 92610", "Orange County / ZIP 92610 sector", "Orange County / ZIP 92630 sector"]
-zillowHomeValueUsd: 1272003
 ---
 
-**Engineering Notice for Lake Forest:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Lake Forest:** Storm and emergency leak triage uses 679 ft elevation band with Orange County service-area context for roofing repairs.
 
+
+Storm damage roof service in Lake Forest, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether restoration or replacement fits the damage pattern.
+
+Licensed roof remediation crews serving Lake Forest, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -23,7 +26,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -31,9 +34,7 @@ Code context: Ventilation ratios for Lake Forest, CA attics should be checked ag
 
 Tile and shingle mixes in Lake Forest, CA require different fastener patterns at transitions.
 
-Scope trace: deck sheathing thickness plus soffit intake free area referenced in Orange County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 92630/92610/92609.
+Scope trace: deck sheathing thickness plus soffit intake free area referenced in Orange County storm and leak review.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~679 ft across the Orange County area. Coordinates: 33.6600, -117.6700. ZIP sample: 92609, 92610, 92630. Regional routing note: Orange County traffic flow is balanced around ZIP 92610 service demand.
 

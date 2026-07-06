@@ -11,11 +11,14 @@ lng: -79.0400
 zipSample: ["29527", "29528", "29526"]
 zipCodes: ["29526", "29528", "29527"]
 localPaths: ["Horry County / ZIP 29527 sector", "Horry County / elevation 39 ft band", "Horry County / coords 33.8400, -79.0400", "Horry County / ZIP 29528 sector", "Horry County / ZIP 29526 sector"]
-zillowHomeValueUsd: 259517
 ---
 
-**Engineering Notice for Conway:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Horry County.
+**Engineering Notice for Conway:** Storm and emergency leak triage uses 39 ft elevation band with Horry County service-area context for roofing repairs.
 
+
+Roof work restoration in Conway, SC, Horry County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof service crews serving Conway, SC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: How long can shingles wait after storm damage? In Conway, SC, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -29,11 +32,11 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Material note: In Conway, SC, algae-resistant granules may be specified for north-facing slopes.
 
-Our Conway, SC dispatch packets reference county grid Horry County and elevation band 39 ft.
+Our Conway, SC service packets reference Horry County and elevation band 39 ft for shingle and leak scope.
 
 Code context: Ventilation ratios for Conway, SC attics should be checked against current mechanical exhaust additions.
 
-Field routing: deck sheathing thickness paired with drip-edge metal profile near ZIP 29527.
+Local service note: deck sheathing thickness paired with drip-edge metal profile near ZIP 29527 for emergency roofing service repairs.
 
 Primary postal anchor 29527 with multi-ZIP overlap in Conway; field packets tag Horry County for county-grid reconciliation.
 

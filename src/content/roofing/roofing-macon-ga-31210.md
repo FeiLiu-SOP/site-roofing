@@ -11,11 +11,14 @@ lng: -83.7000
 zipSample: ["31208", "31220", "31217", "31216", "31210"]
 zipCodes: ["31213", "31205", "31221", "31294", "31202", "31201", "31203", "31216", "31208", "31217", "31296", "31204"]
 localPaths: ["Bibb County / primary ZIP 31210", "Bibb County / ZIP 31220 sector", "Bibb County / ZIP 31210 sector", "Bibb County / ZIP 31217 sector", "Bibb County / coords 32.8100, -83.7000"]
-zillowHomeValueUsd: 286895
 ---
 
-**Engineering Notice for Macon:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Bibb County.
+**Engineering Notice for Macon:** Storm and emergency leak triage uses 413 ft elevation band with Bibb County service-area context for roofing repairs.
 
+
+Roof work restoration in Macon, GA, Bibb County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof service crews serving Macon, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: map ventilation intake and exhaust pairs for Macon, GA attic runs.
 
@@ -29,9 +32,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Freeze-thaw cycles around Macon, GA stress nail pops along eaves and rake edges.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
-
-roof work brief: synthetic underlayment slip and chimney cricket slope were cross-checked for the Macon intake packet.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 **Regional Infrastructure Brief:** Service coverage aligns with Bibb County and primary ZIP 31210. Terrain reference: 413 ft. Center point: 32.8100, -83.7000. ZIP sample: 31202, 31221, 31296, 31213, 31211. Regional routing note: Bibb County traffic flow is balanced around ZIP 31210 service demand.
 

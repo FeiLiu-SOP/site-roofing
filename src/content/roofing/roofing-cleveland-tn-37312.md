@@ -11,11 +11,14 @@ lng: -84.8700
 zipSample: ["37312", "37320", "37311"]
 zipCodes: ["37320", "37312", "37311"]
 localPaths: ["Bradley County / ZIP 37320 sector", "Bradley County / coords 35.1800, -84.8700", "Bradley County / ZIP 37311 sector", "Bradley County / ZIP 37312 sector", "Bradley County / elevation 817 ft band"]
-zillowHomeValueUsd: 350246
 ---
 
-**Engineering Notice for Cleveland:** Structural loading calculated based on 817 ft terrain assessment. Regional dispatch grid: Bradley County.
+**Engineering Notice for Cleveland:** Roof repair scope references 817 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Bradley County.
 
+
+Storm damage roof work in Cleveland, TN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bradley County clarifies whether service or replacement fits the damage pattern.
+
+Roofing service restoration in Cleveland, TN, Bradley County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Across Cleveland, TN, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -31,11 +34,9 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 Risk flag: In Cleveland, TN, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roof work brief: deck sheathing thickness and synthetic underlayment slip were cross-checked for the Cleveland intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 37312/37320/37311.
+Roof remediation brief: deck sheathing thickness and synthetic underlayment slip were cross-checked for the Cleveland shingle and leak scope.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Bradley County and primary ZIP 37312. Terrain reference: 817 ft. Center point: 35.1800, -84.8700. ZIP sample: 37311, 37320, 37312. Logistics priority: Serving residential sectors across Bradley County and north-east ZIP 37312 grid.
 

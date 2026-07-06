@@ -11,11 +11,14 @@ lng: -88.1500
 zipSample: ["60435", "60434", "60421", "60436", "60432"]
 zipCodes: ["60421", "60431", "60586", "60433", "60436", "60435", "60432", "60434"]
 localPaths: ["Will County / ZIP 60432 sector", "Will County / ZIP 60435 sector", "Will County / elevation 614 ft band", "Will County / coords 41.5200, -88.1500", "Will County / ZIP 60436 sector"]
-zillowHomeValueUsd: 311132
 ---
 
-**Engineering Notice for Joliet:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for Joliet:** Shingle, flashing, and ventilation review recorded at 614 ft AMSL context (Will County).
 
+
+Roof service service in Joliet, IL, Will County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Joliet, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Will County clarifies whether service or replacement fits the damage pattern.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -27,15 +30,15 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wind-zone note: Joliet, IL exposure class can change starter-strip and cap nail schedules.
 
 Freeze-thaw cycles around Joliet, IL stress nail pops along eaves and rake edges.
 
-roof service brief: pipe boot manufacturer match and valley metal gauge were cross-checked for the Joliet intake packet.
+Roof restoration brief: pipe boot manufacturer match and valley metal gauge were cross-checked for the Joliet shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 60433/60436/60435.
 

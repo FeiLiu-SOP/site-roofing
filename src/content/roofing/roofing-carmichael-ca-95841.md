@@ -11,11 +11,14 @@ lng: -121.3300
 zipSample: ["95841", "95609", "95628", "95608"]
 zipCodes: ["95608", "95841", "95609", "95628"]
 localPaths: ["Sacramento County / coords 38.6300, -121.3300", "Sacramento County / ZIP 95608 sector", "Sacramento County / ZIP 95628 sector", "Sacramento County / ZIP 95609 sector", "Sacramento County / ZIP 95841 sector"]
-zillowHomeValueUsd: 433330
 ---
 
-**Engineering Notice for Carmichael:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Carmichael:** Storm and emergency leak triage uses 118 ft elevation band with Sacramento County service-area context for roofing repairs.
 
+
+Licensed roof remediation crews serving Carmichael, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Carmichael, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Sacramento County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -33,9 +36,9 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Our Carmichael, CA dispatch packets reference county grid Sacramento County and elevation band 118 ft.
+Our Carmichael, CA service packets reference Sacramento County and elevation band 118 ft for shingle and leak scope.
 
-Scope trace: skylight curb height plus soffit intake free area referenced in Sacramento County county grid review.
+Scope trace: skylight curb height plus soffit intake free area referenced in Sacramento County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 95628/95608/95841.
 

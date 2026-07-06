@@ -11,11 +11,14 @@ lng: -92.8500
 zipSample: ["55033"]
 zipCodes: ["55033"]
 localPaths: ["Dakota County / elevation 801 ft band", "Dakota County / ZIP 55033 sector", "Dakota County / coords 44.7300, -92.8500", "Dakota County / primary ZIP 55033"]
-zillowHomeValueUsd: 380717
 ---
 
-**Engineering Notice for Hastings:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Hastings:** Roof repair scope references 801 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Dakota County.
 
+
+Qualified roof remediation crews serving Hastings, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Hastings, MN, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Attic ventilation deficits in Hastings, MN can mimic roof leaks at ceiling penetrations.
 
@@ -31,9 +34,7 @@ Tip: Note recent wind events when filing insurance photos for Hastings, MN.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-Our Hastings, MN dispatch packets reference county grid Dakota County and elevation band 801 ft.
-
-roof work brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Hastings intake packet.
+Our Hastings, MN service packets reference Dakota County and elevation band 801 ft for shingle and leak scope.
 
 On-site sector marker: Dakota County / primary ZIP 55033 — logged for map parity and ZIP-corridor verification.
 

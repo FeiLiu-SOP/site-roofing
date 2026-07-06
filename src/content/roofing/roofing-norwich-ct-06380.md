@@ -11,19 +11,22 @@ lng: -72.0900
 zipSample: ["06360", "06389", "06380"]
 zipCodes: ["06389", "06360", "06380"]
 localPaths: ["Southeastern Connecticut County / primary ZIP 06380", "Southeastern Connecticut County / elevation 141 ft band", "Southeastern Connecticut County / coords 41.5500, -72.0900", "Southeastern Connecticut County / ZIP 06389 sector", "Southeastern Connecticut County / ZIP 06360 sector"]
-zillowHomeValueUsd: 282006
 ---
 
-**Engineering Notice for Norwich:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: Southeastern Connecticut County.
+**Engineering Notice for Norwich:** Storm and emergency leak triage uses 141 ft elevation band with Southeastern Connecticut County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+When wind or hail hits Norwich, CT, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service restoration in Norwich, CT, Southeastern Connecticut County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-FAQ: When should permanent restoration start? In Norwich, CT, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In Norwich, CT, delayed dry-in can expand insulation and ceiling repairs.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -32,8 +35,6 @@ In Norwich, CT, wind-driven rain can lift shingle tabs before owners notice deck
 Step: stage tear-off debris paths away from landscape drains.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
-
-roofing service brief: synthetic underlayment slip and ice-barrier lap sequence were cross-checked for the Norwich intake packet.
 
 ZIP-corridor snapshot for Norwich, CT: sampled sectors include 06380, 06389, 06360; county routing grid remains Southeastern Connecticut County.
 

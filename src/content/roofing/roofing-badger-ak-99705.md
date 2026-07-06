@@ -11,11 +11,14 @@ lng: -147.3900
 zipSample: ["99705", "99711"]
 zipCodes: ["99705", "99711"]
 localPaths: ["Fairbanks North Star County / primary ZIP 99705", "Fairbanks North Star County / ZIP 99711 sector", "Fairbanks North Star County / coords 64.8000, -147.3900", "Fairbanks North Star County / ZIP 99705 sector", "Fairbanks North Star County / elevation 0 ft band"]
-zillowHomeValueUsd: 324108
 ---
 
-**Engineering Notice for Badger:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Fairbanks North Star County.
+**Engineering Notice for Badger:** Shingle, flashing, and ventilation review recorded at 0 ft AMSL context (Fairbanks North Star County).
 
+
+Roof service service in Badger, AK, Fairbanks North Star County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Badger, AK may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Fairbanks North Star County clarifies whether service or replacement fits the damage pattern.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -31,13 +34,11 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Freeze-thaw cycles around Badger, AK stress nail pops along eaves and rake edges.
 
-Our Badger, AK dispatch packets reference county grid Fairbanks North Star County and elevation band 0 ft.
+Our Badger, AK restoration packets reference Fairbanks North Star County and elevation band 0 ft for shingle and leak scope.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 99705.
 
-roof service brief: ridge cap nail schedule and drip-edge metal profile were cross-checked for the Badger intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 99705/99711.
+Roof restoration brief: ridge cap nail schedule and drip-edge metal profile were cross-checked for the Badger shingle and leak scope.
 
 ZIP-corridor snapshot for Badger, AK: sampled sectors include 99711, 99705; county routing grid remains Fairbanks North Star County.
 

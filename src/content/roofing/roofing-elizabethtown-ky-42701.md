@@ -11,11 +11,14 @@ lng: -85.8800
 zipSample: ["42701", "42702"]
 zipCodes: ["42701", "42702"]
 localPaths: ["Hardin County / ZIP 42702 sector", "Hardin County / coords 37.7000, -85.8800", "Hardin County / primary ZIP 42701", "Hardin County / elevation 738 ft band", "Hardin County / ZIP 42701 sector"]
-zillowHomeValueUsd: 269241
 ---
 
-**Engineering Notice for Elizabethtown:** Structural loading calculated based on 738 ft terrain assessment. Regional dispatch grid: Hardin County.
+**Engineering Notice for Elizabethtown:** Storm and emergency leak triage uses 738 ft elevation band with Hardin County service-area context for roofing repairs.
 
+
+Qualified roof remediation crews serving Elizabethtown, KY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Elizabethtown, KY, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -31,7 +34,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Regulatory note: Elizabethtown, KY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-roof service brief: chimney cricket slope and attic baffle spacing were cross-checked for the Elizabethtown intake packet.
+Roof service brief: chimney cricket slope and attic baffle spacing were cross-checked for the Elizabethtown shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 42702/42701.
 

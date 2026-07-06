@@ -11,17 +11,20 @@ lng: -88.3400
 zipSample: ["60012", "60014", "60039"]
 zipCodes: ["60014", "60039", "60012"]
 localPaths: ["McHenry County / elevation 902 ft band", "McHenry County / coords 42.2300, -88.3400", "McHenry County / ZIP 60014 sector", "McHenry County / ZIP 60012 sector", "McHenry County / primary ZIP 60014"]
-zillowHomeValueUsd: 359973
 ---
 
-**Engineering Notice for Crystal Lake:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: McHenry County.
+**Engineering Notice for Crystal Lake:** Storm and emergency leak triage uses 902 ft elevation band with McHenry County service-area context for roofing repairs.
 
+
+Emergency roof restoration in Crystal Lake, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in McHenry County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Crystal Lake, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in McHenry County clarifies whether remediation or replacement fits the damage pattern.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -34,8 +37,6 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 Granule embedment loss on Crystal Lake, IL north slopes can precede mat exposure.
 
 Risk flag: In Crystal Lake, IL, interior stains may track from HVAC condensate rather than roof cladding.
-
-Field routing: drip-edge metal profile paired with starter-strip setback near ZIP 60014.
 
 On-site sector marker: McHenry County / ZIP 60039 sector — logged for map parity and ZIP-corridor verification.
 

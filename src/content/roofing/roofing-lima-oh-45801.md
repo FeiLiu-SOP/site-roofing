@@ -11,11 +11,14 @@ lng: -84.1100
 zipSample: ["45801", "45804", "45805"]
 zipCodes: ["45801", "45805", "45804"]
 localPaths: ["Allen County / ZIP 45805 sector", "Allen County / coords 40.7400, -84.1100", "Allen County / ZIP 45804 sector", "Allen County / primary ZIP 45801", "Allen County / elevation 886 ft band"]
-zillowHomeValueUsd: 139033
 ---
 
-**Engineering Notice for Lima:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Allen County.
+**Engineering Notice for Lima:** Roof repair scope references 886 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Allen County.
 
+
+Roof work restoration in Lima, OH, Allen County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Lima, OH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Allen County clarifies whether remediation or replacement fits the damage pattern.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -29,9 +32,7 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Code context: Ventilation ratios for Lima, OH attics should be checked against current mechanical exhaust additions.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
-
-Scope trace: shingle exposure calibration plus synthetic underlayment slip referenced in Allen County county grid review.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Regional mesh label Allen County: moisture and logistics baselines are keyed to Lima, OH before niche-specific work begins.
 

@@ -11,11 +11,14 @@ lng: -81.8300
 zipSample: ["32073", "32065", "32068"]
 zipCodes: ["32068", "32073", "32065"]
 localPaths: ["Clay County / ZIP 32065 sector", "Clay County / ZIP 32068 sector", "Clay County / ZIP 32073 sector", "Clay County / coords 30.1700, -81.8300", "Clay County / elevation 85 ft band"]
-zillowHomeValueUsd: 325230
 ---
 
-**Engineering Notice for Oakleaf Plantation:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Clay County.
+**Engineering Notice for Oakleaf Plantation:** Roof repair scope references 85 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Clay County.
 
+
+Storm damage roofing service in Oakleaf Plantation, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Clay County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof service service in Oakleaf Plantation, FL, Clay County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -25,15 +28,13 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our Oakleaf Plantation, FL dispatch packets reference county grid Clay County and elevation band 85 ft.
+Our Oakleaf Plantation, FL service packets reference Clay County and elevation band 85 ft for shingle and leak scope.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
 Tile and shingle mixes in Oakleaf Plantation, FL require different fastener patterns at transitions.
 
-Scope trace: ice-barrier lap sequence plus wind uplift clip spacing referenced in Clay County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 32065/32073/32068.
+Scope trace: ice-barrier lap sequence plus wind uplift clip spacing referenced in Clay County storm and leak review.
 
 ZIP-corridor snapshot for Oakleaf Plantation, FL: sampled sectors include 32065, 32073, 32068; county routing grid remains Clay County.
 

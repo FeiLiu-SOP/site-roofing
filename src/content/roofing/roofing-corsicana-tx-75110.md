@@ -11,17 +11,20 @@ lng: -96.4700
 zipSample: ["75109", "75151", "75110"]
 zipCodes: ["75109", "75110", "75151"]
 localPaths: ["Navarro County / primary ZIP 75110", "Navarro County / ZIP 75109 sector", "Navarro County / coords 32.0800, -96.4700", "Navarro County / ZIP 75110 sector", "Navarro County / ZIP 75151 sector"]
-zillowHomeValueUsd: 193026
 ---
 
-**Engineering Notice for Corsicana:** Structural loading calculated based on 436 ft terrain assessment. Regional dispatch grid: Navarro County.
+**Engineering Notice for Corsicana:** Storm and emergency leak triage uses 436 ft elevation band with Navarro County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Corsicana, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Navarro County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof work restoration in Corsicana, TX, Navarro County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Wind-zone note: Corsicana, TX exposure class can change starter-strip and cap nail schedules.
 
 FAQ: Is partial dry-in possible? In Corsicana, TX, yes—if slope and anchor points support safe tie-offs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: separate emergency tarp scope from permanent service line items.
 
@@ -31,7 +34,7 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Low-slope sections in Corsicana, TX need positive drainage before membrane repairs are scoped.
 
-roofing service brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Corsicana intake packet.
+Roof remediation brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Corsicana shingle and leak scope.
 
 ZIP-corridor snapshot for Corsicana, TX: sampled sectors include 75151, 75109, 75110; county routing grid remains Navarro County.
 

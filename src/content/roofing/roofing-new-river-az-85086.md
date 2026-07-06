@@ -11,13 +11,16 @@ lng: -112.0900
 zipSample: ["85086", "85087"]
 zipCodes: ["85087", "85086"]
 localPaths: ["Maricopa County / coords 33.8800, -112.0900", "Maricopa County / elevation 2129 ft band", "Maricopa County / ZIP 85086 sector", "Maricopa County / primary ZIP 85086", "Maricopa County / ZIP 85087 sector"]
-zillowHomeValueUsd: 624741
 ---
 
-**Engineering Notice for New River:** Structural loading calculated based on 2129 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for New River:** Roof repair scope references 2129 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Maricopa County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Roofing service remediation in New River, AZ, Maricopa County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof remediation crews serving New River, AZ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 85086.
 
@@ -34,8 +37,6 @@ Code context: Ventilation ratios for New River, AZ attics should be checked agai
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
-
-roofing service brief: ridge cap nail schedule and wind uplift clip spacing were cross-checked for the New River intake packet.
 
 On-site sector marker: Maricopa County / elevation 2129 ft band — logged for map parity and ZIP-corridor verification.
 

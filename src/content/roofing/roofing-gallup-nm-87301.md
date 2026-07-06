@@ -11,11 +11,14 @@ lng: -108.7400
 zipSample: ["87301"]
 zipCodes: ["87301"]
 localPaths: ["McKinley County / primary ZIP 87301", "McKinley County / elevation 6647 ft band", "McKinley County / ZIP 87301 sector", "McKinley County / coords 35.5200, -108.7400"]
-zillowHomeValueUsd: 222754
 ---
 
-**Engineering Notice for Gallup:** Structural loading calculated based on 6647 ft terrain assessment. Regional dispatch grid: McKinley County.
+**Engineering Notice for Gallup:** Storm and emergency leak triage uses 6647 ft elevation band with McKinley County service-area context for roofing repairs.
 
+
+Emergency roof service in Gallup, NM often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in McKinley County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof service crews serving Gallup, NM review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 87301.
 
@@ -29,13 +32,11 @@ FAQ: Is partial dry-in possible? In Gallup, NM, yes—if slope and anchor points
 
 Wind-zone note: Gallup, NM exposure class can change starter-strip and cap nail schedules.
 
-Our Gallup, NM dispatch packets reference county grid McKinley County and elevation band 6647 ft.
+Our Gallup, NM remediation packets reference McKinley County and elevation band 6647 ft for shingle and leak scope.
 
 Parapet coping movement in Gallup, NM can channel water behind wall cladding.
 
-roof work brief: ice-barrier lap sequence and valley metal gauge were cross-checked for the Gallup intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 87301.
+Roof restoration brief: ice-barrier lap sequence and valley metal gauge were cross-checked for the Gallup shingle and leak scope.
 
 **Regional Infrastructure Brief:** Service coverage aligns with McKinley County and primary ZIP 87301. Terrain reference: 6647 ft. Center point: 35.5200, -108.7400. ZIP sample: 87301. Logistics priority: Serving residential sectors across McKinley County and north-east ZIP 87301 grid.
 

@@ -11,11 +11,14 @@ lng: -100.9700
 zipSample: ["79065"]
 zipCodes: ["79065"]
 localPaths: ["Gray County / elevation 3241 ft band", "Gray County / coords 35.5500, -100.9700", "Gray County / primary ZIP 79065", "Gray County / ZIP 79065 sector"]
-zillowHomeValueUsd: 102765
 ---
 
-**Engineering Notice for Pampa:** Structural loading calculated based on 3241 ft terrain assessment. Regional dispatch grid: Gray County.
+**Engineering Notice for Pampa:** Shingle, flashing, and ventilation review recorded at 3241 ft AMSL context (Gray County).
 
+
+Emergency roof service in Pampa, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Gray County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service service in Pampa, TX, Gray County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Freeze-thaw cycles around Pampa, TX stress nail pops along eaves and rake edges.
 
@@ -27,13 +30,11 @@ Code context: Ventilation ratios for Pampa, TX attics should be checked against 
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our Pampa, TX dispatch packets reference county grid Gray County and elevation band 3241 ft.
+Our Pampa, TX remediation packets reference Gray County and elevation band 3241 ft for shingle and leak scope.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-roofing service brief: deck sheathing thickness and skylight curb height were cross-checked for the Pampa intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 79065.
+Roof service brief: deck sheathing thickness and skylight curb height were cross-checked for the Pampa shingle and leak scope.
 
 On-site sector marker: Gray County / coords 35.5500, -100.9700 — logged for map parity and ZIP-corridor verification.
 

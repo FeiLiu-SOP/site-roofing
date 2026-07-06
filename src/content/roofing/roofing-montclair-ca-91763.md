@@ -11,11 +11,14 @@ lng: -117.7000
 zipSample: ["91763"]
 zipCodes: ["91763"]
 localPaths: ["San Bernardino County / elevation 1017 ft band", "San Bernardino County / ZIP 91763 sector", "San Bernardino County / primary ZIP 91763", "San Bernardino County / coords 34.0700, -117.7000"]
-zillowHomeValueUsd: 661834
 ---
 
-**Engineering Notice for Montclair:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Montclair:** Roof repair scope references 1017 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Bernardino County.
 
+
+Qualified roof remediation crews serving Montclair, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Montclair, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Bernardino County clarifies whether restoration or replacement fits the damage pattern.
 
 Regulatory note: Montclair, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -27,13 +30,13 @@ Step: confirm drip-edge continuity before shingle courses restart.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-FAQ: When should permanent remediation start? In Montclair, CA, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Montclair, CA, delayed dry-in can expand insulation and ceiling repairs.
 
 Tile and shingle mixes in Montclair, CA require different fastener patterns at transitions.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-roof work brief: skylight curb height and pipe boot manufacturer match were cross-checked for the Montclair intake packet.
+Roof service brief: skylight curb height and pipe boot manufacturer match were cross-checked for the Montclair shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 91763.
 

@@ -11,11 +11,14 @@ lng: -80.2700
 zipSample: ["27292", "27295", "27294"]
 zipCodes: ["27292", "27295", "27294"]
 localPaths: ["Davidson County / elevation 735 ft band", "Davidson County / ZIP 27294 sector", "Davidson County / coords 35.8000, -80.2700", "Davidson County / primary ZIP 27292", "Davidson County / ZIP 27295 sector"]
-zillowHomeValueUsd: 251163
 ---
 
-**Engineering Notice for Lexington:** Structural loading calculated based on 735 ft terrain assessment. Regional dispatch grid: Davidson County.
+**Engineering Notice for Lexington:** Roof repair scope references 735 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Davidson County.
 
+
+Roof work restoration in Lexington, NC, Davidson County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Lexington, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Davidson County clarifies whether service or replacement fits the damage pattern.
 
 Code context: Ventilation ratios for Lexington, NC attics should be checked against current mechanical exhaust additions.
 
@@ -35,9 +38,7 @@ FAQ: Can you tarp only part of the roof? In Lexington, NC, yes—if slope and an
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-roof work brief: skylight curb height and valley metal gauge were cross-checked for the Lexington intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 27294/27292/27295.
+Roof restoration brief: skylight curb height and valley metal gauge were cross-checked for the Lexington shingle and leak scope.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Davidson County and primary ZIP 27292. Terrain reference: 735 ft. Center point: 35.8000, -80.2700. ZIP sample: 27295, 27292, 27294. Regional routing note: Davidson County traffic flow is balanced around ZIP 27292 service demand.
 

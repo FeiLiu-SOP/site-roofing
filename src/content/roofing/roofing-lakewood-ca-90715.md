@@ -11,11 +11,14 @@ lng: -118.1200
 zipSample: ["90715", "90714", "90712", "90713", "90711"]
 zipCodes: ["90715", "90711", "90713", "90712", "90714"]
 localPaths: ["Los Angeles County / coords 33.8500, -118.1200", "Los Angeles County / ZIP 90714 sector", "Los Angeles County / ZIP 90713 sector", "Los Angeles County / elevation 69 ft band", "Los Angeles County / ZIP 90711 sector"]
-zillowHomeValueUsd: 822585
 ---
 
-**Engineering Notice for Lakewood:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Lakewood:** Roof repair scope references 69 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
+
+Qualified roof remediation crews serving Lakewood, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Lakewood, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether remediation or replacement fits the damage pattern.
 
 Risk flag: Tile underlayment age in Lakewood, CA can fail independently of visible tile cracks.
 
@@ -34,8 +37,6 @@ Attic ventilation deficits in Lakewood, CA can mimic roof leaks at ceiling penet
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Code context: Ventilation ratios for Lakewood, CA attics should be checked against current mechanical exhaust additions.
-
-Scope trace: pipe boot manufacturer match plus wind uplift clip spacing referenced in Los Angeles County county grid review.
 
 On-site sector marker: Los Angeles County / ZIP 90714 sector — logged for map parity and ZIP-corridor verification.
 

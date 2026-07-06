@@ -6,16 +6,19 @@ state: "NY"
 zipCode: "11741"
 county: "Suffolk County"
 elevationFt: 92
-lat: 40.7900
-lng: -73.0700
+lat: 40.8005
+lng: -73.1000
 zipSample: ["11741"]
 zipCodes: ["11741"]
-localPaths: ["Suffolk County / ZIP 11741 sector", "Suffolk County / elevation 92 ft band", "Suffolk County / primary ZIP 11741", "Suffolk County / coords 40.7900, -73.0700"]
-zillowHomeValueUsd: 648622
+localPaths: ["Suffolk County / ZIP 11741 sector", "Suffolk County / elevation 92 ft band", "Suffolk County / primary ZIP 11741", "Suffolk County / coords 40.8005, -73.1000"]
 ---
 
-**Engineering Notice for Holbrook:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Holbrook:** Roof repair scope references 92 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Suffolk County.
 
+
+Licensed roof restoration crews serving Holbrook, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Holbrook, NY, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Regulatory note: Holbrook, NY projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -29,13 +32,13 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-roof service brief: attic baffle spacing and drip-edge metal profile were cross-checked for the Holbrook intake packet.
+Roof service brief: attic baffle spacing and drip-edge metal profile were cross-checked for the Holbrook shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 11741.
 

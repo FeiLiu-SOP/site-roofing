@@ -11,13 +11,16 @@ lng: -122.1600
 zipSample: ["98270", "98271"]
 zipCodes: ["98271", "98270"]
 localPaths: ["Snohomish County / ZIP 98270 sector", "Snohomish County / primary ZIP 98271", "Snohomish County / elevation 69 ft band", "Snohomish County / ZIP 98271 sector", "Snohomish County / coords 48.0800, -122.1600"]
-zillowHomeValueUsd: 597298
 ---
 
-**Engineering Notice for Marysville:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Marysville:** Storm and emergency leak triage uses 69 ft elevation band with Snohomish County service-area context for roofing repairs.
 
 
-Our Marysville, WA dispatch packets reference county grid Snohomish County and elevation band 69 ft.
+Storm damage roofing service in Marysville, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Snohomish County clarifies whether remediation or replacement fits the damage pattern.
+
+Certified roof restoration crews serving Marysville, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Our Marysville, WA restoration packets reference Snohomish County and elevation band 69 ft for shingle and leak scope.
 
 Freeze-thaw cycles around Marysville, WA stress nail pops along eaves and rake edges.
 
@@ -33,7 +36,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field routing: deck sheathing thickness paired with chimney cricket slope near ZIP 98271.
+Local service note: deck sheathing thickness paired with chimney cricket slope near ZIP 98271 for emergency roof service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 98270/98271.
 

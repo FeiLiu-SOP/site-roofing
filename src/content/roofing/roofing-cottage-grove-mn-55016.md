@@ -11,11 +11,14 @@ lng: -92.9300
 zipSample: ["55016"]
 zipCodes: ["55016"]
 localPaths: ["Washington County / elevation 807 ft band", "Washington County / ZIP 55016 sector", "Washington County / coords 44.8200, -92.9300", "Washington County / primary ZIP 55016"]
-zillowHomeValueUsd: 396278
 ---
 
-**Engineering Notice for Cottage Grove:** Structural loading calculated based on 807 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Cottage Grove:** Shingle, flashing, and ventilation review recorded at 807 ft AMSL context (Washington County).
 
+
+Certified roof restoration crews serving Cottage Grove, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Cottage Grove, MN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Washington County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Code context: Ventilation ratios for Cottage Grove, MN attics should be checked against current mechanical exhaust additions.
 
@@ -31,7 +34,7 @@ Attic ventilation deficits in Cottage Grove, MN can mimic roof leaks at ceiling 
 
 We coordinate Cottage Grove, MN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Scope trace: ridge cap nail schedule plus chimney cricket slope referenced in Washington County county grid review.
+Scope trace: ridge cap nail schedule plus chimney cricket slope referenced in Washington County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 55016.
 

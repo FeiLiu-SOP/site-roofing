@@ -11,13 +11,16 @@ lng: -122.2800
 zipSample: ["98001"]
 zipCodes: ["98001"]
 localPaths: ["King County / ZIP 98001 sector", "King County / primary ZIP 98001", "King County / elevation 430 ft band", "King County / coords 47.3400, -122.2800"]
-zillowHomeValueUsd: 640562
 ---
 
-**Engineering Notice for Lakeland North:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Lakeland North:** Storm and emergency leak triage uses 430 ft elevation band with King County service-area context for roofing repairs.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Roofing service remediation in Lakeland North, WA, King County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Lakeland North, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in King County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -33,7 +36,7 @@ Risk flag: In Lakeland North, WA, interior stains may track from HVAC condensate
 
 Step: stage tear-off debris paths away from landscape drains.
 
-Scope trace: valley metal gauge plus soffit intake free area referenced in King County county grid review.
+Scope trace: valley metal gauge plus soffit intake free area referenced in King County storm and leak review.
 
 Regional mesh label King County: moisture and logistics baselines are keyed to Lakeland North, WA before niche-specific work begins.
 

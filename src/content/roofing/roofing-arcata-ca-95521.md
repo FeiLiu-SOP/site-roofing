@@ -11,11 +11,14 @@ lng: -124.0800
 zipSample: ["95521", "95518"]
 zipCodes: ["95518", "95521"]
 localPaths: ["Humboldt County / coords 40.8600, -124.0800", "Humboldt County / elevation 7 ft band", "Humboldt County / primary ZIP 95521", "Humboldt County / ZIP 95521 sector", "Humboldt County / ZIP 95518 sector"]
-zillowHomeValueUsd: 488036
 ---
 
-**Engineering Notice for Arcata:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Humboldt County.
+**Engineering Notice for Arcata:** Shingle, flashing, and ventilation review recorded at 7 ft AMSL context (Humboldt County).
 
+
+Qualified roof remediation crews serving Arcata, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service remediation in Arcata, CA, Humboldt County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Low-slope sections in Arcata, CA need positive drainage before membrane repairs are scoped.
 
@@ -31,11 +34,9 @@ FAQ: Is partial dry-in possible? In Arcata, CA, yes—if slope and anchor points
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roofing service brief: attic baffle spacing and deck sheathing thickness were cross-checked for the Arcata intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 95518/95521.
+Roof remediation brief: attic baffle spacing and deck sheathing thickness were cross-checked for the Arcata shingle and leak scope.
 
 Regional mesh label Humboldt County: moisture and logistics baselines are keyed to Arcata, CA before niche-specific work begins.
 

@@ -11,15 +11,18 @@ lng: -83.2100
 zipSample: ["48128", "48120", "48123", "48126", "48124"]
 zipCodes: ["48128", "48126", "48123", "48124", "48121", "48120"]
 localPaths: ["Wayne County / ZIP 48126 sector", "Wayne County / elevation 577 ft band", "Wayne County / ZIP 48120 sector", "Wayne County / ZIP 48124 sector", "Wayne County / ZIP 48128 sector"]
-zillowHomeValueUsd: 305222
 ---
 
-**Engineering Notice for Dearborn:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Dearborn:** Roof repair scope references 577 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Wayne County.
 
+
+Roofing service service in Dearborn, MI, Wayne County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Dearborn, MI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -30,8 +33,6 @@ FAQ: Can you tarp only part of the roof? In Dearborn, MI, yes—if slope and anc
 Code context: Ventilation ratios for Dearborn, MI attics should be checked against current mechanical exhaust additions.
 
 Hail bruising on Dearborn, MI ridges may not breach felt until the next wind event.
-
-roofing service brief: synthetic underlayment slip and deck sheathing thickness were cross-checked for the Dearborn intake packet.
 
 Regional mesh label Wayne County: moisture and logistics baselines are keyed to Dearborn, MI before niche-specific work begins.
 

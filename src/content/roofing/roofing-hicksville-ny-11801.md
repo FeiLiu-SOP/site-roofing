@@ -11,11 +11,14 @@ lng: -73.5200
 zipSample: ["11801", "11805", "11815", "11802"]
 zipCodes: ["11801", "11805", "11802", "11815"]
 localPaths: ["Nassau County / ZIP 11805 sector", "Nassau County / primary ZIP 11801", "Nassau County / coords 40.7600, -73.5200", "Nassau County / elevation 151 ft band", "Nassau County / ZIP 11802 sector"]
-zillowHomeValueUsd: 767877
 ---
 
-**Engineering Notice for Hicksville:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Hicksville:** Roof repair scope references 151 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Nassau County.
 
+
+Storm damage roof work in Hicksville, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Nassau County clarifies whether restoration or replacement fits the damage pattern.
+
+Licensed roof restoration crews serving Hicksville, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: map ventilation intake and exhaust pairs for Hicksville, NY attic runs.
 
@@ -33,9 +36,9 @@ FAQ: How long can shingles wait after storm damage? In Hicksville, NY, delayed d
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Field routing: skylight curb height paired with attic baffle spacing near ZIP 11801.
+Local service note: skylight curb height paired with attic baffle spacing near ZIP 11801 for emergency roof service repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 11805/11815/11802.
 

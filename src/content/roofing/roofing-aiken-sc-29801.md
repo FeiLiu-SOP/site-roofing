@@ -11,15 +11,18 @@ lng: -81.7300
 zipSample: ["29803", "29802", "29801"]
 zipCodes: ["29801", "29803", "29802"]
 localPaths: ["Aiken County / primary ZIP 29801", "Aiken County / elevation 525 ft band", "Aiken County / ZIP 29803 sector", "Aiken County / ZIP 29801 sector", "Aiken County / ZIP 29802 sector"]
-zillowHomeValueUsd: 214792
 ---
 
-**Engineering Notice for Aiken:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Aiken County.
+**Engineering Notice for Aiken:** Shingle, flashing, and ventilation review recorded at 525 ft AMSL context (Aiken County).
 
+
+Storm damage roof work in Aiken, SC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Aiken County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof remediation in Aiken, SC often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Aiken County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Attic ventilation deficits in Aiken, SC can mimic roof leaks at ceiling penetrations.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -32,8 +35,6 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
-
-Scope trace: pipe boot manufacturer match plus wind uplift clip spacing referenced in Aiken County county grid review.
 
 ZIP-corridor snapshot for Aiken, SC: sampled sectors include 29801, 29803, 29802; county routing grid remains Aiken County.
 

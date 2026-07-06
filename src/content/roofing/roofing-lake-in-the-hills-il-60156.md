@@ -11,11 +11,14 @@ lng: -88.3500
 zipSample: ["60156"]
 zipCodes: ["60156"]
 localPaths: ["McHenry County / primary ZIP 60156", "McHenry County / coords 42.1900, -88.3500", "McHenry County / elevation 889 ft band", "McHenry County / ZIP 60156 sector"]
-zillowHomeValueUsd: 369527
 ---
 
-**Engineering Notice for Lake in the Hills:** Structural loading calculated based on 889 ft terrain assessment. Regional dispatch grid: McHenry County.
+**Engineering Notice for Lake in the Hills:** Storm and emergency leak triage uses 889 ft elevation band with McHenry County service-area context for roofing repairs.
 
+
+Storm damage roof service in Lake in the Hills, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in McHenry County clarifies whether service or replacement fits the damage pattern.
+
+Roof work restoration in Lake in the Hills, IL, McHenry County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -29,9 +32,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Metal panel oil-canning in Lake in the Hills, IL may signal clip spacing issues, not wind damage alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roof service brief: drip-edge metal profile and ridge cap nail schedule were cross-checked for the Lake in the Hills intake packet.
+Roof remediation brief: drip-edge metal profile and ridge cap nail schedule were cross-checked for the Lake in the Hills shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 60156.
 

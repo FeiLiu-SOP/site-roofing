@@ -11,13 +11,16 @@ lng: -83.9500
 zipSample: ["37915", "37927", "37914", "37939", "37909"]
 zipCodes: ["37901", "37914", "37909", "37921", "37995", "37912", "37950", "37997", "37918", "37919", "37917", "37915"]
 localPaths: ["Knox County / elevation 886 ft band", "Knox County / ZIP 37939 sector", "Knox County / ZIP 37909 sector", "Knox County / ZIP 37927 sector", "Knox County / primary ZIP 37909"]
-zillowHomeValueUsd: 376402
 ---
 
-**Engineering Notice for Knoxville:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Knox County.
+**Engineering Notice for Knoxville:** Shingle, flashing, and ventilation review recorded at 886 ft AMSL context (Knox County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Storm damage roof work in Knoxville, TN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Knox County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof restoration in Knoxville, TN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Knox County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: In Knoxville, TN, algae-resistant granules may be specified for north-facing slopes.
 
@@ -33,9 +36,7 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Scope trace: counter-flashing reglet depth plus drip-edge metal profile referenced in Knox County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 37927/37915/37912.
+Scope trace: counter-flashing reglet depth plus drip-edge metal profile referenced in Knox County storm and leak review.
 
 On-site sector marker: Knox County / ZIP 37920 sector — logged for map parity and ZIP-corridor verification.
 

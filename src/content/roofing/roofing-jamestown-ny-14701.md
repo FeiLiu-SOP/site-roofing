@@ -11,11 +11,14 @@ lng: -79.2400
 zipSample: ["14702", "14701"]
 zipCodes: ["14701", "14702"]
 localPaths: ["Chautauqua County / ZIP 14702 sector", "Chautauqua County / coords 42.1000, -79.2400", "Chautauqua County / ZIP 14701 sector", "Chautauqua County / primary ZIP 14701", "Chautauqua County / elevation 1398 ft band"]
-zillowHomeValueUsd: 117894
 ---
 
-**Engineering Notice for Jamestown:** Structural loading calculated based on 1398 ft terrain assessment. Regional dispatch grid: Chautauqua County.
+**Engineering Notice for Jamestown:** Storm and emergency leak triage uses 1398 ft elevation band with Chautauqua County service-area context for roofing repairs.
 
+
+When wind or hail hits Jamestown, NY, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service restoration in Jamestown, NY, Chautauqua County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -27,11 +30,9 @@ Code context: Ventilation ratios for Jamestown, NY attics should be checked agai
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
-
-roof service brief: valley metal gauge and pipe boot manufacturer match were cross-checked for the Jamestown intake packet.
 
 Primary postal anchor 14701 with multi-ZIP overlap in Jamestown; field packets tag Chautauqua County for county-grid reconciliation.
 

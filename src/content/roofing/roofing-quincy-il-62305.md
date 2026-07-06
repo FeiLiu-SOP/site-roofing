@@ -11,17 +11,20 @@ lng: -91.3800
 zipSample: ["62301", "62305"]
 zipCodes: ["62301", "62305"]
 localPaths: ["Adams County / ZIP 62301 sector", "Adams County / ZIP 62305 sector", "Adams County / elevation 636 ft band", "Adams County / primary ZIP 62305", "Adams County / coords 39.9300, -91.3800"]
-zillowHomeValueUsd: 253393
 ---
 
-**Engineering Notice for Quincy:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Adams County.
+**Engineering Notice for Quincy:** Storm and emergency leak triage uses 636 ft elevation band with Adams County service-area context for roofing repairs.
 
+
+Emergency roof service in Quincy, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Adams County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof service crews serving Quincy, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Can you tarp only part of the roof? In Quincy, IL, yes—if slope and anchor points support safe tie-offs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our Quincy, IL dispatch packets reference county grid Adams County and elevation band 636 ft.
+Our Quincy, IL restoration packets reference Adams County and elevation band 636 ft for shingle and leak scope.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -34,8 +37,6 @@ Wind-zone note: Quincy, IL exposure class can change starter-strip and cap nail 
 Step: note chimney cricket geometry before counter-flashing removal.
 
 Coastal humidity in Quincy, IL can slow shingle seal-down after shoulder-season storms.
-
-roof work brief: starter-strip setback and drip-edge metal profile were cross-checked for the Quincy intake packet.
 
 Coordinate-anchored dispatch note: center reference 39.9300, -91.3800 at elevation ~636 ft aligns with Adams County intake staging.
 

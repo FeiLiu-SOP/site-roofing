@@ -11,11 +11,14 @@ lng: -72.6800
 zipSample: ["06140", "06106", "06160", "06176", "06154"]
 zipCodes: ["06154", "06101", "06104", "06133", "06150", "06140", "06106", "06176", "06126", "06132", "06146", "06105"]
 localPaths: ["Capitol County / elevation 46 ft band", "Capitol County / primary ZIP 06106", "Capitol County / ZIP 06160 sector", "Capitol County / ZIP 06106 sector", "Capitol County / ZIP 06154 sector"]
-zillowHomeValueUsd: 226066
 ---
 
-**Engineering Notice for Hartford:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Capitol County.
+**Engineering Notice for Hartford:** Storm and emergency leak triage uses 46 ft elevation band with Capitol County service-area context for roofing repairs.
 
+
+When wind or hail hits Hartford, CT, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Licensed roof restoration crews serving Hartford, CT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -29,11 +32,11 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Regulatory note: Hartford, CT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-roofing service brief: drip-edge metal profile and ice-barrier lap sequence were cross-checked for the Hartford intake packet.
+Roof restoration brief: drip-edge metal profile and ice-barrier lap sequence were cross-checked for the Hartford shingle and leak scope.
 
 On-site sector marker: Capitol County / ZIP 06114 sector — logged for map parity and ZIP-corridor verification.
 

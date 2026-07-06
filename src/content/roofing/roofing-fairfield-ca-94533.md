@@ -11,13 +11,16 @@ lng: -122.0300
 zipSample: ["94535", "94533", "94534"]
 zipCodes: ["94535", "94534", "94533"]
 localPaths: ["Solano County / coords 38.2600, -122.0300", "Solano County / primary ZIP 94533", "Solano County / elevation 26 ft band", "Solano County / ZIP 94534 sector", "Solano County / ZIP 94535 sector"]
-zillowHomeValueUsd: 539185
 ---
 
-**Engineering Notice for Fairfield:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Solano County.
+**Engineering Notice for Fairfield:** Roof repair scope references 26 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Solano County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Roof work service in Fairfield, CA, Solano County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Fairfield, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Solano County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -31,7 +34,7 @@ Risk flag: Tile underlayment age in Fairfield, CA can fail independently of visi
 
 FAQ: Can you tarp only part of the roof? In Fairfield, CA, yes—if slope and anchor points support safe tie-offs.
 
-Scope trace: skylight curb height plus synthetic underlayment slip referenced in Solano County county grid review.
+Scope trace: skylight curb height plus synthetic underlayment slip referenced in Solano County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 94535/94533/94534.
 

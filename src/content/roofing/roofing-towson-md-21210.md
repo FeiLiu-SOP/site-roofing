@@ -11,11 +11,14 @@ lng: -76.6200
 zipSample: ["21239", "21212", "21286", "21204", "21139"]
 zipCodes: ["21284", "21212", "21204", "21252", "21239", "21285", "21286", "21209", "21139", "21210"]
 localPaths: ["Baltimore County / ZIP 21139 sector", "Baltimore County / ZIP 21204 sector", "Baltimore County / coords 39.3900, -76.6200", "Baltimore County / primary ZIP 21210", "Baltimore County / ZIP 21239 sector"]
-zillowHomeValueUsd: 477973
 ---
 
-**Engineering Notice for Towson:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Towson:** Storm and emergency leak triage uses 364 ft elevation band with Baltimore County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Towson, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Baltimore County clarifies whether service or replacement fits the damage pattern.
+
+Certified roof restoration crews serving Towson, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Is partial dry-in possible? In Towson, MD, yes—if slope and anchor points support safe tie-offs.
 
@@ -23,7 +26,7 @@ Code context: Ventilation ratios for Towson, MD attics should be checked against
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -31,7 +34,7 @@ Step: log deck soundings near vents before tear-off is approved.
 
 Across Towson, MD, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Scope trace: shingle exposure calibration plus wind uplift clip spacing referenced in Baltimore County county grid review.
+Scope trace: shingle exposure calibration plus wind uplift clip spacing referenced in Baltimore County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 21139/21210/21252.
 

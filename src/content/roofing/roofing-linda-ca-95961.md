@@ -11,11 +11,14 @@ lng: -121.5400
 zipSample: ["95961", "95901"]
 zipCodes: ["95961", "95901"]
 localPaths: ["Yuba County / elevation 62 ft band", "Yuba County / ZIP 95901 sector", "Yuba County / primary ZIP 95961", "Yuba County / ZIP 95961 sector", "Yuba County / coords 39.1200, -121.5400"]
-zillowHomeValueUsd: 448249
 ---
 
-**Engineering Notice for Linda:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Yuba County.
+**Engineering Notice for Linda:** Roof repair scope references 62 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Yuba County.
 
+
+Roof work remediation in Linda, CA, Yuba County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Linda, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Yuba County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -29,9 +32,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-Field routing: valley metal gauge paired with wind uplift clip spacing near ZIP 95961.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 On-site sector marker: Yuba County / coords 39.1200, -121.5400 — logged for map parity and ZIP-corridor verification.
 

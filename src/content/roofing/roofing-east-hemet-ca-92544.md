@@ -11,15 +11,18 @@ lng: -116.9400
 zipSample: ["92544"]
 zipCodes: ["92544"]
 localPaths: ["Riverside County / primary ZIP 92544", "Riverside County / coords 33.7300, -116.9400", "Riverside County / elevation 1686 ft band", "Riverside County / ZIP 92544 sector"]
-zillowHomeValueUsd: 459541
 ---
 
-**Engineering Notice for East Hemet:** Structural loading calculated based on 1686 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for East Hemet:** Storm and emergency leak triage uses 1686 ft elevation band with Riverside County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving East Hemet, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work restoration in East Hemet, CA, Riverside County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Code context: Ventilation ratios for East Hemet, CA attics should be checked against current mechanical exhaust additions.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: In East Hemet, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -33,9 +36,7 @@ Coastal humidity in East Hemet, CA can slow shingle seal-down after shoulder-sea
 
 Step: stage tear-off debris paths away from landscape drains.
 
-Scope trace: starter-strip setback plus drip-edge metal profile referenced in Riverside County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 92544.
+Scope trace: starter-strip setback plus drip-edge metal profile referenced in Riverside County storm and leak review.
 
 On-site sector marker: Riverside County / primary ZIP 92544 — logged for map parity and ZIP-corridor verification.
 

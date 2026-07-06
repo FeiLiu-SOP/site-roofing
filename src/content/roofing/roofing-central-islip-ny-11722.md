@@ -6,18 +6,21 @@ state: "NY"
 zipCode: "11722"
 county: "Suffolk County"
 elevationFt: 72
-lat: 40.7800
-lng: -73.1900
+lat: 40.7905
+lng: -73.2200
 zipSample: ["11722", "11752"]
 zipCodes: ["11752", "11722"]
-localPaths: ["Suffolk County / primary ZIP 11722", "Suffolk County / ZIP 11722 sector", "Suffolk County / ZIP 11752 sector", "Suffolk County / coords 40.7800, -73.1900", "Suffolk County / elevation 72 ft band"]
-zillowHomeValueUsd: 546557
+localPaths: ["Suffolk County / primary ZIP 11722", "Suffolk County / ZIP 11722 sector", "Suffolk County / ZIP 11752 sector", "Suffolk County / coords 40.7905, -73.2200", "Suffolk County / elevation 72 ft band"]
 ---
 
-**Engineering Notice for Central Islip:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Central Islip:** Shingle, flashing, and ventilation review recorded at 72 ft AMSL context (Suffolk County).
 
 
-Our Central Islip, NY dispatch packets reference county grid Suffolk County and elevation band 72 ft.
+When wind or hail hits Central Islip, NY, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service service in Central Islip, NY, Suffolk County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Our Central Islip, NY service packets reference Suffolk County and elevation band 72 ft for shingle and leak scope.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -35,9 +38,7 @@ Material note: In Central Islip, NY, algae-resistant granules may be specified f
 
 FAQ: Is partial dry-in possible? In Central Islip, NY, yes—if slope and anchor points support safe tie-offs.
 
-Scope trace: valley metal gauge plus wind uplift clip spacing referenced in Suffolk County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 11752/11722.
+Scope trace: valley metal gauge plus wind uplift clip spacing referenced in Suffolk County storm and leak review.
 
 ZIP-corridor snapshot for Central Islip, NY: sampled sectors include 11722, 11752; county routing grid remains Suffolk County.
 

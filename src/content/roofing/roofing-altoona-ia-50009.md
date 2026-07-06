@@ -11,11 +11,14 @@ lng: -93.4800
 zipSample: ["50009"]
 zipCodes: ["50009"]
 localPaths: ["Polk County / coords 41.6500, -93.4800", "Polk County / elevation 942 ft band", "Polk County / primary ZIP 50009", "Polk County / ZIP 50009 sector"]
-zillowHomeValueUsd: 316827
 ---
 
-**Engineering Notice for Altoona:** Structural loading calculated based on 942 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Altoona:** Roof repair scope references 942 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Polk County.
 
+
+Qualified roof restoration crews serving Altoona, IA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Altoona, IA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Polk County clarifies whether service or replacement fits the damage pattern.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -31,9 +34,9 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Risk flag: Tile underlayment age in Altoona, IA can fail independently of visible tile cracks.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-roofing service brief: soffit intake free area and synthetic underlayment slip were cross-checked for the Altoona intake packet.
+Roof service brief: soffit intake free area and synthetic underlayment slip were cross-checked for the Altoona shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 41.6500, -93.4800 at elevation ~942 ft aligns with Polk County intake staging.
 

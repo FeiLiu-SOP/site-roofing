@@ -11,11 +11,14 @@ lng: -87.0200
 zipSample: ["32563"]
 zipCodes: ["32563"]
 localPaths: ["Santa Rosa County / elevation 0 ft band", "Santa Rosa County / primary ZIP 32563", "Santa Rosa County / ZIP 32563 sector", "Santa Rosa County / coords 30.4200, -87.0200"]
-zillowHomeValueUsd: 400905
 ---
 
-**Engineering Notice for Midway:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Santa Rosa County.
+**Engineering Notice for Midway:** Shingle, flashing, and ventilation review recorded at 0 ft AMSL context (Santa Rosa County).
 
+
+Storm damage roof work in Midway, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Santa Rosa County clarifies whether service or replacement fits the damage pattern.
+
+Licensed roof restoration crews serving Midway, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Low-slope sections in Midway, FL need positive drainage before membrane repairs are scoped.
 
@@ -27,13 +30,11 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 Code context: Ventilation ratios for Midway, FL attics should be checked against current mechanical exhaust additions.
 
-Our Midway, FL dispatch packets reference county grid Santa Rosa County and elevation band 0 ft.
+Our Midway, FL service packets reference Santa Rosa County and elevation band 0 ft for shingle and leak scope.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
 FAQ: How long can shingles wait after storm damage? In Midway, FL, delayed dry-in can expand insulation and ceiling repairs.
-
-Field routing: synthetic underlayment slip paired with shingle exposure calibration near ZIP 32563.
 
 Coordinate-anchored dispatch note: center reference 30.4200, -87.0200 at elevation ~0 ft aligns with Santa Rosa County intake staging.
 

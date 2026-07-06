@@ -11,11 +11,14 @@ lng: -122.1300
 zipSample: ["94541", "94580"]
 zipCodes: ["94580", "94541"]
 localPaths: ["Alameda County / coords 37.6700, -122.1300", "Alameda County / elevation 26 ft band", "Alameda County / primary ZIP 94541", "Alameda County / ZIP 94580 sector", "Alameda County / ZIP 94541 sector"]
-zillowHomeValueUsd: 783214
 ---
 
-**Engineering Notice for San Lorenzo:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for San Lorenzo:** Shingle, flashing, and ventilation review recorded at 26 ft AMSL context (Alameda County).
 
+
+Qualified roof service crews serving San Lorenzo, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits San Lorenzo, CA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 94541.
 
@@ -33,9 +36,7 @@ Risk flag: Tile underlayment age in San Lorenzo, CA can fail independently of vi
 
 We coordinate San Lorenzo, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Scope trace: pipe boot manufacturer match plus starter-strip setback referenced in Alameda County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 94541/94580.
+Scope trace: pipe boot manufacturer match plus starter-strip setback referenced in Alameda County storm and leak review.
 
 On-site sector marker: Alameda County / ZIP 94580 sector — logged for map parity and ZIP-corridor verification.
 

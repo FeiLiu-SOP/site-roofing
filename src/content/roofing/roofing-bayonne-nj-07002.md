@@ -11,11 +11,14 @@ lng: -74.1200
 zipSample: ["07002"]
 zipCodes: ["07002"]
 localPaths: ["Hudson County / elevation 43 ft band", "Hudson County / coords 40.6700, -74.1200", "Hudson County / ZIP 07002 sector", "Hudson County / primary ZIP 07002"]
-zillowHomeValueUsd: 582673
 ---
 
-**Engineering Notice for Bayonne:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hudson County.
+**Engineering Notice for Bayonne:** Roof repair scope references 43 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Hudson County.
 
+
+Roof service remediation in Bayonne, NJ, Hudson County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof service crews serving Bayonne, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -29,9 +32,9 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-Our Bayonne, NJ dispatch packets reference county grid Hudson County and elevation band 43 ft.
+Our Bayonne, NJ service packets reference Hudson County and elevation band 43 ft for shingle and leak scope.
 
-Field routing: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 07002.
+Local service note: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 07002 for emergency roof work repairs.
 
 On-site sector marker: Hudson County / primary ZIP 07002 — logged for map parity and ZIP-corridor verification.
 

@@ -11,27 +11,30 @@ lng: -79.7400
 zipSample: ["27289", "27288"]
 zipCodes: ["27288", "27289"]
 localPaths: ["Rockingham County / coords 36.5000, -79.7400", "Rockingham County / elevation 643 ft band", "Rockingham County / ZIP 27288 sector", "Rockingham County / ZIP 27289 sector", "Rockingham County / primary ZIP 27288"]
-zillowHomeValueUsd: 149522
 ---
 
-**Engineering Notice for Eden:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Rockingham County.
+**Engineering Notice for Eden:** Shingle, flashing, and ventilation review recorded at 643 ft AMSL context (Rockingham County).
 
+
+When wind or hail hits Eden, NC, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work remediation in Eden, NC, Rockingham County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent restoration line items.
 
 Wind-zone note: Eden, NC exposure class can change starter-strip and cap nail schedules.
 
-Our Eden, NC dispatch packets reference county grid Rockingham County and elevation band 643 ft.
+Our Eden, NC service packets reference Rockingham County and elevation band 643 ft for shingle and leak scope.
 
 Risk flag: Tile underlayment age in Eden, NC can fail independently of visible tile cracks.
 
 Low-slope sections in Eden, NC need positive drainage before membrane repairs are scoped.
 
-Scope trace: counter-flashing reglet depth plus wind uplift clip spacing referenced in Rockingham County county grid review.
+Scope trace: counter-flashing reglet depth plus wind uplift clip spacing referenced in Rockingham County storm and leak review.
 
 Regional mesh label Rockingham County: moisture and logistics baselines are keyed to Eden, NC before niche-specific work begins.
 

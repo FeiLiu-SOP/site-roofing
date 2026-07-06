@@ -11,13 +11,16 @@ lng: -122.1400
 zipSample: ["98058"]
 zipCodes: ["98058"]
 localPaths: ["King County / ZIP 98058 sector", "King County / coords 47.4500, -122.1400", "King County / elevation 509 ft band", "King County / primary ZIP 98058"]
-zillowHomeValueUsd: 742732
 ---
 
-**Engineering Notice for Fairwood:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Fairwood:** Roof repair scope references 509 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in King County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Qualified roof restoration crews serving Fairwood, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work remediation in Fairwood, WA, King County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Wind-zone note: Fairwood, WA exposure class can change starter-strip and cap nail schedules.
 
@@ -32,8 +35,6 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 Step: compare shingle manufacturer wind-zone ratings for Fairwood, WA exposure class.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
-
-roof work brief: soffit intake free area and attic baffle spacing were cross-checked for the Fairwood intake packet.
 
 On-site sector marker: King County / elevation 509 ft band — logged for map parity and ZIP-corridor verification.
 

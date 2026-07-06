@@ -11,13 +11,16 @@ lng: -74.3200
 zipSample: ["08830"]
 zipCodes: ["08830"]
 localPaths: ["Middlesex County / elevation 43 ft band", "Middlesex County / primary ZIP 08830", "Middlesex County / ZIP 08830 sector", "Middlesex County / coords 40.5700, -74.3200"]
-zillowHomeValueUsd: 559735
 ---
 
-**Engineering Notice for Iselin:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Iselin:** Shingle, flashing, and ventilation review recorded at 43 ft AMSL context (Middlesex County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Roofing service restoration in Iselin, NJ, Middlesex County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Iselin, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Middlesex County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Skylight curb flashing in Iselin, NJ should be sequenced before ridge cap replacement.
 
@@ -31,7 +34,7 @@ Tip: Note recent wind events when filing insurance photos for Iselin, NJ.
 
 Step: separate emergency tarp scope from permanent service line items.
 
-roofing service brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Iselin intake packet.
+Roof restoration brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Iselin shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 40.5700, -74.3200 at elevation ~43 ft aligns with Middlesex County intake staging.
 

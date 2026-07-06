@@ -11,13 +11,16 @@ lng: -76.2600
 zipSample: ["23508", "23518", "23504", "23514", "23541"]
 zipCodes: ["23541", "23501", "23515", "23551", "23510", "23509", "23503", "23504", "23519", "23518", "23517", "23502"]
 localPaths: ["Norfolk County / ZIP 23514 sector", "Norfolk County / ZIP 23541 sector", "Norfolk County / ZIP 23504 sector", "Norfolk County / coords 36.8900, -76.2600", "Norfolk County / ZIP 23518 sector"]
-zillowHomeValueUsd: 279609
 ---
 
-**Engineering Notice for Norfolk:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Norfolk County.
+**Engineering Notice for Norfolk:** Shingle, flashing, and ventilation review recorded at 23 ft AMSL context (Norfolk County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Emergency roof restoration in Norfolk, VA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Norfolk County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Norfolk, VA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Norfolk County clarifies whether service or replacement fits the damage pattern.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -33,9 +36,9 @@ Parapet coping movement in Norfolk, VA can channel water behind wall cladding.
 
 FAQ: Can you tarp only part of the roof? In Norfolk, VA, yes—if slope and anchor points support safe tie-offs.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-roofing service brief: shingle exposure calibration and counter-flashing reglet depth were cross-checked for the Norfolk intake packet.
+Roof remediation brief: shingle exposure calibration and counter-flashing reglet depth were cross-checked for the Norfolk shingle and leak scope.
 
 On-site sector marker: Norfolk County / ZIP 23517 sector — logged for map parity and ZIP-corridor verification.
 

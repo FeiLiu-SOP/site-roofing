@@ -11,11 +11,14 @@ lng: -82.2200
 zipSample: ["33547"]
 zipCodes: ["33547"]
 localPaths: ["Hillsborough County / elevation 82 ft band", "Hillsborough County / ZIP 33547 sector", "Hillsborough County / coords 27.8500, -82.2200", "Hillsborough County / primary ZIP 33547"]
-zillowHomeValueUsd: 515463
 ---
 
-**Engineering Notice for Fish Hawk:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Fish Hawk:** Roof repair scope references 82 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Hillsborough County.
 
+
+Qualified roof remediation crews serving Fish Hawk, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service restoration in Fish Hawk, FL, Hillsborough County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Synthetic underlayment slip in Fish Hawk, FL is often tied to deck moisture, not wind alone.
 
@@ -33,11 +36,9 @@ Metal panel oil-canning in Fish Hawk, FL may signal clip spacing issues, not win
 
 Risk flag: In Fish Hawk, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Scope trace: counter-flashing reglet depth plus soffit intake free area referenced in Hillsborough County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 33547.
+Scope trace: counter-flashing reglet depth plus soffit intake free area referenced in Hillsborough County storm and leak review.
 
 On-site sector marker: Hillsborough County / primary ZIP 33547 — logged for map parity and ZIP-corridor verification.
 

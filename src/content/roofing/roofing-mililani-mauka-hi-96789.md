@@ -11,15 +11,18 @@ lng: -157.9900
 zipSample: ["96789"]
 zipCodes: ["96789"]
 localPaths: ["Honolulu County / primary ZIP 96789", "Honolulu County / elevation 883 ft band", "Honolulu County / coords 21.4800, -157.9900", "Honolulu County / ZIP 96789 sector"]
-zillowHomeValueUsd: 881747
 ---
 
-**Engineering Notice for Mililani Mauka:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Mililani Mauka:** Storm and emergency leak triage uses 883 ft elevation band with Honolulu County service-area context for roofing repairs.
 
+
+Storm damage roof work in Mililani Mauka, HI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Honolulu County clarifies whether remediation or replacement fits the damage pattern.
+
+Certified roof service crews serving Mililani Mauka, HI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -31,9 +34,7 @@ Code context: Ventilation ratios for Mililani Mauka, HI attics should be checked
 
 Tip: Note recent wind events when filing insurance photos for Mililani Mauka, HI.
 
-roof work brief: ice-barrier lap sequence and pipe boot manufacturer match were cross-checked for the Mililani Mauka intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 96789.
+Roof service brief: ice-barrier lap sequence and pipe boot manufacturer match were cross-checked for the Mililani Mauka shingle and leak scope.
 
 Regional mesh label Honolulu County: moisture and logistics baselines are keyed to Mililani Mauka, HI before niche-specific work begins.
 

@@ -11,11 +11,14 @@ lng: -86.7400
 zipSample: ["35297", "35253", "35223", "35213", "35243"]
 zipCodes: ["35243", "35213", "35297", "35253", "35223"]
 localPaths: ["Jefferson County / elevation 971 ft band", "Jefferson County / ZIP 35297 sector", "Jefferson County / coords 33.4900, -86.7400", "Jefferson County / ZIP 35253 sector", "Jefferson County / primary ZIP 35213"]
-zillowHomeValueUsd: 853344
 ---
 
-**Engineering Notice for Mountain Brook:** Structural loading calculated based on 971 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Mountain Brook:** Storm and emergency leak triage uses 971 ft elevation band with Jefferson County service-area context for roofing repairs.
 
+
+Roof service remediation in Mountain Brook, AL, Jefferson County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Mountain Brook, AL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Jefferson County clarifies whether remediation or replacement fits the damage pattern.
 
 Coastal humidity in Mountain Brook, AL can slow shingle seal-down after shoulder-season storms.
 
@@ -31,7 +34,7 @@ Step: note chimney cricket geometry before counter-flashing removal.
 
 We coordinate Mountain Brook, AL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Scope trace: valley metal gauge plus ice-barrier lap sequence referenced in Jefferson County county grid review.
+Scope trace: valley metal gauge plus ice-barrier lap sequence referenced in Jefferson County storm and leak review.
 
 On-site sector marker: Jefferson County / ZIP 35297 sector — logged for map parity and ZIP-corridor verification.
 

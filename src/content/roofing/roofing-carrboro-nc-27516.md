@@ -11,13 +11,16 @@ lng: -79.0900
 zipSample: ["27516", "27510"]
 zipCodes: ["27516", "27510"]
 localPaths: ["Orange County / coords 35.9300, -79.0900", "Orange County / ZIP 27510 sector", "Orange County / primary ZIP 27516", "Orange County / elevation 525 ft band", "Orange County / ZIP 27516 sector"]
-zillowHomeValueUsd: 604910
 ---
 
-**Engineering Notice for Carrboro:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Carrboro:** Storm and emergency leak triage uses 525 ft elevation band with Orange County service-area context for roofing repairs.
 
 
-Our Carrboro, NC dispatch packets reference county grid Orange County and elevation band 525 ft.
+Certified roof remediation crews serving Carrboro, NC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Carrboro, NC, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Our Carrboro, NC restoration packets reference Orange County and elevation band 525 ft for shingle and leak scope.
 
 TPO seam welds in Carrboro, NC commercial sections need probe tests after freeze events.
 
@@ -30,8 +33,6 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 Step: map ventilation intake and exhaust pairs for Carrboro, NC attic runs.
 
 FAQ: Is partial dry-in possible? In Carrboro, NC, yes—if slope and anchor points support safe tie-offs.
-
-Field routing: starter-strip setback paired with synthetic underlayment slip near ZIP 27516.
 
 Regional mesh label Orange County: moisture and logistics baselines are keyed to Carrboro, NC before niche-specific work begins.
 

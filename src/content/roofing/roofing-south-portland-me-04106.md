@@ -11,19 +11,22 @@ lng: -70.2900
 zipSample: ["04106"]
 zipCodes: ["04106"]
 localPaths: ["Cumberland County / primary ZIP 04106", "Cumberland County / ZIP 04106 sector", "Cumberland County / coords 43.6300, -70.2900", "Cumberland County / elevation 33 ft band"]
-zillowHomeValueUsd: 518088
 ---
 
-**Engineering Notice for South Portland:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Cumberland County.
+**Engineering Notice for South Portland:** Shingle, flashing, and ventilation review recorded at 33 ft AMSL context (Cumberland County).
 
+
+Roofing service remediation in South Portland, ME, Cumberland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits South Portland, ME, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: How long can shingles wait after storm damage? In South Portland, ME, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -33,7 +36,7 @@ Low-slope sections in South Portland, ME need positive drainage before membrane 
 
 Material note: In South Portland, ME, algae-resistant granules may be specified for north-facing slopes.
 
-roofing service brief: chimney cricket slope and counter-flashing reglet depth were cross-checked for the South Portland intake packet.
+Roof service brief: chimney cricket slope and counter-flashing reglet depth were cross-checked for the South Portland shingle and leak scope.
 
 ZIP-corridor snapshot for South Portland, ME: sampled sectors include 04106; county routing grid remains Cumberland County.
 

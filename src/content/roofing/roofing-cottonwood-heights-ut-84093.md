@@ -11,15 +11,18 @@ lng: -111.8100
 zipSample: ["84121", "84171", "84093"]
 zipCodes: ["84121", "84171", "84093"]
 localPaths: ["Salt Lake County / ZIP 84121 sector", "Salt Lake County / ZIP 84171 sector", "Salt Lake County / primary ZIP 84093", "Salt Lake County / elevation 4849 ft band", "Salt Lake County / ZIP 84093 sector"]
-zillowHomeValueUsd: 800636
 ---
 
-**Engineering Notice for Cottonwood Heights:** Structural loading calculated based on 4849 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Cottonwood Heights:** Storm and emergency leak triage uses 4849 ft elevation band with Salt Lake County service-area context for roofing repairs.
 
+
+Roof work remediation in Cottonwood Heights, UT, Salt Lake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Cottonwood Heights, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Salt Lake County clarifies whether service or replacement fits the damage pattern.
 
 Synthetic underlayment slip in Cottonwood Heights, UT is often tied to deck moisture, not wind alone.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -33,9 +36,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field routing: pipe boot manufacturer match paired with synthetic underlayment slip near ZIP 84093.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 84121/84171/84093.
+Local service note: pipe boot manufacturer match paired with synthetic underlayment slip near ZIP 84093 for emergency roof work repairs.
 
 On-site sector marker: Salt Lake County / ZIP 84093 sector — logged for map parity and ZIP-corridor verification.
 

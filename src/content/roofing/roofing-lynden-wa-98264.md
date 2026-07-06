@@ -11,11 +11,14 @@ lng: -122.4500
 zipSample: ["98264"]
 zipCodes: ["98264"]
 localPaths: ["Whatcom County / ZIP 98264 sector", "Whatcom County / primary ZIP 98264", "Whatcom County / elevation 102 ft band", "Whatcom County / coords 48.9500, -122.4500"]
-zillowHomeValueUsd: 622663
 ---
 
-**Engineering Notice for Lynden:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Whatcom County.
+**Engineering Notice for Lynden:** Storm and emergency leak triage uses 102 ft elevation band with Whatcom County service-area context for roofing repairs.
 
+
+Storm damage roof service in Lynden, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Whatcom County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Lynden, WA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -25,7 +28,7 @@ Tip: Note recent wind events when filing insurance photos for Lynden, WA.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -35,7 +38,7 @@ Regulatory note: Lynden, WA projects may trigger ice-barrier upgrades when tear-
 
 Attic ventilation deficits in Lynden, WA can mimic roof leaks at ceiling penetrations.
 
-roof service brief: counter-flashing reglet depth and soffit intake free area were cross-checked for the Lynden intake packet.
+Roof remediation brief: counter-flashing reglet depth and soffit intake free area were cross-checked for the Lynden shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 98264.
 

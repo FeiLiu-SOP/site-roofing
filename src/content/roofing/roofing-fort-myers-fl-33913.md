@@ -11,11 +11,14 @@ lng: -81.8300
 zipSample: ["33905", "33916", "33902", "33907", "33994"]
 zipCodes: ["33916", "33902", "33994", "33901", "33907", "33913", "33966", "33905"]
 localPaths: ["Lee County / ZIP 33994 sector", "Lee County / ZIP 33907 sector", "Lee County / ZIP 33916 sector", "Lee County / elevation 39 ft band", "Lee County / primary ZIP 33913"]
-zillowHomeValueUsd: 444979
 ---
 
-**Engineering Notice for Fort Myers:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Fort Myers:** Roof repair scope references 39 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Lee County.
 
+
+When wind or hail hits Fort Myers, FL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof work in Fort Myers, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lee County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -31,11 +34,11 @@ Regulatory note: Fort Myers, FL projects may trigger ice-barrier upgrades when t
 
 Step: stage tear-off debris paths away from landscape drains.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Scope trace: drip-edge metal profile plus skylight curb height referenced in Lee County county grid review.
+Scope trace: drip-edge metal profile plus skylight curb height referenced in Lee County storm and leak review.
 
 On-site sector marker: Lee County / ZIP 33994 sector — logged for map parity and ZIP-corridor verification.
 

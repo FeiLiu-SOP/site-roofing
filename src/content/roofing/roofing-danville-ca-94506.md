@@ -11,17 +11,20 @@ lng: -121.9700
 zipSample: ["94526", "94506"]
 zipCodes: ["94526", "94506"]
 localPaths: ["Contra Costa County / ZIP 94506 sector", "Contra Costa County / primary ZIP 94506", "Contra Costa County / elevation 469 ft band", "Contra Costa County / coords 37.8100, -121.9700", "Contra Costa County / ZIP 94526 sector"]
-zillowHomeValueUsd: 2084250
 ---
 
-**Engineering Notice for Danville:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Danville:** Roof repair scope references 469 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Contra Costa County.
 
+
+Storm damage roofing service in Danville, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Contra Costa County clarifies whether remediation or replacement fits the damage pattern.
+
+Licensed roof remediation crews serving Danville, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wind-zone note: Danville, CA exposure class can change starter-strip and cap nail schedules.
 
 Coastal humidity in Danville, CA can slow shingle seal-down after shoulder-season storms.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Material note: In Danville, CA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -33,7 +36,7 @@ Risk flag: In Danville, CA, interior stains may track from HVAC condensate rathe
 
 FAQ: Can you tarp only part of the roof? In Danville, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field routing: attic baffle spacing paired with ridge cap nail schedule near ZIP 94506.
+Local service note: attic baffle spacing paired with ridge cap nail schedule near ZIP 94506 for emergency roof work repairs.
 
 On-site sector marker: Contra Costa County / primary ZIP 94506 — logged for map parity and ZIP-corridor verification.
 

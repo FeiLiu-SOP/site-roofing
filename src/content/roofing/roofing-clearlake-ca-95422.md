@@ -11,11 +11,14 @@ lng: -122.6300
 zipSample: ["95424", "95422"]
 zipCodes: ["95422", "95424"]
 localPaths: ["Lake County / elevation 1362 ft band", "Lake County / ZIP 95424 sector", "Lake County / primary ZIP 95422", "Lake County / ZIP 95422 sector", "Lake County / coords 38.9600, -122.6300"]
-zillowHomeValueUsd: 202432
 ---
 
-**Engineering Notice for Clearlake:** Structural loading calculated based on 1362 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Clearlake:** Storm and emergency leak triage uses 1362 ft elevation band with Lake County service-area context for roofing repairs.
 
+
+Emergency roof restoration in Clearlake, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Lake County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof remediation crews serving Clearlake, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Code context: Ventilation ratios for Clearlake, CA attics should be checked against current mechanical exhaust additions.
 
@@ -31,11 +34,9 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Across Clearlake, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: compare shingle manufacturer wind-zone ratings for Clearlake, CA exposure class.
-
-Field routing: chimney cricket slope paired with starter-strip setback near ZIP 95422.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Lake County and primary ZIP 95422. Terrain reference: 1362 ft. Center point: 38.9600, -122.6300. ZIP sample: 95422, 95424. Service perimeter note: Coverage extends through Lake County with dispatch centered near ZIP 95422.
 

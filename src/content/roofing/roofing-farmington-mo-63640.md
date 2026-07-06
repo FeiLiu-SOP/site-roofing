@@ -11,11 +11,14 @@ lng: -90.4300
 zipSample: ["63640"]
 zipCodes: ["63640"]
 localPaths: ["St. Francois County / elevation 961 ft band", "St. Francois County / coords 37.7800, -90.4300", "St. Francois County / ZIP 63640 sector", "St. Francois County / primary ZIP 63640"]
-zillowHomeValueUsd: 254774
 ---
 
-**Engineering Notice for Farmington:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: St. Francois County.
+**Engineering Notice for Farmington:** Shingle, flashing, and ventilation review recorded at 961 ft AMSL context (St. Francois County).
 
+
+Storm damage roofing service in Farmington, MO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Francois County clarifies whether service or replacement fits the damage pattern.
+
+Roofing service remediation in Farmington, MO, St. Francois County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -25,13 +28,11 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 TPO seam welds in Farmington, MO commercial sections need probe tests after freeze events.
 
 Risk flag: Tile underlayment age in Farmington, MO can fail independently of visible tile cracks.
-
-Scope trace: attic baffle spacing plus soffit intake free area referenced in St. Francois County county grid review.
 
 On-site sector marker: St. Francois County / ZIP 63640 sector — logged for map parity and ZIP-corridor verification.
 

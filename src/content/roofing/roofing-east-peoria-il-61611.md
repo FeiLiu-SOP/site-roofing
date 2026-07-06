@@ -11,11 +11,14 @@ lng: -89.5400
 zipSample: ["61611", "61635", "61612"]
 zipCodes: ["61611", "61612", "61635"]
 localPaths: ["Tazewell County / coords 40.6700, -89.5400", "Tazewell County / ZIP 61611 sector", "Tazewell County / primary ZIP 61611", "Tazewell County / ZIP 61612 sector", "Tazewell County / elevation 502 ft band"]
-zillowHomeValueUsd: 182673
 ---
 
-**Engineering Notice for East Peoria:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Tazewell County.
+**Engineering Notice for East Peoria:** Roof repair scope references 502 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Tazewell County.
 
+
+Emergency roof restoration in East Peoria, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Tazewell County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in East Peoria, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Tazewell County clarifies whether remediation or replacement fits the damage pattern.
 
 Wind-zone note: East Peoria, IL exposure class can change starter-strip and cap nail schedules.
 
@@ -29,13 +32,11 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Risk flag: Tile underlayment age in East Peoria, IL can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Can you tarp only part of the roof? In East Peoria, IL, yes—if slope and anchor points support safe tie-offs.
 
-Field routing: skylight curb height paired with soffit intake free area near ZIP 61611.
-
-Field note: Shingle seal-down timing logged near ZIP 61611/61612/61635.
+Local service note: skylight curb height paired with soffit intake free area near ZIP 61611 for emergency roof work repairs.
 
 On-site sector marker: Tazewell County / elevation 502 ft band — logged for map parity and ZIP-corridor verification.
 

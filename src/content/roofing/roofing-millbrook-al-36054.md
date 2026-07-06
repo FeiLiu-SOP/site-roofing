@@ -11,11 +11,14 @@ lng: -86.3700
 zipSample: ["36022", "36054"]
 zipCodes: ["36022", "36054"]
 localPaths: ["Elmore County / ZIP 36022 sector", "Elmore County / ZIP 36054 sector", "Elmore County / primary ZIP 36054", "Elmore County / elevation 266 ft band", "Elmore County / coords 32.5000, -86.3700"]
-zillowHomeValueUsd: 219944
 ---
 
-**Engineering Notice for Millbrook:** Structural loading calculated based on 266 ft terrain assessment. Regional dispatch grid: Elmore County.
+**Engineering Notice for Millbrook:** Shingle, flashing, and ventilation review recorded at 266 ft AMSL context (Elmore County).
 
+
+Qualified roof restoration crews serving Millbrook, AL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Millbrook, AL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Elmore County clarifies whether remediation or replacement fits the damage pattern.
 
 We coordinate Millbrook, AL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -31,7 +34,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Wood shake courses in Millbrook, AL require skip-spacing rules at valleys.
 
-Scope trace: synthetic underlayment slip plus starter-strip setback referenced in Elmore County county grid review.
+Scope trace: synthetic underlayment slip plus starter-strip setback referenced in Elmore County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 36022/36054.
 

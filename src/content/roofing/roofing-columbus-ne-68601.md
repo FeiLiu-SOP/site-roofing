@@ -11,17 +11,20 @@ lng: -97.3600
 zipSample: ["68601", "68602"]
 zipCodes: ["68601", "68602"]
 localPaths: ["Platte County / coords 41.4400, -97.3600", "Platte County / ZIP 68601 sector", "Platte County / ZIP 68602 sector", "Platte County / primary ZIP 68601", "Platte County / elevation 1453 ft band"]
-zillowHomeValueUsd: 271024
 ---
 
-**Engineering Notice for Columbus:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: Platte County.
+**Engineering Notice for Columbus:** Storm and emergency leak triage uses 1453 ft elevation band with Platte County service-area context for roofing repairs.
 
 
-Step: separate emergency tarp scope from permanent remediation line items.
+Storm damage roofing service in Columbus, NE may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Platte County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof service in Columbus, NE often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Platte County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Step: separate emergency tarp scope from permanent restoration line items.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -31,9 +34,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 68601.
 
-Field routing: pipe boot manufacturer match paired with chimney cricket slope near ZIP 68601.
-
-Field note: Shingle seal-down timing logged near ZIP 68602/68601.
+Local service note: pipe boot manufacturer match paired with chimney cricket slope near ZIP 68601 for emergency roof work repairs.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Platte County and primary ZIP 68601. Terrain reference: 1453 ft. Center point: 41.4400, -97.3600. ZIP sample: 68601, 68602. Regional routing note: Platte County traffic flow is balanced around ZIP 68601 service demand.
 

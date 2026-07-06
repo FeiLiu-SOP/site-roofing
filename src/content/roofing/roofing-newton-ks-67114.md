@@ -11,11 +11,14 @@ lng: -97.3400
 zipSample: ["67114"]
 zipCodes: ["67114"]
 localPaths: ["Harvey County / ZIP 67114 sector", "Harvey County / primary ZIP 67114", "Harvey County / elevation 1453 ft band", "Harvey County / coords 38.0400, -97.3400"]
-zillowHomeValueUsd: 170233
 ---
 
-**Engineering Notice for Newton:** Structural loading calculated based on 1453 ft terrain assessment. Regional dispatch grid: Harvey County.
+**Engineering Notice for Newton:** Storm and emergency leak triage uses 1453 ft elevation band with Harvey County service-area context for roofing repairs.
 
+
+Emergency roof service in Newton, KS often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Harvey County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof service crews serving Newton, KS review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -29,11 +32,9 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Skylight curb flashing in Newton, KS should be sequenced before ridge cap replacement.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Newton, KS can fail independently of visible tile cracks.
-
-roof work brief: deck sheathing thickness and wind uplift clip spacing were cross-checked for the Newton intake packet.
 
 On-site sector marker: Harvey County / ZIP 67114 sector — logged for map parity and ZIP-corridor verification.
 

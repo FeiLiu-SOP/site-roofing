@@ -11,11 +11,14 @@ lng: -122.0800
 zipSample: ["98077", "98072"]
 zipCodes: ["98077", "98072"]
 localPaths: ["King County / ZIP 98077 sector", "King County / coords 47.7500, -122.0800", "King County / elevation 328 ft band", "King County / primary ZIP 98072", "King County / ZIP 98072 sector"]
-zillowHomeValueUsd: 1319445
 ---
 
-**Engineering Notice for Cottage Lake:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Cottage Lake:** Roof repair scope references 328 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in King County.
 
+
+Storm damage roof work in Cottage Lake, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in King County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Cottage Lake, WA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Note recent wind events when filing insurance photos for Cottage Lake, WA.
 
@@ -29,11 +32,9 @@ Code context: Ventilation ratios for Cottage Lake, WA attics should be checked a
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roof work brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Cottage Lake intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 98077/98072.
+Roof remediation brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Cottage Lake shingle and leak scope.
 
 On-site sector marker: King County / coords 47.7500, -122.0800 — logged for map parity and ZIP-corridor verification.
 

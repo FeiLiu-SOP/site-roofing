@@ -11,11 +11,14 @@ lng: -82.7400
 zipSample: ["33709"]
 zipCodes: ["33709"]
 localPaths: ["Pinellas County / coords 27.8200, -82.7400", "Pinellas County / primary ZIP 33709", "Pinellas County / ZIP 33709 sector", "Pinellas County / elevation 39 ft band"]
-zillowHomeValueUsd: 263777
 ---
 
-**Engineering Notice for West Lealman:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Pinellas County.
+**Engineering Notice for West Lealman:** Storm and emergency leak triage uses 39 ft elevation band with Pinellas County service-area context for roofing repairs.
 
+
+Storm damage roof service in West Lealman, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pinellas County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof remediation in West Lealman, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pinellas County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Synthetic underlayment slip in West Lealman, FL is often tied to deck moisture, not wind alone.
 
@@ -29,9 +32,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Our West Lealman, FL dispatch packets reference county grid Pinellas County and elevation band 39 ft.
-
-roof service brief: starter-strip setback and valley metal gauge were cross-checked for the West Lealman intake packet.
+Our West Lealman, FL service packets reference Pinellas County and elevation band 39 ft for shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 27.8200, -82.7400 at elevation ~39 ft aligns with Pinellas County intake staging.
 

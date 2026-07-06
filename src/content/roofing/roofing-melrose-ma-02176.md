@@ -11,11 +11,14 @@ lng: -71.0600
 zipSample: ["02176"]
 zipCodes: ["02176"]
 localPaths: ["Middlesex County / ZIP 02176 sector", "Middlesex County / primary ZIP 02176", "Middlesex County / elevation 98 ft band", "Middlesex County / coords 42.4600, -71.0600"]
-zillowHomeValueUsd: 908745
 ---
 
-**Engineering Notice for Melrose:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Melrose:** Storm and emergency leak triage uses 98 ft elevation band with Middlesex County service-area context for roofing repairs.
 
+
+Storm damage roof service in Melrose, MA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Middlesex County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof remediation in Melrose, MA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Middlesex County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Can you tarp only part of the roof? In Melrose, MA, yes—if slope and anchor points support safe tie-offs.
 
@@ -33,9 +36,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-Scope trace: attic baffle spacing plus ridge cap nail schedule referenced in Middlesex County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 02176.
+Scope trace: attic baffle spacing plus ridge cap nail schedule referenced in Middlesex County storm and leak review.
 
 On-site sector marker: Middlesex County / ZIP 02176 sector — logged for map parity and ZIP-corridor verification.
 

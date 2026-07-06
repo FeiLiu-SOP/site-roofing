@@ -11,18 +11,20 @@ lng: -122.5700
 zipSample: ["98433"]
 zipCodes: ["98433"]
 localPaths: ["Pierce County / ZIP 98433 sector", "Pierce County / elevation 377 ft band", "Pierce County / coords 47.1000, -122.5700", "Pierce County / primary ZIP 98433"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 571485
 ---
 
-**Engineering Notice for Fort Lewis:** Structural loading calculated based on 377 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Fort Lewis:** Storm and emergency leak triage uses 377 ft elevation band with Pierce County service-area context for roofing repairs.
 
+
+Storm damage roof work in Fort Lewis, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pierce County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof restoration in Fort Lewis, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pierce County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Regulatory note: Fort Lewis, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
 In Fort Lewis, WA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -34,7 +36,7 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Scope trace: skylight curb height plus synthetic underlayment slip referenced in Pierce County county grid review.
+Scope trace: skylight curb height plus synthetic underlayment slip referenced in Pierce County storm and leak review.
 
 Regional mesh label Pierce County: moisture and logistics baselines are keyed to Fort Lewis, WA before niche-specific work begins.
 

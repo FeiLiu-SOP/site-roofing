@@ -11,13 +11,16 @@ lng: -93.2000
 zipSample: ["55124"]
 zipCodes: ["55124"]
 localPaths: ["Dakota County / primary ZIP 55124", "Dakota County / coords 44.7500, -93.2000", "Dakota County / ZIP 55124 sector", "Dakota County / elevation 974 ft band"]
-zillowHomeValueUsd: 376000
 ---
 
-**Engineering Notice for Apple Valley:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Apple Valley:** Shingle, flashing, and ventilation review recorded at 974 ft AMSL context (Dakota County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Storm damage roofing service in Apple Valley, MN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Dakota County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof work restoration in Apple Valley, MN, Dakota County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -32,8 +35,6 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 Wood shake courses in Apple Valley, MN require skip-spacing rules at valleys.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
-
-roofing service brief: starter-strip setback and chimney cricket slope were cross-checked for the Apple Valley intake packet.
 
 Primary postal anchor 55124 with multi-ZIP overlap in Apple Valley; field packets tag Dakota County for county-grid reconciliation.
 

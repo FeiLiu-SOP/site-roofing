@@ -11,11 +11,14 @@ lng: -122.3200
 zipSample: ["98148", "98198"]
 zipCodes: ["98198", "98148"]
 localPaths: ["King County / primary ZIP 98148", "King County / elevation 164 ft band", "King County / ZIP 98198 sector", "King County / ZIP 98148 sector", "King County / coords 47.3900, -122.3200"]
-zillowHomeValueUsd: 612372
 ---
 
-**Engineering Notice for Des Moines:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Des Moines:** Storm and emergency leak triage uses 164 ft elevation band with King County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Des Moines, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in King County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Des Moines, WA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Wind-zone note: Des Moines, WA exposure class can change starter-strip and cap nail schedules.
 
@@ -35,9 +38,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 We coordinate Des Moines, WA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Scope trace: counter-flashing reglet depth plus wind uplift clip spacing referenced in King County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 98198/98148.
+Scope trace: counter-flashing reglet depth plus wind uplift clip spacing referenced in King County storm and leak review.
 
 Regional mesh label King County: moisture and logistics baselines are keyed to Des Moines, WA before niche-specific work begins.
 

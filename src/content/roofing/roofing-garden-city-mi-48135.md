@@ -11,11 +11,14 @@ lng: -83.3400
 zipSample: ["48135", "48136"]
 zipCodes: ["48135", "48136"]
 localPaths: ["Wayne County / primary ZIP 48135", "Wayne County / ZIP 48135 sector", "Wayne County / elevation 640 ft band", "Wayne County / coords 42.3200, -83.3400", "Wayne County / ZIP 48136 sector"]
-zillowHomeValueUsd: 200507
 ---
 
-**Engineering Notice for Garden City:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Garden City:** Roof repair scope references 640 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Wayne County.
 
+
+Emergency roof remediation in Garden City, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Wayne County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof service crews serving Garden City, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -29,13 +32,11 @@ Metal panel oil-canning in Garden City, MI may signal clip spacing issues, not w
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Scope trace: skylight curb height plus chimney cricket slope referenced in Wayne County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 48136/48135.
+Scope trace: skylight curb height plus chimney cricket slope referenced in Wayne County storm and leak review.
 
 On-site sector marker: Wayne County / ZIP 48136 sector — logged for map parity and ZIP-corridor verification.
 

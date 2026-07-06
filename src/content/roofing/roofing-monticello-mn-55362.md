@@ -11,21 +11,24 @@ lng: -93.8000
 zipSample: ["55362"]
 zipCodes: ["55362"]
 localPaths: ["Wright County / coords 45.3000, -93.8000", "Wright County / elevation 948 ft band", "Wright County / ZIP 55362 sector", "Wright County / primary ZIP 55362"]
-zillowHomeValueUsd: 353463
 ---
 
-**Engineering Notice for Monticello:** Structural loading calculated based on 948 ft terrain assessment. Regional dispatch grid: Wright County.
+**Engineering Notice for Monticello:** Shingle, flashing, and ventilation review recorded at 948 ft AMSL context (Wright County).
 
+
+Storm damage roofing service in Monticello, MN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Wright County clarifies whether remediation or replacement fits the damage pattern.
+
+Certified roof restoration crews serving Monticello, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Code context: Ventilation ratios for Monticello, MN attics should be checked against current mechanical exhaust additions.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Coastal humidity in Monticello, MN can slow shingle seal-down after shoulder-season storms.
 
-Step: separate emergency tarp scope from permanent remediation line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Material note: In Monticello, MN, algae-resistant granules may be specified for north-facing slopes.
 
@@ -33,7 +36,7 @@ FAQ: Is partial dry-in possible? In Monticello, MN, yes—if slope and anchor po
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Scope trace: valley metal gauge plus chimney cricket slope referenced in Wright County county grid review.
+Scope trace: valley metal gauge plus chimney cricket slope referenced in Wright County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 55362.
 

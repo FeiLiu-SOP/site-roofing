@@ -11,11 +11,14 @@ lng: -91.6100
 zipSample: ["52317"]
 zipCodes: ["52317"]
 localPaths: ["Johnson County / elevation 768 ft band", "Johnson County / ZIP 52317 sector", "Johnson County / primary ZIP 52317", "Johnson County / coords 41.7400, -91.6100"]
-zillowHomeValueUsd: 307505
 ---
 
-**Engineering Notice for North Liberty:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for North Liberty:** Roof repair scope references 768 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Johnson County.
 
+
+Storm damage roof service in North Liberty, IA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Johnson County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof service service in North Liberty, IA, Johnson County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -33,7 +36,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 FAQ: How long can shingles wait after storm damage? In North Liberty, IA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field routing: soffit intake free area paired with pipe boot manufacturer match near ZIP 52317.
+Local service note: soffit intake free area paired with pipe boot manufacturer match near ZIP 52317 for emergency roof work repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 52317.
 

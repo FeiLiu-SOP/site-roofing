@@ -11,11 +11,14 @@ lng: -87.9800
 zipSample: ["53092", "53097"]
 zipCodes: ["53092", "53097"]
 localPaths: ["Ozaukee County / elevation 666 ft band", "Ozaukee County / ZIP 53097 sector", "Ozaukee County / primary ZIP 53097", "Ozaukee County / ZIP 53092 sector", "Ozaukee County / coords 43.2400, -87.9800"]
-zillowHomeValueUsd: 673232
 ---
 
-**Engineering Notice for Mequon:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Ozaukee County.
+**Engineering Notice for Mequon:** Shingle, flashing, and ventilation review recorded at 666 ft AMSL context (Ozaukee County).
 
+
+Roof service restoration in Mequon, WI, Ozaukee County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Mequon, WI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Ozaukee County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Wind-zone note: Mequon, WI exposure class can change starter-strip and cap nail schedules.
 
@@ -29,9 +32,9 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 FAQ: How long can shingles wait after storm damage? In Mequon, WI, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Field routing: pipe boot manufacturer match paired with starter-strip setback near ZIP 53097.
+Local service note: pipe boot manufacturer match paired with starter-strip setback near ZIP 53097 for emergency roof service repairs.
 
 ZIP-corridor snapshot for Mequon, WI: sampled sectors include 53092, 53097; county routing grid remains Ozaukee County.
 

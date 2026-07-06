@@ -11,11 +11,14 @@ lng: -97.3300
 zipSample: ["76028", "76097"]
 zipCodes: ["76028", "76097"]
 localPaths: ["Johnson County / ZIP 76028 sector", "Johnson County / primary ZIP 76028", "Johnson County / coords 32.5200, -97.3300", "Johnson County / elevation 748 ft band", "Johnson County / ZIP 76097 sector"]
-zillowHomeValueUsd: 339907
 ---
 
-**Engineering Notice for Burleson:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Burleson:** Roof repair scope references 748 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Johnson County.
 
+
+Roof service remediation in Burleson, TX, Johnson County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof service crews serving Burleson, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -33,9 +36,9 @@ Risk flag: In Burleson, TX, interior stains may track from HVAC condensate rathe
 
 Code context: Ventilation ratios for Burleson, TX attics should be checked against current mechanical exhaust additions.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roof service brief: wind uplift clip spacing and skylight curb height were cross-checked for the Burleson intake packet.
+Roof restoration brief: wind uplift clip spacing and skylight curb height were cross-checked for the Burleson shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 76097/76028.
 

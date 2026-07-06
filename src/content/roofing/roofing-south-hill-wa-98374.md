@@ -11,13 +11,16 @@ lng: -122.2900
 zipSample: ["98373", "98374", "98375"]
 zipCodes: ["98373", "98374", "98375"]
 localPaths: ["Pierce County / ZIP 98375 sector", "Pierce County / ZIP 98373 sector", "Pierce County / elevation 561 ft band", "Pierce County / primary ZIP 98374", "Pierce County / ZIP 98374 sector"]
-zillowHomeValueUsd: 584152
 ---
 
-**Engineering Notice for South Hill:** Structural loading calculated based on 561 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for South Hill:** Shingle, flashing, and ventilation review recorded at 561 ft AMSL context (Pierce County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Qualified roof restoration crews serving South Hill, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in South Hill, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pierce County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: In South Hill, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -34,8 +37,6 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
 Step: stage tear-off debris paths away from landscape drains.
-
-roof service brief: starter-strip setback and synthetic underlayment slip were cross-checked for the South Hill intake packet.
 
 **Regional Infrastructure Brief:** Service coverage aligns with Pierce County and primary ZIP 98374. Terrain reference: 561 ft. Center point: 47.1200, -122.2900. ZIP sample: 98375, 98373, 98374. Logistics priority: Serving residential sectors across Pierce County and north-east ZIP 98374 grid.
 

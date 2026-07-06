@@ -11,11 +11,14 @@ lng: -104.8500
 zipSample: ["80109", "80104", "80108"]
 zipCodes: ["80108", "80109", "80104"]
 localPaths: ["Douglas County / primary ZIP 80104", "Douglas County / elevation 6309 ft band", "Douglas County / ZIP 80104 sector", "Douglas County / ZIP 80109 sector", "Douglas County / coords 39.3800, -104.8500"]
-zillowHomeValueUsd: 614740
 ---
 
-**Engineering Notice for Castle Rock:** Structural loading calculated based on 6309 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Castle Rock:** Roof repair scope references 6309 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Douglas County.
 
+
+Qualified roof remediation crews serving Castle Rock, CO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service remediation in Castle Rock, CO, Douglas County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Tile underlayment age in Castle Rock, CO can fail independently of visible tile cracks.
 
@@ -31,11 +34,9 @@ Step: compare shingle manufacturer wind-zone ratings for Castle Rock, CO exposur
 
 Material note: In Castle Rock, CO, algae-resistant granules may be specified for north-facing slopes.
 
-Our Castle Rock, CO dispatch packets reference county grid Douglas County and elevation band 6309 ft.
+Our Castle Rock, CO remediation packets reference Douglas County and elevation band 6309 ft for shingle and leak scope.
 
 Step: separate emergency tarp scope from permanent remediation line items.
-
-roofing service brief: soffit intake free area and attic baffle spacing were cross-checked for the Castle Rock intake packet.
 
 On-site sector marker: Douglas County / ZIP 80108 sector — logged for map parity and ZIP-corridor verification.
 

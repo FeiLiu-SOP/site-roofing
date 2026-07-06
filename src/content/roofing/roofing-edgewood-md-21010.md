@@ -11,13 +11,16 @@ lng: -76.3000
 zipSample: ["21010", "21040"]
 zipCodes: ["21040", "21010"]
 localPaths: ["Harford County / coords 39.4200, -76.3000", "Harford County / elevation 82 ft band", "Harford County / ZIP 21010 sector", "Harford County / ZIP 21040 sector", "Harford County / primary ZIP 21010"]
-zillowHomeValueUsd: 264060
 ---
 
-**Engineering Notice for Edgewood:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: Harford County.
+**Engineering Notice for Edgewood:** Shingle, flashing, and ventilation review recorded at 82 ft AMSL context (Harford County).
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Storm damage roofing service in Edgewood, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Harford County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Edgewood, MD, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -33,11 +36,9 @@ Wind-zone note: Edgewood, MD exposure class can change starter-strip and cap nai
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Request dry-in and remediation phases as separate line items. Serving ZIP Code: 21010.
+Request dry-in and service phases as separate line items. Serving ZIP Code: 21010.
 
-Scope trace: counter-flashing reglet depth plus attic baffle spacing referenced in Harford County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 21010/21040.
+Scope trace: counter-flashing reglet depth plus attic baffle spacing referenced in Harford County storm and leak review.
 
 Regional mesh label Harford County: moisture and logistics baselines are keyed to Edgewood, MD before niche-specific work begins.
 

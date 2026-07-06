@@ -11,11 +11,14 @@ lng: -122.7900
 zipSample: ["98516", "98503", "98509", "98513"]
 zipCodes: ["98516", "98503", "98513", "98509"]
 localPaths: ["Thurston County / elevation 174 ft band", "Thurston County / ZIP 98509 sector", "Thurston County / coords 47.0500, -122.7900", "Thurston County / primary ZIP 98513", "Thurston County / ZIP 98503 sector"]
-zillowHomeValueUsd: 507975
 ---
 
-**Engineering Notice for Lacey:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Thurston County.
+**Engineering Notice for Lacey:** Roof repair scope references 174 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Thurston County.
 
+
+Licensed roof restoration crews serving Lacey, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Lacey, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Thurston County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -25,7 +28,7 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Low-slope sections in Lacey, WA need positive drainage before membrane repairs are scoped.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -35,9 +38,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Risk flag: Tile underlayment age in Lacey, WA can fail independently of visible tile cracks.
 
-Field routing: ridge cap nail schedule paired with pipe boot manufacturer match near ZIP 98513.
-
-Field note: Valley debris and granule loss noted for ZIP 98513/98503/98516.
+Local service note: ridge cap nail schedule paired with pipe boot manufacturer match near ZIP 98513 for emergency roof work repairs.
 
 Primary postal anchor 98513 with multi-ZIP overlap in Lacey; field packets tag Thurston County for county-grid reconciliation.
 

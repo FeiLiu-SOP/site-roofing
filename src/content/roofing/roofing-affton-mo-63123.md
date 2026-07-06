@@ -11,11 +11,14 @@ lng: -90.3300
 zipSample: ["63123"]
 zipCodes: ["63123"]
 localPaths: ["St. Louis County / coords 38.5500, -90.3300", "St. Louis County / elevation 558 ft band", "St. Louis County / ZIP 63123 sector", "St. Louis County / primary ZIP 63123"]
-zillowHomeValueUsd: 243579
 ---
 
-**Engineering Notice for Affton:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Affton:** Roof repair scope references 558 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in St. Louis County.
 
+
+When wind or hail hits Affton, MO, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof service in Affton, MO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Louis County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -27,7 +30,7 @@ Step: confirm drip-edge continuity before shingle courses restart.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Our Affton, MO dispatch packets reference county grid St. Louis County and elevation band 558 ft.
+Our Affton, MO restoration packets reference St. Louis County and elevation band 558 ft for shingle and leak scope.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -35,9 +38,7 @@ Material note: In Affton, MO, algae-resistant granules may be specified for nort
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field routing: pipe boot manufacturer match paired with skylight curb height near ZIP 63123.
-
-Field note: Valley debris and granule loss noted for ZIP 63123.
+Local service note: pipe boot manufacturer match paired with skylight curb height near ZIP 63123 for emergency roof work repairs.
 
 On-site sector marker: St. Louis County / elevation 558 ft band — logged for map parity and ZIP-corridor verification.
 

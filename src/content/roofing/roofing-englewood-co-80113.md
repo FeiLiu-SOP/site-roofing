@@ -11,15 +11,18 @@ lng: -104.9900
 zipSample: ["80151", "80110", "80150", "80113"]
 zipCodes: ["80150", "80113", "80151", "80110"]
 localPaths: ["Arapahoe County / primary ZIP 80113", "Arapahoe County / ZIP 80150 sector", "Arapahoe County / ZIP 80110 sector", "Arapahoe County / ZIP 80113 sector", "Arapahoe County / ZIP 80151 sector"]
-zillowHomeValueUsd: 646680
 ---
 
-**Engineering Notice for Englewood:** Structural loading calculated based on 5367 ft terrain assessment. Regional dispatch grid: Arapahoe County.
+**Engineering Notice for Englewood:** Storm and emergency leak triage uses 5367 ft elevation band with Arapahoe County service-area context for roofing repairs.
 
+
+Roof work restoration in Englewood, CO, Arapahoe County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof restoration crews serving Englewood, CO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Tile underlayment age in Englewood, CO can fail independently of visible tile cracks.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Code context: Ventilation ratios for Englewood, CO attics should be checked against current mechanical exhaust additions.
 
@@ -32,8 +35,6 @@ Material note: In Englewood, CO, algae-resistant granules may be specified for n
 Granule embedment loss on Englewood, CO north slopes can precede mat exposure.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
-
-Field routing: valley metal gauge paired with soffit intake free area near ZIP 80113.
 
 On-site sector marker: Arapahoe County / ZIP 80110 sector — logged for map parity and ZIP-corridor verification.
 

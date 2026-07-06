@@ -11,11 +11,14 @@ lng: -81.1000
 zipSample: ["32124", "32121", "32119", "32115", "32120"]
 zipCodes: ["32126", "32116", "32117", "32124", "32115", "32198", "32118", "32120", "32119", "32114", "32121"]
 localPaths: ["Volusia County / primary ZIP 32124", "Volusia County / elevation 39 ft band", "Volusia County / ZIP 32124 sector", "Volusia County / ZIP 32121 sector", "Volusia County / ZIP 32120 sector"]
-zillowHomeValueUsd: 429580
 ---
 
-**Engineering Notice for Daytona Beach:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Volusia County.
+**Engineering Notice for Daytona Beach:** Roof repair scope references 39 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Volusia County.
 
+
+Storm damage roof service in Daytona Beach, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Volusia County clarifies whether service or replacement fits the damage pattern.
+
+Licensed roof remediation crews serving Daytona Beach, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -25,7 +28,7 @@ Material note: In Daytona Beach, FL, algae-resistant granules may be specified f
 
 Synthetic underlayment slip in Daytona Beach, FL is often tied to deck moisture, not wind alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Regulatory note: Daytona Beach, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -35,9 +38,7 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Risk flag: Tile underlayment age in Daytona Beach, FL can fail independently of visible tile cracks.
 
-Field routing: counter-flashing reglet depth paired with skylight curb height near ZIP 32124.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 32124/32117/32116.
+Local service note: counter-flashing reglet depth paired with skylight curb height near ZIP 32124 for emergency roof work repairs.
 
 Primary postal anchor 32124 with multi-ZIP overlap in Daytona Beach; field packets tag Volusia County for county-grid reconciliation.
 

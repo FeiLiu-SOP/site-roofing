@@ -11,11 +11,14 @@ lng: -97.3900
 zipSample: ["57078"]
 zipCodes: ["57078"]
 localPaths: ["Yankton County / ZIP 57078 sector", "Yankton County / coords 42.8900, -97.3900", "Yankton County / primary ZIP 57078", "Yankton County / elevation 1253 ft band"]
-zillowHomeValueUsd: 270860
 ---
 
-**Engineering Notice for Yankton:** Structural loading calculated based on 1253 ft terrain assessment. Regional dispatch grid: Yankton County.
+**Engineering Notice for Yankton:** Shingle, flashing, and ventilation review recorded at 1253 ft AMSL context (Yankton County).
 
+
+Storm damage roof service in Yankton, SD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Yankton County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Yankton, SD, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -31,11 +34,11 @@ Risk flag: Tile underlayment age in Yankton, SD can fail independently of visibl
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field routing: soffit intake free area paired with starter-strip setback near ZIP 57078.
+Local service note: soffit intake free area paired with starter-strip setback near ZIP 57078 for emergency roof work repairs.
 
 Coordinate-anchored dispatch note: center reference 42.8900, -97.3900 at elevation ~1253 ft aligns with Yankton County intake staging.
 

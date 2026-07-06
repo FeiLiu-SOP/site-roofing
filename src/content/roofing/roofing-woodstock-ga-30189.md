@@ -11,11 +11,14 @@ lng: -84.5100
 zipSample: ["30189", "30188"]
 zipCodes: ["30189", "30188"]
 localPaths: ["Cherokee County / elevation 919 ft band", "Cherokee County / primary ZIP 30189", "Cherokee County / ZIP 30189 sector", "Cherokee County / ZIP 30188 sector", "Cherokee County / coords 34.1000, -84.5100"]
-zillowHomeValueUsd: 454000
 ---
 
-**Engineering Notice for Woodstock:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Cherokee County.
+**Engineering Notice for Woodstock:** Roof repair scope references 919 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Cherokee County.
 
+
+Emergency roof remediation in Woodstock, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cherokee County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work remediation in Woodstock, GA, Cherokee County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Is partial dry-in possible? In Woodstock, GA, yes—if slope and anchor points support safe tie-offs.
 
@@ -25,7 +28,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -35,7 +38,7 @@ Step: log deck soundings near vents before tear-off is approved.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Scope trace: synthetic underlayment slip plus chimney cricket slope referenced in Cherokee County county grid review.
+Scope trace: synthetic underlayment slip plus chimney cricket slope referenced in Cherokee County storm and leak review.
 
 On-site sector marker: Cherokee County / coords 34.1000, -84.5100 — logged for map parity and ZIP-corridor verification.
 

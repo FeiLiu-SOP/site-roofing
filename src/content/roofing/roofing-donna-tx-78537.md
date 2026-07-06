@@ -11,15 +11,18 @@ lng: -98.0600
 zipSample: ["78537"]
 zipCodes: ["78537"]
 localPaths: ["Hidalgo County / elevation 105 ft band", "Hidalgo County / ZIP 78537 sector", "Hidalgo County / primary ZIP 78537", "Hidalgo County / coords 26.1500, -98.0600"]
-zillowHomeValueUsd: 152956
 ---
 
-**Engineering Notice for Donna:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Donna:** Storm and emergency leak triage uses 105 ft elevation band with Hidalgo County service-area context for roofing repairs.
 
+
+When wind or hail hits Donna, TX, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service remediation in Donna, TX, Hidalgo County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Tile underlayment age in Donna, TX can fail independently of visible tile cracks.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Regulatory note: Donna, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -33,7 +36,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Synthetic underlayment slip in Donna, TX is often tied to deck moisture, not wind alone.
 
-roof work brief: valley metal gauge and chimney cricket slope were cross-checked for the Donna intake packet.
+Roof remediation brief: valley metal gauge and chimney cricket slope were cross-checked for the Donna shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 78537.
 

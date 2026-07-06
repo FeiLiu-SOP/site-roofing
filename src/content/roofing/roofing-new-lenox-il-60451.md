@@ -11,13 +11,16 @@ lng: -87.9700
 zipSample: ["60451"]
 zipCodes: ["60451"]
 localPaths: ["Will County / ZIP 60451 sector", "Will County / primary ZIP 60451", "Will County / coords 41.5100, -87.9700", "Will County / elevation 692 ft band"]
-zillowHomeValueUsd: 439914
 ---
 
-**Engineering Notice for New Lenox:** Structural loading calculated based on 692 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for New Lenox:** Shingle, flashing, and ventilation review recorded at 692 ft AMSL context (Will County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Emergency roof remediation in New Lenox, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Will County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in New Lenox, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Will County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -31,9 +34,7 @@ Code context: Ventilation ratios for New Lenox, IL attics should be checked agai
 
 Synthetic underlayment slip in New Lenox, IL is often tied to deck moisture, not wind alone.
 
-roof work brief: valley metal gauge and wind uplift clip spacing were cross-checked for the New Lenox intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 60451.
+Roof restoration brief: valley metal gauge and wind uplift clip spacing were cross-checked for the New Lenox shingle and leak scope.
 
 On-site sector marker: Will County / ZIP 60451 sector — logged for map parity and ZIP-corridor verification.
 

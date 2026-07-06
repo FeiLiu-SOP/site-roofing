@@ -11,11 +11,14 @@ lng: -107.8600
 zipSample: ["81403", "81401", "81402"]
 zipCodes: ["81401", "81402", "81403"]
 localPaths: ["Montrose County / ZIP 81403 sector", "Montrose County / primary ZIP 81403", "Montrose County / elevation 5879 ft band", "Montrose County / ZIP 81402 sector", "Montrose County / coords 38.4700, -107.8600"]
-zillowHomeValueUsd: 600800
 ---
 
-**Engineering Notice for Montrose:** Structural loading calculated based on 5879 ft terrain assessment. Regional dispatch grid: Montrose County.
+**Engineering Notice for Montrose:** Shingle, flashing, and ventilation review recorded at 5879 ft AMSL context (Montrose County).
 
+
+Roof work service in Montrose, CO, Montrose County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Montrose, CO, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Wind-zone note: Montrose, CO exposure class can change starter-strip and cap nail schedules.
 
@@ -27,13 +30,11 @@ Material note: In Montrose, CO, algae-resistant granules may be specified for no
 
 Risk flag: Tile underlayment age in Montrose, CO can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Low-slope sections in Montrose, CO need positive drainage before membrane repairs are scoped.
 
 Step: map ventilation intake and exhaust pairs for Montrose, CO attic runs.
-
-roof work brief: attic baffle spacing and skylight curb height were cross-checked for the Montrose intake packet.
 
 On-site sector marker: Montrose County / primary ZIP 81403 — logged for map parity and ZIP-corridor verification.
 

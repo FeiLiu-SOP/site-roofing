@@ -11,11 +11,14 @@ lng: -89.9900
 zipSample: ["62226", "62221", "62223", "62220"]
 zipCodes: ["62221", "62223", "62220", "62226"]
 localPaths: ["St. Clair County / ZIP 62223 sector", "St. Clair County / ZIP 62220 sector", "St. Clair County / coords 38.5200, -89.9900", "St. Clair County / ZIP 62221 sector", "St. Clair County / ZIP 62226 sector"]
-zillowHomeValueUsd: 248077
 ---
 
-**Engineering Notice for Belleville:** Structural loading calculated based on 505 ft terrain assessment. Regional dispatch grid: St. Clair County.
+**Engineering Notice for Belleville:** Roof repair scope references 505 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in St. Clair County.
 
+
+Roofing service service in Belleville, IL, St. Clair County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Belleville, IL, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -35,9 +38,7 @@ FAQ: How long can shingles wait after storm damage? In Belleville, IL, delayed d
 
 Wind-zone note: Belleville, IL exposure class can change starter-strip and cap nail schedules.
 
-Scope trace: drip-edge metal profile plus chimney cricket slope referenced in St. Clair County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 62226/62223/62221.
+Scope trace: drip-edge metal profile plus chimney cricket slope referenced in St. Clair County storm and leak review.
 
 ZIP-corridor snapshot for Belleville, IL: sampled sectors include 62226, 62220, 62223, 62221; county routing grid remains St. Clair County.
 

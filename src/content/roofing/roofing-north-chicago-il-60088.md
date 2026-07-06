@@ -7,15 +7,18 @@ zipCode: "60088"
 county: "Lake County"
 elevationFt: 705
 lat: 42.3200
-lng: -87.8600
+lng: -87.8900
 zipSample: ["60088", "60064", "60086"]
 zipCodes: ["60064", "60086", "60088"]
-localPaths: ["Lake County / elevation 705 ft band", "Lake County / ZIP 60088 sector", "Lake County / ZIP 60086 sector", "Lake County / coords 42.3200, -87.8600", "Lake County / primary ZIP 60088"]
-zillowHomeValueUsd: 209973
+localPaths: ["Lake County / elevation 705 ft band", "Lake County / ZIP 60088 sector", "Lake County / ZIP 60086 sector", "Lake County / coords 42.3200, -87.8900", "Lake County / primary ZIP 60088"]
 ---
 
-**Engineering Notice for North Chicago:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for North Chicago:** Storm and emergency leak triage uses 705 ft elevation band with Lake County service-area context for roofing repairs.
 
+
+Roof service remediation in North Chicago, IL, Lake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof service crews serving North Chicago, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 We coordinate North Chicago, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -35,12 +38,10 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Valley metal in North Chicago, IL should be reviewed whenever granule loss tracks the water line.
 
-roof service brief: ice-barrier lap sequence and soffit intake free area were cross-checked for the North Chicago intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 60086/60064/60088.
+Roof remediation brief: ice-barrier lap sequence and soffit intake free area were cross-checked for the North Chicago shingle and leak scope.
 
 On-site sector marker: Lake County / elevation 705 ft band — logged for map parity and ZIP-corridor verification.
 
-**Regional Infrastructure Brief:** Dispatch anchor set to Lake County. Reference elevation: 705 ft. Primary coordinates: 42.3200, -87.8600. ZIP sample: 60086, 60064, 60088. Regional routing note: Lake County traffic flow is balanced around ZIP 60088 service demand.
+**Regional Infrastructure Brief:** Dispatch anchor set to Lake County. Reference elevation: 705 ft. Primary coordinates: 42.3200, -87.8900. ZIP sample: 60086, 60064, 60088. Regional routing note: Lake County traffic flow is balanced around ZIP 60088 service demand.
 
 Service reference: IL-60088-d7751664

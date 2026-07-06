@@ -11,11 +11,14 @@ lng: -74.5000
 zipSample: ["08873"]
 zipCodes: ["08873"]
 localPaths: ["Somerset County / elevation 118 ft band", "Somerset County / coords 40.5100, -74.5000", "Somerset County / ZIP 08873 sector", "Somerset County / primary ZIP 08873"]
-zillowHomeValueUsd: 567130
 ---
 
-**Engineering Notice for Somerset:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Somerset County.
+**Engineering Notice for Somerset:** Storm and emergency leak triage uses 118 ft elevation band with Somerset County service-area context for roofing repairs.
 
+
+Emergency roof service in Somerset, NJ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Somerset County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof remediation crews serving Somerset, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wood shake courses in Somerset, NJ require skip-spacing rules at valleys.
 
@@ -27,7 +30,7 @@ Wind-zone note: Somerset, NJ exposure class can change starter-strip and cap nai
 
 Freeze-thaw cycles around Somerset, NJ stress nail pops along eaves and rake edges.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -35,9 +38,7 @@ Step: log deck soundings near vents before tear-off is approved.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Scope trace: skylight curb height plus chimney cricket slope referenced in Somerset County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 08873.
+Scope trace: skylight curb height plus chimney cricket slope referenced in Somerset County storm and leak review.
 
 On-site sector marker: Somerset County / coords 40.5100, -74.5000 — logged for map parity and ZIP-corridor verification.
 

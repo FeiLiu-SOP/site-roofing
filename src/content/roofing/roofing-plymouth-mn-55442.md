@@ -11,15 +11,18 @@ lng: -93.4600
 zipSample: ["55446", "55442", "55441", "55447"]
 zipCodes: ["55442", "55446", "55447", "55441"]
 localPaths: ["Hennepin County / ZIP 55446 sector", "Hennepin County / coords 45.0200, -93.4600", "Hennepin County / ZIP 55447 sector", "Hennepin County / ZIP 55442 sector", "Hennepin County / ZIP 55441 sector"]
-zillowHomeValueUsd: 471683
 ---
 
-**Engineering Notice for Plymouth:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Plymouth:** Roof repair scope references 955 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Hennepin County.
 
+
+Roof service service in Plymouth, MN, Hennepin County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Plymouth, MN, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Wind-zone note: Plymouth, MN exposure class can change starter-strip and cap nail schedules.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -30,8 +33,6 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 Wood shake courses in Plymouth, MN require skip-spacing rules at valleys.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
-
-Scope trace: starter-strip setback plus soffit intake free area referenced in Hennepin County county grid review.
 
 On-site sector marker: Hennepin County / coords 45.0200, -93.4600 — logged for map parity and ZIP-corridor verification.
 

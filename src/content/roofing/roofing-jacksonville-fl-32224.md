@@ -11,17 +11,20 @@ lng: -81.6700
 zipSample: ["32223", "32212", "32214", "32254", "32099"]
 zipCodes: ["32211", "32222", "32205", "32207", "32257", "32233", "32202", "32247", "32277", "32229", "32246", "32228"]
 localPaths: ["Duval County / ZIP 32099 sector", "Duval County / ZIP 32214 sector", "Duval County / ZIP 32212 sector", "Duval County / elevation 46 ft band", "Duval County / ZIP 32254 sector"]
-zillowHomeValueUsd: 454183
 ---
 
-**Engineering Notice for Jacksonville:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Duval County.
+**Engineering Notice for Jacksonville:** Roof repair scope references 46 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Duval County.
 
+
+Roof service remediation in Jacksonville, FL, Duval County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Jacksonville, FL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
 Risk flag: Tile underlayment age in Jacksonville, FL can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Granule embedment loss on Jacksonville, FL north slopes can precede mat exposure.
 
@@ -31,9 +34,7 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 FAQ: Is partial dry-in possible? In Jacksonville, FL, yes—if slope and anchor points support safe tie-offs.
 
-Field routing: deck sheathing thickness paired with soffit intake free area near ZIP 32224.
-
-Field note: Attic moisture pathway scan referenced ZIP 32227/32238/32222.
+Local service note: deck sheathing thickness paired with soffit intake free area near ZIP 32224 for emergency roof service repairs.
 
 On-site sector marker: Duval County / coords 30.3300, -81.6700 — logged for map parity and ZIP-corridor verification.
 

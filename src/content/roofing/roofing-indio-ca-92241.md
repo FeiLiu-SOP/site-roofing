@@ -11,11 +11,14 @@ lng: -116.2300
 zipSample: ["92241", "92203", "92201"]
 zipCodes: ["92203", "92201", "92241"]
 localPaths: ["Riverside County / ZIP 92201 sector", "Riverside County / coords 33.7300, -116.2300", "Riverside County / ZIP 92203 sector", "Riverside County / elevation 0 ft band", "Riverside County / primary ZIP 92241"]
-zillowHomeValueUsd: 408030
 ---
 
-**Engineering Notice for Indio:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Indio:** Shingle, flashing, and ventilation review recorded at 0 ft AMSL context (Riverside County).
 
+
+Roofing service restoration in Indio, CA, Riverside County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof service crews serving Indio, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -29,11 +32,11 @@ Step: note chimney cricket geometry before counter-flashing removal.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Skylight curb flashing in Indio, CA should be sequenced before ridge cap replacement.
 
-Field routing: ridge cap nail schedule paired with chimney cricket slope near ZIP 92241.
+Local service note: ridge cap nail schedule paired with chimney cricket slope near ZIP 92241 for emergency roof work repairs.
 
 On-site sector marker: Riverside County / coords 33.7300, -116.2300 — logged for map parity and ZIP-corridor verification.
 

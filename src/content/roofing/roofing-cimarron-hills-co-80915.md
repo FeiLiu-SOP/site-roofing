@@ -11,11 +11,14 @@ lng: -104.7000
 zipSample: ["80970", "80922", "80915"]
 zipCodes: ["80970", "80915", "80922"]
 localPaths: ["El Paso County / primary ZIP 80915", "El Paso County / ZIP 80915 sector", "El Paso County / ZIP 80922 sector", "El Paso County / coords 38.8600, -104.7000", "El Paso County / elevation 6457 ft band"]
-zillowHomeValueUsd: 380811
 ---
 
-**Engineering Notice for Cimarron Hills:** Structural loading calculated based on 6457 ft terrain assessment. Regional dispatch grid: El Paso County.
+**Engineering Notice for Cimarron Hills:** Roof repair scope references 6457 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in El Paso County.
 
+
+Certified roof service crews serving Cimarron Hills, CO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Cimarron Hills, CO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in El Paso County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -27,13 +30,11 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Material note: In Cimarron Hills, CO, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Skylight curb flashing in Cimarron Hills, CO should be sequenced before ridge cap replacement.
-
-roof work brief: soffit intake free area and pipe boot manufacturer match were cross-checked for the Cimarron Hills intake packet.
 
 Primary postal anchor 80915 with multi-ZIP overlap in Cimarron Hills; field packets tag El Paso County for county-grid reconciliation.
 

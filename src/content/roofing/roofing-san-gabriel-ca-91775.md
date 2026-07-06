@@ -11,11 +11,14 @@ lng: -118.1000
 zipSample: ["91775", "91776", "91778"]
 zipCodes: ["91776", "91775", "91778"]
 localPaths: ["Los Angeles County / ZIP 91775 sector", "Los Angeles County / primary ZIP 91775", "Los Angeles County / ZIP 91778 sector", "Los Angeles County / coords 34.0900, -118.1000", "Los Angeles County / elevation 407 ft band"]
-zillowHomeValueUsd: 1282422
 ---
 
-**Engineering Notice for San Gabriel:** Structural loading calculated based on 407 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for San Gabriel:** Roof repair scope references 407 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
+
+Emergency roof remediation in San Gabriel, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Los Angeles County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in San Gabriel, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether remediation or replacement fits the damage pattern.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -27,11 +30,11 @@ Regulatory note: San Gabriel, CA projects may trigger ice-barrier upgrades when 
 
 FAQ: Can you tarp only part of the roof? In San Gabriel, CA, yes—if slope and anchor points support safe tie-offs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tile and shingle mixes in San Gabriel, CA require different fastener patterns at transitions.
 
-roof work brief: counter-flashing reglet depth and drip-edge metal profile were cross-checked for the San Gabriel intake packet.
+Roof service brief: counter-flashing reglet depth and drip-edge metal profile were cross-checked for the San Gabriel shingle and leak scope.
 
 On-site sector marker: Los Angeles County / primary ZIP 91775 — logged for map parity and ZIP-corridor verification.
 

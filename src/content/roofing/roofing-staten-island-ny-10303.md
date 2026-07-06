@@ -11,11 +11,14 @@ lng: -74.1500
 zipSample: ["10312", "10302", "10307", "10304", "10306"]
 zipCodes: ["10301", "10307", "10308", "10312", "10302", "10303", "10309", "10310", "10314", "10311", "10305", "10304"]
 localPaths: ["Richmond County / ZIP 10306 sector", "Richmond County / ZIP 10302 sector", "Richmond County / ZIP 10304 sector", "Richmond County / ZIP 10307 sector", "Richmond County / elevation 174 ft band"]
-zillowHomeValueUsd: 547255
 ---
 
-**Engineering Notice for Staten Island:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Richmond County.
+**Engineering Notice for Staten Island:** Roof repair scope references 174 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Richmond County.
 
+
+Emergency roof restoration in Staten Island, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Richmond County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof restoration crews serving Staten Island, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -23,7 +26,7 @@ Code context: Ventilation ratios for Staten Island, NY attics should be checked 
 
 FAQ: How long can shingles wait after storm damage? In Staten Island, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -34,8 +37,6 @@ Granule embedment loss on Staten Island, NY north slopes can precede mat exposur
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
-
-roof service brief: skylight curb height and shingle exposure calibration were cross-checked for the Staten Island intake packet.
 
 On-site sector marker: Richmond County / ZIP 10314 sector — logged for map parity and ZIP-corridor verification.
 

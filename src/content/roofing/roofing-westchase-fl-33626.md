@@ -11,11 +11,14 @@ lng: -82.6100
 zipSample: ["33626"]
 zipCodes: ["33626"]
 localPaths: ["Hillsborough County / ZIP 33626 sector", "Hillsborough County / coords 28.0600, -82.6100", "Hillsborough County / elevation 43 ft band", "Hillsborough County / primary ZIP 33626"]
-zillowHomeValueUsd: 569041
 ---
 
-**Engineering Notice for Westchase:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Westchase:** Storm and emergency leak triage uses 43 ft elevation band with Hillsborough County service-area context for roofing repairs.
 
+
+Qualified roof service crews serving Westchase, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Westchase, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hillsborough County clarifies whether restoration or replacement fits the damage pattern.
 
 In Westchase, FL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -34,8 +37,6 @@ We coordinate Westchase, FL roof reviews with photo logs, moisture notes, and re
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
 Wind-zone note: Westchase, FL exposure class can change starter-strip and cap nail schedules.
-
-roofing service brief: counter-flashing reglet depth and valley metal gauge were cross-checked for the Westchase intake packet.
 
 On-site sector marker: Hillsborough County / ZIP 33626 sector — logged for map parity and ZIP-corridor verification.
 

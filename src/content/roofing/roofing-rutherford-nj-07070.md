@@ -11,11 +11,14 @@ lng: -74.1100
 zipSample: ["07070"]
 zipCodes: ["07070"]
 localPaths: ["Bergen County / primary ZIP 07070", "Bergen County / ZIP 07070 sector", "Bergen County / coords 40.8200, -74.1100", "Bergen County / elevation 72 ft band"]
-zillowHomeValueUsd: 738690
 ---
 
-**Engineering Notice for Rutherford:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Rutherford:** Roof repair scope references 72 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Bergen County.
 
+
+Roofing service service in Rutherford, NJ, Bergen County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof remediation crews serving Rutherford, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -27,13 +30,13 @@ Step: compare shingle manufacturer wind-zone ratings for Rutherford, NJ exposure
 
 Risk flag: Tile underlayment age in Rutherford, NJ can fail independently of visible tile cracks.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-roofing service brief: attic baffle spacing and valley metal gauge were cross-checked for the Rutherford intake packet.
+Roof remediation brief: attic baffle spacing and valley metal gauge were cross-checked for the Rutherford shingle and leak scope.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Bergen County and primary ZIP 07070. Terrain reference: 72 ft. Center point: 40.8200, -74.1100. ZIP sample: 07070. Logistics priority: Serving residential sectors across Bergen County and north-east ZIP 07070 grid.
 

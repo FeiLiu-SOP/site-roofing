@@ -11,15 +11,18 @@ lng: -97.6400
 zipSample: ["73008"]
 zipCodes: ["73008"]
 localPaths: ["Oklahoma County / elevation 1332 ft band", "Oklahoma County / ZIP 73008 sector", "Oklahoma County / primary ZIP 73008", "Oklahoma County / coords 35.5100, -97.6400"]
-zillowHomeValueUsd: 178863
 ---
 
-**Engineering Notice for Bethany:** Structural loading calculated based on 1332 ft terrain assessment. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Bethany:** Shingle, flashing, and ventilation review recorded at 1332 ft AMSL context (Oklahoma County).
 
+
+Emergency roof restoration in Bethany, OK often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Oklahoma County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Bethany, OK may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Oklahoma County clarifies whether remediation or replacement fits the damage pattern.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Can you tarp only part of the roof? In Bethany, OK, yes—if slope and anchor points support safe tie-offs.
 
@@ -35,7 +38,7 @@ Regulatory note: Bethany, OK projects may trigger ice-barrier upgrades when tear
 
 Wood shake courses in Bethany, OK require skip-spacing rules at valleys.
 
-Scope trace: attic baffle spacing plus ridge cap nail schedule referenced in Oklahoma County county grid review.
+Scope trace: attic baffle spacing plus ridge cap nail schedule referenced in Oklahoma County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 73008.
 

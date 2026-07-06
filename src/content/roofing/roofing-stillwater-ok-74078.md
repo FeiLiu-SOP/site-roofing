@@ -11,11 +11,14 @@ lng: -97.0700
 zipSample: ["74074", "74078", "74076", "74077", "74075"]
 zipCodes: ["74074", "74078", "74075", "74076", "74077"]
 localPaths: ["Payne County / ZIP 74078 sector", "Payne County / primary ZIP 74078", "Payne County / elevation 958 ft band", "Payne County / ZIP 74076 sector", "Payne County / coords 36.1300, -97.0700"]
-zillowHomeValueUsd: 271879
 ---
 
-**Engineering Notice for Stillwater:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Payne County.
+**Engineering Notice for Stillwater:** Shingle, flashing, and ventilation review recorded at 958 ft AMSL context (Payne County).
 
+
+Storm damage roofing service in Stillwater, OK may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Payne County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof service service in Stillwater, OK, Payne County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 74078.
 
@@ -25,7 +28,7 @@ Code context: Ventilation ratios for Stillwater, OK attics should be checked aga
 
 Material note: In Stillwater, OK, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -33,9 +36,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Attic ventilation deficits in Stillwater, OK can mimic roof leaks at ceiling penetrations.
 
-Field routing: shingle exposure calibration paired with soffit intake free area near ZIP 74078.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 74078/74074/74076.
+Local service note: shingle exposure calibration paired with soffit intake free area near ZIP 74078 for emergency roofing service repairs.
 
 Primary postal anchor 74078 with multi-ZIP overlap in Stillwater; field packets tag Payne County for county-grid reconciliation.
 

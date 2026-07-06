@@ -11,13 +11,16 @@ lng: -90.1800
 zipSample: ["70002", "70006", "70004", "70005", "70033"]
 zipCodes: ["70005", "70004", "70010", "70055", "70006", "70002", "70011", "70001", "70009", "70003", "70033"]
 localPaths: ["Jefferson Parish / coords 30.0000, -90.1800", "Jefferson Parish / ZIP 70005 sector", "Jefferson Parish / ZIP 70033 sector", "Jefferson Parish / ZIP 70006 sector", "Jefferson Parish / ZIP 70002 sector"]
-zillowHomeValueUsd: 346924
 ---
 
-**Engineering Notice for Metairie:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Jefferson Parish.
+**Engineering Notice for Metairie:** Shingle, flashing, and ventilation review recorded at 10 ft AMSL context (Jefferson Parish).
 
 
-Our Metairie, LA dispatch packets reference county grid Jefferson Parish and elevation band 10 ft.
+Licensed roof restoration crews serving Metairie, LA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Metairie, LA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Our Metairie, LA service packets reference Jefferson Parish and elevation band 10 ft for shingle and leak scope.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -31,9 +34,7 @@ Risk flag: Tile underlayment age in Metairie, LA can fail independently of visib
 
 Freeze-thaw cycles around Metairie, LA stress nail pops along eaves and rake edges.
 
-roofing service brief: drip-edge metal profile and pipe boot manufacturer match were cross-checked for the Metairie intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 70006/70003/70009.
+Roof remediation brief: drip-edge metal profile and pipe boot manufacturer match were cross-checked for the Metairie shingle and leak scope.
 
 On-site sector marker: Jefferson Parish / ZIP 70009 sector — logged for map parity and ZIP-corridor verification.
 

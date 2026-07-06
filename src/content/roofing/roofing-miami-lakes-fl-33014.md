@@ -11,13 +11,16 @@ lng: -80.3200
 zipSample: ["33016", "33002", "33018", "33014"]
 zipCodes: ["33002", "33016", "33018", "33014"]
 localPaths: ["Miami-Dade County / primary ZIP 33014", "Miami-Dade County / elevation 33 ft band", "Miami-Dade County / ZIP 33016 sector", "Miami-Dade County / ZIP 33018 sector", "Miami-Dade County / ZIP 33002 sector"]
-zillowHomeValueUsd: 440139
 ---
 
-**Engineering Notice for Miami Lakes:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Miami Lakes:** Shingle, flashing, and ventilation review recorded at 33 ft AMSL context (Miami-Dade County).
 
 
-Step: separate emergency tarp scope from permanent restoration line items.
+When wind or hail hits Miami Lakes, FL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Miami Lakes, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Miami-Dade County clarifies whether service or replacement fits the damage pattern.
+
+Step: separate emergency tarp scope from permanent remediation line items.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -31,9 +34,7 @@ Low-slope sections in Miami Lakes, FL need positive drainage before membrane rep
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-Scope trace: synthetic underlayment slip plus wind uplift clip spacing referenced in Miami-Dade County county grid review.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 On-site sector marker: Miami-Dade County / ZIP 33002 sector — logged for map parity and ZIP-corridor verification.
 

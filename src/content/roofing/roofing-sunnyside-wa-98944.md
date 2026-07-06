@@ -11,11 +11,14 @@ lng: -120.0100
 zipSample: ["98944"]
 zipCodes: ["98944"]
 localPaths: ["Yakima County / primary ZIP 98944", "Yakima County / coords 46.3200, -120.0100", "Yakima County / ZIP 98944 sector", "Yakima County / elevation 732 ft band"]
-zillowHomeValueUsd: 323256
 ---
 
-**Engineering Notice for Sunnyside:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Yakima County.
+**Engineering Notice for Sunnyside:** Storm and emergency leak triage uses 732 ft elevation band with Yakima County service-area context for roofing repairs.
 
+
+Storm damage roof work in Sunnyside, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Yakima County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof service in Sunnyside, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Yakima County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -35,7 +38,7 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-roof work brief: ridge cap nail schedule and chimney cricket slope were cross-checked for the Sunnyside intake packet.
+Roof service brief: ridge cap nail schedule and chimney cricket slope were cross-checked for the Sunnyside shingle and leak scope.
 
 On-site sector marker: Yakima County / coords 46.3200, -120.0100 — logged for map parity and ZIP-corridor verification.
 

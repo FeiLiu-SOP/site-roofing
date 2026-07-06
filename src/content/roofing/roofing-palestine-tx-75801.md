@@ -11,11 +11,14 @@ lng: -95.6500
 zipSample: ["75803", "75802", "75801", "75882"]
 zipCodes: ["75801", "75803", "75802", "75882"]
 localPaths: ["Anderson County / primary ZIP 75801", "Anderson County / ZIP 75801 sector", "Anderson County / elevation 518 ft band", "Anderson County / ZIP 75882 sector", "Anderson County / ZIP 75802 sector"]
-zillowHomeValueUsd: 182347
 ---
 
-**Engineering Notice for Palestine:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Anderson County.
+**Engineering Notice for Palestine:** Roof repair scope references 518 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Anderson County.
 
+
+When wind or hail hits Palestine, TX, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof service in Palestine, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Anderson County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: In Palestine, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,9 +34,9 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Material note: In Palestine, TX, algae-resistant granules may be specified for north-facing slopes.
 
-Our Palestine, TX dispatch packets reference county grid Anderson County and elevation band 518 ft.
+Our Palestine, TX service packets reference Anderson County and elevation band 518 ft for shingle and leak scope.
 
-Scope trace: drip-edge metal profile plus pipe boot manufacturer match referenced in Anderson County county grid review.
+Scope trace: drip-edge metal profile plus pipe boot manufacturer match referenced in Anderson County storm and leak review.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~518 ft across the Anderson County area. Coordinates: 31.7500, -95.6500. ZIP sample: 75802, 75882, 75801, 75803. Service perimeter note: Coverage extends through Anderson County with dispatch centered near ZIP 75801.
 

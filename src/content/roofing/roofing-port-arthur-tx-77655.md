@@ -11,11 +11,14 @@ lng: -93.9300
 zipSample: ["77640", "77643", "77655", "77642", "77641"]
 zipCodes: ["77655", "77643", "77642", "77640", "77641"]
 localPaths: ["Jefferson County / ZIP 77642 sector", "Jefferson County / ZIP 77655 sector", "Jefferson County / ZIP 77641 sector", "Jefferson County / primary ZIP 77655", "Jefferson County / elevation 0 ft band"]
-zillowHomeValueUsd: 120466
 ---
 
-**Engineering Notice for Port Arthur:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Port Arthur:** Storm and emergency leak triage uses 0 ft elevation band with Jefferson County service-area context for roofing repairs.
 
+
+Certified roof remediation crews serving Port Arthur, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Port Arthur, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Jefferson County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -25,13 +28,11 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Risk flag: In Port Arthur, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Hail bruising on Port Arthur, TX ridges may not breach felt until the next wind event.
 
 Step: confirm drip-edge continuity before shingle courses restart.
-
-Field routing: synthetic underlayment slip paired with skylight curb height near ZIP 77655.
 
 On-site sector marker: Jefferson County / ZIP 77655 sector — logged for map parity and ZIP-corridor verification.
 

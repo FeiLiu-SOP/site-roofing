@@ -11,11 +11,14 @@ lng: -87.0500
 zipSample: ["46383", "46384", "46385"]
 zipCodes: ["46384", "46385", "46383"]
 localPaths: ["Porter County / coords 41.4800, -87.0500", "Porter County / ZIP 46384 sector", "Porter County / elevation 810 ft band", "Porter County / ZIP 46383 sector", "Porter County / primary ZIP 46385"]
-zillowHomeValueUsd: 368926
 ---
 
-**Engineering Notice for Valparaiso:** Structural loading calculated based on 810 ft terrain assessment. Regional dispatch grid: Porter County.
+**Engineering Notice for Valparaiso:** Shingle, flashing, and ventilation review recorded at 810 ft AMSL context (Porter County).
 
+
+Roof service remediation in Valparaiso, IN, Porter County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof remediation crews serving Valparaiso, IN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -29,11 +32,11 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Risk flag: Tile underlayment age in Valparaiso, IN can fail independently of visible tile cracks.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-roof service brief: pipe boot manufacturer match and synthetic underlayment slip were cross-checked for the Valparaiso intake packet.
+Roof service brief: pipe boot manufacturer match and synthetic underlayment slip were cross-checked for the Valparaiso shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 46385/46383/46384.
 

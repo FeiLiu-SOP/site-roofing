@@ -11,11 +11,14 @@ lng: -110.7400
 zipSample: ["85749", "85748"]
 zipCodes: ["85749", "85748"]
 localPaths: ["Pima County / coords 32.2700, -110.7400", "Pima County / elevation 2667 ft band", "Pima County / primary ZIP 85749", "Pima County / ZIP 85748 sector", "Pima County / ZIP 85749 sector"]
-zillowHomeValueUsd: 649172
 ---
 
-**Engineering Notice for Tanque Verde:** Structural loading calculated based on 2667 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Tanque Verde:** Shingle, flashing, and ventilation review recorded at 2667 ft AMSL context (Pima County).
 
+
+Licensed roof service crews serving Tanque Verde, AZ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service restoration in Tanque Verde, AZ, Pima County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -27,7 +30,7 @@ FAQ: When should permanent restoration start? In Tanque Verde, AZ, delayed dry-i
 
 Code context: Ventilation ratios for Tanque Verde, AZ attics should be checked against current mechanical exhaust additions.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Regulatory note: Tanque Verde, AZ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -35,9 +38,7 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field routing: wind uplift clip spacing paired with soffit intake free area near ZIP 85749.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 85749/85748.
+Local service note: wind uplift clip spacing paired with soffit intake free area near ZIP 85749 for emergency roof service repairs.
 
 On-site sector marker: Pima County / elevation 2667 ft band — logged for map parity and ZIP-corridor verification.
 

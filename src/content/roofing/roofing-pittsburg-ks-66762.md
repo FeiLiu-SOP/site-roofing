@@ -11,13 +11,16 @@ lng: -94.7000
 zipSample: ["66762"]
 zipCodes: ["66762"]
 localPaths: ["Crawford County / coords 37.4100, -94.7000", "Crawford County / primary ZIP 66762", "Crawford County / elevation 928 ft band", "Crawford County / ZIP 66762 sector"]
-zillowHomeValueUsd: 132930
 ---
 
-**Engineering Notice for Pittsburg:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Crawford County.
+**Engineering Notice for Pittsburg:** Storm and emergency leak triage uses 928 ft elevation band with Crawford County service-area context for roofing repairs.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Storm damage roofing service in Pittsburg, KS may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Crawford County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Pittsburg, KS, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: Tile underlayment age in Pittsburg, KS can fail independently of visible tile cracks.
 
@@ -35,7 +38,7 @@ FAQ: Is partial dry-in possible? In Pittsburg, KS, yes—if slope and anchor poi
 
 Valley metal in Pittsburg, KS should be reviewed whenever granule loss tracks the water line.
 
-roofing service brief: starter-strip setback and synthetic underlayment slip were cross-checked for the Pittsburg intake packet.
+Roof remediation brief: starter-strip setback and synthetic underlayment slip were cross-checked for the Pittsburg shingle and leak scope.
 
 Primary postal anchor 66762 with multi-ZIP overlap in Pittsburg; field packets tag Crawford County for county-grid reconciliation.
 

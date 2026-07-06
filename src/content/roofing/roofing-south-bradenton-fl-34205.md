@@ -11,11 +11,14 @@ lng: -82.5800
 zipSample: ["34210", "34207", "34205"]
 zipCodes: ["34207", "34205", "34210"]
 localPaths: ["Manatee County / coords 27.4600, -82.5800", "Manatee County / primary ZIP 34205", "Manatee County / ZIP 34207 sector", "Manatee County / elevation 30 ft band", "Manatee County / ZIP 34205 sector"]
-zillowHomeValueUsd: 266924
 ---
 
-**Engineering Notice for South Bradenton:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Manatee County.
+**Engineering Notice for South Bradenton:** Storm and emergency leak triage uses 30 ft elevation band with Manatee County service-area context for roofing repairs.
 
+
+Roof work remediation in South Bradenton, FL, Manatee County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof restoration crews serving South Bradenton, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -27,11 +30,11 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Risk flag: Tile underlayment age in South Bradenton, FL can fail independently of visible tile cracks.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wind-zone note: South Bradenton, FL exposure class can change starter-strip and cap nail schedules.
 
-Scope trace: skylight curb height plus drip-edge metal profile referenced in Manatee County county grid review.
+Scope trace: skylight curb height plus drip-edge metal profile referenced in Manatee County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 34210/34205/34207.
 

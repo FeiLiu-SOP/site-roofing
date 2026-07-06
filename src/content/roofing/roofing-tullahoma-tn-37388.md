@@ -11,11 +11,14 @@ lng: -86.2200
 zipSample: ["37388"]
 zipCodes: ["37388"]
 localPaths: ["Coffee County / primary ZIP 37388", "Coffee County / elevation 1060 ft band", "Coffee County / ZIP 37388 sector", "Coffee County / coords 35.3700, -86.2200"]
-zillowHomeValueUsd: 295826
 ---
 
-**Engineering Notice for Tullahoma:** Structural loading calculated based on 1060 ft terrain assessment. Regional dispatch grid: Coffee County.
+**Engineering Notice for Tullahoma:** Storm and emergency leak triage uses 1060 ft elevation band with Coffee County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Tullahoma, TN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Coffee County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Tullahoma, TN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Coffee County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -35,9 +38,7 @@ Step: confirm drip-edge continuity before shingle courses restart.
 
 We coordinate Tullahoma, TN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-roof service brief: ridge cap nail schedule and counter-flashing reglet depth were cross-checked for the Tullahoma intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 37388.
+Roof remediation brief: ridge cap nail schedule and counter-flashing reglet depth were cross-checked for the Tullahoma shingle and leak scope.
 
 **Regional Infrastructure Brief:** Grid anchor set to Coffee County. Reference elevation: 1060 ft. Primary coordinates: 35.3700, -86.2200. ZIP sample: 37388. Logistics priority: Serving residential sectors across Coffee County and north-east ZIP 37388 grid.
 

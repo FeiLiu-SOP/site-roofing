@@ -11,11 +11,14 @@ lng: -115.1400
 zipSample: ["89157", "89169", "89123", "89109", "89119"]
 zipCodes: ["89119", "89154", "89121", "89123", "89118", "89111", "89177", "89193", "89103", "89169", "89157", "89120"]
 localPaths: ["Clark County / ZIP 89169 sector", "Clark County / ZIP 89157 sector", "Clark County / ZIP 89109 sector", "Clark County / ZIP 89119 sector", "Clark County / coords 36.0900, -115.1400"]
-zillowHomeValueUsd: 265067
 ---
 
-**Engineering Notice for Paradise:** Structural loading calculated based on 2051 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Paradise:** Roof repair scope references 2051 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Clark County.
 
+
+When wind or hail hits Paradise, NV, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service restoration in Paradise, NV, Clark County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -23,7 +26,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -35,9 +38,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Across Paradise, NV, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Scope trace: ridge cap nail schedule plus counter-flashing reglet depth referenced in Clark County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 89136/89169/89109.
+Scope trace: ridge cap nail schedule plus counter-flashing reglet depth referenced in Clark County storm and leak review.
 
 On-site sector marker: Clark County / coords 36.0900, -115.1400 — logged for map parity and ZIP-corridor verification.
 

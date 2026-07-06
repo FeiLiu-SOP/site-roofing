@@ -11,15 +11,18 @@ lng: -94.1700
 zipSample: ["72703", "72701", "72702", "72704"]
 zipCodes: ["72703", "72701", "72704", "72702"]
 localPaths: ["Washington County / ZIP 72702 sector", "Washington County / ZIP 72701 sector", "Washington County / ZIP 72704 sector", "Washington County / primary ZIP 72704", "Washington County / ZIP 72703 sector"]
-zillowHomeValueUsd: 361952
 ---
 
-**Engineering Notice for Fayetteville:** Structural loading calculated based on 1398 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Fayetteville:** Storm and emergency leak triage uses 1398 ft elevation band with Washington County service-area context for roofing repairs.
 
+
+Licensed roof remediation crews serving Fayetteville, AR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Fayetteville, AR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Washington County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our Fayetteville, AR dispatch packets reference county grid Washington County and elevation band 1398 ft.
+Our Fayetteville, AR service packets reference Washington County and elevation band 1398 ft for shingle and leak scope.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -35,9 +38,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Code context: Ventilation ratios for Fayetteville, AR attics should be checked against current mechanical exhaust additions.
 
-Scope trace: chimney cricket slope plus starter-strip setback referenced in Washington County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 72703/72701/72702.
+Scope trace: chimney cricket slope plus starter-strip setback referenced in Washington County storm and leak review.
 
 Coordinate-anchored dispatch note: center reference 36.0700, -94.1700 at elevation ~1398 ft aligns with Washington County intake staging.
 

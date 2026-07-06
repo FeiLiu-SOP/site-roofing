@@ -11,15 +11,18 @@ lng: -82.7200
 zipSample: ["43073", "43062"]
 zipCodes: ["43062", "43073"]
 localPaths: ["Licking County / elevation 1024 ft band", "Licking County / ZIP 43062 sector", "Licking County / ZIP 43073 sector", "Licking County / primary ZIP 43062", "Licking County / coords 40.0100, -82.7200"]
-zillowHomeValueUsd: 383665
 ---
 
-**Engineering Notice for Pataskala:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: Licking County.
+**Engineering Notice for Pataskala:** Shingle, flashing, and ventilation review recorded at 1024 ft AMSL context (Licking County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+When wind or hail hits Pataskala, OH, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
-Step: separate emergency tarp scope from permanent service line items.
+Roof work remediation in Pataskala, OH, Licking County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
+
+Step: separate emergency tarp scope from permanent restoration line items.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -32,8 +35,6 @@ Wind-zone note: Pataskala, OH exposure class can change starter-strip and cap na
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
-
-Scope trace: ridge cap nail schedule plus attic baffle spacing referenced in Licking County county grid review.
 
 On-site sector marker: Licking County / ZIP 43073 sector — logged for map parity and ZIP-corridor verification.
 

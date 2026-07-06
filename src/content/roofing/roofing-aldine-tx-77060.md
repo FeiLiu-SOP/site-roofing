@@ -11,15 +11,18 @@ lng: -95.3800
 zipSample: ["77060", "77039", "77037"]
 zipCodes: ["77060", "77037", "77039"]
 localPaths: ["Harris County / ZIP 77037 sector", "Harris County / primary ZIP 77060", "Harris County / ZIP 77039 sector", "Harris County / coords 29.9100, -95.3800", "Harris County / elevation 92 ft band"]
-zillowHomeValueUsd: 195960
 ---
 
-**Engineering Notice for Aldine:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for Aldine:** Shingle, flashing, and ventilation review recorded at 92 ft AMSL context (Harris County).
 
+
+Roof service service in Aldine, TX, Harris County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Aldine, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Harris County clarifies whether remediation or replacement fits the damage pattern.
 
 Material note: In Aldine, TX, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -34,8 +37,6 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 Coastal humidity in Aldine, TX can slow shingle seal-down after shoulder-season storms.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
-
-roof service brief: ridge cap nail schedule and wind uplift clip spacing were cross-checked for the Aldine intake packet.
 
 On-site sector marker: Harris County / primary ZIP 77060 — logged for map parity and ZIP-corridor verification.
 

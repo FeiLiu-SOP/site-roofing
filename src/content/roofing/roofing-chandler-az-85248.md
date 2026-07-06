@@ -11,17 +11,20 @@ lng: -111.8500
 zipSample: ["85248", "85246", "85224", "85225", "85249"]
 zipCodes: ["85226", "85286", "85224", "85225", "85246", "85249", "85248"]
 localPaths: ["Maricopa County / ZIP 85225 sector", "Maricopa County / primary ZIP 85248", "Maricopa County / ZIP 85224 sector", "Maricopa County / ZIP 85246 sector", "Maricopa County / ZIP 85249 sector"]
-zillowHomeValueUsd: 563068
 ---
 
-**Engineering Notice for Chandler:** Structural loading calculated based on 1214 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for Chandler:** Shingle, flashing, and ventilation review recorded at 1214 ft AMSL context (Maricopa County).
 
+
+Roof work restoration in Chandler, AZ, Maricopa County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Chandler, AZ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Maricopa County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: Tile underlayment age in Chandler, AZ can fail independently of visible tile cracks.
 
 Wind-zone note: Chandler, AZ exposure class can change starter-strip and cap nail schedules.
 
-FAQ: When should permanent service start? In Chandler, AZ, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In Chandler, AZ, delayed dry-in can expand insulation and ceiling repairs.
 
 Metal panel oil-canning in Chandler, AZ may signal clip spacing issues, not wind damage alone.
 
@@ -31,7 +34,7 @@ Step: note chimney cricket geometry before counter-flashing removal.
 
 We coordinate Chandler, AZ roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Scope trace: synthetic underlayment slip plus valley metal gauge referenced in Maricopa County county grid review.
+Scope trace: synthetic underlayment slip plus valley metal gauge referenced in Maricopa County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 85224/85246/85226.
 

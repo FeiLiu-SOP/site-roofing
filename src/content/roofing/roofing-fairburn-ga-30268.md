@@ -11,11 +11,14 @@ lng: -84.5900
 zipSample: ["30213", "30268"]
 zipCodes: ["30213", "30268"]
 localPaths: ["Fulton County / elevation 1027 ft band", "Fulton County / ZIP 30268 sector", "Fulton County / ZIP 30213 sector", "Fulton County / coords 33.5500, -84.5900", "Fulton County / primary ZIP 30268"]
-zillowHomeValueUsd: 320056
 ---
 
-**Engineering Notice for Fairburn:** Structural loading calculated based on 1027 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for Fairburn:** Storm and emergency leak triage uses 1027 ft elevation band with Fulton County service-area context for roofing repairs.
 
+
+Roof service remediation in Fairburn, GA, Fulton County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Fairburn, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Fulton County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -31,9 +34,9 @@ Risk flag: Tile underlayment age in Fairburn, GA can fail independently of visib
 
 Coastal humidity in Fairburn, GA can slow shingle seal-down after shoulder-season storms.
 
-Our Fairburn, GA dispatch packets reference county grid Fulton County and elevation band 1027 ft.
+Our Fairburn, GA service packets reference Fulton County and elevation band 1027 ft for shingle and leak scope.
 
-roof service brief: wind uplift clip spacing and pipe boot manufacturer match were cross-checked for the Fairburn intake packet.
+Roof remediation brief: wind uplift clip spacing and pipe boot manufacturer match were cross-checked for the Fairburn shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 30268/30213.
 

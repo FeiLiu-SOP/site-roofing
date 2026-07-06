@@ -11,11 +11,14 @@ lng: -119.1700
 zipSample: ["99338", "99336", "99337"]
 zipCodes: ["99338", "99337", "99336"]
 localPaths: ["Benton County / ZIP 99337 sector", "Benton County / coords 46.2000, -119.1700", "Benton County / ZIP 99336 sector", "Benton County / ZIP 99338 sector", "Benton County / elevation 554 ft band"]
-zillowHomeValueUsd: 432126
 ---
 
-**Engineering Notice for Kennewick:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Benton County.
+**Engineering Notice for Kennewick:** Shingle, flashing, and ventilation review recorded at 554 ft AMSL context (Benton County).
 
+
+Roof work service in Kennewick, WA, Benton County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Kennewick, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Benton County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -29,13 +32,11 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Coastal humidity in Kennewick, WA can slow shingle seal-down after shoulder-season storms.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-roof work brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Kennewick intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 99337/99338/99336.
+Roof service brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Kennewick shingle and leak scope.
 
 On-site sector marker: Benton County / elevation 554 ft band — logged for map parity and ZIP-corridor verification.
 

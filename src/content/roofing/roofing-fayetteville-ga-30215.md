@@ -11,11 +11,14 @@ lng: -84.4700
 zipSample: ["30214", "30215"]
 zipCodes: ["30215", "30214"]
 localPaths: ["Fayette County / primary ZIP 30215", "Fayette County / ZIP 30215 sector", "Fayette County / coords 33.4500, -84.4700", "Fayette County / elevation 883 ft band", "Fayette County / ZIP 30214 sector"]
-zillowHomeValueUsd: 491818
 ---
 
-**Engineering Notice for Fayetteville:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Fayette County.
+**Engineering Notice for Fayetteville:** Roof repair scope references 883 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Fayette County.
 
+
+Emergency roof remediation in Fayetteville, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Fayette County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service restoration in Fayetteville, GA, Fayette County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Coastal humidity in Fayetteville, GA can slow shingle seal-down after shoulder-season storms.
 
@@ -29,13 +32,13 @@ Tip: Note recent wind events when filing insurance photos for Fayetteville, GA.
 
 Wood shake courses in Fayetteville, GA require skip-spacing rules at valleys.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Tile underlayment age in Fayetteville, GA can fail independently of visible tile cracks.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-roof service brief: shingle exposure calibration and synthetic underlayment slip were cross-checked for the Fayetteville intake packet.
+Roof restoration brief: shingle exposure calibration and synthetic underlayment slip were cross-checked for the Fayetteville shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 30215/30214.
 

@@ -11,11 +11,14 @@ lng: -80.3900
 zipSample: ["27103", "27012"]
 zipCodes: ["27012", "27103"]
 localPaths: ["Forsyth County / primary ZIP 27012", "Forsyth County / coords 36.0300, -80.3900", "Forsyth County / ZIP 27012 sector", "Forsyth County / ZIP 27103 sector", "Forsyth County / elevation 814 ft band"]
-zillowHomeValueUsd: 388284
 ---
 
-**Engineering Notice for Clemmons:** Structural loading calculated based on 814 ft terrain assessment. Regional dispatch grid: Forsyth County.
+**Engineering Notice for Clemmons:** Roof repair scope references 814 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Forsyth County.
 
+
+Roof work restoration in Clemmons, NC, Forsyth County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Clemmons, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Forsyth County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -25,7 +28,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Step: log deck soundings near vents before tear-off is approved.
 
-Our Clemmons, NC dispatch packets reference county grid Forsyth County and elevation band 814 ft.
+Our Clemmons, NC service packets reference Forsyth County and elevation band 814 ft for shingle and leak scope.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -34,8 +37,6 @@ Wind-zone note: Clemmons, NC exposure class can change starter-strip and cap nai
 Material note: In Clemmons, NC, algae-resistant granules may be specified for north-facing slopes.
 
 Granule embedment loss on Clemmons, NC north slopes can precede mat exposure.
-
-roof work brief: ridge cap nail schedule and pipe boot manufacturer match were cross-checked for the Clemmons intake packet.
 
 On-site sector marker: Forsyth County / ZIP 27012 sector — logged for map parity and ZIP-corridor verification.
 

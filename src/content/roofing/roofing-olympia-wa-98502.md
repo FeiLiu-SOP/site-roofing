@@ -11,15 +11,18 @@ lng: -122.9000
 zipSample: ["98502", "98507", "98506", "98504", "98501"]
 zipCodes: ["98506", "98501", "98508", "98502", "98504", "98507"]
 localPaths: ["Thurston County / ZIP 98504 sector", "Thurston County / primary ZIP 98502", "Thurston County / ZIP 98501 sector", "Thurston County / ZIP 98506 sector", "Thurston County / elevation 30 ft band"]
-zillowHomeValueUsd: 574250
 ---
 
-**Engineering Notice for Olympia:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Thurston County.
+**Engineering Notice for Olympia:** Roof repair scope references 30 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Thurston County.
 
+
+When wind or hail hits Olympia, WA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service service in Olympia, WA, Thurston County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Tile and shingle mixes in Olympia, WA require different fastener patterns at transitions.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -33,9 +36,7 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roofing service brief: chimney cricket slope and valley metal gauge were cross-checked for the Olympia intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 98507/98508/98502.
+Roof service brief: chimney cricket slope and valley metal gauge were cross-checked for the Olympia shingle and leak scope.
 
 On-site sector marker: Thurston County / ZIP 98508 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -118.6300
 zipSample: ["91384", "91310"]
 zipCodes: ["91384", "91310"]
 localPaths: ["Los Angeles County / elevation 1699 ft band", "Los Angeles County / coords 34.4800, -118.6300", "Los Angeles County / ZIP 91384 sector", "Los Angeles County / primary ZIP 91384", "Los Angeles County / ZIP 91310 sector"]
-zillowHomeValueUsd: 805419
 ---
 
-**Engineering Notice for Castaic:** Structural loading calculated based on 1699 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Castaic:** Storm and emergency leak triage uses 1699 ft elevation band with Los Angeles County service-area context for roofing repairs.
 
+
+When wind or hail hits Castaic, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Certified roof remediation crews serving Castaic, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -27,13 +30,11 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
-
-roofing service brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Castaic intake packet.
 
 On-site sector marker: Los Angeles County / ZIP 91310 sector — logged for map parity and ZIP-corridor verification.
 

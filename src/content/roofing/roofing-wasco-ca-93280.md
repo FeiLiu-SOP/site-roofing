@@ -11,11 +11,14 @@ lng: -119.3700
 zipSample: ["93280"]
 zipCodes: ["93280"]
 localPaths: ["Kern County / coords 35.5900, -119.3700", "Kern County / ZIP 93280 sector", "Kern County / elevation 318 ft band", "Kern County / primary ZIP 93280"]
-zillowHomeValueUsd: 316615
 ---
 
-**Engineering Notice for Wasco:** Structural loading calculated based on 318 ft terrain assessment. Regional dispatch grid: Kern County.
+**Engineering Notice for Wasco:** Roof repair scope references 318 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Kern County.
 
+
+Storm damage roof service in Wasco, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Kern County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof restoration in Wasco, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Kern County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -23,7 +26,7 @@ Code context: Ventilation ratios for Wasco, CA attics should be checked against 
 
 FAQ: How long can shingles wait after storm damage? In Wasco, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -33,7 +36,7 @@ Metal panel oil-canning in Wasco, CA may signal clip spacing issues, not wind da
 
 Risk flag: Tile underlayment age in Wasco, CA can fail independently of visible tile cracks.
 
-Scope trace: soffit intake free area plus ridge cap nail schedule referenced in Kern County county grid review.
+Scope trace: soffit intake free area plus ridge cap nail schedule referenced in Kern County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 93280.
 

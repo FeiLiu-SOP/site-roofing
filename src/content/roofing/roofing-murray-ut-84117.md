@@ -11,17 +11,20 @@ lng: -111.8900
 zipSample: ["84117", "84123", "84121", "84157", "84107"]
 zipCodes: ["84107", "84157", "84117", "84121", "84123"]
 localPaths: ["Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84123 sector", "Salt Lake County / ZIP 84157 sector", "Salt Lake County / primary ZIP 84117", "Salt Lake County / coords 40.6500, -111.8900"]
-zillowHomeValueUsd: 694540
 ---
 
-**Engineering Notice for Murray:** Structural loading calculated based on 4354 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Murray:** Roof repair scope references 4354 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Salt Lake County.
 
+
+Emergency roof restoration in Murray, UT often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Salt Lake County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof remediation crews serving Murray, UT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: In Murray, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
 Material note: In Murray, UT, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Coastal humidity in Murray, UT can slow shingle seal-down after shoulder-season storms.
 
@@ -35,7 +38,7 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-roof work brief: synthetic underlayment slip and valley metal gauge were cross-checked for the Murray intake packet.
+Roof remediation brief: synthetic underlayment slip and valley metal gauge were cross-checked for the Murray shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 84121/84107/84157.
 

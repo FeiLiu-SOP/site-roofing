@@ -11,13 +11,16 @@ lng: -92.3500
 zipSample: ["50703", "50707", "50701", "50702"]
 zipCodes: ["50702", "50701", "50703", "50707"]
 localPaths: ["Black Hawk County / primary ZIP 50707", "Black Hawk County / ZIP 50707 sector", "Black Hawk County / coords 42.4900, -92.3500", "Black Hawk County / ZIP 50702 sector", "Black Hawk County / ZIP 50701 sector"]
-zillowHomeValueUsd: 153495
 ---
 
-**Engineering Notice for Waterloo:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Black Hawk County.
+**Engineering Notice for Waterloo:** Roof repair scope references 892 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Black Hawk County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Storm damage roofing service in Waterloo, IA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Black Hawk County clarifies whether service or replacement fits the damage pattern.
+
+Licensed roof restoration crews serving Waterloo, IA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -31,7 +34,7 @@ Attic ventilation deficits in Waterloo, IA can mimic roof leaks at ceiling penet
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field routing: starter-strip setback paired with chimney cricket slope near ZIP 50707.
+Local service note: starter-strip setback paired with chimney cricket slope near ZIP 50707 for emergency roofing service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 50701/50703/50707.
 

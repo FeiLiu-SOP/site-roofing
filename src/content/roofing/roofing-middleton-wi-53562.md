@@ -11,11 +11,14 @@ lng: -89.5100
 zipSample: ["53562"]
 zipCodes: ["53562"]
 localPaths: ["Dane County / ZIP 53562 sector", "Dane County / primary ZIP 53562", "Dane County / coords 43.1100, -89.5100", "Dane County / elevation 935 ft band"]
-zillowHomeValueUsd: 618467
 ---
 
-**Engineering Notice for Middleton:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Dane County.
+**Engineering Notice for Middleton:** Roof repair scope references 935 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Dane County.
 
+
+Emergency roof remediation in Middleton, WI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Dane County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work remediation in Middleton, WI, Dane County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -23,7 +26,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -35,9 +38,7 @@ Request dry-in and service phases as separate line items. Serving ZIP Code: 5356
 
 Step: compare shingle manufacturer wind-zone ratings for Middleton, WI exposure class.
 
-Scope trace: soffit intake free area plus ridge cap nail schedule referenced in Dane County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 53562.
+Scope trace: soffit intake free area plus ridge cap nail schedule referenced in Dane County storm and leak review.
 
 On-site sector marker: Dane County / coords 43.1100, -89.5100 — logged for map parity and ZIP-corridor verification.
 

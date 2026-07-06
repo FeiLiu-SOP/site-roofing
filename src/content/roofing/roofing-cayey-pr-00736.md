@@ -11,14 +11,16 @@ lng: -66.1600
 zipSample: ["00737", "00736"]
 zipCodes: ["00736", "00737"]
 localPaths: ["Cayey County / coords 18.1100, -66.1600", "Cayey County / elevation 1299 ft band", "Cayey County / ZIP 00736 sector", "Cayey County / ZIP 00737 sector", "Cayey County / primary ZIP 00736"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 366399
 ---
 
-**Engineering Notice for Cayey:** Structural loading calculated based on 1299 ft terrain assessment. Regional dispatch grid: Cayey County.
+**Engineering Notice for Cayey:** Shingle, flashing, and ventilation review recorded at 1299 ft AMSL context (Cayey County).
 
 
-Our Cayey, PR dispatch packets reference county grid Cayey County and elevation band 1299 ft.
+When wind or hail hits Cayey, PR, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Cayey, PR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cayey County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Our Cayey, PR restoration packets reference Cayey County and elevation band 1299 ft for shingle and leak scope.
 
 Granule embedment loss on Cayey, PR north slopes can precede mat exposure.
 
@@ -32,9 +34,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-roof work brief: soffit intake free area and chimney cricket slope were cross-checked for the Cayey intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 00736/00737.
+Roof restoration brief: soffit intake free area and chimney cricket slope were cross-checked for the Cayey shingle and leak scope.
 
 On-site sector marker: Cayey County / primary ZIP 00736 — logged for map parity and ZIP-corridor verification.
 

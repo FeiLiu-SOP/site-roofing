@@ -11,17 +11,20 @@ lng: -122.3400
 zipSample: ["98155", "98133", "98177", "98160"]
 zipCodes: ["98133", "98160", "98177", "98155"]
 localPaths: ["King County / ZIP 98133 sector", "King County / ZIP 98177 sector", "King County / ZIP 98155 sector", "King County / primary ZIP 98155", "King County / coords 47.7600, -122.3400"]
-zillowHomeValueUsd: 853066
 ---
 
-**Engineering Notice for Shoreline:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Shoreline:** Roof repair scope references 476 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in King County.
 
+
+Emergency roof service in Shoreline, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in King County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits Shoreline, WA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Attic ventilation deficits in Shoreline, WA can mimic roof leaks at ceiling penetrations.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wind-zone note: Shoreline, WA exposure class can change starter-strip and cap nail schedules.
 
@@ -33,7 +36,7 @@ Step: log deck soundings near vents before tear-off is approved.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Scope trace: attic baffle spacing plus drip-edge metal profile referenced in King County county grid review.
+Scope trace: attic baffle spacing plus drip-edge metal profile referenced in King County storm and leak review.
 
 Primary postal anchor 98155 with multi-ZIP overlap in Shoreline; field packets tag King County for county-grid reconciliation.
 

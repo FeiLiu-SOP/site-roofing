@@ -11,11 +11,14 @@ lng: -121.9600
 zipSample: ["94565"]
 zipCodes: ["94565"]
 localPaths: ["Contra Costa County / ZIP 94565 sector", "Contra Costa County / elevation 52 ft band", "Contra Costa County / coords 38.0300, -121.9600", "Contra Costa County / primary ZIP 94565"]
-zillowHomeValueUsd: 569638
 ---
 
-**Engineering Notice for Bay Point:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Bay Point:** Shingle, flashing, and ventilation review recorded at 52 ft AMSL context (Contra Costa County).
 
+
+Roof service remediation in Bay Point, CA, Contra Costa County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Bay Point, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Contra Costa County clarifies whether remediation or replacement fits the damage pattern.
 
 Across Bay Point, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -29,13 +32,11 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Material note: In Bay Point, CA, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Scope trace: shingle exposure calibration plus valley metal gauge referenced in Contra Costa County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 94565.
+Scope trace: shingle exposure calibration plus valley metal gauge referenced in Contra Costa County storm and leak review.
 
 Regional mesh label Contra Costa County: moisture and logistics baselines are keyed to Bay Point, CA before niche-specific work begins.
 

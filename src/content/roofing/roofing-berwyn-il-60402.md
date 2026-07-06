@@ -11,11 +11,14 @@ lng: -87.7900
 zipSample: ["60402"]
 zipCodes: ["60402"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / primary ZIP 60402", "Cook County / coords 41.8400, -87.7900", "Cook County / ZIP 60402 sector"]
-zillowHomeValueUsd: 303498
 ---
 
-**Engineering Notice for Berwyn:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Berwyn:** Storm and emergency leak triage uses 614 ft elevation band with Cook County service-area context for roofing repairs.
 
+
+When wind or hail hits Berwyn, IL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof service crews serving Berwyn, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wood shake courses in Berwyn, IL require skip-spacing rules at valleys.
 
@@ -33,9 +36,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field routing: soffit intake free area paired with pipe boot manufacturer match near ZIP 60402.
-
-Field note: Valley debris and granule loss noted for ZIP 60402.
+Local service note: soffit intake free area paired with pipe boot manufacturer match near ZIP 60402 for emergency roof service repairs.
 
 On-site sector marker: Cook County / ZIP 60402 sector — logged for map parity and ZIP-corridor verification.
 

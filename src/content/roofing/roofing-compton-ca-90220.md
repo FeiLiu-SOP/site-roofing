@@ -11,11 +11,14 @@ lng: -118.2300
 zipSample: ["90220", "90223", "90221", "90222"]
 zipCodes: ["90221", "90222", "90223", "90220"]
 localPaths: ["Los Angeles County / primary ZIP 90220", "Los Angeles County / elevation 85 ft band", "Los Angeles County / ZIP 90223 sector", "Los Angeles County / coords 33.8900, -118.2300", "Los Angeles County / ZIP 90220 sector"]
-zillowHomeValueUsd: 638882
 ---
 
-**Engineering Notice for Compton:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Compton:** Shingle, flashing, and ventilation review recorded at 85 ft AMSL context (Los Angeles County).
 
+
+When wind or hail hits Compton, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof remediation in Compton, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Los Angeles County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Coastal humidity in Compton, CA can slow shingle seal-down after shoulder-season storms.
 
@@ -29,11 +32,11 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our Compton, CA dispatch packets reference county grid Los Angeles County and elevation band 85 ft.
+Our Compton, CA service packets reference Los Angeles County and elevation band 85 ft for shingle and leak scope.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Scope trace: shingle exposure calibration plus drip-edge metal profile referenced in Los Angeles County county grid review.
+Scope trace: shingle exposure calibration plus drip-edge metal profile referenced in Los Angeles County storm and leak review.
 
 On-site sector marker: Los Angeles County / ZIP 90223 sector — logged for map parity and ZIP-corridor verification.
 

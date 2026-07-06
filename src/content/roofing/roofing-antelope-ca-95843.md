@@ -11,11 +11,14 @@ lng: -121.3600
 zipSample: ["95843"]
 zipCodes: ["95843"]
 localPaths: ["Sacramento County / elevation 128 ft band", "Sacramento County / ZIP 95843 sector", "Sacramento County / coords 38.7200, -121.3600", "Sacramento County / primary ZIP 95843"]
-zillowHomeValueUsd: 503970
 ---
 
-**Engineering Notice for Antelope:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Antelope:** Shingle, flashing, and ventilation review recorded at 128 ft AMSL context (Sacramento County).
 
+
+When wind or hail hits Antelope, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Licensed roof restoration crews serving Antelope, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Across Antelope, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -31,11 +34,9 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Code context: Ventilation ratios for Antelope, CA attics should be checked against current mechanical exhaust additions.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
-
-Field routing: ridge cap nail schedule paired with drip-edge metal profile near ZIP 95843.
 
 On-site sector marker: Sacramento County / elevation 128 ft band — logged for map parity and ZIP-corridor verification.
 

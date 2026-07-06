@@ -11,11 +11,14 @@ lng: -70.2700
 zipSample: ["04103", "04124", "04116", "04104", "04101"]
 zipCodes: ["04122", "04101", "04124", "04103", "04108", "04102", "04104", "04116", "04109", "04112", "04123", "04019"]
 localPaths: ["Cumberland County / ZIP 04103 sector", "Cumberland County / ZIP 04116 sector", "Cumberland County / ZIP 04101 sector", "Cumberland County / ZIP 04104 sector", "Cumberland County / ZIP 04124 sector"]
-zillowHomeValueUsd: 653895
 ---
 
-**Engineering Notice for Portland:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Cumberland County.
+**Engineering Notice for Portland:** Roof repair scope references 0 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Cumberland County.
 
+
+Roofing service service in Portland, ME, Cumberland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Portland, ME often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cumberland County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -25,7 +28,7 @@ Step: map ventilation intake and exhaust pairs for Portland, ME attic runs.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -35,7 +38,7 @@ Step: compare shingle manufacturer wind-zone ratings for Portland, ME exposure c
 
 Granule embedment loss on Portland, ME north slopes can precede mat exposure.
 
-roofing service brief: drip-edge metal profile and wind uplift clip spacing were cross-checked for the Portland intake packet.
+Roof service brief: drip-edge metal profile and wind uplift clip spacing were cross-checked for the Portland shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 04101/04019/04112.
 

@@ -11,17 +11,20 @@ lng: -93.1600
 zipSample: ["55122", "55121", "55123"]
 zipCodes: ["55122", "55123", "55121"]
 localPaths: ["Dakota County / ZIP 55122 sector", "Dakota County / ZIP 55121 sector", "Dakota County / coords 44.8200, -93.1600", "Dakota County / primary ZIP 55121", "Dakota County / elevation 876 ft band"]
-zillowHomeValueUsd: 337331
 ---
 
-**Engineering Notice for Eagan:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for Eagan:** Shingle, flashing, and ventilation review recorded at 876 ft AMSL context (Dakota County).
 
+
+Emergency roof restoration in Eagan, MN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Dakota County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work restoration in Eagan, MN, Dakota County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Regulatory note: Eagan, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
 Across Eagan, MN, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -32,8 +35,6 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Step: stage tear-off debris paths away from landscape drains.
-
-Scope trace: counter-flashing reglet depth plus ridge cap nail schedule referenced in Dakota County county grid review.
 
 ZIP-corridor snapshot for Eagan, MN: sampled sectors include 55122, 55123, 55121; county routing grid remains Dakota County.
 

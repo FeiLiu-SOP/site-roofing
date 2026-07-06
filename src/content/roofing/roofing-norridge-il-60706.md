@@ -11,11 +11,14 @@ lng: -87.8200
 zipSample: ["60706"]
 zipCodes: ["60706"]
 localPaths: ["Cook County / primary ZIP 60706", "Cook County / ZIP 60706 sector", "Cook County / coords 41.9600, -87.8200", "Cook County / elevation 650 ft band"]
-zillowHomeValueUsd: 396756
 ---
 
-**Engineering Notice for Norridge:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Norridge:** Storm and emergency leak triage uses 650 ft elevation band with Cook County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Norridge, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cook County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof remediation in Norridge, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cook County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -27,13 +30,11 @@ Coastal humidity in Norridge, IL can slow shingle seal-down after shoulder-seaso
 
 Step: compare shingle manufacturer wind-zone ratings for Norridge, IL exposure class.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-roofing service brief: shingle exposure calibration and chimney cricket slope were cross-checked for the Norridge intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 60706.
+Roof service brief: shingle exposure calibration and chimney cricket slope were cross-checked for the Norridge shingle and leak scope.
 
 On-site sector marker: Cook County / ZIP 60706 sector — logged for map parity and ZIP-corridor verification.
 

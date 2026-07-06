@@ -11,11 +11,14 @@ lng: -80.1900
 zipSample: ["33023"]
 zipCodes: ["33023"]
 localPaths: ["Broward County / coords 25.9800, -80.1900", "Broward County / elevation 30 ft band", "Broward County / ZIP 33023 sector", "Broward County / primary ZIP 33023"]
-zillowHomeValueUsd: 450429
 ---
 
-**Engineering Notice for West Park:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for West Park:** Storm and emergency leak triage uses 30 ft elevation band with Broward County service-area context for roofing repairs.
 
+
+Roof work service in West Park, FL, Broward County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in West Park, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Broward County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -33,9 +36,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-Field routing: wind uplift clip spacing paired with chimney cricket slope near ZIP 33023.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 On-site sector marker: Broward County / coords 25.9800, -80.1900 — logged for map parity and ZIP-corridor verification.
 

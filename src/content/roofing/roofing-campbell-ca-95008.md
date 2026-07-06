@@ -11,13 +11,16 @@ lng: -121.9500
 zipSample: ["95009", "95011", "95008"]
 zipCodes: ["95009", "95008", "95011"]
 localPaths: ["Santa Clara County / elevation 200 ft band", "Santa Clara County / ZIP 95011 sector", "Santa Clara County / primary ZIP 95008", "Santa Clara County / ZIP 95008 sector", "Santa Clara County / ZIP 95009 sector"]
-zillowHomeValueUsd: 1942103
 ---
 
-**Engineering Notice for Campbell:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Campbell:** Storm and emergency leak triage uses 200 ft elevation band with Santa Clara County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+When wind or hail hits Campbell, CA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Campbell, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Santa Clara County clarifies whether service or replacement fits the damage pattern.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: compare shingle manufacturer wind-zone ratings for Campbell, CA exposure class.
 
@@ -31,7 +34,7 @@ Coastal humidity in Campbell, CA can slow shingle seal-down after shoulder-seaso
 
 FAQ: How long can shingles wait after storm damage? In Campbell, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Scope trace: soffit intake free area plus ridge cap nail schedule referenced in Santa Clara County county grid review.
+Scope trace: soffit intake free area plus ridge cap nail schedule referenced in Santa Clara County storm and leak review.
 
 On-site sector marker: Santa Clara County / ZIP 95008 sector — logged for map parity and ZIP-corridor verification.
 

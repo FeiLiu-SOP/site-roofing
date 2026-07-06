@@ -11,11 +11,14 @@ lng: -122.7000
 zipSample: ["94928", "94927"]
 zipCodes: ["94928", "94927"]
 localPaths: ["Sonoma County / primary ZIP 94928", "Sonoma County / elevation 108 ft band", "Sonoma County / ZIP 94928 sector", "Sonoma County / coords 38.3500, -122.7000", "Sonoma County / ZIP 94927 sector"]
-zillowHomeValueUsd: 713076
 ---
 
-**Engineering Notice for Rohnert Park:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Sonoma County.
+**Engineering Notice for Rohnert Park:** Storm and emergency leak triage uses 108 ft elevation band with Sonoma County service-area context for roofing repairs.
 
+
+Storm damage roof work in Rohnert Park, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Sonoma County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof remediation in Rohnert Park, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Sonoma County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -31,11 +34,9 @@ Material note: In Rohnert Park, CA, algae-resistant granules may be specified fo
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Scope trace: valley metal gauge plus skylight curb height referenced in Sonoma County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 94927/94928.
+Scope trace: valley metal gauge plus skylight curb height referenced in Sonoma County storm and leak review.
 
 On-site sector marker: Sonoma County / ZIP 94928 sector — logged for map parity and ZIP-corridor verification.
 

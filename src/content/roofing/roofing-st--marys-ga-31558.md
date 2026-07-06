@@ -11,11 +11,14 @@ lng: -81.5700
 zipSample: ["31558"]
 zipCodes: ["31558"]
 localPaths: ["Camden County / ZIP 31558 sector", "Camden County / primary ZIP 31558", "Camden County / coords 30.7600, -81.5700", "Camden County / elevation 39 ft band"]
-zillowHomeValueUsd: 309052
 ---
 
-**Engineering Notice for St. Marys:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Camden County.
+**Engineering Notice for St. Marys:** Storm and emergency leak triage uses 39 ft elevation band with Camden County service-area context for roofing repairs.
 
+
+Emergency roof restoration in St. Marys, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Camden County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work restoration in St. Marys, GA, Camden County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Synthetic underlayment slip in St. Marys, GA is often tied to deck moisture, not wind alone.
 
@@ -23,7 +26,7 @@ FAQ: Can you tarp only part of the roof? In St. Marys, GA, yes—if slope and an
 
 Material note: In St. Marys, GA, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -34,8 +37,6 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 Step: note chimney cricket geometry before counter-flashing removal.
 
 Regulatory note: St. Marys, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
-
-Field routing: ridge cap nail schedule paired with soffit intake free area near ZIP 31558.
 
 On-site sector marker: Camden County / elevation 39 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -6,18 +6,21 @@ state: "NY"
 zipCode: "11795"
 county: "Suffolk County"
 elevationFt: 23
-lat: 40.7000
-lng: -73.3000
+lat: 40.7105
+lng: -73.3300
 zipSample: ["11795"]
 zipCodes: ["11795"]
-localPaths: ["Suffolk County / ZIP 11795 sector", "Suffolk County / coords 40.7000, -73.3000", "Suffolk County / elevation 23 ft band", "Suffolk County / primary ZIP 11795"]
-zillowHomeValueUsd: 722404
+localPaths: ["Suffolk County / ZIP 11795 sector", "Suffolk County / coords 40.7105, -73.3300", "Suffolk County / elevation 23 ft band", "Suffolk County / primary ZIP 11795"]
 ---
 
-**Engineering Notice for West Islip:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for West Islip:** Shingle, flashing, and ventilation review recorded at 23 ft AMSL context (Suffolk County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Licensed roof service crews serving West Islip, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in West Islip, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Suffolk County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -34,8 +37,6 @@ Code context: Ventilation ratios for West Islip, NY attics should be checked aga
 Metal panel oil-canning in West Islip, NY may signal clip spacing issues, not wind damage alone.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
-
-roof work brief: ice-barrier lap sequence and wind uplift clip spacing were cross-checked for the West Islip intake packet.
 
 Regional mesh label Suffolk County: moisture and logistics baselines are keyed to West Islip, NY before niche-specific work begins.
 

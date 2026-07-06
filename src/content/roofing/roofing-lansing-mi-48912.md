@@ -11,13 +11,16 @@ lng: -84.5600
 zipSample: ["48911", "48937", "48919", "48912", "48909"]
 zipCodes: ["48901", "48916", "48951", "48937", "48919", "48911", "48930", "48956", "48910", "48906", "48924", "48909"]
 localPaths: ["Ingham County / ZIP 48937 sector", "Ingham County / primary ZIP 48912", "Ingham County / coords 42.7100, -84.5600", "Ingham County / ZIP 48919 sector", "Ingham County / ZIP 48912 sector"]
-zillowHomeValueUsd: 136545
 ---
 
-**Engineering Notice for Lansing:** Structural loading calculated based on 863 ft terrain assessment. Regional dispatch grid: Ingham County.
+**Engineering Notice for Lansing:** Storm and emergency leak triage uses 863 ft elevation band with Ingham County service-area context for roofing repairs.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Emergency roof remediation in Lansing, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Ingham County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Lansing, MI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Ingham County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -32,8 +35,6 @@ Tip: Note recent wind events when filing insurance photos for Lansing, MI.
 Skylight curb flashing in Lansing, MI should be sequenced before ridge cap replacement.
 
 Regulatory note: Lansing, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
-
-roof work brief: starter-strip setback and synthetic underlayment slip were cross-checked for the Lansing intake packet.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Ingham County and primary ZIP 48912. Terrain reference: 863 ft. Center point: 42.7100, -84.5600. ZIP sample: 48937, 48909, 48911, 48922, 48933. Service perimeter note: Coverage extends through Ingham County with dispatch centered near ZIP 48912.
 

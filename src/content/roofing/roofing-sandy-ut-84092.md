@@ -11,11 +11,14 @@ lng: -111.8500
 zipSample: ["84091", "84090", "84092", "84094", "84093"]
 zipCodes: ["84093", "84092", "84091", "84094", "84070", "84090"]
 localPaths: ["Salt Lake County / coords 40.5700, -111.8500", "Salt Lake County / primary ZIP 84092", "Salt Lake County / ZIP 84094 sector", "Salt Lake County / ZIP 84091 sector", "Salt Lake County / elevation 4793 ft band"]
-zillowHomeValueUsd: 866655
 ---
 
-**Engineering Notice for Sandy:** Structural loading calculated based on 4793 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Sandy:** Roof repair scope references 4793 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Salt Lake County.
 
+
+Storm damage roof work in Sandy, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Salt Lake County clarifies whether restoration or replacement fits the damage pattern.
+
+Qualified roof remediation crews serving Sandy, UT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: How long can shingles wait after storm damage? In Sandy, UT, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -32,8 +35,6 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 Regulatory note: Sandy, UT projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
 We coordinate Sandy, UT roof reviews with photo logs, moisture notes, and realistic dry-in windows.
-
-roof work brief: starter-strip setback and ice-barrier lap sequence were cross-checked for the Sandy intake packet.
 
 On-site sector marker: Salt Lake County / ZIP 84093 sector — logged for map parity and ZIP-corridor verification.
 

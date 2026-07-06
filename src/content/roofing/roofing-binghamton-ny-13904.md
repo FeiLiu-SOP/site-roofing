@@ -11,17 +11,20 @@ lng: -75.9100
 zipSample: ["13903", "13905", "13904", "13901"]
 zipCodes: ["13903", "13901", "13904", "13905"]
 localPaths: ["Broome County / ZIP 13904 sector", "Broome County / elevation 883 ft band", "Broome County / ZIP 13901 sector", "Broome County / coords 42.1000, -75.9100", "Broome County / ZIP 13903 sector"]
-zillowHomeValueUsd: 153391
 ---
 
-**Engineering Notice for Binghamton:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Broome County.
+**Engineering Notice for Binghamton:** Shingle, flashing, and ventilation review recorded at 883 ft AMSL context (Broome County).
 
+
+Emergency roof restoration in Binghamton, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Broome County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Binghamton, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Broome County clarifies whether remediation or replacement fits the damage pattern.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Attic ventilation deficits in Binghamton, NY can mimic roof leaks at ceiling penetrations.
 
@@ -33,9 +36,7 @@ Risk flag: In Binghamton, NY, interior stains may track from HVAC condensate rat
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-roof work brief: drip-edge metal profile and soffit intake free area were cross-checked for the Binghamton intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 13901/13905/13903.
+Roof service brief: drip-edge metal profile and soffit intake free area were cross-checked for the Binghamton shingle and leak scope.
 
 Primary postal anchor 13904 with multi-ZIP overlap in Binghamton; field packets tag Broome County for county-grid reconciliation.
 

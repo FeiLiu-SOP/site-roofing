@@ -11,11 +11,14 @@ lng: -122.1800
 zipSample: ["94563"]
 zipCodes: ["94563"]
 localPaths: ["Contra Costa County / primary ZIP 94563", "Contra Costa County / coords 37.8800, -122.1800", "Contra Costa County / ZIP 94563 sector", "Contra Costa County / elevation 571 ft band"]
-zillowHomeValueUsd: 1986084
 ---
 
-**Engineering Notice for Orinda:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Orinda:** Storm and emergency leak triage uses 571 ft elevation band with Contra Costa County service-area context for roofing repairs.
 
+
+Certified roof service crews serving Orinda, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Orinda, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -29,9 +32,9 @@ Risk flag: In Orinda, CA, interior stains may track from HVAC condensate rather 
 
 TPO seam welds in Orinda, CA commercial sections need probe tests after freeze events.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roofing service brief: attic baffle spacing and chimney cricket slope were cross-checked for the Orinda intake packet.
+Roof service brief: attic baffle spacing and chimney cricket slope were cross-checked for the Orinda shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 94563.
 

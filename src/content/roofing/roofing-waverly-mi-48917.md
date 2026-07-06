@@ -11,11 +11,14 @@ lng: -84.6400
 zipSample: ["48917", "48908"]
 zipCodes: ["48917", "48908"]
 localPaths: ["Eaton County / elevation 869 ft band", "Eaton County / ZIP 48908 sector", "Eaton County / ZIP 48917 sector", "Eaton County / coords 42.7400, -84.6400", "Eaton County / primary ZIP 48917"]
-zillowHomeValueUsd: 260266
 ---
 
-**Engineering Notice for Waverly:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Eaton County.
+**Engineering Notice for Waverly:** Roof repair scope references 869 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Eaton County.
 
+
+Roof work service in Waverly, MI, Eaton County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Waverly, MI, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Synthetic underlayment slip in Waverly, MI is often tied to deck moisture, not wind alone.
 
@@ -31,11 +34,11 @@ Code context: Ventilation ratios for Waverly, MI attics should be checked agains
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: compare shingle manufacturer wind-zone ratings for Waverly, MI exposure class.
 
-Field routing: wind uplift clip spacing paired with starter-strip setback near ZIP 48917.
+Local service note: wind uplift clip spacing paired with starter-strip setback near ZIP 48917 for emergency roof service repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 48917/48908.
 

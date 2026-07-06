@@ -11,11 +11,14 @@ lng: -87.6100
 zipSample: ["61832", "61834"]
 zipCodes: ["61834", "61832"]
 localPaths: ["Vermilion County / ZIP 61832 sector", "Vermilion County / primary ZIP 61834", "Vermilion County / coords 40.1400, -87.6100", "Vermilion County / elevation 650 ft band", "Vermilion County / ZIP 61834 sector"]
-zillowHomeValueUsd: 183443
 ---
 
-**Engineering Notice for Danville:** Structural loading calculated based on 650 ft terrain assessment. Regional dispatch grid: Vermilion County.
+**Engineering Notice for Danville:** Storm and emergency leak triage uses 650 ft elevation band with Vermilion County service-area context for roofing repairs.
 
+
+When wind or hail hits Danville, IL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Certified roof service crews serving Danville, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -23,7 +26,7 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Regulatory note: Danville, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tile and shingle mixes in Danville, IL require different fastener patterns at transitions.
 
@@ -33,7 +36,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-Field routing: starter-strip setback paired with valley metal gauge near ZIP 61834.
+Local service note: starter-strip setback paired with valley metal gauge near ZIP 61834 for emergency roof service repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 61834/61832.
 

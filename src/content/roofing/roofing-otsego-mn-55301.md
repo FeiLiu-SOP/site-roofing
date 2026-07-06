@@ -11,11 +11,14 @@ lng: -93.6200
 zipSample: ["55301", "55330", "55362"]
 zipCodes: ["55330", "55301", "55362"]
 localPaths: ["Wright County / ZIP 55362 sector", "Wright County / ZIP 55330 sector", "Wright County / ZIP 55301 sector", "Wright County / elevation 919 ft band", "Wright County / coords 45.2700, -93.6200"]
-zillowHomeValueUsd: 373790
 ---
 
-**Engineering Notice for Otsego:** Structural loading calculated based on 919 ft terrain assessment. Regional dispatch grid: Wright County.
+**Engineering Notice for Otsego:** Storm and emergency leak triage uses 919 ft elevation band with Wright County service-area context for roofing repairs.
 
+
+Certified roof remediation crews serving Otsego, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Otsego, MN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Wright County clarifies whether service or replacement fits the damage pattern.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -31,11 +34,9 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-Field routing: pipe boot manufacturer match paired with shingle exposure calibration near ZIP 55301.
-
-Field note: Attic moisture pathway scan referenced ZIP 55362/55301/55330.
+Local service note: pipe boot manufacturer match paired with shingle exposure calibration near ZIP 55301 for emergency roofing service repairs.
 
 ZIP-corridor snapshot for Otsego, MN: sampled sectors include 55301, 55362, 55330; county routing grid remains Wright County.
 

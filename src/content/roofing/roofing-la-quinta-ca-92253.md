@@ -11,11 +11,14 @@ lng: -116.2800
 zipSample: ["92202", "92253", "92248", "92247"]
 zipCodes: ["92247", "92202", "92253", "92248"]
 localPaths: ["Riverside County / primary ZIP 92253", "Riverside County / ZIP 92202 sector", "Riverside County / ZIP 92253 sector", "Riverside County / elevation 13 ft band", "Riverside County / coords 33.6500, -116.2800"]
-zillowHomeValueUsd: 746846
 ---
 
-**Engineering Notice for La Quinta:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for La Quinta:** Shingle, flashing, and ventilation review recorded at 13 ft AMSL context (Riverside County).
 
+
+Roof service service in La Quinta, CA, Riverside County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in La Quinta, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Riverside County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -31,11 +34,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field routing: synthetic underlayment slip paired with chimney cricket slope near ZIP 92253.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 92202/92247/92248.
+Local service note: synthetic underlayment slip paired with chimney cricket slope near ZIP 92253 for emergency roof work repairs.
 
 ZIP-corridor snapshot for La Quinta, CA: sampled sectors include 92253, 92248, 92202, 92247; county routing grid remains Riverside County.
 

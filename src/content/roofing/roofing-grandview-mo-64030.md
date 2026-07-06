@@ -11,11 +11,14 @@ lng: -94.5200
 zipSample: ["64030"]
 zipCodes: ["64030"]
 localPaths: ["Jackson County / primary ZIP 64030", "Jackson County / coords 38.8800, -94.5200", "Jackson County / elevation 1020 ft band", "Jackson County / ZIP 64030 sector"]
-zillowHomeValueUsd: 216662
 ---
 
-**Engineering Notice for Grandview:** Structural loading calculated based on 1020 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Grandview:** Storm and emergency leak triage uses 1020 ft elevation band with Jackson County service-area context for roofing repairs.
 
+
+Storm damage roof service in Grandview, MO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Jackson County clarifies whether service or replacement fits the damage pattern.
+
+Qualified roof remediation crews serving Grandview, MO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -31,13 +34,11 @@ Code context: Ventilation ratios for Grandview, MO attics should be checked agai
 
 Risk flag: Tile underlayment age in Grandview, MO can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 TPO seam welds in Grandview, MO commercial sections need probe tests after freeze events.
 
-roof service brief: counter-flashing reglet depth and ice-barrier lap sequence were cross-checked for the Grandview intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 64030.
+Roof restoration brief: counter-flashing reglet depth and ice-barrier lap sequence were cross-checked for the Grandview shingle and leak scope.
 
 ZIP-corridor snapshot for Grandview, MO: sampled sectors include 64030; county routing grid remains Jackson County.
 

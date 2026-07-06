@@ -11,17 +11,20 @@ lng: -123.8100
 zipSample: ["98520"]
 zipCodes: ["98520"]
 localPaths: ["Grays Harbor County / ZIP 98520 sector", "Grays Harbor County / elevation 7 ft band", "Grays Harbor County / primary ZIP 98520", "Grays Harbor County / coords 46.9800, -123.8100"]
-zillowHomeValueUsd: 272291
 ---
 
-**Engineering Notice for Aberdeen:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Grays Harbor County.
+**Engineering Notice for Aberdeen:** Shingle, flashing, and ventilation review recorded at 7 ft AMSL context (Grays Harbor County).
 
+
+When wind or hail hits Aberdeen, WA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof restoration crews serving Aberdeen, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
 Wind-zone note: Aberdeen, WA exposure class can change starter-strip and cap nail schedules.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: In Aberdeen, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,9 +34,7 @@ FAQ: How long can shingles wait after storm damage? In Aberdeen, WA, delayed dry
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Scope trace: shingle exposure calibration plus skylight curb height referenced in Grays Harbor County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 98520.
+Scope trace: shingle exposure calibration plus skylight curb height referenced in Grays Harbor County storm and leak review.
 
 ZIP-corridor snapshot for Aberdeen, WA: sampled sectors include 98520; county routing grid remains Grays Harbor County.
 

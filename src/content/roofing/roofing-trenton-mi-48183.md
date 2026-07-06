@@ -11,11 +11,14 @@ lng: -83.1900
 zipSample: ["48183"]
 zipCodes: ["48183"]
 localPaths: ["Wayne County / elevation 587 ft band", "Wayne County / coords 42.1400, -83.1900", "Wayne County / ZIP 48183 sector", "Wayne County / primary ZIP 48183"]
-zillowHomeValueUsd: 253394
 ---
 
-**Engineering Notice for Trenton:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Trenton:** Roof repair scope references 587 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Wayne County.
 
+
+Roof service remediation in Trenton, MI, Wayne County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof service crews serving Trenton, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -32,8 +35,6 @@ Risk flag: In Trenton, MI, interior stains may track from HVAC condensate rather
 Regulatory note: Trenton, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
 We coordinate Trenton, MI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
-
-roof service brief: counter-flashing reglet depth and deck sheathing thickness were cross-checked for the Trenton intake packet.
 
 ZIP-corridor snapshot for Trenton, MI: sampled sectors include 48183; county routing grid remains Wayne County.
 

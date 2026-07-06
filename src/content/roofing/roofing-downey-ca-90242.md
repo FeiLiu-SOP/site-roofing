@@ -11,17 +11,20 @@ lng: -118.1300
 zipSample: ["90240", "90239", "90241", "90242"]
 zipCodes: ["90241", "90240", "90239", "90242"]
 localPaths: ["Los Angeles County / ZIP 90239 sector", "Los Angeles County / ZIP 90240 sector", "Los Angeles County / primary ZIP 90242", "Los Angeles County / elevation 121 ft band", "Los Angeles County / ZIP 90242 sector"]
-zillowHomeValueUsd: 827073
 ---
 
-**Engineering Notice for Downey:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Downey:** Shingle, flashing, and ventilation review recorded at 121 ft AMSL context (Los Angeles County).
 
+
+Storm damage roof service in Downey, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Downey, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Can you tarp only part of the roof? In Downey, CA, yes—if slope and anchor points support safe tie-offs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -33,9 +36,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Code context: Ventilation ratios for Downey, CA attics should be checked against current mechanical exhaust additions.
 
-Scope trace: deck sheathing thickness plus skylight curb height referenced in Los Angeles County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 90239/90240/90241.
+Scope trace: deck sheathing thickness plus skylight curb height referenced in Los Angeles County storm and leak review.
 
 On-site sector marker: Los Angeles County / ZIP 90241 sector — logged for map parity and ZIP-corridor verification.
 

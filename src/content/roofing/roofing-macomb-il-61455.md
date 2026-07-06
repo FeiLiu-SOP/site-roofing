@@ -11,11 +11,14 @@ lng: -90.6800
 zipSample: ["61455"]
 zipCodes: ["61455"]
 localPaths: ["McDonough County / ZIP 61455 sector", "McDonough County / elevation 643 ft band", "McDonough County / primary ZIP 61455", "McDonough County / coords 40.4700, -90.6800"]
-zillowHomeValueUsd: 105412
 ---
 
-**Engineering Notice for Macomb:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: McDonough County.
+**Engineering Notice for Macomb:** Storm and emergency leak triage uses 643 ft elevation band with McDonough County service-area context for roofing repairs.
 
+
+Roofing service remediation in Macomb, IL, McDonough County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Macomb, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in McDonough County clarifies whether remediation or replacement fits the damage pattern.
 
 Tile and shingle mixes in Macomb, IL require different fastener patterns at transitions.
 
@@ -27,11 +30,9 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: log deck soundings near vents before tear-off is approved.
-
-roofing service brief: deck sheathing thickness and wind uplift clip spacing were cross-checked for the Macomb intake packet.
 
 On-site sector marker: McDonough County / ZIP 61455 sector — logged for map parity and ZIP-corridor verification.
 

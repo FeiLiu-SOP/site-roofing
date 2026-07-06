@@ -11,13 +11,16 @@ lng: -96.3900
 zipSample: ["74701"]
 zipCodes: ["74701"]
 localPaths: ["Bryan County / ZIP 74701 sector", "Bryan County / primary ZIP 74701", "Bryan County / elevation 686 ft band", "Bryan County / coords 33.9900, -96.3900"]
-zillowHomeValueUsd: 221538
 ---
 
-**Engineering Notice for Durant:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Bryan County.
+**Engineering Notice for Durant:** Roof repair scope references 686 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Bryan County.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Emergency roof restoration in Durant, OK often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Bryan County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof service crews serving Durant, OK review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -31,9 +34,7 @@ Wind-zone note: Durant, OK exposure class can change starter-strip and cap nail 
 
 Risk flag: In Durant, OK, interior stains may track from HVAC condensate rather than roof cladding.
 
-Scope trace: wind uplift clip spacing plus synthetic underlayment slip referenced in Bryan County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 74701.
+Scope trace: wind uplift clip spacing plus synthetic underlayment slip referenced in Bryan County storm and leak review.
 
 On-site sector marker: Bryan County / coords 33.9900, -96.3900 — logged for map parity and ZIP-corridor verification.
 

@@ -11,15 +11,18 @@ lng: -77.4100
 zipSample: ["20167", "20164"]
 zipCodes: ["20167", "20164"]
 localPaths: ["Loudoun County / ZIP 20167 sector", "Loudoun County / ZIP 20164 sector", "Loudoun County / elevation 335 ft band", "Loudoun County / coords 39.0100, -77.4100", "Loudoun County / primary ZIP 20164"]
-zillowHomeValueUsd: 596624
 ---
 
-**Engineering Notice for Sterling:** Structural loading calculated based on 335 ft terrain assessment. Regional dispatch grid: Loudoun County.
+**Engineering Notice for Sterling:** Storm and emergency leak triage uses 335 ft elevation band with Loudoun County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Sterling, VA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Loudoun County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service remediation in Sterling, VA, Loudoun County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is partial dry-in possible? In Sterling, VA, yes—if slope and anchor points support safe tie-offs.
 
@@ -35,9 +38,7 @@ Regulatory note: Sterling, VA projects may trigger ice-barrier upgrades when tea
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 20164.
 
-Field routing: synthetic underlayment slip paired with drip-edge metal profile near ZIP 20164.
-
-Field note: Attic moisture pathway scan referenced ZIP 20167/20164.
+Local service note: synthetic underlayment slip paired with drip-edge metal profile near ZIP 20164 for emergency roof service repairs.
 
 ZIP-corridor snapshot for Sterling, VA: sampled sectors include 20164, 20167; county routing grid remains Loudoun County.
 

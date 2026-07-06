@@ -11,11 +11,14 @@ lng: -81.8200
 zipSample: ["33967"]
 zipCodes: ["33967"]
 localPaths: ["Lee County / coords 26.4800, -81.8200", "Lee County / elevation 33 ft band", "Lee County / ZIP 33967 sector", "Lee County / primary ZIP 33967"]
-zillowHomeValueUsd: 359368
 ---
 
-**Engineering Notice for San Carlos Park:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for San Carlos Park:** Roof repair scope references 33 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Lee County.
 
+
+When wind or hail hits San Carlos Park, FL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof service in San Carlos Park, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lee County clarifies whether restoration or replacement fits the damage pattern.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -29,11 +32,11 @@ Risk flag: In San Carlos Park, FL, interior stains may track from HVAC condensat
 
 Wind-zone note: San Carlos Park, FL exposure class can change starter-strip and cap nail schedules.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: compare shingle manufacturer wind-zone ratings for San Carlos Park, FL exposure class.
 
-Scope trace: counter-flashing reglet depth plus starter-strip setback referenced in Lee County county grid review.
+Scope trace: counter-flashing reglet depth plus starter-strip setback referenced in Lee County storm and leak review.
 
 Regional mesh label Lee County: moisture and logistics baselines are keyed to San Carlos Park, FL before niche-specific work begins.
 

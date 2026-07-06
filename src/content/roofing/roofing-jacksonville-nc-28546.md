@@ -11,11 +11,14 @@ lng: -77.3900
 zipSample: ["28546", "28544", "28540", "28545", "28547"]
 zipCodes: ["28540", "28545", "28541", "28547", "28543", "28546", "28542", "28544"]
 localPaths: ["Onslow County / coords 34.7300, -77.3900", "Onslow County / ZIP 28545 sector", "Onslow County / ZIP 28546 sector", "Onslow County / ZIP 28540 sector", "Onslow County / ZIP 28547 sector"]
-zillowHomeValueUsd: 266923
 ---
 
-**Engineering Notice for Jacksonville:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Onslow County.
+**Engineering Notice for Jacksonville:** Storm and emergency leak triage uses 3 ft elevation band with Onslow County service-area context for roofing repairs.
 
+
+When wind or hail hits Jacksonville, NC, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service restoration in Jacksonville, NC, Onslow County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Wind-zone note: Jacksonville, NC exposure class can change starter-strip and cap nail schedules.
 
@@ -29,11 +32,11 @@ Material note: In Jacksonville, NC, algae-resistant granules may be specified fo
 
 Low-slope sections in Jacksonville, NC need positive drainage before membrane repairs are scoped.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is partial dry-in possible? In Jacksonville, NC, yes—if slope and anchor points support safe tie-offs.
 
-roof work brief: shingle exposure calibration and ridge cap nail schedule were cross-checked for the Jacksonville intake packet.
+Roof remediation brief: shingle exposure calibration and ridge cap nail schedule were cross-checked for the Jacksonville shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 28543/28545/28541.
 

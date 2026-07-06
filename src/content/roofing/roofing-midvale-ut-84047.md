@@ -11,11 +11,14 @@ lng: -111.8900
 zipSample: ["84047"]
 zipCodes: ["84047"]
 localPaths: ["Salt Lake County / ZIP 84047 sector", "Salt Lake County / coords 40.6100, -111.8900", "Salt Lake County / primary ZIP 84047", "Salt Lake County / elevation 4406 ft band"]
-zillowHomeValueUsd: 483886
 ---
 
-**Engineering Notice for Midvale:** Structural loading calculated based on 4406 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Midvale:** Roof repair scope references 4406 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Salt Lake County.
 
+
+Emergency roof remediation in Midvale, UT often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Salt Lake County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Midvale, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Salt Lake County clarifies whether service or replacement fits the damage pattern.
 
 In Midvale, UT, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -35,7 +38,7 @@ Step: note chimney cricket geometry before counter-flashing removal.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field routing: shingle exposure calibration paired with skylight curb height near ZIP 84047.
+Local service note: shingle exposure calibration paired with skylight curb height near ZIP 84047 for emergency roof work repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 84047.
 

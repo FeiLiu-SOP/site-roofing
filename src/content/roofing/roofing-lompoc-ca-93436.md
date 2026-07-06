@@ -11,11 +11,14 @@ lng: -120.4700
 zipSample: ["93438", "93436"]
 zipCodes: ["93436", "93438"]
 localPaths: ["Santa Barbara County / coords 34.6600, -120.4700", "Santa Barbara County / elevation 85 ft band", "Santa Barbara County / ZIP 93436 sector", "Santa Barbara County / ZIP 93438 sector", "Santa Barbara County / primary ZIP 93436"]
-zillowHomeValueUsd: 590083
 ---
 
-**Engineering Notice for Lompoc:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Lompoc:** Storm and emergency leak triage uses 85 ft elevation band with Santa Barbara County service-area context for roofing repairs.
 
+
+When wind or hail hits Lompoc, CA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Licensed roof remediation crews serving Lompoc, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Granule embedment loss on Lompoc, CA north slopes can precede mat exposure.
 
@@ -29,11 +32,9 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Tip: Note recent wind events when filing insurance photos for Lompoc, CA.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Scope trace: pipe boot manufacturer match plus ice-barrier lap sequence referenced in Santa Barbara County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 93436/93438.
+Scope trace: pipe boot manufacturer match plus ice-barrier lap sequence referenced in Santa Barbara County storm and leak review.
 
 ZIP-corridor snapshot for Lompoc, CA: sampled sectors include 93436, 93438; county routing grid remains Santa Barbara County.
 

@@ -11,11 +11,14 @@ lng: -87.7900
 zipSample: ["60301", "60303", "60304", "60302"]
 zipCodes: ["60303", "60301", "60302", "60304"]
 localPaths: ["Cook County / coords 41.8900, -87.7900", "Cook County / ZIP 60304 sector", "Cook County / ZIP 60303 sector", "Cook County / ZIP 60302 sector", "Cook County / primary ZIP 60301"]
-zillowHomeValueUsd: 272660
 ---
 
-**Engineering Notice for Oak Park:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Oak Park:** Roof repair scope references 627 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Cook County.
 
+
+Licensed roof remediation crews serving Oak Park, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Oak Park, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cook County clarifies whether remediation or replacement fits the damage pattern.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -31,13 +34,11 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Material note: In Oak Park, IL, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-roof work brief: attic baffle spacing and wind uplift clip spacing were cross-checked for the Oak Park intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 60304/60301/60302.
+Roof service brief: attic baffle spacing and wind uplift clip spacing were cross-checked for the Oak Park shingle and leak scope.
 
 Primary postal anchor 60301 with multi-ZIP overlap in Oak Park; field packets tag Cook County for county-grid reconciliation.
 

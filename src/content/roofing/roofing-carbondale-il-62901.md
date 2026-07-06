@@ -11,11 +11,14 @@ lng: -89.2200
 zipSample: ["62901", "62902", "62903"]
 zipCodes: ["62903", "62901", "62902"]
 localPaths: ["Jackson County / primary ZIP 62901", "Jackson County / coords 37.7200, -89.2200", "Jackson County / ZIP 62902 sector", "Jackson County / ZIP 62901 sector", "Jackson County / ZIP 62903 sector"]
-zillowHomeValueUsd: 119710
 ---
 
-**Engineering Notice for Carbondale:** Structural loading calculated based on 446 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Carbondale:** Shingle, flashing, and ventilation review recorded at 446 ft AMSL context (Jackson County).
 
+
+Storm damage roof work in Carbondale, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Jackson County clarifies whether remediation or replacement fits the damage pattern.
+
+Roofing service remediation in Carbondale, IL, Jackson County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: In Carbondale, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,13 +34,11 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Material note: In Carbondale, IL, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Freeze-thaw cycles around Carbondale, IL stress nail pops along eaves and rake edges.
 
-roof work brief: drip-edge metal profile and ridge cap nail schedule were cross-checked for the Carbondale intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 62902/62903/62901.
+Roof restoration brief: drip-edge metal profile and ridge cap nail schedule were cross-checked for the Carbondale shingle and leak scope.
 
 On-site sector marker: Jackson County / ZIP 62902 sector — logged for map parity and ZIP-corridor verification.
 

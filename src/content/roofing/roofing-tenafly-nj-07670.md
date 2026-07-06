@@ -11,11 +11,14 @@ lng: -73.9500
 zipSample: ["07670"]
 zipCodes: ["07670"]
 localPaths: ["Bergen County / primary ZIP 07670", "Bergen County / ZIP 07670 sector", "Bergen County / coords 40.9200, -73.9500", "Bergen County / elevation 240 ft band"]
-zillowHomeValueUsd: 1260449
 ---
 
-**Engineering Notice for Tenafly:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Tenafly:** Roof repair scope references 240 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Bergen County.
 
+
+When wind or hail hits Tenafly, NJ, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Tenafly, NJ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Bergen County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Tile underlayment age in Tenafly, NJ can fail independently of visible tile cracks.
 
@@ -31,9 +34,7 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Scope trace: drip-edge metal profile plus soffit intake free area referenced in Bergen County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 07670.
+Scope trace: drip-edge metal profile plus soffit intake free area referenced in Bergen County storm and leak review.
 
 ZIP-corridor snapshot for Tenafly, NJ: sampled sectors include 07670; county routing grid remains Bergen County.
 

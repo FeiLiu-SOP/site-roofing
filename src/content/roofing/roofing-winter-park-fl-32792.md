@@ -11,11 +11,14 @@ lng: -81.3400
 zipSample: ["32792", "32789", "32790"]
 zipCodes: ["32792", "32789", "32790"]
 localPaths: ["Orange County / ZIP 32792 sector", "Orange County / primary ZIP 32792", "Orange County / ZIP 32789 sector", "Orange County / elevation 69 ft band", "Orange County / ZIP 32790 sector"]
-zillowHomeValueUsd: 397306
 ---
 
-**Engineering Notice for Winter Park:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Winter Park:** Roof repair scope references 69 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Orange County.
 
+
+Roof service restoration in Winter Park, FL, Orange County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Winter Park, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Orange County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Skylight curb flashing in Winter Park, FL should be sequenced before ridge cap replacement.
 
@@ -29,11 +32,9 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Risk flag: In Winter Park, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-Our Winter Park, FL dispatch packets reference county grid Orange County and elevation band 69 ft.
+Our Winter Park, FL remediation packets reference Orange County and elevation band 69 ft for shingle and leak scope.
 
-roof service brief: counter-flashing reglet depth and wind uplift clip spacing were cross-checked for the Winter Park intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 32790/32789/32792.
+Roof restoration brief: counter-flashing reglet depth and wind uplift clip spacing were cross-checked for the Winter Park shingle and leak scope.
 
 Primary postal anchor 32792 with multi-ZIP overlap in Winter Park; field packets tag Orange County for county-grid reconciliation.
 

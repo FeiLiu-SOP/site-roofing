@@ -11,13 +11,16 @@ lng: -88.1200
 zipSample: ["36688", "36619", "36652", "36695", "36611"]
 zipCodes: ["36652", "36617", "36618", "36601", "36611", "36628", "36633", "36640", "36616", "36695", "36688", "36691"]
 localPaths: ["Mobile County / ZIP 36619 sector", "Mobile County / ZIP 36611 sector", "Mobile County / ZIP 36688 sector", "Mobile County / primary ZIP 36652", "Mobile County / ZIP 36695 sector"]
-zillowHomeValueUsd: 275841
 ---
 
-**Engineering Notice for Mobile:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Mobile County.
+**Engineering Notice for Mobile:** Storm and emergency leak triage uses 39 ft elevation band with Mobile County service-area context for roofing repairs.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+When wind or hail hits Mobile, AL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Licensed roof service crews serving Mobile, AL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Granule embedment loss on Mobile, AL north slopes can precede mat exposure.
 
@@ -35,9 +38,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Wind-zone note: Mobile, AL exposure class can change starter-strip and cap nail schedules.
 
-Scope trace: attic baffle spacing plus chimney cricket slope referenced in Mobile County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 36604/36689/36660.
+Scope trace: attic baffle spacing plus chimney cricket slope referenced in Mobile County storm and leak review.
 
 On-site sector marker: Mobile County / ZIP 36633 sector — logged for map parity and ZIP-corridor verification.
 

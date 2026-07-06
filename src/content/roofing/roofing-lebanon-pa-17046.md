@@ -11,11 +11,14 @@ lng: -76.4200
 zipSample: ["17046", "17042"]
 zipCodes: ["17046", "17042"]
 localPaths: ["Lebanon County / elevation 463 ft band", "Lebanon County / coords 40.3400, -76.4200", "Lebanon County / primary ZIP 17046", "Lebanon County / ZIP 17046 sector", "Lebanon County / ZIP 17042 sector"]
-zillowHomeValueUsd: 258539
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 463 ft terrain assessment. Regional dispatch grid: Lebanon County.
+**Engineering Notice for Lebanon:** Storm and emergency leak triage uses 463 ft elevation band with Lebanon County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Lebanon, PA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lebanon County clarifies whether restoration or replacement fits the damage pattern.
+
+Qualified roof restoration crews serving Lebanon, PA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Tile underlayment age in Lebanon, PA can fail independently of visible tile cracks.
 
@@ -34,8 +37,6 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 TPO seam welds in Lebanon, PA commercial sections need probe tests after freeze events.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
-
-Scope trace: ridge cap nail schedule plus synthetic underlayment slip referenced in Lebanon County county grid review.
 
 On-site sector marker: Lebanon County / elevation 463 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -97.9100
 zipSample: ["76522"]
 zipCodes: ["76522"]
 localPaths: ["Coryell County / elevation 1129 ft band", "Coryell County / coords 31.1200, -97.9100", "Coryell County / primary ZIP 76522", "Coryell County / ZIP 76522 sector"]
-zillowHomeValueUsd: 223574
 ---
 
-**Engineering Notice for Copperas Cove:** Structural loading calculated based on 1129 ft terrain assessment. Regional dispatch grid: Coryell County.
+**Engineering Notice for Copperas Cove:** Storm and emergency leak triage uses 1129 ft elevation band with Coryell County service-area context for roofing repairs.
 
+
+Roof work service in Copperas Cove, TX, Coryell County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Copperas Cove, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Coryell County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -27,13 +30,11 @@ Wind-zone note: Copperas Cove, TX exposure class can change starter-strip and ca
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Parapet coping movement in Copperas Cove, TX can channel water behind wall cladding.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-Scope trace: counter-flashing reglet depth plus wind uplift clip spacing referenced in Coryell County county grid review.
 
 Coordinate-anchored dispatch note: center reference 31.1200, -97.9100 at elevation ~1129 ft aligns with Coryell County intake staging.
 

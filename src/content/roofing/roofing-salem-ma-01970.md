@@ -11,11 +11,14 @@ lng: -70.9000
 zipSample: ["01970", "01971"]
 zipCodes: ["01971", "01970"]
 localPaths: ["Essex County / primary ZIP 01970", "Essex County / ZIP 01970 sector", "Essex County / ZIP 01971 sector", "Essex County / coords 42.5100, -70.9000", "Essex County / elevation 49 ft band"]
-zillowHomeValueUsd: 604399
 ---
 
-**Engineering Notice for Salem:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: Essex County.
+**Engineering Notice for Salem:** Storm and emergency leak triage uses 49 ft elevation band with Essex County service-area context for roofing repairs.
 
+
+Qualified roof remediation crews serving Salem, MA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work remediation in Salem, MA, Essex County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -29,13 +32,11 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Wind-zone note: Salem, MA exposure class can change starter-strip and cap nail schedules.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: How long can shingles wait after storm damage? In Salem, MA, delayed dry-in can expand insulation and ceiling repairs.
 
-roof work brief: skylight curb height and pipe boot manufacturer match were cross-checked for the Salem intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 01971/01970.
+Roof restoration brief: skylight curb height and pipe boot manufacturer match were cross-checked for the Salem shingle and leak scope.
 
 On-site sector marker: Essex County / primary ZIP 01970 — logged for map parity and ZIP-corridor verification.
 

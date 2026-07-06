@@ -11,11 +11,14 @@ lng: -84.9400
 zipSample: ["30701", "30703"]
 zipCodes: ["30703", "30701"]
 localPaths: ["Gordon County / ZIP 30701 sector", "Gordon County / elevation 666 ft band", "Gordon County / primary ZIP 30701", "Gordon County / coords 34.4900, -84.9400", "Gordon County / ZIP 30703 sector"]
-zillowHomeValueUsd: 273344
 ---
 
-**Engineering Notice for Calhoun:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Gordon County.
+**Engineering Notice for Calhoun:** Shingle, flashing, and ventilation review recorded at 666 ft AMSL context (Gordon County).
 
+
+Emergency roof restoration in Calhoun, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Gordon County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work service in Calhoun, GA, Gordon County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -29,11 +32,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 TPO seam welds in Calhoun, GA commercial sections need probe tests after freeze events.
-
-roof work brief: ice-barrier lap sequence and starter-strip setback were cross-checked for the Calhoun intake packet.
 
 On-site sector marker: Gordon County / coords 34.4900, -84.9400 — logged for map parity and ZIP-corridor verification.
 

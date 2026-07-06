@@ -11,11 +11,14 @@ lng: -117.6500
 zipSample: ["92693", "92675"]
 zipCodes: ["92693", "92675"]
 localPaths: ["Orange County / primary ZIP 92675", "Orange County / coords 33.5000, -117.6500", "Orange County / elevation 115 ft band", "Orange County / ZIP 92693 sector", "Orange County / ZIP 92675 sector"]
-zillowHomeValueUsd: 1338911
 ---
 
-**Engineering Notice for San Juan Capistrano:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for San Juan Capistrano:** Storm and emergency leak triage uses 115 ft elevation band with Orange County service-area context for roofing repairs.
 
+
+Roof work service in San Juan Capistrano, CA, Orange County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in San Juan Capistrano, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether service or replacement fits the damage pattern.
 
 FAQ: Is partial dry-in possible? In San Juan Capistrano, CA, yes—if slope and anchor points support safe tie-offs.
 
@@ -25,7 +28,7 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Attic ventilation deficits in San Juan Capistrano, CA can mimic roof leaks at ceiling penetrations.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: In San Juan Capistrano, CA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -33,7 +36,7 @@ Wind-zone note: San Juan Capistrano, CA exposure class can change starter-strip 
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Scope trace: ridge cap nail schedule plus starter-strip setback referenced in Orange County county grid review.
+Scope trace: ridge cap nail schedule plus starter-strip setback referenced in Orange County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 92675/92693.
 

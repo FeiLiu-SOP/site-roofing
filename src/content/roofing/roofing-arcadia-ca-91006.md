@@ -11,11 +11,14 @@ lng: -118.0400
 zipSample: ["91077", "91007", "91066", "91006"]
 zipCodes: ["91077", "91066", "91007", "91006"]
 localPaths: ["Los Angeles County / ZIP 91006 sector", "Los Angeles County / primary ZIP 91006", "Los Angeles County / coords 34.1300, -118.0400", "Los Angeles County / ZIP 91007 sector", "Los Angeles County / ZIP 91066 sector"]
-zillowHomeValueUsd: 1404712
 ---
 
-**Engineering Notice for Arcadia:** Structural loading calculated based on 459 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Arcadia:** Storm and emergency leak triage uses 459 ft elevation band with Los Angeles County service-area context for roofing repairs.
 
+
+Qualified roof service crews serving Arcadia, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Arcadia, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -27,7 +30,7 @@ Metal panel oil-canning in Arcadia, CA may signal clip spacing issues, not wind 
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is partial dry-in possible? In Arcadia, CA, yes—if slope and anchor points support safe tie-offs.
 
@@ -35,7 +38,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field routing: ridge cap nail schedule paired with counter-flashing reglet depth near ZIP 91006.
+Local service note: ridge cap nail schedule paired with counter-flashing reglet depth near ZIP 91006 for emergency roof work repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 91077/91066/91007.
 

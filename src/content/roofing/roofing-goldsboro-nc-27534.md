@@ -11,11 +11,14 @@ lng: -77.9700
 zipSample: ["27534", "27532", "27533", "27531", "27530"]
 zipCodes: ["27531", "27533", "27532", "27530", "27534"]
 localPaths: ["Wayne County / ZIP 27532 sector", "Wayne County / ZIP 27533 sector", "Wayne County / coords 35.3800, -77.9700", "Wayne County / ZIP 27531 sector", "Wayne County / primary ZIP 27534"]
-zillowHomeValueUsd: 218733
 ---
 
-**Engineering Notice for Goldsboro:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Goldsboro:** Storm and emergency leak triage uses 121 ft elevation band with Wayne County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Goldsboro, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Wayne County clarifies whether service or replacement fits the damage pattern.
+
+Roof work restoration in Goldsboro, NC, Wayne County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -29,11 +32,11 @@ Granule embedment loss on Goldsboro, NC north slopes can precede mat exposure.
 
 Step: log deck soundings near vents before tear-off is approved.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Regulatory note: Goldsboro, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Scope trace: deck sheathing thickness plus drip-edge metal profile referenced in Wayne County county grid review.
+Scope trace: deck sheathing thickness plus drip-edge metal profile referenced in Wayne County storm and leak review.
 
 On-site sector marker: Wayne County / elevation 121 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -87.8500
 zipSample: ["60513"]
 zipCodes: ["60513"]
 localPaths: ["Cook County / coords 41.8200, -87.8500", "Cook County / ZIP 60513 sector", "Cook County / primary ZIP 60513", "Cook County / elevation 633 ft band"]
-zillowHomeValueUsd: 345451
 ---
 
-**Engineering Notice for Brookfield:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Brookfield:** Storm and emergency leak triage uses 633 ft elevation band with Cook County service-area context for roofing repairs.
 
 
-Step: separate emergency tarp scope from permanent service line items.
+When wind or hail hits Brookfield, IL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service service in Brookfield, IL, Cook County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -33,9 +36,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Material note: In Brookfield, IL, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-Scope trace: soffit intake free area plus skylight curb height referenced in Cook County county grid review.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 ZIP-corridor snapshot for Brookfield, IL: sampled sectors include 60513; county routing grid remains Cook County.
 

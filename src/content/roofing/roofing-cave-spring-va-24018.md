@@ -11,11 +11,14 @@ lng: -80.0100
 zipSample: ["24018"]
 zipCodes: ["24018"]
 localPaths: ["Roanoke County / primary ZIP 24018", "Roanoke County / ZIP 24018 sector", "Roanoke County / elevation 1148 ft band", "Roanoke County / coords 37.2300, -80.0100"]
-zillowHomeValueUsd: 376401
 ---
 
-**Engineering Notice for Cave Spring:** Structural loading calculated based on 1148 ft terrain assessment. Regional dispatch grid: Roanoke County.
+**Engineering Notice for Cave Spring:** Storm and emergency leak triage uses 1148 ft elevation band with Roanoke County service-area context for roofing repairs.
 
+
+Roofing service service in Cave Spring, VA, Roanoke County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof service crews serving Cave Spring, VA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -32,8 +35,6 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 Wind-zone note: Cave Spring, VA exposure class can change starter-strip and cap nail schedules.
 
 Hail bruising on Cave Spring, VA ridges may not breach felt until the next wind event.
-
-roofing service brief: synthetic underlayment slip and chimney cricket slope were cross-checked for the Cave Spring intake packet.
 
 Primary postal anchor 24018 with multi-ZIP overlap in Cave Spring; field packets tag Roanoke County for county-grid reconciliation.
 

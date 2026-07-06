@@ -11,13 +11,16 @@ lng: -81.8700
 zipSample: ["44256"]
 zipCodes: ["44256"]
 localPaths: ["Medina County / coords 41.1400, -81.8700", "Medina County / elevation 1070 ft band", "Medina County / ZIP 44256 sector", "Medina County / primary ZIP 44256"]
-zillowHomeValueUsd: 374767
 ---
 
-**Engineering Notice for Medina:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: Medina County.
+**Engineering Notice for Medina:** Shingle, flashing, and ventilation review recorded at 1070 ft AMSL context (Medina County).
 
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Licensed roof restoration crews serving Medina, OH review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service remediation in Medina, OH, Medina County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Wood shake courses in Medina, OH require skip-spacing rules at valleys.
 
@@ -31,9 +34,9 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Risk flag: In Medina, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Scope trace: starter-strip setback plus drip-edge metal profile referenced in Medina County county grid review.
+Scope trace: starter-strip setback plus drip-edge metal profile referenced in Medina County storm and leak review.
 
 On-site sector marker: Medina County / primary ZIP 44256 — logged for map parity and ZIP-corridor verification.
 

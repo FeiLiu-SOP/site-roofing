@@ -11,13 +11,16 @@ lng: -74.1100
 zipSample: ["07450", "07451"]
 zipCodes: ["07451", "07450"]
 localPaths: ["Bergen County / ZIP 07450 sector", "Bergen County / elevation 102 ft band", "Bergen County / ZIP 07451 sector", "Bergen County / primary ZIP 07450", "Bergen County / coords 40.9800, -74.1100"]
-zillowHomeValueUsd: 1199715
 ---
 
-**Engineering Notice for Ridgewood:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Ridgewood:** Storm and emergency leak triage uses 102 ft elevation band with Bergen County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Roofing service restoration in Ridgewood, NJ, Bergen County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Ridgewood, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bergen County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -35,9 +38,7 @@ We coordinate Ridgewood, NJ roof reviews with photo logs, moisture notes, and re
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field routing: starter-strip setback paired with counter-flashing reglet depth near ZIP 07450.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 07450/07451.
+Local service note: starter-strip setback paired with counter-flashing reglet depth near ZIP 07450 for emergency roofing service repairs.
 
 Coordinate-anchored dispatch note: center reference 40.9800, -74.1100 at elevation ~102 ft aligns with Bergen County intake staging.
 

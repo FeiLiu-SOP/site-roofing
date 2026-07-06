@@ -11,11 +11,14 @@ lng: -119.5600
 zipSample: ["93212"]
 zipCodes: ["93212"]
 localPaths: ["Kings County / coords 36.0800, -119.5600", "Kings County / primary ZIP 93212", "Kings County / ZIP 93212 sector", "Kings County / elevation 203 ft band"]
-zillowHomeValueUsd: 268916
 ---
 
-**Engineering Notice for Corcoran:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Kings County.
+**Engineering Notice for Corcoran:** Storm and emergency leak triage uses 203 ft elevation band with Kings County service-area context for roofing repairs.
 
+
+Roofing service service in Corcoran, CA, Kings County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Corcoran, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Kings County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -31,13 +34,11 @@ Skylight curb flashing in Corcoran, CA should be sequenced before ridge cap repl
 
 Wind-zone note: Corcoran, CA exposure class can change starter-strip and cap nail schedules.
 
-Our Corcoran, CA dispatch packets reference county grid Kings County and elevation band 203 ft.
+Our Corcoran, CA restoration packets reference Kings County and elevation band 203 ft for shingle and leak scope.
 
 FAQ: Is partial dry-in possible? In Corcoran, CA, yes—if slope and anchor points support safe tie-offs.
 
-roofing service brief: ice-barrier lap sequence and drip-edge metal profile were cross-checked for the Corcoran intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 93212.
+Roof service brief: ice-barrier lap sequence and drip-edge metal profile were cross-checked for the Corcoran shingle and leak scope.
 
 On-site sector marker: Kings County / coords 36.0800, -119.5600 — logged for map parity and ZIP-corridor verification.
 

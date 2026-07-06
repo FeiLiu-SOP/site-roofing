@@ -11,13 +11,16 @@ lng: -118.1900
 zipSample: ["90280"]
 zipCodes: ["90280"]
 localPaths: ["Los Angeles County / ZIP 90280 sector", "Los Angeles County / coords 33.9400, -118.1900", "Los Angeles County / primary ZIP 90280", "Los Angeles County / elevation 121 ft band"]
-zillowHomeValueUsd: 700726
 ---
 
-**Engineering Notice for South Gate:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South Gate:** Shingle, flashing, and ventilation review recorded at 121 ft AMSL context (Los Angeles County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Storm damage roof work in South Gate, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether remediation or replacement fits the damage pattern.
+
+Qualified roof service crews serving South Gate, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -29,13 +32,11 @@ Wind-zone note: South Gate, CA exposure class can change starter-strip and cap n
 
 Tile and shingle mixes in South Gate, CA require different fastener patterns at transitions.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-FAQ: When should permanent remediation start? In South Gate, CA, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent service start? In South Gate, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-Field routing: synthetic underlayment slip paired with starter-strip setback near ZIP 90280.
-
-Field note: Valley debris and granule loss noted for ZIP 90280.
+Local service note: synthetic underlayment slip paired with starter-strip setback near ZIP 90280 for emergency roofing service repairs.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~121 ft across the Los Angeles County area. Coordinates: 33.9400, -118.1900. ZIP sample: 90280. Service perimeter note: Coverage extends through Los Angeles County with dispatch centered near ZIP 90280.
 

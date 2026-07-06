@@ -11,11 +11,14 @@ lng: -74.3300
 zipSample: ["07078"]
 zipCodes: ["07078"]
 localPaths: ["Essex County / elevation 413 ft band", "Essex County / ZIP 07078 sector", "Essex County / primary ZIP 07078", "Essex County / coords 40.7400, -74.3300"]
-zillowHomeValueUsd: 2306005
 ---
 
-**Engineering Notice for Short Hills:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Essex County.
+**Engineering Notice for Short Hills:** Storm and emergency leak triage uses 413 ft elevation band with Essex County service-area context for roofing repairs.
 
+
+When wind or hail hits Short Hills, NJ, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Short Hills, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Essex County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -29,11 +32,9 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Tip: Note recent wind events when filing insurance photos for Short Hills, NJ.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Field routing: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 07078.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 07078.
+Local service note: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 07078 for emergency roofing service repairs.
 
 On-site sector marker: Essex County / primary ZIP 07078 — logged for map parity and ZIP-corridor verification.
 

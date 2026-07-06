@@ -11,13 +11,16 @@ lng: -74.9900
 zipSample: ["08081"]
 zipCodes: ["08081"]
 localPaths: ["Camden County / elevation 174 ft band", "Camden County / ZIP 08081 sector", "Camden County / coords 39.7500, -74.9900", "Camden County / primary ZIP 08081"]
-zillowHomeValueUsd: 377895
 ---
 
-**Engineering Notice for Sicklerville:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Camden County.
+**Engineering Notice for Sicklerville:** Storm and emergency leak triage uses 174 ft elevation band with Camden County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+When wind or hail hits Sicklerville, NJ, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Sicklerville, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Camden County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for Sicklerville, NJ attics should be checked against current mechanical exhaust additions.
 
@@ -33,9 +36,7 @@ TPO seam welds in Sicklerville, NJ commercial sections need probe tests after fr
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-roof service brief: chimney cricket slope and synthetic underlayment slip were cross-checked for the Sicklerville intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 08081.
+Roof service brief: chimney cricket slope and synthetic underlayment slip were cross-checked for the Sicklerville shingle and leak scope.
 
 On-site sector marker: Camden County / primary ZIP 08081 — logged for map parity and ZIP-corridor verification.
 

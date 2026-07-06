@@ -11,11 +11,14 @@ lng: -73.4500
 zipSample: ["11762"]
 zipCodes: ["11762"]
 localPaths: ["Nassau County / primary ZIP 11762", "Nassau County / elevation 39 ft band", "Nassau County / ZIP 11762 sector", "Nassau County / coords 40.6800, -73.4500"]
-zillowHomeValueUsd: 792784
 ---
 
-**Engineering Notice for Massapequa Park:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Massapequa Park:** Roof repair scope references 39 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Nassau County.
 
+
+Emergency roof service in Massapequa Park, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Nassau County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work service in Massapequa Park, NY, Nassau County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 We coordinate Massapequa Park, NY roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -33,7 +36,7 @@ Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 11762.
 
 Material note: In Massapequa Park, NY, algae-resistant granules may be specified for north-facing slopes.
 
-roof work brief: pipe boot manufacturer match and ridge cap nail schedule were cross-checked for the Massapequa Park intake packet.
+Roof service brief: pipe boot manufacturer match and ridge cap nail schedule were cross-checked for the Massapequa Park shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 11762.
 

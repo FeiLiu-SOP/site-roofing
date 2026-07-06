@@ -11,15 +11,18 @@ lng: -98.3900
 zipSample: ["68902", "68901"]
 zipCodes: ["68902", "68901"]
 localPaths: ["Adams County / ZIP 68902 sector", "Adams County / elevation 1939 ft band", "Adams County / coords 40.6000, -98.3900", "Adams County / primary ZIP 68901", "Adams County / ZIP 68901 sector"]
-zillowHomeValueUsd: 199911
 ---
 
-**Engineering Notice for Hastings:** Structural loading calculated based on 1939 ft terrain assessment. Regional dispatch grid: Adams County.
+**Engineering Notice for Hastings:** Roof repair scope references 1939 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Adams County.
 
+
+Certified roof service crews serving Hastings, NE review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Hastings, NE often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Adams County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Our Hastings, NE dispatch packets reference county grid Adams County and elevation band 1939 ft.
+Our Hastings, NE service packets reference Adams County and elevation band 1939 ft for shingle and leak scope.
 
 Tile and shingle mixes in Hastings, NE require different fastener patterns at transitions.
 
@@ -33,7 +36,7 @@ Code context: Ventilation ratios for Hastings, NE attics should be checked again
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field routing: valley metal gauge paired with shingle exposure calibration near ZIP 68901.
+Local service note: valley metal gauge paired with shingle exposure calibration near ZIP 68901 for emergency roof service repairs.
 
 Coordinate-anchored dispatch note: center reference 40.6000, -98.3900 at elevation ~1939 ft aligns with Adams County intake staging.
 

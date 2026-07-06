@@ -11,11 +11,14 @@ lng: -120.3200
 zipSample: ["93210"]
 zipCodes: ["93210"]
 localPaths: ["Fresno County / primary ZIP 93210", "Fresno County / elevation 623 ft band", "Fresno County / coords 36.1400, -120.3200", "Fresno County / ZIP 93210 sector"]
-zillowHomeValueUsd: 293593
 ---
 
-**Engineering Notice for Coalinga:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Fresno County.
+**Engineering Notice for Coalinga:** Shingle, flashing, and ventilation review recorded at 623 ft AMSL context (Fresno County).
 
+
+Storm damage roof work in Coalinga, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Fresno County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Coalinga, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Granule embedment loss on Coalinga, CA north slopes can precede mat exposure.
 
@@ -25,13 +28,13 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Regulatory note: Coalinga, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
 Step: stage tear-off debris paths away from landscape drains.
 
-roof work brief: attic baffle spacing and skylight curb height were cross-checked for the Coalinga intake packet.
+Roof restoration brief: attic baffle spacing and skylight curb height were cross-checked for the Coalinga shingle and leak scope.
 
 On-site sector marker: Fresno County / primary ZIP 93210 — logged for map parity and ZIP-corridor verification.
 

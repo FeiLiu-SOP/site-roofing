@@ -11,11 +11,14 @@ lng: -71.1000
 zipSample: ["02790", "02717", "02722", "02724", "02720"]
 zipCodes: ["02722", "02747", "02724", "02721", "02717", "02790", "02723", "02720"]
 localPaths: ["Bristol County / ZIP 02720 sector", "Bristol County / ZIP 02722 sector", "Bristol County / ZIP 02724 sector", "Bristol County / ZIP 02717 sector", "Bristol County / primary ZIP 02724"]
-zillowHomeValueUsd: 431394
 ---
 
-**Engineering Notice for Fall River:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Bristol County.
+**Engineering Notice for Fall River:** Storm and emergency leak triage uses 108 ft elevation band with Bristol County service-area context for roofing repairs.
 
+
+Roof service restoration in Fall River, MA, Bristol County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Fall River, MA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Bristol County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Attic ventilation deficits in Fall River, MA can mimic roof leaks at ceiling penetrations.
 
@@ -23,7 +26,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -31,7 +34,7 @@ Risk flag: In Fall River, MA, interior stains may track from HVAC condensate rat
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field routing: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 02724.
+Local service note: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 02724 for emergency roof work repairs.
 
 **Regional Infrastructure Brief:** Grid anchor set to Bristol County. Reference elevation: 108 ft. Primary coordinates: 41.7100, -71.1000. ZIP sample: 02723, 02717, 02722, 02747, 02724. Logistics priority: Serving residential sectors across Bristol County and north-east ZIP 02724 grid.
 

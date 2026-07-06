@@ -11,11 +11,14 @@ lng: -86.3500
 zipSample: ["46947"]
 zipCodes: ["46947"]
 localPaths: ["Cass County / ZIP 46947 sector", "Cass County / primary ZIP 46947", "Cass County / elevation 614 ft band", "Cass County / coords 40.7500, -86.3500"]
-zillowHomeValueUsd: 154666
 ---
 
-**Engineering Notice for Logansport:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cass County.
+**Engineering Notice for Logansport:** Roof repair scope references 614 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Cass County.
 
+
+Storm damage roof work in Logansport, IN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cass County clarifies whether service or replacement fits the damage pattern.
+
+Qualified roof remediation crews serving Logansport, IN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -29,9 +32,9 @@ Regulatory note: Logansport, IN projects may trigger ice-barrier upgrades when t
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Scope trace: attic baffle spacing plus starter-strip setback referenced in Cass County county grid review.
+Scope trace: attic baffle spacing plus starter-strip setback referenced in Cass County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 46947.
 

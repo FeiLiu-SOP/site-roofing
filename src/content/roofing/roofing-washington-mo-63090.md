@@ -11,15 +11,18 @@ lng: -91.0200
 zipSample: ["63090"]
 zipCodes: ["63090"]
 localPaths: ["Franklin County / ZIP 63090 sector", "Franklin County / elevation 558 ft band", "Franklin County / coords 38.5500, -91.0200", "Franklin County / primary ZIP 63090"]
-zillowHomeValueUsd: 307030
 ---
 
-**Engineering Notice for Washington:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Washington:** Shingle, flashing, and ventilation review recorded at 558 ft AMSL context (Franklin County).
 
+
+Licensed roof restoration crews serving Washington, MO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Washington, MO, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Tile underlayment age in Washington, MO can fail independently of visible tile cracks.
 
@@ -31,7 +34,7 @@ TPO seam welds in Washington, MO commercial sections need probe tests after free
 
 FAQ: Is partial dry-in possible? In Washington, MO, yes—if slope and anchor points support safe tie-offs.
 
-Field routing: shingle exposure calibration paired with wind uplift clip spacing near ZIP 63090.
+Local service note: shingle exposure calibration paired with wind uplift clip spacing near ZIP 63090 for emergency roof service repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 63090.
 

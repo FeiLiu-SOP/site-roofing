@@ -11,11 +11,14 @@ lng: -87.9700
 zipSample: ["60559"]
 zipCodes: ["60559"]
 localPaths: ["DuPage County / primary ZIP 60559", "DuPage County / elevation 768 ft band", "DuPage County / coords 41.7900, -87.9700", "DuPage County / ZIP 60559 sector"]
-zillowHomeValueUsd: 398660
 ---
 
-**Engineering Notice for Westmont:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Westmont:** Shingle, flashing, and ventilation review recorded at 768 ft AMSL context (DuPage County).
 
+
+Storm damage roofing service in Westmont, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in DuPage County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof service remediation in Westmont, IL, DuPage County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: In Westmont, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -33,7 +36,7 @@ FAQ: How long can shingles wait after storm damage? In Westmont, IL, delayed dry
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-roofing service brief: ice-barrier lap sequence and wind uplift clip spacing were cross-checked for the Westmont intake packet.
+Roof service brief: ice-barrier lap sequence and wind uplift clip spacing were cross-checked for the Westmont shingle and leak scope.
 
 On-site sector marker: DuPage County / elevation 768 ft band — logged for map parity and ZIP-corridor verification.
 

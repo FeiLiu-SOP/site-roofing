@@ -11,13 +11,16 @@ lng: -82.0000
 zipSample: ["33914", "33993", "33909", "33915", "33904"]
 zipCodes: ["33914", "33990", "33910", "33915", "33993", "33909", "33904", "33991"]
 localPaths: ["Lee County / ZIP 33993 sector", "Lee County / coords 26.6400, -82.0000", "Lee County / ZIP 33914 sector", "Lee County / ZIP 33915 sector", "Lee County / ZIP 33909 sector"]
-zillowHomeValueUsd: 323685
 ---
 
-**Engineering Notice for Cape Coral:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Cape Coral:** Storm and emergency leak triage uses 16 ft elevation band with Lee County service-area context for roofing repairs.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+When wind or hail hits Cape Coral, FL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service service in Cape Coral, FL, Lee County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -35,9 +38,7 @@ Code context: Ventilation ratios for Cape Coral, FL attics should be checked aga
 
 Regulatory note: Cape Coral, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Scope trace: counter-flashing reglet depth plus chimney cricket slope referenced in Lee County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 33914/33990/33904.
+Scope trace: counter-flashing reglet depth plus chimney cricket slope referenced in Lee County storm and leak review.
 
 On-site sector marker: Lee County / ZIP 33914 sector — logged for map parity and ZIP-corridor verification.
 

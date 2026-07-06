@@ -11,11 +11,14 @@ lng: -122.9100
 zipSample: ["97502"]
 zipCodes: ["97502"]
 localPaths: ["Jackson County / ZIP 97502 sector", "Jackson County / coords 42.3800, -122.9100", "Jackson County / primary ZIP 97502", "Jackson County / elevation 1270 ft band"]
-zillowHomeValueUsd: 420172
 ---
 
-**Engineering Notice for Central Point:** Structural loading calculated based on 1270 ft terrain assessment. Regional dispatch grid: Jackson County.
+**Engineering Notice for Central Point:** Storm and emergency leak triage uses 1270 ft elevation band with Jackson County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Central Point, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Jackson County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof service in Central Point, OR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Jackson County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -23,17 +26,15 @@ Across Central Point, OR, ice-dam seasons often begin with clogged gutters rathe
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Step: separate emergency tarp scope from permanent remediation line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Note recent wind events when filing insurance photos for Central Point, OR.
 
-Field routing: ridge cap nail schedule paired with counter-flashing reglet depth near ZIP 97502.
-
-Field note: Attic moisture pathway scan referenced ZIP 97502.
+Local service note: ridge cap nail schedule paired with counter-flashing reglet depth near ZIP 97502 for emergency roof work repairs.
 
 On-site sector marker: Jackson County / coords 42.3800, -122.9100 — logged for map parity and ZIP-corridor verification.
 

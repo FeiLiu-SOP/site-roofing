@@ -11,11 +11,14 @@ lng: -119.7800
 zipSample: ["89436", "89433"]
 zipCodes: ["89436", "89433"]
 localPaths: ["Washoe County / ZIP 89433 sector", "Washoe County / ZIP 89436 sector", "Washoe County / primary ZIP 89436", "Washoe County / elevation 4908 ft band", "Washoe County / coords 39.6100, -119.7800"]
-zillowHomeValueUsd: 572048
 ---
 
-**Engineering Notice for Sun Valley:** Structural loading calculated based on 4908 ft terrain assessment. Regional dispatch grid: Washoe County.
+**Engineering Notice for Sun Valley:** Shingle, flashing, and ventilation review recorded at 4908 ft AMSL context (Washoe County).
 
+
+Roof service remediation in Sun Valley, NV, Washoe County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Sun Valley, NV, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -27,17 +30,15 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Step: separate emergency tarp scope from permanent remediation line items.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Synthetic underlayment slip in Sun Valley, NV is often tied to deck moisture, not wind alone.
 
-FAQ: When should permanent remediation start? In Sun Valley, NV, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent service start? In Sun Valley, NV, delayed dry-in can expand insulation and ceiling repairs.
 
 Risk flag: Tile underlayment age in Sun Valley, NV can fail independently of visible tile cracks.
 
-roof service brief: soffit intake free area and attic baffle spacing were cross-checked for the Sun Valley intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 89433/89436.
+Roof remediation brief: soffit intake free area and attic baffle spacing were cross-checked for the Sun Valley shingle and leak scope.
 
 Primary postal anchor 89436 with multi-ZIP overlap in Sun Valley; field packets tag Washoe County for county-grid reconciliation.
 

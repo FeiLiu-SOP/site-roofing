@@ -11,13 +11,16 @@ lng: -118.4400
 zipSample: ["91341", "91340"]
 zipCodes: ["91340", "91341"]
 localPaths: ["Los Angeles County / elevation 1109 ft band", "Los Angeles County / primary ZIP 91340", "Los Angeles County / ZIP 91340 sector", "Los Angeles County / coords 34.2900, -118.4400", "Los Angeles County / ZIP 91341 sector"]
-zillowHomeValueUsd: 738868
 ---
 
-**Engineering Notice for San Fernando:** Structural loading calculated based on 1109 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for San Fernando:** Shingle, flashing, and ventilation review recorded at 1109 ft AMSL context (Los Angeles County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Licensed roof service crews serving San Fernando, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work remediation in San Fernando, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -33,7 +36,7 @@ Risk flag: Tile underlayment age in San Fernando, CA can fail independently of v
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-roof work brief: attic baffle spacing and drip-edge metal profile were cross-checked for the San Fernando intake packet.
+Roof remediation brief: attic baffle spacing and drip-edge metal profile were cross-checked for the San Fernando shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 91341/91340.
 

@@ -11,11 +11,14 @@ lng: -117.3900
 zipSample: ["92316", "92377", "92376"]
 zipCodes: ["92376", "92377", "92316"]
 localPaths: ["San Bernardino County / elevation 1342 ft band", "San Bernardino County / ZIP 92377 sector", "San Bernardino County / ZIP 92316 sector", "San Bernardino County / primary ZIP 92316", "San Bernardino County / coords 34.1200, -117.3900"]
-zillowHomeValueUsd: 564836
 ---
 
-**Engineering Notice for Rialto:** Structural loading calculated based on 1342 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Rialto:** Roof repair scope references 1342 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Bernardino County.
 
+
+Qualified roof restoration crews serving Rialto, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Rialto, CA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Tile underlayment age in Rialto, CA can fail independently of visible tile cracks.
 
@@ -35,7 +38,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Tip: Note recent wind events when filing insurance photos for Rialto, CA.
 
-Scope trace: soffit intake free area plus chimney cricket slope referenced in San Bernardino County county grid review.
+Scope trace: soffit intake free area plus chimney cricket slope referenced in San Bernardino County storm and leak review.
 
 ZIP-corridor snapshot for Rialto, CA: sampled sectors include 92376, 92377, 92316; county routing grid remains San Bernardino County.
 

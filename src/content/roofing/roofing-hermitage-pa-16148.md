@@ -11,11 +11,14 @@ lng: -80.4400
 zipSample: ["16148"]
 zipCodes: ["16148"]
 localPaths: ["Mercer County / primary ZIP 16148", "Mercer County / ZIP 16148 sector", "Mercer County / elevation 1109 ft band", "Mercer County / coords 41.2300, -80.4400"]
-zillowHomeValueUsd: 213364
 ---
 
-**Engineering Notice for Hermitage:** Structural loading calculated based on 1109 ft terrain assessment. Regional dispatch grid: Mercer County.
+**Engineering Notice for Hermitage:** Storm and emergency leak triage uses 1109 ft elevation band with Mercer County service-area context for roofing repairs.
 
+
+Roof service service in Hermitage, PA, Mercer County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Hermitage, PA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Mercer County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: In Hermitage, PA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,13 +34,11 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Low-slope sections in Hermitage, PA need positive drainage before membrane repairs are scoped.
 
-Our Hermitage, PA dispatch packets reference county grid Mercer County and elevation band 1109 ft.
+Our Hermitage, PA remediation packets reference Mercer County and elevation band 1109 ft for shingle and leak scope.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Scope trace: valley metal gauge plus pipe boot manufacturer match referenced in Mercer County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 16148.
+Scope trace: valley metal gauge plus pipe boot manufacturer match referenced in Mercer County storm and leak review.
 
 Regional mesh label Mercer County: moisture and logistics baselines are keyed to Hermitage, PA before niche-specific work begins.
 

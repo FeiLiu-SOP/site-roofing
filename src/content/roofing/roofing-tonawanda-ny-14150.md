@@ -11,11 +11,14 @@ lng: -78.8800
 zipSample: ["14151", "14150"]
 zipCodes: ["14150", "14151"]
 localPaths: ["Erie County / coords 43.0100, -78.8800", "Erie County / ZIP 14151 sector", "Erie County / primary ZIP 14150", "Erie County / elevation 577 ft band", "Erie County / ZIP 14150 sector"]
-zillowHomeValueUsd: 251722
 ---
 
-**Engineering Notice for Tonawanda:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Erie County.
+**Engineering Notice for Tonawanda:** Storm and emergency leak triage uses 577 ft elevation band with Erie County service-area context for roofing repairs.
 
+
+Emergency roof restoration in Tonawanda, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Erie County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits Tonawanda, NY, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Wind-zone note: Tonawanda, NY exposure class can change starter-strip and cap nail schedules.
 
@@ -23,7 +26,7 @@ Skylight curb flashing in Tonawanda, NY should be sequenced before ridge cap rep
 
 FAQ: When should permanent restoration start? In Tonawanda, NY, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -32,8 +35,6 @@ Risk flag: Tile underlayment age in Tonawanda, NY can fail independently of visi
 Step: log deck soundings near vents before tear-off is approved.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
-
-Scope trace: shingle exposure calibration plus valley metal gauge referenced in Erie County county grid review.
 
 On-site sector marker: Erie County / primary ZIP 14150 — logged for map parity and ZIP-corridor verification.
 

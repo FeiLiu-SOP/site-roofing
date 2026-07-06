@@ -11,11 +11,14 @@ lng: -76.7000
 zipSample: ["21076", "21077", "21144"]
 zipCodes: ["21077", "21144", "21076"]
 localPaths: ["Anne Arundel County / ZIP 21076 sector", "Anne Arundel County / primary ZIP 21144", "Anne Arundel County / ZIP 21144 sector", "Anne Arundel County / elevation 174 ft band", "Anne Arundel County / ZIP 21077 sector"]
-zillowHomeValueUsd: 520458
 ---
 
-**Engineering Notice for Severn:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Severn:** Storm and emergency leak triage uses 174 ft elevation band with Anne Arundel County service-area context for roofing repairs.
 
+
+Licensed roof restoration crews serving Severn, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Severn, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Anne Arundel County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Regulatory note: Severn, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -33,9 +36,7 @@ Tip: Note recent wind events when filing insurance photos for Severn, MD.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-Scope trace: starter-strip setback plus shingle exposure calibration referenced in Anne Arundel County county grid review.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Regional mesh label Anne Arundel County: moisture and logistics baselines are keyed to Severn, MD before niche-specific work begins.
 

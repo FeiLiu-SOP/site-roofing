@@ -11,15 +11,18 @@ lng: -80.0700
 zipSample: ["16508", "16522", "16511", "16502", "16546"]
 zipCodes: ["16501", "16544", "16534", "16514", "16530", "16546", "16512", "16502", "16511", "16522", "16541", "16550"]
 localPaths: ["Erie County / elevation 709 ft band", "Erie County / ZIP 16546 sector", "Erie County / ZIP 16508 sector", "Erie County / ZIP 16502 sector", "Erie County / primary ZIP 16546"]
-zillowHomeValueUsd: 261974
 ---
 
-**Engineering Notice for Erie:** Structural loading calculated based on 709 ft terrain assessment. Regional dispatch grid: Erie County.
+**Engineering Notice for Erie:** Shingle, flashing, and ventilation review recorded at 709 ft AMSL context (Erie County).
 
+
+Emergency roof remediation in Erie, PA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Erie County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Erie, PA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Erie County clarifies whether service or replacement fits the damage pattern.
 
 Step: log deck soundings near vents before tear-off is approved.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 16546.
 
@@ -32,8 +35,6 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
 Wind-zone note: Erie, PA exposure class can change starter-strip and cap nail schedules.
-
-Field routing: valley metal gauge paired with starter-strip setback near ZIP 16546.
 
 Regional mesh label Erie County: moisture and logistics baselines are keyed to Erie, PA before niche-specific work begins.
 

@@ -11,11 +11,14 @@ lng: -82.7400
 zipSample: ["34692", "34691", "34690"]
 zipCodes: ["34691", "34690", "34692"]
 localPaths: ["Pasco County / ZIP 34692 sector", "Pasco County / ZIP 34690 sector", "Pasco County / coords 28.1900, -82.7400", "Pasco County / elevation 26 ft band", "Pasco County / primary ZIP 34691"]
-zillowHomeValueUsd: 225174
 ---
 
-**Engineering Notice for Holiday:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Pasco County.
+**Engineering Notice for Holiday:** Storm and emergency leak triage uses 26 ft elevation band with Pasco County service-area context for roofing repairs.
 
+
+Certified roof service crews serving Holiday, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Holiday, FL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Is partial dry-in possible? In Holiday, FL, yes—if slope and anchor points support safe tie-offs.
 
@@ -31,11 +34,9 @@ Code context: Ventilation ratios for Holiday, FL attics should be checked agains
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-roof service brief: starter-strip setback and shingle exposure calibration were cross-checked for the Holiday intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 34691/34692/34690.
+Roof restoration brief: starter-strip setback and shingle exposure calibration were cross-checked for the Holiday shingle and leak scope.
 
 On-site sector marker: Pasco County / primary ZIP 34691 — logged for map parity and ZIP-corridor verification.
 

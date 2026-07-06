@@ -11,11 +11,14 @@ lng: -121.1800
 zipSample: ["97756"]
 zipCodes: ["97756"]
 localPaths: ["Deschutes County / coords 44.2600, -121.1800", "Deschutes County / ZIP 97756 sector", "Deschutes County / elevation 3005 ft band", "Deschutes County / primary ZIP 97756"]
-zillowHomeValueUsd: 513457
 ---
 
-**Engineering Notice for Redmond:** Structural loading calculated based on 3005 ft terrain assessment. Regional dispatch grid: Deschutes County.
+**Engineering Notice for Redmond:** Roof repair scope references 3005 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Deschutes County.
 
+
+Certified roof service crews serving Redmond, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Redmond, OR, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Valley metal in Redmond, OR should be reviewed whenever granule loss tracks the water line.
 
@@ -35,9 +38,7 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 FAQ: Is partial dry-in possible? In Redmond, OR, yes—if slope and anchor points support safe tie-offs.
 
-roof service brief: starter-strip setback and deck sheathing thickness were cross-checked for the Redmond intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 97756.
+Roof service brief: starter-strip setback and deck sheathing thickness were cross-checked for the Redmond shingle and leak scope.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Deschutes County. Reference elevation: 3005 ft. Primary coordinates: 44.2600, -121.1800. ZIP sample: 97756. Service perimeter note: Coverage extends through Deschutes County with dispatch centered near ZIP 97756.
 

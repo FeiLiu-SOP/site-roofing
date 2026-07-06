@@ -11,15 +11,18 @@ lng: -85.2300
 zipSample: ["40066", "40065"]
 zipCodes: ["40066", "40065"]
 localPaths: ["Shelby County / ZIP 40066 sector", "Shelby County / coords 38.2100, -85.2300", "Shelby County / primary ZIP 40065", "Shelby County / ZIP 40065 sector", "Shelby County / elevation 758 ft band"]
-zillowHomeValueUsd: 306338
 ---
 
-**Engineering Notice for Shelbyville:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Shelbyville:** Roof repair scope references 758 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Shelby County.
 
+
+When wind or hail hits Shelbyville, KY, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof restoration crews serving Shelbyville, KY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Material note: In Shelbyville, KY, algae-resistant granules may be specified for north-facing slopes.
 
@@ -29,13 +32,11 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Coastal humidity in Shelbyville, KY can slow shingle seal-down after shoulder-season storms.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Scope trace: drip-edge metal profile plus deck sheathing thickness referenced in Shelby County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 40066/40065.
+Scope trace: drip-edge metal profile plus deck sheathing thickness referenced in Shelby County storm and leak review.
 
 On-site sector marker: Shelby County / ZIP 40065 sector — logged for map parity and ZIP-corridor verification.
 

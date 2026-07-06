@@ -11,13 +11,16 @@ lng: -93.5600
 zipSample: ["55331", "55318", "55317"]
 zipCodes: ["55317", "55318", "55331"]
 localPaths: ["Carver County / primary ZIP 55331", "Carver County / coords 44.8500, -93.5600", "Carver County / ZIP 55317 sector", "Carver County / ZIP 55331 sector", "Carver County / elevation 938 ft band"]
-zillowHomeValueUsd: 810187
 ---
 
-**Engineering Notice for Chanhassen:** Structural loading calculated based on 938 ft terrain assessment. Regional dispatch grid: Carver County.
+**Engineering Notice for Chanhassen:** Roof repair scope references 938 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Carver County.
 
 
-FAQ: When should permanent service start? In Chanhassen, MN, delayed dry-in can expand insulation and ceiling repairs.
+Emergency roof service in Chanhassen, MN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Carver County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof remediation crews serving Chanhassen, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+FAQ: When should permanent restoration start? In Chanhassen, MN, delayed dry-in can expand insulation and ceiling repairs.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -29,13 +32,11 @@ Metal panel oil-canning in Chanhassen, MN may signal clip spacing issues, not wi
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 55331.
 
 Material note: In Chanhassen, MN, algae-resistant granules may be specified for north-facing slopes.
-
-roofing service brief: soffit intake free area and chimney cricket slope were cross-checked for the Chanhassen intake packet.
 
 On-site sector marker: Carver County / ZIP 55331 sector — logged for map parity and ZIP-corridor verification.
 

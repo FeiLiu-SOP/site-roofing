@@ -11,11 +11,14 @@ lng: -118.1900
 zipSample: ["90270"]
 zipCodes: ["90270"]
 localPaths: ["Los Angeles County / ZIP 90270 sector", "Los Angeles County / coords 33.9900, -118.1900", "Los Angeles County / primary ZIP 90270", "Los Angeles County / elevation 157 ft band"]
-zillowHomeValueUsd: 652555
 ---
 
-**Engineering Notice for Maywood:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Maywood:** Shingle, flashing, and ventilation review recorded at 157 ft AMSL context (Los Angeles County).
 
+
+Storm damage roof work in Maywood, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether service or replacement fits the damage pattern.
+
+Qualified roof remediation crews serving Maywood, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 In Maywood, CA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -33,11 +36,9 @@ Step: log deck soundings near vents before tear-off is approved.
 
 FAQ: Can you tarp only part of the roof? In Maywood, CA, yes—if slope and anchor points support safe tie-offs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Scope trace: soffit intake free area plus ridge cap nail schedule referenced in Los Angeles County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 90270.
+Scope trace: soffit intake free area plus ridge cap nail schedule referenced in Los Angeles County storm and leak review.
 
 On-site sector marker: Los Angeles County / ZIP 90270 sector — logged for map parity and ZIP-corridor verification.
 

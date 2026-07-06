@@ -11,11 +11,14 @@ lng: -83.1600
 zipSample: ["43026"]
 zipCodes: ["43026"]
 localPaths: ["Franklin County / primary ZIP 43026", "Franklin County / elevation 935 ft band", "Franklin County / coords 40.0400, -83.1600", "Franklin County / ZIP 43026 sector"]
-zillowHomeValueUsd: 379641
 ---
 
-**Engineering Notice for Hilliard:** Structural loading calculated based on 935 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Hilliard:** Storm and emergency leak triage uses 935 ft elevation band with Franklin County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Hilliard, OH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Franklin County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof remediation in Hilliard, OH often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Franklin County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 43026.
 
@@ -27,7 +30,7 @@ Risk flag: Tile underlayment age in Hilliard, OH can fail independently of visib
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Across Hilliard, OH, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -35,7 +38,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Scope trace: deck sheathing thickness plus ridge cap nail schedule referenced in Franklin County county grid review.
+Scope trace: deck sheathing thickness plus ridge cap nail schedule referenced in Franklin County storm and leak review.
 
 Coordinate-anchored dispatch note: center reference 40.0400, -83.1600 at elevation ~935 ft aligns with Franklin County intake staging.
 

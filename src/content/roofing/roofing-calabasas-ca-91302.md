@@ -7,15 +7,18 @@ zipCode: "91302"
 county: "Los Angeles County"
 elevationFt: 1430
 lat: 34.1400
-lng: -118.6700
+lng: -118.6400
 zipSample: ["91302", "91372"]
 zipCodes: ["91302", "91372"]
-localPaths: ["Los Angeles County / coords 34.1400, -118.6700", "Los Angeles County / ZIP 91302 sector", "Los Angeles County / primary ZIP 91302", "Los Angeles County / ZIP 91372 sector", "Los Angeles County / elevation 1430 ft band"]
-zillowHomeValueUsd: 1958300
+localPaths: ["Los Angeles County / coords 34.1400, -118.6400", "Los Angeles County / ZIP 91302 sector", "Los Angeles County / primary ZIP 91302", "Los Angeles County / ZIP 91372 sector", "Los Angeles County / elevation 1430 ft band"]
 ---
 
-**Engineering Notice for Calabasas:** Structural loading calculated based on 1430 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Calabasas:** Roof repair scope references 1430 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
+
+When wind or hail hits Calabasas, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service restoration in Calabasas, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: In Calabasas, CA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -29,11 +32,11 @@ Coastal humidity in Calabasas, CA can slow shingle seal-down after shoulder-seas
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Regulatory note: Calabasas, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-roof service brief: soffit intake free area and starter-strip setback were cross-checked for the Calabasas intake packet.
+Roof service brief: soffit intake free area and starter-strip setback were cross-checked for the Calabasas shingle and leak scope.
 
 Regional mesh label Los Angeles County: moisture and logistics baselines are keyed to Calabasas, CA before niche-specific work begins.
 

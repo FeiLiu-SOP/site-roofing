@@ -11,11 +11,14 @@ lng: -76.5200
 zipSample: ["21234"]
 zipCodes: ["21234"]
 localPaths: ["Baltimore County / elevation 466 ft band", "Baltimore County / coords 39.4100, -76.5200", "Baltimore County / primary ZIP 21234", "Baltimore County / ZIP 21234 sector"]
-zillowHomeValueUsd: 301721
 ---
 
-**Engineering Notice for Carney:** Structural loading calculated based on 466 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Carney:** Shingle, flashing, and ventilation review recorded at 466 ft AMSL context (Baltimore County).
 
+
+Licensed roof service crews serving Carney, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service remediation in Carney, MD, Baltimore County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Granule embedment loss on Carney, MD north slopes can precede mat exposure.
 
@@ -25,15 +28,13 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Step: map ventilation intake and exhaust pairs for Carney, MD attic runs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Tile underlayment age in Carney, MD can fail independently of visible tile cracks.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
-
-Scope trace: deck sheathing thickness plus drip-edge metal profile referenced in Baltimore County county grid review.
 
 On-site sector marker: Baltimore County / coords 39.4100, -76.5200 — logged for map parity and ZIP-corridor verification.
 

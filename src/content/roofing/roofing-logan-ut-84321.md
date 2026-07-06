@@ -11,11 +11,14 @@ lng: -111.8400
 zipSample: ["84321", "84322", "84341"]
 zipCodes: ["84321", "84322", "84341"]
 localPaths: ["Cache County / primary ZIP 84321", "Cache County / elevation 4514 ft band", "Cache County / ZIP 84321 sector", "Cache County / ZIP 84341 sector", "Cache County / coords 41.7400, -111.8400"]
-zillowHomeValueUsd: 421465
 ---
 
-**Engineering Notice for Logan:** Structural loading calculated based on 4514 ft terrain assessment. Regional dispatch grid: Cache County.
+**Engineering Notice for Logan:** Roof repair scope references 4514 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Cache County.
 
+
+Roof service restoration in Logan, UT, Cache County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof restoration crews serving Logan, UT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 We coordinate Logan, UT roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -34,8 +37,6 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 Wood shake courses in Logan, UT require skip-spacing rules at valleys.
 
 Parapet coping movement in Logan, UT can channel water behind wall cladding.
-
-Scope trace: soffit intake free area plus starter-strip setback referenced in Cache County county grid review.
 
 Regional mesh label Cache County: moisture and logistics baselines are keyed to Logan, UT before niche-specific work begins.
 

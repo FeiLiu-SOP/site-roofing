@@ -11,13 +11,16 @@ lng: -84.3700
 zipSample: ["31150", "30327", "30342", "30358", "30350"]
 zipCodes: ["30328", "30358", "30350", "31150", "30342", "31156", "30327"]
 localPaths: ["Fulton County / ZIP 30358 sector", "Fulton County / primary ZIP 30350", "Fulton County / ZIP 30342 sector", "Fulton County / ZIP 30327 sector", "Fulton County / elevation 1024 ft band"]
-zillowHomeValueUsd: 547224
 ---
 
-**Engineering Notice for Sandy Springs:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for Sandy Springs:** Storm and emergency leak triage uses 1024 ft elevation band with Fulton County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Roof service restoration in Sandy Springs, GA, Fulton County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof restoration crews serving Sandy Springs, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Across Sandy Springs, GA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -31,9 +34,7 @@ Risk flag: In Sandy Springs, GA, interior stains may track from HVAC condensate 
 
 Tip: Note recent wind events when filing insurance photos for Sandy Springs, GA.
 
-Field routing: attic baffle spacing paired with counter-flashing reglet depth near ZIP 30350.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 30328/30327/30342.
+Local service note: attic baffle spacing paired with counter-flashing reglet depth near ZIP 30350 for emergency roof service repairs.
 
 On-site sector marker: Fulton County / ZIP 30342 sector — logged for map parity and ZIP-corridor verification.
 

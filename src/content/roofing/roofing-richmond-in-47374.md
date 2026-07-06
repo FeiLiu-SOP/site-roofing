@@ -11,11 +11,14 @@ lng: -84.8900
 zipSample: ["47374", "47375"]
 zipCodes: ["47375", "47374"]
 localPaths: ["Wayne County / ZIP 47375 sector", "Wayne County / elevation 974 ft band", "Wayne County / primary ZIP 47374", "Wayne County / coords 39.8300, -84.8900", "Wayne County / ZIP 47374 sector"]
-zillowHomeValueUsd: 156752
 ---
 
-**Engineering Notice for Richmond:** Structural loading calculated based on 974 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Richmond:** Storm and emergency leak triage uses 974 ft elevation band with Wayne County service-area context for roofing repairs.
 
+
+Storm damage roof service in Richmond, IN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Wayne County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Richmond, IN, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: In Richmond, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -29,13 +32,13 @@ Freeze-thaw cycles around Richmond, IN stress nail pops along eaves and rake edg
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: compare shingle manufacturer wind-zone ratings for Richmond, IN exposure class.
 
 We coordinate Richmond, IN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field routing: shingle exposure calibration paired with deck sheathing thickness near ZIP 47374.
+Local service note: shingle exposure calibration paired with deck sheathing thickness near ZIP 47374 for emergency roof work repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 47374/47375.
 

@@ -11,17 +11,20 @@ lng: -82.3500
 zipSample: ["32611", "32607", "32601", "32605", "32612"]
 zipCodes: ["32627", "32611", "32605", "32601", "32614", "32610", "32603", "32608", "32604", "32609", "32635", "32653"]
 localPaths: ["Alachua County / ZIP 32612 sector", "Alachua County / coords 29.6800, -82.3500", "Alachua County / ZIP 32605 sector", "Alachua County / ZIP 32601 sector", "Alachua County / elevation 180 ft band"]
-zillowHomeValueUsd: 337056
 ---
 
-**Engineering Notice for Gainesville:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Alachua County.
+**Engineering Notice for Gainesville:** Roof repair scope references 180 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Alachua County.
 
+
+Emergency roof service in Gainesville, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Alachua County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits Gainesville, FL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Freeze-thaw cycles around Gainesville, FL stress nail pops along eaves and rake edges.
 
 Step: log deck soundings near vents before tear-off is approved.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -33,7 +36,7 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Wind-zone note: Gainesville, FL exposure class can change starter-strip and cap nail schedules.
 
-Scope trace: shingle exposure calibration plus drip-edge metal profile referenced in Alachua County county grid review.
+Scope trace: shingle exposure calibration plus drip-edge metal profile referenced in Alachua County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 32604/32603/32605.
 

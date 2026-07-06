@@ -11,11 +11,14 @@ lng: -83.1000
 zipSample: ["48030"]
 zipCodes: ["48030"]
 localPaths: ["Oakland County / coords 42.4600, -83.1000", "Oakland County / primary ZIP 48030", "Oakland County / ZIP 48030 sector", "Oakland County / elevation 640 ft band"]
-zillowHomeValueUsd: 155423
 ---
 
-**Engineering Notice for Hazel Park:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Hazel Park:** Storm and emergency leak triage uses 640 ft elevation band with Oakland County service-area context for roofing repairs.
 
+
+Licensed roof restoration crews serving Hazel Park, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service restoration in Hazel Park, MI, Oakland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -35,9 +38,7 @@ FAQ: When should permanent restoration start? In Hazel Park, MI, delayed dry-in 
 
 Attic ventilation deficits in Hazel Park, MI can mimic roof leaks at ceiling penetrations.
 
-Scope trace: drip-edge metal profile plus shingle exposure calibration referenced in Oakland County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 48030.
+Scope trace: drip-edge metal profile plus shingle exposure calibration referenced in Oakland County storm and leak review.
 
 Primary postal anchor 48030 with multi-ZIP overlap in Hazel Park; field packets tag Oakland County for county-grid reconciliation.
 

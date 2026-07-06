@@ -11,13 +11,16 @@ lng: -91.7400
 zipSample: ["72143", "72145", "72149"]
 zipCodes: ["72149", "72145", "72143"]
 localPaths: ["White County / ZIP 72145 sector", "White County / elevation 233 ft band", "White County / primary ZIP 72143", "White County / ZIP 72149 sector", "White County / ZIP 72143 sector"]
-zillowHomeValueUsd: 217386
 ---
 
-**Engineering Notice for Searcy:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: White County.
+**Engineering Notice for Searcy:** Roof repair scope references 233 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in White County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Storm damage roofing service in Searcy, AR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in White County clarifies whether restoration or replacement fits the damage pattern.
+
+Roofing service remediation in Searcy, AR, White County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -32,8 +35,6 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
 Step: map ventilation intake and exhaust pairs for Searcy, AR attic runs.
-
-Field routing: counter-flashing reglet depth paired with chimney cricket slope near ZIP 72143.
 
 Regional mesh label White County: moisture and logistics baselines are keyed to Searcy, AR before niche-specific work begins.
 

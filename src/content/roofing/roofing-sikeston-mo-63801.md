@@ -11,11 +11,14 @@ lng: -89.5900
 zipSample: ["63801"]
 zipCodes: ["63801"]
 localPaths: ["Scott County / primary ZIP 63801", "Scott County / ZIP 63801 sector", "Scott County / coords 36.8900, -89.5900", "Scott County / elevation 348 ft band"]
-zillowHomeValueUsd: 156946
 ---
 
-**Engineering Notice for Sikeston:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Scott County.
+**Engineering Notice for Sikeston:** Shingle, flashing, and ventilation review recorded at 348 ft AMSL context (Scott County).
 
+
+Licensed roof restoration crews serving Sikeston, MO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service service in Sikeston, MO, Scott County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Hail bruising on Sikeston, MO ridges may not breach felt until the next wind event.
 
@@ -31,11 +34,9 @@ Wind-zone note: Sikeston, MO exposure class can change starter-strip and cap nai
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
-
-Field routing: valley metal gauge paired with ridge cap nail schedule near ZIP 63801.
 
 ZIP-corridor snapshot for Sikeston, MO: sampled sectors include 63801; county routing grid remains Scott County.
 

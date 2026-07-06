@@ -11,11 +11,14 @@ lng: -81.9500
 zipSample: ["29860", "29841", "29861"]
 zipCodes: ["29841", "29860", "29861"]
 localPaths: ["Aiken County / ZIP 29860 sector", "Aiken County / elevation 476 ft band", "Aiken County / ZIP 29861 sector", "Aiken County / ZIP 29841 sector", "Aiken County / coords 33.5200, -81.9500"]
-zillowHomeValueUsd: 224593
 ---
 
-**Engineering Notice for North Augusta:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: Aiken County.
+**Engineering Notice for North Augusta:** Roof repair scope references 476 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Aiken County.
 
+
+Storm damage roof service in North Augusta, SC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Aiken County clarifies whether service or replacement fits the damage pattern.
+
+Roof service service in North Augusta, SC, Aiken County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Granule embedment loss on North Augusta, SC north slopes can precede mat exposure.
 
@@ -33,11 +36,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 FAQ: Is partial dry-in possible? In North Augusta, SC, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-roof service brief: starter-strip setback and pipe boot manufacturer match were cross-checked for the North Augusta intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 29841/29861/29860.
+Roof remediation brief: starter-strip setback and pipe boot manufacturer match were cross-checked for the North Augusta shingle and leak scope.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Aiken County and primary ZIP 29841. Terrain reference: 476 ft. Center point: 33.5200, -81.9500. ZIP sample: 29860, 29861, 29841. Logistics priority: Serving residential sectors across Aiken County and north-east ZIP 29841 grid.
 

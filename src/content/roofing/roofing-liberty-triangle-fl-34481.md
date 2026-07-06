@@ -11,17 +11,20 @@ lng: -82.2200
 zipSample: ["34481", "34476"]
 zipCodes: ["34476", "34481"]
 localPaths: ["Marion County / primary ZIP 34481", "Marion County / ZIP 34481 sector", "Marion County / elevation 72 ft band", "Marion County / coords 29.0800, -82.2200", "Marion County / ZIP 34476 sector"]
-zillowHomeValueUsd: 279079
 ---
 
-**Engineering Notice for Liberty Triangle:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Liberty Triangle:** Shingle, flashing, and ventilation review recorded at 72 ft AMSL context (Marion County).
 
+
+Certified roof remediation crews serving Liberty Triangle, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Liberty Triangle, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Marion County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
 Step: map ventilation intake and exhaust pairs for Liberty Triangle, FL attic runs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -32,8 +35,6 @@ Wind-zone note: Liberty Triangle, FL exposure class can change starter-strip and
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
 Risk flag: In Liberty Triangle, FL, interior stains may track from HVAC condensate rather than roof cladding.
-
-roofing service brief: synthetic underlayment slip and chimney cricket slope were cross-checked for the Liberty Triangle intake packet.
 
 On-site sector marker: Marion County / ZIP 34481 sector — logged for map parity and ZIP-corridor verification.
 

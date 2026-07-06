@@ -11,17 +11,20 @@ lng: -76.4900
 zipSample: ["21222", "21224"]
 zipCodes: ["21224", "21222"]
 localPaths: ["Baltimore County / ZIP 21222 sector", "Baltimore County / coords 39.2700, -76.4900", "Baltimore County / ZIP 21224 sector", "Baltimore County / primary ZIP 21222", "Baltimore County / elevation 30 ft band"]
-zillowHomeValueUsd: 226651
 ---
 
-**Engineering Notice for Dundalk:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Dundalk:** Shingle, flashing, and ventilation review recorded at 30 ft AMSL context (Baltimore County).
 
+
+Storm damage roof work in Dundalk, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Baltimore County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Dundalk, MD, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Regulatory note: Dundalk, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -31,9 +34,7 @@ Attic ventilation deficits in Dundalk, MD can mimic roof leaks at ceiling penetr
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Scope trace: shingle exposure calibration plus soffit intake free area referenced in Baltimore County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 21222/21224.
+Scope trace: shingle exposure calibration plus soffit intake free area referenced in Baltimore County storm and leak review.
 
 On-site sector marker: Baltimore County / elevation 30 ft band — logged for map parity and ZIP-corridor verification.
 

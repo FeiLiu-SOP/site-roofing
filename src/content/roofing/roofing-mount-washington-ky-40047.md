@@ -11,11 +11,14 @@ lng: -85.5600
 zipSample: ["40047"]
 zipCodes: ["40047"]
 localPaths: ["Bullitt County / primary ZIP 40047", "Bullitt County / ZIP 40047 sector", "Bullitt County / elevation 666 ft band", "Bullitt County / coords 38.0400, -85.5600"]
-zillowHomeValueUsd: 324521
 ---
 
-**Engineering Notice for Mount Washington:** Structural loading calculated based on 666 ft terrain assessment. Regional dispatch grid: Bullitt County.
+**Engineering Notice for Mount Washington:** Storm and emergency leak triage uses 666 ft elevation band with Bullitt County service-area context for roofing repairs.
 
+
+Emergency roof service in Mount Washington, KY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Bullitt County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Mount Washington, KY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bullitt County clarifies whether remediation or replacement fits the damage pattern.
 
 FAQ: Is partial dry-in possible? In Mount Washington, KY, yes—if slope and anchor points support safe tie-offs.
 
@@ -29,11 +32,9 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
-
-Scope trace: wind uplift clip spacing plus shingle exposure calibration referenced in Bullitt County county grid review.
 
 On-site sector marker: Bullitt County / coords 38.0400, -85.5600 — logged for map parity and ZIP-corridor verification.
 

@@ -11,17 +11,20 @@ lng: -70.1700
 zipSample: ["04241", "04243", "04240"]
 zipCodes: ["04240", "04241", "04243"]
 localPaths: ["Androscoggin County / primary ZIP 04240", "Androscoggin County / ZIP 04243 sector", "Androscoggin County / coords 44.0900, -70.1700", "Androscoggin County / elevation 364 ft band", "Androscoggin County / ZIP 04241 sector"]
-zillowHomeValueUsd: 296135
 ---
 
-**Engineering Notice for Lewiston:** Structural loading calculated based on 364 ft terrain assessment. Regional dispatch grid: Androscoggin County.
+**Engineering Notice for Lewiston:** Roof repair scope references 364 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Androscoggin County.
 
+
+When wind or hail hits Lewiston, ME, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof service in Lewiston, ME often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Androscoggin County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
 Step: log deck soundings near vents before tear-off is approved.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Low-slope sections in Lewiston, ME need positive drainage before membrane repairs are scoped.
 
@@ -31,9 +34,7 @@ Wind-zone note: Lewiston, ME exposure class can change starter-strip and cap nai
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Scope trace: counter-flashing reglet depth plus attic baffle spacing referenced in Androscoggin County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 04243/04240/04241.
+Scope trace: counter-flashing reglet depth plus attic baffle spacing referenced in Androscoggin County storm and leak review.
 
 On-site sector marker: Androscoggin County / ZIP 04243 sector — logged for map parity and ZIP-corridor verification.
 

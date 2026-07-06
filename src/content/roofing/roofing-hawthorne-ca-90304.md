@@ -11,11 +11,14 @@ lng: -118.3500
 zipSample: ["90250", "90310", "90251", "90304"]
 zipCodes: ["90250", "90310", "90251", "90304"]
 localPaths: ["Los Angeles County / primary ZIP 90304", "Los Angeles County / ZIP 90310 sector", "Los Angeles County / ZIP 90251 sector", "Los Angeles County / ZIP 90250 sector", "Los Angeles County / ZIP 90304 sector"]
-zillowHomeValueUsd: 739028
 ---
 
-**Engineering Notice for Hawthorne:** Structural loading calculated based on 79 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Hawthorne:** Roof repair scope references 79 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
+
+Roofing service service in Hawthorne, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Hawthorne, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether service or replacement fits the damage pattern.
 
 Material note: In Hawthorne, CA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -31,9 +34,9 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roofing service brief: ridge cap nail schedule and ice-barrier lap sequence were cross-checked for the Hawthorne intake packet.
+Roof remediation brief: ridge cap nail schedule and ice-barrier lap sequence were cross-checked for the Hawthorne shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 90250/90304/90310.
 

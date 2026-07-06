@@ -11,11 +11,14 @@ lng: -87.9600
 zipSample: ["60061"]
 zipCodes: ["60061"]
 localPaths: ["Lake County / ZIP 60061 sector", "Lake County / coords 42.2300, -87.9600", "Lake County / primary ZIP 60061", "Lake County / elevation 689 ft band"]
-zillowHomeValueUsd: 449137
 ---
 
-**Engineering Notice for Vernon Hills:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Vernon Hills:** Storm and emergency leak triage uses 689 ft elevation band with Lake County service-area context for roofing repairs.
 
+
+Licensed roof restoration crews serving Vernon Hills, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Vernon Hills, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lake County clarifies whether service or replacement fits the damage pattern.
 
 Skylight curb flashing in Vernon Hills, IL should be sequenced before ridge cap replacement.
 
@@ -25,7 +28,7 @@ Material note: In Vernon Hills, IL, algae-resistant granules may be specified fo
 
 Risk flag: Tile underlayment age in Vernon Hills, IL can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -33,7 +36,7 @@ FAQ: How long can shingles wait after storm damage? In Vernon Hills, IL, delayed
 
 Step: log deck soundings near vents before tear-off is approved.
 
-roof work brief: skylight curb height and counter-flashing reglet depth were cross-checked for the Vernon Hills intake packet.
+Roof remediation brief: skylight curb height and counter-flashing reglet depth were cross-checked for the Vernon Hills shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 60061.
 

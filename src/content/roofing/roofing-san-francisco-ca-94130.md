@@ -11,11 +11,14 @@ lng: -122.4400
 zipSample: ["94124", "94123", "94102", "94103", "94114"]
 zipCodes: ["94147", "94141", "94121", "94118", "94125", "94108", "94107", "94119", "94131", "94132", "94161", "94139"]
 localPaths: ["San Francisco County / ZIP 94124 sector", "San Francisco County / elevation 653 ft band", "San Francisco County / ZIP 94102 sector", "San Francisco County / ZIP 94103 sector", "San Francisco County / coords 37.7600, -122.4400"]
-zillowHomeValueUsd: 1130450
 ---
 
-**Engineering Notice for San Francisco:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: San Francisco County.
+**Engineering Notice for San Francisco:** Roof repair scope references 653 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Francisco County.
 
+
+When wind or hail hits San Francisco, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Certified roof restoration crews serving San Francisco, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Note recent wind events when filing insurance photos for San Francisco, CA.
 
@@ -27,7 +30,7 @@ In San Francisco, CA, wind-driven rain can lift shingle tabs before owners notic
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Low-slope sections in San Francisco, CA need positive drainage before membrane repairs are scoped.
 
@@ -35,7 +38,7 @@ Step: map ventilation intake and exhaust pairs for San Francisco, CA attic runs.
 
 FAQ: Can you tarp only part of the roof? In San Francisco, CA, yes—if slope and anchor points support safe tie-offs.
 
-roof service brief: synthetic underlayment slip and pipe boot manufacturer match were cross-checked for the San Francisco intake packet.
+Roof remediation brief: synthetic underlayment slip and pipe boot manufacturer match were cross-checked for the San Francisco shingle and leak scope.
 
 Primary postal anchor 94130 with multi-ZIP overlap in San Francisco; field packets tag San Francisco County for county-grid reconciliation.
 

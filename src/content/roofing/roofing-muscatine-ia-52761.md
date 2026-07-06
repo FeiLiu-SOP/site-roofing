@@ -11,13 +11,16 @@ lng: -91.0700
 zipSample: ["52761"]
 zipCodes: ["52761"]
 localPaths: ["Muscatine County / coords 41.4200, -91.0700", "Muscatine County / primary ZIP 52761", "Muscatine County / elevation 719 ft band", "Muscatine County / ZIP 52761 sector"]
-zillowHomeValueUsd: 183332
 ---
 
-**Engineering Notice for Muscatine:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Muscatine County.
+**Engineering Notice for Muscatine:** Shingle, flashing, and ventilation review recorded at 719 ft AMSL context (Muscatine County).
 
 
-Our Muscatine, IA dispatch packets reference county grid Muscatine County and elevation band 719 ft.
+Storm damage roof service in Muscatine, IA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Muscatine County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Muscatine, IA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Our Muscatine, IA remediation packets reference Muscatine County and elevation band 719 ft for shingle and leak scope.
 
 Risk flag: Tile underlayment age in Muscatine, IA can fail independently of visible tile cracks.
 
@@ -31,7 +34,7 @@ Synthetic underlayment slip in Muscatine, IA is often tied to deck moisture, not
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Scope trace: attic baffle spacing plus valley metal gauge referenced in Muscatine County county grid review.
+Scope trace: attic baffle spacing plus valley metal gauge referenced in Muscatine County storm and leak review.
 
 Regional mesh label Muscatine County: moisture and logistics baselines are keyed to Muscatine, IA before niche-specific work begins.
 

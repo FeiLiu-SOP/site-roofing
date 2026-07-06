@@ -11,13 +11,16 @@ lng: -92.1300
 zipSample: ["72076", "72099", "72078"]
 zipCodes: ["72076", "72078", "72099"]
 localPaths: ["Pulaski County / coords 34.8800, -92.1300", "Pulaski County / elevation 308 ft band", "Pulaski County / ZIP 72076 sector", "Pulaski County / primary ZIP 72099", "Pulaski County / ZIP 72099 sector"]
-zillowHomeValueUsd: 169052
 ---
 
-**Engineering Notice for Jacksonville:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Pulaski County.
+**Engineering Notice for Jacksonville:** Roof repair scope references 308 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Pulaski County.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Emergency roof service in Jacksonville, AR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pulaski County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work service in Jacksonville, AR, Pulaski County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -30,8 +33,6 @@ FAQ: When should permanent service start? In Jacksonville, AR, delayed dry-in ca
 Wood shake courses in Jacksonville, AR require skip-spacing rules at valleys.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
-
-Scope trace: deck sheathing thickness plus drip-edge metal profile referenced in Pulaski County county grid review.
 
 On-site sector marker: Pulaski County / elevation 308 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -73.5500
 zipSample: ["11566"]
 zipCodes: ["11566"]
 localPaths: ["Nassau County / coords 40.6500, -73.5500", "Nassau County / primary ZIP 11566", "Nassau County / elevation 13 ft band", "Nassau County / ZIP 11566 sector"]
-zillowHomeValueUsd: 878715
 ---
 
-**Engineering Notice for Merrick:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Merrick:** Storm and emergency leak triage uses 13 ft elevation band with Nassau County service-area context for roofing repairs.
 
+
+Certified roof service crews serving Merrick, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service restoration in Merrick, NY, Nassau County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Wind-zone note: Merrick, NY exposure class can change starter-strip and cap nail schedules.
 
@@ -29,13 +32,11 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Step: separate emergency tarp scope from permanent service line items.
 
-Our Merrick, NY dispatch packets reference county grid Nassau County and elevation band 13 ft.
+Our Merrick, NY restoration packets reference Nassau County and elevation band 13 ft for shingle and leak scope.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Across Merrick, NY, ice-dam seasons often begin with clogged gutters rather than missing shingles.
-
-roofing service brief: drip-edge metal profile and wind uplift clip spacing were cross-checked for the Merrick intake packet.
 
 ZIP-corridor snapshot for Merrick, NY: sampled sectors include 11566; county routing grid remains Nassau County.
 

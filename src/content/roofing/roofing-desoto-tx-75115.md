@@ -11,17 +11,20 @@ lng: -96.8600
 zipSample: ["75123", "75115"]
 zipCodes: ["75123", "75115"]
 localPaths: ["Dallas County / ZIP 75115 sector", "Dallas County / elevation 633 ft band", "Dallas County / ZIP 75123 sector", "Dallas County / primary ZIP 75115", "Dallas County / coords 32.6000, -96.8600"]
-zillowHomeValueUsd: 326350
 ---
 
-**Engineering Notice for DeSoto:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for DeSoto:** Roof repair scope references 633 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Dallas County.
 
+
+Licensed roof restoration crews serving DeSoto, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits DeSoto, TX, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -31,7 +34,7 @@ Code context: Ventilation ratios for DeSoto, TX attics should be checked against
 
 FAQ: When should permanent restoration start? In DeSoto, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Scope trace: attic baffle spacing plus shingle exposure calibration referenced in Dallas County county grid review.
+Scope trace: attic baffle spacing plus shingle exposure calibration referenced in Dallas County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 75123/75115.
 

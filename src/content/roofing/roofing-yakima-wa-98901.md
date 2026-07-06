@@ -11,15 +11,18 @@ lng: -120.5500
 zipSample: ["98903", "98907", "98901", "98904", "98908"]
 zipCodes: ["98903", "98907", "98902", "98908", "98904", "98901"]
 localPaths: ["Yakima County / ZIP 98901 sector", "Yakima County / elevation 1198 ft band", "Yakima County / ZIP 98907 sector", "Yakima County / ZIP 98908 sector", "Yakima County / ZIP 98904 sector"]
-zillowHomeValueUsd: 333776
 ---
 
-**Engineering Notice for Yakima:** Structural loading calculated based on 1198 ft terrain assessment. Regional dispatch grid: Yakima County.
+**Engineering Notice for Yakima:** Roof repair scope references 1198 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Yakima County.
 
 
-Our Yakima, WA dispatch packets reference county grid Yakima County and elevation band 1198 ft.
+Certified roof service crews serving Yakima, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
-FAQ: When should permanent remediation start? In Yakima, WA, delayed dry-in can expand insulation and ceiling repairs.
+Storm damage roofing service in Yakima, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Yakima County clarifies whether remediation or replacement fits the damage pattern.
+
+Our Yakima, WA remediation packets reference Yakima County and elevation band 1198 ft for shingle and leak scope.
+
+FAQ: When should permanent service start? In Yakima, WA, delayed dry-in can expand insulation and ceiling repairs.
 
 Low-slope sections in Yakima, WA need positive drainage before membrane repairs are scoped.
 
@@ -34,8 +37,6 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
-
-Field routing: soffit intake free area paired with drip-edge metal profile near ZIP 98901.
 
 Coordinate-anchored dispatch note: center reference 46.5900, -120.5500 at elevation ~1198 ft aligns with Yakima County intake staging.
 

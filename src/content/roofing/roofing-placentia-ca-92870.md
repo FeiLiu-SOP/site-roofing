@@ -11,15 +11,18 @@ lng: -117.8600
 zipSample: ["92811", "92871", "92870"]
 zipCodes: ["92870", "92811", "92871"]
 localPaths: ["Orange County / elevation 289 ft band", "Orange County / ZIP 92871 sector", "Orange County / ZIP 92870 sector", "Orange County / ZIP 92811 sector", "Orange County / coords 33.8800, -117.8600"]
-zillowHomeValueUsd: 1115891
 ---
 
-**Engineering Notice for Placentia:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Placentia:** Roof repair scope references 289 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Orange County.
 
+
+Certified roof restoration crews serving Placentia, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Placentia, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether service or replacement fits the damage pattern.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -33,7 +36,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Step: map ventilation intake and exhaust pairs for Placentia, CA attic runs.
 
-Field routing: synthetic underlayment slip paired with valley metal gauge near ZIP 92870.
+Local service note: synthetic underlayment slip paired with valley metal gauge near ZIP 92870 for emergency roof work repairs.
 
 On-site sector marker: Orange County / ZIP 92811 sector — logged for map parity and ZIP-corridor verification.
 

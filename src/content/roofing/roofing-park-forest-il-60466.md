@@ -11,13 +11,16 @@ lng: -87.6900
 zipSample: ["60466"]
 zipCodes: ["60466"]
 localPaths: ["Cook County / elevation 725 ft band", "Cook County / coords 41.4800, -87.6900", "Cook County / primary ZIP 60466", "Cook County / ZIP 60466 sector"]
-zillowHomeValueUsd: 149982
 ---
 
-**Engineering Notice for Park Forest:** Structural loading calculated based on 725 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Park Forest:** Roof repair scope references 725 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Cook County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Roof work restoration in Park Forest, IL, Cook County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Park Forest, IL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: When should permanent restoration start? In Park Forest, IL, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -35,7 +38,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-roof work brief: counter-flashing reglet depth and wind uplift clip spacing were cross-checked for the Park Forest intake packet.
+Roof restoration brief: counter-flashing reglet depth and wind uplift clip spacing were cross-checked for the Park Forest shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 60466.
 

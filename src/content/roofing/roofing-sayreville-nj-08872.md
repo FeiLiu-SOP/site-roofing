@@ -11,13 +11,16 @@ lng: -74.3200
 zipSample: ["08872", "08859", "08871", "08879"]
 zipCodes: ["08859", "08879", "08871", "08872"]
 localPaths: ["Middlesex County / ZIP 08871 sector", "Middlesex County / ZIP 08859 sector", "Middlesex County / elevation 30 ft band", "Middlesex County / ZIP 08879 sector", "Middlesex County / coords 40.4700, -74.3200"]
-zillowHomeValueUsd: 538516
 ---
 
-**Engineering Notice for Sayreville:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Sayreville:** Storm and emergency leak triage uses 30 ft elevation band with Middlesex County service-area context for roofing repairs.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Storm damage roof work in Sayreville, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Middlesex County clarifies whether remediation or replacement fits the damage pattern.
+
+Roofing service remediation in Sayreville, NJ, Middlesex County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tile and shingle mixes in Sayreville, NJ require different fastener patterns at transitions.
 
@@ -31,7 +34,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Code context: Ventilation ratios for Sayreville, NJ attics should be checked against current mechanical exhaust additions.
 
-roof work brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Sayreville intake packet.
+Roof restoration brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Sayreville shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 08871/08859/08879.
 

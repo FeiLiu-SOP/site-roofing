@@ -11,17 +11,20 @@ lng: -76.5100
 zipSample: ["21237", "21206"]
 zipCodes: ["21237", "21206"]
 localPaths: ["Baltimore County / elevation 98 ft band", "Baltimore County / coords 39.3300, -76.5100", "Baltimore County / ZIP 21237 sector", "Baltimore County / primary ZIP 21237", "Baltimore County / ZIP 21206 sector"]
-zillowHomeValueUsd: 316087
 ---
 
-**Engineering Notice for Rosedale:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Rosedale:** Shingle, flashing, and ventilation review recorded at 98 ft AMSL context (Baltimore County).
 
+
+Storm damage roofing service in Rosedale, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Baltimore County clarifies whether remediation or replacement fits the damage pattern.
+
+Qualified roof restoration crews serving Rosedale, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 Synthetic underlayment slip in Rosedale, MD is often tied to deck moisture, not wind alone.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Tile underlayment age in Rosedale, MD can fail independently of visible tile cracks.
 
@@ -31,9 +34,7 @@ FAQ: How long can shingles wait after storm damage? In Rosedale, MD, delayed dry
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-roofing service brief: skylight curb height and ice-barrier lap sequence were cross-checked for the Rosedale intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 21206/21237.
+Roof remediation brief: skylight curb height and ice-barrier lap sequence were cross-checked for the Rosedale shingle and leak scope.
 
 On-site sector marker: Baltimore County / ZIP 21237 sector — logged for map parity and ZIP-corridor verification.
 

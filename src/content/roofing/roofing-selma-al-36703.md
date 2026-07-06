@@ -11,11 +11,14 @@ lng: -87.0300
 zipSample: ["36701", "36703", "36702"]
 zipCodes: ["36703", "36702", "36701"]
 localPaths: ["Dallas County / primary ZIP 36703", "Dallas County / coords 32.4200, -87.0300", "Dallas County / elevation 121 ft band", "Dallas County / ZIP 36703 sector", "Dallas County / ZIP 36701 sector"]
-zillowHomeValueUsd: 62483
 ---
 
-**Engineering Notice for Selma:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Selma:** Storm and emergency leak triage uses 121 ft elevation band with Dallas County service-area context for roofing repairs.
 
+
+Qualified roof restoration crews serving Selma, AL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work remediation in Selma, AL, Dallas County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Code context: Ventilation ratios for Selma, AL attics should be checked against current mechanical exhaust additions.
 
@@ -27,13 +30,11 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Step: stage tear-off debris paths away from landscape drains.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-FAQ: When should permanent restoration start? In Selma, AL, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent service start? In Selma, AL, delayed dry-in can expand insulation and ceiling repairs.
 
-roof work brief: counter-flashing reglet depth and soffit intake free area were cross-checked for the Selma intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 36702/36701/36703.
+Roof restoration brief: counter-flashing reglet depth and soffit intake free area were cross-checked for the Selma shingle and leak scope.
 
 Primary postal anchor 36703 with multi-ZIP overlap in Selma; field packets tag Dallas County for county-grid reconciliation.
 

@@ -11,17 +11,20 @@ lng: -115.2300
 zipSample: ["89118", "89148", "89141", "89119", "89183"]
 zipCodes: ["89139", "89141", "89118", "89183", "89113", "89123", "89119", "89148", "89178"]
 localPaths: ["Clark County / ZIP 89183 sector", "Clark County / ZIP 89118 sector", "Clark County / primary ZIP 89178", "Clark County / ZIP 89119 sector", "Clark County / elevation 2464 ft band"]
-zillowHomeValueUsd: 480988
 ---
 
-**Engineering Notice for Enterprise:** Structural loading calculated based on 2464 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Enterprise:** Shingle, flashing, and ventilation review recorded at 2464 ft AMSL context (Clark County).
 
+
+Qualified roof service crews serving Enterprise, NV review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Enterprise, NV may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Clark County clarifies whether remediation or replacement fits the damage pattern.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Regulatory note: Enterprise, NV projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -33,9 +36,7 @@ Risk flag: Tile underlayment age in Enterprise, NV can fail independently of vis
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Field routing: counter-flashing reglet depth paired with attic baffle spacing near ZIP 89178.
-
-Field note: Attic moisture pathway scan referenced ZIP 89148/89123/89141.
+Local service note: counter-flashing reglet depth paired with attic baffle spacing near ZIP 89178 for emergency roofing service repairs.
 
 On-site sector marker: Clark County / ZIP 89118 sector — logged for map parity and ZIP-corridor verification.
 

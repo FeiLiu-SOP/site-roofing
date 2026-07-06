@@ -11,11 +11,14 @@ lng: -94.6300
 zipSample: ["66211", "66206", "66209", "66224"]
 zipCodes: ["66209", "66224", "66206", "66211"]
 localPaths: ["Johnson County / primary ZIP 66211", "Johnson County / ZIP 66209 sector", "Johnson County / ZIP 66224 sector", "Johnson County / elevation 978 ft band", "Johnson County / ZIP 66211 sector"]
-zillowHomeValueUsd: 790094
 ---
 
-**Engineering Notice for Leawood:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Leawood:** Shingle, flashing, and ventilation review recorded at 978 ft AMSL context (Johnson County).
 
+
+When wind or hail hits Leawood, KS, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof service in Leawood, KS may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Johnson County clarifies whether restoration or replacement fits the damage pattern.
 
 We coordinate Leawood, KS roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -35,7 +38,7 @@ Material note: In Leawood, KS, algae-resistant granules may be specified for nor
 
 Risk flag: In Leawood, KS, interior stains may track from HVAC condensate rather than roof cladding.
 
-roof work brief: pipe boot manufacturer match and deck sheathing thickness were cross-checked for the Leawood intake packet.
+Roof restoration brief: pipe boot manufacturer match and deck sheathing thickness were cross-checked for the Leawood shingle and leak scope.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Johnson County and primary ZIP 66211. Terrain reference: 978 ft. Center point: 38.9100, -94.6300. ZIP sample: 66206, 66211, 66209, 66224. Service perimeter note: Coverage extends through Johnson County with dispatch centered near ZIP 66211.
 

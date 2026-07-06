@@ -11,15 +11,18 @@ lng: -119.0400
 zipSample: ["93389", "93390", "93304", "93314", "93306"]
 zipCodes: ["93306", "93301", "93305", "93387", "93384", "93307", "93313", "93314", "93304", "93383", "93311", "93302"]
 localPaths: ["Kern County / primary ZIP 93306", "Kern County / ZIP 93306 sector", "Kern County / ZIP 93390 sector", "Kern County / ZIP 93389 sector", "Kern County / coords 35.3500, -119.0400"]
-zillowHomeValueUsd: 348758
 ---
 
-**Engineering Notice for Bakersfield:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Kern County.
+**Engineering Notice for Bakersfield:** Shingle, flashing, and ventilation review recorded at 390 ft AMSL context (Kern County).
 
+
+Emergency roof restoration in Bakersfield, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Kern County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service remediation in Bakersfield, CA, Kern County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Coastal humidity in Bakersfield, CA can slow shingle seal-down after shoulder-season storms.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -34,8 +37,6 @@ Regulatory note: Bakersfield, CA projects may trigger ice-barrier upgrades when 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
-
-Scope trace: pipe boot manufacturer match plus skylight curb height referenced in Kern County county grid review.
 
 On-site sector marker: Kern County / primary ZIP 93306 — logged for map parity and ZIP-corridor verification.
 

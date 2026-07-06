@@ -7,17 +7,20 @@ zipCode: "49428"
 county: "Ottawa County"
 elevationFt: 659
 lat: 42.9100
-lng: -85.8300
+lng: -85.8000
 zipSample: ["49429", "49428"]
 zipCodes: ["49429", "49428"]
-localPaths: ["Ottawa County / coords 42.9100, -85.8300", "Ottawa County / elevation 659 ft band", "Ottawa County / ZIP 49429 sector", "Ottawa County / ZIP 49428 sector", "Ottawa County / primary ZIP 49428"]
-zillowHomeValueUsd: 360148
+localPaths: ["Ottawa County / coords 42.9100, -85.8000", "Ottawa County / elevation 659 ft band", "Ottawa County / ZIP 49429 sector", "Ottawa County / ZIP 49428 sector", "Ottawa County / primary ZIP 49428"]
 ---
 
-**Engineering Notice for Jenison:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Ottawa County.
+**Engineering Notice for Jenison:** Shingle, flashing, and ventilation review recorded at 659 ft AMSL context (Ottawa County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Emergency roof remediation in Jenison, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Ottawa County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work remediation in Jenison, MI, Ottawa County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -33,9 +36,7 @@ FAQ: Is partial dry-in possible? In Jenison, MI, yes—if slope and anchor point
 
 Code context: Ventilation ratios for Jenison, MI attics should be checked against current mechanical exhaust additions.
 
-Field routing: soffit intake free area paired with deck sheathing thickness near ZIP 49428.
-
-Field note: Shingle seal-down timing logged near ZIP 49429/49428.
+Local service note: soffit intake free area paired with deck sheathing thickness near ZIP 49428 for emergency roof work repairs.
 
 ZIP-corridor snapshot for Jenison, MI: sampled sectors include 49429, 49428; county routing grid remains Ottawa County.
 

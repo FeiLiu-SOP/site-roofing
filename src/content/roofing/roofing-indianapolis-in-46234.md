@@ -11,15 +11,18 @@ lng: -86.1500
 zipSample: ["46285", "46239", "46201", "46234", "46227"]
 zipCodes: ["46259", "46201", "46283", "46268", "46256", "46235", "46221", "46298", "46219", "46253", "46217", "46278"]
 localPaths: ["Marion County / ZIP 46201 sector", "Marion County / coords 39.7800, -86.1500", "Marion County / ZIP 46227 sector", "Marion County / ZIP 46285 sector", "Marion County / ZIP 46239 sector"]
-zillowHomeValueUsd: 279608
 ---
 
-**Engineering Notice for Indianapolis:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Indianapolis:** Storm and emergency leak triage uses 719 ft elevation band with Marion County service-area context for roofing repairs.
 
+
+Qualified roof restoration crews serving Indianapolis, IN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Indianapolis, IN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Marion County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -32,8 +35,6 @@ Freeze-thaw cycles around Indianapolis, IN stress nail pops along eaves and rake
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Field routing: counter-flashing reglet depth paired with wind uplift clip spacing near ZIP 46234.
 
 Primary postal anchor 46234 with multi-ZIP overlap in Indianapolis; field packets tag Marion County for county-grid reconciliation.
 

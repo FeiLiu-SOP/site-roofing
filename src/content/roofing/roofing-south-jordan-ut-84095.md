@@ -11,11 +11,14 @@ lng: -111.9800
 zipSample: ["84095", "84009", "84096"]
 zipCodes: ["84096", "84095", "84009"]
 localPaths: ["Salt Lake County / ZIP 84096 sector", "Salt Lake County / ZIP 84009 sector", "Salt Lake County / elevation 4672 ft band", "Salt Lake County / coords 40.5600, -111.9800", "Salt Lake County / ZIP 84095 sector"]
-zillowHomeValueUsd: 759227
 ---
 
-**Engineering Notice for South Jordan:** Structural loading calculated based on 4672 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for South Jordan:** Storm and emergency leak triage uses 4672 ft elevation band with Salt Lake County service-area context for roofing repairs.
 
+
+Roofing service remediation in South Jordan, UT, Salt Lake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof service crews serving South Jordan, UT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Note recent wind events when filing insurance photos for South Jordan, UT.
 
@@ -25,13 +28,13 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: In South Jordan, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
 Coastal humidity in South Jordan, UT can slow shingle seal-down after shoulder-season storms.
 
-Scope trace: deck sheathing thickness plus attic baffle spacing referenced in Salt Lake County county grid review.
+Scope trace: deck sheathing thickness plus attic baffle spacing referenced in Salt Lake County storm and leak review.
 
 Primary postal anchor 84095 with multi-ZIP overlap in South Jordan; field packets tag Salt Lake County for county-grid reconciliation.
 

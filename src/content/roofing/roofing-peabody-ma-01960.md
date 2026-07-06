@@ -11,11 +11,14 @@ lng: -70.9700
 zipSample: ["01960", "01961"]
 zipCodes: ["01961", "01960"]
 localPaths: ["Essex County / ZIP 01960 sector", "Essex County / ZIP 01961 sector", "Essex County / coords 42.5300, -70.9700", "Essex County / elevation 184 ft band", "Essex County / primary ZIP 01960"]
-zillowHomeValueUsd: 695258
 ---
 
-**Engineering Notice for Peabody:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Essex County.
+**Engineering Notice for Peabody:** Shingle, flashing, and ventilation review recorded at 184 ft AMSL context (Essex County).
 
+
+Storm damage roof work in Peabody, MA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Essex County clarifies whether service or replacement fits the damage pattern.
+
+Roof service restoration in Peabody, MA, Essex County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -33,9 +36,7 @@ TPO seam welds in Peabody, MA commercial sections need probe tests after freeze 
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 01960.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-roof work brief: starter-strip setback and synthetic underlayment slip were cross-checked for the Peabody intake packet.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 ZIP-corridor snapshot for Peabody, MA: sampled sectors include 01960, 01961; county routing grid remains Essex County.
 

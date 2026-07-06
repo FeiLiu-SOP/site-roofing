@@ -11,11 +11,14 @@ lng: -86.4400
 zipSample: ["42101", "42103", "42104", "42102"]
 zipCodes: ["42102", "42103", "42101", "42104"]
 localPaths: ["Warren County / coords 36.9700, -86.4400", "Warren County / ZIP 42103 sector", "Warren County / ZIP 42104 sector", "Warren County / primary ZIP 42104", "Warren County / ZIP 42102 sector"]
-zillowHomeValueUsd: 325797
 ---
 
-**Engineering Notice for Bowling Green:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Warren County.
+**Engineering Notice for Bowling Green:** Storm and emergency leak triage uses 535 ft elevation band with Warren County service-area context for roofing repairs.
 
+
+Emergency roof restoration in Bowling Green, KY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Warren County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof service crews serving Bowling Green, KY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Tile underlayment age in Bowling Green, KY can fail independently of visible tile cracks.
 
@@ -25,15 +28,13 @@ Regulatory note: Bowling Green, KY projects may trigger ice-barrier upgrades whe
 
 TPO seam welds in Bowling Green, KY commercial sections need probe tests after freeze events.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
 Tip: Note recent wind events when filing insurance photos for Bowling Green, KY.
 
 FAQ: How long can shingles wait after storm damage? In Bowling Green, KY, delayed dry-in can expand insulation and ceiling repairs.
-
-Field routing: drip-edge metal profile paired with attic baffle spacing near ZIP 42104.
 
 Coordinate-anchored dispatch note: center reference 36.9700, -86.4400 at elevation ~535 ft aligns with Warren County intake staging.
 

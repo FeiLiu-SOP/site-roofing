@@ -11,11 +11,14 @@ lng: -91.0400
 zipSample: ["70791", "70819", "70739", "70714", "70818"]
 zipCodes: ["70818", "70739", "70770", "70791", "70819", "70714"]
 localPaths: ["East Baton Rouge Parish / ZIP 70819 sector", "East Baton Rouge Parish / elevation 82 ft band", "East Baton Rouge Parish / primary ZIP 70770", "East Baton Rouge Parish / ZIP 70714 sector", "East Baton Rouge Parish / ZIP 70739 sector"]
-zillowHomeValueUsd: 253885
 ---
 
-**Engineering Notice for Central:** Structural loading calculated based on 82 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.
+**Engineering Notice for Central:** Storm and emergency leak triage uses 82 ft elevation band with East Baton Rouge Parish service-area context for roofing repairs.
 
+
+Roof work remediation in Central, LA, East Baton Rouge Parish combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof restoration crews serving Central, LA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -31,11 +34,11 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 FAQ: Can you tarp only part of the roof? In Central, LA, yes—if slope and anchor points support safe tie-offs.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: How long can shingles wait after storm damage? In Central, LA, delayed dry-in can expand insulation and ceiling repairs.
 
-Scope trace: ice-barrier lap sequence plus skylight curb height referenced in East Baton Rouge Parish county grid review.
+Scope trace: ice-barrier lap sequence plus skylight curb height referenced in East Baton Rouge Parish storm and leak review.
 
 Regional mesh label East Baton Rouge Parish: moisture and logistics baselines are keyed to Central, LA before niche-specific work begins.
 

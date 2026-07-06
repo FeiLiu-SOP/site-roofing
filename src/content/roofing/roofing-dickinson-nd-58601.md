@@ -11,19 +11,22 @@ lng: -102.7900
 zipSample: ["58602", "58601"]
 zipCodes: ["58602", "58601"]
 localPaths: ["Stark County / ZIP 58602 sector", "Stark County / coords 46.8900, -102.7900", "Stark County / elevation 2467 ft band", "Stark County / primary ZIP 58601", "Stark County / ZIP 58601 sector"]
-zillowHomeValueUsd: 319310
 ---
 
-**Engineering Notice for Dickinson:** Structural loading calculated based on 2467 ft terrain assessment. Regional dispatch grid: Stark County.
+**Engineering Notice for Dickinson:** Storm and emergency leak triage uses 2467 ft elevation band with Stark County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Dickinson, ND often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Stark County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Dickinson, ND may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Stark County clarifies whether remediation or replacement fits the damage pattern.
 
 Wind-zone note: Dickinson, ND exposure class can change starter-strip and cap nail schedules.
 
 Risk flag: In Dickinson, ND, interior stains may track from HVAC condensate rather than roof cladding.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: In Dickinson, ND, algae-resistant granules may be specified for north-facing slopes.
 
@@ -34,8 +37,6 @@ Tip: Note recent wind events when filing insurance photos for Dickinson, ND.
 Step: compare shingle manufacturer wind-zone ratings for Dickinson, ND exposure class.
 
 Freeze-thaw cycles around Dickinson, ND stress nail pops along eaves and rake edges.
-
-Field routing: deck sheathing thickness paired with wind uplift clip spacing near ZIP 58601.
 
 On-site sector marker: Stark County / elevation 2467 ft band — logged for map parity and ZIP-corridor verification.
 

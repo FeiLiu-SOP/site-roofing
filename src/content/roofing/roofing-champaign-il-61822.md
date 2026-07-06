@@ -11,11 +11,14 @@ lng: -88.2700
 zipSample: ["61822", "61821", "61826", "61820", "61825"]
 zipCodes: ["61822", "61820", "61825", "61824", "61821", "61826"]
 localPaths: ["Champaign County / elevation 787 ft band", "Champaign County / ZIP 61820 sector", "Champaign County / primary ZIP 61822", "Champaign County / ZIP 61825 sector", "Champaign County / ZIP 61826 sector"]
-zillowHomeValueUsd: 324864
 ---
 
-**Engineering Notice for Champaign:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Champaign County.
+**Engineering Notice for Champaign:** Storm and emergency leak triage uses 787 ft elevation band with Champaign County service-area context for roofing repairs.
 
+
+Storm damage roof service in Champaign, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Champaign County clarifies whether service or replacement fits the damage pattern.
+
+Roof work service in Champaign, IL, Champaign County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Code context: Ventilation ratios for Champaign, IL attics should be checked against current mechanical exhaust additions.
 
@@ -31,9 +34,7 @@ Risk flag: In Champaign, IL, interior stains may track from HVAC condensate rath
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field routing: ice-barrier lap sequence paired with counter-flashing reglet depth near ZIP 61822.
-
-Field note: Attic moisture pathway scan referenced ZIP 61822/61825/61824.
+Local service note: ice-barrier lap sequence paired with counter-flashing reglet depth near ZIP 61822 for emergency roofing service repairs.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Champaign County and primary ZIP 61822. Terrain reference: 787 ft. Center point: 40.1100, -88.2700. ZIP sample: 61820, 61822, 61825, 61824, 61826. Service perimeter note: Coverage extends through Champaign County with dispatch centered near ZIP 61822.
 

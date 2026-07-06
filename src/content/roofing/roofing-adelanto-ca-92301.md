@@ -11,11 +11,14 @@ lng: -117.4400
 zipSample: ["92301"]
 zipCodes: ["92301"]
 localPaths: ["San Bernardino County / ZIP 92301 sector", "San Bernardino County / elevation 2877 ft band", "San Bernardino County / coords 34.5800, -117.4400", "San Bernardino County / primary ZIP 92301"]
-zillowHomeValueUsd: 397510
 ---
 
-**Engineering Notice for Adelanto:** Structural loading calculated based on 2877 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Adelanto:** Shingle, flashing, and ventilation review recorded at 2877 ft AMSL context (San Bernardino County).
 
+
+Emergency roof service in Adelanto, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in San Bernardino County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof service crews serving Adelanto, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -29,13 +32,11 @@ Risk flag: Tile underlayment age in Adelanto, CA can fail independently of visib
 
 Material note: In Adelanto, CA, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: log deck soundings near vents before tear-off is approved.
 
-roof work brief: wind uplift clip spacing and deck sheathing thickness were cross-checked for the Adelanto intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 92301.
+Roof remediation brief: wind uplift clip spacing and deck sheathing thickness were cross-checked for the Adelanto shingle and leak scope.
 
 On-site sector marker: San Bernardino County / primary ZIP 92301 — logged for map parity and ZIP-corridor verification.
 

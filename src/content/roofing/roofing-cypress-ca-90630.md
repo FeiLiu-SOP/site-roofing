@@ -11,11 +11,14 @@ lng: -118.0400
 zipSample: ["90630"]
 zipCodes: ["90630"]
 localPaths: ["Orange County / coords 33.8200, -118.0400", "Orange County / elevation 52 ft band", "Orange County / ZIP 90630 sector", "Orange County / primary ZIP 90630"]
-zillowHomeValueUsd: 1086097
 ---
 
-**Engineering Notice for Cypress:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Cypress:** Shingle, flashing, and ventilation review recorded at 52 ft AMSL context (Orange County).
 
+
+Storm damage roof service in Cypress, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof restoration in Cypress, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Orange County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: map ventilation intake and exhaust pairs for Cypress, CA attic runs.
 
@@ -27,13 +30,11 @@ FAQ: How long can shingles wait after storm damage? In Cypress, CA, delayed dry-
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Our Cypress, CA dispatch packets reference county grid Orange County and elevation band 52 ft.
+Our Cypress, CA restoration packets reference Orange County and elevation band 52 ft for shingle and leak scope.
 
 Risk flag: In Cypress, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field routing: ice-barrier lap sequence paired with attic baffle spacing near ZIP 90630.
-
-Field note: Attic moisture pathway scan referenced ZIP 90630.
+Local service note: ice-barrier lap sequence paired with attic baffle spacing near ZIP 90630 for emergency roof service repairs.
 
 ZIP-corridor snapshot for Cypress, CA: sampled sectors include 90630; county routing grid remains Orange County.
 

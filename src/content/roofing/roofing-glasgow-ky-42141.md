@@ -11,13 +11,16 @@ lng: -85.9300
 zipSample: ["42142", "42141"]
 zipCodes: ["42141", "42142"]
 localPaths: ["Barren County / elevation 774 ft band", "Barren County / ZIP 42142 sector", "Barren County / coords 37.0000, -85.9300", "Barren County / primary ZIP 42141", "Barren County / ZIP 42141 sector"]
-zillowHomeValueUsd: 214479
 ---
 
-**Engineering Notice for Glasgow:** Structural loading calculated based on 774 ft terrain assessment. Regional dispatch grid: Barren County.
+**Engineering Notice for Glasgow:** Shingle, flashing, and ventilation review recorded at 774 ft AMSL context (Barren County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+When wind or hail hits Glasgow, KY, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work remediation in Glasgow, KY, Barren County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -31,9 +34,9 @@ Step: separate emergency tarp scope from permanent service line items.
 
 Wind-zone note: Glasgow, KY exposure class can change starter-strip and cap nail schedules.
 
-FAQ: When should permanent remediation start? In Glasgow, KY, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent service start? In Glasgow, KY, delayed dry-in can expand insulation and ceiling repairs.
 
-roof work brief: counter-flashing reglet depth and wind uplift clip spacing were cross-checked for the Glasgow intake packet.
+Roof remediation brief: counter-flashing reglet depth and wind uplift clip spacing were cross-checked for the Glasgow shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 42141/42142.
 

@@ -11,27 +11,30 @@ lng: -92.6400
 zipSample: ["71270", "71272"]
 zipCodes: ["71270", "71272"]
 localPaths: ["Lincoln Parish / ZIP 71272 sector", "Lincoln Parish / elevation 331 ft band", "Lincoln Parish / ZIP 71270 sector", "Lincoln Parish / coords 32.5300, -92.6400", "Lincoln Parish / primary ZIP 71272"]
-zillowHomeValueUsd: 225092
 ---
 
-**Engineering Notice for Ruston:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: Lincoln Parish.
+**Engineering Notice for Ruston:** Roof repair scope references 331 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Lincoln Parish.
 
+
+Qualified roof remediation crews serving Ruston, LA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service restoration in Ruston, LA, Lincoln Parish combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 Regulatory note: Ruston, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: When should permanent remediation start? In Ruston, LA, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Ruston, LA, delayed dry-in can expand insulation and ceiling repairs.
 
 Metal panel oil-canning in Ruston, LA may signal clip spacing issues, not wind damage alone.
 
 Risk flag: Tile underlayment age in Ruston, LA can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-roofing service brief: skylight curb height and starter-strip setback were cross-checked for the Ruston intake packet.
+Roof restoration brief: skylight curb height and starter-strip setback were cross-checked for the Ruston shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 71272/71270.
 

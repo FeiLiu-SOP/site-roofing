@@ -11,11 +11,14 @@ lng: -84.2200
 zipSample: ["31709", "31719"]
 zipCodes: ["31719", "31709"]
 localPaths: ["Sumter County / coords 32.0700, -84.2200", "Sumter County / primary ZIP 31709", "Sumter County / elevation 433 ft band", "Sumter County / ZIP 31719 sector", "Sumter County / ZIP 31709 sector"]
-zillowHomeValueUsd: 141926
 ---
 
-**Engineering Notice for Americus:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Sumter County.
+**Engineering Notice for Americus:** Storm and emergency leak triage uses 433 ft elevation band with Sumter County service-area context for roofing repairs.
 
+
+Storm damage roof work in Americus, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Sumter County clarifies whether service or replacement fits the damage pattern.
+
+Certified roof restoration crews serving Americus, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Regulatory note: Americus, GA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -31,11 +34,11 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Tile and shingle mixes in Americus, GA require different fastener patterns at transitions.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-roof work brief: starter-strip setback and ice-barrier lap sequence were cross-checked for the Americus intake packet.
+Roof service brief: starter-strip setback and ice-barrier lap sequence were cross-checked for the Americus shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 31709/31719.
 

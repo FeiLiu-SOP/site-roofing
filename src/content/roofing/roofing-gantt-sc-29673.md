@@ -11,17 +11,20 @@ lng: -82.4000
 zipSample: ["29605", "29673"]
 zipCodes: ["29673", "29605"]
 localPaths: ["Greenville County / primary ZIP 29673", "Greenville County / coords 34.7800, -82.4000", "Greenville County / elevation 961 ft band", "Greenville County / ZIP 29673 sector", "Greenville County / ZIP 29605 sector"]
-zillowHomeValueUsd: 302685
 ---
 
-**Engineering Notice for Gantt:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Greenville County.
+**Engineering Notice for Gantt:** Shingle, flashing, and ventilation review recorded at 961 ft AMSL context (Greenville County).
 
+
+Roof work service in Gantt, SC, Greenville County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Gantt, SC often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Greenville County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -35,7 +38,7 @@ Risk flag: Tile underlayment age in Gantt, SC can fail independently of visible 
 
 TPO seam welds in Gantt, SC commercial sections need probe tests after freeze events.
 
-roof work brief: ridge cap nail schedule and soffit intake free area were cross-checked for the Gantt intake packet.
+Roof remediation brief: ridge cap nail schedule and soffit intake free area were cross-checked for the Gantt shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 29673/29605.
 

@@ -11,11 +11,14 @@ lng: -83.8300
 zipSample: ["30504", "30507", "30501"]
 zipCodes: ["30504", "30501", "30507"]
 localPaths: ["Hall County / primary ZIP 30501", "Hall County / coords 34.2900, -83.8300", "Hall County / ZIP 30501 sector", "Hall County / ZIP 30504 sector", "Hall County / ZIP 30507 sector"]
-zillowHomeValueUsd: 315252
 ---
 
-**Engineering Notice for Gainesville:** Structural loading calculated based on 1220 ft terrain assessment. Regional dispatch grid: Hall County.
+**Engineering Notice for Gainesville:** Shingle, flashing, and ventilation review recorded at 1220 ft AMSL context (Hall County).
 
+
+Storm damage roofing service in Gainesville, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hall County clarifies whether service or replacement fits the damage pattern.
+
+Roof service remediation in Gainesville, GA, Hall County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -27,7 +30,7 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 30501.
 
-Our Gainesville, GA dispatch packets reference county grid Hall County and elevation band 1220 ft.
+Our Gainesville, GA restoration packets reference Hall County and elevation band 1220 ft for shingle and leak scope.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -35,9 +38,7 @@ In Gainesville, GA, wind-driven rain can lift shingle tabs before owners notice 
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field routing: attic baffle spacing paired with shingle exposure calibration near ZIP 30501.
-
-Field note: Attic moisture pathway scan referenced ZIP 30501/30504/30507.
+Local service note: attic baffle spacing paired with shingle exposure calibration near ZIP 30501 for emergency roof work repairs.
 
 On-site sector marker: Hall County / elevation 1220 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -105.2500
 zipSample: ["80304", "80305", "80301", "80310", "80307"]
 zipCodes: ["80304", "80301", "80309", "80303", "80302", "80305", "80310", "80307", "80314"]
 localPaths: ["Boulder County / ZIP 80310 sector", "Boulder County / ZIP 80307 sector", "Boulder County / primary ZIP 80310", "Boulder County / ZIP 80305 sector", "Boulder County / elevation 5292 ft band"]
-zillowHomeValueUsd: 1119434
 ---
 
-**Engineering Notice for Boulder:** Structural loading calculated based on 5292 ft terrain assessment. Regional dispatch grid: Boulder County.
+**Engineering Notice for Boulder:** Storm and emergency leak triage uses 5292 ft elevation band with Boulder County service-area context for roofing repairs.
 
 
-Our Boulder, CO dispatch packets reference county grid Boulder County and elevation band 5292 ft.
+Emergency roof remediation in Boulder, CO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Boulder County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Boulder, CO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Boulder County clarifies whether remediation or replacement fits the damage pattern.
+
+Our Boulder, CO service packets reference Boulder County and elevation band 5292 ft for shingle and leak scope.
 
 Wood shake courses in Boulder, CO require skip-spacing rules at valleys.
 
@@ -31,9 +34,7 @@ Step: log deck soundings near vents before tear-off is approved.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-roof service brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Boulder intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 80309/80302/80307.
+Roof restoration brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Boulder shingle and leak scope.
 
 On-site sector marker: Boulder County / primary ZIP 80310 — logged for map parity and ZIP-corridor verification.
 

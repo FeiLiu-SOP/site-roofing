@@ -11,11 +11,14 @@ lng: -84.2900
 zipSample: ["30033", "30030"]
 zipCodes: ["30030", "30033"]
 localPaths: ["DeKalb County / coords 33.8100, -84.2900", "DeKalb County / ZIP 30033 sector", "DeKalb County / elevation 955 ft band", "DeKalb County / primary ZIP 30030", "DeKalb County / ZIP 30030 sector"]
-zillowHomeValueUsd: 639054
 ---
 
-**Engineering Notice for North Decatur:** Structural loading calculated based on 955 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for North Decatur:** Shingle, flashing, and ventilation review recorded at 955 ft AMSL context (DeKalb County).
 
+
+Roofing service remediation in North Decatur, GA, DeKalb County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in North Decatur, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in DeKalb County clarifies whether remediation or replacement fits the damage pattern.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -32,8 +35,6 @@ Regulatory note: North Decatur, GA projects may trigger ice-barrier upgrades whe
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
-
-Field routing: chimney cricket slope paired with synthetic underlayment slip near ZIP 30030.
 
 Regional mesh label DeKalb County: moisture and logistics baselines are keyed to North Decatur, GA before niche-specific work begins.
 

@@ -11,11 +11,14 @@ lng: -112.0100
 zipSample: ["84131", "84170", "84119", "84125", "84130"]
 zipCodes: ["84127", "84170", "84130", "84131", "84118", "84119", "84120", "84128", "84125", "84126"]
 localPaths: ["Salt Lake County / ZIP 84119 sector", "Salt Lake County / elevation 4364 ft band", "Salt Lake County / ZIP 84131 sector", "Salt Lake County / ZIP 84130 sector", "Salt Lake County / ZIP 84125 sector"]
-zillowHomeValueUsd: 437634
 ---
 
-**Engineering Notice for West Valley City:** Structural loading calculated based on 4364 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for West Valley City:** Roof repair scope references 4364 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Salt Lake County.
 
+
+Storm damage roof work in West Valley City, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Salt Lake County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits West Valley City, UT, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Low-slope sections in West Valley City, UT need positive drainage before membrane repairs are scoped.
 
@@ -27,11 +30,9 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Risk flag: Tile underlayment age in West Valley City, UT can fail independently of visible tile cracks.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
-
-roof work brief: chimney cricket slope and drip-edge metal profile were cross-checked for the West Valley City intake packet.
 
 Regional mesh label Salt Lake County: moisture and logistics baselines are keyed to West Valley City, UT before niche-specific work begins.
 

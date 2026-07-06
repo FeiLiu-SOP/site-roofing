@@ -11,17 +11,20 @@ lng: -90.1300
 zipSample: ["62040", "62048"]
 zipCodes: ["62040", "62048"]
 localPaths: ["Madison County / coords 38.7300, -90.1300", "Madison County / ZIP 62048 sector", "Madison County / ZIP 62040 sector", "Madison County / elevation 430 ft band", "Madison County / primary ZIP 62048"]
-zillowHomeValueUsd: 74958
 ---
 
-**Engineering Notice for Granite City:** Structural loading calculated based on 430 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Granite City:** Roof repair scope references 430 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Madison County.
 
+
+Storm damage roof work in Granite City, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Madison County clarifies whether restoration or replacement fits the damage pattern.
+
+Qualified roof remediation crews serving Granite City, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 Step: map ventilation intake and exhaust pairs for Granite City, IL attic runs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Wind-zone note: Granite City, IL exposure class can change starter-strip and cap nail schedules.
 
@@ -33,7 +36,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Tip: Note recent wind events when filing insurance photos for Granite City, IL.
 
-roof work brief: valley metal gauge and attic baffle spacing were cross-checked for the Granite City intake packet.
+Roof service brief: valley metal gauge and attic baffle spacing were cross-checked for the Granite City shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 62040/62048.
 

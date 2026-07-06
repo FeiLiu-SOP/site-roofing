@@ -11,11 +11,14 @@ lng: -105.0600
 zipSample: ["80003", "80234", "80036", "80031", "80005"]
 zipCodes: ["80020", "80021", "80234", "80030", "80031", "80003", "80005", "80035", "80036"]
 localPaths: ["Adams County / ZIP 80036 sector", "Adams County / elevation 5325 ft band", "Adams County / ZIP 80005 sector", "Adams County / primary ZIP 80030", "Adams County / coords 39.8800, -105.0600"]
-zillowHomeValueUsd: 441662
 ---
 
-**Engineering Notice for Westminster:** Structural loading calculated based on 5325 ft terrain assessment. Regional dispatch grid: Adams County.
+**Engineering Notice for Westminster:** Storm and emergency leak triage uses 5325 ft elevation band with Adams County service-area context for roofing repairs.
 
+
+Roof service service in Westminster, CO, Adams County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Westminster, CO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Adams County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: Tile underlayment age in Westminster, CO can fail independently of visible tile cracks.
 
@@ -23,7 +26,7 @@ Step: map ventilation intake and exhaust pairs for Westminster, CO attic runs.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -35,9 +38,7 @@ Code context: Ventilation ratios for Westminster, CO attics should be checked ag
 
 Parapet coping movement in Westminster, CO can channel water behind wall cladding.
 
-Field routing: chimney cricket slope paired with wind uplift clip spacing near ZIP 80030.
-
-Field note: Attic moisture pathway scan referenced ZIP 80030/80036/80005.
+Local service note: chimney cricket slope paired with wind uplift clip spacing near ZIP 80030 for emergency roof work repairs.
 
 On-site sector marker: Adams County / ZIP 80030 sector — logged for map parity and ZIP-corridor verification.
 

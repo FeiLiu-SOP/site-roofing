@@ -11,11 +11,14 @@ lng: -76.1400
 zipSample: ["13218", "13202", "13244", "13217", "13206"]
 zipCodes: ["13252", "13218", "13217", "13208", "13204", "13244", "13201", "13221", "13261", "13203", "13290", "13235"]
 localPaths: ["Onondaga County / ZIP 13218 sector", "Onondaga County / ZIP 13217 sector", "Onondaga County / ZIP 13244 sector", "Onondaga County / ZIP 13206 sector", "Onondaga County / coords 43.0400, -76.1400"]
-zillowHomeValueUsd: 254868
 ---
 
-**Engineering Notice for Syracuse:** Structural loading calculated based on 410 ft terrain assessment. Regional dispatch grid: Onondaga County.
+**Engineering Notice for Syracuse:** Shingle, flashing, and ventilation review recorded at 410 ft AMSL context (Onondaga County).
 
+
+Roofing service remediation in Syracuse, NY, Onondaga County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Syracuse, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Onondaga County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -31,9 +34,7 @@ Synthetic underlayment slip in Syracuse, NY is often tied to deck moisture, not 
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 13210.
 
-Field routing: soffit intake free area paired with chimney cricket slope near ZIP 13210.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 13261/13218/13217.
+Local service note: soffit intake free area paired with chimney cricket slope near ZIP 13210 for emergency roof service repairs.
 
 On-site sector marker: Onondaga County / elevation 410 ft band — logged for map parity and ZIP-corridor verification.
 

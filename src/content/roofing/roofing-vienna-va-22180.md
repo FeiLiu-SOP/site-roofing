@@ -11,11 +11,14 @@ lng: -77.2600
 zipSample: ["22185", "22180", "22183"]
 zipCodes: ["22185", "22180", "22183"]
 localPaths: ["Fairfax County / ZIP 22183 sector", "Fairfax County / elevation 390 ft band", "Fairfax County / ZIP 22180 sector", "Fairfax County / ZIP 22185 sector", "Fairfax County / primary ZIP 22180"]
-zillowHomeValueUsd: 1072235
 ---
 
-**Engineering Notice for Vienna:** Structural loading calculated based on 390 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Vienna:** Roof repair scope references 390 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Fairfax County.
 
+
+Licensed roof service crews serving Vienna, VA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service restoration in Vienna, VA, Fairfax County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -23,7 +26,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Skylight curb flashing in Vienna, VA should be sequenced before ridge cap replacement.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -35,9 +38,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Risk flag: In Vienna, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Scope trace: counter-flashing reglet depth plus valley metal gauge referenced in Fairfax County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 22185/22183/22180.
+Scope trace: counter-flashing reglet depth plus valley metal gauge referenced in Fairfax County storm and leak review.
 
 Coordinate-anchored dispatch note: center reference 38.9000, -77.2600 at elevation ~390 ft aligns with Fairfax County intake staging.
 

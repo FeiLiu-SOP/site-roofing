@@ -11,13 +11,16 @@ lng: -97.2700
 zipSample: ["76117", "76148", "76137"]
 zipCodes: ["76117", "76148", "76137"]
 localPaths: ["Tarrant County / ZIP 76137 sector", "Tarrant County / ZIP 76117 sector", "Tarrant County / ZIP 76148 sector", "Tarrant County / elevation 610 ft band", "Tarrant County / primary ZIP 76137"]
-zillowHomeValueUsd: 319972
 ---
 
-**Engineering Notice for Haltom City:** Structural loading calculated based on 610 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Haltom City:** Storm and emergency leak triage uses 610 ft elevation band with Tarrant County service-area context for roofing repairs.
 
 
-Our Haltom City, TX dispatch packets reference county grid Tarrant County and elevation band 610 ft.
+Licensed roof service crews serving Haltom City, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service service in Haltom City, TX, Tarrant County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Our Haltom City, TX service packets reference Tarrant County and elevation band 610 ft for shingle and leak scope.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -31,7 +34,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Scope trace: synthetic underlayment slip plus wind uplift clip spacing referenced in Tarrant County county grid review.
+Scope trace: synthetic underlayment slip plus wind uplift clip spacing referenced in Tarrant County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 76148/76117/76137.
 

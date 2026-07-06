@@ -11,11 +11,14 @@ lng: -93.8000
 zipSample: ["71130", "71108", "71151", "71161", "71109"]
 zipCodes: ["71108", "71161", "71153", "71165", "71120", "71109", "71152", "71105", "71106", "71101", "71151", "71148"]
 localPaths: ["Caddo Parish / primary ZIP 71129", "Caddo Parish / ZIP 71130 sector", "Caddo Parish / ZIP 71108 sector", "Caddo Parish / ZIP 71109 sector", "Caddo Parish / ZIP 71161 sector"]
-zillowHomeValueUsd: 198042
 ---
 
-**Engineering Notice for Shreveport:** Structural loading calculated based on 243 ft terrain assessment. Regional dispatch grid: Caddo Parish.
+**Engineering Notice for Shreveport:** Storm and emergency leak triage uses 243 ft elevation band with Caddo Parish service-area context for roofing repairs.
 
+
+Certified roof service crews serving Shreveport, LA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service remediation in Shreveport, LA, Caddo Parish combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Parapet coping movement in Shreveport, LA can channel water behind wall cladding.
 
@@ -29,9 +32,9 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Regulatory note: Shreveport, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field routing: chimney cricket slope paired with ice-barrier lap sequence near ZIP 71129.
+Local service note: chimney cricket slope paired with ice-barrier lap sequence near ZIP 71129 for emergency roofing service repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 71104/71165/71102.
 

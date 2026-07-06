@@ -11,15 +11,18 @@ lng: -87.2700
 zipSample: ["46410", "46342"]
 zipCodes: ["46410", "46342"]
 localPaths: ["Lake County / elevation 636 ft band", "Lake County / ZIP 46342 sector", "Lake County / ZIP 46410 sector", "Lake County / primary ZIP 46342", "Lake County / coords 41.5100, -87.2700"]
-zillowHomeValueUsd: 234734
 ---
 
-**Engineering Notice for Hobart:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Hobart:** Storm and emergency leak triage uses 636 ft elevation band with Lake County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Hobart, IN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lake County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof restoration in Hobart, IN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Lake County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -31,9 +34,7 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Risk flag: In Hobart, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
-Scope trace: skylight curb height plus starter-strip setback referenced in Lake County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 46410/46342.
+Scope trace: skylight curb height plus starter-strip setback referenced in Lake County storm and leak review.
 
 On-site sector marker: Lake County / elevation 636 ft band — logged for map parity and ZIP-corridor verification.
 

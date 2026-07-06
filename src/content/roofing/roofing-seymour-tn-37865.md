@@ -11,11 +11,14 @@ lng: -83.7700
 zipSample: ["37865"]
 zipCodes: ["37865"]
 localPaths: ["Sevier County / primary ZIP 37865", "Sevier County / ZIP 37865 sector", "Sevier County / elevation 1207 ft band", "Sevier County / coords 35.8800, -83.7700"]
-zillowHomeValueUsd: 373963
 ---
 
-**Engineering Notice for Seymour:** Structural loading calculated based on 1207 ft terrain assessment. Regional dispatch grid: Sevier County.
+**Engineering Notice for Seymour:** Shingle, flashing, and ventilation review recorded at 1207 ft AMSL context (Sevier County).
 
+
+Roof service remediation in Seymour, TN, Sevier County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof service crews serving Seymour, TN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 37865.
 
@@ -35,9 +38,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 FAQ: How long can shingles wait after storm damage? In Seymour, TN, delayed dry-in can expand insulation and ceiling repairs.
 
-roof service brief: shingle exposure calibration and synthetic underlayment slip were cross-checked for the Seymour intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 37865.
+Roof service brief: shingle exposure calibration and synthetic underlayment slip were cross-checked for the Seymour shingle and leak scope.
 
 On-site sector marker: Sevier County / elevation 1207 ft band — logged for map parity and ZIP-corridor verification.
 

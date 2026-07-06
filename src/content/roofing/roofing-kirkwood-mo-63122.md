@@ -11,15 +11,18 @@ lng: -90.4200
 zipSample: ["63122"]
 zipCodes: ["63122"]
 localPaths: ["St. Louis County / coords 38.5800, -90.4200", "St. Louis County / elevation 594 ft band", "St. Louis County / primary ZIP 63122", "St. Louis County / ZIP 63122 sector"]
-zillowHomeValueUsd: 505161
 ---
 
-**Engineering Notice for Kirkwood:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Kirkwood:** Shingle, flashing, and ventilation review recorded at 594 ft AMSL context (St. Louis County).
 
+
+Emergency roof service in Kirkwood, MO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in St. Louis County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service restoration in Kirkwood, MO, St. Louis County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wood shake courses in Kirkwood, MO require skip-spacing rules at valleys.
 
@@ -33,11 +36,9 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Wind-zone note: Kirkwood, MO exposure class can change starter-strip and cap nail schedules.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field routing: shingle exposure calibration paired with chimney cricket slope near ZIP 63122.
-
-Field note: Attic moisture pathway scan referenced ZIP 63122.
+Local service note: shingle exposure calibration paired with chimney cricket slope near ZIP 63122 for emergency roof service repairs.
 
 ZIP-corridor snapshot for Kirkwood, MO: sampled sectors include 63122; county routing grid remains St. Louis County.
 

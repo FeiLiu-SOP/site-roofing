@@ -11,11 +11,14 @@ lng: -90.3100
 zipSample: ["63125", "63129"]
 zipCodes: ["63129", "63125"]
 localPaths: ["St. Louis County / coords 38.5000, -90.3100", "St. Louis County / primary ZIP 63129", "St. Louis County / ZIP 63125 sector", "St. Louis County / ZIP 63129 sector", "St. Louis County / elevation 597 ft band"]
-zillowHomeValueUsd: 340021
 ---
 
-**Engineering Notice for Mehlville:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Mehlville:** Storm and emergency leak triage uses 597 ft elevation band with St. Louis County service-area context for roofing repairs.
 
+
+Roof work restoration in Mehlville, MO, St. Louis County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof restoration crews serving Mehlville, MO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Regulatory note: Mehlville, MO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -29,13 +32,13 @@ Coastal humidity in Mehlville, MO can slow shingle seal-down after shoulder-seas
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-roof work brief: valley metal gauge and ridge cap nail schedule were cross-checked for the Mehlville intake packet.
+Roof restoration brief: valley metal gauge and ridge cap nail schedule were cross-checked for the Mehlville shingle and leak scope.
 
 On-site sector marker: St. Louis County / primary ZIP 63129 — logged for map parity and ZIP-corridor verification.
 

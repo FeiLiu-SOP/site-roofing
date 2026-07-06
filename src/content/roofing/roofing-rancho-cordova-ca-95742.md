@@ -11,11 +11,14 @@ lng: -121.2500
 zipSample: ["95670", "95742", "95827", "95741"]
 zipCodes: ["95742", "95670", "95741", "95827"]
 localPaths: ["Sacramento County / primary ZIP 95742", "Sacramento County / coords 38.5700, -121.2500", "Sacramento County / ZIP 95741 sector", "Sacramento County / ZIP 95670 sector", "Sacramento County / ZIP 95742 sector"]
-zillowHomeValueUsd: 621587
 ---
 
-**Engineering Notice for Rancho Cordova:** Structural loading calculated based on 141 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Rancho Cordova:** Roof repair scope references 141 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Sacramento County.
 
+
+Certified roof restoration crews serving Rancho Cordova, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service service in Rancho Cordova, CA, Sacramento County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -23,7 +26,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Step: separate emergency tarp scope from permanent restoration line items.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -35,9 +38,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 95742.
 
-roofing service brief: deck sheathing thickness and valley metal gauge were cross-checked for the Rancho Cordova intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 95741/95670/95742.
+Roof remediation brief: deck sheathing thickness and valley metal gauge were cross-checked for the Rancho Cordova shingle and leak scope.
 
 On-site sector marker: Sacramento County / primary ZIP 95742 — logged for map parity and ZIP-corridor verification.
 

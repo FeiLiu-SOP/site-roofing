@@ -11,13 +11,16 @@ lng: -84.1500
 zipSample: ["45429", "45419", "45420", "45409", "45479"]
 zipCodes: ["45479", "45420", "45429", "45419", "45409", "45440"]
 localPaths: ["Montgomery County / ZIP 45409 sector", "Montgomery County / elevation 1007 ft band", "Montgomery County / ZIP 45420 sector", "Montgomery County / coords 39.7000, -84.1500", "Montgomery County / ZIP 45479 sector"]
-zillowHomeValueUsd: 315818
 ---
 
-**Engineering Notice for Kettering:** Structural loading calculated based on 1007 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Kettering:** Roof repair scope references 1007 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Montgomery County.
 
 
-Our Kettering, OH dispatch packets reference county grid Montgomery County and elevation band 1007 ft.
+When wind or hail hits Kettering, OH, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Kettering, OH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Montgomery County clarifies whether remediation or replacement fits the damage pattern.
+
+Our Kettering, OH restoration packets reference Montgomery County and elevation band 1007 ft for shingle and leak scope.
 
 Step: separate emergency tarp scope from permanent remediation line items.
 
@@ -35,7 +38,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field routing: starter-strip setback paired with skylight curb height near ZIP 45440.
+Local service note: starter-strip setback paired with skylight curb height near ZIP 45440 for emergency roof service repairs.
 
 Primary postal anchor 45440 with multi-ZIP overlap in Kettering; field packets tag Montgomery County for county-grid reconciliation.
 

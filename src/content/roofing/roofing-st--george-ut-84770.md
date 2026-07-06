@@ -11,11 +11,14 @@ lng: -113.5800
 zipSample: ["84770", "84790", "84791"]
 zipCodes: ["84791", "84790", "84770"]
 localPaths: ["Washington County / coords 37.0800, -113.5800", "Washington County / ZIP 84790 sector", "Washington County / ZIP 84791 sector", "Washington County / ZIP 84770 sector", "Washington County / elevation 2546 ft band"]
-zillowHomeValueUsd: 487262
 ---
 
-**Engineering Notice for St. George:** Structural loading calculated based on 2546 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for St. George:** Shingle, flashing, and ventilation review recorded at 2546 ft AMSL context (Washington County).
 
+
+Storm damage roof work in St. George, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Washington County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof service in St. George, UT often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Washington County should photograph ceiling stains and attic wet spots before crews arrive.
 
 We coordinate St. George, UT roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -31,7 +34,7 @@ Wind-zone note: St. George, UT exposure class can change starter-strip and cap n
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Scope trace: attic baffle spacing plus counter-flashing reglet depth referenced in Washington County county grid review.
+Scope trace: attic baffle spacing plus counter-flashing reglet depth referenced in Washington County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 84790/84791/84770.
 

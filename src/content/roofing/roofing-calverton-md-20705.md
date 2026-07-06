@@ -11,11 +11,14 @@ lng: -76.9500
 zipSample: ["20705", "20904"]
 zipCodes: ["20705", "20904"]
 localPaths: ["Montgomery County / elevation 299 ft band", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20705 sector", "Montgomery County / coords 39.0600, -76.9500", "Montgomery County / primary ZIP 20705"]
-zillowHomeValueUsd: 460423
 ---
 
-**Engineering Notice for Calverton:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Calverton:** Storm and emergency leak triage uses 299 ft elevation band with Montgomery County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Calverton, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Montgomery County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Calverton, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Montgomery County clarifies whether restoration or replacement fits the damage pattern.
 
 We coordinate Calverton, MD roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -34,8 +37,6 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 20705.
-
-roof service brief: drip-edge metal profile and chimney cricket slope were cross-checked for the Calverton intake packet.
 
 On-site sector marker: Montgomery County / ZIP 20904 sector — logged for map parity and ZIP-corridor verification.
 

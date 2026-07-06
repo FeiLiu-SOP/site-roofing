@@ -11,15 +11,18 @@ lng: -80.2100
 zipSample: ["33128", "33126", "33136", "33231", "33233"]
 zipCodes: ["33255", "33132", "33138", "33133", "33150", "33125", "33135", "33195", "33128", "33142", "33145", "33101"]
 localPaths: ["Miami-Dade County / ZIP 33233 sector", "Miami-Dade County / primary ZIP 33128", "Miami-Dade County / ZIP 33126 sector", "Miami-Dade County / ZIP 33136 sector", "Miami-Dade County / ZIP 33231 sector"]
-zillowHomeValueUsd: 430598
 ---
 
-**Engineering Notice for Miami:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Miami:** Storm and emergency leak triage uses 36 ft elevation band with Miami-Dade County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Miami, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Miami-Dade County clarifies whether remediation or replacement fits the damage pattern.
+
+Licensed roof restoration crews serving Miami, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: In Miami, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -32,8 +35,6 @@ Wood shake courses in Miami, FL require skip-spacing rules at valleys.
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
-
-Scope trace: valley metal gauge plus synthetic underlayment slip referenced in Miami-Dade County county grid review.
 
 On-site sector marker: Miami-Dade County / ZIP 33233 sector — logged for map parity and ZIP-corridor verification.
 

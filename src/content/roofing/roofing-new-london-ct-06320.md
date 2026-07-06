@@ -11,11 +11,14 @@ lng: -72.1000
 zipSample: ["06320"]
 zipCodes: ["06320"]
 localPaths: ["Southeastern Connecticut County / elevation 30 ft band", "Southeastern Connecticut County / ZIP 06320 sector", "Southeastern Connecticut County / coords 41.3500, -72.1000", "Southeastern Connecticut County / primary ZIP 06320"]
-zillowHomeValueUsd: 312573
 ---
 
-**Engineering Notice for New London:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Southeastern Connecticut County.
+**Engineering Notice for New London:** Storm and emergency leak triage uses 30 ft elevation band with Southeastern Connecticut County service-area context for roofing repairs.
 
+
+Certified roof service crews serving New London, CT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service restoration in New London, CT, Southeastern Connecticut County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: map ventilation intake and exhaust pairs for New London, CT attic runs.
 
@@ -33,11 +36,9 @@ Risk flag: In New London, CT, interior stains may track from HVAC condensate rat
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Scope trace: deck sheathing thickness plus wind uplift clip spacing referenced in Southeastern Connecticut County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 06320.
+Scope trace: deck sheathing thickness plus wind uplift clip spacing referenced in Southeastern Connecticut County storm and leak review.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~30 ft across the Southeastern Connecticut County area. Coordinates: 41.3500, -72.1000. ZIP sample: 06320. Logistics priority: Serving residential sectors across Southeastern Connecticut County and north-east ZIP 06320 grid.
 

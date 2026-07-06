@@ -11,11 +11,14 @@ lng: -100.8900
 zipSample: ["58554"]
 zipCodes: ["58554"]
 localPaths: ["Morton County / ZIP 58554 sector", "Morton County / primary ZIP 58554", "Morton County / elevation 1650 ft band", "Morton County / coords 46.8300, -100.8900"]
-zillowHomeValueUsd: 341744
 ---
 
-**Engineering Notice for Mandan:** Structural loading calculated based on 1650 ft terrain assessment. Regional dispatch grid: Morton County.
+**Engineering Notice for Mandan:** Shingle, flashing, and ventilation review recorded at 1650 ft AMSL context (Morton County).
 
+
+When wind or hail hits Mandan, ND, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof service in Mandan, ND often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Morton County should photograph ceiling stains and attic wet spots before crews arrive.
 
 We coordinate Mandan, ND roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -31,9 +34,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-roof service brief: pipe boot manufacturer match and soffit intake free area were cross-checked for the Mandan intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 58554.
+Roof restoration brief: pipe boot manufacturer match and soffit intake free area were cross-checked for the Mandan shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 46.8300, -100.8900 at elevation ~1650 ft aligns with Morton County intake staging.
 

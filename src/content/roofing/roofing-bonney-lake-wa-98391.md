@@ -11,13 +11,16 @@ lng: -122.1700
 zipSample: ["98391"]
 zipCodes: ["98391"]
 localPaths: ["Pierce County / ZIP 98391 sector", "Pierce County / coords 47.1800, -122.1700", "Pierce County / primary ZIP 98391", "Pierce County / elevation 476 ft band"]
-zillowHomeValueUsd: 679311
 ---
 
-**Engineering Notice for Bonney Lake:** Structural loading calculated based on 476 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Bonney Lake:** Roof repair scope references 476 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Pierce County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+When wind or hail hits Bonney Lake, WA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof remediation in Bonney Lake, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pierce County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Regulatory note: Bonney Lake, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -34,8 +37,6 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 Risk flag: Tile underlayment age in Bonney Lake, WA can fail independently of visible tile cracks.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
-
-roof work brief: drip-edge metal profile and valley metal gauge were cross-checked for the Bonney Lake intake packet.
 
 **Regional Infrastructure Brief:** Grid anchor set to Pierce County. Reference elevation: 476 ft. Primary coordinates: 47.1800, -122.1700. ZIP sample: 98391. Service perimeter note: Coverage extends through Pierce County with dispatch centered near ZIP 98391.
 

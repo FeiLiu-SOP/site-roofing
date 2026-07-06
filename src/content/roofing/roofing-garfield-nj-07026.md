@@ -11,11 +11,14 @@ lng: -74.1100
 zipSample: ["07026"]
 zipCodes: ["07026"]
 localPaths: ["Bergen County / primary ZIP 07026", "Bergen County / ZIP 07026 sector", "Bergen County / coords 40.8800, -74.1100", "Bergen County / elevation 112 ft band"]
-zillowHomeValueUsd: 579901
 ---
 
-**Engineering Notice for Garfield:** Structural loading calculated based on 112 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Garfield:** Roof repair scope references 112 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Bergen County.
 
+
+Storm damage roof service in Garfield, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bergen County clarifies whether service or replacement fits the damage pattern.
+
+Certified roof remediation crews serving Garfield, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 In Garfield, NJ, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -29,11 +32,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
-
-roof service brief: drip-edge metal profile and deck sheathing thickness were cross-checked for the Garfield intake packet.
 
 On-site sector marker: Bergen County / elevation 112 ft band — logged for map parity and ZIP-corridor verification.
 

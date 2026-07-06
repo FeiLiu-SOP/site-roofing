@@ -11,11 +11,14 @@ lng: -75.6600
 zipSample: ["18515", "18509", "18503", "18504", "18540"]
 zipCodes: ["18508", "18504", "18507", "18505", "18503", "18509", "18540", "18515", "18510"]
 localPaths: ["Lackawanna County / ZIP 18509 sector", "Lackawanna County / ZIP 18504 sector", "Lackawanna County / ZIP 18540 sector", "Lackawanna County / ZIP 18515 sector", "Lackawanna County / elevation 748 ft band"]
-zillowHomeValueUsd: 177398
 ---
 
-**Engineering Notice for Scranton:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Lackawanna County.
+**Engineering Notice for Scranton:** Shingle, flashing, and ventilation review recorded at 748 ft AMSL context (Lackawanna County).
 
+
+Licensed roof remediation crews serving Scranton, PA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Scranton, PA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Across Scranton, PA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -23,7 +26,7 @@ Risk flag: Tile underlayment age in Scranton, PA can fail independently of visib
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -35,9 +38,7 @@ Wind-zone note: Scranton, PA exposure class can change starter-strip and cap nai
 
 Step: separate emergency tarp scope from permanent remediation line items.
 
-Scope trace: counter-flashing reglet depth plus starter-strip setback referenced in Lackawanna County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 18503/18507/18515.
+Scope trace: counter-flashing reglet depth plus starter-strip setback referenced in Lackawanna County storm and leak review.
 
 On-site sector marker: Lackawanna County / ZIP 18504 sector — logged for map parity and ZIP-corridor verification.
 

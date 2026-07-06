@@ -11,11 +11,14 @@ lng: -88.2500
 zipSample: ["60013"]
 zipCodes: ["60013"]
 localPaths: ["McHenry County / ZIP 60013 sector", "McHenry County / primary ZIP 60013", "McHenry County / elevation 820 ft band", "McHenry County / coords 42.2100, -88.2500"]
-zillowHomeValueUsd: 370727
 ---
 
-**Engineering Notice for Cary:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: McHenry County.
+**Engineering Notice for Cary:** Storm and emergency leak triage uses 820 ft elevation band with McHenry County service-area context for roofing repairs.
 
+
+Roofing service restoration in Cary, IL, McHenry County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Cary, IL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -23,15 +26,13 @@ FAQ: When should permanent service start? In Cary, IL, delayed dry-in can expand
 
 Wood shake courses in Cary, IL require skip-spacing rules at valleys.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Regulatory note: Cary, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
-
-roofing service brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Cary intake packet.
 
 Primary postal anchor 60013 with multi-ZIP overlap in Cary; field packets tag McHenry County for county-grid reconciliation.
 

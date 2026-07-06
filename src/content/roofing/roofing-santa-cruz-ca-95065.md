@@ -11,11 +11,14 @@ lng: -122.0300
 zipSample: ["95065", "95061", "95063", "95067", "95064"]
 zipCodes: ["95060", "95067", "95063", "95062", "95064", "95065", "95061"]
 localPaths: ["Santa Cruz County / elevation 226 ft band", "Santa Cruz County / ZIP 95061 sector", "Santa Cruz County / ZIP 95063 sector", "Santa Cruz County / coords 36.9800, -122.0300", "Santa Cruz County / ZIP 95067 sector"]
-zillowHomeValueUsd: 1351114
 ---
 
-**Engineering Notice for Santa Cruz:** Structural loading calculated based on 226 ft terrain assessment. Regional dispatch grid: Santa Cruz County.
+**Engineering Notice for Santa Cruz:** Shingle, flashing, and ventilation review recorded at 226 ft AMSL context (Santa Cruz County).
 
+
+Certified roof restoration crews serving Santa Cruz, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Santa Cruz, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Confirm ventilation balance during the same appointment. Serving ZIP Code: 95065.
 
@@ -23,7 +26,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for Santa Cruz, CA attics should be checked against current mechanical exhaust additions.
 
@@ -35,7 +38,7 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field routing: pipe boot manufacturer match paired with attic baffle spacing near ZIP 95065.
+Local service note: pipe boot manufacturer match paired with attic baffle spacing near ZIP 95065 for emergency roofing service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 95060/95063/95067.
 

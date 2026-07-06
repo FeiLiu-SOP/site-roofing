@@ -11,11 +11,14 @@ lng: -110.8800
 zipSample: ["85724", "85713", "85716", "85751", "85721"]
 zipCodes: ["85732", "85734", "85721", "85723", "85775", "85751", "85717", "85724", "85754", "85756", "85709", "85725"]
 localPaths: ["Pima County / primary ZIP 85705", "Pima County / elevation 2677 ft band", "Pima County / coords 32.1500, -110.8800", "Pima County / ZIP 85721 sector", "Pima County / ZIP 85716 sector"]
-zillowHomeValueUsd: 254269
 ---
 
-**Engineering Notice for Tucson:** Structural loading calculated based on 2677 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Tucson:** Shingle, flashing, and ventilation review recorded at 2677 ft AMSL context (Pima County).
 
+
+When wind or hail hits Tucson, AZ, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Tucson, AZ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pima County clarifies whether restoration or replacement fits the damage pattern.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -29,11 +32,11 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Step: log deck soundings near vents before tear-off is approved.
 
-Our Tucson, AZ dispatch packets reference county grid Pima County and elevation band 2677 ft.
+Our Tucson, AZ remediation packets reference Pima County and elevation band 2677 ft for shingle and leak scope.
 
 Wind-zone note: Tucson, AZ exposure class can change starter-strip and cap nail schedules.
 
-Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 85705.
+Local service note: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 85705 for emergency roofing service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 85715/85756/85726.
 

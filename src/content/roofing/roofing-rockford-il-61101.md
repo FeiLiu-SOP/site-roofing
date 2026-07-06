@@ -11,11 +11,14 @@ lng: -89.0600
 zipSample: ["61125", "61126", "61114", "61106", "61108"]
 zipCodes: ["61106", "61125", "61110", "61101", "61126", "61103", "61107", "61108", "61105", "61102", "61114", "61104"]
 localPaths: ["Winnebago County / ZIP 61126 sector", "Winnebago County / coords 42.2600, -89.0600", "Winnebago County / primary ZIP 61101", "Winnebago County / ZIP 61108 sector", "Winnebago County / ZIP 61106 sector"]
-zillowHomeValueUsd: 111572
 ---
 
-**Engineering Notice for Rockford:** Structural loading calculated based on 735 ft terrain assessment. Regional dispatch grid: Winnebago County.
+**Engineering Notice for Rockford:** Shingle, flashing, and ventilation review recorded at 735 ft AMSL context (Winnebago County).
 
+
+Emergency roof remediation in Rockford, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Winnebago County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Rockford, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Winnebago County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -29,13 +32,11 @@ FAQ: Is partial dry-in possible? In Rockford, IL, yes—if slope and anchor poin
 
 Risk flag: Tile underlayment age in Rockford, IL can fail independently of visible tile cracks.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: log deck soundings near vents before tear-off is approved.
 
-Field routing: ice-barrier lap sequence paired with chimney cricket slope near ZIP 61101.
-
-Field note: Shingle seal-down timing logged near ZIP 61103/61105/61126.
+Local service note: ice-barrier lap sequence paired with chimney cricket slope near ZIP 61101 for emergency roofing service repairs.
 
 On-site sector marker: Winnebago County / ZIP 61108 sector — logged for map parity and ZIP-corridor verification.
 

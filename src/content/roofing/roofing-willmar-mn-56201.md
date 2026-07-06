@@ -11,17 +11,20 @@ lng: -95.0600
 zipSample: ["56201"]
 zipCodes: ["56201"]
 localPaths: ["Kandiyohi County / ZIP 56201 sector", "Kandiyohi County / primary ZIP 56201", "Kandiyohi County / elevation 1122 ft band", "Kandiyohi County / coords 45.1200, -95.0600"]
-zillowHomeValueUsd: 236399
 ---
 
-**Engineering Notice for Willmar:** Structural loading calculated based on 1122 ft terrain assessment. Regional dispatch grid: Kandiyohi County.
+**Engineering Notice for Willmar:** Roof repair scope references 1122 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Kandiyohi County.
 
+
+Storm damage roof service in Willmar, MN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Kandiyohi County clarifies whether restoration or replacement fits the damage pattern.
+
+Licensed roof remediation crews serving Willmar, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
 Step: stage tear-off debris paths away from landscape drains.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -35,7 +38,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Material note: In Willmar, MN, algae-resistant granules may be specified for north-facing slopes.
 
-Field routing: attic baffle spacing paired with ridge cap nail schedule near ZIP 56201.
+Local service note: attic baffle spacing paired with ridge cap nail schedule near ZIP 56201 for emergency roof work repairs.
 
 On-site sector marker: Kandiyohi County / ZIP 56201 sector — logged for map parity and ZIP-corridor verification.
 

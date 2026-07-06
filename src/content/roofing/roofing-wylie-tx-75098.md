@@ -11,11 +11,14 @@ lng: -96.5200
 zipSample: ["75166", "75098", "75173"]
 zipCodes: ["75098", "75173", "75166"]
 localPaths: ["Collin County / primary ZIP 75098", "Collin County / ZIP 75098 sector", "Collin County / ZIP 75166 sector", "Collin County / elevation 525 ft band", "Collin County / ZIP 75173 sector"]
-zillowHomeValueUsd: 423186
 ---
 
-**Engineering Notice for Wylie:** Structural loading calculated based on 525 ft terrain assessment. Regional dispatch grid: Collin County.
+**Engineering Notice for Wylie:** Shingle, flashing, and ventilation review recorded at 525 ft AMSL context (Collin County).
 
+
+Emergency roof remediation in Wylie, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Collin County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service service in Wylie, TX, Collin County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 In Wylie, TX, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -29,13 +32,13 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
 FAQ: How long can shingles wait after storm damage? In Wylie, TX, delayed dry-in can expand insulation and ceiling repairs.
 
-Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in Collin County county grid review.
+Scope trace: drip-edge metal profile plus synthetic underlayment slip referenced in Collin County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 75098/75173/75166.
 

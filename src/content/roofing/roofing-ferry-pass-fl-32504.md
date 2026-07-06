@@ -11,11 +11,14 @@ lng: -87.1900
 zipSample: ["32523", "32504", "32514"]
 zipCodes: ["32504", "32514", "32523"]
 localPaths: ["Escambia County / ZIP 32514 sector", "Escambia County / ZIP 32523 sector", "Escambia County / coords 30.5200, -87.1900", "Escambia County / elevation 125 ft band", "Escambia County / primary ZIP 32504"]
-zillowHomeValueUsd: 270488
 ---
 
-**Engineering Notice for Ferry Pass:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Escambia County.
+**Engineering Notice for Ferry Pass:** Roof repair scope references 125 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Escambia County.
 
+
+Storm damage roof service in Ferry Pass, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Escambia County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof service service in Ferry Pass, FL, Escambia County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: In Ferry Pass, FL, algae-resistant granules may be specified for north-facing slopes.
 
@@ -31,11 +34,9 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Wind-zone note: Ferry Pass, FL exposure class can change starter-strip and cap nail schedules.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roof service brief: skylight curb height and deck sheathing thickness were cross-checked for the Ferry Pass intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 32523/32514/32504.
+Roof restoration brief: skylight curb height and deck sheathing thickness were cross-checked for the Ferry Pass shingle and leak scope.
 
 On-site sector marker: Escambia County / ZIP 32523 sector — logged for map parity and ZIP-corridor verification.
 

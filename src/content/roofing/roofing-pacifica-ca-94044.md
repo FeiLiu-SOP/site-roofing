@@ -7,15 +7,18 @@ zipCode: "94044"
 county: "San Mateo County"
 elevationFt: 210
 lat: 37.6100
-lng: -122.4800
+lng: -122.4500
 zipSample: ["94044"]
 zipCodes: ["94044"]
-localPaths: ["San Mateo County / primary ZIP 94044", "San Mateo County / elevation 210 ft band", "San Mateo County / coords 37.6100, -122.4800", "San Mateo County / ZIP 94044 sector"]
-zillowHomeValueUsd: 1284856
+localPaths: ["San Mateo County / primary ZIP 94044", "San Mateo County / elevation 210 ft band", "San Mateo County / coords 37.6100, -122.4500", "San Mateo County / ZIP 94044 sector"]
 ---
 
-**Engineering Notice for Pacifica:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Pacifica:** Roof repair scope references 210 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Mateo County.
 
+
+Roof service restoration in Pacifica, CA, San Mateo County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof restoration crews serving Pacifica, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -25,13 +28,11 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Hail bruising on Pacifica, CA ridges may not breach felt until the next wind event.
 
 Step: stage tear-off debris paths away from landscape drains.
-
-Scope trace: wind uplift clip spacing plus valley metal gauge referenced in San Mateo County county grid review.
 
 Primary postal anchor 94044 with multi-ZIP overlap in Pacifica; field packets tag San Mateo County for county-grid reconciliation.
 

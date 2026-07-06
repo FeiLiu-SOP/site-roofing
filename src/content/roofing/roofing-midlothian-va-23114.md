@@ -11,13 +11,16 @@ lng: -77.6500
 zipSample: ["23114", "23113"]
 zipCodes: ["23114", "23113"]
 localPaths: ["Chesterfield County / ZIP 23113 sector", "Chesterfield County / coords 37.4900, -77.6500", "Chesterfield County / primary ZIP 23114", "Chesterfield County / ZIP 23114 sector", "Chesterfield County / elevation 285 ft band"]
-zillowHomeValueUsd: 466278
 ---
 
-**Engineering Notice for Midlothian:** Structural loading calculated based on 285 ft terrain assessment. Regional dispatch grid: Chesterfield County.
+**Engineering Notice for Midlothian:** Shingle, flashing, and ventilation review recorded at 285 ft AMSL context (Chesterfield County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Storm damage roof service in Midlothian, VA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Chesterfield County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof service service in Midlothian, VA, Chesterfield County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -32,8 +35,6 @@ Parapet coping movement in Midlothian, VA can channel water behind wall cladding
 Risk flag: Tile underlayment age in Midlothian, VA can fail independently of visible tile cracks.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
-
-Field routing: soffit intake free area paired with drip-edge metal profile near ZIP 23114.
 
 ZIP-corridor snapshot for Midlothian, VA: sampled sectors include 23114, 23113; county routing grid remains Chesterfield County.
 

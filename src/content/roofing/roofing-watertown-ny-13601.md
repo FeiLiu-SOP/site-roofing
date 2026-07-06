@@ -11,11 +11,14 @@ lng: -75.9100
 zipSample: ["13601"]
 zipCodes: ["13601"]
 localPaths: ["Jefferson County / primary ZIP 13601", "Jefferson County / coords 43.9700, -75.9100", "Jefferson County / ZIP 13601 sector", "Jefferson County / elevation 482 ft band"]
-zillowHomeValueUsd: 194466
 ---
 
-**Engineering Notice for Watertown:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Watertown:** Storm and emergency leak triage uses 482 ft elevation band with Jefferson County service-area context for roofing repairs.
 
+
+When wind or hail hits Watertown, NY, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof remediation crews serving Watertown, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Metal panel oil-canning in Watertown, NY may signal clip spacing issues, not wind damage alone.
 
@@ -33,9 +36,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 We coordinate Watertown, NY roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-roof service brief: counter-flashing reglet depth and starter-strip setback were cross-checked for the Watertown intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 13601.
+Roof remediation brief: counter-flashing reglet depth and starter-strip setback were cross-checked for the Watertown shingle and leak scope.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~482 ft across the Jefferson County area. Coordinates: 43.9700, -75.9100. ZIP sample: 13601. Regional routing note: Jefferson County traffic flow is balanced around ZIP 13601 service demand.
 

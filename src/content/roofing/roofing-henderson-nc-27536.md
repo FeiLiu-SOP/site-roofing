@@ -11,11 +11,14 @@ lng: -78.4200
 zipSample: ["27536"]
 zipCodes: ["27536"]
 localPaths: ["Vance County / primary ZIP 27536", "Vance County / ZIP 27536 sector", "Vance County / coords 36.3300, -78.4200", "Vance County / elevation 469 ft band"]
-zillowHomeValueUsd: 116867
 ---
 
-**Engineering Notice for Henderson:** Structural loading calculated based on 469 ft terrain assessment. Regional dispatch grid: Vance County.
+**Engineering Notice for Henderson:** Roof repair scope references 469 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Vance County.
 
+
+When wind or hail hits Henderson, NC, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work remediation in Henderson, NC, Vance County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -33,9 +36,7 @@ Coastal humidity in Henderson, NC can slow shingle seal-down after shoulder-seas
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
-
-Scope trace: chimney cricket slope plus counter-flashing reglet depth referenced in Vance County county grid review.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 On-site sector marker: Vance County / elevation 469 ft band — logged for map parity and ZIP-corridor verification.
 

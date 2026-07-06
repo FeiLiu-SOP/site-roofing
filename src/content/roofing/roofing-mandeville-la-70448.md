@@ -11,13 +11,16 @@ lng: -90.0900
 zipSample: ["70471", "70448", "70470"]
 zipCodes: ["70470", "70471", "70448"]
 localPaths: ["St. Tammany Parish / primary ZIP 70448", "St. Tammany Parish / ZIP 70470 sector", "St. Tammany Parish / elevation 43 ft band", "St. Tammany Parish / ZIP 70448 sector", "St. Tammany Parish / ZIP 70471 sector"]
-zillowHomeValueUsd: 335216
 ---
 
-**Engineering Notice for Mandeville:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: St. Tammany Parish.
+**Engineering Notice for Mandeville:** Shingle, flashing, and ventilation review recorded at 43 ft AMSL context (St. Tammany Parish).
 
 
-Our Mandeville, LA dispatch packets reference county grid St. Tammany Parish and elevation band 43 ft.
+Storm damage roof work in Mandeville, LA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Tammany Parish clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Mandeville, LA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Our Mandeville, LA remediation packets reference St. Tammany Parish and elevation band 43 ft for shingle and leak scope.
 
 Coastal humidity in Mandeville, LA can slow shingle seal-down after shoulder-season storms.
 
@@ -35,9 +38,7 @@ Risk flag: In Mandeville, LA, interior stains may track from HVAC condensate rat
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 70448.
-
-Field note: Attic moisture pathway scan referenced ZIP 70471/70470/70448.
+Local service note: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 70448 for emergency roof work repairs.
 
 On-site sector marker: St. Tammany Parish / coords 30.3800, -90.0900 — logged for map parity and ZIP-corridor verification.
 

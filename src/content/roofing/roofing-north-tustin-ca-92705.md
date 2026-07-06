@@ -11,11 +11,14 @@ lng: -117.7900
 zipSample: ["92780", "92705", "92711"]
 zipCodes: ["92780", "92711", "92705"]
 localPaths: ["Orange County / elevation 249 ft band", "Orange County / coords 33.7600, -117.7900", "Orange County / ZIP 92705 sector", "Orange County / primary ZIP 92705", "Orange County / ZIP 92711 sector"]
-zillowHomeValueUsd: 1614993
 ---
 
-**Engineering Notice for North Tustin:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for North Tustin:** Storm and emergency leak triage uses 249 ft elevation band with Orange County service-area context for roofing repairs.
 
+
+Qualified roof remediation crews serving North Tustin, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in North Tustin, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether restoration or replacement fits the damage pattern.
 
 We coordinate North Tustin, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -33,7 +36,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-roof work brief: synthetic underlayment slip and ice-barrier lap sequence were cross-checked for the North Tustin intake packet.
+Roof service brief: synthetic underlayment slip and ice-barrier lap sequence were cross-checked for the North Tustin shingle and leak scope.
 
 On-site sector marker: Orange County / coords 33.7600, -117.7900 — logged for map parity and ZIP-corridor verification.
 

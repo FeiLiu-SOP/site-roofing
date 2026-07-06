@@ -11,11 +11,14 @@ lng: -122.4500
 zipSample: ["98465", "98416", "98405", "98418", "98444"]
 zipCodes: ["98408", "98415", "98471", "98490", "98444", "98418", "98412", "98448", "98403", "98481", "98422", "98401"]
 localPaths: ["Pierce County / coords 47.2400, -122.4500", "Pierce County / primary ZIP 98422", "Pierce County / ZIP 98405 sector", "Pierce County / ZIP 98465 sector", "Pierce County / ZIP 98416 sector"]
-zillowHomeValueUsd: 676450
 ---
 
-**Engineering Notice for Tacoma:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Tacoma:** Shingle, flashing, and ventilation review recorded at 358 ft AMSL context (Pierce County).
 
+
+Roof service service in Tacoma, WA, Pierce County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof remediation crews serving Tacoma, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -33,9 +36,7 @@ Wind-zone note: Tacoma, WA exposure class can change starter-strip and cap nail 
 
 Material note: In Tacoma, WA, algae-resistant granules may be specified for north-facing slopes.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-Field routing: valley metal gauge paired with synthetic underlayment slip near ZIP 98422.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 On-site sector marker: Pierce County / ZIP 98402 sector — logged for map parity and ZIP-corridor verification.
 

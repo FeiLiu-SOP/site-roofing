@@ -11,11 +11,14 @@ lng: -121.3400
 zipSample: ["93960"]
 zipCodes: ["93960"]
 localPaths: ["Monterey County / primary ZIP 93960", "Monterey County / elevation 174 ft band", "Monterey County / ZIP 93960 sector", "Monterey County / coords 36.4400, -121.3400"]
-zillowHomeValueUsd: 631383
 ---
 
-**Engineering Notice for Soledad:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Monterey County.
+**Engineering Notice for Soledad:** Storm and emergency leak triage uses 174 ft elevation band with Monterey County service-area context for roofing repairs.
 
+
+Certified roof remediation crews serving Soledad, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Soledad, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Monterey County should photograph ceiling stains and attic wet spots before crews arrive.
 
 We coordinate Soledad, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -31,7 +34,7 @@ Wind-zone note: Soledad, CA exposure class can change starter-strip and cap nail
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Scope trace: deck sheathing thickness plus wind uplift clip spacing referenced in Monterey County county grid review.
+Scope trace: deck sheathing thickness plus wind uplift clip spacing referenced in Monterey County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 93960.
 

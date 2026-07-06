@@ -11,11 +11,14 @@ lng: -86.4500
 zipSample: ["37162", "37161", "37160"]
 zipCodes: ["37161", "37162", "37160"]
 localPaths: ["Bedford County / elevation 778 ft band", "Bedford County / ZIP 37160 sector", "Bedford County / ZIP 37162 sector", "Bedford County / coords 35.5000, -86.4500", "Bedford County / ZIP 37161 sector"]
-zillowHomeValueUsd: 312593
 ---
 
-**Engineering Notice for Shelbyville:** Structural loading calculated based on 778 ft terrain assessment. Regional dispatch grid: Bedford County.
+**Engineering Notice for Shelbyville:** Storm and emergency leak triage uses 778 ft elevation band with Bedford County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving Shelbyville, TN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service restoration in Shelbyville, TN, Bedford County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: compare shingle manufacturer wind-zone ratings for Shelbyville, TN exposure class.
 
@@ -27,15 +30,13 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Tip: Note recent wind events when filing insurance photos for Shelbyville, TN.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wind-zone note: Shelbyville, TN exposure class can change starter-strip and cap nail schedules.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field routing: skylight curb height paired with ridge cap nail schedule near ZIP 37160.
-
-Field note: Valley debris and granule loss noted for ZIP 37161/37160/37162.
+Local service note: skylight curb height paired with ridge cap nail schedule near ZIP 37160 for emergency roofing service repairs.
 
 Primary postal anchor 37160 with multi-ZIP overlap in Shelbyville; field packets tag Bedford County for county-grid reconciliation.
 

@@ -11,11 +11,14 @@ lng: -84.2900
 zipSample: ["40403", "40404"]
 zipCodes: ["40403", "40404"]
 localPaths: ["Madison County / primary ZIP 40404", "Madison County / ZIP 40404 sector", "Madison County / ZIP 40403 sector", "Madison County / coords 37.5900, -84.2900", "Madison County / elevation 961 ft band"]
-zillowHomeValueUsd: 252781
 ---
 
-**Engineering Notice for Berea:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Berea:** Roof repair scope references 961 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Madison County.
 
+
+Emergency roof service in Berea, KY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Madison County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Berea, KY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Madison County clarifies whether restoration or replacement fits the damage pattern.
 
 FAQ: Can you tarp only part of the roof? In Berea, KY, yes—if slope and anchor points support safe tie-offs.
 
@@ -30,8 +33,6 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 Wind-zone note: Berea, KY exposure class can change starter-strip and cap nail schedules.
 
 TPO seam welds in Berea, KY commercial sections need probe tests after freeze events.
-
-roofing service brief: soffit intake free area and drip-edge metal profile were cross-checked for the Berea intake packet.
 
 On-site sector marker: Madison County / elevation 961 ft band — logged for map parity and ZIP-corridor verification.
 

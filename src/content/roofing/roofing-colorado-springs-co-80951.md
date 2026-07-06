@@ -11,11 +11,14 @@ lng: -104.7600
 zipSample: ["80935", "80925", "80929", "80951", "80947"]
 zipCodes: ["80941", "80977", "80950", "80920", "80932", "80903", "80946", "80925", "80922", "80924", "80915", "80918"]
 localPaths: ["El Paso County / ZIP 80925 sector", "El Paso County / primary ZIP 80951", "El Paso County / ZIP 80947 sector", "El Paso County / ZIP 80929 sector", "El Paso County / coords 38.8700, -104.7600"]
-zillowHomeValueUsd: 429664
 ---
 
-**Engineering Notice for Colorado Springs:** Structural loading calculated based on 6345 ft terrain assessment. Regional dispatch grid: El Paso County.
+**Engineering Notice for Colorado Springs:** Roof repair scope references 6345 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in El Paso County.
 
+
+Certified roof service crews serving Colorado Springs, CO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Colorado Springs, CO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in El Paso County clarifies whether remediation or replacement fits the damage pattern.
 
 FAQ: Can you tarp only part of the roof? In Colorado Springs, CO, yes—if slope and anchor points support safe tie-offs.
 
@@ -27,15 +30,13 @@ We coordinate Colorado Springs, CO roof reviews with photo logs, moisture notes,
 
 Risk flag: In Colorado Springs, CO, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tile and shingle mixes in Colorado Springs, CO require different fastener patterns at transitions.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Step: stage tear-off debris paths away from landscape drains.
-
-Field routing: skylight curb height paired with counter-flashing reglet depth near ZIP 80951.
 
 On-site sector marker: El Paso County / elevation 6345 ft band — logged for map parity and ZIP-corridor verification.
 

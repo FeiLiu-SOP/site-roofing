@@ -11,15 +11,18 @@ lng: -117.4300
 zipSample: ["99212", "99209", "99260", "99202", "99210"]
 zipCodes: ["99256", "99207", "99208", "99219", "99210", "99212", "99260", "99223", "99204", "99201", "99252", "99220"]
 localPaths: ["Spokane County / ZIP 99212 sector", "Spokane County / ZIP 99209 sector", "Spokane County / ZIP 99210 sector", "Spokane County / ZIP 99202 sector", "Spokane County / ZIP 99260 sector"]
-zillowHomeValueUsd: 325754
 ---
 
-**Engineering Notice for Spokane:** Structural loading calculated based on 1900 ft terrain assessment. Regional dispatch grid: Spokane County.
+**Engineering Notice for Spokane:** Storm and emergency leak triage uses 1900 ft elevation band with Spokane County service-area context for roofing repairs.
 
+
+Roofing service service in Spokane, WA, Spokane County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Spokane, WA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Code context: Ventilation ratios for Spokane, WA attics should be checked against current mechanical exhaust additions.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -32,8 +35,6 @@ Metal panel oil-canning in Spokane, WA may signal clip spacing issues, not wind 
 Material note: In Spokane, WA, algae-resistant granules may be specified for north-facing slopes.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
-
-Field routing: valley metal gauge paired with ridge cap nail schedule near ZIP 99201.
 
 ZIP-corridor snapshot for Spokane, WA: sampled sectors include 99256, 99205, 99252, 99204, 99202, 99219, 99203, 99220; county routing grid remains Spokane County.
 

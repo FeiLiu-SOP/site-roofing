@@ -11,11 +11,14 @@ lng: -74.0200
 zipSample: ["07646"]
 zipCodes: ["07646"]
 localPaths: ["Bergen County / elevation 36 ft band", "Bergen County / coords 40.9300, -74.0200", "Bergen County / primary ZIP 07646", "Bergen County / ZIP 07646 sector"]
-zillowHomeValueUsd: 728341
 ---
 
-**Engineering Notice for New Milford:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for New Milford:** Storm and emergency leak triage uses 36 ft elevation band with Bergen County service-area context for roofing repairs.
 
+
+Storm damage roof work in New Milford, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bergen County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof restoration in New Milford, NJ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Bergen County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Note recent wind events when filing insurance photos for New Milford, NJ.
 
@@ -27,13 +30,11 @@ FAQ: How long can shingles wait after storm damage? In New Milford, NJ, delayed 
 
 Regulatory note: New Milford, NJ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our New Milford, NJ dispatch packets reference county grid Bergen County and elevation band 36 ft.
+Our New Milford, NJ service packets reference Bergen County and elevation band 36 ft for shingle and leak scope.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Scope trace: shingle exposure calibration plus attic baffle spacing referenced in Bergen County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 07646.
+Scope trace: shingle exposure calibration plus attic baffle spacing referenced in Bergen County storm and leak review.
 
 On-site sector marker: Bergen County / coords 40.9300, -74.0200 — logged for map parity and ZIP-corridor verification.
 

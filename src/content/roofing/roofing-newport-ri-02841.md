@@ -11,11 +11,14 @@ lng: -71.3200
 zipSample: ["02840", "02841"]
 zipCodes: ["02841", "02840"]
 localPaths: ["Newport County / ZIP 02841 sector", "Newport County / ZIP 02840 sector", "Newport County / elevation 0 ft band", "Newport County / coords 41.4800, -71.3200", "Newport County / primary ZIP 02841"]
-zillowHomeValueUsd: 941666
 ---
 
-**Engineering Notice for Newport:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: Newport County.
+**Engineering Notice for Newport:** Roof repair scope references 0 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Newport County.
 
+
+Licensed roof restoration crews serving Newport, RI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service remediation in Newport, RI, Newport County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -27,13 +30,11 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Material note: In Newport, RI, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Newport, RI can fail independently of visible tile cracks.
 
 TPO seam welds in Newport, RI commercial sections need probe tests after freeze events.
-
-Scope trace: soffit intake free area plus ice-barrier lap sequence referenced in Newport County county grid review.
 
 Regional mesh label Newport County: moisture and logistics baselines are keyed to Newport, RI before niche-specific work begins.
 

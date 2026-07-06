@@ -11,11 +11,14 @@ lng: -90.3700
 zipSample: ["63010"]
 zipCodes: ["63010"]
 localPaths: ["Jefferson County / primary ZIP 63010", "Jefferson County / coords 38.4300, -90.3700", "Jefferson County / elevation 531 ft band", "Jefferson County / ZIP 63010 sector"]
-zillowHomeValueUsd: 272890
 ---
 
-**Engineering Notice for Arnold:** Structural loading calculated based on 531 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Arnold:** Roof repair scope references 531 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Jefferson County.
 
+
+Roof work remediation in Arnold, MO, Jefferson County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Arnold, MO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Jefferson County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -31,9 +34,9 @@ Step: map ventilation intake and exhaust pairs for Arnold, MO attic runs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field routing: counter-flashing reglet depth paired with pipe boot manufacturer match near ZIP 63010.
+Local service note: counter-flashing reglet depth paired with pipe boot manufacturer match near ZIP 63010 for emergency roof work repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 63010.
 

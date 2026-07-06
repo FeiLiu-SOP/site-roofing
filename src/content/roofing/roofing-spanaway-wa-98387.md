@@ -11,17 +11,20 @@ lng: -122.4200
 zipSample: ["98387", "98445"]
 zipCodes: ["98445", "98387"]
 localPaths: ["Pierce County / elevation 374 ft band", "Pierce County / ZIP 98445 sector", "Pierce County / coords 47.1000, -122.4200", "Pierce County / primary ZIP 98387", "Pierce County / ZIP 98387 sector"]
-zillowHomeValueUsd: 509449
 ---
 
-**Engineering Notice for Spanaway:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Spanaway:** Roof repair scope references 374 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Pierce County.
 
+
+Storm damage roof service in Spanaway, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pierce County clarifies whether service or replacement fits the damage pattern.
+
+Roofing service restoration in Spanaway, WA, Pierce County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Tile and shingle mixes in Spanaway, WA require different fastener patterns at transitions.
 
-FAQ: When should permanent remediation start? In Spanaway, WA, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Spanaway, WA, delayed dry-in can expand insulation and ceiling repairs.
 
 Tip: Note recent wind events when filing insurance photos for Spanaway, WA.
 
@@ -34,8 +37,6 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 Regulatory note: Spanaway, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
-
-roof service brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Spanaway intake packet.
 
 On-site sector marker: Pierce County / ZIP 98445 sector — logged for map parity and ZIP-corridor verification.
 

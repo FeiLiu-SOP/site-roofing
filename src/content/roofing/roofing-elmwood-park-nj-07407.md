@@ -11,13 +11,16 @@ lng: -74.1200
 zipSample: ["07407"]
 zipCodes: ["07407"]
 localPaths: ["Bergen County / primary ZIP 07407", "Bergen County / elevation 56 ft band", "Bergen County / ZIP 07407 sector", "Bergen County / coords 40.9000, -74.1200"]
-zillowHomeValueUsd: 616994
 ---
 
-**Engineering Notice for Elmwood Park:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Elmwood Park:** Shingle, flashing, and ventilation review recorded at 56 ft AMSL context (Bergen County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Storm damage roof work in Elmwood Park, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bergen County clarifies whether remediation or replacement fits the damage pattern.
+
+Roofing service restoration in Elmwood Park, NJ, Bergen County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -32,8 +35,6 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 07407.
-
-Scope trace: synthetic underlayment slip plus deck sheathing thickness referenced in Bergen County county grid review.
 
 Regional mesh label Bergen County: moisture and logistics baselines are keyed to Elmwood Park, NJ before niche-specific work begins.
 

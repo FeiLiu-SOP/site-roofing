@@ -11,17 +11,20 @@ lng: -92.0300
 zipSample: ["72023"]
 zipCodes: ["72023"]
 localPaths: ["Lonoke County / coords 34.9800, -92.0300", "Lonoke County / elevation 305 ft band", "Lonoke County / ZIP 72023 sector", "Lonoke County / primary ZIP 72023"]
-zillowHomeValueUsd: 251929
 ---
 
-**Engineering Notice for Cabot:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Lonoke County.
+**Engineering Notice for Cabot:** Shingle, flashing, and ventilation review recorded at 305 ft AMSL context (Lonoke County).
 
+
+Emergency roof remediation in Cabot, AR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Lonoke County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Cabot, AR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lonoke County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: Tile underlayment age in Cabot, AR can fail independently of visible tile cracks.
 
 Regulatory note: Cabot, AR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our Cabot, AR dispatch packets reference county grid Lonoke County and elevation band 305 ft.
+Our Cabot, AR remediation packets reference Lonoke County and elevation band 305 ft for shingle and leak scope.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -31,9 +34,7 @@ Step: map ventilation intake and exhaust pairs for Cabot, AR attic runs.
 
 Freeze-thaw cycles around Cabot, AR stress nail pops along eaves and rake edges.
 
-Field routing: ridge cap nail schedule paired with chimney cricket slope near ZIP 72023.
-
-Field note: Valley debris and granule loss noted for ZIP 72023.
+Local service note: ridge cap nail schedule paired with chimney cricket slope near ZIP 72023 for emergency roofing service repairs.
 
 On-site sector marker: Lonoke County / ZIP 72023 sector — logged for map parity and ZIP-corridor verification.
 

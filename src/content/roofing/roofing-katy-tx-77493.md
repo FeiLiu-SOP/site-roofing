@@ -11,11 +11,14 @@ lng: -95.8400
 zipSample: ["77493", "77491", "77494"]
 zipCodes: ["77494", "77493", "77491"]
 localPaths: ["Waller County / ZIP 77491 sector", "Waller County / ZIP 77493 sector", "Waller County / primary ZIP 77493", "Waller County / coords 29.7900, -95.8400", "Waller County / elevation 148 ft band"]
-zillowHomeValueUsd: 344082
 ---
 
-**Engineering Notice for Katy:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Waller County.
+**Engineering Notice for Katy:** Shingle, flashing, and ventilation review recorded at 148 ft AMSL context (Waller County).
 
+
+Roof work remediation in Katy, TX, Waller County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Katy, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Waller County clarifies whether restoration or replacement fits the damage pattern.
 
 Across Katy, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -25,13 +28,13 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roof work brief: skylight curb height and starter-strip setback were cross-checked for the Katy intake packet.
+Roof restoration brief: skylight curb height and starter-strip setback were cross-checked for the Katy shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 77493/77491/77494.
 

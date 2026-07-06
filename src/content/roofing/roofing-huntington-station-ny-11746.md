@@ -11,11 +11,14 @@ lng: -73.4100
 zipSample: ["11746"]
 zipCodes: ["11746"]
 localPaths: ["Suffolk County / elevation 184 ft band", "Suffolk County / primary ZIP 11746", "Suffolk County / coords 40.8400, -73.4100", "Suffolk County / ZIP 11746 sector"]
-zillowHomeValueUsd: 771464
 ---
 
-**Engineering Notice for Huntington Station:** Structural loading calculated based on 184 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Huntington Station:** Roof repair scope references 184 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Suffolk County.
 
+
+Emergency roof restoration in Huntington Station, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Suffolk County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof restoration crews serving Huntington Station, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -29,9 +32,7 @@ TPO seam welds in Huntington Station, NY commercial sections need probe tests af
 
 Step: stage tear-off debris paths away from landscape drains.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-roof work brief: wind uplift clip spacing and counter-flashing reglet depth were cross-checked for the Huntington Station intake packet.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Primary postal anchor 11746 with multi-ZIP overlap in Huntington Station; field packets tag Suffolk County for county-grid reconciliation.
 

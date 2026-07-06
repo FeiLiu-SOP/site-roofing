@@ -11,11 +11,14 @@ lng: -90.7500
 zipSample: ["70360", "70364"]
 zipCodes: ["70360", "70364"]
 localPaths: ["Terrebonne Parish / elevation 16 ft band", "Terrebonne Parish / ZIP 70364 sector", "Terrebonne Parish / coords 29.6200, -90.7500", "Terrebonne Parish / ZIP 70360 sector", "Terrebonne Parish / primary ZIP 70360"]
-zillowHomeValueUsd: 263212
 ---
 
-**Engineering Notice for Bayou Cane:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Terrebonne Parish.
+**Engineering Notice for Bayou Cane:** Storm and emergency leak triage uses 16 ft elevation band with Terrebonne Parish service-area context for roofing repairs.
 
+
+Certified roof remediation crews serving Bayou Cane, LA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service remediation in Bayou Cane, LA, Terrebonne Parish combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Is partial dry-in possible? In Bayou Cane, LA, yes—if slope and anchor points support safe tie-offs.
 
@@ -29,11 +32,11 @@ Tile and shingle mixes in Bayou Cane, LA require different fastener patterns at 
 
 Regulatory note: Bayou Cane, LA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: In Bayou Cane, LA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field routing: deck sheathing thickness paired with ice-barrier lap sequence near ZIP 70360.
+Local service note: deck sheathing thickness paired with ice-barrier lap sequence near ZIP 70360 for emergency roofing service repairs.
 
 On-site sector marker: Terrebonne Parish / ZIP 70364 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -91.0000
 zipSample: ["70817"]
 zipCodes: ["70817"]
 localPaths: ["East Baton Rouge Parish / coords 30.4000, -91.0000", "East Baton Rouge Parish / ZIP 70817 sector", "East Baton Rouge Parish / elevation 56 ft band", "East Baton Rouge Parish / primary ZIP 70817"]
-zillowHomeValueUsd: 303826
 ---
 
-**Engineering Notice for Shenandoah:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: East Baton Rouge Parish.
+**Engineering Notice for Shenandoah:** Shingle, flashing, and ventilation review recorded at 56 ft AMSL context (East Baton Rouge Parish).
 
+
+Storm damage roof work in Shenandoah, LA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in East Baton Rouge Parish clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof remediation in Shenandoah, LA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in East Baton Rouge Parish should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -25,7 +28,7 @@ Risk flag: In Shenandoah, LA, interior stains may track from HVAC condensate rat
 
 Granule embedment loss on Shenandoah, LA north slopes can precede mat exposure.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -35,9 +38,7 @@ Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-roof work brief: ridge cap nail schedule and valley metal gauge were cross-checked for the Shenandoah intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 70817.
+Roof restoration brief: ridge cap nail schedule and valley metal gauge were cross-checked for the Shenandoah shingle and leak scope.
 
 On-site sector marker: East Baton Rouge Parish / primary ZIP 70817 — logged for map parity and ZIP-corridor verification.
 

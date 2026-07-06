@@ -11,13 +11,16 @@ lng: -90.3300
 zipSample: ["63195", "63105", "63199"]
 zipCodes: ["63105", "63199", "63195"]
 localPaths: ["St. Louis County / coords 38.6400, -90.3300", "St. Louis County / primary ZIP 63105", "St. Louis County / ZIP 63105 sector", "St. Louis County / elevation 581 ft band", "St. Louis County / ZIP 63199 sector"]
-zillowHomeValueUsd: 795364
 ---
 
-**Engineering Notice for Clayton:** Structural loading calculated based on 581 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Clayton:** Roof repair scope references 581 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in St. Louis County.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Storm damage roofing service in Clayton, MO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Louis County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof remediation in Clayton, MO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in St. Louis County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Wind-zone note: Clayton, MO exposure class can change starter-strip and cap nail schedules.
 
@@ -33,7 +36,7 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Material note: In Clayton, MO, algae-resistant granules may be specified for north-facing slopes.
 
-Scope trace: valley metal gauge plus drip-edge metal profile referenced in St. Louis County county grid review.
+Scope trace: valley metal gauge plus drip-edge metal profile referenced in St. Louis County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 63199/63195/63105.
 

@@ -11,15 +11,18 @@ lng: -79.4000
 zipSample: ["28387", "28327", "28374", "28388"]
 zipCodes: ["28387", "28374", "28388", "28327"]
 localPaths: ["Moore County / ZIP 28327 sector", "Moore County / ZIP 28388 sector", "Moore County / ZIP 28387 sector", "Moore County / primary ZIP 28327", "Moore County / coords 35.1900, -79.4000"]
-zillowHomeValueUsd: 405846
 ---
 
-**Engineering Notice for Southern Pines:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Moore County.
+**Engineering Notice for Southern Pines:** Storm and emergency leak triage uses 522 ft elevation band with Moore County service-area context for roofing repairs.
 
+
+Roofing service remediation in Southern Pines, NC, Moore County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Southern Pines, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Moore County clarifies whether restoration or replacement fits the damage pattern.
 
 Skylight curb flashing in Southern Pines, NC should be sequenced before ridge cap replacement.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Southern Pines, NC can fail independently of visible tile cracks.
 
@@ -31,7 +34,7 @@ Wind-zone note: Southern Pines, NC exposure class can change starter-strip and c
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-roofing service brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Southern Pines intake packet.
+Roof service brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Southern Pines shingle and leak scope.
 
 On-site sector marker: Moore County / primary ZIP 28327 — logged for map parity and ZIP-corridor verification.
 

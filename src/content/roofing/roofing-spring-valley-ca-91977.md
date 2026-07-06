@@ -11,13 +11,16 @@ lng: -116.9800
 zipSample: ["91979", "91977", "91978"]
 zipCodes: ["91978", "91979", "91977"]
 localPaths: ["San Diego County / ZIP 91977 sector", "San Diego County / primary ZIP 91977", "San Diego County / coords 32.7300, -116.9800", "San Diego County / ZIP 91979 sector", "San Diego County / ZIP 91978 sector"]
-zillowHomeValueUsd: 768718
 ---
 
-**Engineering Notice for Spring Valley:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Spring Valley:** Roof repair scope references 535 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Diego County.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Storm damage roof work in Spring Valley, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Diego County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof service in Spring Valley, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in San Diego County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Coastal humidity in Spring Valley, CA can slow shingle seal-down after shoulder-season storms.
 
@@ -31,11 +34,9 @@ FAQ: How long can shingles wait after storm damage? In Spring Valley, CA, delaye
 
 Risk flag: In Spring Valley, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
-
-Field routing: ridge cap nail schedule paired with skylight curb height near ZIP 91977.
 
 Coordinate-anchored dispatch note: center reference 32.7300, -116.9800 at elevation ~535 ft aligns with San Diego County intake staging.
 

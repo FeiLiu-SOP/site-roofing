@@ -11,17 +11,20 @@ lng: -74.0000
 zipSample: ["07621"]
 zipCodes: ["07621"]
 localPaths: ["Bergen County / elevation 75 ft band", "Bergen County / primary ZIP 07621", "Bergen County / ZIP 07621 sector", "Bergen County / coords 40.9200, -74.0000"]
-zillowHomeValueUsd: 628216
 ---
 
-**Engineering Notice for Bergenfield:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for Bergenfield:** Storm and emergency leak triage uses 75 ft elevation band with Bergen County service-area context for roofing repairs.
 
+
+Storm damage roof service in Bergenfield, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bergen County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof work remediation in Bergenfield, NJ, Bergen County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Across Bergenfield, NJ, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our Bergenfield, NJ dispatch packets reference county grid Bergen County and elevation band 75 ft.
+Our Bergenfield, NJ remediation packets reference Bergen County and elevation band 75 ft for shingle and leak scope.
 
 Tip: Note recent wind events when filing insurance photos for Bergenfield, NJ.
 
@@ -31,7 +34,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-roof service brief: skylight curb height and synthetic underlayment slip were cross-checked for the Bergenfield intake packet.
+Roof service brief: skylight curb height and synthetic underlayment slip were cross-checked for the Bergenfield shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 07621.
 

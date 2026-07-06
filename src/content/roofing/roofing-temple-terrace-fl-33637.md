@@ -11,11 +11,14 @@ lng: -82.3800
 zipSample: ["33617", "33687", "33637"]
 zipCodes: ["33687", "33637", "33617"]
 localPaths: ["Hillsborough County / ZIP 33687 sector", "Hillsborough County / coords 28.0400, -82.3800", "Hillsborough County / ZIP 33637 sector", "Hillsborough County / elevation 85 ft band", "Hillsborough County / ZIP 33617 sector"]
-zillowHomeValueUsd: 295177
 ---
 
-**Engineering Notice for Temple Terrace:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Temple Terrace:** Shingle, flashing, and ventilation review recorded at 85 ft AMSL context (Hillsborough County).
 
+
+Licensed roof service crews serving Temple Terrace, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Temple Terrace, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hillsborough County clarifies whether restoration or replacement fits the damage pattern.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -33,9 +36,9 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 33637.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roof work brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Temple Terrace intake packet.
+Roof service brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Temple Terrace shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 33637/33687/33617.
 

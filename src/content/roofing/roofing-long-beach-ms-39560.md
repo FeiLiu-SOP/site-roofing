@@ -11,11 +11,14 @@ lng: -89.1700
 zipSample: ["39560"]
 zipCodes: ["39560"]
 localPaths: ["Harrison County / elevation 13 ft band", "Harrison County / primary ZIP 39560", "Harrison County / ZIP 39560 sector", "Harrison County / coords 30.3600, -89.1700"]
-zillowHomeValueUsd: 231949
 ---
 
-**Engineering Notice for Long Beach:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Harrison County.
+**Engineering Notice for Long Beach:** Shingle, flashing, and ventilation review recorded at 13 ft AMSL context (Harrison County).
 
+
+Licensed roof service crews serving Long Beach, MS review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Long Beach, MS may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Harrison County clarifies whether service or replacement fits the damage pattern.
 
 Freeze-thaw cycles around Long Beach, MS stress nail pops along eaves and rake edges.
 
@@ -29,13 +32,11 @@ Regulatory note: Long Beach, MS projects may trigger ice-barrier upgrades when t
 
 FAQ: Is partial dry-in possible? In Long Beach, MS, yes—if slope and anchor points support safe tie-offs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Code context: Ventilation ratios for Long Beach, MS attics should be checked against current mechanical exhaust additions.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
-
-roof work brief: synthetic underlayment slip and counter-flashing reglet depth were cross-checked for the Long Beach intake packet.
 
 Primary postal anchor 39560 with multi-ZIP overlap in Long Beach; field packets tag Harrison County for county-grid reconciliation.
 

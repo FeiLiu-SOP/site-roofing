@@ -11,11 +11,14 @@ lng: -73.9700
 zipSample: ["12508"]
 zipCodes: ["12508"]
 localPaths: ["Dutchess County / coords 41.5000, -73.9700", "Dutchess County / elevation 171 ft band", "Dutchess County / ZIP 12508 sector", "Dutchess County / primary ZIP 12508"]
-zillowHomeValueUsd: 533889
 ---
 
-**Engineering Notice for Beacon:** Structural loading calculated based on 171 ft terrain assessment. Regional dispatch grid: Dutchess County.
+**Engineering Notice for Beacon:** Roof repair scope references 171 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Dutchess County.
 
+
+Storm damage roof service in Beacon, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Dutchess County clarifies whether service or replacement fits the damage pattern.
+
+Roofing service remediation in Beacon, NY, Dutchess County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -29,11 +32,11 @@ In Beacon, NY, wind-driven rain can lift shingle tabs before owners notice deck 
 
 Risk flag: Tile underlayment age in Beacon, NY can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-roof service brief: wind uplift clip spacing and starter-strip setback were cross-checked for the Beacon intake packet.
+Roof service brief: wind uplift clip spacing and starter-strip setback were cross-checked for the Beacon shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 41.5000, -73.9700 at elevation ~171 ft aligns with Dutchess County intake staging.
 

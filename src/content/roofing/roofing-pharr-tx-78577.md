@@ -11,11 +11,14 @@ lng: -98.1900
 zipSample: ["78577"]
 zipCodes: ["78577"]
 localPaths: ["Hidalgo County / elevation 102 ft band", "Hidalgo County / primary ZIP 78577", "Hidalgo County / ZIP 78577 sector", "Hidalgo County / coords 26.1700, -98.1900"]
-zillowHomeValueUsd: 164034
 ---
 
-**Engineering Notice for Pharr:** Structural loading calculated based on 102 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Pharr:** Roof repair scope references 102 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Hidalgo County.
 
+
+Storm damage roof work in Pharr, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hidalgo County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Pharr, TX, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -29,11 +32,9 @@ Risk flag: In Pharr, TX, interior stains may track from HVAC condensate rather t
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roof work brief: wind uplift clip spacing and pipe boot manufacturer match were cross-checked for the Pharr intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 78577.
+Roof remediation brief: wind uplift clip spacing and pipe boot manufacturer match were cross-checked for the Pharr shingle and leak scope.
 
 On-site sector marker: Hidalgo County / elevation 102 ft band — logged for map parity and ZIP-corridor verification.
 

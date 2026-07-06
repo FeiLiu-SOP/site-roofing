@@ -11,11 +11,14 @@ lng: -77.1000
 zipSample: ["22243", "22241", "22207", "22245", "22230"]
 zipCodes: ["22240", "22201", "22206", "22243", "22202", "22204", "22244", "22211", "22350", "22205", "22227", "22216"]
 localPaths: ["Arlington County / ZIP 22230 sector", "Arlington County / ZIP 22243 sector", "Arlington County / ZIP 22245 sector", "Arlington County / ZIP 22241 sector", "Arlington County / primary ZIP 22209"]
-zillowHomeValueUsd: 726655
 ---
 
-**Engineering Notice for Arlington:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Arlington County.
+**Engineering Notice for Arlington:** Roof repair scope references 282 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Arlington County.
 
+
+Roof service restoration in Arlington, VA, Arlington County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Arlington, VA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 We coordinate Arlington, VA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -35,7 +38,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Scope trace: drip-edge metal profile plus chimney cricket slope referenced in Arlington County county grid review.
+Scope trace: drip-edge metal profile plus chimney cricket slope referenced in Arlington County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 22227/22212/22245.
 

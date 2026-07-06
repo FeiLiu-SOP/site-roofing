@@ -11,11 +11,14 @@ lng: -117.5800
 zipSample: ["91752", "92880"]
 zipCodes: ["92880", "91752"]
 localPaths: ["Riverside County / coords 33.9600, -117.5800", "Riverside County / ZIP 91752 sector", "Riverside County / elevation 617 ft band", "Riverside County / primary ZIP 92880", "Riverside County / ZIP 92880 sector"]
-zillowHomeValueUsd: 954186
 ---
 
-**Engineering Notice for Eastvale:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Eastvale:** Storm and emergency leak triage uses 617 ft elevation band with Riverside County service-area context for roofing repairs.
 
+
+Storm damage roof service in Eastvale, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Riverside County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Eastvale, CA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -27,13 +30,11 @@ Attic ventilation deficits in Eastvale, CA can mimic roof leaks at ceiling penet
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 92880.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Eastvale, CA can fail independently of visible tile cracks.
 
-roof service brief: wind uplift clip spacing and ridge cap nail schedule were cross-checked for the Eastvale intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 92880/91752.
+Roof restoration brief: wind uplift clip spacing and ridge cap nail schedule were cross-checked for the Eastvale shingle and leak scope.
 
 On-site sector marker: Riverside County / primary ZIP 92880 — logged for map parity and ZIP-corridor verification.
 

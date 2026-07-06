@@ -11,11 +11,14 @@ lng: -111.9600
 zipSample: ["84405", "84403"]
 zipCodes: ["84403", "84405"]
 localPaths: ["Weber County / ZIP 84405 sector", "Weber County / primary ZIP 84405", "Weber County / elevation 4688 ft band", "Weber County / ZIP 84403 sector", "Weber County / coords 41.1700, -111.9600"]
-zillowHomeValueUsd: 460502
 ---
 
-**Engineering Notice for South Ogden:** Structural loading calculated based on 4688 ft terrain assessment. Regional dispatch grid: Weber County.
+**Engineering Notice for South Ogden:** Roof repair scope references 4688 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Weber County.
 
+
+Emergency roof service in South Ogden, UT often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Weber County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits South Ogden, UT, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -27,13 +30,11 @@ In South Ogden, UT, wind-driven rain can lift shingle tabs before owners notice 
 
 Risk flag: In South Ogden, UT, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
 FAQ: How long can shingles wait after storm damage? In South Ogden, UT, delayed dry-in can expand insulation and ceiling repairs.
-
-Field routing: attic baffle spacing paired with wind uplift clip spacing near ZIP 84405.
 
 On-site sector marker: Weber County / ZIP 84403 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,15 +11,18 @@ lng: -76.9800
 zipSample: ["20782", "20783"]
 zipCodes: ["20783", "20782"]
 localPaths: ["Prince George's County / ZIP 20783 sector", "Prince George's County / elevation 59 ft band", "Prince George's County / primary ZIP 20783", "Prince George's County / ZIP 20782 sector", "Prince George's County / coords 38.9700, -76.9800"]
-zillowHomeValueUsd: 405970
 ---
 
-**Engineering Notice for Chillum:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Chillum:** Storm and emergency leak triage uses 59 ft elevation band with Prince George's County service-area context for roofing repairs.
 
+
+Roof service service in Chillum, MD, Prince George's County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Chillum, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Prince George's County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: In Chillum, MD, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -31,7 +34,7 @@ TPO seam welds in Chillum, MD commercial sections need probe tests after freeze 
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-roof service brief: attic baffle spacing and drip-edge metal profile were cross-checked for the Chillum intake packet.
+Roof service brief: attic baffle spacing and drip-edge metal profile were cross-checked for the Chillum shingle and leak scope.
 
 On-site sector marker: Prince George's County / ZIP 20782 sector — logged for map parity and ZIP-corridor verification.
 

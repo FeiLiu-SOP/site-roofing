@@ -11,15 +11,18 @@ lng: -96.7900
 zipSample: ["75078", "75009"]
 zipCodes: ["75009", "75078"]
 localPaths: ["Collin County / ZIP 75009 sector", "Collin County / coords 33.3200, -96.7900", "Collin County / elevation 679 ft band", "Collin County / primary ZIP 75009", "Collin County / ZIP 75078 sector"]
-zillowHomeValueUsd: 537567
 ---
 
-**Engineering Notice for Celina:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: Collin County.
+**Engineering Notice for Celina:** Roof repair scope references 679 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Collin County.
 
+
+Roof work service in Celina, TX, Collin County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Celina, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Collin County clarifies whether remediation or replacement fits the damage pattern.
 
 Regulatory note: Celina, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Metal panel oil-canning in Celina, TX may signal clip spacing issues, not wind damage alone.
 
@@ -33,7 +36,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Step: compare shingle manufacturer wind-zone ratings for Celina, TX exposure class.
 
-roof work brief: starter-strip setback and valley metal gauge were cross-checked for the Celina intake packet.
+Roof restoration brief: starter-strip setback and valley metal gauge were cross-checked for the Celina shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 75009/75078.
 

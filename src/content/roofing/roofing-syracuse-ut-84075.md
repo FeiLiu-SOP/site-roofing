@@ -11,11 +11,14 @@ lng: -112.0700
 zipSample: ["84075"]
 zipCodes: ["84075"]
 localPaths: ["Davis County / primary ZIP 84075", "Davis County / coords 41.0900, -112.0700", "Davis County / ZIP 84075 sector", "Davis County / elevation 4275 ft band"]
-zillowHomeValueUsd: 585956
 ---
 
-**Engineering Notice for Syracuse:** Structural loading calculated based on 4275 ft terrain assessment. Regional dispatch grid: Davis County.
+**Engineering Notice for Syracuse:** Storm and emergency leak triage uses 4275 ft elevation band with Davis County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving Syracuse, UT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Syracuse, UT, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -29,15 +32,13 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Synthetic underlayment slip in Syracuse, UT is often tied to deck moisture, not wind alone.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-roof work brief: wind uplift clip spacing and synthetic underlayment slip were cross-checked for the Syracuse intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 84075.
+Roof restoration brief: wind uplift clip spacing and synthetic underlayment slip were cross-checked for the Syracuse shingle and leak scope.
 
 On-site sector marker: Davis County / ZIP 84075 sector — logged for map parity and ZIP-corridor verification.
 

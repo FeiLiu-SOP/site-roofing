@@ -11,11 +11,14 @@ lng: -80.2800
 zipSample: ["33412", "33411", "33470"]
 zipCodes: ["33411", "33412", "33470"]
 localPaths: ["Palm Beach County / ZIP 33470 sector", "Palm Beach County / coords 26.7700, -80.2800", "Palm Beach County / elevation 43 ft band", "Palm Beach County / ZIP 33412 sector", "Palm Beach County / primary ZIP 33411"]
-zillowHomeValueUsd: 465714
 ---
 
-**Engineering Notice for The Acreage:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for The Acreage:** Storm and emergency leak triage uses 43 ft elevation band with Palm Beach County service-area context for roofing repairs.
 
+
+Roofing service service in The Acreage, FL, Palm Beach County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof remediation crews serving The Acreage, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: In The Acreage, FL, algae-resistant granules may be specified for north-facing slopes.
 
@@ -33,9 +36,7 @@ Code context: Ventilation ratios for The Acreage, FL attics should be checked ag
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-Field routing: chimney cricket slope paired with ridge cap nail schedule near ZIP 33411.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 On-site sector marker: Palm Beach County / ZIP 33411 sector — logged for map parity and ZIP-corridor verification.
 

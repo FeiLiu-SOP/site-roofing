@@ -11,11 +11,14 @@ lng: -122.5100
 zipSample: ["97015", "97086", "97089"]
 zipCodes: ["97015", "97086", "97089"]
 localPaths: ["Clackamas County / primary ZIP 97015", "Clackamas County / coords 45.4400, -122.5100", "Clackamas County / ZIP 97086 sector", "Clackamas County / elevation 659 ft band", "Clackamas County / ZIP 97089 sector"]
-zillowHomeValueUsd: 587767
 ---
 
-**Engineering Notice for Happy Valley:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Clackamas County.
+**Engineering Notice for Happy Valley:** Storm and emergency leak triage uses 659 ft elevation band with Clackamas County service-area context for roofing repairs.
 
+
+Certified roof service crews serving Happy Valley, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Happy Valley, OR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Clackamas County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -32,8 +35,6 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 Tip: Note recent wind events when filing insurance photos for Happy Valley, OR.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
-
-Field routing: wind uplift clip spacing paired with valley metal gauge near ZIP 97015.
 
 On-site sector marker: Clackamas County / ZIP 97015 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -76.8800
 zipSample: ["17128", "17102", "17129", "17124", "17105"]
 zipCodes: ["17124", "17127", "17128", "17125", "17101", "17102", "17110", "17129", "17123", "17122", "17105", "17120"]
 localPaths: ["Dauphin County / coords 40.2800, -76.8800", "Dauphin County / ZIP 17102 sector", "Dauphin County / ZIP 17124 sector", "Dauphin County / ZIP 17128 sector", "Dauphin County / primary ZIP 17101"]
-zillowHomeValueUsd: 214177
 ---
 
-**Engineering Notice for Harrisburg:** Structural loading calculated based on 338 ft terrain assessment. Regional dispatch grid: Dauphin County.
+**Engineering Notice for Harrisburg:** Roof repair scope references 338 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Dauphin County.
 
+
+Roof work remediation in Harrisburg, PA, Dauphin County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Harrisburg, PA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Can you tarp only part of the roof? In Harrisburg, PA, yes—if slope and anchor points support safe tie-offs.
 
@@ -29,13 +32,11 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Attic ventilation deficits in Harrisburg, PA can mimic roof leaks at ceiling penetrations.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: compare shingle manufacturer wind-zone ratings for Harrisburg, PA exposure class.
 
-roof work brief: ridge cap nail schedule and soffit intake free area were cross-checked for the Harrisburg intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 17129/17122/17110.
+Roof service brief: ridge cap nail schedule and soffit intake free area were cross-checked for the Harrisburg shingle and leak scope.
 
 On-site sector marker: Dauphin County / ZIP 17126 sector — logged for map parity and ZIP-corridor verification.
 

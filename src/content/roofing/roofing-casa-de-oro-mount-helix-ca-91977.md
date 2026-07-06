@@ -11,11 +11,14 @@ lng: -116.9700
 zipSample: ["91976", "92020", "91941", "91977"]
 zipCodes: ["92020", "91977", "91976", "91941"]
 localPaths: ["San Diego County / primary ZIP 91977", "San Diego County / ZIP 92020 sector", "San Diego County / coords 32.7600, -116.9700", "San Diego County / ZIP 91941 sector", "San Diego County / ZIP 91977 sector"]
-zillowHomeValueUsd: 768716
 ---
 
-**Engineering Notice for Casa de Oro-Mount Helix:** Structural loading calculated based on 843 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Casa de Oro-Mount Helix:** Roof repair scope references 843 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Diego County.
 
+
+Storm damage roofing service in Casa de Oro-Mount Helix, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Diego County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof work restoration in Casa de Oro-Mount Helix, CA, San Diego County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: In Casa de Oro-Mount Helix, CA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -34,8 +37,6 @@ Wind-zone note: Casa de Oro-Mount Helix, CA exposure class can change starter-st
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
-
-roofing service brief: drip-edge metal profile and ice-barrier lap sequence were cross-checked for the Casa de Oro-Mount Helix intake packet.
 
 On-site sector marker: San Diego County / ZIP 91941 sector — logged for map parity and ZIP-corridor verification.
 

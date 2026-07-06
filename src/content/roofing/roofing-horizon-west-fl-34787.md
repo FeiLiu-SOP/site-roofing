@@ -11,15 +11,18 @@ lng: -81.6100
 zipSample: ["34787", "34777", "34778", "34786", "32836"]
 zipCodes: ["34787", "34777", "34786", "34778", "32836"]
 localPaths: ["Orange County / ZIP 34787 sector", "Orange County / elevation 125 ft band", "Orange County / ZIP 34786 sector", "Orange County / ZIP 34777 sector", "Orange County / ZIP 34778 sector"]
-zillowHomeValueUsd: 571245
 ---
 
-**Engineering Notice for Horizon West:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Horizon West:** Shingle, flashing, and ventilation review recorded at 125 ft AMSL context (Orange County).
 
+
+Roofing service restoration in Horizon West, FL, Orange County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Horizon West, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether service or replacement fits the damage pattern.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: In Horizon West, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -34,8 +37,6 @@ Wind-zone note: Horizon West, FL exposure class can change starter-strip and cap
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 Material note: In Horizon West, FL, algae-resistant granules may be specified for north-facing slopes.
-
-roofing service brief: valley metal gauge and wind uplift clip spacing were cross-checked for the Horizon West intake packet.
 
 On-site sector marker: Orange County / ZIP 34786 sector — logged for map parity and ZIP-corridor verification.
 

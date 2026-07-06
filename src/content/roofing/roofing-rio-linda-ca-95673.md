@@ -11,13 +11,16 @@ lng: -121.4400
 zipSample: ["95673"]
 zipCodes: ["95673"]
 localPaths: ["Sacramento County / primary ZIP 95673", "Sacramento County / elevation 59 ft band", "Sacramento County / coords 38.6900, -121.4400", "Sacramento County / ZIP 95673 sector"]
-zillowHomeValueUsd: 453207
 ---
 
-**Engineering Notice for Rio Linda:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Rio Linda:** Storm and emergency leak triage uses 59 ft elevation band with Sacramento County service-area context for roofing repairs.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Roof service remediation in Rio Linda, CA, Sacramento County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Rio Linda, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Sacramento County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -33,9 +36,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 FAQ: Is partial dry-in possible? In Rio Linda, CA, yes—if slope and anchor points support safe tie-offs.
 
-Scope trace: drip-edge metal profile plus wind uplift clip spacing referenced in Sacramento County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 95673.
+Scope trace: drip-edge metal profile plus wind uplift clip spacing referenced in Sacramento County storm and leak review.
 
 On-site sector marker: Sacramento County / elevation 59 ft band — logged for map parity and ZIP-corridor verification.
 

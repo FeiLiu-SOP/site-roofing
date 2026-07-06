@@ -11,13 +11,16 @@ lng: -81.4500
 zipSample: ["44124"]
 zipCodes: ["44124"]
 localPaths: ["Cuyahoga County / primary ZIP 44124", "Cuyahoga County / elevation 1086 ft band", "Cuyahoga County / ZIP 44124 sector", "Cuyahoga County / coords 41.5200, -81.4500"]
-zillowHomeValueUsd: 248430
 ---
 
-**Engineering Notice for Mayfield Heights:** Structural loading calculated based on 1086 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
+**Engineering Notice for Mayfield Heights:** Shingle, flashing, and ventilation review recorded at 1086 ft AMSL context (Cuyahoga County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Licensed roof restoration crews serving Mayfield Heights, OH review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Mayfield Heights, OH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cuyahoga County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: In Mayfield Heights, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -33,9 +36,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Tip: Note recent wind events when filing insurance photos for Mayfield Heights, OH.
 
-Scope trace: starter-strip setback plus shingle exposure calibration referenced in Cuyahoga County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 44124.
+Scope trace: starter-strip setback plus shingle exposure calibration referenced in Cuyahoga County storm and leak review.
 
 Primary postal anchor 44124 with multi-ZIP overlap in Mayfield Heights; field packets tag Cuyahoga County for county-grid reconciliation.
 

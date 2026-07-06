@@ -11,11 +11,14 @@ lng: -121.8800
 zipSample: ["94566", "94588"]
 zipCodes: ["94588", "94566"]
 localPaths: ["Alameda County / coords 37.6700, -121.8800", "Alameda County / ZIP 94566 sector", "Alameda County / primary ZIP 94566", "Alameda County / elevation 341 ft band", "Alameda County / ZIP 94588 sector"]
-zillowHomeValueUsd: 1746582
 ---
 
-**Engineering Notice for Pleasanton:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Pleasanton:** Roof repair scope references 341 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Alameda County.
 
+
+Storm damage roof service in Pleasanton, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Alameda County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Pleasanton, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tile and shingle mixes in Pleasanton, CA require different fastener patterns at transitions.
 
@@ -25,13 +28,11 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Regulatory note: Pleasanton, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
-
-Scope trace: pipe boot manufacturer match plus ridge cap nail schedule referenced in Alameda County county grid review.
 
 On-site sector marker: Alameda County / primary ZIP 94566 — logged for map parity and ZIP-corridor verification.
 

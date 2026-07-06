@@ -11,11 +11,14 @@ lng: -81.4100
 zipSample: ["44096", "44094"]
 zipCodes: ["44094", "44096"]
 localPaths: ["Lake County / coords 41.6500, -81.4100", "Lake County / elevation 640 ft band", "Lake County / ZIP 44096 sector", "Lake County / ZIP 44094 sector", "Lake County / primary ZIP 44094"]
-zillowHomeValueUsd: 284662
 ---
 
-**Engineering Notice for Willoughby:** Structural loading calculated based on 640 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Willoughby:** Shingle, flashing, and ventilation review recorded at 640 ft AMSL context (Lake County).
 
+
+Roof work service in Willoughby, OH, Lake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Willoughby, OH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lake County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Note recent wind events when filing insurance photos for Willoughby, OH.
 
@@ -29,15 +32,13 @@ Tile and shingle mixes in Willoughby, OH require different fastener patterns at 
 
 Material note: In Willoughby, OH, algae-resistant granules may be specified for north-facing slopes.
 
-Our Willoughby, OH dispatch packets reference county grid Lake County and elevation band 640 ft.
+Our Willoughby, OH remediation packets reference Lake County and elevation band 640 ft for shingle and leak scope.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
 Coastal humidity in Willoughby, OH can slow shingle seal-down after shoulder-season storms.
 
-Scope trace: attic baffle spacing plus wind uplift clip spacing referenced in Lake County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 44094/44096.
+Scope trace: attic baffle spacing plus wind uplift clip spacing referenced in Lake County storm and leak review.
 
 On-site sector marker: Lake County / elevation 640 ft band — logged for map parity and ZIP-corridor verification.
 

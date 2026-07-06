@@ -11,17 +11,20 @@ lng: -95.1200
 zipSample: ["77571", "77536"]
 zipCodes: ["77571", "77536"]
 localPaths: ["Harris County / elevation 39 ft band", "Harris County / ZIP 77571 sector", "Harris County / ZIP 77536 sector", "Harris County / coords 29.6900, -95.1200", "Harris County / primary ZIP 77571"]
-zillowHomeValueUsd: 257171
 ---
 
-**Engineering Notice for Deer Park:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for Deer Park:** Storm and emergency leak triage uses 39 ft elevation band with Harris County service-area context for roofing repairs.
 
+
+Storm damage roof service in Deer Park, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Harris County clarifies whether restoration or replacement fits the damage pattern.
+
+Roofing service service in Deer Park, TX, Harris County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 We coordinate Deer Park, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
 Code context: Ventilation ratios for Deer Park, TX attics should be checked against current mechanical exhaust additions.
 
-Step: separate emergency tarp scope from permanent remediation line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -34,8 +37,6 @@ FAQ: Can you tarp only part of the roof? In Deer Park, TX, yes—if slope and an
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Metal panel oil-canning in Deer Park, TX may signal clip spacing issues, not wind damage alone.
-
-roof service brief: ice-barrier lap sequence and pipe boot manufacturer match were cross-checked for the Deer Park intake packet.
 
 Primary postal anchor 77571 with multi-ZIP overlap in Deer Park; field packets tag Harris County for county-grid reconciliation.
 

@@ -11,11 +11,14 @@ lng: -112.0200
 zipSample: ["59623", "59626", "59624", "59602", "59625"]
 zipCodes: ["59601", "59626", "59623", "59625", "59602", "59624"]
 localPaths: ["Lewis and Clark County / ZIP 59625 sector", "Lewis and Clark County / ZIP 59623 sector", "Lewis and Clark County / ZIP 59626 sector", "Lewis and Clark County / primary ZIP 59601", "Lewis and Clark County / ZIP 59602 sector"]
-zillowHomeValueUsd: 434734
 ---
 
-**Engineering Notice for Helena:** Structural loading calculated based on 3990 ft terrain assessment. Regional dispatch grid: Lewis and Clark County.
+**Engineering Notice for Helena:** Roof repair scope references 3990 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Lewis and Clark County.
 
+
+When wind or hail hits Helena, MT, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Licensed roof restoration crews serving Helena, MT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -27,11 +30,9 @@ Code context: Ventilation ratios for Helena, MT attics should be checked against
 
 Skylight curb flashing in Helena, MT should be sequenced before ridge cap replacement.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Field routing: skylight curb height paired with deck sheathing thickness near ZIP 59601.
 
 On-site sector marker: Lewis and Clark County / ZIP 59624 sector — logged for map parity and ZIP-corridor verification.
 

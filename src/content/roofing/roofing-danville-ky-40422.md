@@ -11,13 +11,16 @@ lng: -84.7800
 zipSample: ["40422", "40423"]
 zipCodes: ["40422", "40423"]
 localPaths: ["Boyle County / primary ZIP 40422", "Boyle County / ZIP 40423 sector", "Boyle County / elevation 961 ft band", "Boyle County / coords 37.6400, -84.7800", "Boyle County / ZIP 40422 sector"]
-zillowHomeValueUsd: 247941
 ---
 
-**Engineering Notice for Danville:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Boyle County.
+**Engineering Notice for Danville:** Roof repair scope references 961 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Boyle County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Qualified roof remediation crews serving Danville, KY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service service in Danville, KY, Boyle County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Danville, KY can fail independently of visible tile cracks.
 
@@ -35,9 +38,7 @@ Synthetic underlayment slip in Danville, KY is often tied to deck moisture, not 
 
 Step: map ventilation intake and exhaust pairs for Danville, KY attic runs.
 
-Scope trace: synthetic underlayment slip plus ridge cap nail schedule referenced in Boyle County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 40423/40422.
+Scope trace: synthetic underlayment slip plus ridge cap nail schedule referenced in Boyle County storm and leak review.
 
 On-site sector marker: Boyle County / ZIP 40422 sector — logged for map parity and ZIP-corridor verification.
 

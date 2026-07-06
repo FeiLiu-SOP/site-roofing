@@ -11,11 +11,14 @@ lng: -87.9200
 zipSample: ["60078", "60090"]
 zipCodes: ["60078", "60090"]
 localPaths: ["Cook County / coords 42.1300, -87.9200", "Cook County / elevation 653 ft band", "Cook County / primary ZIP 60090", "Cook County / ZIP 60090 sector", "Cook County / ZIP 60078 sector"]
-zillowHomeValueUsd: 305450
 ---
 
-**Engineering Notice for Wheeling:** Structural loading calculated based on 653 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Wheeling:** Shingle, flashing, and ventilation review recorded at 653 ft AMSL context (Cook County).
 
+
+When wind or hail hits Wheeling, IL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof work in Wheeling, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cook County clarifies whether remediation or replacement fits the damage pattern.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -23,7 +26,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Freeze-thaw cycles around Wheeling, IL stress nail pops along eaves and rake edges.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -32,8 +35,6 @@ Regulatory note: Wheeling, IL projects may trigger ice-barrier upgrades when tea
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Step: note chimney cricket geometry before counter-flashing removal.
-
-Scope trace: starter-strip setback plus synthetic underlayment slip referenced in Cook County county grid review.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~653 ft across the Cook County area. Coordinates: 42.1300, -87.9200. ZIP sample: 60078, 60090. Logistics priority: Serving residential sectors across Cook County and north-east ZIP 60090 grid.
 

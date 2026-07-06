@@ -11,13 +11,16 @@ lng: -112.0200
 zipSample: ["84015", "84089", "84016"]
 zipCodes: ["84089", "84015", "84016"]
 localPaths: ["Davis County / coords 41.1000, -112.0200", "Davis County / ZIP 84089 sector", "Davis County / elevation 4446 ft band", "Davis County / ZIP 84016 sector", "Davis County / ZIP 84015 sector"]
-zillowHomeValueUsd: 466005
 ---
 
-**Engineering Notice for Clearfield:** Structural loading calculated based on 4446 ft terrain assessment. Regional dispatch grid: Davis County.
+**Engineering Notice for Clearfield:** Storm and emergency leak triage uses 4446 ft elevation band with Davis County service-area context for roofing repairs.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Storm damage roof service in Clearfield, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Davis County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof restoration in Clearfield, UT often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Davis County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Code context: Ventilation ratios for Clearfield, UT attics should be checked against current mechanical exhaust additions.
 
@@ -32,8 +35,6 @@ Risk flag: In Clearfield, UT, interior stains may track from HVAC condensate rat
 Parapet coping movement in Clearfield, UT can channel water behind wall cladding.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
-
-roof service brief: deck sheathing thickness and attic baffle spacing were cross-checked for the Clearfield intake packet.
 
 On-site sector marker: Davis County / ZIP 84015 sector — logged for map parity and ZIP-corridor verification.
 

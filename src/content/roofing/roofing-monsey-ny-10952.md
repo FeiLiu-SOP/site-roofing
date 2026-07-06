@@ -11,11 +11,14 @@ lng: -74.0700
 zipSample: ["10952", "10977"]
 zipCodes: ["10977", "10952"]
 localPaths: ["Rockland County / ZIP 10952 sector", "Rockland County / ZIP 10977 sector", "Rockland County / primary ZIP 10952", "Rockland County / elevation 554 ft band", "Rockland County / coords 41.1200, -74.0700"]
-zillowHomeValueUsd: 1129911
 ---
 
-**Engineering Notice for Monsey:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: Rockland County.
+**Engineering Notice for Monsey:** Shingle, flashing, and ventilation review recorded at 554 ft AMSL context (Rockland County).
 
+
+Certified roof restoration crews serving Monsey, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service remediation in Monsey, NY, Rockland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Skylight curb flashing in Monsey, NY should be sequenced before ridge cap replacement.
 
@@ -23,7 +26,7 @@ Step: confirm drip-edge continuity before shingle courses restart.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -33,9 +36,7 @@ Regulatory note: Monsey, NY projects may trigger ice-barrier upgrades when tear-
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Scope trace: valley metal gauge plus counter-flashing reglet depth referenced in Rockland County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 10977/10952.
+Scope trace: valley metal gauge plus counter-flashing reglet depth referenced in Rockland County storm and leak review.
 
 Regional mesh label Rockland County: moisture and logistics baselines are keyed to Monsey, NY before niche-specific work begins.
 

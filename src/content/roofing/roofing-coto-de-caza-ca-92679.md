@@ -11,15 +11,18 @@ lng: -117.5900
 zipSample: ["92679"]
 zipCodes: ["92679"]
 localPaths: ["Orange County / elevation 659 ft band", "Orange County / coords 33.6000, -117.5900", "Orange County / ZIP 92679 sector", "Orange County / primary ZIP 92679"]
-zillowHomeValueUsd: 1600712
 ---
 
-**Engineering Notice for Coto de Caza:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Coto de Caza:** Roof repair scope references 659 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Orange County.
 
+
+Storm damage roofing service in Coto de Caza, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Coto de Caza, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Is partial dry-in possible? In Coto de Caza, CA, yes—if slope and anchor points support safe tie-offs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -33,7 +36,7 @@ Risk flag: Tile underlayment age in Coto de Caza, CA can fail independently of v
 
 Step: map ventilation intake and exhaust pairs for Coto de Caza, CA attic runs.
 
-roofing service brief: shingle exposure calibration and ice-barrier lap sequence were cross-checked for the Coto de Caza intake packet.
+Roof service brief: shingle exposure calibration and ice-barrier lap sequence were cross-checked for the Coto de Caza shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 92679.
 

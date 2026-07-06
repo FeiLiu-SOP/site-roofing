@@ -11,11 +11,14 @@ lng: -104.8000
 zipSample: ["80603", "80601"]
 zipCodes: ["80603", "80601"]
 localPaths: ["Adams County / primary ZIP 80603", "Adams County / coords 39.9700, -104.8000", "Adams County / elevation 5030 ft band", "Adams County / ZIP 80601 sector", "Adams County / ZIP 80603 sector"]
-zillowHomeValueUsd: 502721
 ---
 
-**Engineering Notice for Brighton:** Structural loading calculated based on 5030 ft terrain assessment. Regional dispatch grid: Adams County.
+**Engineering Notice for Brighton:** Storm and emergency leak triage uses 5030 ft elevation band with Adams County service-area context for roofing repairs.
 
+
+Roof service service in Brighton, CO, Adams County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Brighton, CO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Adams County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -29,11 +32,9 @@ Granule embedment loss on Brighton, CO north slopes can precede mat exposure.
 
 FAQ: Is partial dry-in possible? In Brighton, CO, yes—if slope and anchor points support safe tie-offs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Field routing: attic baffle spacing paired with shingle exposure calibration near ZIP 80603.
-
-Field note: Shingle seal-down timing logged near ZIP 80603/80601.
+Local service note: attic baffle spacing paired with shingle exposure calibration near ZIP 80603 for emergency roof service repairs.
 
 On-site sector marker: Adams County / ZIP 80603 sector — logged for map parity and ZIP-corridor verification.
 

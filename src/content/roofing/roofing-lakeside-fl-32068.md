@@ -11,13 +11,16 @@ lng: -81.7700
 zipSample: ["32065", "32068", "32073", "32030"]
 zipCodes: ["32068", "32073", "32030", "32065"]
 localPaths: ["Clay County / ZIP 32068 sector", "Clay County / ZIP 32065 sector", "Clay County / coords 30.1400, -81.7700", "Clay County / primary ZIP 32068", "Clay County / ZIP 32030 sector"]
-zillowHomeValueUsd: 325229
 ---
 
-**Engineering Notice for Lakeside:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Clay County.
+**Engineering Notice for Lakeside:** Storm and emergency leak triage uses 69 ft elevation band with Clay County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Roof work restoration in Lakeside, FL, Clay County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof restoration crews serving Lakeside, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -30,8 +33,6 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Granule embedment loss on Lakeside, FL north slopes can precede mat exposure.
-
-Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Clay County county grid review.
 
 On-site sector marker: Clay County / ZIP 32073 sector — logged for map parity and ZIP-corridor verification.
 

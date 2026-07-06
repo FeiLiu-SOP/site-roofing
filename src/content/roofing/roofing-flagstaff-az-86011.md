@@ -11,11 +11,14 @@ lng: -111.6200
 zipSample: ["86011", "86005", "86004", "86001", "86002"]
 zipCodes: ["86001", "86011", "86004", "86002", "86005"]
 localPaths: ["Coconino County / elevation 6837 ft band", "Coconino County / ZIP 86011 sector", "Coconino County / primary ZIP 86011", "Coconino County / ZIP 86005 sector", "Coconino County / ZIP 86004 sector"]
-zillowHomeValueUsd: 666900
 ---
 
-**Engineering Notice for Flagstaff:** Structural loading calculated based on 6837 ft terrain assessment. Regional dispatch grid: Coconino County.
+**Engineering Notice for Flagstaff:** Storm and emergency leak triage uses 6837 ft elevation band with Coconino County service-area context for roofing repairs.
 
+
+Emergency roof restoration in Flagstaff, AZ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Coconino County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits Flagstaff, AZ, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -31,11 +34,9 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Field routing: counter-flashing reglet depth paired with soffit intake free area near ZIP 86011.
-
-Field note: Attic moisture pathway scan referenced ZIP 86011/86005/86002.
+Local service note: counter-flashing reglet depth paired with soffit intake free area near ZIP 86011 for emergency roof service repairs.
 
 On-site sector marker: Coconino County / ZIP 86004 sector — logged for map parity and ZIP-corridor verification.
 

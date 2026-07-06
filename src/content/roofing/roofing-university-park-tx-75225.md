@@ -11,13 +11,16 @@ lng: -96.7900
 zipSample: ["75225", "75205", "75275"]
 zipCodes: ["75275", "75225", "75205"]
 localPaths: ["Dallas County / ZIP 75205 sector", "Dallas County / coords 32.8500, -96.7900", "Dallas County / elevation 571 ft band", "Dallas County / ZIP 75225 sector", "Dallas County / ZIP 75275 sector"]
-zillowHomeValueUsd: 2057947
 ---
 
-**Engineering Notice for University Park:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for University Park:** Shingle, flashing, and ventilation review recorded at 571 ft AMSL context (Dallas County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+When wind or hail hits University Park, TX, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof service in University Park, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Dallas County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -35,7 +38,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-roofing service brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the University Park intake packet.
+Roof remediation brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the University Park shingle and leak scope.
 
 Primary postal anchor 75225 with multi-ZIP overlap in University Park; field packets tag Dallas County for county-grid reconciliation.
 

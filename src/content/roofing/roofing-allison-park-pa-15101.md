@@ -11,15 +11,18 @@ lng: -79.9600
 zipSample: ["15091", "15101"]
 zipCodes: ["15101", "15091"]
 localPaths: ["Allegheny County / coords 40.5700, -79.9600", "Allegheny County / ZIP 15101 sector", "Allegheny County / elevation 1112 ft band", "Allegheny County / ZIP 15091 sector", "Allegheny County / primary ZIP 15101"]
-zillowHomeValueUsd: 378265
 ---
 
-**Engineering Notice for Allison Park:** Structural loading calculated based on 1112 ft terrain assessment. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Allison Park:** Storm and emergency leak triage uses 1112 ft elevation band with Allegheny County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Allison Park, PA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Allegheny County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Allison Park, PA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Allegheny County clarifies whether remediation or replacement fits the damage pattern.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: compare shingle manufacturer wind-zone ratings for Allison Park, PA exposure class.
 
@@ -35,7 +38,7 @@ FAQ: Is partial dry-in possible? In Allison Park, PA, yes—if slope and anchor 
 
 Risk flag: In Allison Park, PA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Scope trace: drip-edge metal profile plus pipe boot manufacturer match referenced in Allegheny County county grid review.
+Scope trace: drip-edge metal profile plus pipe boot manufacturer match referenced in Allegheny County storm and leak review.
 
 On-site sector marker: Allegheny County / ZIP 15091 sector — logged for map parity and ZIP-corridor verification.
 

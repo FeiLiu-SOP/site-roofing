@@ -11,11 +11,14 @@ lng: -82.2300
 zipSample: ["29652", "29650", "29651"]
 zipCodes: ["29652", "29651", "29650"]
 localPaths: ["Greenville County / elevation 978 ft band", "Greenville County / coords 34.9300, -82.2300", "Greenville County / ZIP 29651 sector", "Greenville County / primary ZIP 29651", "Greenville County / ZIP 29650 sector"]
-zillowHomeValueUsd: 335384
 ---
 
-**Engineering Notice for Greer:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Greenville County.
+**Engineering Notice for Greer:** Storm and emergency leak triage uses 978 ft elevation band with Greenville County service-area context for roofing repairs.
 
+
+Certified roof restoration crews serving Greer, SC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Greer, SC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Greenville County clarifies whether restoration or replacement fits the damage pattern.
 
 Wood shake courses in Greer, SC require skip-spacing rules at valleys.
 
@@ -31,9 +34,7 @@ FAQ: Is partial dry-in possible? In Greer, SC, yes—if slope and anchor points 
 
 Wind-zone note: Greer, SC exposure class can change starter-strip and cap nail schedules.
 
-Field routing: wind uplift clip spacing paired with starter-strip setback near ZIP 29651.
-
-Field note: Valley debris and granule loss noted for ZIP 29650/29652/29651.
+Local service note: wind uplift clip spacing paired with starter-strip setback near ZIP 29651 for emergency roof service repairs.
 
 Regional mesh label Greenville County: moisture and logistics baselines are keyed to Greer, SC before niche-specific work begins.
 

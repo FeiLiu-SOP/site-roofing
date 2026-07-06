@@ -11,15 +11,18 @@ lng: -75.1800
 zipSample: ["08865"]
 zipCodes: ["08865"]
 localPaths: ["Warren County / ZIP 08865 sector", "Warren County / coords 40.6900, -75.1800", "Warren County / primary ZIP 08865", "Warren County / elevation 308 ft band"]
-zillowHomeValueUsd: 336559
 ---
 
-**Engineering Notice for Phillipsburg:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Warren County.
+**Engineering Notice for Phillipsburg:** Shingle, flashing, and ventilation review recorded at 308 ft AMSL context (Warren County).
 
+
+Roof service service in Phillipsburg, NJ, Warren County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof remediation crews serving Phillipsburg, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wind-zone note: Phillipsburg, NJ exposure class can change starter-strip and cap nail schedules.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -29,9 +32,7 @@ Step: separate emergency tarp scope from permanent restoration line items.
 
 Wood shake courses in Phillipsburg, NJ require skip-spacing rules at valleys.
 
-FAQ: When should permanent service start? In Phillipsburg, NJ, delayed dry-in can expand insulation and ceiling repairs.
-
-Scope trace: synthetic underlayment slip plus ridge cap nail schedule referenced in Warren County county grid review.
+FAQ: When should permanent restoration start? In Phillipsburg, NJ, delayed dry-in can expand insulation and ceiling repairs.
 
 Regional mesh label Warren County: moisture and logistics baselines are keyed to Phillipsburg, NJ before niche-specific work begins.
 

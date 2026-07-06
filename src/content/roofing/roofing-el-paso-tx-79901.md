@@ -11,15 +11,18 @@ lng: -106.4300
 zipSample: ["79960", "79958", "79932", "88573", "79906"]
 zipCodes: ["79906", "79924", "79917", "79941", "79907", "88583", "79945", "79942", "79903", "88570", "88578", "88580"]
 localPaths: ["El Paso County / ZIP 79960 sector", "El Paso County / ZIP 79906 sector", "El Paso County / ZIP 79932 sector", "El Paso County / ZIP 88573 sector", "El Paso County / ZIP 79958 sector"]
-zillowHomeValueUsd: 137658
 ---
 
-**Engineering Notice for El Paso:** Structural loading calculated based on 3875 ft terrain assessment. Regional dispatch grid: El Paso County.
+**Engineering Notice for El Paso:** Roof repair scope references 3875 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in El Paso County.
 
+
+Roof service remediation in El Paso, TX, El Paso County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits El Paso, TX, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Freeze-thaw cycles around El Paso, TX stress nail pops along eaves and rake edges.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -33,9 +36,7 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Scope trace: shingle exposure calibration plus wind uplift clip spacing referenced in El Paso County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 79905/79953/88558.
+Scope trace: shingle exposure calibration plus wind uplift clip spacing referenced in El Paso County storm and leak review.
 
 On-site sector marker: El Paso County / coords 31.8500, -106.4300 — logged for map parity and ZIP-corridor verification.
 

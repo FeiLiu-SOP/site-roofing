@@ -11,15 +11,18 @@ lng: -81.9200
 zipSample: ["44070"]
 zipCodes: ["44070"]
 localPaths: ["Cuyahoga County / ZIP 44070 sector", "Cuyahoga County / coords 41.4100, -81.9200", "Cuyahoga County / elevation 768 ft band", "Cuyahoga County / primary ZIP 44070"]
-zillowHomeValueUsd: 270655
 ---
 
-**Engineering Notice for North Olmsted:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
+**Engineering Notice for North Olmsted:** Shingle, flashing, and ventilation review recorded at 768 ft AMSL context (Cuyahoga County).
 
+
+Roof service service in North Olmsted, OH, Cuyahoga County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof service crews serving North Olmsted, OH review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wind-zone note: North Olmsted, OH exposure class can change starter-strip and cap nail schedules.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -31,7 +34,7 @@ Hail bruising on North Olmsted, OH ridges may not breach felt until the next win
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-Scope trace: pipe boot manufacturer match plus ridge cap nail schedule referenced in Cuyahoga County county grid review.
+Scope trace: pipe boot manufacturer match plus ridge cap nail schedule referenced in Cuyahoga County storm and leak review.
 
 On-site sector marker: Cuyahoga County / coords 41.4100, -81.9200 — logged for map parity and ZIP-corridor verification.
 

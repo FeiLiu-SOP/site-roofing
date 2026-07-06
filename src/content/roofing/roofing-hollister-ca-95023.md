@@ -11,11 +11,14 @@ lng: -121.4000
 zipSample: ["95024", "95023"]
 zipCodes: ["95023", "95024"]
 localPaths: ["San Benito County / coords 36.8600, -121.4000", "San Benito County / primary ZIP 95023", "San Benito County / ZIP 95023 sector", "San Benito County / ZIP 95024 sector", "San Benito County / elevation 282 ft band"]
-zillowHomeValueUsd: 763169
 ---
 
-**Engineering Notice for Hollister:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: San Benito County.
+**Engineering Notice for Hollister:** Storm and emergency leak triage uses 282 ft elevation band with San Benito County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving Hollister, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Hollister, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Benito County clarifies whether restoration or replacement fits the damage pattern.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -27,11 +30,9 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Across Hollister, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Code context: Ventilation ratios for Hollister, CA attics should be checked against current mechanical exhaust additions.
-
-roofing service brief: deck sheathing thickness and skylight curb height were cross-checked for the Hollister intake packet.
 
 Coordinate-anchored dispatch note: center reference 36.8600, -121.4000 at elevation ~282 ft aligns with San Benito County intake staging.
 

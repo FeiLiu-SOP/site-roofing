@@ -11,11 +11,14 @@ lng: -84.8400
 zipSample: ["30157", "30132"]
 zipCodes: ["30132", "30157"]
 localPaths: ["Paulding County / ZIP 30132 sector", "Paulding County / primary ZIP 30132", "Paulding County / coords 33.9200, -84.8400", "Paulding County / ZIP 30157 sector", "Paulding County / elevation 978 ft band"]
-zillowHomeValueUsd: 376519
 ---
 
-**Engineering Notice for Dallas:** Structural loading calculated based on 978 ft terrain assessment. Regional dispatch grid: Paulding County.
+**Engineering Notice for Dallas:** Shingle, flashing, and ventilation review recorded at 978 ft AMSL context (Paulding County).
 
+
+Storm damage roof service in Dallas, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Paulding County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof restoration in Dallas, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Paulding County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -29,15 +32,13 @@ Synthetic underlayment slip in Dallas, GA is often tied to deck moisture, not wi
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
 Code context: Ventilation ratios for Dallas, GA attics should be checked against current mechanical exhaust additions.
 
-roof service brief: pipe boot manufacturer match and wind uplift clip spacing were cross-checked for the Dallas intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 30132/30157.
+Roof service brief: pipe boot manufacturer match and wind uplift clip spacing were cross-checked for the Dallas shingle and leak scope.
 
 On-site sector marker: Paulding County / elevation 978 ft band — logged for map parity and ZIP-corridor verification.
 

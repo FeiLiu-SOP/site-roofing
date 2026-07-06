@@ -11,15 +11,18 @@ lng: -77.8400
 zipSample: ["28411"]
 zipCodes: ["28411"]
 localPaths: ["New Hanover County / elevation 36 ft band", "New Hanover County / ZIP 28411 sector", "New Hanover County / coords 34.2900, -77.8400", "New Hanover County / primary ZIP 28411"]
-zillowHomeValueUsd: 463611
 ---
 
-**Engineering Notice for Murraysville:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: New Hanover County.
+**Engineering Notice for Murraysville:** Shingle, flashing, and ventilation review recorded at 36 ft AMSL context (New Hanover County).
 
 
-Our Murraysville, NC dispatch packets reference county grid New Hanover County and elevation band 36 ft.
+Storm damage roofing service in Murraysville, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in New Hanover County clarifies whether remediation or replacement fits the damage pattern.
 
-Step: separate emergency tarp scope from permanent remediation line items.
+When wind or hail hits Murraysville, NC, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Our Murraysville, NC remediation packets reference New Hanover County and elevation band 36 ft for shingle and leak scope.
+
+Step: separate emergency tarp scope from permanent restoration line items.
 
 Risk flag: Tile underlayment age in Murraysville, NC can fail independently of visible tile cracks.
 
@@ -33,9 +36,7 @@ Across Murraysville, NC, ice-dam seasons often begin with clogged gutters rather
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field routing: counter-flashing reglet depth paired with attic baffle spacing near ZIP 28411.
-
-Field note: Attic moisture pathway scan referenced ZIP 28411.
+Local service note: counter-flashing reglet depth paired with attic baffle spacing near ZIP 28411 for emergency roofing service repairs.
 
 On-site sector marker: New Hanover County / primary ZIP 28411 — logged for map parity and ZIP-corridor verification.
 

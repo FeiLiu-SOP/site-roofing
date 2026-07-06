@@ -11,13 +11,16 @@ lng: -88.3900
 zipSample: ["54911", "54915", "54912", "54919", "54913"]
 zipCodes: ["54915", "54912", "54914", "54919", "54911", "54913"]
 localPaths: ["Outagamie County / ZIP 54911 sector", "Outagamie County / ZIP 54915 sector", "Outagamie County / elevation 791 ft band", "Outagamie County / coords 44.2800, -88.3900", "Outagamie County / ZIP 54913 sector"]
-zillowHomeValueUsd: 303669
 ---
 
-**Engineering Notice for Appleton:** Structural loading calculated based on 791 ft terrain assessment. Regional dispatch grid: Outagamie County.
+**Engineering Notice for Appleton:** Shingle, flashing, and ventilation review recorded at 791 ft AMSL context (Outagamie County).
 
 
-Our Appleton, WI dispatch packets reference county grid Outagamie County and elevation band 791 ft.
+Storm damage roof service in Appleton, WI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Outagamie County clarifies whether service or replacement fits the damage pattern.
+
+Licensed roof restoration crews serving Appleton, WI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Our Appleton, WI service packets reference Outagamie County and elevation band 791 ft for shingle and leak scope.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -30,8 +33,6 @@ Regulatory note: Appleton, WI projects may trigger ice-barrier upgrades when tea
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Wood shake courses in Appleton, WI require skip-spacing rules at valleys.
-
-Field routing: ice-barrier lap sequence paired with pipe boot manufacturer match near ZIP 54914.
 
 On-site sector marker: Outagamie County / ZIP 54914 sector — logged for map parity and ZIP-corridor verification.
 

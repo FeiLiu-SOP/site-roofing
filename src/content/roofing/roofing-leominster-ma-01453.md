@@ -11,11 +11,14 @@ lng: -71.7700
 zipSample: ["01453"]
 zipCodes: ["01453"]
 localPaths: ["Worcester County / ZIP 01453 sector", "Worcester County / elevation 502 ft band", "Worcester County / primary ZIP 01453", "Worcester County / coords 42.5200, -71.7700"]
-zillowHomeValueUsd: 463722
 ---
 
-**Engineering Notice for Leominster:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Worcester County.
+**Engineering Notice for Leominster:** Shingle, flashing, and ventilation review recorded at 502 ft AMSL context (Worcester County).
 
+
+Qualified roof remediation crews serving Leominster, MA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Leominster, MA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Worcester County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -30,8 +33,6 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
-
-roofing service brief: skylight curb height and ridge cap nail schedule were cross-checked for the Leominster intake packet.
 
 Coordinate-anchored dispatch note: center reference 42.5200, -71.7700 at elevation ~502 ft aligns with Worcester County intake staging.
 

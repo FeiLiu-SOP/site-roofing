@@ -11,11 +11,14 @@ lng: -77.0600
 zipSample: ["22307", "22308"]
 zipCodes: ["22307", "22308"]
 localPaths: ["Fairfax County / ZIP 22308 sector", "Fairfax County / coords 38.7400, -77.0600", "Fairfax County / primary ZIP 22308", "Fairfax County / ZIP 22307 sector", "Fairfax County / elevation 39 ft band"]
-zillowHomeValueUsd: 976002
 ---
 
-**Engineering Notice for Fort Hunt:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Fort Hunt:** Shingle, flashing, and ventilation review recorded at 39 ft AMSL context (Fairfax County).
 
+
+Certified roof service crews serving Fort Hunt, VA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Fort Hunt, VA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Fairfax County clarifies whether remediation or replacement fits the damage pattern.
 
 Granule embedment loss on Fort Hunt, VA north slopes can precede mat exposure.
 
@@ -32,8 +35,6 @@ Material note: In Fort Hunt, VA, algae-resistant granules may be specified for n
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
-
-Field routing: attic baffle spacing paired with starter-strip setback near ZIP 22308.
 
 On-site sector marker: Fairfax County / elevation 39 ft band — logged for map parity and ZIP-corridor verification.
 

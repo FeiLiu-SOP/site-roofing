@@ -11,27 +11,28 @@ lng: -95.8800
 zipSample: ["74008"]
 zipCodes: ["74008"]
 localPaths: ["Tulsa County / coords 35.9500, -95.8800", "Tulsa County / primary ZIP 74008", "Tulsa County / elevation 617 ft band", "Tulsa County / ZIP 74008 sector"]
-zillowHomeValueUsd: 349693
 ---
 
-**Engineering Notice for Bixby:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Tulsa County.
+**Engineering Notice for Bixby:** Roof repair scope references 617 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Tulsa County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Roof service service in Bixby, OK, Tulsa County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof remediation crews serving Bixby, OK review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Granule embedment loss on Bixby, OK north slopes can precede mat exposure.
 
 Regulatory note: Bixby, OK projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Tip: Note recent wind events when filing insurance photos for Bixby, OK.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
 Risk flag: Tile underlayment age in Bixby, OK can fail independently of visible tile cracks.
-
-Scope trace: synthetic underlayment slip plus skylight curb height referenced in Tulsa County county grid review.
 
 On-site sector marker: Tulsa County / elevation 617 ft band — logged for map parity and ZIP-corridor verification.
 

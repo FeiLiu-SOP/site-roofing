@@ -11,11 +11,14 @@ lng: -88.6400
 zipSample: ["42001", "42002", "42003"]
 zipCodes: ["42003", "42002", "42001"]
 localPaths: ["McCracken County / primary ZIP 42003", "McCracken County / elevation 387 ft band", "McCracken County / ZIP 42003 sector", "McCracken County / ZIP 42001 sector", "McCracken County / ZIP 42002 sector"]
-zillowHomeValueUsd: 161237
 ---
 
-**Engineering Notice for Paducah:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: McCracken County.
+**Engineering Notice for Paducah:** Storm and emergency leak triage uses 387 ft elevation band with McCracken County service-area context for roofing repairs.
 
+
+When wind or hail hits Paducah, KY, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Certified roof service crews serving Paducah, KY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 In Paducah, KY, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -25,7 +28,7 @@ Skylight curb flashing in Paducah, KY should be sequenced before ridge cap repla
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -34,8 +37,6 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 Step: map ventilation intake and exhaust pairs for Paducah, KY attic runs.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Scope trace: deck sheathing thickness plus ice-barrier lap sequence referenced in McCracken County county grid review.
 
 On-site sector marker: McCracken County / ZIP 42002 sector — logged for map parity and ZIP-corridor verification.
 

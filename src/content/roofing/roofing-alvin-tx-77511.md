@@ -11,11 +11,14 @@ lng: -95.2900
 zipSample: ["77511", "77512", "77583"]
 zipCodes: ["77511", "77583", "77512"]
 localPaths: ["Brazoria County / coords 29.3900, -95.2900", "Brazoria County / elevation 46 ft band", "Brazoria County / ZIP 77512 sector", "Brazoria County / ZIP 77511 sector", "Brazoria County / primary ZIP 77511"]
-zillowHomeValueUsd: 295848
 ---
 
-**Engineering Notice for Alvin:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Brazoria County.
+**Engineering Notice for Alvin:** Roof repair scope references 46 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Brazoria County.
 
+
+When wind or hail hits Alvin, TX, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Certified roof service crews serving Alvin, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Freeze-thaw cycles around Alvin, TX stress nail pops along eaves and rake edges.
 
@@ -29,11 +32,11 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Wind-zone note: Alvin, TX exposure class can change starter-strip and cap nail schedules.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 FAQ: Is partial dry-in possible? In Alvin, TX, yes—if slope and anchor points support safe tie-offs.
 
-Scope trace: ice-barrier lap sequence plus pipe boot manufacturer match referenced in Brazoria County county grid review.
+Scope trace: ice-barrier lap sequence plus pipe boot manufacturer match referenced in Brazoria County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 77512/77583/77511.
 

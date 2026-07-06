@@ -11,11 +11,14 @@ lng: -117.0200
 zipSample: ["91942", "91941", "91944", "91943"]
 zipCodes: ["91944", "91942", "91941", "91943"]
 localPaths: ["San Diego County / ZIP 91943 sector", "San Diego County / ZIP 91941 sector", "San Diego County / primary ZIP 91941", "San Diego County / coords 32.7700, -117.0200", "San Diego County / ZIP 91944 sector"]
-zillowHomeValueUsd: 1030878
 ---
 
-**Engineering Notice for La Mesa:** Structural loading calculated based on 554 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for La Mesa:** Shingle, flashing, and ventilation review recorded at 554 ft AMSL context (San Diego County).
 
+
+When wind or hail hits La Mesa, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in La Mesa, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in San Diego County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: separate emergency tarp scope from permanent restoration line items.
 
@@ -31,9 +34,7 @@ Metal panel oil-canning in La Mesa, CA may signal clip spacing issues, not wind 
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roof service brief: starter-strip setback and synthetic underlayment slip were cross-checked for the La Mesa intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 91943/91941/91942.
+Roof restoration brief: starter-strip setback and synthetic underlayment slip were cross-checked for the La Mesa shingle and leak scope.
 
 On-site sector marker: San Diego County / coords 32.7700, -117.0200 — logged for map parity and ZIP-corridor verification.
 

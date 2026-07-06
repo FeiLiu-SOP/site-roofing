@@ -11,11 +11,14 @@ lng: -124.1600
 zipSample: ["95501", "95503", "95534", "95521", "95502"]
 zipCodes: ["95501", "95521", "95534", "95503", "95502"]
 localPaths: ["Humboldt County / ZIP 95521 sector", "Humboldt County / coords 40.7900, -124.1600", "Humboldt County / ZIP 95501 sector", "Humboldt County / ZIP 95534 sector", "Humboldt County / primary ZIP 95503"]
-zillowHomeValueUsd: 426538
 ---
 
-**Engineering Notice for Eureka:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Humboldt County.
+**Engineering Notice for Eureka:** Shingle, flashing, and ventilation review recorded at 69 ft AMSL context (Humboldt County).
 
+
+Storm damage roofing service in Eureka, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Humboldt County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof remediation in Eureka, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Humboldt County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -31,11 +34,9 @@ Material note: In Eureka, CA, algae-resistant granules may be specified for nort
 
 FAQ: Can you tarp only part of the roof? In Eureka, CA, yes—if slope and anchor points support safe tie-offs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Scope trace: skylight curb height plus wind uplift clip spacing referenced in Humboldt County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 95534/95501/95521.
+Scope trace: skylight curb height plus wind uplift clip spacing referenced in Humboldt County storm and leak review.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Humboldt County. Reference elevation: 69 ft. Primary coordinates: 40.7900, -124.1600. ZIP sample: 95503, 95521, 95534, 95501, 95502. Service perimeter note: Coverage extends through Humboldt County with dispatch centered near ZIP 95503.
 

@@ -11,11 +11,14 @@ lng: -82.5400
 zipSample: ["34446", "34447", "34448"]
 zipCodes: ["34447", "34446", "34448"]
 localPaths: ["Citrus County / primary ZIP 34446", "Citrus County / ZIP 34447 sector", "Citrus County / coords 28.8100, -82.5400", "Citrus County / ZIP 34448 sector", "Citrus County / ZIP 34446 sector"]
-zillowHomeValueUsd: 319404
 ---
 
-**Engineering Notice for Homosassa Springs:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Citrus County.
+**Engineering Notice for Homosassa Springs:** Roof repair scope references 43 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Citrus County.
 
+
+Storm damage roof work in Homosassa Springs, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Citrus County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof restoration in Homosassa Springs, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Citrus County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -31,11 +34,11 @@ Risk flag: In Homosassa Springs, FL, interior stains may track from HVAC condens
 
 Code context: Ventilation ratios for Homosassa Springs, FL attics should be checked against current mechanical exhaust additions.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wood shake courses in Homosassa Springs, FL require skip-spacing rules at valleys.
 
-roof work brief: counter-flashing reglet depth and wind uplift clip spacing were cross-checked for the Homosassa Springs intake packet.
+Roof restoration brief: counter-flashing reglet depth and wind uplift clip spacing were cross-checked for the Homosassa Springs shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 34447/34446/34448.
 

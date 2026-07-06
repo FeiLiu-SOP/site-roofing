@@ -11,11 +11,14 @@ lng: -157.7900
 zipSample: ["96744"]
 zipCodes: ["96744"]
 localPaths: ["Honolulu County / coords 21.4100, -157.7900", "Honolulu County / primary ZIP 96744", "Honolulu County / ZIP 96744 sector", "Honolulu County / elevation 56 ft band"]
-zillowHomeValueUsd: 1090295
 ---
 
-**Engineering Notice for Kaneohe:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Kaneohe:** Storm and emergency leak triage uses 56 ft elevation band with Honolulu County service-area context for roofing repairs.
 
+
+Emergency roof service in Kaneohe, HI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Honolulu County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof service crews serving Kaneohe, HI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wind-zone note: Kaneohe, HI exposure class can change starter-strip and cap nail schedules.
 
@@ -23,15 +26,13 @@ Skylight curb flashing in Kaneohe, HI should be sequenced before ridge cap repla
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Step: log deck soundings near vents before tear-off is approved.
 
 Risk flag: In Kaneohe, HI, interior stains may track from HVAC condensate rather than roof cladding.
-
-Field routing: starter-strip setback paired with skylight curb height near ZIP 96744.
 
 Coordinate-anchored dispatch note: center reference 21.4100, -157.7900 at elevation ~56 ft aligns with Honolulu County intake staging.
 

@@ -11,13 +11,16 @@ lng: -84.8800
 zipSample: ["31820", "31904", "31906", "31905", "31903"]
 zipCodes: ["31914", "31999", "31995", "31808", "31908", "31904", "31903", "31917", "31820", "31909", "31902", "31901"]
 localPaths: ["Muscogee County / ZIP 31903 sector", "Muscogee County / ZIP 31905 sector", "Muscogee County / primary ZIP 31820", "Muscogee County / ZIP 31820 sector", "Muscogee County / ZIP 31904 sector"]
-zillowHomeValueUsd: 382996
 ---
 
-**Engineering Notice for Columbus:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Muscogee County.
+**Engineering Notice for Columbus:** Storm and emergency leak triage uses 322 ft elevation band with Muscogee County service-area context for roofing repairs.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Certified roof remediation crews serving Columbus, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Columbus, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Muscogee County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: In Columbus, GA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -34,8 +37,6 @@ Wind-zone note: Columbus, GA exposure class can change starter-strip and cap nai
 Step: confirm drip-edge continuity before shingle courses restart.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
-
-Scope trace: skylight curb height plus synthetic underlayment slip referenced in Muscogee County county grid review.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~322 ft across the Muscogee County area. Coordinates: 32.5100, -84.8800. ZIP sample: 31820, 31993, 31906, 31808, 31901. Logistics priority: Serving residential sectors across Muscogee County and north-east ZIP 31820 grid.
 

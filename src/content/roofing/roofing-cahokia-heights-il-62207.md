@@ -11,15 +11,18 @@ lng: -90.1500
 zipSample: ["62205", "62206", "62203", "62207"]
 zipCodes: ["62203", "62206", "62205", "62207"]
 localPaths: ["St. Clair County / ZIP 62206 sector", "St. Clair County / primary ZIP 62207", "St. Clair County / elevation 394 ft band", "St. Clair County / ZIP 62205 sector", "St. Clair County / ZIP 62207 sector"]
-zillowHomeValueUsd: 42256
 ---
 
-**Engineering Notice for Cahokia Heights:** Structural loading calculated based on 394 ft terrain assessment. Regional dispatch grid: St. Clair County.
+**Engineering Notice for Cahokia Heights:** Storm and emergency leak triage uses 394 ft elevation band with St. Clair County service-area context for roofing repairs.
 
+
+Roof service restoration in Cahokia Heights, IL, St. Clair County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Cahokia Heights, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in St. Clair County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Our Cahokia Heights, IL dispatch packets reference county grid St. Clair County and elevation band 394 ft.
+Our Cahokia Heights, IL restoration packets reference St. Clair County and elevation band 394 ft for shingle and leak scope.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -35,7 +38,7 @@ FAQ: Can you tarp only part of the roof? In Cahokia Heights, IL, yes—if slope 
 
 Wind-zone note: Cahokia Heights, IL exposure class can change starter-strip and cap nail schedules.
 
-roof service brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Cahokia Heights intake packet.
+Roof service brief: synthetic underlayment slip and ridge cap nail schedule were cross-checked for the Cahokia Heights shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 62207/62206/62203.
 

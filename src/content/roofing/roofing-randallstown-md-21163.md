@@ -11,11 +11,14 @@ lng: -76.8000
 zipSample: ["21133", "21208", "21163"]
 zipCodes: ["21133", "21163", "21208"]
 localPaths: ["Baltimore County / elevation 591 ft band", "Baltimore County / coords 39.3700, -76.8000", "Baltimore County / ZIP 21208 sector", "Baltimore County / primary ZIP 21163", "Baltimore County / ZIP 21163 sector"]
-zillowHomeValueUsd: 656631
 ---
 
-**Engineering Notice for Randallstown:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Randallstown:** Roof repair scope references 591 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Baltimore County.
 
+
+Roof service service in Randallstown, MD, Baltimore County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Randallstown, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Baltimore County clarifies whether restoration or replacement fits the damage pattern.
 
 Hail bruising on Randallstown, MD ridges may not breach felt until the next wind event.
 
@@ -29,9 +32,9 @@ Regulatory note: Randallstown, MD projects may trigger ice-barrier upgrades when
 
 Risk flag: Tile underlayment age in Randallstown, MD can fail independently of visible tile cracks.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-Field routing: ridge cap nail schedule paired with ice-barrier lap sequence near ZIP 21163.
+Local service note: ridge cap nail schedule paired with ice-barrier lap sequence near ZIP 21163 for emergency roof service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 21133/21208/21163.
 

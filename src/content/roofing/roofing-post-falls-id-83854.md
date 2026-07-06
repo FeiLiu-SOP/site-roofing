@@ -11,11 +11,14 @@ lng: -116.9400
 zipSample: ["83854", "83877"]
 zipCodes: ["83877", "83854"]
 localPaths: ["Kootenai County / coords 47.7200, -116.9400", "Kootenai County / primary ZIP 83854", "Kootenai County / elevation 2205 ft band", "Kootenai County / ZIP 83877 sector", "Kootenai County / ZIP 83854 sector"]
-zillowHomeValueUsd: 526994
 ---
 
-**Engineering Notice for Post Falls:** Structural loading calculated based on 2205 ft terrain assessment. Regional dispatch grid: Kootenai County.
+**Engineering Notice for Post Falls:** Roof repair scope references 2205 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Kootenai County.
 
+
+Storm damage roofing service in Post Falls, ID may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Kootenai County clarifies whether restoration or replacement fits the damage pattern.
+
+Qualified roof service crews serving Post Falls, ID review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Tile underlayment age in Post Falls, ID can fail independently of visible tile cracks.
 
@@ -23,7 +26,7 @@ Across Post Falls, ID, ice-dam seasons often begin with clogged gutters rather t
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 83854.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -33,9 +36,7 @@ FAQ: How long can shingles wait after storm damage? In Post Falls, ID, delayed d
 
 Step: stage tear-off debris paths away from landscape drains.
 
-Field routing: valley metal gauge paired with attic baffle spacing near ZIP 83854.
-
-Field note: Attic moisture pathway scan referenced ZIP 83854/83877.
+Local service note: valley metal gauge paired with attic baffle spacing near ZIP 83854 for emergency roofing service repairs.
 
 Coordinate-anchored dispatch note: center reference 47.7200, -116.9400 at elevation ~2205 ft aligns with Kootenai County intake staging.
 

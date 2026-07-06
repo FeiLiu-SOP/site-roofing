@@ -11,11 +11,14 @@ lng: -71.4400
 zipSample: ["01704", "01703", "01702", "01705", "01701"]
 zipCodes: ["01705", "01702", "01704", "01701", "01703"]
 localPaths: ["Middlesex County / ZIP 01702 sector", "Middlesex County / ZIP 01704 sector", "Middlesex County / primary ZIP 01701", "Middlesex County / ZIP 01701 sector", "Middlesex County / coords 42.3100, -71.4400"]
-zillowHomeValueUsd: 705075
 ---
 
-**Engineering Notice for Framingham:** Structural loading calculated based on 177 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Framingham:** Storm and emergency leak triage uses 177 ft elevation band with Middlesex County service-area context for roofing repairs.
 
+
+Emergency roof service in Framingham, MA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Middlesex County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Framingham, MA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Middlesex County clarifies whether service or replacement fits the damage pattern.
 
 FAQ: Is partial dry-in possible? In Framingham, MA, yes—if slope and anchor points support safe tie-offs.
 
@@ -33,11 +36,9 @@ Metal panel oil-canning in Framingham, MA may signal clip spacing issues, not wi
 
 Material note: In Framingham, MA, algae-resistant granules may be specified for north-facing slopes.
 
-Our Framingham, MA dispatch packets reference county grid Middlesex County and elevation band 177 ft.
+Our Framingham, MA remediation packets reference Middlesex County and elevation band 177 ft for shingle and leak scope.
 
-Field routing: soffit intake free area paired with drip-edge metal profile near ZIP 01701.
-
-Field note: Shingle seal-down timing logged near ZIP 01705/01703/01704.
+Local service note: soffit intake free area paired with drip-edge metal profile near ZIP 01701 for emergency roofing service repairs.
 
 On-site sector marker: Middlesex County / coords 42.3100, -71.4400 — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -122.0500
 zipSample: ["95108", "95170", "95014", "95015"]
 zipCodes: ["95014", "95108", "95170", "95015"]
 localPaths: ["Santa Clara County / ZIP 95015 sector", "Santa Clara County / ZIP 95108 sector", "Santa Clara County / coords 37.3200, -122.0500", "Santa Clara County / ZIP 95014 sector", "Santa Clara County / primary ZIP 95014"]
-zillowHomeValueUsd: 3188377
 ---
 
-**Engineering Notice for Cupertino:** Structural loading calculated based on 305 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Cupertino:** Storm and emergency leak triage uses 305 ft elevation band with Santa Clara County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Storm damage roof work in Cupertino, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Santa Clara County clarifies whether restoration or replacement fits the damage pattern.
+
+Licensed roof remediation crews serving Cupertino, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Skylight curb flashing in Cupertino, CA should be sequenced before ridge cap replacement.
 
@@ -32,8 +35,6 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
 Wind-zone note: Cupertino, CA exposure class can change starter-strip and cap nail schedules.
-
-roof work brief: chimney cricket slope and ice-barrier lap sequence were cross-checked for the Cupertino intake packet.
 
 On-site sector marker: Santa Clara County / ZIP 95108 sector — logged for map parity and ZIP-corridor verification.
 

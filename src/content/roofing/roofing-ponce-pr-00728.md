@@ -11,14 +11,16 @@ lng: -66.6200
 zipSample: ["00716", "00732", "00734", "00728", "00733"]
 zipCodes: ["00728", "00734", "00717", "00733", "00716", "00730", "00732"]
 localPaths: ["Ponce County / ZIP 00716 sector", "Ponce County / ZIP 00733 sector", "Ponce County / elevation 62 ft band", "Ponce County / coords 18.0100, -66.6200", "Ponce County / ZIP 00732 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 358124
 ---
 
-**Engineering Notice for Ponce:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Ponce County.
+**Engineering Notice for Ponce:** Storm and emergency leak triage uses 62 ft elevation band with Ponce County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Storm damage roof work in Ponce, PR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Ponce County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof work remediation in Ponce, PR, Ponce County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Code context: Ventilation ratios for Ponce, PR attics should be checked against current mechanical exhaust additions.
 
@@ -36,7 +38,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-roof work brief: chimney cricket slope and starter-strip setback were cross-checked for the Ponce intake packet.
+Roof service brief: chimney cricket slope and starter-strip setback were cross-checked for the Ponce shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 00728/00717/00734.
 

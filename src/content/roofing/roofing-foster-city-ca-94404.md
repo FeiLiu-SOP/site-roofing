@@ -11,17 +11,20 @@ lng: -122.2700
 zipSample: ["94404"]
 zipCodes: ["94404"]
 localPaths: ["San Mateo County / primary ZIP 94404", "San Mateo County / coords 37.5600, -122.2700", "San Mateo County / ZIP 94404 sector", "San Mateo County / elevation 0 ft band"]
-zillowHomeValueUsd: 1763698
 ---
 
-**Engineering Notice for Foster City:** Structural loading calculated based on 0 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Foster City:** Storm and emergency leak triage uses 0 ft elevation band with San Mateo County service-area context for roofing repairs.
 
+
+Emergency roof service in Foster City, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in San Mateo County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof remediation crews serving Foster City, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tile and shingle mixes in Foster City, CA require different fastener patterns at transitions.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -30,8 +33,6 @@ Code context: Ventilation ratios for Foster City, CA attics should be checked ag
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
-
-roof work brief: pipe boot manufacturer match and soffit intake free area were cross-checked for the Foster City intake packet.
 
 Coordinate-anchored dispatch note: center reference 37.5600, -122.2700 at elevation ~0 ft aligns with San Mateo County intake staging.
 

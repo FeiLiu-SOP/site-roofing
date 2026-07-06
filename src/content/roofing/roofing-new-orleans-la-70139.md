@@ -11,11 +11,14 @@ lng: -89.9300
 zipSample: ["70187", "70119", "70170", "70117", "70165"]
 zipCodes: ["70117", "70142", "70157", "70163", "70128", "70159", "70116", "70181", "70153", "70176", "70125", "70126"]
 localPaths: ["Orleans Parish / ZIP 70119 sector", "Orleans Parish / ZIP 70165 sector", "Orleans Parish / ZIP 70117 sector", "Orleans Parish / ZIP 70170 sector", "Orleans Parish / primary ZIP 70139"]
-zillowHomeValueUsd: 364592
 ---
 
-**Engineering Notice for New Orleans:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Orleans Parish.
+**Engineering Notice for New Orleans:** Roof repair scope references 33 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Orleans Parish.
 
+
+Qualified roof remediation crews serving New Orleans, LA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in New Orleans, LA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orleans Parish clarifies whether service or replacement fits the damage pattern.
 
 Metal panel oil-canning in New Orleans, LA may signal clip spacing issues, not wind damage alone.
 
@@ -25,13 +28,11 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
 FAQ: Is partial dry-in possible? In New Orleans, LA, yes—if slope and anchor points support safe tie-offs.
-
-Field routing: ridge cap nail schedule paired with attic baffle spacing near ZIP 70139.
 
 Coordinate-anchored dispatch note: center reference 30.0700, -89.9300 at elevation ~33 ft aligns with Orleans Parish intake staging.
 

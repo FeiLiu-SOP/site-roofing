@@ -11,15 +11,18 @@ lng: -115.5700
 zipSample: ["92251"]
 zipCodes: ["92251"]
 localPaths: ["Imperial County / coords 32.8400, -115.5700", "Imperial County / primary ZIP 92251", "Imperial County / elevation -57 ft band", "Imperial County / ZIP 92251 sector"]
-zillowHomeValueUsd: 436917
 ---
 
-**Engineering Notice for Imperial:** Structural loading calculated based on -57 ft terrain assessment. Regional dispatch grid: Imperial County.
+**Engineering Notice for Imperial:** Shingle, flashing, and ventilation review recorded at -57 ft AMSL context (Imperial County).
 
+
+When wind or hail hits Imperial, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Licensed roof service crews serving Imperial, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Code context: Ventilation ratios for Imperial, CA attics should be checked against current mechanical exhaust additions.
 
@@ -33,9 +36,7 @@ Step: separate emergency tarp scope from permanent restoration line items.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roofing service brief: soffit intake free area and ice-barrier lap sequence were cross-checked for the Imperial intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 92251.
+Roof service brief: soffit intake free area and ice-barrier lap sequence were cross-checked for the Imperial shingle and leak scope.
 
 On-site sector marker: Imperial County / ZIP 92251 sector — logged for map parity and ZIP-corridor verification.
 

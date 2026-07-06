@@ -11,11 +11,14 @@ lng: -122.8100
 zipSample: ["95492"]
 zipCodes: ["95492"]
 localPaths: ["Sonoma County / ZIP 95492 sector", "Sonoma County / elevation 98 ft band", "Sonoma County / coords 38.5400, -122.8100", "Sonoma County / primary ZIP 95492"]
-zillowHomeValueUsd: 806236
 ---
 
-**Engineering Notice for Windsor:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Sonoma County.
+**Engineering Notice for Windsor:** Roof repair scope references 98 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Sonoma County.
 
+
+Emergency roof remediation in Windsor, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Sonoma County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service remediation in Windsor, CA, Sonoma County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: In Windsor, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,9 +34,9 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Scope trace: chimney cricket slope plus shingle exposure calibration referenced in Sonoma County county grid review.
+Scope trace: chimney cricket slope plus shingle exposure calibration referenced in Sonoma County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 95492.
 

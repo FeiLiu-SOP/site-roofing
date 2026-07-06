@@ -11,17 +11,20 @@ lng: -90.1500
 zipSample: ["62002", "62018"]
 zipCodes: ["62002", "62018"]
 localPaths: ["Madison County / primary ZIP 62018", "Madison County / ZIP 62002 sector", "Madison County / elevation 535 ft band", "Madison County / coords 38.9000, -90.1500", "Madison County / ZIP 62018 sector"]
-zillowHomeValueUsd: 108010
 ---
 
-**Engineering Notice for Alton:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Alton:** Storm and emergency leak triage uses 535 ft elevation band with Madison County service-area context for roofing repairs.
 
+
+Roof service service in Alton, IL, Madison County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof service crews serving Alton, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Tile underlayment age in Alton, IL can fail independently of visible tile cracks.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -30,8 +33,6 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 Tip: Note recent wind events when filing insurance photos for Alton, IL.
 
 Metal panel oil-canning in Alton, IL may signal clip spacing issues, not wind damage alone.
-
-Scope trace: valley metal gauge plus counter-flashing reglet depth referenced in Madison County county grid review.
 
 On-site sector marker: Madison County / elevation 535 ft band — logged for map parity and ZIP-corridor verification.
 

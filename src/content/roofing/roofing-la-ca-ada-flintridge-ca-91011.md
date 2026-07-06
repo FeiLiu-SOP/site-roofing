@@ -11,15 +11,18 @@ lng: -118.2000
 zipSample: ["91012", "91011"]
 zipCodes: ["91011", "91012"]
 localPaths: ["Los Angeles County / coords 34.2100, -118.2000", "Los Angeles County / ZIP 91011 sector", "Los Angeles County / primary ZIP 91011", "Los Angeles County / ZIP 91012 sector", "Los Angeles County / elevation 1421 ft band"]
-zillowHomeValueUsd: 2488635
 ---
 
-**Engineering Notice for La Cañada Flintridge:** Structural loading calculated based on 1421 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for La Cañada Flintridge:** Storm and emergency leak triage uses 1421 ft elevation band with Los Angeles County service-area context for roofing repairs.
 
+
+Roofing service service in La Cañada Flintridge, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits La Cañada Flintridge, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Tile underlayment age in La Cañada Flintridge, CA can fail independently of visible tile cracks.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -35,9 +38,7 @@ Hail bruising on La Cañada Flintridge, CA ridges may not breach felt until the 
 
 Code context: Ventilation ratios for La Cañada Flintridge, CA attics should be checked against current mechanical exhaust additions.
 
-Scope trace: deck sheathing thickness plus valley metal gauge referenced in Los Angeles County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 91012/91011.
+Scope trace: deck sheathing thickness plus valley metal gauge referenced in Los Angeles County storm and leak review.
 
 On-site sector marker: Los Angeles County / ZIP 91011 sector — logged for map parity and ZIP-corridor verification.
 

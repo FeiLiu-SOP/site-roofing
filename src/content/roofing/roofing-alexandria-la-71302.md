@@ -11,11 +11,14 @@ lng: -92.4700
 zipSample: ["71348", "71315", "71302", "71307", "71301"]
 zipCodes: ["71307", "71309", "71315", "71303", "71348", "71302", "71301"]
 localPaths: ["Rapides Parish / ZIP 71302 sector", "Rapides Parish / ZIP 71301 sector", "Rapides Parish / primary ZIP 71302", "Rapides Parish / coords 31.2900, -92.4700", "Rapides Parish / ZIP 71307 sector"]
-zillowHomeValueUsd: 89923
 ---
 
-**Engineering Notice for Alexandria:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Rapides Parish.
+**Engineering Notice for Alexandria:** Roof repair scope references 98 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Rapides Parish.
 
+
+Storm damage roofing service in Alexandria, LA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Rapides Parish clarifies whether restoration or replacement fits the damage pattern.
+
+Roof service restoration in Alexandria, LA, Rapides Parish combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -29,13 +32,11 @@ Across Alexandria, LA, ice-dam seasons often begin with clogged gutters rather t
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
-
-roofing service brief: ice-barrier lap sequence and valley metal gauge were cross-checked for the Alexandria intake packet.
 
 On-site sector marker: Rapides Parish / ZIP 71309 sector — logged for map parity and ZIP-corridor verification.
 

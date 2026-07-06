@@ -11,15 +11,18 @@ lng: -94.3800
 zipSample: ["55350"]
 zipCodes: ["55350"]
 localPaths: ["McLeod County / coords 44.8900, -94.3800", "McLeod County / primary ZIP 55350", "McLeod County / ZIP 55350 sector", "McLeod County / elevation 1079 ft band"]
-zillowHomeValueUsd: 293432
 ---
 
-**Engineering Notice for Hutchinson:** Structural loading calculated based on 1079 ft terrain assessment. Regional dispatch grid: McLeod County.
+**Engineering Notice for Hutchinson:** Roof repair scope references 1079 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in McLeod County.
 
+
+Licensed roof service crews serving Hutchinson, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Hutchinson, MN, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Granule embedment loss on Hutchinson, MN north slopes can precede mat exposure.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Tile underlayment age in Hutchinson, MN can fail independently of visible tile cracks.
 
@@ -35,7 +38,7 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Wind-zone note: Hutchinson, MN exposure class can change starter-strip and cap nail schedules.
 
-roof service brief: shingle exposure calibration and ice-barrier lap sequence were cross-checked for the Hutchinson intake packet.
+Roof service brief: shingle exposure calibration and ice-barrier lap sequence were cross-checked for the Hutchinson shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 55350.
 

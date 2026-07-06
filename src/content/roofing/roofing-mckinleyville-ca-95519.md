@@ -11,11 +11,14 @@ lng: -124.0900
 zipSample: ["95519"]
 zipCodes: ["95519"]
 localPaths: ["Humboldt County / primary ZIP 95519", "Humboldt County / ZIP 95519 sector", "Humboldt County / coords 40.9500, -124.0900", "Humboldt County / elevation 200 ft band"]
-zillowHomeValueUsd: 482889
 ---
 
-**Engineering Notice for McKinleyville:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Humboldt County.
+**Engineering Notice for McKinleyville:** Roof repair scope references 200 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Humboldt County.
 
+
+Storm damage roof service in McKinleyville, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Humboldt County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof remediation in McKinleyville, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Humboldt County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -35,7 +38,7 @@ Across McKinleyville, CA, ice-dam seasons often begin with clogged gutters rathe
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Scope trace: valley metal gauge plus shingle exposure calibration referenced in Humboldt County county grid review.
+Scope trace: valley metal gauge plus shingle exposure calibration referenced in Humboldt County storm and leak review.
 
 Primary postal anchor 95519 with multi-ZIP overlap in McKinleyville; field packets tag Humboldt County for county-grid reconciliation.
 

@@ -11,11 +11,14 @@ lng: -123.3500
 zipSample: ["97470", "97471"]
 zipCodes: ["97471", "97470"]
 localPaths: ["Douglas County / ZIP 97471 sector", "Douglas County / primary ZIP 97470", "Douglas County / elevation 482 ft band", "Douglas County / coords 43.2200, -123.3500", "Douglas County / ZIP 97470 sector"]
-zillowHomeValueUsd: 320692
 ---
 
-**Engineering Notice for Roseburg:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Douglas County.
+**Engineering Notice for Roseburg:** Storm and emergency leak triage uses 482 ft elevation band with Douglas County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Roseburg, OR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Douglas County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Roseburg, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Douglas County clarifies whether service or replacement fits the damage pattern.
 
 FAQ: Can you tarp only part of the roof? In Roseburg, OR, yes—if slope and anchor points support safe tie-offs.
 
@@ -31,13 +34,11 @@ Material note: In Roseburg, OR, algae-resistant granules may be specified for no
 
 Wood shake courses in Roseburg, OR require skip-spacing rules at valleys.
 
-Our Roseburg, OR dispatch packets reference county grid Douglas County and elevation band 482 ft.
+Our Roseburg, OR restoration packets reference Douglas County and elevation band 482 ft for shingle and leak scope.
 
-Step: separate emergency tarp scope from permanent remediation line items.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-roofing service brief: synthetic underlayment slip and ice-barrier lap sequence were cross-checked for the Roseburg intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 97471/97470.
+Roof restoration brief: synthetic underlayment slip and ice-barrier lap sequence were cross-checked for the Roseburg shingle and leak scope.
 
 On-site sector marker: Douglas County / ZIP 97471 sector — logged for map parity and ZIP-corridor verification.
 

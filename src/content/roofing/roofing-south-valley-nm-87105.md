@@ -11,11 +11,14 @@ lng: -106.6800
 zipSample: ["87195", "87105"]
 zipCodes: ["87105", "87195"]
 localPaths: ["Bernalillo County / ZIP 87195 sector", "Bernalillo County / coords 35.0100, -106.6800", "Bernalillo County / ZIP 87105 sector", "Bernalillo County / primary ZIP 87105", "Bernalillo County / elevation 4944 ft band"]
-zillowHomeValueUsd: 279746
 ---
 
-**Engineering Notice for South Valley:** Structural loading calculated based on 4944 ft terrain assessment. Regional dispatch grid: Bernalillo County.
+**Engineering Notice for South Valley:** Roof repair scope references 4944 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Bernalillo County.
 
+
+Licensed roof remediation crews serving South Valley, NM review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service restoration in South Valley, NM, Bernalillo County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 TPO seam welds in South Valley, NM commercial sections need probe tests after freeze events.
 
@@ -31,11 +34,11 @@ Wind-zone note: South Valley, NM exposure class can change starter-strip and cap
 
 Step: separate emergency tarp scope from permanent remediation line items.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Field routing: wind uplift clip spacing paired with ice-barrier lap sequence near ZIP 87105.
+Local service note: wind uplift clip spacing paired with ice-barrier lap sequence near ZIP 87105 for emergency roof service repairs.
 
 On-site sector marker: Bernalillo County / primary ZIP 87105 — logged for map parity and ZIP-corridor verification.
 

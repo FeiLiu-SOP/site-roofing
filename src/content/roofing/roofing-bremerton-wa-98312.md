@@ -11,13 +11,16 @@ lng: -122.7100
 zipSample: ["98312", "98310", "98337", "98314"]
 zipCodes: ["98310", "98337", "98314", "98312"]
 localPaths: ["Kitsap County / ZIP 98314 sector", "Kitsap County / coords 47.5400, -122.7100", "Kitsap County / ZIP 98310 sector", "Kitsap County / primary ZIP 98312", "Kitsap County / ZIP 98312 sector"]
-zillowHomeValueUsd: 497792
 ---
 
-**Engineering Notice for Bremerton:** Structural loading calculated based on 518 ft terrain assessment. Regional dispatch grid: Kitsap County.
+**Engineering Notice for Bremerton:** Storm and emergency leak triage uses 518 ft elevation band with Kitsap County service-area context for roofing repairs.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Roof work restoration in Bremerton, WA, Kitsap County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Bremerton, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Kitsap County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Regulatory note: Bremerton, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -31,9 +34,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-roof work brief: ridge cap nail schedule and pipe boot manufacturer match were cross-checked for the Bremerton intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 98314/98310/98337.
+Roof restoration brief: ridge cap nail schedule and pipe boot manufacturer match were cross-checked for the Bremerton shingle and leak scope.
 
 On-site sector marker: Kitsap County / ZIP 98312 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -112.1600
 zipSample: ["84044"]
 zipCodes: ["84044"]
 localPaths: ["Salt Lake County / coords 40.7600, -112.1600", "Salt Lake County / primary ZIP 84044", "Salt Lake County / elevation 4229 ft band", "Salt Lake County / ZIP 84044 sector"]
-zillowHomeValueUsd: 448981
 ---
 
-**Engineering Notice for Magna:** Structural loading calculated based on 4229 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Magna:** Roof repair scope references 4229 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Salt Lake County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Storm damage roofing service in Magna, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Salt Lake County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Magna, UT, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -33,9 +36,7 @@ Step: confirm drip-edge continuity before shingle courses restart.
 
 FAQ: How long can shingles wait after storm damage? In Magna, UT, delayed dry-in can expand insulation and ceiling repairs.
 
-Scope trace: counter-flashing reglet depth plus deck sheathing thickness referenced in Salt Lake County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 84044.
+Scope trace: counter-flashing reglet depth plus deck sheathing thickness referenced in Salt Lake County storm and leak review.
 
 On-site sector marker: Salt Lake County / ZIP 84044 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -118.0400
 zipSample: ["90623"]
 zipCodes: ["90623"]
 localPaths: ["Orange County / elevation 66 ft band", "Orange County / primary ZIP 90623", "Orange County / coords 33.8500, -118.0400", "Orange County / ZIP 90623 sector"]
-zillowHomeValueUsd: 1212326
 ---
 
-**Engineering Notice for La Palma:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for La Palma:** Roof repair scope references 66 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Orange County.
 
 
-Our La Palma, CA dispatch packets reference county grid Orange County and elevation band 66 ft.
+Storm damage roofing service in La Palma, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits La Palma, CA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Our La Palma, CA remediation packets reference Orange County and elevation band 66 ft for shingle and leak scope.
 
 FAQ: How long can shingles wait after storm damage? In La Palma, CA, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -33,9 +36,7 @@ Step: separate emergency tarp scope from permanent remediation line items.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 90623.
 
-Scope trace: attic baffle spacing plus chimney cricket slope referenced in Orange County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 90623.
+Scope trace: attic baffle spacing plus chimney cricket slope referenced in Orange County storm and leak review.
 
 ZIP-corridor snapshot for La Palma, CA: sampled sectors include 90623; county routing grid remains Orange County.
 

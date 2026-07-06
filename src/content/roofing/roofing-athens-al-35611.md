@@ -11,11 +11,14 @@ lng: -86.9500
 zipSample: ["35612", "35613", "35611"]
 zipCodes: ["35612", "35611", "35613"]
 localPaths: ["Limestone County / primary ZIP 35611", "Limestone County / elevation 659 ft band", "Limestone County / ZIP 35613 sector", "Limestone County / ZIP 35611 sector", "Limestone County / ZIP 35612 sector"]
-zillowHomeValueUsd: 251141
 ---
 
-**Engineering Notice for Athens:** Structural loading calculated based on 659 ft terrain assessment. Regional dispatch grid: Limestone County.
+**Engineering Notice for Athens:** Roof repair scope references 659 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Limestone County.
 
+
+Storm damage roof service in Athens, AL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Limestone County clarifies whether service or replacement fits the damage pattern.
+
+Qualified roof restoration crews serving Athens, AL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wind-zone note: Athens, AL exposure class can change starter-strip and cap nail schedules.
 
@@ -29,9 +32,9 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Scope trace: valley metal gauge plus shingle exposure calibration referenced in Limestone County county grid review.
+Scope trace: valley metal gauge plus shingle exposure calibration referenced in Limestone County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 35612/35613/35611.
 

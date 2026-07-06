@@ -11,13 +11,16 @@ lng: -80.2400
 zipSample: ["33188", "33142"]
 zipCodes: ["33142", "33188"]
 localPaths: ["Miami-Dade County / ZIP 33142 sector", "Miami-Dade County / primary ZIP 33142", "Miami-Dade County / coords 25.8200, -80.2400", "Miami-Dade County / ZIP 33188 sector", "Miami-Dade County / elevation 33 ft band"]
-zillowHomeValueUsd: 422048
 ---
 
-**Engineering Notice for Brownsville:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Brownsville:** Roof repair scope references 33 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Miami-Dade County.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Licensed roof restoration crews serving Brownsville, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service service in Brownsville, FL, Miami-Dade County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -35,9 +38,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-Scope trace: synthetic underlayment slip plus deck sheathing thickness referenced in Miami-Dade County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 33142/33188.
+Scope trace: synthetic underlayment slip plus deck sheathing thickness referenced in Miami-Dade County storm and leak review.
 
 Primary postal anchor 33142 with multi-ZIP overlap in Brownsville; field packets tag Miami-Dade County for county-grid reconciliation.
 

@@ -11,11 +11,14 @@ lng: -76.7700
 zipSample: ["21043", "21075"]
 zipCodes: ["21043", "21075"]
 localPaths: ["Howard County / elevation 361 ft band", "Howard County / primary ZIP 21043", "Howard County / ZIP 21075 sector", "Howard County / coords 39.2200, -76.7700", "Howard County / ZIP 21043 sector"]
-zillowHomeValueUsd: 637980
 ---
 
-**Engineering Notice for Ilchester:** Structural loading calculated based on 361 ft terrain assessment. Regional dispatch grid: Howard County.
+**Engineering Notice for Ilchester:** Shingle, flashing, and ventilation review recorded at 361 ft AMSL context (Howard County).
 
+
+When wind or hail hits Ilchester, MD, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof service crews serving Ilchester, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: In Ilchester, MD, algae-resistant granules may be specified for north-facing slopes.
 
@@ -32,8 +35,6 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 We coordinate Ilchester, MD roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
 Metal panel oil-canning in Ilchester, MD may signal clip spacing issues, not wind damage alone.
-
-Scope trace: soffit intake free area plus starter-strip setback referenced in Howard County county grid review.
 
 On-site sector marker: Howard County / primary ZIP 21043 — logged for map parity and ZIP-corridor verification.
 

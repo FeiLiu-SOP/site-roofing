@@ -11,11 +11,14 @@ lng: -80.8800
 zipSample: ["28031"]
 zipCodes: ["28031"]
 localPaths: ["Mecklenburg County / elevation 768 ft band", "Mecklenburg County / primary ZIP 28031", "Mecklenburg County / ZIP 28031 sector", "Mecklenburg County / coords 35.4700, -80.8800"]
-zillowHomeValueUsd: 544191
 ---
 
-**Engineering Notice for Cornelius:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Cornelius:** Storm and emergency leak triage uses 768 ft elevation band with Mecklenburg County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Cornelius, NC often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Mecklenburg County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Cornelius, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Mecklenburg County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -27,11 +30,11 @@ Parapet coping movement in Cornelius, NC can channel water behind wall cladding.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-FAQ: When should permanent remediation start? In Cornelius, NC, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent service start? In Cornelius, NC, delayed dry-in can expand insulation and ceiling repairs.
 
-Field routing: valley metal gauge paired with drip-edge metal profile near ZIP 28031.
+Local service note: valley metal gauge paired with drip-edge metal profile near ZIP 28031 for emergency roof service repairs.
 
 On-site sector marker: Mecklenburg County / coords 35.4700, -80.8800 — logged for map parity and ZIP-corridor verification.
 

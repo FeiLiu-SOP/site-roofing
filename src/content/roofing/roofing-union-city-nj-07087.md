@@ -11,13 +11,16 @@ lng: -74.0300
 zipSample: ["07087"]
 zipCodes: ["07087"]
 localPaths: ["Hudson County / ZIP 07087 sector", "Hudson County / coords 40.7700, -74.0300", "Hudson County / primary ZIP 07087", "Hudson County / elevation 210 ft band"]
-zillowHomeValueUsd: 567896
 ---
 
-**Engineering Notice for Union City:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Hudson County.
+**Engineering Notice for Union City:** Shingle, flashing, and ventilation review recorded at 210 ft AMSL context (Hudson County).
 
 
-Our Union City, NJ dispatch packets reference county grid Hudson County and elevation band 210 ft.
+Storm damage roof work in Union City, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hudson County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Union City, NJ, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Our Union City, NJ service packets reference Hudson County and elevation band 210 ft for shingle and leak scope.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -29,13 +32,11 @@ Metal panel oil-canning in Union City, NJ may signal clip spacing issues, not wi
 
 FAQ: How long can shingles wait after storm damage? In Union City, NJ, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
-
-roof work brief: attic baffle spacing and wind uplift clip spacing were cross-checked for the Union City intake packet.
 
 Coordinate-anchored dispatch note: center reference 40.7700, -74.0300 at elevation ~210 ft aligns with Hudson County intake staging.
 

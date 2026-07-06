@@ -11,11 +11,14 @@ lng: -77.4000
 zipSample: ["22033", "20171"]
 zipCodes: ["22033", "20171"]
 localPaths: ["Fairfax County / elevation 374 ft band", "Fairfax County / coords 38.9100, -77.4000", "Fairfax County / primary ZIP 22033", "Fairfax County / ZIP 22033 sector", "Fairfax County / ZIP 20171 sector"]
-zillowHomeValueUsd: 711145
 ---
 
-**Engineering Notice for Franklin Farm:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Franklin Farm:** Roof repair scope references 374 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Fairfax County.
 
+
+Storm damage roof work in Franklin Farm, VA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Fairfax County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Franklin Farm, VA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Regulatory note: Franklin Farm, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -29,9 +32,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-Scope trace: counter-flashing reglet depth plus valley metal gauge referenced in Fairfax County county grid review.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~374 ft across the Fairfax County area. Coordinates: 38.9100, -77.4000. ZIP sample: 22033, 20171. Regional routing note: Fairfax County traffic flow is balanced around ZIP 22033 service demand.
 

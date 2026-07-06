@@ -11,19 +11,22 @@ lng: -76.9600
 zipSample: ["20748"]
 zipCodes: ["20748"]
 localPaths: ["Prince George's County / coords 38.8400, -76.9600", "Prince George's County / ZIP 20748 sector", "Prince George's County / primary ZIP 20748", "Prince George's County / elevation 276 ft band"]
-zillowHomeValueUsd: 364491
 ---
 
-**Engineering Notice for Hillcrest Heights:** Structural loading calculated based on 276 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Hillcrest Heights:** Storm and emergency leak triage uses 276 ft elevation band with Prince George's County service-area context for roofing repairs.
 
+
+Storm damage roof service in Hillcrest Heights, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Prince George's County clarifies whether restoration or replacement fits the damage pattern.
+
+Qualified roof restoration crews serving Hillcrest Heights, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Low-slope sections in Hillcrest Heights, MD need positive drainage before membrane repairs are scoped.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Our Hillcrest Heights, MD dispatch packets reference county grid Prince George's County and elevation band 276 ft.
+Our Hillcrest Heights, MD remediation packets reference Prince George's County and elevation band 276 ft for shingle and leak scope.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Risk flag: Tile underlayment age in Hillcrest Heights, MD can fail independently of visible tile cracks.
 
@@ -31,9 +34,7 @@ FAQ: Is partial dry-in possible? In Hillcrest Heights, MD, yes—if slope and an
 
 Code context: Ventilation ratios for Hillcrest Heights, MD attics should be checked against current mechanical exhaust additions.
 
-Scope trace: soffit intake free area plus chimney cricket slope referenced in Prince George's County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 20748.
+Scope trace: soffit intake free area plus chimney cricket slope referenced in Prince George's County storm and leak review.
 
 On-site sector marker: Prince George's County / elevation 276 ft band — logged for map parity and ZIP-corridor verification.
 

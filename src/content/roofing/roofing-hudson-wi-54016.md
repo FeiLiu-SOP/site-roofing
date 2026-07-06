@@ -11,15 +11,18 @@ lng: -92.7300
 zipSample: ["54016"]
 zipCodes: ["54016"]
 localPaths: ["St. Croix County / primary ZIP 54016", "St. Croix County / elevation 840 ft band", "St. Croix County / ZIP 54016 sector", "St. Croix County / coords 44.9600, -92.7300"]
-zillowHomeValueUsd: 487094
 ---
 
-**Engineering Notice for Hudson:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: St. Croix County.
+**Engineering Notice for Hudson:** Storm and emergency leak triage uses 840 ft elevation band with St. Croix County service-area context for roofing repairs.
 
+
+When wind or hail hits Hudson, WI, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Hudson, WI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Croix County clarifies whether remediation or replacement fits the damage pattern.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Regulatory note: Hudson, WI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -33,9 +36,7 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Freeze-thaw cycles around Hudson, WI stress nail pops along eaves and rake edges.
 
-Field routing: skylight curb height paired with drip-edge metal profile near ZIP 54016.
-
-Field note: Valley debris and granule loss noted for ZIP 54016.
+Local service note: skylight curb height paired with drip-edge metal profile near ZIP 54016 for emergency roof work repairs.
 
 ZIP-corridor snapshot for Hudson, WI: sampled sectors include 54016; county routing grid remains St. Croix County.
 

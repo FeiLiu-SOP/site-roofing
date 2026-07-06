@@ -11,11 +11,14 @@ lng: -92.3300
 zipSample: ["65216", "65218", "65202", "65201", "65299"]
 zipCodes: ["65299", "65217", "65203", "65216", "65215", "65218", "65211", "65202", "65201"]
 localPaths: ["Boone County / ZIP 65201 sector", "Boone County / coords 38.9500, -92.3300", "Boone County / ZIP 65218 sector", "Boone County / ZIP 65202 sector", "Boone County / elevation 761 ft band"]
-zillowHomeValueUsd: 276060
 ---
 
-**Engineering Notice for Columbia:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Boone County.
+**Engineering Notice for Columbia:** Shingle, flashing, and ventilation review recorded at 761 ft AMSL context (Boone County).
 
+
+Emergency roof remediation in Columbia, MO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Boone County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Columbia, MO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Boone County clarifies whether restoration or replacement fits the damage pattern.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -33,7 +36,7 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 We coordinate Columbia, MO roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Scope trace: valley metal gauge plus drip-edge metal profile referenced in Boone County county grid review.
+Scope trace: valley metal gauge plus drip-edge metal profile referenced in Boone County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 65201/65211/65217.
 

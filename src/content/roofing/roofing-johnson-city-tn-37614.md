@@ -11,11 +11,14 @@ lng: -82.3800
 zipSample: ["37615", "37614", "37684", "37601", "37602"]
 zipCodes: ["37615", "37605", "37614", "37604", "37601", "37602", "37684"]
 localPaths: ["Washington County / ZIP 37602 sector", "Washington County / ZIP 37601 sector", "Washington County / elevation 1699 ft band", "Washington County / ZIP 37615 sector", "Washington County / ZIP 37684 sector"]
-zillowHomeValueUsd: 280311
 ---
 
-**Engineering Notice for Johnson City:** Structural loading calculated based on 1699 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Johnson City:** Shingle, flashing, and ventilation review recorded at 1699 ft AMSL context (Washington County).
 
+
+Emergency roof service in Johnson City, TN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Washington County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service restoration in Johnson City, TN, Washington County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Regulatory note: Johnson City, TN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -25,15 +28,13 @@ Step: compare shingle manufacturer wind-zone ratings for Johnson City, TN exposu
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Synthetic underlayment slip in Johnson City, TN is often tied to deck moisture, not wind alone.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Washington County county grid review.
 
 Primary postal anchor 37614 with multi-ZIP overlap in Johnson City; field packets tag Washington County for county-grid reconciliation.
 

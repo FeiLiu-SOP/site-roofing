@@ -11,13 +11,16 @@ lng: -83.3800
 zipSample: ["48336", "48331", "48335", "48334"]
 zipCodes: ["48336", "48331", "48335", "48334"]
 localPaths: ["Oakland County / coords 42.4900, -83.3800", "Oakland County / ZIP 48331 sector", "Oakland County / ZIP 48334 sector", "Oakland County / ZIP 48336 sector", "Oakland County / primary ZIP 48336"]
-zillowHomeValueUsd: 300827
 ---
 
-**Engineering Notice for Farmington Hills:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Farmington Hills:** Storm and emergency leak triage uses 866 ft elevation band with Oakland County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Storm damage roof service in Farmington Hills, MI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Oakland County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof work restoration in Farmington Hills, MI, Oakland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -31,9 +34,7 @@ Regulatory note: Farmington Hills, MI projects may trigger ice-barrier upgrades 
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Oakland County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 48334/48331/48336.
+Scope trace: ice-barrier lap sequence plus drip-edge metal profile referenced in Oakland County storm and leak review.
 
 On-site sector marker: Oakland County / primary ZIP 48336 — logged for map parity and ZIP-corridor verification.
 

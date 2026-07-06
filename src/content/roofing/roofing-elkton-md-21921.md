@@ -11,13 +11,16 @@ lng: -75.8200
 zipSample: ["21921", "21922"]
 zipCodes: ["21922", "21921"]
 localPaths: ["Cecil County / ZIP 21921 sector", "Cecil County / primary ZIP 21921", "Cecil County / coords 39.6100, -75.8200", "Cecil County / elevation 13 ft band", "Cecil County / ZIP 21922 sector"]
-zillowHomeValueUsd: 369130
 ---
 
-**Engineering Notice for Elkton:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Cecil County.
+**Engineering Notice for Elkton:** Shingle, flashing, and ventilation review recorded at 13 ft AMSL context (Cecil County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Roof service service in Elkton, MD, Cecil County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Elkton, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cecil County clarifies whether service or replacement fits the damage pattern.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -31,7 +34,7 @@ In Elkton, MD, wind-driven rain can lift shingle tabs before owners notice deck 
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roof service brief: ridge cap nail schedule and ice-barrier lap sequence were cross-checked for the Elkton intake packet.
+Roof service brief: ridge cap nail schedule and ice-barrier lap sequence were cross-checked for the Elkton shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 21921/21922.
 

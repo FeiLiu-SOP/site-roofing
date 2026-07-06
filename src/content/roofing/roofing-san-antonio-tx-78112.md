@@ -11,11 +11,14 @@ lng: -98.5200
 zipSample: ["78259", "78297", "78202", "78220", "78238"]
 zipCodes: ["78203", "78214", "78238", "78227", "78255", "78260", "78233", "78218", "78254", "78073", "78215", "78216"]
 localPaths: ["Bexar County / ZIP 78238 sector", "Bexar County / ZIP 78297 sector", "Bexar County / primary ZIP 78112", "Bexar County / elevation 732 ft band", "Bexar County / ZIP 78259 sector"]
-zillowHomeValueUsd: 233990
 ---
 
-**Engineering Notice for San Antonio:** Structural loading calculated based on 732 ft terrain assessment. Regional dispatch grid: Bexar County.
+**Engineering Notice for San Antonio:** Roof repair scope references 732 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Bexar County.
 
+
+Licensed roof remediation crews serving San Antonio, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in San Antonio, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bexar County clarifies whether restoration or replacement fits the damage pattern.
 
 Step: compare shingle manufacturer wind-zone ratings for San Antonio, TX exposure class.
 
@@ -23,7 +26,7 @@ Wind-zone note: San Antonio, TX exposure class can change starter-strip and cap 
 
 Low-slope sections in San Antonio, TX need positive drainage before membrane repairs are scoped.
 
-FAQ: When should permanent restoration start? In San Antonio, TX, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In San Antonio, TX, delayed dry-in can expand insulation and ceiling repairs.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -31,11 +34,9 @@ Risk flag: Tile underlayment age in San Antonio, TX can fail independently of vi
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-Field routing: soffit intake free area paired with wind uplift clip spacing near ZIP 78112.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 78221/78247/78235.
+Local service note: soffit intake free area paired with wind uplift clip spacing near ZIP 78112 for emergency roof work repairs.
 
 ZIP-corridor snapshot for San Antonio, TX: sampled sectors include 78112, 78223, 78109, 78221, 78265, 78218, 78244, 78278; county routing grid remains Bexar County.
 

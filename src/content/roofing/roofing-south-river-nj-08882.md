@@ -11,11 +11,14 @@ lng: -74.3800
 zipSample: ["08882"]
 zipCodes: ["08882"]
 localPaths: ["Middlesex County / elevation 23 ft band", "Middlesex County / primary ZIP 08882", "Middlesex County / coords 40.4500, -74.3800", "Middlesex County / ZIP 08882 sector"]
-zillowHomeValueUsd: 528584
 ---
 
-**Engineering Notice for South River:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for South River:** Roof repair scope references 23 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Middlesex County.
 
+
+When wind or hail hits South River, NJ, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in South River, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Middlesex County clarifies whether remediation or replacement fits the damage pattern.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -27,13 +30,11 @@ Wind-zone note: South River, NJ exposure class can change starter-strip and cap 
 
 Tip: Note recent wind events when filing insurance photos for South River, NJ.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: stage tear-off debris paths away from landscape drains.
 
 Coastal humidity in South River, NJ can slow shingle seal-down after shoulder-season storms.
-
-Scope trace: skylight curb height plus pipe boot manufacturer match referenced in Middlesex County county grid review.
 
 On-site sector marker: Middlesex County / coords 40.4500, -74.3800 — logged for map parity and ZIP-corridor verification.
 

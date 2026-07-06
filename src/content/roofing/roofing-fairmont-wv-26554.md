@@ -11,11 +11,14 @@ lng: -80.1500
 zipSample: ["26555", "26554"]
 zipCodes: ["26554", "26555"]
 localPaths: ["Marion County / primary ZIP 26554", "Marion County / ZIP 26554 sector", "Marion County / ZIP 26555 sector", "Marion County / coords 39.4800, -80.1500", "Marion County / elevation 997 ft band"]
-zillowHomeValueUsd: 182415
 ---
 
-**Engineering Notice for Fairmont:** Structural loading calculated based on 997 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Fairmont:** Storm and emergency leak triage uses 997 ft elevation band with Marion County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Fairmont, WV may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Marion County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Fairmont, WV, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -23,7 +26,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Material note: In Fairmont, WV, algae-resistant granules may be specified for north-facing slopes.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Regulatory note: Fairmont, WV projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -34,8 +37,6 @@ In Fairmont, WV, wind-driven rain can lift shingle tabs before owners notice dec
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 We coordinate Fairmont, WV roof reviews with photo logs, moisture notes, and realistic dry-in windows.
-
-roofing service brief: soffit intake free area and chimney cricket slope were cross-checked for the Fairmont intake packet.
 
 On-site sector marker: Marion County / ZIP 26555 sector — logged for map parity and ZIP-corridor verification.
 

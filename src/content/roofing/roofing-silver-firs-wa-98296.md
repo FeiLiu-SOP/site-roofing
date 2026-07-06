@@ -11,11 +11,14 @@ lng: -122.1500
 zipSample: ["98296", "98012", "98208"]
 zipCodes: ["98208", "98296", "98012"]
 localPaths: ["Snohomish County / elevation 522 ft band", "Snohomish County / ZIP 98296 sector", "Snohomish County / ZIP 98208 sector", "Snohomish County / coords 47.8600, -122.1500", "Snohomish County / primary ZIP 98296"]
-zillowHomeValueUsd: 1058994
 ---
 
-**Engineering Notice for Silver Firs:** Structural loading calculated based on 522 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Silver Firs:** Shingle, flashing, and ventilation review recorded at 522 ft AMSL context (Snohomish County).
 
+
+Roof work service in Silver Firs, WA, Snohomish County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Silver Firs, WA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Wind-zone note: Silver Firs, WA exposure class can change starter-strip and cap nail schedules.
 
@@ -25,15 +28,15 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-FAQ: When should permanent service start? In Silver Firs, WA, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In Silver Firs, WA, delayed dry-in can expand insulation and ceiling repairs.
 
 Low-slope sections in Silver Firs, WA need positive drainage before membrane repairs are scoped.
 
-Scope trace: drip-edge metal profile plus counter-flashing reglet depth referenced in Snohomish County county grid review.
+Scope trace: drip-edge metal profile plus counter-flashing reglet depth referenced in Snohomish County storm and leak review.
 
 On-site sector marker: Snohomish County / ZIP 98012 sector — logged for map parity and ZIP-corridor verification.
 

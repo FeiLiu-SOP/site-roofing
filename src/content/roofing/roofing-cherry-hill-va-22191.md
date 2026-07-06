@@ -11,11 +11,14 @@ lng: -77.2900
 zipSample: ["22191", "22026"]
 zipCodes: ["22026", "22191"]
 localPaths: ["Prince William County / ZIP 22026 sector", "Prince William County / ZIP 22191 sector", "Prince William County / elevation 220 ft band", "Prince William County / primary ZIP 22191", "Prince William County / coords 38.5700, -77.2900"]
-zillowHomeValueUsd: 489074
 ---
 
-**Engineering Notice for Cherry Hill:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Prince William County.
+**Engineering Notice for Cherry Hill:** Roof repair scope references 220 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Prince William County.
 
+
+When wind or hail hits Cherry Hill, VA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof work in Cherry Hill, VA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Prince William County clarifies whether service or replacement fits the damage pattern.
 
 FAQ: How long can shingles wait after storm damage? In Cherry Hill, VA, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -33,9 +36,7 @@ Step: confirm drip-edge continuity before shingle courses restart.
 
 Tile and shingle mixes in Cherry Hill, VA require different fastener patterns at transitions.
 
-Field routing: chimney cricket slope paired with deck sheathing thickness near ZIP 22191.
-
-Field note: Attic moisture pathway scan referenced ZIP 22191/22026.
+Local service note: chimney cricket slope paired with deck sheathing thickness near ZIP 22191 for emergency roof work repairs.
 
 On-site sector marker: Prince William County / primary ZIP 22191 — logged for map parity and ZIP-corridor verification.
 

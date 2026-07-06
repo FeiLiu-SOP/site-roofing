@@ -11,11 +11,14 @@ lng: -74.0000
 zipSample: ["10962", "10965"]
 zipCodes: ["10962", "10965"]
 localPaths: ["Rockland County / ZIP 10962 sector", "Rockland County / primary ZIP 10965", "Rockland County / coords 41.0600, -74.0000", "Rockland County / ZIP 10965 sector", "Rockland County / elevation 292 ft band"]
-zillowHomeValueUsd: 703090
 ---
 
-**Engineering Notice for Pearl River:** Structural loading calculated based on 292 ft terrain assessment. Regional dispatch grid: Rockland County.
+**Engineering Notice for Pearl River:** Storm and emergency leak triage uses 292 ft elevation band with Rockland County service-area context for roofing repairs.
 
+
+Roof work restoration in Pearl River, NY, Rockland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Pearl River, NY, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 10965.
 
@@ -33,7 +36,7 @@ Material note: In Pearl River, NY, algae-resistant granules may be specified for
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Scope trace: counter-flashing reglet depth plus ice-barrier lap sequence referenced in Rockland County county grid review.
+Scope trace: counter-flashing reglet depth plus ice-barrier lap sequence referenced in Rockland County storm and leak review.
 
 On-site sector marker: Rockland County / ZIP 10962 sector — logged for map parity and ZIP-corridor verification.
 

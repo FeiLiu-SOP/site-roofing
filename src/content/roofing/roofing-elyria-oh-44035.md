@@ -11,11 +11,14 @@ lng: -82.1100
 zipSample: ["44035", "44036"]
 zipCodes: ["44036", "44035"]
 localPaths: ["Lorain County / elevation 719 ft band", "Lorain County / ZIP 44036 sector", "Lorain County / primary ZIP 44035", "Lorain County / coords 41.3800, -82.1100", "Lorain County / ZIP 44035 sector"]
-zillowHomeValueUsd: 182813
 ---
 
-**Engineering Notice for Elyria:** Structural loading calculated based on 719 ft terrain assessment. Regional dispatch grid: Lorain County.
+**Engineering Notice for Elyria:** Storm and emergency leak triage uses 719 ft elevation band with Lorain County service-area context for roofing repairs.
 
+
+When wind or hail hits Elyria, OH, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service service in Elyria, OH, Lorain County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Granule embedment loss on Elyria, OH north slopes can precede mat exposure.
 
@@ -29,9 +32,7 @@ Risk flag: Tile underlayment age in Elyria, OH can fail independently of visible
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-roof work brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Elyria intake packet.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 On-site sector marker: Lorain County / ZIP 44036 sector — logged for map parity and ZIP-corridor verification.
 

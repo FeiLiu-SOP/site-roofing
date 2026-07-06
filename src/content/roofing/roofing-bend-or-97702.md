@@ -11,11 +11,14 @@ lng: -121.3100
 zipSample: ["97703", "97708", "97702", "97701"]
 zipCodes: ["97703", "97701", "97708", "97702"]
 localPaths: ["Deschutes County / ZIP 97701 sector", "Deschutes County / ZIP 97702 sector", "Deschutes County / primary ZIP 97702", "Deschutes County / elevation 3648 ft band", "Deschutes County / ZIP 97703 sector"]
-zillowHomeValueUsd: 681930
 ---
 
-**Engineering Notice for Bend:** Structural loading calculated based on 3648 ft terrain assessment. Regional dispatch grid: Deschutes County.
+**Engineering Notice for Bend:** Roof repair scope references 3648 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Deschutes County.
 
+
+Emergency roof remediation in Bend, OR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Deschutes County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Bend, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Deschutes County clarifies whether remediation or replacement fits the damage pattern.
 
 Regulatory note: Bend, OR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -32,8 +35,6 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 TPO seam welds in Bend, OR commercial sections need probe tests after freeze events.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-roofing service brief: attic baffle spacing and deck sheathing thickness were cross-checked for the Bend intake packet.
 
 On-site sector marker: Deschutes County / primary ZIP 97702 — logged for map parity and ZIP-corridor verification.
 

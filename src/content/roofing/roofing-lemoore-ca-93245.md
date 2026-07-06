@@ -11,11 +11,14 @@ lng: -119.8000
 zipSample: ["93245"]
 zipCodes: ["93245"]
 localPaths: ["Kings County / ZIP 93245 sector", "Kings County / elevation 220 ft band", "Kings County / coords 36.2900, -119.8000", "Kings County / primary ZIP 93245"]
-zillowHomeValueUsd: 384345
 ---
 
-**Engineering Notice for Lemoore:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Kings County.
+**Engineering Notice for Lemoore:** Storm and emergency leak triage uses 220 ft elevation band with Kings County service-area context for roofing repairs.
 
+
+Licensed roof remediation crews serving Lemoore, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service remediation in Lemoore, CA, Kings County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -33,11 +36,9 @@ Low-slope sections in Lemoore, CA need positive drainage before membrane repairs
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field routing: skylight curb height paired with pipe boot manufacturer match near ZIP 93245.
-
-Field note: Valley debris and granule loss noted for ZIP 93245.
+Local service note: skylight curb height paired with pipe boot manufacturer match near ZIP 93245 for emergency roofing service repairs.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Kings County and primary ZIP 93245. Terrain reference: 220 ft. Center point: 36.2900, -119.8000. ZIP sample: 93245. Regional routing note: Kings County traffic flow is balanced around ZIP 93245 service demand.
 

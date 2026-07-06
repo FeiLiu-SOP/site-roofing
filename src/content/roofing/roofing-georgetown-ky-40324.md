@@ -11,15 +11,18 @@ lng: -84.5500
 zipSample: ["40324"]
 zipCodes: ["40324"]
 localPaths: ["Scott County / elevation 827 ft band", "Scott County / primary ZIP 40324", "Scott County / coords 38.2200, -84.5500", "Scott County / ZIP 40324 sector"]
-zillowHomeValueUsd: 336314
 ---
 
-**Engineering Notice for Georgetown:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: Scott County.
+**Engineering Notice for Georgetown:** Storm and emergency leak triage uses 827 ft elevation band with Scott County service-area context for roofing repairs.
 
+
+Qualified roof restoration crews serving Georgetown, KY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Georgetown, KY, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Can you tarp only part of the roof? In Georgetown, KY, yes—if slope and anchor points support safe tie-offs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Georgetown, KY can fail independently of visible tile cracks.
 
@@ -30,8 +33,6 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 Synthetic underlayment slip in Georgetown, KY is often tied to deck moisture, not wind alone.
 
 Code context: Ventilation ratios for Georgetown, KY attics should be checked against current mechanical exhaust additions.
-
-Field routing: ridge cap nail schedule paired with counter-flashing reglet depth near ZIP 40324.
 
 ZIP-corridor snapshot for Georgetown, KY: sampled sectors include 40324; county routing grid remains Scott County.
 

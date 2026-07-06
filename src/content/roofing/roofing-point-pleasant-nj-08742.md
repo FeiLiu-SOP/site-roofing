@@ -11,11 +11,14 @@ lng: -74.0700
 zipSample: ["08742"]
 zipCodes: ["08742"]
 localPaths: ["Ocean County / ZIP 08742 sector", "Ocean County / primary ZIP 08742", "Ocean County / coords 40.0800, -74.0700", "Ocean County / elevation 26 ft band"]
-zillowHomeValueUsd: 845722
 ---
 
-**Engineering Notice for Point Pleasant:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Ocean County.
+**Engineering Notice for Point Pleasant:** Roof repair scope references 26 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Ocean County.
 
+
+Emergency roof service in Point Pleasant, NJ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Ocean County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof restoration crews serving Point Pleasant, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -23,7 +26,7 @@ Granule embedment loss on Point Pleasant, NJ north slopes can precede mat exposu
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Code context: Ventilation ratios for Point Pleasant, NJ attics should be checked against current mechanical exhaust additions.
 
@@ -33,7 +36,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-roof work brief: synthetic underlayment slip and pipe boot manufacturer match were cross-checked for the Point Pleasant intake packet.
+Roof restoration brief: synthetic underlayment slip and pipe boot manufacturer match were cross-checked for the Point Pleasant shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 08742.
 

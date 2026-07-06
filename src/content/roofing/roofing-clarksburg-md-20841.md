@@ -11,15 +11,18 @@ lng: -77.2700
 zipSample: ["20841", "20871", "20876"]
 zipCodes: ["20876", "20841", "20871"]
 localPaths: ["Montgomery County / elevation 551 ft band", "Montgomery County / ZIP 20876 sector", "Montgomery County / ZIP 20841 sector", "Montgomery County / ZIP 20871 sector", "Montgomery County / coords 39.2200, -77.2700"]
-zillowHomeValueUsd: 838605
 ---
 
-**Engineering Notice for Clarksburg:** Structural loading calculated based on 551 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Clarksburg:** Storm and emergency leak triage uses 551 ft elevation band with Montgomery County service-area context for roofing repairs.
 
+
+Roof work restoration in Clarksburg, MD, Montgomery County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Clarksburg, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Montgomery County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Tile underlayment age in Clarksburg, MD can fail independently of visible tile cracks.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -31,9 +34,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Regulatory note: Clarksburg, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-roof work brief: shingle exposure calibration and counter-flashing reglet depth were cross-checked for the Clarksburg intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 20841/20871/20876.
+Roof service brief: shingle exposure calibration and counter-flashing reglet depth were cross-checked for the Clarksburg shingle and leak scope.
 
 On-site sector marker: Montgomery County / elevation 551 ft band — logged for map parity and ZIP-corridor verification.
 

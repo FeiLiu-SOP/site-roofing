@@ -11,17 +11,20 @@ lng: -83.0200
 zipSample: ["43085"]
 zipCodes: ["43085"]
 localPaths: ["Franklin County / elevation 830 ft band", "Franklin County / ZIP 43085 sector", "Franklin County / primary ZIP 43085", "Franklin County / coords 40.0900, -83.0200"]
-zillowHomeValueUsd: 404680
 ---
 
-**Engineering Notice for Worthington:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Worthington:** Roof repair scope references 830 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Franklin County.
 
+
+Roof work restoration in Worthington, OH, Franklin County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof remediation crews serving Worthington, OH review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -32,8 +35,6 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Code context: Ventilation ratios for Worthington, OH attics should be checked against current mechanical exhaust additions.
-
-roof work brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Worthington intake packet.
 
 On-site sector marker: Franklin County / primary ZIP 43085 — logged for map parity and ZIP-corridor verification.
 

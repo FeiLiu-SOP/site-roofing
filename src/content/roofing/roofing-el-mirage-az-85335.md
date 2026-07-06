@@ -11,13 +11,16 @@ lng: -112.3300
 zipSample: ["85335"]
 zipCodes: ["85335"]
 localPaths: ["Maricopa County / primary ZIP 85335", "Maricopa County / elevation 1106 ft band", "Maricopa County / ZIP 85335 sector", "Maricopa County / coords 33.5900, -112.3300"]
-zillowHomeValueUsd: 342479
 ---
 
-**Engineering Notice for El Mirage:** Structural loading calculated based on 1106 ft terrain assessment. Regional dispatch grid: Maricopa County.
+**Engineering Notice for El Mirage:** Roof repair scope references 1106 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Maricopa County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+When wind or hail hits El Mirage, AZ, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof service in El Mirage, AZ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Maricopa County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -31,9 +34,7 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Code context: Ventilation ratios for El Mirage, AZ attics should be checked against current mechanical exhaust additions.
 
-roof service brief: starter-strip setback and deck sheathing thickness were cross-checked for the El Mirage intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 85335.
+Roof restoration brief: starter-strip setback and deck sheathing thickness were cross-checked for the El Mirage shingle and leak scope.
 
 On-site sector marker: Maricopa County / ZIP 85335 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,17 +11,20 @@ lng: -84.2100
 zipSample: ["30071"]
 zipCodes: ["30071"]
 localPaths: ["Gwinnett County / elevation 991 ft band", "Gwinnett County / ZIP 30071 sector", "Gwinnett County / coords 33.9400, -84.2100", "Gwinnett County / primary ZIP 30071"]
-zillowHomeValueUsd: 360273
 ---
 
-**Engineering Notice for Norcross:** Structural loading calculated based on 991 ft terrain assessment. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Norcross:** Roof repair scope references 991 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Gwinnett County.
 
+
+Storm damage roofing service in Norcross, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Gwinnett County clarifies whether restoration or replacement fits the damage pattern.
+
+Certified roof restoration crews serving Norcross, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Tile underlayment age in Norcross, GA can fail independently of visible tile cracks.
 
 Skylight curb flashing in Norcross, GA should be sequenced before ridge cap replacement.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -32,8 +35,6 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 Step: verify starter-strip alignment before field shingle exposure is set.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
-
-roofing service brief: ridge cap nail schedule and synthetic underlayment slip were cross-checked for the Norcross intake packet.
 
 ZIP-corridor snapshot for Norcross, GA: sampled sectors include 30071; county routing grid remains Gwinnett County.
 

@@ -11,17 +11,20 @@ lng: -91.4900
 zipSample: ["54701", "54702", "54703"]
 zipCodes: ["54703", "54701", "54702"]
 localPaths: ["Eau Claire County / ZIP 54702 sector", "Eau Claire County / primary ZIP 54703", "Eau Claire County / ZIP 54701 sector", "Eau Claire County / ZIP 54703 sector", "Eau Claire County / coords 44.8200, -91.4900"]
-zillowHomeValueUsd: 287495
 ---
 
-**Engineering Notice for Eau Claire:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Eau Claire County.
+**Engineering Notice for Eau Claire:** Shingle, flashing, and ventilation review recorded at 869 ft AMSL context (Eau Claire County).
 
+
+Emergency roof service in Eau Claire, WI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Eau Claire County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof restoration crews serving Eau Claire, WI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 In Eau Claire, WI, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -31,7 +34,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Regulatory note: Eau Claire, WI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Scope trace: drip-edge metal profile plus valley metal gauge referenced in Eau Claire County county grid review.
+Scope trace: drip-edge metal profile plus valley metal gauge referenced in Eau Claire County storm and leak review.
 
 On-site sector marker: Eau Claire County / elevation 869 ft band — logged for map parity and ZIP-corridor verification.
 

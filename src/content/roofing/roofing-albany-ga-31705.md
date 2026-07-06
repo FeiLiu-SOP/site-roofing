@@ -11,11 +11,14 @@ lng: -84.1800
 zipSample: ["31706", "31705", "31721", "31702", "31703"]
 zipCodes: ["31702", "31707", "31708", "31701", "31721", "31705", "31703", "31706"]
 localPaths: ["Dougherty County / primary ZIP 31705", "Dougherty County / elevation 220 ft band", "Dougherty County / coords 31.5800, -84.1800", "Dougherty County / ZIP 31721 sector", "Dougherty County / ZIP 31702 sector"]
-zillowHomeValueUsd: 91196
 ---
 
-**Engineering Notice for Albany:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Dougherty County.
+**Engineering Notice for Albany:** Shingle, flashing, and ventilation review recorded at 220 ft AMSL context (Dougherty County).
 
+
+Roof work restoration in Albany, GA, Dougherty County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Albany, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Dougherty County clarifies whether service or replacement fits the damage pattern.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -31,9 +34,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Scope trace: soffit intake free area plus chimney cricket slope referenced in Dougherty County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 31707/31702/31701.
+Scope trace: soffit intake free area plus chimney cricket slope referenced in Dougherty County storm and leak review.
 
 On-site sector marker: Dougherty County / elevation 220 ft band — logged for map parity and ZIP-corridor verification.
 

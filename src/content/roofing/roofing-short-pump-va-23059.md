@@ -11,13 +11,16 @@ lng: -77.6200
 zipSample: ["23059", "23233"]
 zipCodes: ["23233", "23059"]
 localPaths: ["Henrico County / primary ZIP 23059", "Henrico County / ZIP 23233 sector", "Henrico County / elevation 315 ft band", "Henrico County / coords 37.6500, -77.6200", "Henrico County / ZIP 23059 sector"]
-zillowHomeValueUsd: 622802
 ---
 
-**Engineering Notice for Short Pump:** Structural loading calculated based on 315 ft terrain assessment. Regional dispatch grid: Henrico County.
+**Engineering Notice for Short Pump:** Shingle, flashing, and ventilation review recorded at 315 ft AMSL context (Henrico County).
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+When wind or hail hits Short Pump, VA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work restoration in Short Pump, VA, Henrico County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Wind-zone note: Short Pump, VA exposure class can change starter-strip and cap nail schedules.
 
@@ -31,9 +34,7 @@ Step: compare shingle manufacturer wind-zone ratings for Short Pump, VA exposure
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Field routing: ice-barrier lap sequence paired with wind uplift clip spacing near ZIP 23059.
-
-Field note: Attic moisture pathway scan referenced ZIP 23059/23233.
+Local service note: ice-barrier lap sequence paired with wind uplift clip spacing near ZIP 23059 for emergency roof work repairs.
 
 Regional mesh label Henrico County: moisture and logistics baselines are keyed to Short Pump, VA before niche-specific work begins.
 

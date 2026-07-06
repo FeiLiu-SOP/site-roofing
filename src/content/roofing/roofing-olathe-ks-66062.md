@@ -11,11 +11,14 @@ lng: -94.8200
 zipSample: ["66062", "66051", "66061", "66063"]
 zipCodes: ["66061", "66062", "66051", "66063"]
 localPaths: ["Johnson County / ZIP 66051 sector", "Johnson County / ZIP 66061 sector", "Johnson County / ZIP 66063 sector", "Johnson County / coords 38.8800, -94.8200", "Johnson County / ZIP 66062 sector"]
-zillowHomeValueUsd: 438512
 ---
 
-**Engineering Notice for Olathe:** Structural loading calculated based on 1050 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Olathe:** Shingle, flashing, and ventilation review recorded at 1050 ft AMSL context (Johnson County).
 
+
+Licensed roof service crews serving Olathe, KS review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Olathe, KS may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Johnson County clarifies whether restoration or replacement fits the damage pattern.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -31,11 +34,9 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: In Olathe, KS, interior stains may track from HVAC condensate rather than roof cladding.
-
-Scope trace: chimney cricket slope plus valley metal gauge referenced in Johnson County county grid review.
 
 On-site sector marker: Johnson County / ZIP 66051 sector — logged for map parity and ZIP-corridor verification.
 

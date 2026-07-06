@@ -11,17 +11,20 @@ lng: -121.1500
 zipSample: ["95363"]
 zipCodes: ["95363"]
 localPaths: ["Stanislaus County / ZIP 95363 sector", "Stanislaus County / primary ZIP 95363", "Stanislaus County / elevation 108 ft band", "Stanislaus County / coords 37.4800, -121.1500"]
-zillowHomeValueUsd: 510478
 ---
 
-**Engineering Notice for Patterson:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Stanislaus County.
+**Engineering Notice for Patterson:** Shingle, flashing, and ventilation review recorded at 108 ft AMSL context (Stanislaus County).
 
+
+Qualified roof restoration crews serving Patterson, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work service in Patterson, CA, Stanislaus County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
 Freeze-thaw cycles around Patterson, CA stress nail pops along eaves and rake edges.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -34,8 +37,6 @@ Wind-zone note: Patterson, CA exposure class can change starter-strip and cap na
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Step: confirm drip-edge continuity before shingle courses restart.
-
-Scope trace: deck sheathing thickness plus chimney cricket slope referenced in Stanislaus County county grid review.
 
 On-site sector marker: Stanislaus County / coords 37.4800, -121.1500 — logged for map parity and ZIP-corridor verification.
 

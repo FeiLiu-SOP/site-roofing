@@ -11,29 +11,30 @@ lng: -84.2000
 zipSample: ["45377", "45406", "45470", "45409", "45428"]
 zipCodes: ["45409", "45406", "45428", "45403", "45420", "45410", "45404", "45405", "45417", "45377", "45481", "45490"]
 localPaths: ["Montgomery County / coords 39.7800, -84.2000", "Montgomery County / primary ZIP 45432", "Montgomery County / ZIP 45377 sector", "Montgomery County / ZIP 45406 sector", "Montgomery County / ZIP 45428 sector"]
-zillowHomeValueUsd: 224643
 ---
 
-**Engineering Notice for Dayton:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Dayton:** Roof repair scope references 748 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Montgomery County.
 
+
+Roof service restoration in Dayton, OH, Montgomery County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Dayton, OH often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Montgomery County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Freeze-thaw cycles around Dayton, OH stress nail pops along eaves and rake edges.
 
 Risk flag: In Dayton, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: When should permanent restoration start? In Dayton, OH, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In Dayton, OH, delayed dry-in can expand insulation and ceiling repairs.
 
 Regulatory note: Dayton, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Step: separate emergency tarp scope from permanent remediation line items.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-Field routing: synthetic underlayment slip paired with chimney cricket slope near ZIP 45432.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 45406/45410/45402.
+Local service note: synthetic underlayment slip paired with chimney cricket slope near ZIP 45432 for emergency roofing service repairs.
 
 On-site sector marker: Montgomery County / ZIP 45419 sector — logged for map parity and ZIP-corridor verification.
 

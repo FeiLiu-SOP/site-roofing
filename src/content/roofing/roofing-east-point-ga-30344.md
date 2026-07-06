@@ -11,11 +11,14 @@ lng: -84.4700
 zipSample: ["30344", "30364", "30385", "30349"]
 zipCodes: ["30364", "30385", "30344", "30349"]
 localPaths: ["Fulton County / ZIP 30385 sector", "Fulton County / primary ZIP 30344", "Fulton County / ZIP 30344 sector", "Fulton County / coords 33.6700, -84.4700", "Fulton County / ZIP 30364 sector"]
-zillowHomeValueUsd: 224699
 ---
 
-**Engineering Notice for East Point:** Structural loading calculated based on 1001 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for East Point:** Roof repair scope references 1001 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Fulton County.
 
+
+When wind or hail hits East Point, GA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in East Point, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Fulton County clarifies whether service or replacement fits the damage pattern.
 
 Wind-zone note: East Point, GA exposure class can change starter-strip and cap nail schedules.
 
@@ -23,7 +26,7 @@ We coordinate East Point, GA roof reviews with photo logs, moisture notes, and r
 
 Material note: In East Point, GA, algae-resistant granules may be specified for north-facing slopes.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent restoration line items.
 
 Tip: Note recent wind events when filing insurance photos for East Point, GA.
 
@@ -35,7 +38,7 @@ Risk flag: Tile underlayment age in East Point, GA can fail independently of vis
 
 Across East Point, GA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Field routing: wind uplift clip spacing paired with soffit intake free area near ZIP 30344.
+Local service note: wind uplift clip spacing paired with soffit intake free area near ZIP 30344 for emergency roof service repairs.
 
 Regional mesh label Fulton County: moisture and logistics baselines are keyed to East Point, GA before niche-specific work begins.
 

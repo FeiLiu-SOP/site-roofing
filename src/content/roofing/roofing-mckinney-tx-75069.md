@@ -11,15 +11,18 @@ lng: -96.6700
 zipSample: ["75070", "75071", "75069", "75072"]
 zipCodes: ["75070", "75071", "75069", "75072"]
 localPaths: ["Collin County / ZIP 75072 sector", "Collin County / ZIP 75070 sector", "Collin County / primary ZIP 75069", "Collin County / coords 33.2000, -96.6700", "Collin County / elevation 604 ft band"]
-zillowHomeValueUsd: 418045
 ---
 
-**Engineering Notice for McKinney:** Structural loading calculated based on 604 ft terrain assessment. Regional dispatch grid: Collin County.
+**Engineering Notice for McKinney:** Storm and emergency leak triage uses 604 ft elevation band with Collin County service-area context for roofing repairs.
 
+
+Emergency roof remediation in McKinney, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Collin County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits McKinney, TX, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Note recent wind events when filing insurance photos for McKinney, TX.
 
@@ -31,7 +34,7 @@ FAQ: Can you tarp only part of the roof? In McKinney, TX, yes—if slope and anc
 
 Code context: Ventilation ratios for McKinney, TX attics should be checked against current mechanical exhaust additions.
 
-Scope trace: counter-flashing reglet depth plus pipe boot manufacturer match referenced in Collin County county grid review.
+Scope trace: counter-flashing reglet depth plus pipe boot manufacturer match referenced in Collin County storm and leak review.
 
 On-site sector marker: Collin County / ZIP 75072 sector — logged for map parity and ZIP-corridor verification.
 

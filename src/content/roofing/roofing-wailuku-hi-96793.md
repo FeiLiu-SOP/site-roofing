@@ -11,15 +11,18 @@ lng: -156.5100
 zipSample: ["96793"]
 zipCodes: ["96793"]
 localPaths: ["Maui County / coords 20.8800, -156.5100", "Maui County / ZIP 96793 sector", "Maui County / primary ZIP 96793", "Maui County / elevation 354 ft band"]
-zillowHomeValueUsd: 924840
 ---
 
-**Engineering Notice for Wailuku:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Maui County.
+**Engineering Notice for Wailuku:** Storm and emergency leak triage uses 354 ft elevation band with Maui County service-area context for roofing repairs.
 
+
+Certified roof restoration crews serving Wailuku, HI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Wailuku, HI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Maui County clarifies whether restoration or replacement fits the damage pattern.
 
 Wind-zone note: Wailuku, HI exposure class can change starter-strip and cap nail schedules.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Tile underlayment age in Wailuku, HI can fail independently of visible tile cracks.
 
@@ -30,8 +33,6 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 Across Wailuku, HI, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
 Step: compare shingle manufacturer wind-zone ratings for Wailuku, HI exposure class.
-
-roof work brief: drip-edge metal profile and starter-strip setback were cross-checked for the Wailuku intake packet.
 
 ZIP-corridor snapshot for Wailuku, HI: sampled sectors include 96793; county routing grid remains Maui County.
 

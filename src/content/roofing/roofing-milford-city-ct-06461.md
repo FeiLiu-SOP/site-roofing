@@ -11,11 +11,14 @@ lng: -73.0600
 zipSample: ["06461", "06460"]
 zipCodes: ["06460", "06461"]
 localPaths: ["South Central Connecticut County / ZIP 06461 sector", "South Central Connecticut County / primary ZIP 06461", "South Central Connecticut County / ZIP 06460 sector", "South Central Connecticut County / elevation 72 ft band", "South Central Connecticut County / coords 41.2300, -73.0600"]
-zillowHomeValueUsd: 489867
 ---
 
-**Engineering Notice for Milford city:** Structural loading calculated based on 72 ft terrain assessment. Regional dispatch grid: South Central Connecticut County.
+**Engineering Notice for Milford city:** Shingle, flashing, and ventilation review recorded at 72 ft AMSL context (South Central Connecticut County).
 
+
+Storm damage roof service in Milford city, CT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in South Central Connecticut County clarifies whether service or replacement fits the damage pattern.
+
+Roof service restoration in Milford city, CT, South Central Connecticut County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -29,9 +32,7 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 In Milford city, CT, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-Field routing: pipe boot manufacturer match paired with chimney cricket slope near ZIP 06461.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 On-site sector marker: South Central Connecticut County / primary ZIP 06461 — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -81.7400
 zipSample: ["32073"]
 zipCodes: ["32073"]
 localPaths: ["Clay County / ZIP 32073 sector", "Clay County / primary ZIP 32073", "Clay County / coords 30.1800, -81.7400", "Clay County / elevation 69 ft band"]
-zillowHomeValueUsd: 297087
 ---
 
-**Engineering Notice for Bellair-Meadowbrook Terrace:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: Clay County.
+**Engineering Notice for Bellair-Meadowbrook Terrace:** Shingle, flashing, and ventilation review recorded at 69 ft AMSL context (Clay County).
 
 
-Step: separate emergency tarp scope from permanent service line items.
+Emergency roof remediation in Bellair-Meadowbrook Terrace, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Clay County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service restoration in Bellair-Meadowbrook Terrace, FL, Clay County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Step: separate emergency tarp scope from permanent restoration line items.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -33,9 +36,9 @@ Code context: Ventilation ratios for Bellair-Meadowbrook Terrace, FL attics shou
 
 Risk flag: Tile underlayment age in Bellair-Meadowbrook Terrace, FL can fail independently of visible tile cracks.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roof service brief: synthetic underlayment slip and soffit intake free area were cross-checked for the Bellair-Meadowbrook Terrace intake packet.
+Roof service brief: synthetic underlayment slip and soffit intake free area were cross-checked for the Bellair-Meadowbrook Terrace shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 32073.
 

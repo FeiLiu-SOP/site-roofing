@@ -11,17 +11,20 @@ lng: -77.1600
 zipSample: ["22315", "22310"]
 zipCodes: ["22315", "22310"]
 localPaths: ["Fairfax County / ZIP 22310 sector", "Fairfax County / ZIP 22315 sector", "Fairfax County / coords 38.7700, -77.1600", "Fairfax County / elevation 249 ft band", "Fairfax County / primary ZIP 22310"]
-zillowHomeValueUsd: 673057
 ---
 
-**Engineering Notice for Franconia:** Structural loading calculated based on 249 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Franconia:** Storm and emergency leak triage uses 249 ft elevation band with Fairfax County service-area context for roofing repairs.
 
+
+Emergency roof service in Franconia, VA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Fairfax County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Franconia, VA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Fairfax County clarifies whether remediation or replacement fits the damage pattern.
 
 Low-slope sections in Franconia, VA need positive drainage before membrane repairs are scoped.
 
-FAQ: When should permanent service start? In Franconia, VA, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Franconia, VA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -31,9 +34,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Step: map ventilation intake and exhaust pairs for Franconia, VA attic runs.
 
-roof service brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Franconia intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 22315/22310.
+Roof remediation brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Franconia shingle and leak scope.
 
 Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Franconia, VA before niche-specific work begins.
 

@@ -11,13 +11,16 @@ lng: -81.6700
 zipSample: ["28607", "28608"]
 zipCodes: ["28608", "28607"]
 localPaths: ["Watauga County / primary ZIP 28607", "Watauga County / ZIP 28608 sector", "Watauga County / coords 36.2100, -81.6700", "Watauga County / elevation 3235 ft band", "Watauga County / ZIP 28607 sector"]
-zillowHomeValueUsd: 491996
 ---
 
-**Engineering Notice for Boone:** Structural loading calculated based on 3235 ft terrain assessment. Regional dispatch grid: Watauga County.
+**Engineering Notice for Boone:** Roof repair scope references 3235 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Watauga County.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Certified roof remediation crews serving Boone, NC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Boone, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Watauga County clarifies whether remediation or replacement fits the damage pattern.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -33,7 +36,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Low-slope sections in Boone, NC need positive drainage before membrane repairs are scoped.
 
-roofing service brief: attic baffle spacing and soffit intake free area were cross-checked for the Boone intake packet.
+Roof restoration brief: attic baffle spacing and soffit intake free area were cross-checked for the Boone shingle and leak scope.
 
 On-site sector marker: Watauga County / coords 36.2100, -81.6700 — logged for map parity and ZIP-corridor verification.
 

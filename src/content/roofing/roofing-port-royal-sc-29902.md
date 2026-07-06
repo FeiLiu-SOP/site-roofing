@@ -11,11 +11,14 @@ lng: -80.7000
 zipSample: ["29906", "29902", "29905", "29935"]
 zipCodes: ["29935", "29902", "29905", "29906"]
 localPaths: ["Beaufort County / coords 32.3600, -80.7000", "Beaufort County / primary ZIP 29902", "Beaufort County / ZIP 29902 sector", "Beaufort County / elevation 3 ft band", "Beaufort County / ZIP 29905 sector"]
-zillowHomeValueUsd: 418951
 ---
 
-**Engineering Notice for Port Royal:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Beaufort County.
+**Engineering Notice for Port Royal:** Storm and emergency leak triage uses 3 ft elevation band with Beaufort County service-area context for roofing repairs.
 
+
+Roof work restoration in Port Royal, SC, Beaufort County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Port Royal, SC, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 In Port Royal, SC, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -33,7 +36,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field routing: deck sheathing thickness paired with shingle exposure calibration near ZIP 29902.
+Local service note: deck sheathing thickness paired with shingle exposure calibration near ZIP 29902 for emergency roof service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 29935/29906/29902.
 

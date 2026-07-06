@@ -11,11 +11,14 @@ lng: -134.1700
 zipSample: ["99812", "99803", "99811", "99821", "99801"]
 zipCodes: ["99801", "99812", "99811", "99803", "99824", "99802", "99821"]
 localPaths: ["Juneau County / ZIP 99801 sector", "Juneau County / coords 58.4500, -134.1700", "Juneau County / elevation 1942 ft band", "Juneau County / primary ZIP 99824", "Juneau County / ZIP 99803 sector"]
-zillowHomeValueUsd: 350373
 ---
 
-**Engineering Notice for Juneau:** Structural loading calculated based on 1942 ft terrain assessment. Regional dispatch grid: Juneau County.
+**Engineering Notice for Juneau:** Storm and emergency leak triage uses 1942 ft elevation band with Juneau County service-area context for roofing repairs.
 
+
+Roof service restoration in Juneau, AK, Juneau County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Juneau, AK, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -29,13 +32,13 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Parapet coping movement in Juneau, AK can channel water behind wall cladding.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: compare shingle manufacturer wind-zone ratings for Juneau, AK exposure class.
 
 Material note: In Juneau, AK, algae-resistant granules may be specified for north-facing slopes.
 
-Field routing: attic baffle spacing paired with skylight curb height near ZIP 99824.
+Local service note: attic baffle spacing paired with skylight curb height near ZIP 99824 for emergency roof work repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 99803/99824/99812.
 

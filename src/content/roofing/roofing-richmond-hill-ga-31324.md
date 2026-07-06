@@ -11,11 +11,14 @@ lng: -81.3100
 zipSample: ["31324"]
 zipCodes: ["31324"]
 localPaths: ["Bryan County / coords 31.9000, -81.3100", "Bryan County / primary ZIP 31324", "Bryan County / elevation 36 ft band", "Bryan County / ZIP 31324 sector"]
-zillowHomeValueUsd: 423214
 ---
 
-**Engineering Notice for Richmond Hill:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Bryan County.
+**Engineering Notice for Richmond Hill:** Shingle, flashing, and ventilation review recorded at 36 ft AMSL context (Bryan County).
 
+
+Qualified roof service crews serving Richmond Hill, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Richmond Hill, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bryan County clarifies whether restoration or replacement fits the damage pattern.
 
 We coordinate Richmond Hill, GA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -27,15 +30,13 @@ Regulatory note: Richmond Hill, GA projects may trigger ice-barrier upgrades whe
 
 Tip: Note recent wind events when filing insurance photos for Richmond Hill, GA.
 
-Step: separate emergency tarp scope from permanent remediation line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
 Step: stage tear-off debris paths away from landscape drains.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
-
-Field routing: wind uplift clip spacing paired with starter-strip setback near ZIP 31324.
 
 Coordinate-anchored dispatch note: center reference 31.9000, -81.3100 at elevation ~36 ft aligns with Bryan County intake staging.
 

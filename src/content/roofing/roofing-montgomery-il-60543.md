@@ -11,11 +11,14 @@ lng: -88.3600
 zipSample: ["60506", "60543", "60538"]
 zipCodes: ["60506", "60538", "60543"]
 localPaths: ["Kane County / primary ZIP 60543", "Kane County / ZIP 60543 sector", "Kane County / elevation 663 ft band", "Kane County / coords 41.7200, -88.3600", "Kane County / ZIP 60538 sector"]
-zillowHomeValueUsd: 416649
 ---
 
-**Engineering Notice for Montgomery:** Structural loading calculated based on 663 ft terrain assessment. Regional dispatch grid: Kane County.
+**Engineering Notice for Montgomery:** Storm and emergency leak triage uses 663 ft elevation band with Kane County service-area context for roofing repairs.
 
+
+Storm damage roof work in Montgomery, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Kane County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof service in Montgomery, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Kane County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -29,13 +32,11 @@ Risk flag: Tile underlayment age in Montgomery, IL can fail independently of vis
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 Granule embedment loss on Montgomery, IL north slopes can precede mat exposure.
-
-Field routing: ridge cap nail schedule paired with soffit intake free area near ZIP 60543.
 
 On-site sector marker: Kane County / ZIP 60543 sector — logged for map parity and ZIP-corridor verification.
 

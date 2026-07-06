@@ -11,11 +11,14 @@ lng: -93.3600
 zipSample: ["55416", "55427", "55426", "55422"]
 zipCodes: ["55416", "55426", "55422", "55427"]
 localPaths: ["Hennepin County / primary ZIP 55422", "Hennepin County / coords 44.9900, -93.3600", "Hennepin County / ZIP 55422 sector", "Hennepin County / ZIP 55426 sector", "Hennepin County / ZIP 55416 sector"]
-zillowHomeValueUsd: 339147
 ---
 
-**Engineering Notice for Golden Valley:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Golden Valley:** Storm and emergency leak triage uses 869 ft elevation band with Hennepin County service-area context for roofing repairs.
 
+
+Licensed roof remediation crews serving Golden Valley, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service restoration in Golden Valley, MN, Hennepin County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Regulatory note: Golden Valley, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -29,11 +32,11 @@ FAQ: Is partial dry-in possible? In Golden Valley, MN, yes—if slope and anchor
 
 Coastal humidity in Golden Valley, MN can slow shingle seal-down after shoulder-season storms.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field routing: ridge cap nail schedule paired with deck sheathing thickness near ZIP 55422.
+Local service note: ridge cap nail schedule paired with deck sheathing thickness near ZIP 55422 for emergency roofing service repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 55426/55416/55427.
 

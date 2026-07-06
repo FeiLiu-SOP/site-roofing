@@ -11,13 +11,16 @@ lng: -96.0700
 zipSample: ["68046", "68133", "68138", "68128"]
 zipCodes: ["68128", "68046", "68138", "68133"]
 localPaths: ["Sarpy County / primary ZIP 68046", "Sarpy County / elevation 1047 ft band", "Sarpy County / ZIP 68138 sector", "Sarpy County / coords 41.1500, -96.0700", "Sarpy County / ZIP 68133 sector"]
-zillowHomeValueUsd: 409110
 ---
 
-**Engineering Notice for Papillion:** Structural loading calculated based on 1047 ft terrain assessment. Regional dispatch grid: Sarpy County.
+**Engineering Notice for Papillion:** Storm and emergency leak triage uses 1047 ft elevation band with Sarpy County service-area context for roofing repairs.
 
 
-Our Papillion, NE dispatch packets reference county grid Sarpy County and elevation band 1047 ft.
+Storm damage roof service in Papillion, NE may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Sarpy County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof restoration in Papillion, NE often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Sarpy County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Our Papillion, NE restoration packets reference Sarpy County and elevation band 1047 ft for shingle and leak scope.
 
 Risk flag: In Papillion, NE, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -35,7 +38,7 @@ FAQ: How long can shingles wait after storm damage? In Papillion, NE, delayed dr
 
 Synthetic underlayment slip in Papillion, NE is often tied to deck moisture, not wind alone.
 
-Field routing: wind uplift clip spacing paired with counter-flashing reglet depth near ZIP 68046.
+Local service note: wind uplift clip spacing paired with counter-flashing reglet depth near ZIP 68046 for emergency roof service repairs.
 
 On-site sector marker: Sarpy County / coords 41.1500, -96.0700 — logged for map parity and ZIP-corridor verification.
 

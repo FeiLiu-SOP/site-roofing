@@ -6,22 +6,25 @@ state: "NY"
 zipCode: "11727"
 county: "Suffolk County"
 elevationFt: 108
-lat: 40.8800
-lng: -73.0100
+lat: 40.8905
+lng: -73.0400
 zipSample: ["11727", "11784", "11776"]
 zipCodes: ["11784", "11727", "11776"]
 localPaths: ["Suffolk County / ZIP 11727 sector", "Suffolk County / ZIP 11784 sector", "Suffolk County / primary ZIP 11727", "Suffolk County / ZIP 11776 sector", "Suffolk County / elevation 108 ft band"]
-zillowHomeValueUsd: 547383
 ---
 
-**Engineering Notice for Coram:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Coram:** Storm and emergency leak triage uses 108 ft elevation band with Suffolk County service-area context for roofing repairs.
 
+
+Certified roof service crews serving Coram, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Coram, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Suffolk County clarifies whether service or replacement fits the damage pattern.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Granule embedment loss on Coram, NY north slopes can precede mat exposure.
 
-Our Coram, NY dispatch packets reference county grid Suffolk County and elevation band 108 ft.
+Our Coram, NY restoration packets reference Suffolk County and elevation band 108 ft for shingle and leak scope.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -31,7 +34,7 @@ FAQ: How long can shingles wait after storm damage? In Coram, NY, delayed dry-in
 
 Code context: Ventilation ratios for Coram, NY attics should be checked against current mechanical exhaust additions.
 
-Field routing: wind uplift clip spacing paired with starter-strip setback near ZIP 11727.
+Local service note: wind uplift clip spacing paired with starter-strip setback near ZIP 11727 for emergency roof service repairs.
 
 On-site sector marker: Suffolk County / primary ZIP 11727 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -93.4600
 zipSample: ["55347", "55344", "55346"]
 zipCodes: ["55344", "55347", "55346"]
 localPaths: ["Hennepin County / ZIP 55344 sector", "Hennepin County / ZIP 55346 sector", "Hennepin County / coords 44.8500, -93.4600", "Hennepin County / elevation 869 ft band", "Hennepin County / primary ZIP 55344"]
-zillowHomeValueUsd: 347043
 ---
 
-**Engineering Notice for Eden Prairie:** Structural loading calculated based on 869 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Eden Prairie:** Storm and emergency leak triage uses 869 ft elevation band with Hennepin County service-area context for roofing repairs.
 
+
+Qualified roof service crews serving Eden Prairie, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Eden Prairie, MN, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -31,9 +34,7 @@ Code context: Ventilation ratios for Eden Prairie, MN attics should be checked a
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-roof service brief: soffit intake free area and drip-edge metal profile were cross-checked for the Eden Prairie intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 55347/55346/55344.
+Roof restoration brief: soffit intake free area and drip-edge metal profile were cross-checked for the Eden Prairie shingle and leak scope.
 
 On-site sector marker: Hennepin County / elevation 869 ft band — logged for map parity and ZIP-corridor verification.
 

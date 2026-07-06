@@ -11,11 +11,14 @@ lng: -88.1100
 zipSample: ["60073"]
 zipCodes: ["60073"]
 localPaths: ["Lake County / coords 42.3400, -88.1100", "Lake County / ZIP 60073 sector", "Lake County / elevation 778 ft band", "Lake County / primary ZIP 60073"]
-zillowHomeValueUsd: 271390
 ---
 
-**Engineering Notice for Round Lake:** Structural loading calculated based on 778 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Round Lake:** Shingle, flashing, and ventilation review recorded at 778 ft AMSL context (Lake County).
 
+
+Emergency roof remediation in Round Lake, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Lake County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Round Lake, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lake County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: Tile underlayment age in Round Lake, IL can fail independently of visible tile cracks.
 
@@ -31,7 +34,7 @@ We coordinate Round Lake, IL roof reviews with photo logs, moisture notes, and r
 
 Synthetic underlayment slip in Round Lake, IL is often tied to deck moisture, not wind alone.
 
-Field routing: soffit intake free area paired with ice-barrier lap sequence near ZIP 60073.
+Local service note: soffit intake free area paired with ice-barrier lap sequence near ZIP 60073 for emergency roof service repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 60073.
 

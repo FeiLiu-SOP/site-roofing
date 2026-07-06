@@ -11,11 +11,14 @@ lng: -76.8900
 zipSample: ["20770", "20768"]
 zipCodes: ["20768", "20770"]
 localPaths: ["Prince George's County / elevation 167 ft band", "Prince George's County / ZIP 20770 sector", "Prince George's County / primary ZIP 20770", "Prince George's County / ZIP 20768 sector", "Prince George's County / coords 39.0000, -76.8900"]
-zillowHomeValueUsd: 278918
 ---
 
-**Engineering Notice for Greenbelt:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for Greenbelt:** Roof repair scope references 167 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Prince George's County.
 
+
+Licensed roof remediation crews serving Greenbelt, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Greenbelt, MD, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: In Greenbelt, MD, algae-resistant granules may be specified for north-facing slopes.
 
@@ -31,11 +34,9 @@ Tip: Note recent wind events when filing insurance photos for Greenbelt, MD.
 
 Metal panel oil-canning in Greenbelt, MD may signal clip spacing issues, not wind damage alone.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Can you tarp only part of the roof? In Greenbelt, MD, yes—if slope and anchor points support safe tie-offs.
-
-roofing service brief: ridge cap nail schedule and shingle exposure calibration were cross-checked for the Greenbelt intake packet.
 
 Primary postal anchor 20770 with multi-ZIP overlap in Greenbelt; field packets tag Prince George's County for county-grid reconciliation.
 

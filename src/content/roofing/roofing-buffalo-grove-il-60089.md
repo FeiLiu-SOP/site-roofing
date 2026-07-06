@@ -11,11 +11,14 @@ lng: -87.9600
 zipSample: ["60089"]
 zipCodes: ["60089"]
 localPaths: ["Lake County / primary ZIP 60089", "Lake County / elevation 689 ft band", "Lake County / ZIP 60089 sector", "Lake County / coords 42.1700, -87.9600"]
-zillowHomeValueUsd: 437984
 ---
 
-**Engineering Notice for Buffalo Grove:** Structural loading calculated based on 689 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Buffalo Grove:** Storm and emergency leak triage uses 689 ft elevation band with Lake County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving Buffalo Grove, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work restoration in Buffalo Grove, IL, Lake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: When should permanent service start? In Buffalo Grove, IL, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -25,7 +28,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -33,11 +36,9 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Low-slope sections in Buffalo Grove, IL need positive drainage before membrane repairs are scoped.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roof work brief: soffit intake free area and chimney cricket slope were cross-checked for the Buffalo Grove intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 60089.
+Roof restoration brief: soffit intake free area and chimney cricket slope were cross-checked for the Buffalo Grove shingle and leak scope.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Lake County and primary ZIP 60089. Terrain reference: 689 ft. Center point: 42.1700, -87.9600. ZIP sample: 60089. Service perimeter note: Coverage extends through Lake County with dispatch centered near ZIP 60089.
 

@@ -11,11 +11,14 @@ lng: -97.0700
 zipSample: ["74602", "74604", "74601"]
 zipCodes: ["74604", "74602", "74601"]
 localPaths: ["Kay County / elevation 1040 ft band", "Kay County / ZIP 74602 sector", "Kay County / ZIP 74601 sector", "Kay County / primary ZIP 74601", "Kay County / ZIP 74604 sector"]
-zillowHomeValueUsd: 86939
 ---
 
-**Engineering Notice for Ponca City:** Structural loading calculated based on 1040 ft terrain assessment. Regional dispatch grid: Kay County.
+**Engineering Notice for Ponca City:** Storm and emergency leak triage uses 1040 ft elevation band with Kay County service-area context for roofing repairs.
 
+
+Emergency roof service in Ponca City, OK often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Kay County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Ponca City, OK may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Kay County clarifies whether remediation or replacement fits the damage pattern.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -29,11 +32,11 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Our Ponca City, OK dispatch packets reference county grid Kay County and elevation band 1040 ft.
+Our Ponca City, OK restoration packets reference Kay County and elevation band 1040 ft for shingle and leak scope.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field routing: chimney cricket slope paired with attic baffle spacing near ZIP 74601.
+Local service note: chimney cricket slope paired with attic baffle spacing near ZIP 74601 for emergency roofing service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 74602/74604/74601.
 

@@ -11,11 +11,14 @@ lng: -121.2900
 zipSample: ["95648"]
 zipCodes: ["95648"]
 localPaths: ["Placer County / elevation 148 ft band", "Placer County / ZIP 95648 sector", "Placer County / coords 38.8800, -121.2900", "Placer County / primary ZIP 95648"]
-zillowHomeValueUsd: 639763
 ---
 
-**Engineering Notice for Lincoln:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Placer County.
+**Engineering Notice for Lincoln:** Roof repair scope references 148 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Placer County.
 
+
+Emergency roof restoration in Lincoln, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Placer County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service service in Lincoln, CA, Placer County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -27,11 +30,9 @@ Code context: Ventilation ratios for Lincoln, CA attics should be checked agains
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Across Lincoln, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
-
-Field routing: ridge cap nail schedule paired with ice-barrier lap sequence near ZIP 95648.
 
 Regional mesh label Placer County: moisture and logistics baselines are keyed to Lincoln, CA before niche-specific work begins.
 

@@ -11,11 +11,14 @@ lng: -75.6100
 zipSample: ["19382", "19383", "19380"]
 zipCodes: ["19380", "19383", "19382"]
 localPaths: ["Chester County / ZIP 19383 sector", "Chester County / elevation 472 ft band", "Chester County / ZIP 19382 sector", "Chester County / ZIP 19380 sector", "Chester County / primary ZIP 19380"]
-zillowHomeValueUsd: 647360
 ---
 
-**Engineering Notice for West Chester:** Structural loading calculated based on 472 ft terrain assessment. Regional dispatch grid: Chester County.
+**Engineering Notice for West Chester:** Roof repair scope references 472 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Chester County.
 
+
+Qualified roof remediation crews serving West Chester, PA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service restoration in West Chester, PA, Chester County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -30,8 +33,6 @@ TPO seam welds in West Chester, PA commercial sections need probe tests after fr
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 We coordinate West Chester, PA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
-
-Field routing: ice-barrier lap sequence paired with soffit intake free area near ZIP 19380.
 
 Regional mesh label Chester County: moisture and logistics baselines are keyed to West Chester, PA before niche-specific work begins.
 

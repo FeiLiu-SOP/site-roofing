@@ -11,13 +11,16 @@ lng: -117.9700
 zipSample: ["91706"]
 zipCodes: ["91706"]
 localPaths: ["Los Angeles County / ZIP 91706 sector", "Los Angeles County / primary ZIP 91706", "Los Angeles County / coords 34.0800, -117.9700", "Los Angeles County / elevation 354 ft band"]
-zillowHomeValueUsd: 723280
 ---
 
-**Engineering Notice for Baldwin Park:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Baldwin Park:** Roof repair scope references 354 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
 
-Our Baldwin Park, CA dispatch packets reference county grid Los Angeles County and elevation band 354 ft.
+Storm damage roof work in Baldwin Park, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether remediation or replacement fits the damage pattern.
+
+Roofing service restoration in Baldwin Park, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Our Baldwin Park, CA remediation packets reference Los Angeles County and elevation band 354 ft for shingle and leak scope.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -30,8 +33,6 @@ Across Baldwin Park, CA, ice-dam seasons often begin with clogged gutters rather
 Step: note chimney cricket geometry before counter-flashing removal.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Field routing: synthetic underlayment slip paired with ice-barrier lap sequence near ZIP 91706.
 
 On-site sector marker: Los Angeles County / coords 34.0800, -117.9700 — logged for map parity and ZIP-corridor verification.
 

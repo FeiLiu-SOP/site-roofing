@@ -11,11 +11,14 @@ lng: -122.5300
 zipSample: ["98496", "98499", "98498", "98497"]
 zipCodes: ["98498", "98499", "98497", "98496"]
 localPaths: ["Pierce County / ZIP 98497 sector", "Pierce County / ZIP 98496 sector", "Pierce County / ZIP 98498 sector", "Pierce County / ZIP 98499 sector", "Pierce County / elevation 233 ft band"]
-zillowHomeValueUsd: 481509
 ---
 
-**Engineering Notice for Lakewood:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Pierce County.
+**Engineering Notice for Lakewood:** Storm and emergency leak triage uses 233 ft elevation band with Pierce County service-area context for roofing repairs.
 
+
+Emergency roof service in Lakewood, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pierce County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Lakewood, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pierce County clarifies whether remediation or replacement fits the damage pattern.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -27,13 +30,11 @@ Wood shake courses in Lakewood, WA require skip-spacing rules at valleys.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roofing service brief: soffit intake free area and counter-flashing reglet depth were cross-checked for the Lakewood intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 98498/98497/98499.
+Roof service brief: soffit intake free area and counter-flashing reglet depth were cross-checked for the Lakewood shingle and leak scope.
 
 On-site sector marker: Pierce County / ZIP 98497 sector — logged for map parity and ZIP-corridor verification.
 

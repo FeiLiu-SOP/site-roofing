@@ -11,11 +11,14 @@ lng: -97.8200
 zipSample: ["78630", "78613"]
 zipCodes: ["78613", "78630"]
 localPaths: ["Williamson County / ZIP 78613 sector", "Williamson County / primary ZIP 78613", "Williamson County / ZIP 78630 sector", "Williamson County / coords 30.5100, -97.8200", "Williamson County / elevation 951 ft band"]
-zillowHomeValueUsd: 466183
 ---
 
-**Engineering Notice for Cedar Park:** Structural loading calculated based on 951 ft terrain assessment. Regional dispatch grid: Williamson County.
+**Engineering Notice for Cedar Park:** Shingle, flashing, and ventilation review recorded at 951 ft AMSL context (Williamson County).
 
+
+Storm damage roof work in Cedar Park, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Williamson County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Cedar Park, TX, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: separate emergency tarp scope from permanent remediation line items.
 
@@ -29,9 +32,7 @@ Code context: Ventilation ratios for Cedar Park, TX attics should be checked aga
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-roof work brief: skylight curb height and synthetic underlayment slip were cross-checked for the Cedar Park intake packet.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 On-site sector marker: Williamson County / elevation 951 ft band — logged for map parity and ZIP-corridor verification.
 

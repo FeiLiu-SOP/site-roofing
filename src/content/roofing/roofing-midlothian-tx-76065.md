@@ -11,11 +11,14 @@ lng: -96.9900
 zipSample: ["76065"]
 zipCodes: ["76065"]
 localPaths: ["Ellis County / primary ZIP 76065", "Ellis County / ZIP 76065 sector", "Ellis County / elevation 787 ft band", "Ellis County / coords 32.4700, -96.9900"]
-zillowHomeValueUsd: 455509
 ---
 
-**Engineering Notice for Midlothian:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Ellis County.
+**Engineering Notice for Midlothian:** Shingle, flashing, and ventilation review recorded at 787 ft AMSL context (Ellis County).
 
+
+Qualified roof remediation crews serving Midlothian, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Midlothian, TX, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -29,11 +32,11 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field routing: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 76065.
+Local service note: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 76065 for emergency roof work repairs.
 
 On-site sector marker: Ellis County / coords 32.4700, -96.9900 — logged for map parity and ZIP-corridor verification.
 

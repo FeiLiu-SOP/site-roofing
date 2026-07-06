@@ -11,11 +11,14 @@ lng: -117.8100
 zipSample: ["92780", "92623", "92782", "92781"]
 zipCodes: ["92623", "92781", "92780", "92782"]
 localPaths: ["Orange County / primary ZIP 92780", "Orange County / elevation 105 ft band", "Orange County / ZIP 92623 sector", "Orange County / ZIP 92780 sector", "Orange County / coords 33.7300, -117.8100"]
-zillowHomeValueUsd: 1138564
 ---
 
-**Engineering Notice for Tustin:** Structural loading calculated based on 105 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Tustin:** Shingle, flashing, and ventilation review recorded at 105 ft AMSL context (Orange County).
 
+
+Qualified roof remediation crews serving Tustin, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Tustin, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether remediation or replacement fits the damage pattern.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -30,8 +33,6 @@ Step: map ventilation intake and exhaust pairs for Tustin, CA attic runs.
 Across Tustin, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
 We coordinate Tustin, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
-
-Field routing: deck sheathing thickness paired with drip-edge metal profile near ZIP 92780.
 
 On-site sector marker: Orange County / coords 33.7300, -117.8100 — logged for map parity and ZIP-corridor verification.
 

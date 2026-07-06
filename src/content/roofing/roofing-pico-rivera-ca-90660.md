@@ -11,11 +11,14 @@ lng: -118.0900
 zipSample: ["90660", "90662", "90661"]
 zipCodes: ["90660", "90661", "90662"]
 localPaths: ["Los Angeles County / ZIP 90662 sector", "Los Angeles County / elevation 180 ft band", "Los Angeles County / primary ZIP 90660", "Los Angeles County / coords 33.9900, -118.0900", "Los Angeles County / ZIP 90661 sector"]
-zillowHomeValueUsd: 752993
 ---
 
-**Engineering Notice for Pico Rivera:** Structural loading calculated based on 180 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Pico Rivera:** Storm and emergency leak triage uses 180 ft elevation band with Los Angeles County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Pico Rivera, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether remediation or replacement fits the damage pattern.
+
+Qualified roof service crews serving Pico Rivera, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -27,13 +30,11 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: Tile underlayment age in Pico Rivera, CA can fail independently of visible tile cracks.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
-
-roofing service brief: soffit intake free area and deck sheathing thickness were cross-checked for the Pico Rivera intake packet.
 
 Coordinate-anchored dispatch note: center reference 33.9900, -118.0900 at elevation ~180 ft aligns with Los Angeles County intake staging.
 

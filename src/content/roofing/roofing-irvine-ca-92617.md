@@ -11,15 +11,18 @@ lng: -117.7700
 zipSample: ["92603", "92612", "92697", "92650", "92602"]
 zipCodes: ["92604", "92602", "92619", "92620", "92617", "92650", "92606", "92697", "92614", "92603", "92616", "92612"]
 localPaths: ["Orange County / elevation 148 ft band", "Orange County / coords 33.6800, -117.7700", "Orange County / ZIP 92650 sector", "Orange County / ZIP 92697 sector", "Orange County / ZIP 92603 sector"]
-zillowHomeValueUsd: 836965
 ---
 
-**Engineering Notice for Irvine:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Irvine:** Storm and emergency leak triage uses 148 ft elevation band with Orange County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving Irvine, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Irvine, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Orange County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Our Irvine, CA dispatch packets reference county grid Orange County and elevation band 148 ft.
+Our Irvine, CA remediation packets reference Orange County and elevation band 148 ft for shingle and leak scope.
 
 Wind-zone note: Irvine, CA exposure class can change starter-strip and cap nail schedules.
 
@@ -35,7 +38,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Granule embedment loss on Irvine, CA north slopes can precede mat exposure.
 
-Scope trace: soffit intake free area plus chimney cricket slope referenced in Orange County county grid review.
+Scope trace: soffit intake free area plus chimney cricket slope referenced in Orange County storm and leak review.
 
 Primary postal anchor 92617 with multi-ZIP overlap in Irvine; field packets tag Orange County for county-grid reconciliation.
 

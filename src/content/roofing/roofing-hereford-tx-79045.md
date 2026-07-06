@@ -11,11 +11,14 @@ lng: -102.4000
 zipSample: ["79045"]
 zipCodes: ["79045"]
 localPaths: ["Deaf Smith County / ZIP 79045 sector", "Deaf Smith County / coords 34.8200, -102.4000", "Deaf Smith County / primary ZIP 79045", "Deaf Smith County / elevation 3845 ft band"]
-zillowHomeValueUsd: 173020
 ---
 
-**Engineering Notice for Hereford:** Structural loading calculated based on 3845 ft terrain assessment. Regional dispatch grid: Deaf Smith County.
+**Engineering Notice for Hereford:** Roof repair scope references 3845 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Deaf Smith County.
 
+
+When wind or hail hits Hereford, TX, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof work in Hereford, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Deaf Smith County clarifies whether service or replacement fits the damage pattern.
 
 FAQ: Can you tarp only part of the roof? In Hereford, TX, yes—if slope and anchor points support safe tie-offs.
 
@@ -31,7 +34,7 @@ Wind-zone note: Hereford, TX exposure class can change starter-strip and cap nai
 
 We coordinate Hereford, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-roof service brief: deck sheathing thickness and skylight curb height were cross-checked for the Hereford intake packet.
+Roof restoration brief: deck sheathing thickness and skylight curb height were cross-checked for the Hereford shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 79045.
 

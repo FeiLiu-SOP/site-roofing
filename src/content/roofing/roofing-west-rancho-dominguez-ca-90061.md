@@ -11,15 +11,18 @@ lng: -118.2700
 zipSample: ["90220", "90248", "90059", "90061"]
 zipCodes: ["90061", "90220", "90059", "90248"]
 localPaths: ["Los Angeles County / coords 33.9100, -118.2700", "Los Angeles County / elevation 131 ft band", "Los Angeles County / ZIP 90248 sector", "Los Angeles County / ZIP 90059 sector", "Los Angeles County / ZIP 90061 sector"]
-zillowHomeValueUsd: 633091
 ---
 
-**Engineering Notice for West Rancho Dominguez:** Structural loading calculated based on 131 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for West Rancho Dominguez:** Shingle, flashing, and ventilation review recorded at 131 ft AMSL context (Los Angeles County).
 
+
+Certified roof service crews serving West Rancho Dominguez, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in West Rancho Dominguez, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: Tile underlayment age in West Rancho Dominguez, CA can fail independently of visible tile cracks.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -35,9 +38,7 @@ Tile and shingle mixes in West Rancho Dominguez, CA require different fastener p
 
 FAQ: When should permanent service start? In West Rancho Dominguez, CA, delayed dry-in can expand insulation and ceiling repairs.
 
-roof work brief: drip-edge metal profile and starter-strip setback were cross-checked for the West Rancho Dominguez intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 90059/90220/90061.
+Roof service brief: drip-edge metal profile and starter-strip setback were cross-checked for the West Rancho Dominguez shingle and leak scope.
 
 **Regional Infrastructure Brief:** Dispatch anchor set to Los Angeles County. Reference elevation: 131 ft. Primary coordinates: 33.9100, -118.2700. ZIP sample: 90059, 90061, 90248, 90220. Regional routing note: Los Angeles County traffic flow is balanced around ZIP 90061 service demand.
 

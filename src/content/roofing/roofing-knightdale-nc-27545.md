@@ -11,15 +11,18 @@ lng: -78.5000
 zipSample: ["27545"]
 zipCodes: ["27545"]
 localPaths: ["Wake County / elevation 253 ft band", "Wake County / coords 35.7900, -78.5000", "Wake County / primary ZIP 27545", "Wake County / ZIP 27545 sector"]
-zillowHomeValueUsd: 370632
 ---
 
-**Engineering Notice for Knightdale:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Wake County.
+**Engineering Notice for Knightdale:** Shingle, flashing, and ventilation review recorded at 253 ft AMSL context (Wake County).
 
+
+When wind or hail hits Knightdale, NC, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service restoration in Knightdale, NC, Wake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -31,7 +34,7 @@ Wood shake courses in Knightdale, NC require skip-spacing rules at valleys.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field routing: shingle exposure calibration paired with starter-strip setback near ZIP 27545.
+Local service note: shingle exposure calibration paired with starter-strip setback near ZIP 27545 for emergency roof work repairs.
 
 ZIP-corridor snapshot for Knightdale, NC: sampled sectors include 27545; county routing grid remains Wake County.
 

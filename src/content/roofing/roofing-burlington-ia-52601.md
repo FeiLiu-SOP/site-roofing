@@ -11,15 +11,18 @@ lng: -91.1200
 zipSample: ["52601"]
 zipCodes: ["52601"]
 localPaths: ["Des Moines County / ZIP 52601 sector", "Des Moines County / elevation 643 ft band", "Des Moines County / primary ZIP 52601", "Des Moines County / coords 40.8100, -91.1200"]
-zillowHomeValueUsd: 124220
 ---
 
-**Engineering Notice for Burlington:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Des Moines County.
+**Engineering Notice for Burlington:** Shingle, flashing, and ventilation review recorded at 643 ft AMSL context (Des Moines County).
 
+
+When wind or hail hits Burlington, IA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service remediation in Burlington, IA, Des Moines County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Burlington, IA can fail independently of visible tile cracks.
 
@@ -32,8 +35,6 @@ Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 52601.
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
 Granule embedment loss on Burlington, IA north slopes can precede mat exposure.
-
-Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Des Moines County county grid review.
 
 Coordinate-anchored dispatch note: center reference 40.8100, -91.1200 at elevation ~643 ft aligns with Des Moines County intake staging.
 

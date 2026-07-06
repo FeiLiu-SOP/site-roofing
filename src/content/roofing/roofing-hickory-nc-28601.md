@@ -11,17 +11,20 @@ lng: -81.3200
 zipSample: ["28601", "28603", "28602"]
 zipCodes: ["28603", "28601", "28602"]
 localPaths: ["Catawba County / ZIP 28601 sector", "Catawba County / coords 35.7400, -81.3200", "Catawba County / ZIP 28602 sector", "Catawba County / elevation 1171 ft band", "Catawba County / primary ZIP 28601"]
-zillowHomeValueUsd: 304581
 ---
 
-**Engineering Notice for Hickory:** Structural loading calculated based on 1171 ft terrain assessment. Regional dispatch grid: Catawba County.
+**Engineering Notice for Hickory:** Shingle, flashing, and ventilation review recorded at 1171 ft AMSL context (Catawba County).
 
+
+Emergency roof remediation in Hickory, NC often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Catawba County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof restoration crews serving Hickory, NC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wind-zone note: Hickory, NC exposure class can change starter-strip and cap nail schedules.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Freeze-thaw cycles around Hickory, NC stress nail pops along eaves and rake edges.
 
@@ -35,7 +38,7 @@ Risk flag: In Hickory, NC, interior stains may track from HVAC condensate rather
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-roofing service brief: drip-edge metal profile and attic baffle spacing were cross-checked for the Hickory intake packet.
+Roof service brief: drip-edge metal profile and attic baffle spacing were cross-checked for the Hickory shingle and leak scope.
 
 On-site sector marker: Catawba County / primary ZIP 28601 — logged for map parity and ZIP-corridor verification.
 

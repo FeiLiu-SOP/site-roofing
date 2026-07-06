@@ -11,17 +11,20 @@ lng: -106.6000
 zipSample: ["88063", "88008", "79922"]
 zipCodes: ["88063", "88008", "79922"]
 localPaths: ["Doña Ana County / ZIP 88063 sector", "Doña Ana County / primary ZIP 88063", "Doña Ana County / ZIP 79922 sector", "Doña Ana County / elevation 3720 ft band", "Doña Ana County / coords 31.8200, -106.6000"]
-zillowHomeValueUsd: 248254
 ---
 
-**Engineering Notice for Sunland Park:** Structural loading calculated based on 3720 ft terrain assessment. Regional dispatch grid: Doña Ana County.
+**Engineering Notice for Sunland Park:** Shingle, flashing, and ventilation review recorded at 3720 ft AMSL context (Doña Ana County).
 
+
+Storm damage roof work in Sunland Park, NM may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Doña Ana County clarifies whether restoration or replacement fits the damage pattern.
+
+Licensed roof service crews serving Sunland Park, NM review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -32,8 +35,6 @@ Code context: Ventilation ratios for Sunland Park, NM attics should be checked a
 Risk flag: Tile underlayment age in Sunland Park, NM can fail independently of visible tile cracks.
 
 Skylight curb flashing in Sunland Park, NM should be sequenced before ridge cap replacement.
-
-Field routing: shingle exposure calibration paired with skylight curb height near ZIP 88063.
 
 Regional mesh label Doña Ana County: moisture and logistics baselines are keyed to Sunland Park, NM before niche-specific work begins.
 

@@ -11,15 +11,18 @@ lng: -88.0700
 zipSample: ["60002"]
 zipCodes: ["60002"]
 localPaths: ["Lake County / elevation 787 ft band", "Lake County / primary ZIP 60002", "Lake County / ZIP 60002 sector", "Lake County / coords 42.4700, -88.0700"]
-zillowHomeValueUsd: 344738
 ---
 
-**Engineering Notice for Antioch:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Antioch:** Shingle, flashing, and ventilation review recorded at 787 ft AMSL context (Lake County).
 
+
+Roof service restoration in Antioch, IL, Lake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Antioch, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Lake County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Coastal humidity in Antioch, IL can slow shingle seal-down after shoulder-season storms.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: How long can shingles wait after storm damage? In Antioch, IL, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -33,7 +36,7 @@ Material note: In Antioch, IL, algae-resistant granules may be specified for nor
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Field routing: deck sheathing thickness paired with starter-strip setback near ZIP 60002.
+Local service note: deck sheathing thickness paired with starter-strip setback near ZIP 60002 for emergency roofing service repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 60002.
 

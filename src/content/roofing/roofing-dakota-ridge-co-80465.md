@@ -11,11 +11,14 @@ lng: -105.1300
 zipSample: ["80465", "80127", "80235"]
 zipCodes: ["80465", "80235", "80127"]
 localPaths: ["Jefferson County / elevation 5787 ft band", "Jefferson County / ZIP 80235 sector", "Jefferson County / ZIP 80465 sector", "Jefferson County / ZIP 80127 sector", "Jefferson County / coords 39.6200, -105.1300"]
-zillowHomeValueUsd: 723829
 ---
 
-**Engineering Notice for Dakota Ridge:** Structural loading calculated based on 5787 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Dakota Ridge:** Roof repair scope references 5787 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Jefferson County.
 
+
+When wind or hail hits Dakota Ridge, CO, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service restoration in Dakota Ridge, CO, Jefferson County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Tile underlayment age in Dakota Ridge, CO can fail independently of visible tile cracks.
 
@@ -29,9 +32,9 @@ Wind-zone note: Dakota Ridge, CO exposure class can change starter-strip and cap
 
 Low-slope sections in Dakota Ridge, CO need positive drainage before membrane repairs are scoped.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Scope trace: drip-edge metal profile plus ridge cap nail schedule referenced in Jefferson County county grid review.
+Scope trace: drip-edge metal profile plus ridge cap nail schedule referenced in Jefferson County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 80127/80235/80465.
 

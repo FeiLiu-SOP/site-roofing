@@ -11,11 +11,14 @@ lng: -117.2600
 zipSample: ["92595"]
 zipCodes: ["92595"]
 localPaths: ["Riverside County / elevation 1529 ft band", "Riverside County / coords 33.6200, -117.2600", "Riverside County / primary ZIP 92595", "Riverside County / ZIP 92595 sector"]
-zillowHomeValueUsd: 655702
 ---
 
-**Engineering Notice for Wildomar:** Structural loading calculated based on 1529 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Wildomar:** Roof repair scope references 1529 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Riverside County.
 
+
+Licensed roof restoration crews serving Wildomar, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work remediation in Wildomar, CA, Riverside County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Wind-zone note: Wildomar, CA exposure class can change starter-strip and cap nail schedules.
 
@@ -29,11 +32,9 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Risk flag: In Wildomar, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-roof work brief: drip-edge metal profile and valley metal gauge were cross-checked for the Wildomar intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 92595.
+Roof service brief: drip-edge metal profile and valley metal gauge were cross-checked for the Wildomar shingle and leak scope.
 
 On-site sector marker: Riverside County / elevation 1529 ft band — logged for map parity and ZIP-corridor verification.
 

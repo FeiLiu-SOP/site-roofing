@@ -11,13 +11,16 @@ lng: -85.1900
 zipSample: ["30162", "30164", "30165", "30161"]
 zipCodes: ["30162", "30164", "30165", "30161"]
 localPaths: ["Floyd County / primary ZIP 30161", "Floyd County / ZIP 30165 sector", "Floyd County / elevation 623 ft band", "Floyd County / coords 34.2700, -85.1900", "Floyd County / ZIP 30164 sector"]
-zillowHomeValueUsd: 217833
 ---
 
-**Engineering Notice for Rome:** Structural loading calculated based on 623 ft terrain assessment. Regional dispatch grid: Floyd County.
+**Engineering Notice for Rome:** Shingle, flashing, and ventilation review recorded at 623 ft AMSL context (Floyd County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Emergency roof remediation in Rome, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Floyd County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof service crews serving Rome, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -31,9 +34,7 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Step: log deck soundings near vents before tear-off is approved.
 
-roofing service brief: valley metal gauge and soffit intake free area were cross-checked for the Rome intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 30161/30165/30164.
+Roof remediation brief: valley metal gauge and soffit intake free area were cross-checked for the Rome shingle and leak scope.
 
 On-site sector marker: Floyd County / primary ZIP 30161 — logged for map parity and ZIP-corridor verification.
 

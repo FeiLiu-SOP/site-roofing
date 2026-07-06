@@ -11,11 +11,14 @@ lng: -97.7000
 zipSample: ["78550", "78551", "78552", "78553"]
 zipCodes: ["78553", "78552", "78551", "78550"]
 localPaths: ["Cameron County / primary ZIP 78550", "Cameron County / coords 26.1900, -97.7000", "Cameron County / ZIP 78552 sector", "Cameron County / ZIP 78551 sector", "Cameron County / ZIP 78550 sector"]
-zillowHomeValueUsd: 176103
 ---
 
-**Engineering Notice for Harlingen:** Structural loading calculated based on 56 ft terrain assessment. Regional dispatch grid: Cameron County.
+**Engineering Notice for Harlingen:** Shingle, flashing, and ventilation review recorded at 56 ft AMSL context (Cameron County).
 
+
+Roof work restoration in Harlingen, TX, Cameron County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Harlingen, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cameron County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: In Harlingen, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -32,8 +35,6 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
-
-roof work brief: pipe boot manufacturer match and valley metal gauge were cross-checked for the Harlingen intake packet.
 
 Primary postal anchor 78550 with multi-ZIP overlap in Harlingen; field packets tag Cameron County for county-grid reconciliation.
 

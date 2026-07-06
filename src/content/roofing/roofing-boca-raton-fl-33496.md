@@ -6,16 +6,19 @@ state: "FL"
 zipCode: "33496"
 county: "Palm Beach County"
 elevationFt: 20
-lat: 26.3800
+lat: 26.4100
 lng: -80.1100
 zipSample: ["33429", "33432", "33481", "33433", "33496"]
 zipCodes: ["33432", "33433", "33496", "33499", "33487", "33486", "33434", "33431", "33427", "33481", "33429"]
-localPaths: ["Palm Beach County / ZIP 33496 sector", "Palm Beach County / primary ZIP 33496", "Palm Beach County / ZIP 33481 sector", "Palm Beach County / elevation 20 ft band", "Palm Beach County / coords 26.3800, -80.1100"]
-zillowHomeValueUsd: 980342
+localPaths: ["Palm Beach County / ZIP 33496 sector", "Palm Beach County / primary ZIP 33496", "Palm Beach County / ZIP 33481 sector", "Palm Beach County / elevation 20 ft band", "Palm Beach County / coords 26.4100, -80.1100"]
 ---
 
-**Engineering Notice for Boca Raton:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Boca Raton:** Storm and emergency leak triage uses 20 ft elevation band with Palm Beach County service-area context for roofing repairs.
 
+
+Certified roof service crews serving Boca Raton, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Boca Raton, FL, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Can you tarp only part of the roof? In Boca Raton, FL, yes—if slope and anchor points support safe tie-offs.
 
@@ -23,7 +26,7 @@ Wind-zone note: Boca Raton, FL exposure class can change starter-strip and cap n
 
 Risk flag: In Boca Raton, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -35,9 +38,7 @@ Synthetic underlayment slip in Boca Raton, FL is often tied to deck moisture, no
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Scope trace: drip-edge metal profile plus attic baffle spacing referenced in Palm Beach County county grid review.
-
-**Regional Infrastructure Brief:** Grid anchor set to Palm Beach County. Reference elevation: 20 ft. Primary coordinates: 26.3800, -80.1100. ZIP sample: 33486, 33496, 33429, 33431, 33434. Regional routing note: Palm Beach County traffic flow is balanced around ZIP 33496 service demand.
+**Regional Infrastructure Brief:** Grid anchor set to Palm Beach County. Reference elevation: 20 ft. Primary coordinates: 26.4100, -80.1100. ZIP sample: 33486, 33496, 33429, 33431, 33434. Regional routing note: Palm Beach County traffic flow is balanced around ZIP 33496 service demand.
 
 On-site sector marker: Palm Beach County / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -116.3700
 zipSample: ["92211", "92260", "92255"]
 zipCodes: ["92211", "92260", "92255"]
 localPaths: ["Riverside County / ZIP 92260 sector", "Riverside County / elevation 154 ft band", "Riverside County / coords 33.7400, -116.3700", "Riverside County / ZIP 92255 sector", "Riverside County / ZIP 92211 sector"]
-zillowHomeValueUsd: 589962
 ---
 
-**Engineering Notice for Palm Desert:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Palm Desert:** Roof repair scope references 154 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Riverside County.
 
+
+Roofing service service in Palm Desert, CA, Riverside County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Palm Desert, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Riverside County clarifies whether remediation or replacement fits the damage pattern.
 
 Low-slope sections in Palm Desert, CA need positive drainage before membrane repairs are scoped.
 
@@ -31,11 +34,9 @@ Tip: Note recent wind events when filing insurance photos for Palm Desert, CA.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
-
-roofing service brief: soffit intake free area and ridge cap nail schedule were cross-checked for the Palm Desert intake packet.
 
 On-site sector marker: Riverside County / primary ZIP 92260 — logged for map parity and ZIP-corridor verification.
 

@@ -11,17 +11,20 @@ lng: -118.1800
 zipSample: ["90201"]
 zipCodes: ["90201"]
 localPaths: ["Los Angeles County / ZIP 90201 sector", "Los Angeles County / coords 33.9800, -118.1800", "Los Angeles County / primary ZIP 90201", "Los Angeles County / elevation 144 ft band"]
-zillowHomeValueUsd: 687018
 ---
 
-**Engineering Notice for Bell:** Structural loading calculated based on 144 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Bell:** Shingle, flashing, and ventilation review recorded at 144 ft AMSL context (Los Angeles County).
 
+
+Roof work remediation in Bell, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Bell, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
 Synthetic underlayment slip in Bell, CA is often tied to deck moisture, not wind alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -33,9 +36,7 @@ Code context: Ventilation ratios for Bell, CA attics should be checked against c
 
 Step: compare shingle manufacturer wind-zone ratings for Bell, CA exposure class.
 
-roof work brief: skylight curb height and pipe boot manufacturer match were cross-checked for the Bell intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 90201.
+Roof service brief: skylight curb height and pipe boot manufacturer match were cross-checked for the Bell shingle and leak scope.
 
 On-site sector marker: Los Angeles County / ZIP 90201 sector — logged for map parity and ZIP-corridor verification.
 

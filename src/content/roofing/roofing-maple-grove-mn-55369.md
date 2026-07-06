@@ -11,11 +11,14 @@ lng: -93.4600
 zipSample: ["55369", "55311"]
 zipCodes: ["55369", "55311"]
 localPaths: ["Hennepin County / ZIP 55311 sector", "Hennepin County / coords 45.1100, -93.4600", "Hennepin County / ZIP 55369 sector", "Hennepin County / elevation 873 ft band", "Hennepin County / primary ZIP 55369"]
-zillowHomeValueUsd: 393108
 ---
 
-**Engineering Notice for Maple Grove:** Structural loading calculated based on 873 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Maple Grove:** Roof repair scope references 873 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Hennepin County.
 
+
+Qualified roof service crews serving Maple Grove, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service remediation in Maple Grove, MN, Hennepin County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -29,11 +32,9 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 TPO seam welds in Maple Grove, MN commercial sections need probe tests after freeze events.
-
-Field routing: synthetic underlayment slip paired with starter-strip setback near ZIP 55369.
 
 Coordinate-anchored dispatch note: center reference 45.1100, -93.4600 at elevation ~873 ft aligns with Hennepin County intake staging.
 

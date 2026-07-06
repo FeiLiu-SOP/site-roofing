@@ -11,11 +11,14 @@ lng: -78.7800
 zipSample: ["27526"]
 zipCodes: ["27526"]
 localPaths: ["Wake County / coords 35.6000, -78.7800", "Wake County / elevation 400 ft band", "Wake County / ZIP 27526 sector", "Wake County / primary ZIP 27526"]
-zillowHomeValueUsd: 443018
 ---
 
-**Engineering Notice for Fuquay-Varina:** Structural loading calculated based on 400 ft terrain assessment. Regional dispatch grid: Wake County.
+**Engineering Notice for Fuquay-Varina:** Shingle, flashing, and ventilation review recorded at 400 ft AMSL context (Wake County).
 
+
+Roof work remediation in Fuquay-Varina, NC, Wake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Fuquay-Varina, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Wake County clarifies whether remediation or replacement fits the damage pattern.
 
 Tip: Note recent wind events when filing insurance photos for Fuquay-Varina, NC.
 
@@ -23,15 +26,13 @@ Step: map ventilation intake and exhaust pairs for Fuquay-Varina, NC attic runs.
 
 Risk flag: In Fuquay-Varina, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Is partial dry-in possible? In Fuquay-Varina, NC, yes—if slope and anchor points support safe tie-offs.
 
 Granule embedment loss on Fuquay-Varina, NC north slopes can precede mat exposure.
 
 Code context: Ventilation ratios for Fuquay-Varina, NC attics should be checked against current mechanical exhaust additions.
-
-Field routing: ice-barrier lap sequence paired with drip-edge metal profile near ZIP 27526.
 
 On-site sector marker: Wake County / ZIP 27526 sector — logged for map parity and ZIP-corridor verification.
 

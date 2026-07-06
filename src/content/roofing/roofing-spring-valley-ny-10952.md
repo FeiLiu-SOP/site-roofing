@@ -11,13 +11,16 @@ lng: -74.0500
 zipSample: ["10977", "10952"]
 zipCodes: ["10952", "10977"]
 localPaths: ["Rockland County / ZIP 10952 sector", "Rockland County / primary ZIP 10952", "Rockland County / coords 41.1200, -74.0500", "Rockland County / elevation 479 ft band", "Rockland County / ZIP 10977 sector"]
-zillowHomeValueUsd: 1129912
 ---
 
-**Engineering Notice for Spring Valley:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: Rockland County.
+**Engineering Notice for Spring Valley:** Shingle, flashing, and ventilation review recorded at 479 ft AMSL context (Rockland County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Storm damage roof service in Spring Valley, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Rockland County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof work remediation in Spring Valley, NY, Rockland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wind-zone note: Spring Valley, NY exposure class can change starter-strip and cap nail schedules.
 
@@ -35,7 +38,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Risk flag: Tile underlayment age in Spring Valley, NY can fail independently of visible tile cracks.
 
-Scope trace: skylight curb height plus drip-edge metal profile referenced in Rockland County county grid review.
+Scope trace: skylight curb height plus drip-edge metal profile referenced in Rockland County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 10952/10977.
 

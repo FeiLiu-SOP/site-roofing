@@ -11,11 +11,14 @@ lng: -102.3400
 zipSample: ["79763", "79768", "79761", "79762", "79765"]
 zipCodes: ["79763", "79768", "79765", "79761", "79762"]
 localPaths: ["Ector County / ZIP 79765 sector", "Ector County / ZIP 79761 sector", "Ector County / primary ZIP 79762", "Ector County / elevation 2946 ft band", "Ector County / ZIP 79763 sector"]
-zillowHomeValueUsd: 261321
 ---
 
-**Engineering Notice for Odessa:** Structural loading calculated based on 2946 ft terrain assessment. Regional dispatch grid: Ector County.
+**Engineering Notice for Odessa:** Roof repair scope references 2946 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Ector County.
 
+
+Roof service restoration in Odessa, TX, Ector County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Odessa, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Ector County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -33,7 +36,7 @@ We coordinate Odessa, TX roof reviews with photo logs, moisture notes, and reali
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-roof service brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Odessa intake packet.
+Roof remediation brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Odessa shingle and leak scope.
 
 On-site sector marker: Ector County / ZIP 79762 sector — logged for map parity and ZIP-corridor verification.
 

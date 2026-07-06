@@ -11,19 +11,22 @@ lng: -122.8700
 zipSample: ["97007", "97003", "97078"]
 zipCodes: ["97078", "97007", "97003"]
 localPaths: ["Washington County / coords 45.4900, -122.8700", "Washington County / primary ZIP 97078", "Washington County / elevation 200 ft band", "Washington County / ZIP 97007 sector", "Washington County / ZIP 97003 sector"]
-zillowHomeValueUsd: 496298
 ---
 
-**Engineering Notice for Aloha:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Aloha:** Roof repair scope references 200 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Washington County.
 
+
+Emergency roof restoration in Aloha, OR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Washington County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work service in Aloha, OR, Washington County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Wind-zone note: Aloha, OR exposure class can change starter-strip and cap nail schedules.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Metal panel oil-canning in Aloha, OR may signal clip spacing issues, not wind damage alone.
 
@@ -35,9 +38,7 @@ Step: map ventilation intake and exhaust pairs for Aloha, OR attic runs.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-Scope trace: pipe boot manufacturer match plus chimney cricket slope referenced in Washington County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 97003/97078/97007.
+Scope trace: pipe boot manufacturer match plus chimney cricket slope referenced in Washington County storm and leak review.
 
 On-site sector marker: Washington County / ZIP 97078 sector — logged for map parity and ZIP-corridor verification.
 

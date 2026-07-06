@@ -11,13 +11,16 @@ lng: -115.5300
 zipSample: ["92227"]
 zipCodes: ["92227"]
 localPaths: ["Imperial County / elevation -113 ft band", "Imperial County / ZIP 92227 sector", "Imperial County / primary ZIP 92227", "Imperial County / coords 32.9800, -115.5300"]
-zillowHomeValueUsd: 358619
 ---
 
-**Engineering Notice for Brawley:** Structural loading calculated based on -113 ft terrain assessment. Regional dispatch grid: Imperial County.
+**Engineering Notice for Brawley:** Shingle, flashing, and ventilation review recorded at -113 ft AMSL context (Imperial County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Storm damage roof service in Brawley, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Imperial County clarifies whether restoration or replacement fits the damage pattern.
+
+Roofing service service in Brawley, CA, Imperial County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Coastal humidity in Brawley, CA can slow shingle seal-down after shoulder-season storms.
 
@@ -34,8 +37,6 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 FAQ: When should permanent restoration start? In Brawley, CA, delayed dry-in can expand insulation and ceiling repairs.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
-
-Field routing: drip-edge metal profile paired with synthetic underlayment slip near ZIP 92227.
 
 Regional mesh label Imperial County: moisture and logistics baselines are keyed to Brawley, CA before niche-specific work begins.
 

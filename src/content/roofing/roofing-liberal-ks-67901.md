@@ -11,11 +11,14 @@ lng: -100.9300
 zipSample: ["67905", "67901"]
 zipCodes: ["67901", "67905"]
 localPaths: ["Seward County / elevation 2858 ft band", "Seward County / ZIP 67905 sector", "Seward County / coords 37.0500, -100.9300", "Seward County / ZIP 67901 sector", "Seward County / primary ZIP 67901"]
-zillowHomeValueUsd: 144584
 ---
 
-**Engineering Notice for Liberal:** Structural loading calculated based on 2858 ft terrain assessment. Regional dispatch grid: Seward County.
+**Engineering Notice for Liberal:** Shingle, flashing, and ventilation review recorded at 2858 ft AMSL context (Seward County).
 
+
+Qualified roof service crews serving Liberal, KS review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service remediation in Liberal, KS, Seward County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -29,13 +32,11 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 TPO seam welds in Liberal, KS commercial sections need probe tests after freeze events.
 
-Our Liberal, KS dispatch packets reference county grid Seward County and elevation band 2858 ft.
+Our Liberal, KS service packets reference Seward County and elevation band 2858 ft for shingle and leak scope.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-roof service brief: valley metal gauge and wind uplift clip spacing were cross-checked for the Liberal intake packet.
 
 Primary postal anchor 67901 with multi-ZIP overlap in Liberal; field packets tag Seward County for county-grid reconciliation.
 

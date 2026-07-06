@@ -11,13 +11,16 @@ lng: -96.9100
 zipSample: ["75138", "75116", "75137"]
 zipCodes: ["75138", "75116", "75137"]
 localPaths: ["Dallas County / ZIP 75137 sector", "Dallas County / ZIP 75116 sector", "Dallas County / ZIP 75138 sector", "Dallas County / primary ZIP 75116", "Dallas County / coords 32.6500, -96.9100"]
-zillowHomeValueUsd: 273633
 ---
 
-**Engineering Notice for Duncanville:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Duncanville:** Storm and emergency leak triage uses 728 ft elevation band with Dallas County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Certified roof remediation crews serving Duncanville, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Duncanville, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Dallas County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: In Duncanville, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -34,8 +37,6 @@ Step: map ventilation intake and exhaust pairs for Duncanville, TX attic runs.
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
 Tip: Note recent wind events when filing insurance photos for Duncanville, TX.
-
-Field routing: skylight curb height paired with chimney cricket slope near ZIP 75116.
 
 On-site sector marker: Dallas County / ZIP 75116 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,15 +11,18 @@ lng: -104.7700
 zipSample: ["80633", "80631", "80634", "80632", "80639"]
 zipCodes: ["80631", "80639", "80638", "80633", "80634", "80632"]
 localPaths: ["Weld County / coords 40.4200, -104.7700", "Weld County / elevation 4882 ft band", "Weld County / ZIP 80631 sector", "Weld County / ZIP 80633 sector", "Weld County / primary ZIP 80631"]
-zillowHomeValueUsd: 366498
 ---
 
-**Engineering Notice for Greeley:** Structural loading calculated based on 4882 ft terrain assessment. Regional dispatch grid: Weld County.
+**Engineering Notice for Greeley:** Shingle, flashing, and ventilation review recorded at 4882 ft AMSL context (Weld County).
 
+
+Roof work service in Greeley, CO, Weld County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Greeley, CO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Weld County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Coastal humidity in Greeley, CO can slow shingle seal-down after shoulder-season storms.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -29,13 +32,13 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Attic ventilation deficits in Greeley, CO can mimic roof leaks at ceiling penetrations.
 
-FAQ: When should permanent service start? In Greeley, CO, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In Greeley, CO, delayed dry-in can expand insulation and ceiling repairs.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Wind-zone note: Greeley, CO exposure class can change starter-strip and cap nail schedules.
 
-Scope trace: deck sheathing thickness plus attic baffle spacing referenced in Weld County county grid review.
+Scope trace: deck sheathing thickness plus attic baffle spacing referenced in Weld County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 80632/80633/80638.
 

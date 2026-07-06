@@ -11,11 +11,14 @@ lng: -86.7800
 zipSample: ["37201", "37224", "37229", "37250", "37209"]
 zipCodes: ["37243", "37208", "37228", "37242", "37214", "37220", "37224", "37202", "37244", "37232", "37250", "37221"]
 localPaths: ["Davidson County / coords 36.1700, -86.7800", "Davidson County / ZIP 37224 sector", "Davidson County / ZIP 37209 sector", "Davidson County / ZIP 37229 sector", "Davidson County / elevation 413 ft band"]
-zillowHomeValueUsd: 1222876
 ---
 
-**Engineering Notice for Nashville:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Davidson County.
+**Engineering Notice for Nashville:** Storm and emergency leak triage uses 413 ft elevation band with Davidson County service-area context for roofing repairs.
 
+
+Qualified roof service crews serving Nashville, TN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Nashville, TN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Davidson County clarifies whether restoration or replacement fits the damage pattern.
 
 Code context: Ventilation ratios for Nashville, TN attics should be checked against current mechanical exhaust additions.
 
@@ -32,8 +35,6 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 FAQ: Can you tarp only part of the roof? In Nashville, TN, yes—if slope and anchor points support safe tie-offs.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Field routing: attic baffle spacing paired with valley metal gauge near ZIP 37027.
 
 Primary postal anchor 37027 with multi-ZIP overlap in Nashville; field packets tag Davidson County for county-grid reconciliation.
 

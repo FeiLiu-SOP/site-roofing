@@ -11,11 +11,14 @@ lng: -102.1100
 zipSample: ["79705", "79706", "79707", "79701", "79703"]
 zipCodes: ["79703", "79708", "79701", "79705", "79706", "79711", "79702", "79707"]
 localPaths: ["Midland County / primary ZIP 79701", "Midland County / ZIP 79706 sector", "Midland County / ZIP 79705 sector", "Midland County / ZIP 79701 sector", "Midland County / ZIP 79703 sector"]
-zillowHomeValueUsd: 217385
 ---
 
-**Engineering Notice for Midland:** Structural loading calculated based on 2815 ft terrain assessment. Regional dispatch grid: Midland County.
+**Engineering Notice for Midland:** Roof repair scope references 2815 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Midland County.
 
+
+Certified roof service crews serving Midland, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Midland, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Midland County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Low-slope sections in Midland, TX need positive drainage before membrane repairs are scoped.
 
@@ -35,9 +38,7 @@ Code context: Ventilation ratios for Midland, TX attics should be checked agains
 
 We coordinate Midland, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-roof work brief: wind uplift clip spacing and deck sheathing thickness were cross-checked for the Midland intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 79701/79705/79711.
+Roof remediation brief: wind uplift clip spacing and deck sheathing thickness were cross-checked for the Midland shingle and leak scope.
 
 Primary postal anchor 79701 with multi-ZIP overlap in Midland; field packets tag Midland County for county-grid reconciliation.
 

@@ -11,15 +11,18 @@ lng: -76.3100
 zipSample: ["21014", "21015", "21009"]
 zipCodes: ["21009", "21014", "21015"]
 localPaths: ["Harford County / coords 39.5000, -76.3100", "Harford County / ZIP 21015 sector", "Harford County / elevation 213 ft band", "Harford County / ZIP 21014 sector", "Harford County / ZIP 21009 sector"]
-zillowHomeValueUsd: 374722
 ---
 
-**Engineering Notice for Bel Air South:** Structural loading calculated based on 213 ft terrain assessment. Regional dispatch grid: Harford County.
+**Engineering Notice for Bel Air South:** Shingle, flashing, and ventilation review recorded at 213 ft AMSL context (Harford County).
 
+
+Certified roof restoration crews serving Bel Air South, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Bel Air South, MD, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Tile underlayment age in Bel Air South, MD can fail independently of visible tile cracks.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -31,9 +34,7 @@ Attic ventilation deficits in Bel Air South, MD can mimic roof leaks at ceiling 
 
 Step: log deck soundings near vents before tear-off is approved.
 
-roof work brief: chimney cricket slope and counter-flashing reglet depth were cross-checked for the Bel Air South intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 21015/21009/21014.
+Roof restoration brief: chimney cricket slope and counter-flashing reglet depth were cross-checked for the Bel Air South shingle and leak scope.
 
 On-site sector marker: Harford County / coords 39.5000, -76.3100 — logged for map parity and ZIP-corridor verification.
 

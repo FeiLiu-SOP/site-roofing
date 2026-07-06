@@ -7,15 +7,18 @@ zipCode: "49301"
 county: "Kent County"
 elevationFt: 646
 lat: 42.9600
-lng: -85.4900
+lng: -85.4600
 zipSample: ["49356", "49357", "49301", "49546", "49516"]
 zipCodes: ["49546", "49355", "49301", "49516", "49356", "49357"]
 localPaths: ["Kent County / ZIP 49546 sector", "Kent County / ZIP 49356 sector", "Kent County / ZIP 49516 sector", "Kent County / primary ZIP 49301", "Kent County / ZIP 49301 sector"]
-zillowHomeValueUsd: 648974
 ---
 
-**Engineering Notice for Forest Hills:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Kent County.
+**Engineering Notice for Forest Hills:** Storm and emergency leak triage uses 646 ft elevation band with Kent County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving Forest Hills, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Forest Hills, MI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -27,18 +30,18 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Step: log deck soundings near vents before tear-off is approved.
 
-Our Forest Hills, MI dispatch packets reference county grid Kent County and elevation band 646 ft.
+Our Forest Hills, MI remediation packets reference Kent County and elevation band 646 ft for shingle and leak scope.
 
 TPO seam welds in Forest Hills, MI commercial sections need probe tests after freeze events.
 
-FAQ: When should permanent service start? In Forest Hills, MI, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In Forest Hills, MI, delayed dry-in can expand insulation and ceiling repairs.
 
-Field routing: deck sheathing thickness paired with starter-strip setback near ZIP 49301.
+Local service note: deck sheathing thickness paired with starter-strip setback near ZIP 49301 for emergency roofing service repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 49546/49301/49355.
 
 Regional mesh label Kent County: moisture and logistics baselines are keyed to Forest Hills, MI before niche-specific work begins.
 
-**Regional Infrastructure Brief:** Logistics coverage aligns with Kent County and primary ZIP 49301. Terrain reference: 646 ft. Center point: 42.9600, -85.4900. ZIP sample: 49355, 49516, 49357, 49356, 49546. Regional routing note: Kent County traffic flow is balanced around ZIP 49301 service demand.
+**Regional Infrastructure Brief:** Logistics coverage aligns with Kent County and primary ZIP 49301. Terrain reference: 646 ft. Center point: 42.9600, -85.4600. ZIP sample: 49355, 49516, 49357, 49356, 49546. Regional routing note: Kent County traffic flow is balanced around ZIP 49301 service demand.
 
 Service reference: MI-49301-2482b987

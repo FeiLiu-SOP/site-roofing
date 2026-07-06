@@ -11,11 +11,14 @@ lng: -81.8500
 zipSample: ["33918", "33917", "33903"]
 zipCodes: ["33917", "33918", "33903"]
 localPaths: ["Lee County / ZIP 33918 sector", "Lee County / coords 26.7200, -81.8500", "Lee County / elevation 39 ft band", "Lee County / ZIP 33917 sector", "Lee County / ZIP 33903 sector"]
-zillowHomeValueUsd: 291548
 ---
 
-**Engineering Notice for North Fort Myers:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for North Fort Myers:** Shingle, flashing, and ventilation review recorded at 39 ft AMSL context (Lee County).
 
+
+Storm damage roof service in North Fort Myers, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lee County clarifies whether remediation or replacement fits the damage pattern.
+
+Roofing service remediation in North Fort Myers, FL, Lee County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: How long can shingles wait after storm damage? In North Fort Myers, FL, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -27,13 +30,11 @@ Step: note chimney cricket geometry before counter-flashing removal.
 
 Risk flag: In North Fort Myers, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Attic ventilation deficits in North Fort Myers, FL can mimic roof leaks at ceiling penetrations.
 
 Regulatory note: North Fort Myers, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
-
-Field routing: wind uplift clip spacing paired with soffit intake free area near ZIP 33917.
 
 On-site sector marker: Lee County / elevation 39 ft band — logged for map parity and ZIP-corridor verification.
 

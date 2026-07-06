@@ -11,11 +11,14 @@ lng: -80.7700
 zipSample: ["32926", "32922"]
 zipCodes: ["32926", "32922"]
 localPaths: ["Brevard County / coords 28.3800, -80.7700", "Brevard County / elevation 39 ft band", "Brevard County / primary ZIP 32922", "Brevard County / ZIP 32926 sector", "Brevard County / ZIP 32922 sector"]
-zillowHomeValueUsd: 199953
 ---
 
-**Engineering Notice for Cocoa:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Brevard County.
+**Engineering Notice for Cocoa:** Storm and emergency leak triage uses 39 ft elevation band with Brevard County service-area context for roofing repairs.
 
+
+Roofing service restoration in Cocoa, FL, Brevard County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof service crews serving Cocoa, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: separate emergency tarp scope from permanent restoration line items.
 
@@ -30,8 +33,6 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 32922.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-roofing service brief: chimney cricket slope and ridge cap nail schedule were cross-checked for the Cocoa intake packet.
 
 On-site sector marker: Brevard County / coords 28.3800, -80.7700 — logged for map parity and ZIP-corridor verification.
 

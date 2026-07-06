@@ -11,11 +11,14 @@ lng: -76.5000
 zipSample: ["21012"]
 zipCodes: ["21012"]
 localPaths: ["Anne Arundel County / ZIP 21012 sector", "Anne Arundel County / coords 39.0400, -76.5000", "Anne Arundel County / primary ZIP 21012", "Anne Arundel County / elevation 138 ft band"]
-zillowHomeValueUsd: 597107
 ---
 
-**Engineering Notice for Arnold:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Anne Arundel County.
+**Engineering Notice for Arnold:** Storm and emergency leak triage uses 138 ft elevation band with Anne Arundel County service-area context for roofing repairs.
 
+
+Emergency roof service in Arnold, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Anne Arundel County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work remediation in Arnold, MD, Anne Arundel County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -29,13 +32,11 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
-
-Field routing: chimney cricket slope paired with valley metal gauge near ZIP 21012.
 
 On-site sector marker: Anne Arundel County / elevation 138 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -11,15 +11,18 @@ lng: -83.1600
 zipSample: ["48309", "48306", "48307"]
 zipCodes: ["48306", "48307", "48309"]
 localPaths: ["Oakland County / ZIP 48306 sector", "Oakland County / elevation 784 ft band", "Oakland County / ZIP 48307 sector", "Oakland County / coords 42.6600, -83.1600", "Oakland County / primary ZIP 48306"]
-zillowHomeValueUsd: 589508
 ---
 
-**Engineering Notice for Rochester Hills:** Structural loading calculated based on 784 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Rochester Hills:** Roof repair scope references 784 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Oakland County.
 
+
+Emergency roof remediation in Rochester Hills, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Oakland County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service restoration in Rochester Hills, MI, Oakland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Regulatory note: Rochester Hills, MI projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -32,8 +35,6 @@ Risk flag: In Rochester Hills, MI, interior stains may track from HVAC condensat
 Step: stage tear-off debris paths away from landscape drains.
 
 Tile and shingle mixes in Rochester Hills, MI require different fastener patterns at transitions.
-
-Field routing: drip-edge metal profile paired with counter-flashing reglet depth near ZIP 48306.
 
 ZIP-corridor snapshot for Rochester Hills, MI: sampled sectors include 48306, 48309, 48307; county routing grid remains Oakland County.
 

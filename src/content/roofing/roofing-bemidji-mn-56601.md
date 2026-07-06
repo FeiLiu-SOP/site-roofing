@@ -11,13 +11,16 @@ lng: -94.8800
 zipSample: ["56601", "56619"]
 zipCodes: ["56601", "56619"]
 localPaths: ["Beltrami County / ZIP 56601 sector", "Beltrami County / elevation 1378 ft band", "Beltrami County / primary ZIP 56601", "Beltrami County / ZIP 56619 sector", "Beltrami County / coords 47.4800, -94.8800"]
-zillowHomeValueUsd: 279426
 ---
 
-**Engineering Notice for Bemidji:** Structural loading calculated based on 1378 ft terrain assessment. Regional dispatch grid: Beltrami County.
+**Engineering Notice for Bemidji:** Roof repair scope references 1378 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Beltrami County.
 
 
-FAQ: When should permanent restoration start? In Bemidji, MN, delayed dry-in can expand insulation and ceiling repairs.
+Roof service service in Bemidji, MN, Beltrami County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof service crews serving Bemidji, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+FAQ: When should permanent service start? In Bemidji, MN, delayed dry-in can expand insulation and ceiling repairs.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -33,9 +36,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
-
-Field routing: ice-barrier lap sequence paired with skylight curb height near ZIP 56601.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 On-site sector marker: Beltrami County / ZIP 56601 sector — logged for map parity and ZIP-corridor verification.
 

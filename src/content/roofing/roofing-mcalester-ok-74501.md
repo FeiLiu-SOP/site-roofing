@@ -11,15 +11,18 @@ lng: -95.7700
 zipSample: ["74501", "74502"]
 zipCodes: ["74501", "74502"]
 localPaths: ["Pittsburg County / ZIP 74501 sector", "Pittsburg County / ZIP 74502 sector", "Pittsburg County / elevation 758 ft band", "Pittsburg County / coords 34.9300, -95.7700", "Pittsburg County / primary ZIP 74501"]
-zillowHomeValueUsd: 152300
 ---
 
-**Engineering Notice for McAlester:** Structural loading calculated based on 758 ft terrain assessment. Regional dispatch grid: Pittsburg County.
+**Engineering Notice for McAlester:** Shingle, flashing, and ventilation review recorded at 758 ft AMSL context (Pittsburg County).
 
 
-FAQ: When should permanent remediation start? In McAlester, OK, delayed dry-in can expand insulation and ceiling repairs.
+Roofing service restoration in McAlester, OK, Pittsburg County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Emergency roof service in McAlester, OK often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pittsburg County should photograph ceiling stains and attic wet spots before crews arrive.
+
+FAQ: When should permanent service start? In McAlester, OK, delayed dry-in can expand insulation and ceiling repairs.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -31,7 +34,7 @@ Code context: Ventilation ratios for McAlester, OK attics should be checked agai
 
 Skylight curb flashing in McAlester, OK should be sequenced before ridge cap replacement.
 
-Field routing: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 74501.
+Local service note: ridge cap nail schedule paired with wind uplift clip spacing near ZIP 74501 for emergency roofing service repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 74501/74502.
 

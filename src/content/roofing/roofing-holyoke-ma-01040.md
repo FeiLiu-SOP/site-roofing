@@ -11,11 +11,14 @@ lng: -72.6400
 zipSample: ["01041", "01040"]
 zipCodes: ["01041", "01040"]
 localPaths: ["Hampden County / ZIP 01040 sector", "Hampden County / coords 42.2100, -72.6400", "Hampden County / primary ZIP 01040", "Hampden County / elevation 509 ft band", "Hampden County / ZIP 01041 sector"]
-zillowHomeValueUsd: 323028
 ---
 
-**Engineering Notice for Holyoke:** Structural loading calculated based on 509 ft terrain assessment. Regional dispatch grid: Hampden County.
+**Engineering Notice for Holyoke:** Shingle, flashing, and ventilation review recorded at 509 ft AMSL context (Hampden County).
 
+
+Roof service service in Holyoke, MA, Hampden County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Holyoke, MA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hampden County clarifies whether remediation or replacement fits the damage pattern.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -27,15 +30,13 @@ Code context: Ventilation ratios for Holyoke, MA attics should be checked agains
 
 Material note: In Holyoke, MA, algae-resistant granules may be specified for north-facing slopes.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Field routing: ice-barrier lap sequence paired with deck sheathing thickness near ZIP 01040.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 01041/01040.
+Local service note: ice-barrier lap sequence paired with deck sheathing thickness near ZIP 01040 for emergency roof work repairs.
 
 Coordinate-anchored dispatch note: center reference 42.2100, -72.6400 at elevation ~509 ft aligns with Hampden County intake staging.
 

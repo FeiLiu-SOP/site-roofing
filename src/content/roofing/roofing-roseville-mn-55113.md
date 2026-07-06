@@ -11,11 +11,14 @@ lng: -93.1500
 zipSample: ["55113"]
 zipCodes: ["55113"]
 localPaths: ["Ramsey County / ZIP 55113 sector", "Ramsey County / primary ZIP 55113", "Ramsey County / coords 45.0200, -93.1500", "Ramsey County / elevation 912 ft band"]
-zillowHomeValueUsd: 375051
 ---
 
-**Engineering Notice for Roseville:** Structural loading calculated based on 912 ft terrain assessment. Regional dispatch grid: Ramsey County.
+**Engineering Notice for Roseville:** Storm and emergency leak triage uses 912 ft elevation band with Ramsey County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Roseville, MN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Ramsey County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service service in Roseville, MN, Ramsey County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Tile underlayment age in Roseville, MN can fail independently of visible tile cracks.
 
@@ -27,11 +30,9 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Coastal humidity in Roseville, MN can slow shingle seal-down after shoulder-season storms.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: confirm drip-edge continuity before shingle courses restart.
-
-roof service brief: ice-barrier lap sequence and counter-flashing reglet depth were cross-checked for the Roseville intake packet.
 
 Coordinate-anchored dispatch note: center reference 45.0200, -93.1500 at elevation ~912 ft aligns with Ramsey County intake staging.
 

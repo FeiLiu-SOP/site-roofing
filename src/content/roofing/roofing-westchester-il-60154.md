@@ -11,13 +11,16 @@ lng: -87.8900
 zipSample: ["60154"]
 zipCodes: ["60154"]
 localPaths: ["Cook County / elevation 656 ft band", "Cook County / coords 41.8500, -87.8900", "Cook County / primary ZIP 60154", "Cook County / ZIP 60154 sector"]
-zillowHomeValueUsd: 357123
 ---
 
-**Engineering Notice for Westchester:** Structural loading calculated based on 656 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Westchester:** Shingle, flashing, and ventilation review recorded at 656 ft AMSL context (Cook County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Roof work remediation in Westchester, IL, Cook County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Westchester, IL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: map ventilation intake and exhaust pairs for Westchester, IL attic runs.
 
@@ -33,9 +36,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 FAQ: How long can shingles wait after storm damage? In Westchester, IL, delayed dry-in can expand insulation and ceiling repairs.
 
-roof work brief: drip-edge metal profile and chimney cricket slope were cross-checked for the Westchester intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 60154.
+Roof service brief: drip-edge metal profile and chimney cricket slope were cross-checked for the Westchester shingle and leak scope.
 
 ZIP-corridor snapshot for Westchester, IL: sampled sectors include 60154; county routing grid remains Cook County.
 

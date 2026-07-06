@@ -11,11 +11,14 @@ lng: -112.0500
 zipSample: ["84402", "84401"]
 zipCodes: ["84402", "84401"]
 localPaths: ["Weber County / elevation 4265 ft band", "Weber County / coords 41.2100, -112.0500", "Weber County / ZIP 84401 sector", "Weber County / primary ZIP 84401", "Weber County / ZIP 84402 sector"]
-zillowHomeValueUsd: 440251
 ---
 
-**Engineering Notice for West Haven:** Structural loading calculated based on 4265 ft terrain assessment. Regional dispatch grid: Weber County.
+**Engineering Notice for West Haven:** Roof repair scope references 4265 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Weber County.
 
+
+When wind or hail hits West Haven, UT, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof work in West Haven, UT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Weber County clarifies whether restoration or replacement fits the damage pattern.
 
 Step: compare shingle manufacturer wind-zone ratings for West Haven, UT exposure class.
 
@@ -31,9 +34,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Hail bruising on West Haven, UT ridges may not breach felt until the next wind event.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-Scope trace: counter-flashing reglet depth plus attic baffle spacing referenced in Weber County county grid review.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Regional mesh label Weber County: moisture and logistics baselines are keyed to West Haven, UT before niche-specific work begins.
 

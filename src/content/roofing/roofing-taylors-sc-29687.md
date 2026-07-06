@@ -11,15 +11,18 @@ lng: -82.3100
 zipSample: ["29687"]
 zipCodes: ["29687"]
 localPaths: ["Greenville County / primary ZIP 29687", "Greenville County / coords 34.9200, -82.3100", "Greenville County / elevation 925 ft band", "Greenville County / ZIP 29687 sector"]
-zillowHomeValueUsd: 311920
 ---
 
-**Engineering Notice for Taylors:** Structural loading calculated based on 925 ft terrain assessment. Regional dispatch grid: Greenville County.
+**Engineering Notice for Taylors:** Roof repair scope references 925 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Greenville County.
 
+
+Storm damage roof work in Taylors, SC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Greenville County clarifies whether restoration or replacement fits the damage pattern.
+
+Licensed roof remediation crews serving Taylors, SC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -33,7 +36,7 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-roof work brief: chimney cricket slope and valley metal gauge were cross-checked for the Taylors intake packet.
+Roof service brief: chimney cricket slope and valley metal gauge were cross-checked for the Taylors shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 29687.
 

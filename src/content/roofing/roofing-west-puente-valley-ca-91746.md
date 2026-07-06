@@ -11,11 +11,14 @@ lng: -117.9700
 zipSample: ["91744", "91746"]
 zipCodes: ["91744", "91746"]
 localPaths: ["Los Angeles County / coords 34.0500, -117.9700", "Los Angeles County / ZIP 91746 sector", "Los Angeles County / ZIP 91744 sector", "Los Angeles County / elevation 328 ft band", "Los Angeles County / primary ZIP 91746"]
-zillowHomeValueUsd: 764002
 ---
 
-**Engineering Notice for West Puente Valley:** Structural loading calculated based on 328 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for West Puente Valley:** Roof repair scope references 328 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
+
+When wind or hail hits West Puente Valley, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in West Puente Valley, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -27,13 +30,11 @@ Wind-zone note: West Puente Valley, CA exposure class can change starter-strip a
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 91746.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Valley metal in West Puente Valley, CA should be reviewed whenever granule loss tracks the water line.
 
-roofing service brief: soffit intake free area and chimney cricket slope were cross-checked for the West Puente Valley intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 91746/91744.
+Roof service brief: soffit intake free area and chimney cricket slope were cross-checked for the West Puente Valley shingle and leak scope.
 
 On-site sector marker: Los Angeles County / primary ZIP 91746 — logged for map parity and ZIP-corridor verification.
 

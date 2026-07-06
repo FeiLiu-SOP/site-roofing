@@ -11,17 +11,20 @@ lng: -96.8300
 zipSample: ["58107", "58108", "58126", "58109", "58104"]
 zipCodes: ["58102", "58106", "58103", "58122", "58121", "58126", "58108", "58105", "58104", "58125", "58124", "58107"]
 localPaths: ["Cass County / ZIP 58109 sector", "Cass County / ZIP 58104 sector", "Cass County / elevation 902 ft band", "Cass County / coords 46.8700, -96.8300", "Cass County / primary ZIP 58102"]
-zillowHomeValueUsd: 267534
 ---
 
-**Engineering Notice for Fargo:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Cass County.
+**Engineering Notice for Fargo:** Shingle, flashing, and ventilation review recorded at 902 ft AMSL context (Cass County).
 
+
+Roof work remediation in Fargo, ND, Cass County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Fargo, ND often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cass County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Wind-zone note: Fargo, ND exposure class can change starter-strip and cap nail schedules.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 TPO seam welds in Fargo, ND commercial sections need probe tests after freeze events.
 
@@ -35,9 +38,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-roof work brief: valley metal gauge and drip-edge metal profile were cross-checked for the Fargo intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 58125/58107/58124.
+Roof restoration brief: valley metal gauge and drip-edge metal profile were cross-checked for the Fargo shingle and leak scope.
 
 ZIP-corridor snapshot for Fargo, ND: sampled sectors include 58121, 58124, 58106, 58102, 58126, 58109, 58103, 58122; county routing grid remains Cass County.
 

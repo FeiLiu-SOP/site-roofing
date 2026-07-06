@@ -11,19 +11,22 @@ lng: -121.2900
 zipSample: ["95611", "95621", "95610"]
 zipCodes: ["95621", "95610", "95611"]
 localPaths: ["Sacramento County / ZIP 95611 sector", "Sacramento County / elevation 157 ft band", "Sacramento County / primary ZIP 95621", "Sacramento County / ZIP 95610 sector", "Sacramento County / ZIP 95621 sector"]
-zillowHomeValueUsd: 454268
 ---
 
-**Engineering Notice for Citrus Heights:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Citrus Heights:** Roof repair scope references 157 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Sacramento County.
 
 
-Step: separate emergency tarp scope from permanent remediation line items.
+Qualified roof remediation crews serving Citrus Heights, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Citrus Heights, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Sacramento County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Step: separate emergency tarp scope from permanent restoration line items.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Material note: In Citrus Heights, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Our Citrus Heights, CA dispatch packets reference county grid Sacramento County and elevation band 157 ft.
+Our Citrus Heights, CA service packets reference Sacramento County and elevation band 157 ft for shingle and leak scope.
 
 FAQ: Can you tarp only part of the roof? In Citrus Heights, CA, yes—if slope and anchor points support safe tie-offs.
 
@@ -35,9 +38,7 @@ Code context: Ventilation ratios for Citrus Heights, CA attics should be checked
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roofing service brief: ridge cap nail schedule and skylight curb height were cross-checked for the Citrus Heights intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 95621/95611/95610.
+Roof remediation brief: ridge cap nail schedule and skylight curb height were cross-checked for the Citrus Heights shingle and leak scope.
 
 On-site sector marker: Sacramento County / coords 38.6900, -121.2900 — logged for map parity and ZIP-corridor verification.
 

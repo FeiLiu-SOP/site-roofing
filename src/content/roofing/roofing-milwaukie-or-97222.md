@@ -11,15 +11,18 @@ lng: -122.6200
 zipSample: ["97269", "97222"]
 zipCodes: ["97269", "97222"]
 localPaths: ["Clackamas County / ZIP 97269 sector", "Clackamas County / ZIP 97222 sector", "Clackamas County / coords 45.4400, -122.6200", "Clackamas County / primary ZIP 97222", "Clackamas County / elevation 154 ft band"]
-zillowHomeValueUsd: 495472
 ---
 
-**Engineering Notice for Milwaukie:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Clackamas County.
+**Engineering Notice for Milwaukie:** Shingle, flashing, and ventilation review recorded at 154 ft AMSL context (Clackamas County).
 
+
+Storm damage roof service in Milwaukie, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Clackamas County clarifies whether service or replacement fits the damage pattern.
+
+Licensed roof restoration crews serving Milwaukie, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Regulatory note: Milwaukie, OR projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -32,8 +35,6 @@ Step: log deck soundings near vents before tear-off is approved.
 FAQ: How long can shingles wait after storm damage? In Milwaukie, OR, delayed dry-in can expand insulation and ceiling repairs.
 
 Wood shake courses in Milwaukie, OR require skip-spacing rules at valleys.
-
-Field routing: pipe boot manufacturer match paired with counter-flashing reglet depth near ZIP 97222.
 
 On-site sector marker: Clackamas County / elevation 154 ft band — logged for map parity and ZIP-corridor verification.
 

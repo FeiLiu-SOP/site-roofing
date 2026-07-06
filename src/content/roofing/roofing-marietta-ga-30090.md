@@ -11,11 +11,14 @@ lng: -84.5400
 zipSample: ["30008", "30062", "30064", "30060", "30067"]
 zipCodes: ["30008", "30090", "30006", "30060", "30064", "30067", "30062", "30007"]
 localPaths: ["Cobb County / ZIP 30064 sector", "Cobb County / ZIP 30008 sector", "Cobb County / ZIP 30062 sector", "Cobb County / primary ZIP 30090", "Cobb County / coords 33.9500, -84.5400"]
-zillowHomeValueUsd: 551678
 ---
 
-**Engineering Notice for Marietta:** Structural loading calculated based on 1119 ft terrain assessment. Regional dispatch grid: Cobb County.
+**Engineering Notice for Marietta:** Shingle, flashing, and ventilation review recorded at 1119 ft AMSL context (Cobb County).
 
+
+When wind or hail hits Marietta, GA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Licensed roof service crews serving Marietta, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -23,7 +26,7 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Coastal humidity in Marietta, GA can slow shingle seal-down after shoulder-season storms.
 
@@ -35,9 +38,7 @@ Regulatory note: Marietta, GA projects may trigger ice-barrier upgrades when tea
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-roofing service brief: synthetic underlayment slip and attic baffle spacing were cross-checked for the Marietta intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 30062/30064/30067.
+Roof restoration brief: synthetic underlayment slip and attic baffle spacing were cross-checked for the Marietta shingle and leak scope.
 
 On-site sector marker: Cobb County / coords 33.9500, -84.5400 — logged for map parity and ZIP-corridor verification.
 

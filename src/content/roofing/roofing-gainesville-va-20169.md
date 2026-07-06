@@ -11,11 +11,14 @@ lng: -77.6300
 zipSample: ["20155", "20156", "20169"]
 zipCodes: ["20169", "20156", "20155"]
 localPaths: ["Prince William County / ZIP 20155 sector", "Prince William County / ZIP 20169 sector", "Prince William County / primary ZIP 20169", "Prince William County / elevation 387 ft band", "Prince William County / coords 38.7900, -77.6300"]
-zillowHomeValueUsd: 832966
 ---
 
-**Engineering Notice for Gainesville:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Prince William County.
+**Engineering Notice for Gainesville:** Shingle, flashing, and ventilation review recorded at 387 ft AMSL context (Prince William County).
 
+
+Qualified roof service crews serving Gainesville, VA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Gainesville, VA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Prince William County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: In Gainesville, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,11 +34,9 @@ Step: log deck soundings near vents before tear-off is approved.
 
 FAQ: When should permanent service start? In Gainesville, VA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
-
-roof work brief: deck sheathing thickness and valley metal gauge were cross-checked for the Gainesville intake packet.
 
 ZIP-corridor snapshot for Gainesville, VA: sampled sectors include 20156, 20155, 20169; county routing grid remains Prince William County.
 

@@ -11,17 +11,20 @@ lng: -115.1400
 zipSample: ["89121", "89109", "89169", "89199"]
 zipCodes: ["89121", "89109", "89199", "89169"]
 localPaths: ["Clark County / ZIP 89199 sector", "Clark County / primary ZIP 89109", "Clark County / elevation 2014 ft band", "Clark County / ZIP 89121 sector", "Clark County / coords 36.1400, -115.1400"]
-zillowHomeValueUsd: 377744
 ---
 
-**Engineering Notice for Winchester:** Structural loading calculated based on 2014 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Winchester:** Storm and emergency leak triage uses 2014 ft elevation band with Clark County service-area context for roofing repairs.
 
+
+When wind or hail hits Winchester, NV, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof service in Winchester, NV may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Clark County clarifies whether service or replacement fits the damage pattern.
 
 Code context: Ventilation ratios for Winchester, NV attics should be checked against current mechanical exhaust additions.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -35,7 +38,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Scope trace: counter-flashing reglet depth plus soffit intake free area referenced in Clark County county grid review.
+Scope trace: counter-flashing reglet depth plus soffit intake free area referenced in Clark County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 89121/89199/89169.
 

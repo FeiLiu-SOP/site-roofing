@@ -7,19 +7,22 @@ zipCode: "94015"
 county: "San Mateo County"
 elevationFt: 157
 lat: 37.6900
-lng: -122.4700
+lng: -122.4400
 zipSample: ["94016", "94014", "94017", "94015"]
 zipCodes: ["94015", "94014", "94017", "94016"]
-localPaths: ["San Mateo County / ZIP 94014 sector", "San Mateo County / coords 37.6900, -122.4700", "San Mateo County / elevation 157 ft band", "San Mateo County / ZIP 94017 sector", "San Mateo County / ZIP 94015 sector"]
-zillowHomeValueUsd: 1197141
+localPaths: ["San Mateo County / ZIP 94014 sector", "San Mateo County / coords 37.6900, -122.4400", "San Mateo County / elevation 157 ft band", "San Mateo County / ZIP 94017 sector", "San Mateo County / ZIP 94015 sector"]
 ---
 
-**Engineering Notice for Daly City:** Structural loading calculated based on 157 ft terrain assessment. Regional dispatch grid: San Mateo County.
+**Engineering Notice for Daly City:** Shingle, flashing, and ventilation review recorded at 157 ft AMSL context (San Mateo County).
 
+
+When wind or hail hits Daly City, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Daly City, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in San Mateo County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Code context: Ventilation ratios for Daly City, CA attics should be checked against current mechanical exhaust additions.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Risk flag: In Daly City, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -27,11 +30,9 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Synthetic underlayment slip in Daly City, CA is often tied to deck moisture, not wind alone.
-
-Scope trace: wind uplift clip spacing plus starter-strip setback referenced in San Mateo County county grid review.
 
 Regional mesh label San Mateo County: moisture and logistics baselines are keyed to Daly City, CA before niche-specific work begins.
 

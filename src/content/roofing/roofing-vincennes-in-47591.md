@@ -11,11 +11,14 @@ lng: -87.5100
 zipSample: ["47591"]
 zipCodes: ["47591"]
 localPaths: ["Knox County / ZIP 47591 sector", "Knox County / primary ZIP 47591", "Knox County / elevation 420 ft band", "Knox County / coords 38.6800, -87.5100"]
-zillowHomeValueUsd: 165007
 ---
 
-**Engineering Notice for Vincennes:** Structural loading calculated based on 420 ft terrain assessment. Regional dispatch grid: Knox County.
+**Engineering Notice for Vincennes:** Storm and emergency leak triage uses 420 ft elevation band with Knox County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Vincennes, IN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Knox County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Vincennes, IN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Knox County clarifies whether remediation or replacement fits the damage pattern.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -33,9 +36,9 @@ Across Vincennes, IN, ice-dam seasons often begin with clogged gutters rather th
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roof service brief: deck sheathing thickness and drip-edge metal profile were cross-checked for the Vincennes intake packet.
+Roof service brief: deck sheathing thickness and drip-edge metal profile were cross-checked for the Vincennes shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 47591.
 

@@ -11,11 +11,14 @@ lng: -119.2300
 zipSample: ["93001", "93003", "93007", "93002", "93005"]
 zipCodes: ["93009", "93004", "93006", "93001", "93002", "93007", "93005", "93003"]
 localPaths: ["Ventura County / ZIP 93005 sector", "Ventura County / primary ZIP 93004", "Ventura County / ZIP 93003 sector", "Ventura County / ZIP 93001 sector", "Ventura County / elevation 220 ft band"]
-zillowHomeValueUsd: 874613
 ---
 
-**Engineering Notice for San Buenaventura:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Ventura County.
+**Engineering Notice for San Buenaventura:** Shingle, flashing, and ventilation review recorded at 220 ft AMSL context (Ventura County).
 
+
+Storm damage roof work in San Buenaventura, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Ventura County clarifies whether restoration or replacement fits the damage pattern.
+
+Roofing service service in San Buenaventura, CA, Ventura County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Code context: Ventilation ratios for San Buenaventura, CA attics should be checked against current mechanical exhaust additions.
 
@@ -23,7 +26,7 @@ Low-slope sections in San Buenaventura, CA need positive drainage before membran
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -34,8 +37,6 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Book a leak-tracing visit with attic and exterior photo logs. Serving ZIP Code: 93004.
-
-Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Ventura County county grid review.
 
 On-site sector marker: Ventura County / coords 34.2700, -119.2300 — logged for map parity and ZIP-corridor verification.
 

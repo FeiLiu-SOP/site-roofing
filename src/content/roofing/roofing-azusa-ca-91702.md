@@ -11,11 +11,14 @@ lng: -117.9100
 zipSample: ["91702", "91010"]
 zipCodes: ["91010", "91702"]
 localPaths: ["Los Angeles County / ZIP 91010 sector", "Los Angeles County / coords 34.1400, -117.9100", "Los Angeles County / primary ZIP 91702", "Los Angeles County / ZIP 91702 sector", "Los Angeles County / elevation 646 ft band"]
-zillowHomeValueUsd: 715445
 ---
 
-**Engineering Notice for Azusa:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Azusa:** Roof repair scope references 646 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
+
+Emergency roof remediation in Azusa, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Los Angeles County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service restoration in Azusa, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Across Azusa, CA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -31,9 +34,7 @@ Code context: Ventilation ratios for Azusa, CA attics should be checked against 
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Scope trace: skylight curb height plus shingle exposure calibration referenced in Los Angeles County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 91010/91702.
+Scope trace: skylight curb height plus shingle exposure calibration referenced in Los Angeles County storm and leak review.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Los Angeles County. Reference elevation: 646 ft. Primary coordinates: 34.1400, -117.9100. ZIP sample: 91010, 91702. Regional routing note: Los Angeles County traffic flow is balanced around ZIP 91702 service demand.
 

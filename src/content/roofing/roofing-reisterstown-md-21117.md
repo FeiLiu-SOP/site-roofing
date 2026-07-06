@@ -11,11 +11,14 @@ lng: -76.8100
 zipSample: ["21136", "21117"]
 zipCodes: ["21117", "21136"]
 localPaths: ["Baltimore County / coords 39.4500, -76.8100", "Baltimore County / ZIP 21117 sector", "Baltimore County / elevation 705 ft band", "Baltimore County / primary ZIP 21117", "Baltimore County / ZIP 21136 sector"]
-zillowHomeValueUsd: 386429
 ---
 
-**Engineering Notice for Reisterstown:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Reisterstown:** Roof repair scope references 705 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Baltimore County.
 
+
+Roof service remediation in Reisterstown, MD, Baltimore County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Reisterstown, MD, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: map ventilation intake and exhaust pairs for Reisterstown, MD attic runs.
 
@@ -29,13 +32,11 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Valley metal in Reisterstown, MD should be reviewed whenever granule loss tracks the water line.
 
 Code context: Ventilation ratios for Reisterstown, MD attics should be checked against current mechanical exhaust additions.
-
-Field routing: chimney cricket slope paired with counter-flashing reglet depth near ZIP 21117.
 
 On-site sector marker: Baltimore County / ZIP 21136 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -74.1600
 zipSample: ["07506"]
 zipCodes: ["07506"]
 localPaths: ["Passaic County / ZIP 07506 sector", "Passaic County / elevation 89 ft band", "Passaic County / coords 40.9600, -74.1600", "Passaic County / primary ZIP 07506"]
-zillowHomeValueUsd: 628609
 ---
 
-**Engineering Notice for Hawthorne:** Structural loading calculated based on 89 ft terrain assessment. Regional dispatch grid: Passaic County.
+**Engineering Notice for Hawthorne:** Roof repair scope references 89 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Passaic County.
 
+
+When wind or hail hits Hawthorne, NJ, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof work in Hawthorne, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Passaic County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -29,15 +32,13 @@ TPO seam welds in Hawthorne, NJ commercial sections need probe tests after freez
 
 Step: stage tear-off debris paths away from landscape drains.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field routing: counter-flashing reglet depth paired with wind uplift clip spacing near ZIP 07506.
-
-Field note: Valley debris and granule loss noted for ZIP 07506.
+Local service note: counter-flashing reglet depth paired with wind uplift clip spacing near ZIP 07506 for emergency roof service repairs.
 
 On-site sector marker: Passaic County / primary ZIP 07506 — logged for map parity and ZIP-corridor verification.
 

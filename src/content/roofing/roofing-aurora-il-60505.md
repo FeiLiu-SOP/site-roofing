@@ -11,11 +11,14 @@ lng: -88.2900
 zipSample: ["60568", "60507", "60572", "60598", "60599"]
 zipCodes: ["60506", "60569", "60504", "60505", "60598", "60507", "60519", "60568", "60599", "60572", "60503", "60502"]
 localPaths: ["Kane County / ZIP 60598 sector", "Kane County / ZIP 60599 sector", "Kane County / primary ZIP 60505", "Kane County / ZIP 60568 sector", "Kane County / elevation 728 ft band"]
-zillowHomeValueUsd: 243462
 ---
 
-**Engineering Notice for Aurora:** Structural loading calculated based on 728 ft terrain assessment. Regional dispatch grid: Kane County.
+**Engineering Notice for Aurora:** Roof repair scope references 728 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Kane County.
 
+
+When wind or hail hits Aurora, IL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work remediation in Aurora, IL, Kane County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Tile underlayment age in Aurora, IL can fail independently of visible tile cracks.
 
@@ -25,13 +28,13 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Across Aurora, IL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-roof work brief: deck sheathing thickness and valley metal gauge were cross-checked for the Aurora intake packet.
+Roof service brief: deck sheathing thickness and valley metal gauge were cross-checked for the Aurora shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 60505/60519/60506.
 

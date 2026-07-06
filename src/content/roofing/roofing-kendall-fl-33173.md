@@ -11,11 +11,14 @@ lng: -80.3600
 zipSample: ["33283", "33176", "33173", "33156", "33116"]
 zipCodes: ["33176", "33296", "33256", "33173", "33156", "33283", "33116"]
 localPaths: ["Miami-Dade County / primary ZIP 33173", "Miami-Dade County / ZIP 33283 sector", "Miami-Dade County / coords 25.6700, -80.3600", "Miami-Dade County / elevation 36 ft band", "Miami-Dade County / ZIP 33176 sector"]
-zillowHomeValueUsd: 566190
 ---
 
-**Engineering Notice for Kendall:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Kendall:** Roof repair scope references 36 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Miami-Dade County.
 
+
+Emergency roof service in Kendall, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Miami-Dade County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits Kendall, FL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -35,7 +38,7 @@ FAQ: When should permanent restoration start? In Kendall, FL, delayed dry-in can
 
 In Kendall, FL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field routing: shingle exposure calibration paired with ridge cap nail schedule near ZIP 33173.
+Local service note: shingle exposure calibration paired with ridge cap nail schedule near ZIP 33173 for emergency roofing service repairs.
 
 On-site sector marker: Miami-Dade County / ZIP 33256 sector — logged for map parity and ZIP-corridor verification.
 

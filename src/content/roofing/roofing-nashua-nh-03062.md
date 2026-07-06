@@ -11,11 +11,14 @@ lng: -71.4900
 zipSample: ["03062", "03061", "03063", "03064", "03060"]
 zipCodes: ["03060", "03064", "03062", "03061", "03063"]
 localPaths: ["Hillsborough County / ZIP 03064 sector", "Hillsborough County / ZIP 03063 sector", "Hillsborough County / elevation 203 ft band", "Hillsborough County / ZIP 03061 sector", "Hillsborough County / coords 42.7500, -71.4900"]
-zillowHomeValueUsd: 542691
 ---
 
-**Engineering Notice for Nashua:** Structural loading calculated based on 203 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Nashua:** Storm and emergency leak triage uses 203 ft elevation band with Hillsborough County service-area context for roofing repairs.
 
+
+When wind or hail hits Nashua, NH, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof work in Nashua, NH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hillsborough County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 03062.
 
@@ -27,11 +30,11 @@ Step: note chimney cricket geometry before counter-flashing removal.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wood shake courses in Nashua, NH require skip-spacing rules at valleys.
 
-roof work brief: starter-strip setback and valley metal gauge were cross-checked for the Nashua intake packet.
+Roof restoration brief: starter-strip setback and valley metal gauge were cross-checked for the Nashua shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 03062/03063/03060.
 

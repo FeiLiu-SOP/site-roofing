@@ -11,11 +11,14 @@ lng: -87.7400
 zipSample: ["60203", "60076", "60077"]
 zipCodes: ["60076", "60077", "60203"]
 localPaths: ["Cook County / ZIP 60076 sector", "Cook County / elevation 617 ft band", "Cook County / ZIP 60077 sector", "Cook County / primary ZIP 60076", "Cook County / ZIP 60203 sector"]
-zillowHomeValueUsd: 443343
 ---
 
-**Engineering Notice for Skokie:** Structural loading calculated based on 617 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Skokie:** Roof repair scope references 617 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Cook County.
 
+
+Storm damage roof service in Skokie, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Cook County clarifies whether service or replacement fits the damage pattern.
+
+Licensed roof service crews serving Skokie, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -29,11 +32,11 @@ Low-slope sections in Skokie, IL need positive drainage before membrane repairs 
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Our Skokie, IL dispatch packets reference county grid Cook County and elevation band 617 ft.
+Our Skokie, IL restoration packets reference Cook County and elevation band 617 ft for shingle and leak scope.
 
 Code context: Ventilation ratios for Skokie, IL attics should be checked against current mechanical exhaust additions.
 
-Field routing: chimney cricket slope paired with starter-strip setback near ZIP 60076.
+Local service note: chimney cricket slope paired with starter-strip setback near ZIP 60076 for emergency roof service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 60203/60076/60077.
 

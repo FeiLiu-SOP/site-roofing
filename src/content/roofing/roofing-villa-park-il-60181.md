@@ -11,15 +11,18 @@ lng: -87.9800
 zipSample: ["60181"]
 zipCodes: ["60181"]
 localPaths: ["DuPage County / coords 41.8900, -87.9800", "DuPage County / elevation 705 ft band", "DuPage County / primary ZIP 60181", "DuPage County / ZIP 60181 sector"]
-zillowHomeValueUsd: 358484
 ---
 
-**Engineering Notice for Villa Park:** Structural loading calculated based on 705 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Villa Park:** Roof repair scope references 705 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in DuPage County.
 
+
+Roofing service service in Villa Park, IL, DuPage County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Villa Park, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in DuPage County clarifies whether service or replacement fits the damage pattern.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -31,7 +34,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 In Villa Park, IL, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-roofing service brief: drip-edge metal profile and deck sheathing thickness were cross-checked for the Villa Park intake packet.
+Roof service brief: drip-edge metal profile and deck sheathing thickness were cross-checked for the Villa Park shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 60181.
 

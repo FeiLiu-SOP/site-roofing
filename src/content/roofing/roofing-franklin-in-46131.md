@@ -11,11 +11,14 @@ lng: -86.0500
 zipSample: ["46131"]
 zipCodes: ["46131"]
 localPaths: ["Johnson County / ZIP 46131 sector", "Johnson County / coords 39.4900, -86.0500", "Johnson County / elevation 748 ft band", "Johnson County / primary ZIP 46131"]
-zillowHomeValueUsd: 279607
 ---
 
-**Engineering Notice for Franklin:** Structural loading calculated based on 748 ft terrain assessment. Regional dispatch grid: Johnson County.
+**Engineering Notice for Franklin:** Storm and emergency leak triage uses 748 ft elevation band with Johnson County service-area context for roofing repairs.
 
+
+Emergency roof service in Franklin, IN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Johnson County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof restoration crews serving Franklin, IN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Tile underlayment age in Franklin, IN can fail independently of visible tile cracks.
 
@@ -29,11 +32,9 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Hail bruising on Franklin, IN ridges may not breach felt until the next wind event.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-Field routing: ice-barrier lap sequence paired with wind uplift clip spacing near ZIP 46131.
-
-Field note: Attic moisture pathway scan referenced ZIP 46131.
+Local service note: ice-barrier lap sequence paired with wind uplift clip spacing near ZIP 46131 for emergency roofing service repairs.
 
 Regional mesh label Johnson County: moisture and logistics baselines are keyed to Franklin, IN before niche-specific work begins.
 

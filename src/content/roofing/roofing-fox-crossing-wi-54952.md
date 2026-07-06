@@ -11,11 +11,14 @@ lng: -88.4800
 zipSample: ["54956", "54952"]
 zipCodes: ["54952", "54956"]
 localPaths: ["Winnebago County / elevation 761 ft band", "Winnebago County / ZIP 54952 sector", "Winnebago County / coords 44.2200, -88.4800", "Winnebago County / ZIP 54956 sector", "Winnebago County / primary ZIP 54952"]
-zillowHomeValueUsd: 277342
 ---
 
-**Engineering Notice for Fox Crossing:** Structural loading calculated based on 761 ft terrain assessment. Regional dispatch grid: Winnebago County.
+**Engineering Notice for Fox Crossing:** Roof repair scope references 761 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Winnebago County.
 
+
+Licensed roof service crews serving Fox Crossing, WI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work service in Fox Crossing, WI, Winnebago County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Attic ventilation deficits in Fox Crossing, WI can mimic roof leaks at ceiling penetrations.
 
@@ -25,13 +28,13 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Our Fox Crossing, WI dispatch packets reference county grid Winnebago County and elevation band 761 ft.
+Our Fox Crossing, WI remediation packets reference Winnebago County and elevation band 761 ft for shingle and leak scope.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field routing: skylight curb height paired with valley metal gauge near ZIP 54952.
+Local service note: skylight curb height paired with valley metal gauge near ZIP 54952 for emergency roof work repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 54952/54956.
 

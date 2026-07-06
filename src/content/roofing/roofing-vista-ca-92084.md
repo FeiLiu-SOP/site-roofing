@@ -11,11 +11,14 @@ lng: -117.2400
 zipSample: ["92083", "92084", "92081", "92085"]
 zipCodes: ["92083", "92084", "92085", "92081"]
 localPaths: ["San Diego County / elevation 443 ft band", "San Diego County / primary ZIP 92084", "San Diego County / coords 33.1900, -117.2400", "San Diego County / ZIP 92084 sector", "San Diego County / ZIP 92083 sector"]
-zillowHomeValueUsd: 906249
 ---
 
-**Engineering Notice for Vista:** Structural loading calculated based on 443 ft terrain assessment. Regional dispatch grid: San Diego County.
+**Engineering Notice for Vista:** Shingle, flashing, and ventilation review recorded at 443 ft AMSL context (San Diego County).
 
+
+Storm damage roof work in Vista, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Diego County clarifies whether restoration or replacement fits the damage pattern.
+
+Certified roof remediation crews serving Vista, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -32,8 +35,6 @@ Risk flag: In Vista, CA, interior stains may track from HVAC condensate rather t
 We coordinate Vista, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
-
-roof work brief: drip-edge metal profile and shingle exposure calibration were cross-checked for the Vista intake packet.
 
 On-site sector marker: San Diego County / ZIP 92085 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -80.3900
 zipSample: ["33177", "33157"]
 zipCodes: ["33177", "33157"]
 localPaths: ["Miami-Dade County / primary ZIP 33177", "Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33177 sector", "Miami-Dade County / ZIP 33157 sector", "Miami-Dade County / coords 25.5900, -80.3900"]
-zillowHomeValueUsd: 571247
 ---
 
-**Engineering Notice for South Miami Heights:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for South Miami Heights:** Roof repair scope references 30 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Miami-Dade County.
 
+
+Roof work restoration in South Miami Heights, FL, Miami-Dade County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in South Miami Heights, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Miami-Dade County clarifies whether remediation or replacement fits the damage pattern.
 
 Material note: In South Miami Heights, FL, algae-resistant granules may be specified for north-facing slopes.
 
@@ -27,7 +30,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -35,7 +38,7 @@ FAQ: Can you tarp only part of the roof? In South Miami Heights, FL, yes—if sl
 
 Low-slope sections in South Miami Heights, FL need positive drainage before membrane repairs are scoped.
 
-Field routing: ice-barrier lap sequence paired with pipe boot manufacturer match near ZIP 33177.
+Local service note: ice-barrier lap sequence paired with pipe boot manufacturer match near ZIP 33177 for emergency roofing service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 33157/33177.
 

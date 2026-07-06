@@ -11,13 +11,16 @@ lng: -117.2200
 zipSample: ["92571", "92570", "92599", "92572"]
 zipCodes: ["92599", "92572", "92571", "92570"]
 localPaths: ["Riverside County / ZIP 92572 sector", "Riverside County / ZIP 92570 sector", "Riverside County / ZIP 92571 sector", "Riverside County / primary ZIP 92570", "Riverside County / ZIP 92599 sector"]
-zillowHomeValueUsd: 580601
 ---
 
-**Engineering Notice for Perris:** Structural loading calculated based on 1437 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Perris:** Shingle, flashing, and ventilation review recorded at 1437 ft AMSL context (Riverside County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Emergency roof restoration in Perris, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Riverside County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work service in Perris, CA, Riverside County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Valley metal in Perris, CA should be reviewed whenever granule loss tracks the water line.
 
@@ -30,8 +33,6 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 Wind-zone note: Perris, CA exposure class can change starter-strip and cap nail schedules.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Scope trace: drip-edge metal profile plus pipe boot manufacturer match referenced in Riverside County county grid review.
 
 ZIP-corridor snapshot for Perris, CA: sampled sectors include 92599, 92571, 92570, 92572; county routing grid remains Riverside County.
 

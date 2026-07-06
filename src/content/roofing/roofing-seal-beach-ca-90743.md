@@ -11,17 +11,20 @@ lng: -118.0700
 zipSample: ["90743", "90740"]
 zipCodes: ["90743", "90740"]
 localPaths: ["Orange County / elevation 13 ft band", "Orange County / ZIP 90743 sector", "Orange County / ZIP 90740 sector", "Orange County / primary ZIP 90743", "Orange County / coords 33.7500, -118.0700"]
-zillowHomeValueUsd: 798329
 ---
 
-**Engineering Notice for Seal Beach:** Structural loading calculated based on 13 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Seal Beach:** Shingle, flashing, and ventilation review recorded at 13 ft AMSL context (Orange County).
 
+
+Storm damage roof work in Seal Beach, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Seal Beach, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -30,8 +33,6 @@ Regulatory note: Seal Beach, CA projects may trigger ice-barrier upgrades when t
 FAQ: Is partial dry-in possible? In Seal Beach, CA, yes—if slope and anchor points support safe tie-offs.
 
 Hail bruising on Seal Beach, CA ridges may not breach felt until the next wind event.
-
-roof work brief: skylight curb height and soffit intake free area were cross-checked for the Seal Beach intake packet.
 
 On-site sector marker: Orange County / elevation 13 ft band — logged for map parity and ZIP-corridor verification.
 

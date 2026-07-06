@@ -11,13 +11,16 @@ lng: -98.5300
 zipSample: ["76305", "76301", "76310", "76309", "76306"]
 zipCodes: ["76309", "76306", "76301", "76307", "76308", "76310", "76302", "76311", "76305"]
 localPaths: ["Wichita County / coords 33.9100, -98.5300", "Wichita County / ZIP 76310 sector", "Wichita County / elevation 961 ft band", "Wichita County / ZIP 76301 sector", "Wichita County / ZIP 76306 sector"]
-zillowHomeValueUsd: 121406
 ---
 
-**Engineering Notice for Wichita Falls:** Structural loading calculated based on 961 ft terrain assessment. Regional dispatch grid: Wichita County.
+**Engineering Notice for Wichita Falls:** Storm and emergency leak triage uses 961 ft elevation band with Wichita County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Emergency roof remediation in Wichita Falls, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Wichita County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof service crews serving Wichita Falls, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wind-zone note: Wichita Falls, TX exposure class can change starter-strip and cap nail schedules.
 
@@ -31,11 +34,9 @@ Low-slope sections in Wichita Falls, TX need positive drainage before membrane r
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Step: separate emergency tarp scope from permanent remediation line items.
+Step: separate emergency tarp scope from permanent restoration line items.
 
-roof work brief: soffit intake free area and drip-edge metal profile were cross-checked for the Wichita Falls intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 76302/76301/76307.
+Roof remediation brief: soffit intake free area and drip-edge metal profile were cross-checked for the Wichita Falls shingle and leak scope.
 
 On-site sector marker: Wichita County / ZIP 76306 sector — logged for map parity and ZIP-corridor verification.
 

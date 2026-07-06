@@ -11,11 +11,14 @@ lng: -93.2800
 zipSample: ["55423"]
 zipCodes: ["55423"]
 localPaths: ["Hennepin County / ZIP 55423 sector", "Hennepin County / elevation 840 ft band", "Hennepin County / primary ZIP 55423", "Hennepin County / coords 44.8800, -93.2800"]
-zillowHomeValueUsd: 347261
 ---
 
-**Engineering Notice for Richfield:** Structural loading calculated based on 840 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Richfield:** Roof repair scope references 840 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Hennepin County.
 
+
+Certified roof service crews serving Richfield, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Richfield, MN, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Wind-zone note: Richfield, MN exposure class can change starter-strip and cap nail schedules.
 
@@ -23,7 +26,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Skylight curb flashing in Richfield, MN should be sequenced before ridge cap replacement.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -34,8 +37,6 @@ Step: stage tear-off debris paths away from landscape drains.
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-roof work brief: shingle exposure calibration and pipe boot manufacturer match were cross-checked for the Richfield intake packet.
 
 On-site sector marker: Hennepin County / ZIP 55423 sector — logged for map parity and ZIP-corridor verification.
 

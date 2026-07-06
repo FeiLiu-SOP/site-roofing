@@ -11,15 +11,18 @@ lng: -93.3200
 zipSample: ["55420", "55437", "55438", "55435", "55425"]
 zipCodes: ["55425", "55420", "55435", "55437", "55438", "55431"]
 localPaths: ["Hennepin County / ZIP 55435 sector", "Hennepin County / ZIP 55425 sector", "Hennepin County / ZIP 55420 sector", "Hennepin County / ZIP 55437 sector", "Hennepin County / coords 44.8300, -93.3200"]
-zillowHomeValueUsd: 333329
 ---
 
-**Engineering Notice for Bloomington:** Structural loading calculated based on 804 ft terrain assessment. Regional dispatch grid: Hennepin County.
+**Engineering Notice for Bloomington:** Storm and emergency leak triage uses 804 ft elevation band with Hennepin County service-area context for roofing repairs.
 
+
+Certified roof remediation crews serving Bloomington, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Bloomington, MN, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Our Bloomington, MN dispatch packets reference county grid Hennepin County and elevation band 804 ft.
+Our Bloomington, MN service packets reference Hennepin County and elevation band 804 ft for shingle and leak scope.
 
 Attic ventilation deficits in Bloomington, MN can mimic roof leaks at ceiling penetrations.
 
@@ -35,7 +38,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-roof service brief: deck sheathing thickness and shingle exposure calibration were cross-checked for the Bloomington intake packet.
+Roof restoration brief: deck sheathing thickness and shingle exposure calibration were cross-checked for the Bloomington shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 55425/55431/55438.
 

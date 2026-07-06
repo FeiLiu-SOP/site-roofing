@@ -11,17 +11,20 @@ lng: -94.2200
 zipSample: ["56377"]
 zipCodes: ["56377"]
 localPaths: ["Stearns County / primary ZIP 56377", "Stearns County / ZIP 56377 sector", "Stearns County / elevation 1040 ft band", "Stearns County / coords 45.6200, -94.2200"]
-zillowHomeValueUsd: 339323
 ---
 
-**Engineering Notice for Sartell:** Structural loading calculated based on 1040 ft terrain assessment. Regional dispatch grid: Stearns County.
+**Engineering Notice for Sartell:** Shingle, flashing, and ventilation review recorded at 1040 ft AMSL context (Stearns County).
 
+
+Storm damage roof work in Sartell, MN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Stearns County clarifies whether remediation or replacement fits the damage pattern.
+
+Roofing service remediation in Sartell, MN, Stearns County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Attic ventilation deficits in Sartell, MN can mimic roof leaks at ceiling penetrations.
 
 Skylight curb flashing in Sartell, MN should be sequenced before ridge cap replacement.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -35,7 +38,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 FAQ: How long can shingles wait after storm damage? In Sartell, MN, delayed dry-in can expand insulation and ceiling repairs.
 
-Scope trace: ridge cap nail schedule plus synthetic underlayment slip referenced in Stearns County county grid review.
+Scope trace: ridge cap nail schedule plus synthetic underlayment slip referenced in Stearns County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 56377.
 

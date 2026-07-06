@@ -11,13 +11,16 @@ lng: -96.9600
 zipSample: ["75106", "75104"]
 zipCodes: ["75106", "75104"]
 localPaths: ["Dallas County / ZIP 75106 sector", "Dallas County / coords 32.5800, -96.9600", "Dallas County / primary ZIP 75104", "Dallas County / elevation 810 ft band", "Dallas County / ZIP 75104 sector"]
-zillowHomeValueUsd: 310991
 ---
 
-**Engineering Notice for Cedar Hill:** Structural loading calculated based on 810 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Cedar Hill:** Storm and emergency leak triage uses 810 ft elevation band with Dallas County service-area context for roofing repairs.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+When wind or hail hits Cedar Hill, TX, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work service in Cedar Hill, TX, Dallas County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Skylight curb flashing in Cedar Hill, TX should be sequenced before ridge cap replacement.
 
@@ -34,8 +37,6 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 FAQ: How long can shingles wait after storm damage? In Cedar Hill, TX, delayed dry-in can expand insulation and ceiling repairs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-Scope trace: shingle exposure calibration plus soffit intake free area referenced in Dallas County county grid review.
 
 ZIP-corridor snapshot for Cedar Hill, TX: sampled sectors include 75106, 75104; county routing grid remains Dallas County.
 

@@ -11,13 +11,16 @@ lng: -88.1800
 zipSample: ["53095", "53090"]
 zipCodes: ["53090", "53095"]
 localPaths: ["Washington County / ZIP 53095 sector", "Washington County / ZIP 53090 sector", "Washington County / elevation 915 ft band", "Washington County / coords 43.4200, -88.1800", "Washington County / primary ZIP 53090"]
-zillowHomeValueUsd: 364846
 ---
 
-**Engineering Notice for West Bend:** Structural loading calculated based on 915 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for West Bend:** Shingle, flashing, and ventilation review recorded at 915 ft AMSL context (Washington County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+When wind or hail hits West Bend, WI, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in West Bend, WI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Washington County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -25,7 +28,7 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 TPO seam welds in West Bend, WI commercial sections need probe tests after freeze events.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -35,9 +38,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-roof work brief: starter-strip setback and chimney cricket slope were cross-checked for the West Bend intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 53090/53095.
+Roof restoration brief: starter-strip setback and chimney cricket slope were cross-checked for the West Bend shingle and leak scope.
 
 On-site sector marker: Washington County / ZIP 53095 sector — logged for map parity and ZIP-corridor verification.
 

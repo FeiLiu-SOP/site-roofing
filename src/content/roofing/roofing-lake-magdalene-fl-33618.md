@@ -11,11 +11,14 @@ lng: -82.4800
 zipSample: ["33694", "33613", "33682", "33612", "33618"]
 zipCodes: ["33613", "33612", "33694", "33618", "33682"]
 localPaths: ["Hillsborough County / ZIP 33694 sector", "Hillsborough County / primary ZIP 33618", "Hillsborough County / ZIP 33618 sector", "Hillsborough County / elevation 52 ft band", "Hillsborough County / ZIP 33613 sector"]
-zillowHomeValueUsd: 470240
 ---
 
-**Engineering Notice for Lake Magdalene:** Structural loading calculated based on 52 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Lake Magdalene:** Storm and emergency leak triage uses 52 ft elevation band with Hillsborough County service-area context for roofing repairs.
 
+
+Emergency roof service in Lake Magdalene, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Hillsborough County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof service in Lake Magdalene, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hillsborough County clarifies whether restoration or replacement fits the damage pattern.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -29,11 +32,11 @@ Step: log deck soundings near vents before tear-off is approved.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Regulatory note: Lake Magdalene, FL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field routing: skylight curb height paired with deck sheathing thickness near ZIP 33618.
+Local service note: skylight curb height paired with deck sheathing thickness near ZIP 33618 for emergency roof service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 33618/33612/33613.
 

@@ -11,11 +11,14 @@ lng: -121.3600
 zipSample: ["95827", "95826"]
 zipCodes: ["95827", "95826"]
 localPaths: ["Sacramento County / primary ZIP 95827", "Sacramento County / elevation 62 ft band", "Sacramento County / ZIP 95826 sector", "Sacramento County / coords 38.5500, -121.3600", "Sacramento County / ZIP 95827 sector"]
-zillowHomeValueUsd: 475700
 ---
 
-**Engineering Notice for Rosemont:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Rosemont:** Shingle, flashing, and ventilation review recorded at 62 ft AMSL context (Sacramento County).
 
+
+Storm damage roof service in Rosemont, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Sacramento County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof work restoration in Rosemont, CA, Sacramento County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Regulatory note: Rosemont, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -23,15 +26,13 @@ FAQ: Is partial dry-in possible? In Rosemont, CA, yes—if slope and anchor poin
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
 Hail bruising on Rosemont, CA ridges may not breach felt until the next wind event.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-Scope trace: soffit intake free area plus skylight curb height referenced in Sacramento County county grid review.
 
 Primary postal anchor 95827 with multi-ZIP overlap in Rosemont; field packets tag Sacramento County for county-grid reconciliation.
 

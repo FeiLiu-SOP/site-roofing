@@ -11,11 +11,14 @@ lng: -83.3100
 zipSample: ["48141"]
 zipCodes: ["48141"]
 localPaths: ["Wayne County / ZIP 48141 sector", "Wayne County / elevation 636 ft band", "Wayne County / primary ZIP 48141", "Wayne County / coords 42.2900, -83.3100"]
-zillowHomeValueUsd: 108037
 ---
 
-**Engineering Notice for Inkster:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Inkster:** Shingle, flashing, and ventilation review recorded at 636 ft AMSL context (Wayne County).
 
+
+Storm damage roof work in Inkster, MI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Wayne County clarifies whether remediation or replacement fits the damage pattern.
+
+Qualified roof restoration crews serving Inkster, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -30,8 +33,6 @@ FAQ: Can you tarp only part of the roof? In Inkster, MI, yes—if slope and anch
 We coordinate Inkster, MI roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
-
-Field routing: ice-barrier lap sequence paired with drip-edge metal profile near ZIP 48141.
 
 Coordinate-anchored dispatch note: center reference 42.2900, -83.3100 at elevation ~636 ft aligns with Wayne County intake staging.
 

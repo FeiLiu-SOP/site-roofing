@@ -11,11 +11,14 @@ lng: -80.4400
 zipSample: ["33193", "33185"]
 zipCodes: ["33193", "33185"]
 localPaths: ["Miami-Dade County / elevation 30 ft band", "Miami-Dade County / ZIP 33185 sector", "Miami-Dade County / ZIP 33193 sector", "Miami-Dade County / coords 25.7100, -80.4400", "Miami-Dade County / primary ZIP 33193"]
-zillowHomeValueUsd: 443212
 ---
 
-**Engineering Notice for Kendall West:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Kendall West:** Roof repair scope references 30 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Miami-Dade County.
 
+
+Storm damage roof work in Kendall West, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Miami-Dade County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof service restoration in Kendall West, FL, Miami-Dade County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -35,7 +38,7 @@ Risk flag: Tile underlayment age in Kendall West, FL can fail independently of v
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Scope trace: valley metal gauge plus ridge cap nail schedule referenced in Miami-Dade County county grid review.
+Scope trace: valley metal gauge plus ridge cap nail schedule referenced in Miami-Dade County storm and leak review.
 
 Coordinate-anchored dispatch note: center reference 25.7100, -80.4400 at elevation ~30 ft aligns with Miami-Dade County intake staging.
 

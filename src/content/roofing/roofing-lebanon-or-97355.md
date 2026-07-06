@@ -11,11 +11,14 @@ lng: -122.9100
 zipSample: ["97355"]
 zipCodes: ["97355"]
 localPaths: ["Linn County / primary ZIP 97355", "Linn County / ZIP 97355 sector", "Linn County / elevation 348 ft band", "Linn County / coords 44.5300, -122.9100"]
-zillowHomeValueUsd: 390857
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 348 ft terrain assessment. Regional dispatch grid: Linn County.
+**Engineering Notice for Lebanon:** Storm and emergency leak triage uses 348 ft elevation band with Linn County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Lebanon, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Linn County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Lebanon, OR, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Hail bruising on Lebanon, OR ridges may not breach felt until the next wind event.
 
@@ -25,17 +28,17 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 97355.
 
-Our Lebanon, OR dispatch packets reference county grid Linn County and elevation band 348 ft.
+Our Lebanon, OR service packets reference Linn County and elevation band 348 ft for shingle and leak scope.
 
 Code context: Ventilation ratios for Lebanon, OR attics should be checked against current mechanical exhaust additions.
 
 Step: stage tear-off debris paths away from landscape drains.
 
-FAQ: When should permanent service start? In Lebanon, OR, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In Lebanon, OR, delayed dry-in can expand insulation and ceiling repairs.
 
 Risk flag: Tile underlayment age in Lebanon, OR can fail independently of visible tile cracks.
 
-roofing service brief: starter-strip setback and drip-edge metal profile were cross-checked for the Lebanon intake packet.
+Roof remediation brief: starter-strip setback and drip-edge metal profile were cross-checked for the Lebanon shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 97355.
 

@@ -11,11 +11,14 @@ lng: -85.9200
 zipSample: ["47202", "47203", "47201"]
 zipCodes: ["47202", "47201", "47203"]
 localPaths: ["Bartholomew County / ZIP 47202 sector", "Bartholomew County / ZIP 47203 sector", "Bartholomew County / primary ZIP 47203", "Bartholomew County / elevation 633 ft band", "Bartholomew County / coords 39.2100, -85.9200"]
-zillowHomeValueUsd: 285733
 ---
 
-**Engineering Notice for Columbus:** Structural loading calculated based on 633 ft terrain assessment. Regional dispatch grid: Bartholomew County.
+**Engineering Notice for Columbus:** Shingle, flashing, and ventilation review recorded at 633 ft AMSL context (Bartholomew County).
 
+
+Storm damage roof service in Columbus, IN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bartholomew County clarifies whether restoration or replacement fits the damage pattern.
+
+Licensed roof service crews serving Columbus, IN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Tile underlayment age in Columbus, IN can fail independently of visible tile cracks.
 
@@ -33,9 +36,9 @@ FAQ: Can you tarp only part of the roof? In Columbus, IN, yes—if slope and anc
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 47203.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roof service brief: chimney cricket slope and counter-flashing reglet depth were cross-checked for the Columbus intake packet.
+Roof service brief: chimney cricket slope and counter-flashing reglet depth were cross-checked for the Columbus shingle and leak scope.
 
 ZIP-corridor snapshot for Columbus, IN: sampled sectors include 47201, 47202, 47203; county routing grid remains Bartholomew County.
 

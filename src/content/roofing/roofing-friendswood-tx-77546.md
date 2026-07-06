@@ -11,11 +11,14 @@ lng: -95.2000
 zipSample: ["77549", "77546"]
 zipCodes: ["77546", "77549"]
 localPaths: ["Galveston County / primary ZIP 77546", "Galveston County / ZIP 77549 sector", "Galveston County / elevation 39 ft band", "Galveston County / ZIP 77546 sector", "Galveston County / coords 29.5100, -95.2000"]
-zillowHomeValueUsd: 400403
 ---
 
-**Engineering Notice for Friendswood:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Galveston County.
+**Engineering Notice for Friendswood:** Roof repair scope references 39 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Galveston County.
 
+
+Emergency roof restoration in Friendswood, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Galveston County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof service remediation in Friendswood, TX, Galveston County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Tile underlayment age in Friendswood, TX can fail independently of visible tile cracks.
 
@@ -31,7 +34,7 @@ Step: map ventilation intake and exhaust pairs for Friendswood, TX attic runs.
 
 Across Friendswood, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-Scope trace: ice-barrier lap sequence plus deck sheathing thickness referenced in Galveston County county grid review.
+Scope trace: ice-barrier lap sequence plus deck sheathing thickness referenced in Galveston County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 77549/77546.
 

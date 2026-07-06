@@ -11,11 +11,14 @@ lng: -84.4600
 zipSample: ["40502", "40544", "40579", "40505", "40526"]
 zipCodes: ["40544", "40579", "40583", "40509", "40550", "40598", "40503", "40511", "40546", "40504", "40533", "40513"]
 localPaths: ["Fayette County / ZIP 40526 sector", "Fayette County / ZIP 40502 sector", "Fayette County / ZIP 40544 sector", "Fayette County / elevation 1056 ft band", "Fayette County / ZIP 40505 sector"]
-zillowHomeValueUsd: 398593
 ---
 
-**Engineering Notice for Lexington:** Structural loading calculated based on 1056 ft terrain assessment. Regional dispatch grid: Fayette County.
+**Engineering Notice for Lexington:** Shingle, flashing, and ventilation review recorded at 1056 ft AMSL context (Fayette County).
 
+
+When wind or hail hits Lexington, KY, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service service in Lexington, KY, Fayette County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -31,9 +34,7 @@ Hail bruising on Lexington, KY ridges may not breach felt until the next wind ev
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-Field routing: ridge cap nail schedule paired with shingle exposure calibration near ZIP 40526.
-
-Field note: Valley debris and granule loss noted for ZIP 40506/40512/40513.
+Local service note: ridge cap nail schedule paired with shingle exposure calibration near ZIP 40526 for emergency roof work repairs.
 
 On-site sector marker: Fayette County / ZIP 40516 sector — logged for map parity and ZIP-corridor verification.
 

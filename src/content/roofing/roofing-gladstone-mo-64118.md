@@ -11,11 +11,14 @@ lng: -94.5600
 zipSample: ["64119", "64118"]
 zipCodes: ["64118", "64119"]
 localPaths: ["Clay County / primary ZIP 64118", "Clay County / coords 39.2100, -94.5600", "Clay County / elevation 1027 ft band", "Clay County / ZIP 64119 sector", "Clay County / ZIP 64118 sector"]
-zillowHomeValueUsd: 267038
 ---
 
-**Engineering Notice for Gladstone:** Structural loading calculated based on 1027 ft terrain assessment. Regional dispatch grid: Clay County.
+**Engineering Notice for Gladstone:** Roof repair scope references 1027 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Clay County.
 
+
+Licensed roof service crews serving Gladstone, MO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service restoration in Gladstone, MO, Clay County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Synthetic underlayment slip in Gladstone, MO is often tied to deck moisture, not wind alone.
 
@@ -31,13 +34,11 @@ Code context: Ventilation ratios for Gladstone, MO attics should be checked agai
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Gladstone, MO can fail independently of visible tile cracks.
 
-Field routing: ridge cap nail schedule paired with skylight curb height near ZIP 64118.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 64119/64118.
+Local service note: ridge cap nail schedule paired with skylight curb height near ZIP 64118 for emergency roof service repairs.
 
 ZIP-corridor snapshot for Gladstone, MO: sampled sectors include 64119, 64118; county routing grid remains Clay County.
 

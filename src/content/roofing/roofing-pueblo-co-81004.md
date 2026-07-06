@@ -11,11 +11,14 @@ lng: -104.6100
 zipSample: ["81001", "81012", "81004", "81011", "81002"]
 zipCodes: ["81008", "81003", "81004", "81011", "81002", "81012", "81005", "81010", "81001"]
 localPaths: ["Pueblo County / elevation 4669 ft band", "Pueblo County / ZIP 81012 sector", "Pueblo County / ZIP 81002 sector", "Pueblo County / ZIP 81011 sector", "Pueblo County / ZIP 81004 sector"]
-zillowHomeValueUsd: 195472
 ---
 
-**Engineering Notice for Pueblo:** Structural loading calculated based on 4669 ft terrain assessment. Regional dispatch grid: Pueblo County.
+**Engineering Notice for Pueblo:** Storm and emergency leak triage uses 4669 ft elevation band with Pueblo County service-area context for roofing repairs.
 
+
+When wind or hail hits Pueblo, CO, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof service in Pueblo, CO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pueblo County clarifies whether remediation or replacement fits the damage pattern.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -31,9 +34,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Regulatory note: Pueblo, CO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-Field routing: drip-edge metal profile paired with pipe boot manufacturer match near ZIP 81004.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 On-site sector marker: Pueblo County / coords 38.2700, -104.6100 — logged for map parity and ZIP-corridor verification.
 

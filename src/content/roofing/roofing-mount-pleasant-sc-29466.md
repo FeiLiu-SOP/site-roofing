@@ -11,13 +11,16 @@ lng: -79.8200
 zipSample: ["29465", "29464", "29466"]
 zipCodes: ["29465", "29464", "29466"]
 localPaths: ["Charleston County / ZIP 29465 sector", "Charleston County / elevation 30 ft band", "Charleston County / primary ZIP 29466", "Charleston County / ZIP 29466 sector", "Charleston County / coords 32.8500, -79.8200"]
-zillowHomeValueUsd: 840229
 ---
 
-**Engineering Notice for Mount Pleasant:** Structural loading calculated based on 30 ft terrain assessment. Regional dispatch grid: Charleston County.
+**Engineering Notice for Mount Pleasant:** Storm and emergency leak triage uses 30 ft elevation band with Charleston County service-area context for roofing repairs.
 
 
-Our Mount Pleasant, SC dispatch packets reference county grid Charleston County and elevation band 30 ft.
+Roof service remediation in Mount Pleasant, SC, Charleston County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Mount Pleasant, SC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Charleston County clarifies whether remediation or replacement fits the damage pattern.
+
+Our Mount Pleasant, SC restoration packets reference Charleston County and elevation band 30 ft for shingle and leak scope.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -30,8 +33,6 @@ FAQ: Is partial dry-in possible? In Mount Pleasant, SC, yes—if slope and ancho
 Tip: Note recent wind events when filing insurance photos for Mount Pleasant, SC.
 
 Wind-zone note: Mount Pleasant, SC exposure class can change starter-strip and cap nail schedules.
-
-Field routing: starter-strip setback paired with valley metal gauge near ZIP 29466.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Charleston County. Reference elevation: 30 ft. Primary coordinates: 32.8500, -79.8200. ZIP sample: 29464, 29466, 29465. Regional routing note: Charleston County traffic flow is balanced around ZIP 29466 service demand.
 

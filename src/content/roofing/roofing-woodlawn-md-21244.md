@@ -11,11 +11,14 @@ lng: -76.7500
 zipSample: ["21244", "21235", "21241", "21289", "21228"]
 zipCodes: ["21228", "21241", "21235", "21207", "21244", "21289"]
 localPaths: ["Baltimore County / coords 39.3100, -76.7500", "Baltimore County / ZIP 21235 sector", "Baltimore County / elevation 413 ft band", "Baltimore County / ZIP 21241 sector", "Baltimore County / ZIP 21228 sector"]
-zillowHomeValueUsd: 322149
 ---
 
-**Engineering Notice for Woodlawn:** Structural loading calculated based on 413 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Woodlawn:** Roof repair scope references 413 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Baltimore County.
 
+
+Qualified roof service crews serving Woodlawn, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work restoration in Woodlawn, MD, Baltimore County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 21244.
 
@@ -35,7 +38,7 @@ Granule embedment loss on Woodlawn, MD north slopes can precede mat exposure.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-roof work brief: deck sheathing thickness and synthetic underlayment slip were cross-checked for the Woodlawn intake packet.
+Roof service brief: deck sheathing thickness and synthetic underlayment slip were cross-checked for the Woodlawn shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 21207/21228/21235.
 

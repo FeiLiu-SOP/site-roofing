@@ -11,11 +11,14 @@ lng: -90.3900
 zipSample: ["63042", "63031", "63044"]
 zipCodes: ["63031", "63042", "63044"]
 localPaths: ["St. Louis County / primary ZIP 63042", "St. Louis County / ZIP 63042 sector", "St. Louis County / elevation 479 ft band", "St. Louis County / coords 38.7900, -90.3900", "St. Louis County / ZIP 63044 sector"]
-zillowHomeValueUsd: 164348
 ---
 
-**Engineering Notice for Hazelwood:** Structural loading calculated based on 479 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Hazelwood:** Shingle, flashing, and ventilation review recorded at 479 ft AMSL context (St. Louis County).
 
+
+Emergency roof restoration in Hazelwood, MO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in St. Louis County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Hazelwood, MO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Louis County clarifies whether remediation or replacement fits the damage pattern.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -25,17 +28,17 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Wind-zone note: Hazelwood, MO exposure class can change starter-strip and cap nail schedules.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Field routing: counter-flashing reglet depth paired with wind uplift clip spacing near ZIP 63042.
+Local service note: counter-flashing reglet depth paired with wind uplift clip spacing near ZIP 63042 for emergency roof work repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 63042/63044/63031.
 

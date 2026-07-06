@@ -11,11 +11,14 @@ lng: -73.6800
 zipSample: ["11010"]
 zipCodes: ["11010"]
 localPaths: ["Nassau County / primary ZIP 11010", "Nassau County / ZIP 11010 sector", "Nassau County / elevation 59 ft band", "Nassau County / coords 40.7000, -73.6800"]
-zillowHomeValueUsd: 810375
 ---
 
-**Engineering Notice for Franklin Square:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Franklin Square:** Storm and emergency leak triage uses 59 ft elevation band with Nassau County service-area context for roofing repairs.
 
+
+When wind or hail hits Franklin Square, NY, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Franklin Square, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Nassau County clarifies whether restoration or replacement fits the damage pattern.
 
 Code context: Ventilation ratios for Franklin Square, NY attics should be checked against current mechanical exhaust additions.
 
@@ -23,7 +26,7 @@ Tile and shingle mixes in Franklin Square, NY require different fastener pattern
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -35,7 +38,7 @@ FAQ: Is partial dry-in possible? In Franklin Square, NY, yes—if slope and anch
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field routing: drip-edge metal profile paired with shingle exposure calibration near ZIP 11010.
+Local service note: drip-edge metal profile paired with shingle exposure calibration near ZIP 11010 for emergency roof service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 11010.
 

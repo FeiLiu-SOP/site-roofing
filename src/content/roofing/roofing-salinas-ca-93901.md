@@ -11,13 +11,16 @@ lng: -121.6300
 zipSample: ["93905", "93902", "93901", "93915", "93906"]
 zipCodes: ["93915", "93901", "93902", "93905", "93906"]
 localPaths: ["Monterey County / ZIP 93902 sector", "Monterey County / elevation 36 ft band", "Monterey County / ZIP 93905 sector", "Monterey County / ZIP 93906 sector", "Monterey County / ZIP 93915 sector"]
-zillowHomeValueUsd: 774161
 ---
 
-**Engineering Notice for Salinas:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Monterey County.
+**Engineering Notice for Salinas:** Storm and emergency leak triage uses 36 ft elevation band with Monterey County service-area context for roofing repairs.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Storm damage roof service in Salinas, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Monterey County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof service in Salinas, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Monterey County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -35,7 +38,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 We coordinate Salinas, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field routing: wind uplift clip spacing paired with attic baffle spacing near ZIP 93901.
+Local service note: wind uplift clip spacing paired with attic baffle spacing near ZIP 93901 for emergency roof work repairs.
 
 On-site sector marker: Monterey County / coords 36.6900, -121.6300 — logged for map parity and ZIP-corridor verification.
 

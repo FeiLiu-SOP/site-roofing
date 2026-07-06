@@ -11,11 +11,14 @@ lng: -121.7200
 zipSample: ["94513"]
 zipCodes: ["94513"]
 localPaths: ["Contra Costa County / elevation 85 ft band", "Contra Costa County / coords 37.9400, -121.7200", "Contra Costa County / primary ZIP 94513", "Contra Costa County / ZIP 94513 sector"]
-zillowHomeValueUsd: 805388
 ---
 
-**Engineering Notice for Brentwood:** Structural loading calculated based on 85 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Brentwood:** Shingle, flashing, and ventilation review recorded at 85 ft AMSL context (Contra Costa County).
 
+
+Roof work restoration in Brentwood, CA, Contra Costa County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Brentwood, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Contra Costa County clarifies whether service or replacement fits the damage pattern.
 
 We coordinate Brentwood, CA roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -31,9 +34,7 @@ Risk flag: In Brentwood, CA, interior stains may track from HVAC condensate rath
 
 Code context: Ventilation ratios for Brentwood, CA attics should be checked against current mechanical exhaust additions.
 
-roof work brief: chimney cricket slope and skylight curb height were cross-checked for the Brentwood intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 94513.
+Roof restoration brief: chimney cricket slope and skylight curb height were cross-checked for the Brentwood shingle and leak scope.
 
 On-site sector marker: Contra Costa County / primary ZIP 94513 — logged for map parity and ZIP-corridor verification.
 

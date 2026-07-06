@@ -11,17 +11,20 @@ lng: -83.3800
 zipSample: ["48186", "48185"]
 zipCodes: ["48185", "48186"]
 localPaths: ["Wayne County / coords 42.3200, -83.3800", "Wayne County / ZIP 48186 sector", "Wayne County / ZIP 48185 sector", "Wayne County / elevation 676 ft band", "Wayne County / primary ZIP 48185"]
-zillowHomeValueUsd: 223249
 ---
 
-**Engineering Notice for Westland:** Structural loading calculated based on 676 ft terrain assessment. Regional dispatch grid: Wayne County.
+**Engineering Notice for Westland:** Shingle, flashing, and ventilation review recorded at 676 ft AMSL context (Wayne County).
 
+
+Storm damage roofing service in Westland, MI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Wayne County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof work remediation in Westland, MI, Wayne County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
 Code context: Ventilation ratios for Westland, MI attics should be checked against current mechanical exhaust additions.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Coastal humidity in Westland, MI can slow shingle seal-down after shoulder-season storms.
 
@@ -30,8 +33,6 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 Risk flag: In Westland, MI, interior stains may track from HVAC condensate rather than roof cladding.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
-
-roofing service brief: chimney cricket slope and valley metal gauge were cross-checked for the Westland intake packet.
 
 On-site sector marker: Wayne County / primary ZIP 48185 — logged for map parity and ZIP-corridor verification.
 

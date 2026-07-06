@@ -6,18 +6,21 @@ state: "TX"
 zipCode: "77515"
 county: "Brazoria County"
 elevationFt: 36
-lat: 29.0500
-lng: -95.4500
+lat: 29.0680
+lng: -95.4575
 zipSample: ["77566", "77515"]
 zipCodes: ["77566", "77515"]
-localPaths: ["Brazoria County / coords 29.0500, -95.4500", "Brazoria County / elevation 36 ft band", "Brazoria County / primary ZIP 77515", "Brazoria County / ZIP 77515 sector", "Brazoria County / ZIP 77566 sector"]
-zillowHomeValueUsd: 240707
+localPaths: ["Brazoria County / coords 29.0680, -95.4575", "Brazoria County / elevation 36 ft band", "Brazoria County / primary ZIP 77515", "Brazoria County / ZIP 77515 sector", "Brazoria County / ZIP 77566 sector"]
 ---
 
-**Engineering Notice for Lake Jackson:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Brazoria County.
+**Engineering Notice for Lake Jackson:** Shingle, flashing, and ventilation review recorded at 36 ft AMSL context (Brazoria County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Roof service service in Lake Jackson, TX, Brazoria County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Lake Jackson, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Brazoria County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Across Lake Jackson, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -32,8 +35,6 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 Regulatory note: Lake Jackson, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
-
-Scope trace: deck sheathing thickness plus starter-strip setback referenced in Brazoria County county grid review.
 
 On-site sector marker: Brazoria County / primary ZIP 77515 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -82.1800
 zipSample: ["33541", "33542", "33540"]
 zipCodes: ["33542", "33540", "33541"]
 localPaths: ["Pasco County / ZIP 33540 sector", "Pasco County / primary ZIP 33542", "Pasco County / ZIP 33542 sector", "Pasco County / ZIP 33541 sector", "Pasco County / coords 28.2400, -82.1800"]
-zillowHomeValueUsd: 227192
 ---
 
-**Engineering Notice for Zephyrhills:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Pasco County.
+**Engineering Notice for Zephyrhills:** Roof repair scope references 125 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Pasco County.
 
+
+Storm damage roof service in Zephyrhills, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pasco County clarifies whether remediation or replacement fits the damage pattern.
+
+Licensed roof service crews serving Zephyrhills, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Granule embedment loss on Zephyrhills, FL north slopes can precede mat exposure.
 
@@ -31,7 +34,7 @@ Code context: Ventilation ratios for Zephyrhills, FL attics should be checked ag
 
 Step: stage tear-off debris paths away from landscape drains.
 
-Scope trace: ice-barrier lap sequence plus valley metal gauge referenced in Pasco County county grid review.
+Scope trace: ice-barrier lap sequence plus valley metal gauge referenced in Pasco County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 33541/33540/33542.
 

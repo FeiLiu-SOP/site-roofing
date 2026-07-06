@@ -11,11 +11,14 @@ lng: -91.8200
 zipSample: ["70562", "70563", "70560"]
 zipCodes: ["70563", "70562", "70560"]
 localPaths: ["Iberia Parish / elevation 36 ft band", "Iberia Parish / ZIP 70563 sector", "Iberia Parish / primary ZIP 70560", "Iberia Parish / ZIP 70560 sector", "Iberia Parish / ZIP 70562 sector"]
-zillowHomeValueUsd: 112924
 ---
 
-**Engineering Notice for New Iberia:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Iberia Parish.
+**Engineering Notice for New Iberia:** Roof repair scope references 36 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Iberia Parish.
 
+
+When wind or hail hits New Iberia, LA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Licensed roof remediation crews serving New Iberia, LA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -35,9 +38,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Risk flag: In New Iberia, LA, interior stains may track from HVAC condensate rather than roof cladding.
 
-roof work brief: shingle exposure calibration and skylight curb height were cross-checked for the New Iberia intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 70562/70563/70560.
+Roof remediation brief: shingle exposure calibration and skylight curb height were cross-checked for the New Iberia shingle and leak scope.
 
 On-site sector marker: Iberia Parish / ZIP 70562 sector — logged for map parity and ZIP-corridor verification.
 

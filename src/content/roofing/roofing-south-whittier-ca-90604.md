@@ -11,17 +11,20 @@ lng: -118.0300
 zipSample: ["90604", "90605"]
 zipCodes: ["90604", "90605"]
 localPaths: ["Los Angeles County / coords 33.9300, -118.0300", "Los Angeles County / ZIP 90604 sector", "Los Angeles County / ZIP 90605 sector", "Los Angeles County / elevation 174 ft band", "Los Angeles County / primary ZIP 90604"]
-zillowHomeValueUsd: 828665
 ---
 
-**Engineering Notice for South Whittier:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for South Whittier:** Roof repair scope references 174 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
+
+Roofing service remediation in South Whittier, CA, Los Angeles County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in South Whittier, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Los Angeles County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -31,7 +34,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Scope trace: shingle exposure calibration plus drip-edge metal profile referenced in Los Angeles County county grid review.
+Scope trace: shingle exposure calibration plus drip-edge metal profile referenced in Los Angeles County storm and leak review.
 
 ZIP-corridor snapshot for South Whittier, CA: sampled sectors include 90604, 90605; county routing grid remains Los Angeles County.
 

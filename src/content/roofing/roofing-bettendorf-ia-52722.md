@@ -11,11 +11,14 @@ lng: -90.4800
 zipSample: ["52722"]
 zipCodes: ["52722"]
 localPaths: ["Scott County / elevation 673 ft band", "Scott County / primary ZIP 52722", "Scott County / coords 41.5700, -90.4800", "Scott County / ZIP 52722 sector"]
-zillowHomeValueUsd: 328982
 ---
 
-**Engineering Notice for Bettendorf:** Structural loading calculated based on 673 ft terrain assessment. Regional dispatch grid: Scott County.
+**Engineering Notice for Bettendorf:** Storm and emergency leak triage uses 673 ft elevation band with Scott County service-area context for roofing repairs.
 
+
+When wind or hail hits Bettendorf, IA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Bettendorf, IA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Scott County clarifies whether restoration or replacement fits the damage pattern.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -33,7 +36,7 @@ TPO seam welds in Bettendorf, IA commercial sections need probe tests after free
 
 Risk flag: Tile underlayment age in Bettendorf, IA can fail independently of visible tile cracks.
 
-roof work brief: skylight curb height and starter-strip setback were cross-checked for the Bettendorf intake packet.
+Roof remediation brief: skylight curb height and starter-strip setback were cross-checked for the Bettendorf shingle and leak scope.
 
 **Regional Infrastructure Brief:** Service coverage aligns with Scott County and primary ZIP 52722. Terrain reference: 673 ft. Center point: 41.5700, -90.4800. ZIP sample: 52722. Service perimeter note: Coverage extends through Scott County with dispatch centered near ZIP 52722.
 

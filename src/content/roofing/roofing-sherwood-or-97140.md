@@ -11,11 +11,14 @@ lng: -122.8400
 zipSample: ["97140"]
 zipCodes: ["97140"]
 localPaths: ["Washington County / elevation 210 ft band", "Washington County / ZIP 97140 sector", "Washington County / coords 45.3600, -122.8400", "Washington County / primary ZIP 97140"]
-zillowHomeValueUsd: 632898
 ---
 
-**Engineering Notice for Sherwood:** Structural loading calculated based on 210 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Sherwood:** Shingle, flashing, and ventilation review recorded at 210 ft AMSL context (Washington County).
 
+
+Storm damage roof work in Sherwood, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Washington County clarifies whether restoration or replacement fits the damage pattern.
+
+Qualified roof service crews serving Sherwood, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 In Sherwood, OR, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -31,9 +34,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 FAQ: Can you tarp only part of the roof? In Sherwood, OR, yes—if slope and anchor points support safe tie-offs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-Field routing: chimney cricket slope paired with valley metal gauge near ZIP 97140.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 On-site sector marker: Washington County / ZIP 97140 sector — logged for map parity and ZIP-corridor verification.
 

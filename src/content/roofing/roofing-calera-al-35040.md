@@ -11,17 +11,20 @@ lng: -86.7400
 zipSample: ["35040"]
 zipCodes: ["35040"]
 localPaths: ["Shelby County / elevation 571 ft band", "Shelby County / ZIP 35040 sector", "Shelby County / coords 33.1300, -86.7400", "Shelby County / primary ZIP 35040"]
-zillowHomeValueUsd: 254867
 ---
 
-**Engineering Notice for Calera:** Structural loading calculated based on 571 ft terrain assessment. Regional dispatch grid: Shelby County.
+**Engineering Notice for Calera:** Shingle, flashing, and ventilation review recorded at 571 ft AMSL context (Shelby County).
 
+
+Emergency roof remediation in Calera, AL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Shelby County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof service crews serving Calera, AL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Parapet coping movement in Calera, AL can channel water behind wall cladding.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -31,9 +34,7 @@ Regulatory note: Calera, AL projects may trigger ice-barrier upgrades when tear-
 
 FAQ: Is partial dry-in possible? In Calera, AL, yes—if slope and anchor points support safe tie-offs.
 
-Scope trace: starter-strip setback plus wind uplift clip spacing referenced in Shelby County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 35040.
+Scope trace: starter-strip setback plus wind uplift clip spacing referenced in Shelby County storm and leak review.
 
 On-site sector marker: Shelby County / coords 33.1300, -86.7400 — logged for map parity and ZIP-corridor verification.
 

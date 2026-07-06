@@ -11,13 +11,16 @@ lng: -97.7600
 zipSample: ["73099", "73085"]
 zipCodes: ["73085", "73099"]
 localPaths: ["Canadian County / elevation 1286 ft band", "Canadian County / primary ZIP 73099", "Canadian County / ZIP 73099 sector", "Canadian County / ZIP 73085 sector", "Canadian County / coords 35.5200, -97.7600"]
-zillowHomeValueUsd: 273385
 ---
 
-**Engineering Notice for Yukon:** Structural loading calculated based on 1286 ft terrain assessment. Regional dispatch grid: Canadian County.
+**Engineering Notice for Yukon:** Roof repair scope references 1286 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Canadian County.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Roofing service restoration in Yukon, OK, Canadian County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof restoration crews serving Yukon, OK review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wood shake courses in Yukon, OK require skip-spacing rules at valleys.
 
@@ -34,8 +37,6 @@ FAQ: Is partial dry-in possible? In Yukon, OK, yes—if slope and anchor points 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
-
-Scope trace: skylight curb height plus ice-barrier lap sequence referenced in Canadian County county grid review.
 
 On-site sector marker: Canadian County / ZIP 73085 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,17 +11,20 @@ lng: -122.1200
 zipSample: ["94549"]
 zipCodes: ["94549"]
 localPaths: ["Contra Costa County / ZIP 94549 sector", "Contra Costa County / coords 37.8900, -122.1200", "Contra Costa County / elevation 289 ft band", "Contra Costa County / primary ZIP 94549"]
-zillowHomeValueUsd: 1940604
 ---
 
-**Engineering Notice for Lafayette:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Lafayette:** Roof repair scope references 289 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Contra Costa County.
 
+
+Roof work service in Lafayette, CA, Contra Costa County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Lafayette, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Contra Costa County clarifies whether restoration or replacement fits the damage pattern.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Granule embedment loss on Lafayette, CA north slopes can precede mat exposure.
 
@@ -35,9 +38,7 @@ Risk flag: Tile underlayment age in Lafayette, CA can fail independently of visi
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Field routing: attic baffle spacing paired with ridge cap nail schedule near ZIP 94549.
-
-Field note: Shingle seal-down timing logged near ZIP 94549.
+Local service note: attic baffle spacing paired with ridge cap nail schedule near ZIP 94549 for emergency roofing service repairs.
 
 On-site sector marker: Contra Costa County / elevation 289 ft band — logged for map parity and ZIP-corridor verification.
 

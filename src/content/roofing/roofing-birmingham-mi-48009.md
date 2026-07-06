@@ -11,11 +11,14 @@ lng: -83.2200
 zipSample: ["48009", "48012"]
 zipCodes: ["48009", "48012"]
 localPaths: ["Oakland County / ZIP 48012 sector", "Oakland County / ZIP 48009 sector", "Oakland County / elevation 787 ft band", "Oakland County / coords 42.5400, -83.2200", "Oakland County / primary ZIP 48009"]
-zillowHomeValueUsd: 732306
 ---
 
-**Engineering Notice for Birmingham:** Structural loading calculated based on 787 ft terrain assessment. Regional dispatch grid: Oakland County.
+**Engineering Notice for Birmingham:** Storm and emergency leak triage uses 787 ft elevation band with Oakland County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Birmingham, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Oakland County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof service crews serving Birmingham, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -29,11 +32,11 @@ Step: log deck soundings near vents before tear-off is approved.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tile and shingle mixes in Birmingham, MI require different fastener patterns at transitions.
 
-roofing service brief: synthetic underlayment slip and shingle exposure calibration were cross-checked for the Birmingham intake packet.
+Roof restoration brief: synthetic underlayment slip and shingle exposure calibration were cross-checked for the Birmingham shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 48012/48009.
 

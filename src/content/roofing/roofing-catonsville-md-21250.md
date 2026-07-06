@@ -11,11 +11,14 @@ lng: -76.7400
 zipSample: ["21228", "21250"]
 zipCodes: ["21250", "21228"]
 localPaths: ["Baltimore County / primary ZIP 21250", "Baltimore County / ZIP 21250 sector", "Baltimore County / coords 39.2600, -76.7400", "Baltimore County / ZIP 21228 sector", "Baltimore County / elevation 482 ft band"]
-zillowHomeValueUsd: 425894
 ---
 
-**Engineering Notice for Catonsville:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Catonsville:** Storm and emergency leak triage uses 482 ft elevation band with Baltimore County service-area context for roofing repairs.
 
+
+Storm damage roof work in Catonsville, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Baltimore County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof service in Catonsville, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Baltimore County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -25,7 +28,7 @@ Metal panel oil-canning in Catonsville, MD may signal clip spacing issues, not w
 
 Code context: Ventilation ratios for Catonsville, MD attics should be checked against current mechanical exhaust additions.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: map ventilation intake and exhaust pairs for Catonsville, MD attic runs.
 
@@ -35,7 +38,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Confirm ventilation balance during the same appointment. Serving ZIP Code: 21250.
 
-roof work brief: starter-strip setback and ice-barrier lap sequence were cross-checked for the Catonsville intake packet.
+Roof service brief: starter-strip setback and ice-barrier lap sequence were cross-checked for the Catonsville shingle and leak scope.
 
 ZIP-corridor snapshot for Catonsville, MD: sampled sectors include 21228, 21250; county routing grid remains Baltimore County.
 

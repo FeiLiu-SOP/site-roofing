@@ -11,19 +11,22 @@ lng: -87.8600
 zipSample: ["53172"]
 zipCodes: ["53172"]
 localPaths: ["Milwaukee County / ZIP 53172 sector", "Milwaukee County / elevation 686 ft band", "Milwaukee County / primary ZIP 53172", "Milwaukee County / coords 42.9100, -87.8600"]
-zillowHomeValueUsd: 300441
 ---
 
-**Engineering Notice for South Milwaukee:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Milwaukee County.
+**Engineering Notice for South Milwaukee:** Shingle, flashing, and ventilation review recorded at 686 ft AMSL context (Milwaukee County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Roof service service in South Milwaukee, WI, Milwaukee County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof remediation crews serving South Milwaukee, WI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Risk flag: Tile underlayment age in South Milwaukee, WI can fail independently of visible tile cracks.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -31,9 +34,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Attic ventilation deficits in South Milwaukee, WI can mimic roof leaks at ceiling penetrations.
 
-Field routing: counter-flashing reglet depth paired with attic baffle spacing near ZIP 53172.
-
-Field note: Shingle seal-down timing logged near ZIP 53172.
+Local service note: counter-flashing reglet depth paired with attic baffle spacing near ZIP 53172 for emergency roofing service repairs.
 
 On-site sector marker: Milwaukee County / ZIP 53172 sector — logged for map parity and ZIP-corridor verification.
 

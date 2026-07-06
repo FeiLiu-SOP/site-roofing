@@ -11,11 +11,14 @@ lng: -80.0400
 zipSample: ["15102", "15234"]
 zipCodes: ["15234", "15102"]
 localPaths: ["Allegheny County / elevation 1207 ft band", "Allegheny County / coords 40.3200, -80.0400", "Allegheny County / primary ZIP 15102", "Allegheny County / ZIP 15234 sector", "Allegheny County / ZIP 15102 sector"]
-zillowHomeValueUsd: 301063
 ---
 
-**Engineering Notice for Bethel Park:** Structural loading calculated based on 1207 ft terrain assessment. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Bethel Park:** Roof repair scope references 1207 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Allegheny County.
 
+
+Licensed roof remediation crews serving Bethel Park, PA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Bethel Park, PA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Skylight curb flashing in Bethel Park, PA should be sequenced before ridge cap replacement.
 
@@ -23,7 +26,7 @@ FAQ: Is partial dry-in possible? In Bethel Park, PA, yes—if slope and anchor p
 
 Tip: Note recent wind events when filing insurance photos for Bethel Park, PA.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -31,9 +34,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Step: log deck soundings near vents before tear-off is approved.
 
-Field routing: chimney cricket slope paired with drip-edge metal profile near ZIP 15102.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 15102/15234.
+Local service note: chimney cricket slope paired with drip-edge metal profile near ZIP 15102 for emergency roof service repairs.
 
 ZIP-corridor snapshot for Bethel Park, PA: sampled sectors include 15102, 15234; county routing grid remains Allegheny County.
 

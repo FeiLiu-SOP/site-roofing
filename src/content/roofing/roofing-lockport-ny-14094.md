@@ -11,15 +11,18 @@ lng: -78.7000
 zipSample: ["14095", "14094"]
 zipCodes: ["14095", "14094"]
 localPaths: ["Niagara County / ZIP 14094 sector", "Niagara County / elevation 587 ft band", "Niagara County / primary ZIP 14094", "Niagara County / coords 43.1700, -78.7000", "Niagara County / ZIP 14095 sector"]
-zillowHomeValueUsd: 257262
 ---
 
-**Engineering Notice for Lockport:** Structural loading calculated based on 587 ft terrain assessment. Regional dispatch grid: Niagara County.
+**Engineering Notice for Lockport:** Storm and emergency leak triage uses 587 ft elevation band with Niagara County service-area context for roofing repairs.
 
+
+Roofing service restoration in Lockport, NY, Niagara County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof remediation crews serving Lockport, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-FAQ: When should permanent restoration start? In Lockport, NY, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent service start? In Lockport, NY, delayed dry-in can expand insulation and ceiling repairs.
 
 Parapet coping movement in Lockport, NY can channel water behind wall cladding.
 
@@ -27,13 +30,13 @@ Step: map ventilation intake and exhaust pairs for Lockport, NY attic runs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-roofing service brief: attic baffle spacing and counter-flashing reglet depth were cross-checked for the Lockport intake packet.
+Roof service brief: attic baffle spacing and counter-flashing reglet depth were cross-checked for the Lockport shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 14094/14095.
 

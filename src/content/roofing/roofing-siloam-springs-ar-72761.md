@@ -11,11 +11,14 @@ lng: -94.5300
 zipSample: ["72761"]
 zipCodes: ["72761"]
 localPaths: ["Benton County / coords 36.1800, -94.5300", "Benton County / primary ZIP 72761", "Benton County / ZIP 72761 sector", "Benton County / elevation 1152 ft band"]
-zillowHomeValueUsd: 282556
 ---
 
-**Engineering Notice for Siloam Springs:** Structural loading calculated based on 1152 ft terrain assessment. Regional dispatch grid: Benton County.
+**Engineering Notice for Siloam Springs:** Roof repair scope references 1152 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Benton County.
 
+
+Licensed roof service crews serving Siloam Springs, AR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Siloam Springs, AR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Benton County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -23,7 +26,7 @@ Wind-zone note: Siloam Springs, AR exposure class can change starter-strip and c
 
 Across Siloam Springs, AR, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -33,7 +36,7 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Scope trace: soffit intake free area plus valley metal gauge referenced in Benton County county grid review.
+Scope trace: soffit intake free area plus valley metal gauge referenced in Benton County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 72761.
 

@@ -11,11 +11,14 @@ lng: -121.5500
 zipSample: ["95691", "95799", "95605", "95899", "95798"]
 zipCodes: ["95605", "95799", "95691", "95899", "95798"]
 localPaths: ["Yolo County / primary ZIP 95605", "Yolo County / ZIP 95899 sector", "Yolo County / ZIP 95799 sector", "Yolo County / ZIP 95605 sector", "Yolo County / ZIP 95691 sector"]
-zillowHomeValueUsd: 414921
 ---
 
-**Engineering Notice for West Sacramento:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Yolo County.
+**Engineering Notice for West Sacramento:** Storm and emergency leak triage uses 3 ft elevation band with Yolo County service-area context for roofing repairs.
 
+
+Certified roof service crews serving West Sacramento, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in West Sacramento, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Yolo County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -31,9 +34,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Risk flag: Tile underlayment age in West Sacramento, CA can fail independently of visible tile cracks.
 
-Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Yolo County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 95691/95798/95799.
+Scope trace: pipe boot manufacturer match plus deck sheathing thickness referenced in Yolo County storm and leak review.
 
 On-site sector marker: Yolo County / primary ZIP 95605 — logged for map parity and ZIP-corridor verification.
 

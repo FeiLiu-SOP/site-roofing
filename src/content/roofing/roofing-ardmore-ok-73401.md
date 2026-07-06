@@ -11,11 +11,14 @@ lng: -97.1300
 zipSample: ["73402", "73401", "73403"]
 zipCodes: ["73402", "73403", "73401"]
 localPaths: ["Carter County / ZIP 73401 sector", "Carter County / coords 34.1900, -97.1300", "Carter County / ZIP 73402 sector", "Carter County / ZIP 73403 sector", "Carter County / elevation 899 ft band"]
-zillowHomeValueUsd: 181341
 ---
 
-**Engineering Notice for Ardmore:** Structural loading calculated based on 899 ft terrain assessment. Regional dispatch grid: Carter County.
+**Engineering Notice for Ardmore:** Shingle, flashing, and ventilation review recorded at 899 ft AMSL context (Carter County).
 
+
+Roof work remediation in Ardmore, OK, Carter County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Ardmore, OK often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Carter County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -23,17 +26,15 @@ Regulatory note: Ardmore, OK projects may trigger ice-barrier upgrades when tear
 
 Step: log deck soundings near vents before tear-off is approved.
 
-FAQ: When should permanent remediation start? In Ardmore, OK, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent service start? In Ardmore, OK, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Across Ardmore, OK, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-roof work brief: drip-edge metal profile and chimney cricket slope were cross-checked for the Ardmore intake packet.
 
 On-site sector marker: Carter County / primary ZIP 73401 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -88.6800
 zipSample: ["60178"]
 zipCodes: ["60178"]
 localPaths: ["DeKalb County / elevation 827 ft band", "DeKalb County / ZIP 60178 sector", "DeKalb County / coords 42.0000, -88.6800", "DeKalb County / primary ZIP 60178"]
-zillowHomeValueUsd: 313314
 ---
 
-**Engineering Notice for Sycamore:** Structural loading calculated based on 827 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for Sycamore:** Storm and emergency leak triage uses 827 ft elevation band with DeKalb County service-area context for roofing repairs.
 
+
+Roofing service remediation in Sycamore, IL, DeKalb County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Sycamore, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in DeKalb County clarifies whether restoration or replacement fits the damage pattern.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -33,9 +36,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Tile and shingle mixes in Sycamore, IL require different fastener patterns at transitions.
 
-Field routing: starter-strip setback paired with wind uplift clip spacing near ZIP 60178.
-
-Field note: Attic moisture pathway scan referenced ZIP 60178.
+Local service note: starter-strip setback paired with wind uplift clip spacing near ZIP 60178 for emergency roof work repairs.
 
 On-site sector marker: DeKalb County / elevation 827 ft band — logged for map parity and ZIP-corridor verification.
 

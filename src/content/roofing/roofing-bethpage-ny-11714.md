@@ -11,11 +11,14 @@ lng: -73.4900
 zipSample: ["11714"]
 zipCodes: ["11714"]
 localPaths: ["Nassau County / elevation 128 ft band", "Nassau County / coords 40.7500, -73.4900", "Nassau County / primary ZIP 11714", "Nassau County / ZIP 11714 sector"]
-zillowHomeValueUsd: 771241
 ---
 
-**Engineering Notice for Bethpage:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: Nassau County.
+**Engineering Notice for Bethpage:** Shingle, flashing, and ventilation review recorded at 128 ft AMSL context (Nassau County).
 
+
+Qualified roof remediation crews serving Bethpage, NY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Bethpage, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Nassau County clarifies whether service or replacement fits the damage pattern.
 
 Code context: Ventilation ratios for Bethpage, NY attics should be checked against current mechanical exhaust additions.
 
@@ -23,7 +26,7 @@ In Bethpage, NY, wind-driven rain can lift shingle tabs before owners notice dec
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -35,9 +38,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roofing service brief: valley metal gauge and deck sheathing thickness were cross-checked for the Bethpage intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 11714.
+Roof restoration brief: valley metal gauge and deck sheathing thickness were cross-checked for the Bethpage shingle and leak scope.
 
 On-site sector marker: Nassau County / elevation 128 ft band — logged for map parity and ZIP-corridor verification.
 

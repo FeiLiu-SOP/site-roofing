@@ -11,11 +11,14 @@ lng: -121.2200
 zipSample: ["95662"]
 zipCodes: ["95662"]
 localPaths: ["Sacramento County / elevation 233 ft band", "Sacramento County / primary ZIP 95662", "Sacramento County / coords 38.6900, -121.2200", "Sacramento County / ZIP 95662 sector"]
-zillowHomeValueUsd: 561833
 ---
 
-**Engineering Notice for Orangevale:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Orangevale:** Storm and emergency leak triage uses 233 ft elevation band with Sacramento County service-area context for roofing repairs.
 
+
+Qualified roof service crews serving Orangevale, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Orangevale, CA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -31,11 +34,9 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Our Orangevale, CA dispatch packets reference county grid Sacramento County and elevation band 233 ft.
+Our Orangevale, CA service packets reference Sacramento County and elevation band 233 ft for shingle and leak scope.
 
-Field routing: ridge cap nail schedule paired with skylight curb height near ZIP 95662.
-
-Field note: Valley debris and granule loss noted for ZIP 95662.
+Local service note: ridge cap nail schedule paired with skylight curb height near ZIP 95662 for emergency roofing service repairs.
 
 On-site sector marker: Sacramento County / elevation 233 ft band — logged for map parity and ZIP-corridor verification.
 

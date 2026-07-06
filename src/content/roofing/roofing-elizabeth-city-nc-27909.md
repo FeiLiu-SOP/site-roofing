@@ -11,15 +11,18 @@ lng: -76.2400
 zipSample: ["27909", "27907", "27906"]
 zipCodes: ["27906", "27909", "27907"]
 localPaths: ["Pasquotank County / coords 36.2900, -76.2400", "Pasquotank County / elevation 7 ft band", "Pasquotank County / ZIP 27909 sector", "Pasquotank County / primary ZIP 27909", "Pasquotank County / ZIP 27907 sector"]
-zillowHomeValueUsd: 265803
 ---
 
-**Engineering Notice for Elizabeth City:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Pasquotank County.
+**Engineering Notice for Elizabeth City:** Shingle, flashing, and ventilation review recorded at 7 ft AMSL context (Pasquotank County).
 
+
+Licensed roof remediation crews serving Elizabeth City, NC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Elizabeth City, NC often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pasquotank County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -33,7 +36,7 @@ Wind-zone note: Elizabeth City, NC exposure class can change starter-strip and c
 
 Step: map ventilation intake and exhaust pairs for Elizabeth City, NC attic runs.
 
-roofing service brief: deck sheathing thickness and wind uplift clip spacing were cross-checked for the Elizabeth City intake packet.
+Roof service brief: deck sheathing thickness and wind uplift clip spacing were cross-checked for the Elizabeth City shingle and leak scope.
 
 Primary postal anchor 27909 with multi-ZIP overlap in Elizabeth City; field packets tag Pasquotank County for county-grid reconciliation.
 

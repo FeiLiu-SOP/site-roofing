@@ -11,15 +11,18 @@ lng: -86.7600
 zipSample: ["35758", "35756"]
 zipCodes: ["35756", "35758"]
 localPaths: ["Madison County / ZIP 35756 sector", "Madison County / elevation 686 ft band", "Madison County / coords 34.7100, -86.7600", "Madison County / ZIP 35758 sector", "Madison County / primary ZIP 35756"]
-zillowHomeValueUsd: 386849
 ---
 
-**Engineering Notice for Madison:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Madison County.
+**Engineering Notice for Madison:** Shingle, flashing, and ventilation review recorded at 686 ft AMSL context (Madison County).
 
+
+Storm damage roof service in Madison, AL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Madison County clarifies whether service or replacement fits the damage pattern.
+
+Roofing service service in Madison, AL, Madison County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Madison, AL can fail independently of visible tile cracks.
 
@@ -31,7 +34,7 @@ Coastal humidity in Madison, AL can slow shingle seal-down after shoulder-season
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Scope trace: ice-barrier lap sequence plus skylight curb height referenced in Madison County county grid review.
+Scope trace: ice-barrier lap sequence plus skylight curb height referenced in Madison County storm and leak review.
 
 **Regional Infrastructure Brief:** Service coverage aligns with Madison County and primary ZIP 35756. Terrain reference: 686 ft. Center point: 34.7100, -86.7600. ZIP sample: 35758, 35756. Service perimeter note: Coverage extends through Madison County with dispatch centered near ZIP 35756.
 

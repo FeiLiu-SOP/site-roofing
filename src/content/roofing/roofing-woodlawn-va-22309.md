@@ -11,11 +11,14 @@ lng: -77.1100
 zipSample: ["22309"]
 zipCodes: ["22309"]
 localPaths: ["Fairfax County / ZIP 22309 sector", "Fairfax County / elevation 33 ft band", "Fairfax County / coords 38.7300, -77.1100", "Fairfax County / primary ZIP 22309"]
-zillowHomeValueUsd: 592039
 ---
 
-**Engineering Notice for Woodlawn:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Fairfax County.
+**Engineering Notice for Woodlawn:** Shingle, flashing, and ventilation review recorded at 33 ft AMSL context (Fairfax County).
 
+
+Storm damage roof work in Woodlawn, VA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Fairfax County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Woodlawn, VA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -31,11 +34,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Regulatory note: Woodlawn, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Metal panel oil-canning in Woodlawn, VA may signal clip spacing issues, not wind damage alone.
-
-roof work brief: soffit intake free area and skylight curb height were cross-checked for the Woodlawn intake packet.
 
 Regional mesh label Fairfax County: moisture and logistics baselines are keyed to Woodlawn, VA before niche-specific work begins.
 

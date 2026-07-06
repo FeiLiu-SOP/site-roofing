@@ -11,15 +11,18 @@ lng: -81.0200
 zipSample: ["29733", "29730", "29731", "29732"]
 zipCodes: ["29732", "29730", "29731", "29733"]
 localPaths: ["York County / primary ZIP 29732", "York County / ZIP 29733 sector", "York County / coords 34.9400, -81.0200", "York County / ZIP 29732 sector", "York County / ZIP 29731 sector"]
-zillowHomeValueUsd: 354360
 ---
 
-**Engineering Notice for Rock Hill:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: York County.
+**Engineering Notice for Rock Hill:** Roof repair scope references 679 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in York County.
 
+
+Roof service remediation in Rock Hill, SC, York County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Rock Hill, SC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in York County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -31,7 +34,7 @@ FAQ: When should permanent restoration start? In Rock Hill, SC, delayed dry-in c
 
 Synthetic underlayment slip in Rock Hill, SC is often tied to deck moisture, not wind alone.
 
-Scope trace: chimney cricket slope plus attic baffle spacing referenced in York County county grid review.
+Scope trace: chimney cricket slope plus attic baffle spacing referenced in York County storm and leak review.
 
 Primary postal anchor 29732 with multi-ZIP overlap in Rock Hill; field packets tag York County for county-grid reconciliation.
 

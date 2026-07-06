@@ -11,11 +11,14 @@ lng: -76.4800
 zipSample: ["21236", "21237"]
 zipCodes: ["21236", "21237"]
 localPaths: ["Baltimore County / ZIP 21236 sector", "Baltimore County / elevation 148 ft band", "Baltimore County / primary ZIP 21237", "Baltimore County / ZIP 21237 sector", "Baltimore County / coords 39.3600, -76.4800"]
-zillowHomeValueUsd: 316088
 ---
 
-**Engineering Notice for Rossville:** Structural loading calculated based on 148 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Rossville:** Roof repair scope references 148 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Baltimore County.
 
+
+Roofing service service in Rossville, MD, Baltimore County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof service crews serving Rossville, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -32,8 +35,6 @@ Low-slope sections in Rossville, MD need positive drainage before membrane repai
 Regulatory note: Rossville, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
 Step: confirm drip-edge continuity before shingle courses restart.
-
-roofing service brief: ice-barrier lap sequence and deck sheathing thickness were cross-checked for the Rossville intake packet.
 
 ZIP-corridor snapshot for Rossville, MD: sampled sectors include 21236, 21237; county routing grid remains Baltimore County.
 

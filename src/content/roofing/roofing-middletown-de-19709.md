@@ -11,11 +11,14 @@ lng: -75.7200
 zipSample: ["19709"]
 zipCodes: ["19709"]
 localPaths: ["New Castle County / elevation 69 ft band", "New Castle County / coords 39.4500, -75.7200", "New Castle County / ZIP 19709 sector", "New Castle County / primary ZIP 19709"]
-zillowHomeValueUsd: 530078
 ---
 
-**Engineering Notice for Middletown:** Structural loading calculated based on 69 ft terrain assessment. Regional dispatch grid: New Castle County.
+**Engineering Notice for Middletown:** Roof repair scope references 69 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in New Castle County.
 
+
+Roof work remediation in Middletown, DE, New Castle County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Middletown, DE often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in New Castle County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Valley metal in Middletown, DE should be reviewed whenever granule loss tracks the water line.
 
@@ -35,9 +38,7 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Wind-zone note: Middletown, DE exposure class can change starter-strip and cap nail schedules.
 
-Field routing: skylight curb height paired with wind uplift clip spacing near ZIP 19709.
-
-Field note: Valley debris and granule loss noted for ZIP 19709.
+Local service note: skylight curb height paired with wind uplift clip spacing near ZIP 19709 for emergency roofing service repairs.
 
 On-site sector marker: New Castle County / coords 39.4500, -75.7200 — logged for map parity and ZIP-corridor verification.
 

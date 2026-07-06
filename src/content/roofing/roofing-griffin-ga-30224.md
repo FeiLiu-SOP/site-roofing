@@ -11,17 +11,20 @@ lng: -84.2700
 zipSample: ["30224", "30223"]
 zipCodes: ["30223", "30224"]
 localPaths: ["Spalding County / elevation 981 ft band", "Spalding County / ZIP 30224 sector", "Spalding County / coords 33.2400, -84.2700", "Spalding County / primary ZIP 30224", "Spalding County / ZIP 30223 sector"]
-zillowHomeValueUsd: 258652
 ---
 
-**Engineering Notice for Griffin:** Structural loading calculated based on 981 ft terrain assessment. Regional dispatch grid: Spalding County.
+**Engineering Notice for Griffin:** Shingle, flashing, and ventilation review recorded at 981 ft AMSL context (Spalding County).
 
+
+When wind or hail hits Griffin, GA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof service in Griffin, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Spalding County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Wind-zone note: Griffin, GA exposure class can change starter-strip and cap nail schedules.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -31,9 +34,7 @@ Freeze-thaw cycles around Griffin, GA stress nail pops along eaves and rake edge
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-Field routing: soffit intake free area paired with deck sheathing thickness near ZIP 30224.
-
-Field note: Valley debris and granule loss noted for ZIP 30224/30223.
+Local service note: soffit intake free area paired with deck sheathing thickness near ZIP 30224 for emergency roof work repairs.
 
 On-site sector marker: Spalding County / ZIP 30223 sector — logged for map parity and ZIP-corridor verification.
 

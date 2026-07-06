@@ -11,15 +11,18 @@ lng: -78.9000
 zipSample: ["22980"]
 zipCodes: ["22980"]
 localPaths: ["Waynesboro County / coords 38.0700, -78.9000", "Waynesboro County / primary ZIP 22980", "Waynesboro County / elevation 1352 ft band", "Waynesboro County / ZIP 22980 sector"]
-zillowHomeValueUsd: 313590
 ---
 
-**Engineering Notice for Waynesboro:** Structural loading calculated based on 1352 ft terrain assessment. Regional dispatch grid: Waynesboro County.
+**Engineering Notice for Waynesboro:** Roof repair scope references 1352 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Waynesboro County.
 
+
+Storm damage roof service in Waynesboro, VA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Waynesboro County clarifies whether service or replacement fits the damage pattern.
+
+Roofing service service in Waynesboro, VA, Waynesboro County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Wind-zone note: Waynesboro, VA exposure class can change starter-strip and cap nail schedules.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -33,9 +36,7 @@ Step: log deck soundings near vents before tear-off is approved.
 
 FAQ: Is partial dry-in possible? In Waynesboro, VA, yes—if slope and anchor points support safe tie-offs.
 
-Field routing: ridge cap nail schedule paired with drip-edge metal profile near ZIP 22980.
-
-Field note: Valley debris and granule loss noted for ZIP 22980.
+Local service note: ridge cap nail schedule paired with drip-edge metal profile near ZIP 22980 for emergency roof service repairs.
 
 On-site sector marker: Waynesboro County / elevation 1352 ft band — logged for map parity and ZIP-corridor verification.
 

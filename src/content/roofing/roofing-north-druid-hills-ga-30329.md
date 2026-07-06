@@ -11,13 +11,16 @@ lng: -84.3300
 zipSample: ["30033", "30359", "30329", "30324"]
 zipCodes: ["30324", "30329", "30359", "30033"]
 localPaths: ["DeKalb County / ZIP 30359 sector", "DeKalb County / ZIP 30324 sector", "DeKalb County / elevation 1017 ft band", "DeKalb County / ZIP 30329 sector", "DeKalb County / ZIP 30033 sector"]
-zillowHomeValueUsd: 524034
 ---
 
-**Engineering Notice for North Druid Hills:** Structural loading calculated based on 1017 ft terrain assessment. Regional dispatch grid: DeKalb County.
+**Engineering Notice for North Druid Hills:** Shingle, flashing, and ventilation review recorded at 1017 ft AMSL context (DeKalb County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Certified roof remediation crews serving North Druid Hills, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in North Druid Hills, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in DeKalb County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -32,8 +35,6 @@ FAQ: Can you tarp only part of the roof? In North Druid Hills, GA, yes—if slop
 Wood shake courses in North Druid Hills, GA require skip-spacing rules at valleys.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
-
-Scope trace: valley metal gauge plus deck sheathing thickness referenced in DeKalb County county grid review.
 
 ZIP-corridor snapshot for North Druid Hills, GA: sampled sectors include 30033, 30359, 30329, 30324; county routing grid remains DeKalb County.
 

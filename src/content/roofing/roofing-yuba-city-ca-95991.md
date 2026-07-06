@@ -11,13 +11,16 @@ lng: -121.6400
 zipSample: ["95993", "95991"]
 zipCodes: ["95993", "95991"]
 localPaths: ["Sutter County / ZIP 95993 sector", "Sutter County / elevation 59 ft band", "Sutter County / ZIP 95991 sector", "Sutter County / primary ZIP 95991", "Sutter County / coords 39.1400, -121.6400"]
-zillowHomeValueUsd: 404859
 ---
 
-**Engineering Notice for Yuba City:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: Sutter County.
+**Engineering Notice for Yuba City:** Shingle, flashing, and ventilation review recorded at 59 ft AMSL context (Sutter County).
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Certified roof restoration crews serving Yuba City, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service service in Yuba City, CA, Sutter County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Hail bruising on Yuba City, CA ridges may not breach felt until the next wind event.
 
@@ -34,8 +37,6 @@ Tile and shingle mixes in Yuba City, CA require different fastener patterns at t
 Risk flag: In Yuba City, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
 Wind-zone note: Yuba City, CA exposure class can change starter-strip and cap nail schedules.
-
-roofing service brief: synthetic underlayment slip and deck sheathing thickness were cross-checked for the Yuba City intake packet.
 
 Coordinate-anchored dispatch note: center reference 39.1400, -121.6400 at elevation ~59 ft aligns with Sutter County intake staging.
 

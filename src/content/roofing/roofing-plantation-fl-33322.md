@@ -11,17 +11,20 @@ lng: -80.2600
 zipSample: ["33322", "33318", "33325", "33323", "33388"]
 zipCodes: ["33317", "33325", "33313", "33388", "33329", "33322", "33318", "33323", "33324"]
 localPaths: ["Broward County / ZIP 33325 sector", "Broward County / primary ZIP 33322", "Broward County / ZIP 33322 sector", "Broward County / ZIP 33323 sector", "Broward County / ZIP 33318 sector"]
-zillowHomeValueUsd: 261571
 ---
 
-**Engineering Notice for Plantation:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Broward County.
+**Engineering Notice for Plantation:** Shingle, flashing, and ventilation review recorded at 16 ft AMSL context (Broward County).
 
 
-Our Plantation, FL dispatch packets reference county grid Broward County and elevation band 16 ft.
+When wind or hail hits Plantation, FL, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service remediation in Plantation, FL, Broward County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Our Plantation, FL remediation packets reference Broward County and elevation band 16 ft for shingle and leak scope.
 
 Code context: Ventilation ratios for Plantation, FL attics should be checked against current mechanical exhaust additions.
 
-Step: separate emergency tarp scope from permanent remediation line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Low-slope sections in Plantation, FL need positive drainage before membrane repairs are scoped.
 
@@ -30,8 +33,6 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
-
-Field routing: deck sheathing thickness paired with counter-flashing reglet depth near ZIP 33322.
 
 On-site sector marker: Broward County / ZIP 33325 sector — logged for map parity and ZIP-corridor verification.
 

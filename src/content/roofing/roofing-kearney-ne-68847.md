@@ -11,11 +11,14 @@ lng: -99.0800
 zipSample: ["68849", "68845", "68847", "68848"]
 zipCodes: ["68847", "68848", "68849", "68845"]
 localPaths: ["Buffalo County / coords 40.7000, -99.0800", "Buffalo County / ZIP 68847 sector", "Buffalo County / primary ZIP 68847", "Buffalo County / ZIP 68845 sector", "Buffalo County / ZIP 68848 sector"]
-zillowHomeValueUsd: 281722
 ---
 
-**Engineering Notice for Kearney:** Structural loading calculated based on 2165 ft terrain assessment. Regional dispatch grid: Buffalo County.
+**Engineering Notice for Kearney:** Roof repair scope references 2165 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Buffalo County.
 
+
+Emergency roof restoration in Kearney, NE often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Buffalo County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service remediation in Kearney, NE, Buffalo County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: In Kearney, NE, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -25,13 +28,11 @@ Wood shake courses in Kearney, NE require skip-spacing rules at valleys.
 
 Regulatory note: Kearney, NE projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-FAQ: When should permanent restoration start? In Kearney, NE, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent service start? In Kearney, NE, delayed dry-in can expand insulation and ceiling repairs.
 
 Step: compare shingle manufacturer wind-zone ratings for Kearney, NE exposure class.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-roofing service brief: starter-strip setback and attic baffle spacing were cross-checked for the Kearney intake packet.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Primary postal anchor 68847 with multi-ZIP overlap in Kearney; field packets tag Buffalo County for county-grid reconciliation.
 

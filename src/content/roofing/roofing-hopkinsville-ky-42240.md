@@ -11,13 +11,16 @@ lng: -87.4800
 zipSample: ["42241", "42240", "42221"]
 zipCodes: ["42241", "42240", "42221"]
 localPaths: ["Christian County / ZIP 42241 sector", "Christian County / ZIP 42221 sector", "Christian County / primary ZIP 42240", "Christian County / ZIP 42240 sector", "Christian County / elevation 535 ft band"]
-zillowHomeValueUsd: 195558
 ---
 
-**Engineering Notice for Hopkinsville:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Christian County.
+**Engineering Notice for Hopkinsville:** Storm and emergency leak triage uses 535 ft elevation band with Christian County service-area context for roofing repairs.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Storm damage roof work in Hopkinsville, KY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Christian County clarifies whether service or replacement fits the damage pattern.
+
+Qualified roof restoration crews serving Hopkinsville, KY review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -33,7 +36,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field routing: valley metal gauge paired with starter-strip setback near ZIP 42240.
+Local service note: valley metal gauge paired with starter-strip setback near ZIP 42240 for emergency roof work repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 42221/42241/42240.
 

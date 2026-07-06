@@ -11,15 +11,18 @@ lng: -93.6700
 zipSample: ["71172", "71111", "71113", "71171", "71112"]
 zipCodes: ["71111", "71110", "71112", "71172", "71113", "71171"]
 localPaths: ["Bossier Parish / ZIP 71171 sector", "Bossier Parish / ZIP 71172 sector", "Bossier Parish / elevation 167 ft band", "Bossier Parish / primary ZIP 71112", "Bossier Parish / ZIP 71111 sector"]
-zillowHomeValueUsd: 182414
 ---
 
-**Engineering Notice for Bossier City:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Bossier Parish.
+**Engineering Notice for Bossier City:** Roof repair scope references 167 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Bossier Parish.
 
+
+Storm damage roofing service in Bossier City, LA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bossier Parish clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Bossier City, LA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 71112.
 
-FAQ: When should permanent remediation start? In Bossier City, LA, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Bossier City, LA, delayed dry-in can expand insulation and ceiling repairs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -33,9 +36,7 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-Field routing: shingle exposure calibration paired with synthetic underlayment slip near ZIP 71112.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 On-site sector marker: Bossier Parish / coords 32.5200, -93.6700 — logged for map parity and ZIP-corridor verification.
 

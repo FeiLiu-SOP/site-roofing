@@ -11,11 +11,14 @@ lng: -122.1600
 zipSample: ["94622", "94579", "94577", "94578"]
 zipCodes: ["94622", "94577", "94579", "94578"]
 localPaths: ["Alameda County / ZIP 94577 sector", "Alameda County / elevation 20 ft band", "Alameda County / coords 37.7100, -122.1600", "Alameda County / ZIP 94579 sector", "Alameda County / ZIP 94578 sector"]
-zillowHomeValueUsd: 788046
 ---
 
-**Engineering Notice for San Leandro:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for San Leandro:** Roof repair scope references 20 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Alameda County.
 
+
+Emergency roof service in San Leandro, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Alameda County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in San Leandro, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Alameda County clarifies whether service or replacement fits the damage pattern.
 
 Skylight curb flashing in San Leandro, CA should be sequenced before ridge cap replacement.
 
@@ -29,11 +32,9 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Regulatory note: San Leandro, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Our San Leandro, CA dispatch packets reference county grid Alameda County and elevation band 20 ft.
+Our San Leandro, CA service packets reference Alameda County and elevation band 20 ft for shingle and leak scope.
 
-Step: separate emergency tarp scope from permanent service line items.
-
-roofing service brief: chimney cricket slope and deck sheathing thickness were cross-checked for the San Leandro intake packet.
+Step: separate emergency tarp scope from permanent restoration line items.
 
 On-site sector marker: Alameda County / ZIP 94579 sector — logged for map parity and ZIP-corridor verification.
 

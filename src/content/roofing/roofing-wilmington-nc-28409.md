@@ -11,13 +11,16 @@ lng: -77.8900
 zipSample: ["28402", "28401", "28403", "28409", "28405"]
 zipCodes: ["28409", "28405", "28402", "28412", "28403", "28408", "28401", "28406"]
 localPaths: ["New Hanover County / coords 34.2100, -77.8900", "New Hanover County / ZIP 28403 sector", "New Hanover County / ZIP 28401 sector", "New Hanover County / ZIP 28402 sector", "New Hanover County / elevation 36 ft band"]
-zillowHomeValueUsd: 510808
 ---
 
-**Engineering Notice for Wilmington:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: New Hanover County.
+**Engineering Notice for Wilmington:** Storm and emergency leak triage uses 36 ft elevation band with New Hanover County service-area context for roofing repairs.
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+When wind or hail hits Wilmington, NC, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Wilmington, NC often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in New Hanover County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wood shake courses in Wilmington, NC require skip-spacing rules at valleys.
 
@@ -35,9 +38,7 @@ Risk flag: In Wilmington, NC, interior stains may track from HVAC condensate rat
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-roofing service brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Wilmington intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 28405/28412/28409.
+Roof restoration brief: attic baffle spacing and synthetic underlayment slip were cross-checked for the Wilmington shingle and leak scope.
 
 On-site sector marker: New Hanover County / ZIP 28403 sector — logged for map parity and ZIP-corridor verification.
 

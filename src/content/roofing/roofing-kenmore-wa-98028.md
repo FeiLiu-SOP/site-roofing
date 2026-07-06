@@ -11,11 +11,14 @@ lng: -122.2500
 zipSample: ["98028"]
 zipCodes: ["98028"]
 localPaths: ["King County / ZIP 98028 sector", "King County / primary ZIP 98028", "King County / elevation 62 ft band", "King County / coords 47.7500, -122.2500"]
-zillowHomeValueUsd: 1047736
 ---
 
-**Engineering Notice for Kenmore:** Structural loading calculated based on 62 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Kenmore:** Roof repair scope references 62 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in King County.
 
+
+Storm damage roofing service in Kenmore, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in King County clarifies whether restoration or replacement fits the damage pattern.
+
+Licensed roof service crews serving Kenmore, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wind-zone note: Kenmore, WA exposure class can change starter-strip and cap nail schedules.
 
@@ -31,11 +34,9 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-Scope trace: wind uplift clip spacing plus attic baffle spacing referenced in King County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 98028.
+Scope trace: wind uplift clip spacing plus attic baffle spacing referenced in King County storm and leak review.
 
 Regional mesh label King County: moisture and logistics baselines are keyed to Kenmore, WA before niche-specific work begins.
 

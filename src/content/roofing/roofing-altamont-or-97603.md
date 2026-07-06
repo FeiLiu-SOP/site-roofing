@@ -11,11 +11,14 @@ lng: -121.7200
 zipSample: ["97603"]
 zipCodes: ["97603"]
 localPaths: ["Klamath County / coords 42.2000, -121.7200", "Klamath County / primary ZIP 97603", "Klamath County / ZIP 97603 sector", "Klamath County / elevation 4140 ft band"]
-zillowHomeValueUsd: 325569
 ---
 
-**Engineering Notice for Altamont:** Structural loading calculated based on 4140 ft terrain assessment. Regional dispatch grid: Klamath County.
+**Engineering Notice for Altamont:** Storm and emergency leak triage uses 4140 ft elevation band with Klamath County service-area context for roofing repairs.
 
+
+When wind or hail hits Altamont, OR, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Altamont, OR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Klamath County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Wind-zone note: Altamont, OR exposure class can change starter-strip and cap nail schedules.
 
@@ -31,9 +34,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Scope trace: attic baffle spacing plus shingle exposure calibration referenced in Klamath County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 97603.
+Scope trace: attic baffle spacing plus shingle exposure calibration referenced in Klamath County storm and leak review.
 
 ZIP-corridor snapshot for Altamont, OR: sampled sectors include 97603; county routing grid remains Klamath County.
 

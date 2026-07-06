@@ -11,17 +11,20 @@ lng: -118.7500
 zipSample: ["93099", "93062", "93063", "93065", "93094"]
 zipCodes: ["93063", "93094", "93065", "93062", "93099"]
 localPaths: ["Ventura County / ZIP 93065 sector", "Ventura County / ZIP 93062 sector", "Ventura County / ZIP 93094 sector", "Ventura County / ZIP 93063 sector", "Ventura County / ZIP 93099 sector"]
-zillowHomeValueUsd: 843104
 ---
 
-**Engineering Notice for Simi Valley:** Structural loading calculated based on 879 ft terrain assessment. Regional dispatch grid: Ventura County.
+**Engineering Notice for Simi Valley:** Shingle, flashing, and ventilation review recorded at 879 ft AMSL context (Ventura County).
 
+
+Roof service service in Simi Valley, CA, Ventura County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Simi Valley, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Ventura County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Attic ventilation deficits in Simi Valley, CA can mimic roof leaks at ceiling penetrations.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -33,7 +36,7 @@ Tip: Mark skylight curb corners where condensation often masquerades as roof lea
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-Scope trace: drip-edge metal profile plus starter-strip setback referenced in Ventura County county grid review.
+Scope trace: drip-edge metal profile plus starter-strip setback referenced in Ventura County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 93099/93062/93063.
 

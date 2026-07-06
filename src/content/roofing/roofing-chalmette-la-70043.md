@@ -11,11 +11,14 @@ lng: -89.9700
 zipSample: ["70032", "70044", "70043"]
 zipCodes: ["70032", "70044", "70043"]
 localPaths: ["St. Bernard Parish / ZIP 70032 sector", "St. Bernard Parish / elevation 20 ft band", "St. Bernard Parish / ZIP 70043 sector", "St. Bernard Parish / primary ZIP 70043", "St. Bernard Parish / coords 29.9400, -89.9700"]
-zillowHomeValueUsd: 207638
 ---
 
-**Engineering Notice for Chalmette:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: St. Bernard Parish.
+**Engineering Notice for Chalmette:** Shingle, flashing, and ventilation review recorded at 20 ft AMSL context (St. Bernard Parish).
 
+
+Licensed roof remediation crews serving Chalmette, LA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Chalmette, LA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in St. Bernard Parish should photograph ceiling stains and attic wet spots before crews arrive.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -34,8 +37,6 @@ We coordinate Chalmette, LA roof reviews with photo logs, moisture notes, and re
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
-
-Scope trace: attic baffle spacing plus starter-strip setback referenced in St. Bernard Parish county grid review.
 
 Coordinate-anchored dispatch note: center reference 29.9400, -89.9700 at elevation ~20 ft aligns with St. Bernard Parish intake staging.
 

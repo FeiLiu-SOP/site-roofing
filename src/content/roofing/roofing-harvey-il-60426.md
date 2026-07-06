@@ -11,13 +11,16 @@ lng: -87.6500
 zipSample: ["60426"]
 zipCodes: ["60426"]
 localPaths: ["Cook County / elevation 614 ft band", "Cook County / ZIP 60426 sector", "Cook County / coords 41.6100, -87.6500", "Cook County / primary ZIP 60426"]
-zillowHomeValueUsd: 101388
 ---
 
-**Engineering Notice for Harvey:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Harvey:** Shingle, flashing, and ventilation review recorded at 614 ft AMSL context (Cook County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Roofing service restoration in Harvey, IL, Cook County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Harvey, IL, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -30,8 +33,6 @@ Code context: Ventilation ratios for Harvey, IL attics should be checked against
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
 Valley metal in Harvey, IL should be reviewed whenever granule loss tracks the water line.
-
-Field routing: starter-strip setback paired with chimney cricket slope near ZIP 60426.
 
 On-site sector marker: Cook County / ZIP 60426 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -84.2700
 zipSample: ["30022", "30005", "30023", "30004", "30009"]
 zipCodes: ["30005", "30009", "30023", "30022", "30004"]
 localPaths: ["Fulton County / ZIP 30005 sector", "Fulton County / ZIP 30009 sector", "Fulton County / primary ZIP 30022", "Fulton County / ZIP 30004 sector", "Fulton County / ZIP 30023 sector"]
-zillowHomeValueUsd: 678085
 ---
 
-**Engineering Notice for Alpharetta:** Structural loading calculated based on 1093 ft terrain assessment. Regional dispatch grid: Fulton County.
+**Engineering Notice for Alpharetta:** Storm and emergency leak triage uses 1093 ft elevation band with Fulton County service-area context for roofing repairs.
 
+
+Roofing service restoration in Alpharetta, GA, Fulton County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof restoration crews serving Alpharetta, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Valley metal in Alpharetta, GA should be reviewed whenever granule loss tracks the water line.
 
@@ -35,9 +38,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Material note: In Alpharetta, GA, algae-resistant granules may be specified for north-facing slopes.
 
-Scope trace: soffit intake free area plus starter-strip setback referenced in Fulton County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 30005/30009/30022.
+Scope trace: soffit intake free area plus starter-strip setback referenced in Fulton County storm and leak review.
 
 Regional mesh label Fulton County: moisture and logistics baselines are keyed to Alpharetta, GA before niche-specific work begins.
 

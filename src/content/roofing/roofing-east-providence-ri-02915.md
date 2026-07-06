@@ -11,17 +11,20 @@ lng: -71.3600
 zipSample: ["02916", "02914", "02915"]
 zipCodes: ["02914", "02916", "02915"]
 localPaths: ["Providence County / ZIP 02916 sector", "Providence County / ZIP 02914 sector", "Providence County / ZIP 02915 sector", "Providence County / primary ZIP 02915", "Providence County / coords 41.8100, -71.3600"]
-zillowHomeValueUsd: 437780
 ---
 
-**Engineering Notice for East Providence:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Providence County.
+**Engineering Notice for East Providence:** Roof repair scope references 92 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Providence County.
 
+
+Certified roof restoration crews serving East Providence, RI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in East Providence, RI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Providence County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Parapet coping movement in East Providence, RI can channel water behind wall cladding.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: map ventilation intake and exhaust pairs for East Providence, RI attic runs.
 
@@ -35,9 +38,7 @@ Wind-zone note: East Providence, RI exposure class can change starter-strip and 
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Field routing: skylight curb height paired with attic baffle spacing near ZIP 02915.
-
-Field note: Valley debris and granule loss noted for ZIP 02915/02914/02916.
+Local service note: skylight curb height paired with attic baffle spacing near ZIP 02915 for emergency roof work repairs.
 
 Coordinate-anchored dispatch note: center reference 41.8100, -71.3600 at elevation ~92 ft aligns with Providence County intake staging.
 

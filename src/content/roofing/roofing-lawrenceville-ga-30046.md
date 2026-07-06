@@ -11,17 +11,20 @@ lng: -83.9900
 zipSample: ["30046", "30049"]
 zipCodes: ["30049", "30046"]
 localPaths: ["Gwinnett County / elevation 1083 ft band", "Gwinnett County / ZIP 30046 sector", "Gwinnett County / primary ZIP 30046", "Gwinnett County / coords 33.9500, -83.9900", "Gwinnett County / ZIP 30049 sector"]
-zillowHomeValueUsd: 345118
 ---
 
-**Engineering Notice for Lawrenceville:** Structural loading calculated based on 1083 ft terrain assessment. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Lawrenceville:** Shingle, flashing, and ventilation review recorded at 1083 ft AMSL context (Gwinnett County).
 
+
+Certified roof remediation crews serving Lawrenceville, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Lawrenceville, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Gwinnett County clarifies whether service or replacement fits the damage pattern.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 FAQ: How long can shingles wait after storm damage? In Lawrenceville, GA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -31,9 +34,7 @@ Code context: Ventilation ratios for Lawrenceville, GA attics should be checked 
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-roof service brief: counter-flashing reglet depth and attic baffle spacing were cross-checked for the Lawrenceville intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 30046/30049.
+Roof restoration brief: counter-flashing reglet depth and attic baffle spacing were cross-checked for the Lawrenceville shingle and leak scope.
 
 On-site sector marker: Gwinnett County / coords 33.9500, -83.9900 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -122.2600
 zipSample: ["98087", "98204"]
 zipCodes: ["98204", "98087"]
 localPaths: ["Snohomish County / ZIP 98204 sector", "Snohomish County / primary ZIP 98087", "Snohomish County / elevation 486 ft band", "Snohomish County / coords 47.8700, -122.2600", "Snohomish County / ZIP 98087 sector"]
-zillowHomeValueUsd: 751119
 ---
 
-**Engineering Notice for Lake Stickney:** Structural loading calculated based on 486 ft terrain assessment. Regional dispatch grid: Snohomish County.
+**Engineering Notice for Lake Stickney:** Roof repair scope references 486 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Snohomish County.
 
+
+Licensed roof restoration crews serving Lake Stickney, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Lake Stickney, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Snohomish County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: In Lake Stickney, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -33,7 +36,7 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-roof service brief: soffit intake free area and shingle exposure calibration were cross-checked for the Lake Stickney intake packet.
+Roof restoration brief: soffit intake free area and shingle exposure calibration were cross-checked for the Lake Stickney shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 98204/98087.
 

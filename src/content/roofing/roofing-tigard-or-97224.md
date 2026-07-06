@@ -11,11 +11,14 @@ lng: -122.7800
 zipSample: ["97281", "97224", "97223"]
 zipCodes: ["97224", "97223", "97281"]
 localPaths: ["Washington County / primary ZIP 97224", "Washington County / ZIP 97223 sector", "Washington County / elevation 230 ft band", "Washington County / coords 45.4200, -122.7800", "Washington County / ZIP 97281 sector"]
-zillowHomeValueUsd: 607963
 ---
 
-**Engineering Notice for Tigard:** Structural loading calculated based on 230 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Tigard:** Roof repair scope references 230 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Washington County.
 
+
+When wind or hail hits Tigard, OR, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Tigard, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Washington County clarifies whether remediation or replacement fits the damage pattern.
 
 Step: log deck soundings near vents before tear-off is approved.
 
@@ -23,7 +26,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Wood shake courses in Tigard, OR require skip-spacing rules at valleys.
 
-Our Tigard, OR dispatch packets reference county grid Washington County and elevation band 230 ft.
+Our Tigard, OR remediation packets reference Washington County and elevation band 230 ft for shingle and leak scope.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -32,8 +35,6 @@ Code context: Ventilation ratios for Tigard, OR attics should be checked against
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-roof work brief: chimney cricket slope and ridge cap nail schedule were cross-checked for the Tigard intake packet.
 
 Regional mesh label Washington County: moisture and logistics baselines are keyed to Tigard, OR before niche-specific work begins.
 

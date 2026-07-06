@@ -11,11 +11,14 @@ lng: -76.9900
 zipSample: ["20903", "20904", "20901"]
 zipCodes: ["20901", "20904", "20903"]
 localPaths: ["Montgomery County / primary ZIP 20904", "Montgomery County / coords 39.0500, -76.9900", "Montgomery County / elevation 404 ft band", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20901 sector"]
-zillowHomeValueUsd: 592842
 ---
 
-**Engineering Notice for White Oak:** Structural loading calculated based on 404 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for White Oak:** Roof repair scope references 404 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Montgomery County.
 
+
+Roofing service service in White Oak, MD, Montgomery County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in White Oak, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Montgomery County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -35,9 +38,7 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 We coordinate White Oak, MD roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Field routing: deck sheathing thickness paired with synthetic underlayment slip near ZIP 20904.
-
-Field note: Valley debris and granule loss noted for ZIP 20903/20901/20904.
+Local service note: deck sheathing thickness paired with synthetic underlayment slip near ZIP 20904 for emergency roof work repairs.
 
 On-site sector marker: Montgomery County / elevation 404 ft band — logged for map parity and ZIP-corridor verification.
 

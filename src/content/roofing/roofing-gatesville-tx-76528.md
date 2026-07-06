@@ -11,15 +11,18 @@ lng: -97.7300
 zipSample: ["76599", "76528", "76596", "76598", "76597"]
 zipCodes: ["76528", "76599", "76596", "76598", "76597"]
 localPaths: ["Coryell County / elevation 801 ft band", "Coryell County / ZIP 76528 sector", "Coryell County / coords 31.4400, -97.7300", "Coryell County / ZIP 76597 sector", "Coryell County / ZIP 76599 sector"]
-zillowHomeValueUsd: 243070
 ---
 
-**Engineering Notice for Gatesville:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: Coryell County.
+**Engineering Notice for Gatesville:** Storm and emergency leak triage uses 801 ft elevation band with Coryell County service-area context for roofing repairs.
 
+
+Emergency roof service in Gatesville, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Coryell County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Gatesville, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Coryell County clarifies whether restoration or replacement fits the damage pattern.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Granule embedment loss on Gatesville, TX north slopes can precede mat exposure.
 
@@ -35,7 +38,7 @@ Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-Scope trace: chimney cricket slope plus valley metal gauge referenced in Coryell County county grid review.
+Scope trace: chimney cricket slope plus valley metal gauge referenced in Coryell County storm and leak review.
 
 On-site sector marker: Coryell County / coords 31.4400, -97.7300 — logged for map parity and ZIP-corridor verification.
 

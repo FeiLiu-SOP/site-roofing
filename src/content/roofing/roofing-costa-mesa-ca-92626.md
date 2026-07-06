@@ -11,11 +11,14 @@ lng: -117.9100
 zipSample: ["92627", "92628", "92626"]
 zipCodes: ["92628", "92626", "92627"]
 localPaths: ["Orange County / ZIP 92627 sector", "Orange County / primary ZIP 92626", "Orange County / ZIP 92628 sector", "Orange County / ZIP 92626 sector", "Orange County / coords 33.6700, -117.9100"]
-zillowHomeValueUsd: 1442419
 ---
 
-**Engineering Notice for Costa Mesa:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Costa Mesa:** Storm and emergency leak triage uses 75 ft elevation band with Orange County service-area context for roofing repairs.
 
+
+When wind or hail hits Costa Mesa, CA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Licensed roof restoration crews serving Costa Mesa, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wood shake courses in Costa Mesa, CA require skip-spacing rules at valleys.
 
@@ -25,19 +28,17 @@ Step: note chimney cricket geometry before counter-flashing removal.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for Costa Mesa, CA attics should be checked against current mechanical exhaust additions.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: When should permanent service start? In Costa Mesa, CA, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Costa Mesa, CA, delayed dry-in can expand insulation and ceiling repairs.
 
 Material note: In Costa Mesa, CA, algae-resistant granules may be specified for north-facing slopes.
 
-Scope trace: shingle exposure calibration plus attic baffle spacing referenced in Orange County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 92627/92626/92628.
+Scope trace: shingle exposure calibration plus attic baffle spacing referenced in Orange County storm and leak review.
 
 On-site sector marker: Orange County / ZIP 92628 sector — logged for map parity and ZIP-corridor verification.
 

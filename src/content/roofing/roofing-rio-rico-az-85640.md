@@ -11,11 +11,14 @@ lng: -110.9900
 zipSample: ["85640", "85648"]
 zipCodes: ["85648", "85640"]
 localPaths: ["Santa Cruz County / ZIP 85648 sector", "Santa Cruz County / ZIP 85640 sector", "Santa Cruz County / coords 31.5000, -110.9900", "Santa Cruz County / primary ZIP 85640", "Santa Cruz County / elevation 3461 ft band"]
-zillowHomeValueUsd: 408350
 ---
 
-**Engineering Notice for Rio Rico:** Structural loading calculated based on 3461 ft terrain assessment. Regional dispatch grid: Santa Cruz County.
+**Engineering Notice for Rio Rico:** Shingle, flashing, and ventilation review recorded at 3461 ft AMSL context (Santa Cruz County).
 
+
+Licensed roof remediation crews serving Rio Rico, AZ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Rio Rico, AZ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Santa Cruz County clarifies whether service or replacement fits the damage pattern.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -31,11 +34,11 @@ Freeze-thaw cycles around Rio Rico, AZ stress nail pops along eaves and rake edg
 
 Hail bruising on Rio Rico, AZ ridges may not breach felt until the next wind event.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 FAQ: Can you tarp only part of the roof? In Rio Rico, AZ, yes—if slope and anchor points support safe tie-offs.
 
-roofing service brief: wind uplift clip spacing and chimney cricket slope were cross-checked for the Rio Rico intake packet.
+Roof restoration brief: wind uplift clip spacing and chimney cricket slope were cross-checked for the Rio Rico shingle and leak scope.
 
 On-site sector marker: Santa Cruz County / elevation 3461 ft band — logged for map parity and ZIP-corridor verification.
 

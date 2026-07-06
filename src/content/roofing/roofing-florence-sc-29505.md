@@ -11,11 +11,14 @@ lng: -79.7900
 zipSample: ["29506", "29503", "29505", "29502", "29504"]
 zipCodes: ["29503", "29502", "29505", "29501", "29506", "29504"]
 localPaths: ["Florence County / ZIP 29503 sector", "Florence County / ZIP 29504 sector", "Florence County / coords 34.1800, -79.7900", "Florence County / primary ZIP 29505", "Florence County / ZIP 29506 sector"]
-zillowHomeValueUsd: 230690
 ---
 
-**Engineering Notice for Florence:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Florence County.
+**Engineering Notice for Florence:** Roof repair scope references 125 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Florence County.
 
+
+Roof service service in Florence, SC, Florence County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Florence, SC, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -31,9 +34,9 @@ Step: compare shingle manufacturer wind-zone ratings for Florence, SC exposure c
 
 Regulatory note: Florence, SC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roof service brief: drip-edge metal profile and ice-barrier lap sequence were cross-checked for the Florence intake packet.
+Roof service brief: drip-edge metal profile and ice-barrier lap sequence were cross-checked for the Florence shingle and leak scope.
 
 On-site sector marker: Florence County / ZIP 29506 sector — logged for map parity and ZIP-corridor verification.
 

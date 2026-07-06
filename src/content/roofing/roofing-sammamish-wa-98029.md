@@ -11,15 +11,18 @@ lng: -122.0400
 zipSample: ["98075", "98074", "98029"]
 zipCodes: ["98074", "98029", "98075"]
 localPaths: ["King County / ZIP 98029 sector", "King County / coords 47.6000, -122.0400", "King County / primary ZIP 98029", "King County / elevation 397 ft band", "King County / ZIP 98075 sector"]
-zillowHomeValueUsd: 1195279
 ---
 
-**Engineering Notice for Sammamish:** Structural loading calculated based on 397 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Sammamish:** Shingle, flashing, and ventilation review recorded at 397 ft AMSL context (King County).
 
+
+Storm damage roofing service in Sammamish, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in King County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof service in Sammamish, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in King County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Our Sammamish, WA dispatch packets reference county grid King County and elevation band 397 ft.
+Our Sammamish, WA remediation packets reference King County and elevation band 397 ft for shingle and leak scope.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 98029.
 
@@ -31,7 +34,7 @@ TPO seam welds in Sammamish, WA commercial sections need probe tests after freez
 
 Regulatory note: Sammamish, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field routing: wind uplift clip spacing paired with pipe boot manufacturer match near ZIP 98029.
+Local service note: wind uplift clip spacing paired with pipe boot manufacturer match near ZIP 98029 for emergency roofing service repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 98074/98075/98029.
 

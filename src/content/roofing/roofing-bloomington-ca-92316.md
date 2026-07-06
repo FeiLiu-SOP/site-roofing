@@ -11,11 +11,14 @@ lng: -117.4000
 zipSample: ["92316"]
 zipCodes: ["92316"]
 localPaths: ["San Bernardino County / ZIP 92316 sector", "San Bernardino County / coords 34.0600, -117.4000", "San Bernardino County / primary ZIP 92316", "San Bernardino County / elevation 1070 ft band"]
-zillowHomeValueUsd: 564835
 ---
 
-**Engineering Notice for Bloomington:** Structural loading calculated based on 1070 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for Bloomington:** Roof repair scope references 1070 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in San Bernardino County.
 
+
+Roof work service in Bloomington, CA, San Bernardino County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof service crews serving Bloomington, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -30,8 +33,6 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 Code context: Ventilation ratios for Bloomington, CA attics should be checked against current mechanical exhaust additions.
 
 Hail bruising on Bloomington, CA ridges may not breach felt until the next wind event.
-
-Field routing: soffit intake free area paired with drip-edge metal profile near ZIP 92316.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~1070 ft across the San Bernardino County area. Coordinates: 34.0600, -117.4000. ZIP sample: 92316. Service perimeter note: Coverage extends through San Bernardino County with dispatch centered near ZIP 92316.
 

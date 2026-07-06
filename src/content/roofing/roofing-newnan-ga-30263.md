@@ -11,11 +11,14 @@ lng: -84.7800
 zipSample: ["30271", "30264", "30265", "30263"]
 zipCodes: ["30263", "30264", "30271", "30265"]
 localPaths: ["Coweta County / coords 33.3800, -84.7800", "Coweta County / elevation 945 ft band", "Coweta County / ZIP 30263 sector", "Coweta County / ZIP 30265 sector", "Coweta County / primary ZIP 30263"]
-zillowHomeValueUsd: 336226
 ---
 
-**Engineering Notice for Newnan:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Coweta County.
+**Engineering Notice for Newnan:** Storm and emergency leak triage uses 945 ft elevation band with Coweta County service-area context for roofing repairs.
 
+
+Certified roof remediation crews serving Newnan, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Newnan, GA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Coweta County should photograph ceiling stains and attic wet spots before crews arrive.
 
 FAQ: Can you tarp only part of the roof? In Newnan, GA, yes—if slope and anchor points support safe tie-offs.
 
@@ -27,11 +30,11 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for Newnan, GA attics should be checked against current mechanical exhaust additions.
 
-roofing service brief: pipe boot manufacturer match and drip-edge metal profile were cross-checked for the Newnan intake packet.
+Roof remediation brief: pipe boot manufacturer match and drip-edge metal profile were cross-checked for the Newnan shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 33.3800, -84.7800 at elevation ~945 ft aligns with Coweta County intake staging.
 

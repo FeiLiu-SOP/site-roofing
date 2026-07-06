@@ -11,13 +11,16 @@ lng: -122.9700
 zipSample: ["97317", "97301"]
 zipCodes: ["97317", "97301"]
 localPaths: ["Marion County / primary ZIP 97301", "Marion County / coords 44.9300, -122.9700", "Marion County / ZIP 97317 sector", "Marion County / elevation 226 ft band", "Marion County / ZIP 97301 sector"]
-zillowHomeValueUsd: 370488
 ---
 
-**Engineering Notice for Four Corners:** Structural loading calculated based on 226 ft terrain assessment. Regional dispatch grid: Marion County.
+**Engineering Notice for Four Corners:** Roof repair scope references 226 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Marion County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Qualified roof restoration crews serving Four Corners, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Four Corners, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Marion County clarifies whether service or replacement fits the damage pattern.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -35,9 +38,7 @@ Valley metal in Four Corners, OR should be reviewed whenever granule loss tracks
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-roof work brief: shingle exposure calibration and soffit intake free area were cross-checked for the Four Corners intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 97301/97317.
+Roof restoration brief: shingle exposure calibration and soffit intake free area were cross-checked for the Four Corners shingle and leak scope.
 
 On-site sector marker: Marion County / ZIP 97301 sector — logged for map parity and ZIP-corridor verification.
 

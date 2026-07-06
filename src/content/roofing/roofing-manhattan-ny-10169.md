@@ -11,12 +11,14 @@ lng: -73.9700
 zipSample: ["10126", "10037", "10033", "10038", "10213"]
 zipCodes: ["10110", "10177", "10002", "10286", "10039", "10075", "10017", "10033", "10249", "10106", "10242", "10279"]
 localPaths: ["New York County / ZIP 10213 sector", "New York County / ZIP 10037 sector", "New York County / ZIP 10126 sector", "New York County / ZIP 10038 sector", "New York County / ZIP 10033 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 504385
 ---
 
-**Engineering Notice for Manhattan:** Structural loading calculated based on 128 ft terrain assessment. Regional dispatch grid: New York County.
+**Engineering Notice for Manhattan:** Shingle, flashing, and ventilation review recorded at 128 ft AMSL context (New York County).
 
+
+Roof work remediation in Manhattan, NY, New York County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Manhattan, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in New York County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Wind-zone note: Manhattan, NY exposure class can change starter-strip and cap nail schedules.
 
@@ -28,11 +30,11 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Skylight curb flashing in Manhattan, NY should be sequenced before ridge cap replacement.
 
-roof work brief: attic baffle spacing and chimney cricket slope were cross-checked for the Manhattan intake packet.
+Roof service brief: attic baffle spacing and chimney cricket slope were cross-checked for the Manhattan shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 10160/10159/10249.
 

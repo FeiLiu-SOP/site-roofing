@@ -11,11 +11,14 @@ lng: -97.1800
 zipSample: ["76053", "76054"]
 zipCodes: ["76053", "76054"]
 localPaths: ["Tarrant County / ZIP 76053 sector", "Tarrant County / ZIP 76054 sector", "Tarrant County / coords 32.8400, -97.1800", "Tarrant County / primary ZIP 76054", "Tarrant County / elevation 591 ft band"]
-zillowHomeValueUsd: 420980
 ---
 
-**Engineering Notice for Hurst:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Hurst:** Roof repair scope references 591 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Tarrant County.
 
+
+Certified roof restoration crews serving Hurst, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Hurst, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Tarrant County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -33,9 +36,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Risk flag: In Hurst, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-Scope trace: synthetic underlayment slip plus valley metal gauge referenced in Tarrant County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 76054/76053.
+Scope trace: synthetic underlayment slip plus valley metal gauge referenced in Tarrant County storm and leak review.
 
 ZIP-corridor snapshot for Hurst, TX: sampled sectors include 76054, 76053; county routing grid remains Tarrant County.
 

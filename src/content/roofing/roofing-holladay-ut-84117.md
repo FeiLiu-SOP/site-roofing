@@ -11,11 +11,14 @@ lng: -111.8200
 zipSample: ["84121", "84124", "84117"]
 zipCodes: ["84124", "84117", "84121"]
 localPaths: ["Salt Lake County / elevation 4452 ft band", "Salt Lake County / coords 40.6600, -111.8200", "Salt Lake County / ZIP 84117 sector", "Salt Lake County / ZIP 84124 sector", "Salt Lake County / primary ZIP 84117"]
-zillowHomeValueUsd: 694538
 ---
 
-**Engineering Notice for Holladay:** Structural loading calculated based on 4452 ft terrain assessment. Regional dispatch grid: Salt Lake County.
+**Engineering Notice for Holladay:** Storm and emergency leak triage uses 4452 ft elevation band with Salt Lake County service-area context for roofing repairs.
 
+
+Roof work restoration in Holladay, UT, Salt Lake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof restoration crews serving Holladay, UT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Across Holladay, UT, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -33,9 +36,9 @@ Material note: In Holladay, UT, algae-resistant granules may be specified for no
 
 Step: log deck soundings near vents before tear-off is approved.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field routing: ice-barrier lap sequence paired with starter-strip setback near ZIP 84117.
+Local service note: ice-barrier lap sequence paired with starter-strip setback near ZIP 84117 for emergency roofing service repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 84121/84124/84117.
 

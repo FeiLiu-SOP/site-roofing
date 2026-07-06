@@ -11,11 +11,14 @@ lng: -84.4000
 zipSample: ["48840", "48823"]
 zipCodes: ["48840", "48823"]
 localPaths: ["Ingham County / elevation 846 ft band", "Ingham County / ZIP 48823 sector", "Ingham County / ZIP 48840 sector", "Ingham County / coords 42.7500, -84.4000", "Ingham County / primary ZIP 48840"]
-zillowHomeValueUsd: 305871
 ---
 
-**Engineering Notice for Haslett:** Structural loading calculated based on 846 ft terrain assessment. Regional dispatch grid: Ingham County.
+**Engineering Notice for Haslett:** Storm and emergency leak triage uses 846 ft elevation band with Ingham County service-area context for roofing repairs.
 
+
+Storm damage roof service in Haslett, MI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Ingham County clarifies whether restoration or replacement fits the damage pattern.
+
+Licensed roof restoration crews serving Haslett, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Can you tarp only part of the roof? In Haslett, MI, yes—if slope and anchor points support safe tie-offs.
 
@@ -33,9 +36,7 @@ We coordinate Haslett, MI roof reviews with photo logs, moisture notes, and real
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Scope trace: skylight curb height plus shingle exposure calibration referenced in Ingham County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 48823/48840.
+Scope trace: skylight curb height plus shingle exposure calibration referenced in Ingham County storm and leak review.
 
 On-site sector marker: Ingham County / ZIP 48823 sector — logged for map parity and ZIP-corridor verification.
 

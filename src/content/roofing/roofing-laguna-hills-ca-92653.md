@@ -11,11 +11,14 @@ lng: -117.7000
 zipSample: ["92653"]
 zipCodes: ["92653"]
 localPaths: ["Orange County / coords 33.5900, -117.7000", "Orange County / primary ZIP 92653", "Orange County / elevation 308 ft band", "Orange County / ZIP 92653 sector"]
-zillowHomeValueUsd: 1291198
 ---
 
-**Engineering Notice for Laguna Hills:** Structural loading calculated based on 308 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Laguna Hills:** Shingle, flashing, and ventilation review recorded at 308 ft AMSL context (Orange County).
 
+
+Storm damage roofing service in Laguna Hills, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Orange County clarifies whether service or replacement fits the damage pattern.
+
+Roof service restoration in Laguna Hills, CA, Orange County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: In Laguna Hills, CA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -35,7 +38,7 @@ Granule embedment loss on Laguna Hills, CA north slopes can precede mat exposure
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-roofing service brief: deck sheathing thickness and skylight curb height were cross-checked for the Laguna Hills intake packet.
+Roof remediation brief: deck sheathing thickness and skylight curb height were cross-checked for the Laguna Hills shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 92653.
 

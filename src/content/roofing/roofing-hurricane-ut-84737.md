@@ -11,11 +11,14 @@ lng: -113.3500
 zipSample: ["84737"]
 zipCodes: ["84737"]
 localPaths: ["Washington County / primary ZIP 84737", "Washington County / ZIP 84737 sector", "Washington County / elevation 3264 ft band", "Washington County / coords 37.1500, -113.3500"]
-zillowHomeValueUsd: 514700
 ---
 
-**Engineering Notice for Hurricane:** Structural loading calculated based on 3264 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Hurricane:** Shingle, flashing, and ventilation review recorded at 3264 ft AMSL context (Washington County).
 
+
+Roofing service service in Hurricane, UT, Washington County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Hurricane, UT, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: In Hurricane, UT, algae-resistant granules may be specified for north-facing slopes.
 
@@ -29,13 +32,11 @@ Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 84737.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 FAQ: How long can shingles wait after storm damage? In Hurricane, UT, delayed dry-in can expand insulation and ceiling repairs.
 
 Low-slope sections in Hurricane, UT need positive drainage before membrane repairs are scoped.
-
-Field routing: counter-flashing reglet depth paired with synthetic underlayment slip near ZIP 84737.
 
 ZIP-corridor snapshot for Hurricane, UT: sampled sectors include 84737; county routing grid remains Washington County.
 

@@ -11,11 +11,14 @@ lng: -80.1100
 zipSample: ["33468", "33458", "33477"]
 zipCodes: ["33477", "33468", "33458"]
 localPaths: ["Palm Beach County / primary ZIP 33477", "Palm Beach County / elevation 23 ft band", "Palm Beach County / ZIP 33477 sector", "Palm Beach County / ZIP 33468 sector", "Palm Beach County / coords 26.9200, -80.1100"]
-zillowHomeValueUsd: 676978
 ---
 
-**Engineering Notice for Jupiter:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Jupiter:** Shingle, flashing, and ventilation review recorded at 23 ft AMSL context (Palm Beach County).
 
+
+Roof service restoration in Jupiter, FL, Palm Beach County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Jupiter, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Palm Beach County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -29,13 +32,11 @@ Across Jupiter, FL, ice-dam seasons often begin with clogged gutters rather than
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
-
-Scope trace: skylight curb height plus synthetic underlayment slip referenced in Palm Beach County county grid review.
 
 On-site sector marker: Palm Beach County / primary ZIP 33477 — logged for map parity and ZIP-corridor verification.
 

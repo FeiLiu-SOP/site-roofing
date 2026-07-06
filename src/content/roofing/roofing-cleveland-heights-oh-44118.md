@@ -11,13 +11,16 @@ lng: -81.5600
 zipSample: ["44106", "44121", "44112", "44118"]
 zipCodes: ["44121", "44106", "44112", "44118"]
 localPaths: ["Cuyahoga County / ZIP 44121 sector", "Cuyahoga County / primary ZIP 44118", "Cuyahoga County / elevation 928 ft band", "Cuyahoga County / ZIP 44118 sector", "Cuyahoga County / ZIP 44112 sector"]
-zillowHomeValueUsd: 242262
 ---
 
-**Engineering Notice for Cleveland Heights:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Cuyahoga County.
+**Engineering Notice for Cleveland Heights:** Storm and emergency leak triage uses 928 ft elevation band with Cuyahoga County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Emergency roof restoration in Cleveland Heights, OH often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cuyahoga County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof restoration crews serving Cleveland Heights, OH review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: How long can shingles wait after storm damage? In Cleveland Heights, OH, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -32,8 +35,6 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 Step: confirm drip-edge continuity before shingle courses restart.
 
 Regulatory note: Cleveland Heights, OH projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
-
-Scope trace: counter-flashing reglet depth plus starter-strip setback referenced in Cuyahoga County county grid review.
 
 On-site sector marker: Cuyahoga County / ZIP 44112 sector — logged for map parity and ZIP-corridor verification.
 

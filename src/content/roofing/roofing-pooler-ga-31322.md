@@ -11,17 +11,20 @@ lng: -81.2600
 zipSample: ["31322"]
 zipCodes: ["31322"]
 localPaths: ["Chatham County / coords 32.1000, -81.2600", "Chatham County / elevation 26 ft band", "Chatham County / primary ZIP 31322", "Chatham County / ZIP 31322 sector"]
-zillowHomeValueUsd: 344667
 ---
 
-**Engineering Notice for Pooler:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Chatham County.
+**Engineering Notice for Pooler:** Roof repair scope references 26 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Chatham County.
 
+
+Roofing service restoration in Pooler, GA, Chatham County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof remediation crews serving Pooler, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
 Step: compare shingle manufacturer wind-zone ratings for Pooler, GA exposure class.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 In Pooler, GA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -35,7 +38,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Chatham County county grid review.
+Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Chatham County storm and leak review.
 
 ZIP-corridor snapshot for Pooler, GA: sampled sectors include 31322; county routing grid remains Chatham County.
 

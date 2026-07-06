@@ -11,15 +11,18 @@ lng: -87.5000
 zipSample: ["42431"]
 zipCodes: ["42431"]
 localPaths: ["Hopkins County / ZIP 42431 sector", "Hopkins County / primary ZIP 42431", "Hopkins County / elevation 482 ft band", "Hopkins County / coords 37.3400, -87.5000"]
-zillowHomeValueUsd: 160962
 ---
 
-**Engineering Notice for Madisonville:** Structural loading calculated based on 482 ft terrain assessment. Regional dispatch grid: Hopkins County.
+**Engineering Notice for Madisonville:** Shingle, flashing, and ventilation review recorded at 482 ft AMSL context (Hopkins County).
 
+
+Roof service remediation in Madisonville, KY, Hopkins County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Madisonville, KY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hopkins County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Note recent wind events when filing insurance photos for Madisonville, KY.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -33,9 +36,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Synthetic underlayment slip in Madisonville, KY is often tied to deck moisture, not wind alone.
 
-roof service brief: counter-flashing reglet depth and starter-strip setback were cross-checked for the Madisonville intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 42431.
+Roof remediation brief: counter-flashing reglet depth and starter-strip setback were cross-checked for the Madisonville shingle and leak scope.
 
 On-site sector marker: Hopkins County / elevation 482 ft band — logged for map parity and ZIP-corridor verification.
 

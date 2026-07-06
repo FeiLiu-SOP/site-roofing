@@ -11,13 +11,16 @@ lng: -98.3300
 zipSample: ["78574", "78572"]
 zipCodes: ["78572", "78574"]
 localPaths: ["Hidalgo County / ZIP 78572 sector", "Hidalgo County / primary ZIP 78574", "Hidalgo County / ZIP 78574 sector", "Hidalgo County / elevation 125 ft band", "Hidalgo County / coords 26.2000, -98.3300"]
-zillowHomeValueUsd: 196802
 ---
 
-**Engineering Notice for Mission:** Structural loading calculated based on 125 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Mission:** Roof repair scope references 125 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Hidalgo County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Licensed roof remediation crews serving Mission, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Mission, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Hidalgo County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Across Mission, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -35,7 +38,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Tip: Note recent wind events when filing insurance photos for Mission, TX.
 
-roof service brief: ice-barrier lap sequence and deck sheathing thickness were cross-checked for the Mission intake packet.
+Roof service brief: ice-barrier lap sequence and deck sheathing thickness were cross-checked for the Mission shingle and leak scope.
 
 Primary postal anchor 78574 with multi-ZIP overlap in Mission; field packets tag Hidalgo County for county-grid reconciliation.
 

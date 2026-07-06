@@ -11,11 +11,14 @@ lng: -84.0000
 zipSample: ["30094", "30013", "30012"]
 zipCodes: ["30094", "30013", "30012"]
 localPaths: ["Rockdale County / ZIP 30012 sector", "Rockdale County / elevation 906 ft band", "Rockdale County / primary ZIP 30013", "Rockdale County / ZIP 30013 sector", "Rockdale County / coords 33.6600, -84.0000"]
-zillowHomeValueUsd: 310207
 ---
 
-**Engineering Notice for Conyers:** Structural loading calculated based on 906 ft terrain assessment. Regional dispatch grid: Rockdale County.
+**Engineering Notice for Conyers:** Roof repair scope references 906 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Rockdale County.
 
+
+Storm damage roof work in Conyers, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Rockdale County clarifies whether restoration or replacement fits the damage pattern.
+
+Certified roof restoration crews serving Conyers, GA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: In Conyers, GA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -35,7 +38,7 @@ We coordinate Conyers, GA roof reviews with photo logs, moisture notes, and real
 
 In Conyers, GA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Scope trace: pipe boot manufacturer match plus synthetic underlayment slip referenced in Rockdale County county grid review.
+Scope trace: pipe boot manufacturer match plus synthetic underlayment slip referenced in Rockdale County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 30094/30013/30012.
 

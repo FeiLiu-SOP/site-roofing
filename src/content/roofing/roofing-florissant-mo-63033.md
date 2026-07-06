@@ -11,11 +11,14 @@ lng: -90.3300
 zipSample: ["63033", "63032", "63031"]
 zipCodes: ["63031", "63032", "63033"]
 localPaths: ["St. Louis County / ZIP 63032 sector", "St. Louis County / ZIP 63033 sector", "St. Louis County / elevation 535 ft band", "St. Louis County / coords 38.8000, -90.3300", "St. Louis County / primary ZIP 63033"]
-zillowHomeValueUsd: 196454
 ---
 
-**Engineering Notice for Florissant:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Florissant:** Shingle, flashing, and ventilation review recorded at 535 ft AMSL context (St. Louis County).
 
+
+Qualified roof remediation crews serving Florissant, MO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Florissant, MO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Louis County clarifies whether restoration or replacement fits the damage pattern.
 
 Wind-zone note: Florissant, MO exposure class can change starter-strip and cap nail schedules.
 
@@ -31,9 +34,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
-
-Scope trace: ice-barrier lap sequence plus soffit intake free area referenced in St. Louis County county grid review.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 **Regional Infrastructure Brief:** Topographical load indicates ~535 ft across the St. Louis County area. Coordinates: 38.8000, -90.3300. ZIP sample: 63033, 63032, 63031. Service perimeter note: Coverage extends through St. Louis County with dispatch centered near ZIP 63033.
 

@@ -11,17 +11,20 @@ lng: -74.2300
 zipSample: ["07008"]
 zipCodes: ["07008"]
 localPaths: ["Middlesex County / primary ZIP 07008", "Middlesex County / elevation 16 ft band", "Middlesex County / coords 40.5800, -74.2300", "Middlesex County / ZIP 07008 sector"]
-zillowHomeValueUsd: 548078
 ---
 
-**Engineering Notice for Carteret:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Middlesex County.
+**Engineering Notice for Carteret:** Shingle, flashing, and ventilation review recorded at 16 ft AMSL context (Middlesex County).
 
+
+Licensed roof restoration crews serving Carteret, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service remediation in Carteret, NJ, Middlesex County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -31,9 +34,7 @@ Across Carteret, NJ, ice-dam seasons often begin with clogged gutters rather tha
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Scope trace: soffit intake free area plus chimney cricket slope referenced in Middlesex County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 07008.
+Scope trace: soffit intake free area plus chimney cricket slope referenced in Middlesex County storm and leak review.
 
 On-site sector marker: Middlesex County / elevation 16 ft band — logged for map parity and ZIP-corridor verification.
 

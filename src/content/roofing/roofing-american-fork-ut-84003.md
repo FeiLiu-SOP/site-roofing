@@ -11,11 +11,14 @@ lng: -111.8000
 zipSample: ["84003"]
 zipCodes: ["84003"]
 localPaths: ["Utah County / ZIP 84003 sector", "Utah County / primary ZIP 84003", "Utah County / coords 40.3800, -111.8000", "Utah County / elevation 4629 ft band"]
-zillowHomeValueUsd: 598758
 ---
 
-**Engineering Notice for American Fork:** Structural loading calculated based on 4629 ft terrain assessment. Regional dispatch grid: Utah County.
+**Engineering Notice for American Fork:** Roof repair scope references 4629 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Utah County.
 
+
+When wind or hail hits American Fork, UT, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof restoration crews serving American Fork, UT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -31,9 +34,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-Field routing: valley metal gauge paired with chimney cricket slope near ZIP 84003.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 ZIP-corridor snapshot for American Fork, UT: sampled sectors include 84003; county routing grid remains Utah County.
 

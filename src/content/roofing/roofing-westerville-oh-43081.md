@@ -11,11 +11,14 @@ lng: -82.9200
 zipSample: ["43081", "43086", "43082"]
 zipCodes: ["43086", "43082", "43081"]
 localPaths: ["Franklin County / ZIP 43082 sector", "Franklin County / ZIP 43086 sector", "Franklin County / coords 40.1200, -82.9200", "Franklin County / primary ZIP 43081", "Franklin County / elevation 883 ft band"]
-zillowHomeValueUsd: 356516
 ---
 
-**Engineering Notice for Westerville:** Structural loading calculated based on 883 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Westerville:** Roof repair scope references 883 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Franklin County.
 
+
+Certified roof service crews serving Westerville, OH review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Westerville, OH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Franklin County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -23,7 +26,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 We coordinate Westerville, OH roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -35,9 +38,7 @@ Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 43081.
 
 Tile and shingle mixes in Westerville, OH require different fastener patterns at transitions.
 
-roof work brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Westerville intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 43086/43081/43082.
+Roof restoration brief: pipe boot manufacturer match and counter-flashing reglet depth were cross-checked for the Westerville shingle and leak scope.
 
 On-site sector marker: Franklin County / ZIP 43081 sector — logged for map parity and ZIP-corridor verification.
 

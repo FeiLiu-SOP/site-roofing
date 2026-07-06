@@ -11,11 +11,14 @@ lng: -90.5800
 zipSample: ["61204", "61201"]
 zipCodes: ["61201", "61204"]
 localPaths: ["Rock Island County / ZIP 61201 sector", "Rock Island County / coords 41.4700, -90.5800", "Rock Island County / elevation 636 ft band", "Rock Island County / ZIP 61204 sector", "Rock Island County / primary ZIP 61201"]
-zillowHomeValueUsd: 122242
 ---
 
-**Engineering Notice for Rock Island:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Rock Island County.
+**Engineering Notice for Rock Island:** Roof repair scope references 636 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Rock Island County.
 
+
+Storm damage roof service in Rock Island, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Rock Island County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof work restoration in Rock Island, IL, Rock Island County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -32,8 +35,6 @@ Parapet coping movement in Rock Island, IL can channel water behind wall claddin
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 We coordinate Rock Island, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
-
-Field routing: wind uplift clip spacing paired with skylight curb height near ZIP 61201.
 
 Coordinate-anchored dispatch note: center reference 41.4700, -90.5800 at elevation ~636 ft aligns with Rock Island County intake staging.
 

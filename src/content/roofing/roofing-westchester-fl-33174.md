@@ -11,13 +11,16 @@ lng: -80.3500
 zipSample: ["33144", "33174", "33155", "33165", "33199"]
 zipCodes: ["33165", "33199", "33174", "33155", "33144"]
 localPaths: ["Miami-Dade County / ZIP 33144 sector", "Miami-Dade County / ZIP 33165 sector", "Miami-Dade County / ZIP 33199 sector", "Miami-Dade County / ZIP 33174 sector", "Miami-Dade County / elevation 33 ft band"]
-zillowHomeValueUsd: 442080
 ---
 
-**Engineering Notice for Westchester:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Miami-Dade County.
+**Engineering Notice for Westchester:** Storm and emergency leak triage uses 33 ft elevation band with Miami-Dade County service-area context for roofing repairs.
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Roof work restoration in Westchester, FL, Miami-Dade County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Westchester, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Miami-Dade County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 FAQ: How long can shingles wait after storm damage? In Westchester, FL, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -32,8 +35,6 @@ Parapet coping movement in Westchester, FL can channel water behind wall claddin
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
 Step: note chimney cricket geometry before counter-flashing removal.
-
-Scope trace: shingle exposure calibration plus wind uplift clip spacing referenced in Miami-Dade County county grid review.
 
 ZIP-corridor snapshot for Westchester, FL: sampled sectors include 33199, 33155, 33144, 33165, 33174; county routing grid remains Miami-Dade County.
 

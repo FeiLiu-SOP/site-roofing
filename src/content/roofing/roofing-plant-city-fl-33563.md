@@ -11,11 +11,14 @@ lng: -82.1200
 zipSample: ["33566", "33563", "33565", "33564"]
 zipCodes: ["33564", "33563", "33566", "33565"]
 localPaths: ["Hillsborough County / coords 28.0100, -82.1200", "Hillsborough County / ZIP 33566 sector", "Hillsborough County / ZIP 33564 sector", "Hillsborough County / primary ZIP 33563", "Hillsborough County / ZIP 33563 sector"]
-zillowHomeValueUsd: 281117
 ---
 
-**Engineering Notice for Plant City:** Structural loading calculated based on 138 ft terrain assessment. Regional dispatch grid: Hillsborough County.
+**Engineering Notice for Plant City:** Storm and emergency leak triage uses 138 ft elevation band with Hillsborough County service-area context for roofing repairs.
 
+
+Qualified roof service crews serving Plant City, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Plant City, FL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: In Plant City, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -29,9 +32,9 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 33563.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-Scope trace: chimney cricket slope plus shingle exposure calibration referenced in Hillsborough County county grid review.
+Scope trace: chimney cricket slope plus shingle exposure calibration referenced in Hillsborough County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 33566/33563/33564.
 

@@ -11,11 +11,14 @@ lng: -73.1400
 zipSample: ["06484"]
 zipCodes: ["06484"]
 localPaths: ["Naugatuck Valley County / elevation 417 ft band", "Naugatuck Valley County / ZIP 06484 sector", "Naugatuck Valley County / primary ZIP 06484", "Naugatuck Valley County / coords 41.3100, -73.1400"]
-zillowHomeValueUsd: 549239
 ---
 
-**Engineering Notice for Shelton:** Structural loading calculated based on 417 ft terrain assessment. Regional dispatch grid: Naugatuck Valley County.
+**Engineering Notice for Shelton:** Roof repair scope references 417 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Naugatuck Valley County.
 
+
+Storm damage roof work in Shelton, CT may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Naugatuck Valley County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof service service in Shelton, CT, Naugatuck Valley County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -31,11 +34,9 @@ Step: map ventilation intake and exhaust pairs for Shelton, CT attic runs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-Field routing: attic baffle spacing paired with ridge cap nail schedule near ZIP 06484.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 06484.
+Local service note: attic baffle spacing paired with ridge cap nail schedule near ZIP 06484 for emergency roof work repairs.
 
 On-site sector marker: Naugatuck Valley County / coords 41.3100, -73.1400 — logged for map parity and ZIP-corridor verification.
 

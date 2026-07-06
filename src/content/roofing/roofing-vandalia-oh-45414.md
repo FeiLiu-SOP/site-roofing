@@ -11,13 +11,16 @@ lng: -84.1900
 zipSample: ["45377", "45414"]
 zipCodes: ["45414", "45377"]
 localPaths: ["Montgomery County / ZIP 45377 sector", "Montgomery County / primary ZIP 45414", "Montgomery County / ZIP 45414 sector", "Montgomery County / elevation 958 ft band", "Montgomery County / coords 39.8800, -84.1900"]
-zillowHomeValueUsd: 180255
 ---
 
-**Engineering Notice for Vandalia:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Vandalia:** Roof repair scope references 958 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Montgomery County.
 
 
-Step: separate emergency tarp scope from permanent service line items.
+Roof work remediation in Vandalia, OH, Montgomery County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Vandalia, OH, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Step: separate emergency tarp scope from permanent restoration line items.
 
 Tip: Note recent wind events when filing insurance photos for Vandalia, OH.
 
@@ -25,15 +28,13 @@ Metal panel oil-canning in Vandalia, OH may signal clip spacing issues, not wind
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: In Vandalia, OH, interior stains may track from HVAC condensate rather than roof cladding.
 
 FAQ: How long can shingles wait after storm damage? In Vandalia, OH, delayed dry-in can expand insulation and ceiling repairs.
 
-Field routing: ice-barrier lap sequence paired with shingle exposure calibration near ZIP 45414.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 45377/45414.
+Local service note: ice-barrier lap sequence paired with shingle exposure calibration near ZIP 45414 for emergency roof service repairs.
 
 On-site sector marker: Montgomery County / elevation 958 ft band — logged for map parity and ZIP-corridor verification.
 

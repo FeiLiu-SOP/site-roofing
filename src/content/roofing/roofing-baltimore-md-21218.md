@@ -11,13 +11,16 @@ lng: -76.6100
 zipSample: ["21226", "21278", "21275", "21287", "21210"]
 zipCodes: ["21278", "21264", "21270", "21263", "21201", "21273", "21287", "21231", "21217", "21298", "21215", "21281"]
 localPaths: ["Baltimore County / primary ZIP 21218", "Baltimore County / ZIP 21226 sector", "Baltimore County / ZIP 21210 sector", "Baltimore County / ZIP 21275 sector", "Baltimore County / coords 39.3100, -76.6100"]
-zillowHomeValueUsd: 185293
 ---
 
-**Engineering Notice for Baltimore:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Baltimore:** Storm and emergency leak triage uses 118 ft elevation band with Baltimore County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Emergency roof remediation in Baltimore, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Baltimore County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof restoration crews serving Baltimore, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Regulatory note: Baltimore, MD projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -32,8 +35,6 @@ Material note: In Baltimore, MD, algae-resistant granules may be specified for n
 Tile and shingle mixes in Baltimore, MD require different fastener patterns at transitions.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
-
-roof work brief: drip-edge metal profile and ice-barrier lap sequence were cross-checked for the Baltimore intake packet.
 
 On-site sector marker: Baltimore County / ZIP 21239 sector — logged for map parity and ZIP-corridor verification.
 

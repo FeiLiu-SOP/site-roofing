@@ -11,15 +11,18 @@ lng: -87.5300
 zipSample: ["47733", "47706", "47736", "47750", "47747"]
 zipCodes: ["47724", "47719", "47735", "47706", "47715", "47702", "47710", "47716", "47737", "47740", "47736", "47708"]
 localPaths: ["Vanderburgh County / primary ZIP 47714", "Vanderburgh County / ZIP 47736 sector", "Vanderburgh County / elevation 400 ft band", "Vanderburgh County / ZIP 47750 sector", "Vanderburgh County / ZIP 47706 sector"]
-zillowHomeValueUsd: 140674
 ---
 
-**Engineering Notice for Evansville:** Structural loading calculated based on 400 ft terrain assessment. Regional dispatch grid: Vanderburgh County.
+**Engineering Notice for Evansville:** Roof repair scope references 400 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Vanderburgh County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Storm damage roof service in Evansville, IN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Vanderburgh County clarifies whether remediation or replacement fits the damage pattern.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Roof service service in Evansville, IN, Vanderburgh County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -35,7 +38,7 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Risk flag: In Evansville, IN, interior stains may track from HVAC condensate rather than roof cladding.
 
-roof service brief: starter-strip setback and wind uplift clip spacing were cross-checked for the Evansville intake packet.
+Roof service brief: starter-strip setback and wind uplift clip spacing were cross-checked for the Evansville shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 47715/47708/47735.
 

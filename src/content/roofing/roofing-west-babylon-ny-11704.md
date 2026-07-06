@@ -11,11 +11,14 @@ lng: -73.3600
 zipSample: ["11704"]
 zipCodes: ["11704"]
 localPaths: ["Suffolk County / ZIP 11704 sector", "Suffolk County / coords 40.7100, -73.3600", "Suffolk County / primary ZIP 11704", "Suffolk County / elevation 39 ft band"]
-zillowHomeValueUsd: 614815
 ---
 
-**Engineering Notice for West Babylon:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for West Babylon:** Roof repair scope references 39 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Suffolk County.
 
+
+Storm damage roof service in West Babylon, NY may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Suffolk County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof work remediation in West Babylon, NY, Suffolk County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -25,13 +28,13 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Synthetic underlayment slip in West Babylon, NY is often tied to deck moisture, not wind alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: map ventilation intake and exhaust pairs for West Babylon, NY attic runs.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Scope trace: pipe boot manufacturer match plus valley metal gauge referenced in Suffolk County county grid review.
+Scope trace: pipe boot manufacturer match plus valley metal gauge referenced in Suffolk County storm and leak review.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Suffolk County and primary ZIP 11704. Terrain reference: 39 ft. Center point: 40.7100, -73.3600. ZIP sample: 11704. Regional routing note: Suffolk County traffic flow is balanced around ZIP 11704 service demand.
 

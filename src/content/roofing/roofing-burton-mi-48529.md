@@ -11,17 +11,20 @@ lng: -83.6200
 zipSample: ["48529", "48519", "48509"]
 zipCodes: ["48529", "48509", "48519"]
 localPaths: ["Genesee County / coords 43.0000, -83.6200", "Genesee County / ZIP 48519 sector", "Genesee County / ZIP 48529 sector", "Genesee County / elevation 781 ft band", "Genesee County / ZIP 48509 sector"]
-zillowHomeValueUsd: 91197
 ---
 
-**Engineering Notice for Burton:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: Genesee County.
+**Engineering Notice for Burton:** Roof repair scope references 781 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Genesee County.
 
+
+When wind or hail hits Burton, MI, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof service in Burton, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Genesee County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -31,9 +34,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Field routing: ridge cap nail schedule paired with starter-strip setback near ZIP 48529.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 48519/48529/48509.
+Local service note: ridge cap nail schedule paired with starter-strip setback near ZIP 48529 for emergency roof service repairs.
 
 On-site sector marker: Genesee County / ZIP 48509 sector — logged for map parity and ZIP-corridor verification.
 

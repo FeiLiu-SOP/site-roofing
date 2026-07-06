@@ -11,11 +11,14 @@ lng: -112.4600
 zipSample: ["83202"]
 zipCodes: ["83202"]
 localPaths: ["Bannock County / ZIP 83202 sector", "Bannock County / primary ZIP 83202", "Bannock County / elevation 4472 ft band", "Bannock County / coords 42.9300, -112.4600"]
-zillowHomeValueUsd: 391626
 ---
 
-**Engineering Notice for Chubbuck:** Structural loading calculated based on 4472 ft terrain assessment. Regional dispatch grid: Bannock County.
+**Engineering Notice for Chubbuck:** Roof repair scope references 4472 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Bannock County.
 
+
+Roof service restoration in Chubbuck, ID, Bannock County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Chubbuck, ID may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bannock County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: Tile underlayment age in Chubbuck, ID can fail independently of visible tile cracks.
 
@@ -27,13 +30,11 @@ Parapet coping movement in Chubbuck, ID can channel water behind wall cladding.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-FAQ: When should permanent service start? In Chubbuck, ID, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Chubbuck, ID, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-roof service brief: valley metal gauge and ice-barrier lap sequence were cross-checked for the Chubbuck intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 83202.
+Roof restoration brief: valley metal gauge and ice-barrier lap sequence were cross-checked for the Chubbuck shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 42.9300, -112.4600 at elevation ~4472 ft aligns with Bannock County intake staging.
 

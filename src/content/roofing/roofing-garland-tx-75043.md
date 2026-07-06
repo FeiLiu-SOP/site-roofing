@@ -11,11 +11,14 @@ lng: -96.6300
 zipSample: ["75044", "75046", "75049", "75041", "75042"]
 zipCodes: ["75047", "75043", "75044", "75040", "75041", "75046", "75049", "75042"]
 localPaths: ["Dallas County / primary ZIP 75043", "Dallas County / ZIP 75044 sector", "Dallas County / ZIP 75046 sector", "Dallas County / ZIP 75049 sector", "Dallas County / elevation 535 ft band"]
-zillowHomeValueUsd: 289517
 ---
 
-**Engineering Notice for Garland:** Structural loading calculated based on 535 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Garland:** Roof repair scope references 535 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Dallas County.
 
+
+Qualified roof service crews serving Garland, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Garland, TX, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -35,7 +38,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Step: compare shingle manufacturer wind-zone ratings for Garland, TX exposure class.
 
-Scope trace: shingle exposure calibration plus synthetic underlayment slip referenced in Dallas County county grid review.
+Scope trace: shingle exposure calibration plus synthetic underlayment slip referenced in Dallas County storm and leak review.
 
 On-site sector marker: Dallas County / ZIP 75042 sector — logged for map parity and ZIP-corridor verification.
 

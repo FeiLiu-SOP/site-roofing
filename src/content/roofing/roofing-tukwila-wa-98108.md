@@ -11,11 +11,14 @@ lng: -122.2700
 zipSample: ["98108", "98190", "98188", "98138", "98168"]
 zipCodes: ["98168", "98178", "98190", "98188", "98108", "98138"]
 localPaths: ["King County / coords 47.4800, -122.2700", "King County / ZIP 98108 sector", "King County / ZIP 98168 sector", "King County / ZIP 98190 sector", "King County / ZIP 98138 sector"]
-zillowHomeValueUsd: 703529
 ---
 
-**Engineering Notice for Tukwila:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Tukwila:** Roof repair scope references 240 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in King County.
 
+
+Roof service restoration in Tukwila, WA, King County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof service crews serving Tukwila, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 TPO seam welds in Tukwila, WA commercial sections need probe tests after freeze events.
 
@@ -27,15 +30,13 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Risk flag: In Tukwila, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-FAQ: When should permanent restoration start? In Tukwila, WA, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent service start? In Tukwila, WA, delayed dry-in can expand insulation and ceiling repairs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field routing: ice-barrier lap sequence paired with drip-edge metal profile near ZIP 98108.
-
-Field note: Attic moisture pathway scan referenced ZIP 98108/98190/98168.
+Local service note: ice-barrier lap sequence paired with drip-edge metal profile near ZIP 98108 for emergency roof work repairs.
 
 Regional mesh label King County: moisture and logistics baselines are keyed to Tukwila, WA before niche-specific work begins.
 

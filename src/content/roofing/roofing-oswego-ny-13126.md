@@ -11,11 +11,14 @@ lng: -76.5000
 zipSample: ["13126"]
 zipCodes: ["13126"]
 localPaths: ["Oswego County / coords 43.4500, -76.5000", "Oswego County / primary ZIP 13126", "Oswego County / ZIP 13126 sector", "Oswego County / elevation 341 ft band"]
-zillowHomeValueUsd: 181989
 ---
 
-**Engineering Notice for Oswego:** Structural loading calculated based on 341 ft terrain assessment. Regional dispatch grid: Oswego County.
+**Engineering Notice for Oswego:** Roof repair scope references 341 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Oswego County.
 
+
+Emergency roof service in Oswego, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Oswego County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work remediation in Oswego, NY, Oswego County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: In Oswego, NY, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -29,11 +32,11 @@ Wind-zone note: Oswego, NY exposure class can change starter-strip and cap nail 
 
 Step: compare shingle manufacturer wind-zone ratings for Oswego, NY exposure class.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-roof work brief: starter-strip setback and deck sheathing thickness were cross-checked for the Oswego intake packet.
+Roof restoration brief: starter-strip setback and deck sheathing thickness were cross-checked for the Oswego shingle and leak scope.
 
 Regional mesh label Oswego County: moisture and logistics baselines are keyed to Oswego, NY before niche-specific work begins.
 

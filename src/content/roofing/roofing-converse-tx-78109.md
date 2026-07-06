@@ -11,17 +11,20 @@ lng: -98.3100
 zipSample: ["78109"]
 zipCodes: ["78109"]
 localPaths: ["Bexar County / ZIP 78109 sector", "Bexar County / primary ZIP 78109", "Bexar County / elevation 686 ft band", "Bexar County / coords 29.5100, -98.3100"]
-zillowHomeValueUsd: 246239
 ---
 
-**Engineering Notice for Converse:** Structural loading calculated based on 686 ft terrain assessment. Regional dispatch grid: Bexar County.
+**Engineering Notice for Converse:** Shingle, flashing, and ventilation review recorded at 686 ft AMSL context (Bexar County).
 
+
+Roof work service in Converse, TX, Bexar County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Converse, TX, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Valley metal in Converse, TX should be reviewed whenever granule loss tracks the water line.
 
@@ -31,9 +34,7 @@ Regulatory note: Converse, TX projects may trigger ice-barrier upgrades when tea
 
 FAQ: Is partial dry-in possible? In Converse, TX, yes—if slope and anchor points support safe tie-offs.
 
-Step: separate emergency tarp scope from permanent service line items.
-
-Field routing: shingle exposure calibration paired with soffit intake free area near ZIP 78109.
+Step: separate emergency tarp scope from permanent restoration line items.
 
 Coordinate-anchored dispatch note: center reference 29.5100, -98.3100 at elevation ~686 ft aligns with Bexar County intake staging.
 

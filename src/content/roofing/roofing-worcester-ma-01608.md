@@ -11,13 +11,16 @@ lng: -71.8100
 zipSample: ["01609", "01614", "01604", "01603", "01655"]
 zipCodes: ["01607", "01602", "01606", "01610", "01615", "01604", "01603", "01608", "01614", "01601", "01605", "01653"]
 localPaths: ["Worcester County / ZIP 01603 sector", "Worcester County / primary ZIP 01608", "Worcester County / coords 42.2700, -71.8100", "Worcester County / ZIP 01614 sector", "Worcester County / elevation 502 ft band"]
-zillowHomeValueUsd: 189634
 ---
 
-**Engineering Notice for Worcester:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Worcester County.
+**Engineering Notice for Worcester:** Shingle, flashing, and ventilation review recorded at 502 ft AMSL context (Worcester County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Qualified roof remediation crews serving Worcester, MA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Worcester, MA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Worcester County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 01608.
 
@@ -31,7 +34,7 @@ Regulatory note: Worcester, MA projects may trigger ice-barrier upgrades when te
 
 Step: map ventilation intake and exhaust pairs for Worcester, MA attic runs.
 
-Scope trace: pipe boot manufacturer match plus synthetic underlayment slip referenced in Worcester County county grid review.
+Scope trace: pipe boot manufacturer match plus synthetic underlayment slip referenced in Worcester County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 01610/01653/01602.
 

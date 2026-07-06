@@ -11,11 +11,14 @@ lng: -105.1000
 zipSample: ["80503", "80504", "80501"]
 zipCodes: ["80501", "80504", "80503"]
 localPaths: ["Boulder County / ZIP 80504 sector", "Boulder County / elevation 5003 ft band", "Boulder County / ZIP 80503 sector", "Boulder County / coords 40.1700, -105.1000", "Boulder County / ZIP 80501 sector"]
-zillowHomeValueUsd: 492851
 ---
 
-**Engineering Notice for Longmont:** Structural loading calculated based on 5003 ft terrain assessment. Regional dispatch grid: Boulder County.
+**Engineering Notice for Longmont:** Shingle, flashing, and ventilation review recorded at 5003 ft AMSL context (Boulder County).
 
+
+Storm damage roof work in Longmont, CO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Boulder County clarifies whether service or replacement fits the damage pattern.
+
+Licensed roof service crews serving Longmont, CO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -25,7 +28,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Granule embedment loss on Longmont, CO north slopes can precede mat exposure.
 
@@ -33,7 +36,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 80501.
 
-Scope trace: ridge cap nail schedule plus wind uplift clip spacing referenced in Boulder County county grid review.
+Scope trace: ridge cap nail schedule plus wind uplift clip spacing referenced in Boulder County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 80504/80503/80501.
 

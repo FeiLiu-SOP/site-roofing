@@ -11,11 +11,14 @@ lng: -122.9200
 zipSample: ["98501", "98512", "98511"]
 zipCodes: ["98511", "98501", "98512"]
 localPaths: ["Thurston County / ZIP 98501 sector", "Thurston County / ZIP 98511 sector", "Thurston County / coords 46.9900, -122.9200", "Thurston County / primary ZIP 98501", "Thurston County / ZIP 98512 sector"]
-zillowHomeValueUsd: 549727
 ---
 
-**Engineering Notice for Tumwater:** Structural loading calculated based on 190 ft terrain assessment. Regional dispatch grid: Thurston County.
+**Engineering Notice for Tumwater:** Shingle, flashing, and ventilation review recorded at 190 ft AMSL context (Thurston County).
 
+
+Qualified roof restoration crews serving Tumwater, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Tumwater, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Thurston County clarifies whether remediation or replacement fits the damage pattern.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -29,9 +32,9 @@ Risk flag: In Tumwater, WA, interior stains may track from HVAC condensate rathe
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Scope trace: ridge cap nail schedule plus synthetic underlayment slip referenced in Thurston County county grid review.
+Scope trace: ridge cap nail schedule plus synthetic underlayment slip referenced in Thurston County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 98501/98512/98511.
 

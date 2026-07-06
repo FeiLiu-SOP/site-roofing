@@ -11,11 +11,14 @@ lng: -95.5500
 zipSample: ["75461", "75460", "75462"]
 zipCodes: ["75460", "75461", "75462"]
 localPaths: ["Lamar County / ZIP 75461 sector", "Lamar County / ZIP 75460 sector", "Lamar County / ZIP 75462 sector", "Lamar County / coords 33.6700, -95.5500", "Lamar County / elevation 614 ft band"]
-zillowHomeValueUsd: 277705
 ---
 
-**Engineering Notice for Paris:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Lamar County.
+**Engineering Notice for Paris:** Shingle, flashing, and ventilation review recorded at 614 ft AMSL context (Lamar County).
 
+
+Roof work restoration in Paris, TX, Lamar County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Paris, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lamar County clarifies whether restoration or replacement fits the damage pattern.
 
 Step: map ventilation intake and exhaust pairs for Paris, TX attic runs.
 
@@ -29,11 +32,11 @@ Attic ventilation deficits in Paris, TX can mimic roof leaks at ceiling penetrat
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Field routing: deck sheathing thickness paired with synthetic underlayment slip near ZIP 75462.
+Local service note: deck sheathing thickness paired with synthetic underlayment slip near ZIP 75462 for emergency roof work repairs.
 
 On-site sector marker: Lamar County / ZIP 75460 sector — logged for map parity and ZIP-corridor verification.
 

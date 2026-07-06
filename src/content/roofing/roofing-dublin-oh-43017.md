@@ -11,11 +11,14 @@ lng: -83.1500
 zipSample: ["43017", "43016"]
 zipCodes: ["43016", "43017"]
 localPaths: ["Franklin County / ZIP 43016 sector", "Franklin County / elevation 902 ft band", "Franklin County / ZIP 43017 sector", "Franklin County / primary ZIP 43017", "Franklin County / coords 40.1100, -83.1500"]
-zillowHomeValueUsd: 575995
 ---
 
-**Engineering Notice for Dublin:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Dublin:** Roof repair scope references 902 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Franklin County.
 
+
+Storm damage roofing service in Dublin, OH may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Franklin County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof remediation in Dublin, OH often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Franklin County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -27,15 +30,13 @@ Granule embedment loss on Dublin, OH north slopes can precede mat exposure.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-FAQ: When should permanent restoration start? In Dublin, OH, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent remediation start? In Dublin, OH, delayed dry-in can expand insulation and ceiling repairs.
 
 Step: map ventilation intake and exhaust pairs for Dublin, OH attic runs.
 
 Material note: In Dublin, OH, algae-resistant granules may be specified for north-facing slopes.
 
-roofing service brief: starter-strip setback and valley metal gauge were cross-checked for the Dublin intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 43016/43017.
+Roof service brief: starter-strip setback and valley metal gauge were cross-checked for the Dublin shingle and leak scope.
 
 Regional mesh label Franklin County: moisture and logistics baselines are keyed to Dublin, OH before niche-specific work begins.
 

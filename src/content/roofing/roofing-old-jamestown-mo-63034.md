@@ -11,11 +11,14 @@ lng: -90.2800
 zipSample: ["63034"]
 zipCodes: ["63034"]
 localPaths: ["St. Louis County / ZIP 63034 sector", "St. Louis County / elevation 558 ft band", "St. Louis County / primary ZIP 63034", "St. Louis County / coords 38.8400, -90.2800"]
-zillowHomeValueUsd: 272197
 ---
 
-**Engineering Notice for Old Jamestown:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: St. Louis County.
+**Engineering Notice for Old Jamestown:** Roof repair scope references 558 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in St. Louis County.
 
+
+Roof work remediation in Old Jamestown, MO, St. Louis County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof restoration in Old Jamestown, MO often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in St. Louis County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Regulatory note: Old Jamestown, MO projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -35,7 +38,7 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 FAQ: Is partial dry-in possible? In Old Jamestown, MO, yes—if slope and anchor points support safe tie-offs.
 
-roof work brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Old Jamestown intake packet.
+Roof restoration brief: drip-edge metal profile and synthetic underlayment slip were cross-checked for the Old Jamestown shingle and leak scope.
 
 ZIP-corridor snapshot for Old Jamestown, MO: sampled sectors include 63034; county routing grid remains St. Louis County.
 

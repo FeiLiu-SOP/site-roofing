@@ -11,11 +11,14 @@ lng: -97.1200
 zipSample: ["76063"]
 zipCodes: ["76063"]
 localPaths: ["Tarrant County / coords 32.5700, -97.1200", "Tarrant County / elevation 607 ft band", "Tarrant County / primary ZIP 76063", "Tarrant County / ZIP 76063 sector"]
-zillowHomeValueUsd: 439977
 ---
 
-**Engineering Notice for Mansfield:** Structural loading calculated based on 607 ft terrain assessment. Regional dispatch grid: Tarrant County.
+**Engineering Notice for Mansfield:** Roof repair scope references 607 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Tarrant County.
 
+
+Storm damage roofing service in Mansfield, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Tarrant County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof service in Mansfield, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Tarrant County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -29,13 +32,13 @@ Tile and shingle mixes in Mansfield, TX require different fastener patterns at t
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
 Risk flag: Tile underlayment age in Mansfield, TX can fail independently of visible tile cracks.
 
-roofing service brief: soffit intake free area and counter-flashing reglet depth were cross-checked for the Mansfield intake packet.
+Roof restoration brief: soffit intake free area and counter-flashing reglet depth were cross-checked for the Mansfield shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 76063.
 

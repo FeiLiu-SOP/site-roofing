@@ -11,13 +11,16 @@ lng: -86.1300
 zipSample: ["46635", "46545", "46530"]
 zipCodes: ["46635", "46530", "46545"]
 localPaths: ["St. Joseph County / elevation 801 ft band", "St. Joseph County / primary ZIP 46635", "St. Joseph County / coords 41.7400, -86.1300", "St. Joseph County / ZIP 46530 sector", "St. Joseph County / ZIP 46545 sector"]
-zillowHomeValueUsd: 262299
 ---
 
-**Engineering Notice for Granger:** Structural loading calculated based on 801 ft terrain assessment. Regional dispatch grid: St. Joseph County.
+**Engineering Notice for Granger:** Storm and emergency leak triage uses 801 ft elevation band with St. Joseph County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Storm damage roofing service in Granger, IN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Joseph County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Granger, IN, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -33,9 +36,7 @@ Parapet coping movement in Granger, IN can channel water behind wall cladding.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-roofing service brief: drip-edge metal profile and valley metal gauge were cross-checked for the Granger intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 46635/46530/46545.
+Roof service brief: drip-edge metal profile and valley metal gauge were cross-checked for the Granger shingle and leak scope.
 
 Regional mesh label St. Joseph County: moisture and logistics baselines are keyed to Granger, IN before niche-specific work begins.
 

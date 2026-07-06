@@ -11,13 +11,16 @@ lng: -120.6700
 zipSample: ["93405", "93406", "93401", "93403"]
 zipCodes: ["93406", "93403", "93401", "93405"]
 localPaths: ["San Luis Obispo County / primary ZIP 93401", "San Luis Obispo County / ZIP 93406 sector", "San Luis Obispo County / ZIP 93401 sector", "San Luis Obispo County / ZIP 93405 sector", "San Luis Obispo County / ZIP 93403 sector"]
-zillowHomeValueUsd: 1103803
 ---
 
-**Engineering Notice for San Luis Obispo:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: San Luis Obispo County.
+**Engineering Notice for San Luis Obispo:** Shingle, flashing, and ventilation review recorded at 167 ft AMSL context (San Luis Obispo County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Storm damage roofing service in San Luis Obispo, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Luis Obispo County clarifies whether service or replacement fits the damage pattern.
+
+Qualified roof restoration crews serving San Luis Obispo, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -35,9 +38,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
-roofing service brief: valley metal gauge and synthetic underlayment slip were cross-checked for the San Luis Obispo intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 93406/93401/93405.
+Roof service brief: valley metal gauge and synthetic underlayment slip were cross-checked for the San Luis Obispo shingle and leak scope.
 
 Regional mesh label San Luis Obispo County: moisture and logistics baselines are keyed to San Luis Obispo, CA before niche-specific work begins.
 

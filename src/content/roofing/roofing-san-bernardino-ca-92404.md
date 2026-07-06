@@ -11,13 +11,16 @@ lng: -117.2900
 zipSample: ["92407", "92369", "92406", "92415", "92413"]
 zipCodes: ["92401", "92413", "92408", "92423", "92427", "92407", "92403", "92410", "92369", "92404", "92415", "92405"]
 localPaths: ["San Bernardino County / ZIP 92413 sector", "San Bernardino County / ZIP 92415 sector", "San Bernardino County / coords 34.1400, -117.2900", "San Bernardino County / ZIP 92369 sector", "San Bernardino County / ZIP 92407 sector"]
-zillowHomeValueUsd: 480024
 ---
 
-**Engineering Notice for San Bernardino:** Structural loading calculated based on 1201 ft terrain assessment. Regional dispatch grid: San Bernardino County.
+**Engineering Notice for San Bernardino:** Shingle, flashing, and ventilation review recorded at 1201 ft AMSL context (San Bernardino County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Emergency roof restoration in San Bernardino, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in San Bernardino County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in San Bernardino, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Bernardino County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -35,9 +38,7 @@ FAQ: How long can shingles wait after storm damage? In San Bernardino, CA, delay
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-Scope trace: drip-edge metal profile plus soffit intake free area referenced in San Bernardino County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 92413/92407/92411.
+Scope trace: drip-edge metal profile plus soffit intake free area referenced in San Bernardino County storm and leak review.
 
 Regional mesh label San Bernardino County: moisture and logistics baselines are keyed to San Bernardino, CA before niche-specific work begins.
 

@@ -11,17 +11,20 @@ lng: -88.1200
 zipSample: ["53045", "53008", "53005"]
 zipCodes: ["53008", "53045", "53005"]
 localPaths: ["Waukesha County / ZIP 53008 sector", "Waukesha County / ZIP 53005 sector", "Waukesha County / coords 43.0600, -88.1200", "Waukesha County / primary ZIP 53005", "Waukesha County / elevation 886 ft band"]
-zillowHomeValueUsd: 498293
 ---
 
-**Engineering Notice for Brookfield:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Waukesha County.
+**Engineering Notice for Brookfield:** Shingle, flashing, and ventilation review recorded at 886 ft AMSL context (Waukesha County).
 
+
+Storm damage roof service in Brookfield, WI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Waukesha County clarifies whether restoration or replacement fits the damage pattern.
+
+Licensed roof service crews serving Brookfield, WI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Hail bruising on Brookfield, WI ridges may not breach felt until the next wind event.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: In Brookfield, WI, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -33,9 +36,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Wind-zone note: Brookfield, WI exposure class can change starter-strip and cap nail schedules.
 
-Scope trace: deck sheathing thickness plus ice-barrier lap sequence referenced in Waukesha County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 53008/53045/53005.
+Scope trace: deck sheathing thickness plus ice-barrier lap sequence referenced in Waukesha County storm and leak review.
 
 Primary postal anchor 53005 with multi-ZIP overlap in Brookfield; field packets tag Waukesha County for county-grid reconciliation.
 

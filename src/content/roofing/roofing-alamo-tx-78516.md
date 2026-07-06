@@ -11,15 +11,18 @@ lng: -98.1200
 zipSample: ["78516"]
 zipCodes: ["78516"]
 localPaths: ["Hidalgo County / ZIP 78516 sector", "Hidalgo County / primary ZIP 78516", "Hidalgo County / elevation 118 ft band", "Hidalgo County / coords 26.1800, -98.1200"]
-zillowHomeValueUsd: 169112
 ---
 
-**Engineering Notice for Alamo:** Structural loading calculated based on 118 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for Alamo:** Storm and emergency leak triage uses 118 ft elevation band with Hidalgo County service-area context for roofing repairs.
 
+
+Certified roof restoration crews serving Alamo, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Alamo, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hidalgo County clarifies whether restoration or replacement fits the damage pattern.
 
 Granule embedment loss on Alamo, TX north slopes can precede mat exposure.
 
-Our Alamo, TX dispatch packets reference county grid Hidalgo County and elevation band 118 ft.
+Our Alamo, TX restoration packets reference Hidalgo County and elevation band 118 ft for shingle and leak scope.
 
 Risk flag: Tile underlayment age in Alamo, TX can fail independently of visible tile cracks.
 
@@ -31,7 +34,7 @@ Step: photograph ridge, valley, and penetration conditions before ladder placeme
 
 FAQ: Is partial dry-in possible? In Alamo, TX, yes—if slope and anchor points support safe tie-offs.
 
-Scope trace: starter-strip setback plus valley metal gauge referenced in Hidalgo County county grid review.
+Scope trace: starter-strip setback plus valley metal gauge referenced in Hidalgo County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 78516.
 

@@ -11,13 +11,16 @@ lng: -82.1500
 zipSample: ["29649", "29648", "29647", "29646"]
 zipCodes: ["29647", "29646", "29648", "29649"]
 localPaths: ["Greenwood County / ZIP 29648 sector", "Greenwood County / ZIP 29646 sector", "Greenwood County / ZIP 29647 sector", "Greenwood County / primary ZIP 29649", "Greenwood County / elevation 627 ft band"]
-zillowHomeValueUsd: 224020
 ---
 
-**Engineering Notice for Greenwood:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Greenwood County.
+**Engineering Notice for Greenwood:** Shingle, flashing, and ventilation review recorded at 627 ft AMSL context (Greenwood County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Storm damage roof service in Greenwood, SC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Greenwood County clarifies whether restoration or replacement fits the damage pattern.
+
+Certified roof service crews serving Greenwood, SC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -35,7 +38,7 @@ Regulatory note: Greenwood, SC projects may trigger ice-barrier upgrades when te
 
 Low-slope sections in Greenwood, SC need positive drainage before membrane repairs are scoped.
 
-roof service brief: valley metal gauge and wind uplift clip spacing were cross-checked for the Greenwood intake packet.
+Roof service brief: valley metal gauge and wind uplift clip spacing were cross-checked for the Greenwood shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 29648/29649/29646.
 

@@ -11,15 +11,18 @@ lng: -95.0500
 zipSample: ["77571", "77572"]
 zipCodes: ["77572", "77571"]
 localPaths: ["Harris County / ZIP 77571 sector", "Harris County / primary ZIP 77571", "Harris County / elevation 23 ft band", "Harris County / ZIP 77572 sector", "Harris County / coords 29.6700, -95.0500"]
-zillowHomeValueUsd: 257172
 ---
 
-**Engineering Notice for La Porte:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: Harris County.
+**Engineering Notice for La Porte:** Roof repair scope references 23 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Harris County.
 
 
-Step: separate emergency tarp scope from permanent service line items.
+Emergency roof service in La Porte, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Harris County should photograph ceiling stains and attic wet spots before crews arrive.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Roofing service remediation in La Porte, TX, Harris County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Step: separate emergency tarp scope from permanent restoration line items.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for La Porte, TX attics should be checked against current mechanical exhaust additions.
 
@@ -31,7 +34,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roofing service brief: ice-barrier lap sequence and ridge cap nail schedule were cross-checked for the La Porte intake packet.
+Roof restoration brief: ice-barrier lap sequence and ridge cap nail schedule were cross-checked for the La Porte shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 77571/77572.
 

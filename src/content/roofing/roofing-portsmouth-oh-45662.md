@@ -11,11 +11,14 @@ lng: -82.9400
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / elevation 860 ft band", "Scioto County / ZIP 45662 sector", "Scioto County / primary ZIP 45662", "Scioto County / coords 38.7500, -82.9400"]
-zillowHomeValueUsd: 99235
 ---
 
-**Engineering Notice for Portsmouth:** Structural loading calculated based on 860 ft terrain assessment. Regional dispatch grid: Scioto County.
+**Engineering Notice for Portsmouth:** Shingle, flashing, and ventilation review recorded at 860 ft AMSL context (Scioto County).
 
+
+Emergency roof service in Portsmouth, OH often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Scioto County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof restoration crews serving Portsmouth, OH review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wind-zone note: Portsmouth, OH exposure class can change starter-strip and cap nail schedules.
 
@@ -23,7 +26,7 @@ Step: verify starter-strip alignment before field shingle exposure is set.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -35,9 +38,7 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Tile and shingle mixes in Portsmouth, OH require different fastener patterns at transitions.
 
-Scope trace: pipe boot manufacturer match plus counter-flashing reglet depth referenced in Scioto County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 45662.
+Scope trace: pipe boot manufacturer match plus counter-flashing reglet depth referenced in Scioto County storm and leak review.
 
 On-site sector marker: Scioto County / coords 38.7500, -82.9400 — logged for map parity and ZIP-corridor verification.
 

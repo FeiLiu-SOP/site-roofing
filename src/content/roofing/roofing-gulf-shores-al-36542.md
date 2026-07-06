@@ -11,17 +11,20 @@ lng: -87.7000
 zipSample: ["36542", "36547"]
 zipCodes: ["36547", "36542"]
 localPaths: ["Baldwin County / coords 30.2800, -87.7000", "Baldwin County / elevation 33 ft band", "Baldwin County / ZIP 36547 sector", "Baldwin County / ZIP 36542 sector", "Baldwin County / primary ZIP 36542"]
-zillowHomeValueUsd: 455627
 ---
 
-**Engineering Notice for Gulf Shores:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Baldwin County.
+**Engineering Notice for Gulf Shores:** Roof repair scope references 33 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Baldwin County.
 
+
+Emergency roof restoration in Gulf Shores, AL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Baldwin County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof restoration crews serving Gulf Shores, AL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
 Risk flag: In Gulf Shores, AL, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -33,9 +36,7 @@ Skylight curb flashing in Gulf Shores, AL should be sequenced before ridge cap r
 
 Regulatory note: Gulf Shores, AL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-roof service brief: ice-barrier lap sequence and soffit intake free area were cross-checked for the Gulf Shores intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 36542/36547.
+Roof restoration brief: ice-barrier lap sequence and soffit intake free area were cross-checked for the Gulf Shores shingle and leak scope.
 
 On-site sector marker: Baldwin County / coords 30.2800, -87.7000 — logged for map parity and ZIP-corridor verification.
 

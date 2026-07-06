@@ -11,17 +11,20 @@ lng: -82.7200
 zipSample: ["34690", "34652", "34680", "34653"]
 zipCodes: ["34652", "34680", "34653", "34690"]
 localPaths: ["Pasco County / elevation 39 ft band", "Pasco County / primary ZIP 34690", "Pasco County / coords 28.2100, -82.7200", "Pasco County / ZIP 34653 sector", "Pasco County / ZIP 34652 sector"]
-zillowHomeValueUsd: 219559
 ---
 
-**Engineering Notice for Elfers:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: Pasco County.
+**Engineering Notice for Elfers:** Roof repair scope references 39 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Pasco County.
 
+
+Licensed roof service crews serving Elfers, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Elfers, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pasco County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: In Elfers, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Low-slope sections in Elfers, FL need positive drainage before membrane repairs are scoped.
 
@@ -33,7 +36,7 @@ FAQ: Is partial dry-in possible? In Elfers, FL, yes—if slope and anchor points
 
 Code context: Ventilation ratios for Elfers, FL attics should be checked against current mechanical exhaust additions.
 
-Scope trace: ice-barrier lap sequence plus wind uplift clip spacing referenced in Pasco County county grid review.
+Scope trace: ice-barrier lap sequence plus wind uplift clip spacing referenced in Pasco County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 34690/34680/34653.
 

@@ -11,17 +11,20 @@ lng: -93.1400
 zipSample: ["72811", "72801", "72802"]
 zipCodes: ["72802", "72801", "72811"]
 localPaths: ["Pope County / ZIP 72811 sector", "Pope County / primary ZIP 72802", "Pope County / ZIP 72801 sector", "Pope County / coords 35.2800, -93.1400", "Pope County / ZIP 72802 sector"]
-zillowHomeValueUsd: 241308
 ---
 
-**Engineering Notice for Russellville:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Pope County.
+**Engineering Notice for Russellville:** Roof repair scope references 381 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Pope County.
 
+
+Emergency roof restoration in Russellville, AR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pope County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof remediation crews serving Russellville, AR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: How long can shingles wait after storm damage? In Russellville, AR, delayed dry-in can expand insulation and ceiling repairs.
 
 We coordinate Russellville, AR roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Request dry-in and restoration phases as separate line items. Serving ZIP Code: 72802.
+Request dry-in and service phases as separate line items. Serving ZIP Code: 72802.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 72802.
 
@@ -34,8 +37,6 @@ Material note: In Russellville, AR, algae-resistant granules may be specified fo
 Hail bruising on Russellville, AR ridges may not breach felt until the next wind event.
 
 Step: log deck soundings near vents before tear-off is approved.
-
-Field routing: counter-flashing reglet depth paired with drip-edge metal profile near ZIP 72802.
 
 Primary postal anchor 72802 with multi-ZIP overlap in Russellville; field packets tag Pope County for county-grid reconciliation.
 

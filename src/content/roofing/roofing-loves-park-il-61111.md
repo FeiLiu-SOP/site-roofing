@@ -11,11 +11,14 @@ lng: -89.0000
 zipSample: ["61011", "61132", "61111", "61131", "61130"]
 zipCodes: ["61131", "61130", "61011", "61132", "61111"]
 localPaths: ["Winnebago County / elevation 866 ft band", "Winnebago County / ZIP 61011 sector", "Winnebago County / ZIP 61130 sector", "Winnebago County / ZIP 61111 sector", "Winnebago County / ZIP 61132 sector"]
-zillowHomeValueUsd: 198708
 ---
 
-**Engineering Notice for Loves Park:** Structural loading calculated based on 866 ft terrain assessment. Regional dispatch grid: Winnebago County.
+**Engineering Notice for Loves Park:** Roof repair scope references 866 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Winnebago County.
 
+
+Certified roof service crews serving Loves Park, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work remediation in Loves Park, IL, Winnebago County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: In Loves Park, IL, algae-resistant granules may be specified for north-facing slopes.
 
@@ -29,13 +32,11 @@ Hail bruising on Loves Park, IL ridges may not breach felt until the next wind e
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-roof work brief: soffit intake free area and valley metal gauge were cross-checked for the Loves Park intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 61011/61132/61111.
+Roof service brief: soffit intake free area and valley metal gauge were cross-checked for the Loves Park shingle and leak scope.
 
 ZIP-corridor snapshot for Loves Park, IL: sampled sectors include 61131, 61011, 61130, 61111, 61132; county routing grid remains Winnebago County.
 

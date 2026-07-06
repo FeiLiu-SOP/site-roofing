@@ -11,11 +11,14 @@ lng: -88.0900
 zipSample: ["60172"]
 zipCodes: ["60172"]
 localPaths: ["DuPage County / coords 41.9800, -88.0900", "DuPage County / primary ZIP 60172", "DuPage County / ZIP 60172 sector", "DuPage County / elevation 794 ft band"]
-zillowHomeValueUsd: 374411
 ---
 
-**Engineering Notice for Roselle:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Roselle:** Roof repair scope references 794 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in DuPage County.
 
+
+When wind or hail hits Roselle, IL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Roselle, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in DuPage County clarifies whether remediation or replacement fits the damage pattern.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -30,8 +33,6 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 We coordinate Roselle, IL roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Scope trace: counter-flashing reglet depth plus attic baffle spacing referenced in DuPage County county grid review.
 
 ZIP-corridor snapshot for Roselle, IL: sampled sectors include 60172; county routing grid remains DuPage County.
 

@@ -11,11 +11,14 @@ lng: -86.4600
 zipSample: ["46052"]
 zipCodes: ["46052"]
 localPaths: ["Boone County / ZIP 46052 sector", "Boone County / elevation 945 ft band", "Boone County / primary ZIP 46052", "Boone County / coords 40.0300, -86.4600"]
-zillowHomeValueUsd: 295175
 ---
 
-**Engineering Notice for Lebanon:** Structural loading calculated based on 945 ft terrain assessment. Regional dispatch grid: Boone County.
+**Engineering Notice for Lebanon:** Roof repair scope references 945 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Boone County.
 
+
+Emergency roof service in Lebanon, IN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Boone County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof service crews serving Lebanon, IN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -29,13 +32,11 @@ Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
 Granule embedment loss on Lebanon, IN north slopes can precede mat exposure.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roof work brief: ridge cap nail schedule and skylight curb height were cross-checked for the Lebanon intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 46052.
+Roof restoration brief: ridge cap nail schedule and skylight curb height were cross-checked for the Lebanon shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 40.0300, -86.4600 at elevation ~945 ft aligns with Boone County intake staging.
 

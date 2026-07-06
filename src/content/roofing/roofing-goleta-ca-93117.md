@@ -11,13 +11,16 @@ lng: -119.8600
 zipSample: ["93117", "93118"]
 zipCodes: ["93118", "93117"]
 localPaths: ["Santa Barbara County / ZIP 93118 sector", "Santa Barbara County / ZIP 93117 sector", "Santa Barbara County / primary ZIP 93117", "Santa Barbara County / elevation 46 ft band", "Santa Barbara County / coords 34.4400, -119.8600"]
-zillowHomeValueUsd: 1378737
 ---
 
-**Engineering Notice for Goleta:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Santa Barbara County.
+**Engineering Notice for Goleta:** Roof repair scope references 46 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Santa Barbara County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Emergency roof service in Goleta, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Santa Barbara County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Goleta, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Santa Barbara County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: In Goleta, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,7 +34,7 @@ Step: stage tear-off debris paths away from landscape drains.
 
 Wind-zone note: Goleta, CA exposure class can change starter-strip and cap nail schedules.
 
-roof work brief: synthetic underlayment slip and shingle exposure calibration were cross-checked for the Goleta intake packet.
+Roof remediation brief: synthetic underlayment slip and shingle exposure calibration were cross-checked for the Goleta shingle and leak scope.
 
 Regional mesh label Santa Barbara County: moisture and logistics baselines are keyed to Goleta, CA before niche-specific work begins.
 

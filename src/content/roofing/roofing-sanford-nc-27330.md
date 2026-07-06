@@ -11,11 +11,14 @@ lng: -79.1800
 zipSample: ["27331", "27332", "27330"]
 zipCodes: ["27332", "27330", "27331"]
 localPaths: ["Lee County / ZIP 27332 sector", "Lee County / primary ZIP 27330", "Lee County / coords 35.4900, -79.1800", "Lee County / ZIP 27330 sector", "Lee County / ZIP 27331 sector"]
-zillowHomeValueUsd: 294238
 ---
 
-**Engineering Notice for Sanford:** Structural loading calculated based on 354 ft terrain assessment. Regional dispatch grid: Lee County.
+**Engineering Notice for Sanford:** Storm and emergency leak triage uses 354 ft elevation band with Lee County service-area context for roofing repairs.
 
+
+When wind or hail hits Sanford, NC, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roofing service in Sanford, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lee County clarifies whether remediation or replacement fits the damage pattern.
 
 Regulatory note: Sanford, NC projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -23,15 +26,13 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Attic ventilation deficits in Sanford, NC can mimic roof leaks at ceiling penetrations.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
-
-roof service brief: valley metal gauge and attic baffle spacing were cross-checked for the Sanford intake packet.
 
 On-site sector marker: Lee County / ZIP 27331 sector — logged for map parity and ZIP-corridor verification.
 

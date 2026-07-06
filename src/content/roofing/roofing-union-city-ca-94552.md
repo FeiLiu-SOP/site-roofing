@@ -11,11 +11,14 @@ lng: -122.0200
 zipSample: ["94587", "94552"]
 zipCodes: ["94587", "94552"]
 localPaths: ["Alameda County / primary ZIP 94552", "Alameda County / elevation 92 ft band", "Alameda County / ZIP 94587 sector", "Alameda County / ZIP 94552 sector", "Alameda County / coords 37.6000, -122.0200"]
-zillowHomeValueUsd: 1409448
 ---
 
-**Engineering Notice for Union City:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Union City:** Storm and emergency leak triage uses 92 ft elevation band with Alameda County service-area context for roofing repairs.
 
+
+When wind or hail hits Union City, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof service crews serving Union City, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Code context: Ventilation ratios for Union City, CA attics should be checked against current mechanical exhaust additions.
 
@@ -27,11 +30,11 @@ Step: log deck soundings near vents before tear-off is approved.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Can you tarp only part of the roof? In Union City, CA, yes—if slope and anchor points support safe tie-offs.
 
-Field routing: ridge cap nail schedule paired with pipe boot manufacturer match near ZIP 94552.
+Local service note: ridge cap nail schedule paired with pipe boot manufacturer match near ZIP 94552 for emergency roof work repairs.
 
 On-site sector marker: Alameda County / ZIP 94587 sector — logged for map parity and ZIP-corridor verification.
 

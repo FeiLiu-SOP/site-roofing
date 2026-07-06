@@ -11,11 +11,14 @@ lng: -117.5500
 zipSample: ["92860"]
 zipCodes: ["92860"]
 localPaths: ["Riverside County / ZIP 92860 sector", "Riverside County / elevation 643 ft band", "Riverside County / primary ZIP 92860", "Riverside County / coords 33.9300, -117.5500"]
-zillowHomeValueUsd: 917459
 ---
 
-**Engineering Notice for Norco:** Structural loading calculated based on 643 ft terrain assessment. Regional dispatch grid: Riverside County.
+**Engineering Notice for Norco:** Roof repair scope references 643 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Riverside County.
 
+
+Emergency roof remediation in Norco, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Riverside County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof service crews serving Norco, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -31,9 +34,7 @@ We coordinate Norco, CA roof reviews with photo logs, moisture notes, and realis
 
 Granule embedment loss on Norco, CA north slopes can precede mat exposure.
 
-roofing service brief: counter-flashing reglet depth and drip-edge metal profile were cross-checked for the Norco intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 92860.
+Roof service brief: counter-flashing reglet depth and drip-edge metal profile were cross-checked for the Norco shingle and leak scope.
 
 On-site sector marker: Riverside County / elevation 643 ft band — logged for map parity and ZIP-corridor verification.
 

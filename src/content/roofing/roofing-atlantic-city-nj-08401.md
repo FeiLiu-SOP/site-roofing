@@ -11,15 +11,18 @@ lng: -74.4500
 zipSample: ["08405", "08401", "08404"]
 zipCodes: ["08404", "08405", "08401"]
 localPaths: ["Atlantic County / elevation 7 ft band", "Atlantic County / coords 39.3800, -74.4500", "Atlantic County / primary ZIP 08401", "Atlantic County / ZIP 08405 sector", "Atlantic County / ZIP 08401 sector"]
-zillowHomeValueUsd: 215890
 ---
 
-**Engineering Notice for Atlantic City:** Structural loading calculated based on 7 ft terrain assessment. Regional dispatch grid: Atlantic County.
+**Engineering Notice for Atlantic City:** Shingle, flashing, and ventilation review recorded at 7 ft AMSL context (Atlantic County).
 
+
+Roofing service remediation in Atlantic City, NJ, Atlantic County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Atlantic City, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Atlantic County clarifies whether service or replacement fits the damage pattern.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-Our Atlantic City, NJ dispatch packets reference county grid Atlantic County and elevation band 7 ft.
+Our Atlantic City, NJ remediation packets reference Atlantic County and elevation band 7 ft for shingle and leak scope.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -31,9 +34,7 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Parapet coping movement in Atlantic City, NJ can channel water behind wall cladding.
 
-roofing service brief: counter-flashing reglet depth and ridge cap nail schedule were cross-checked for the Atlantic City intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 08405/08404/08401.
+Roof restoration brief: counter-flashing reglet depth and ridge cap nail schedule were cross-checked for the Atlantic City shingle and leak scope.
 
 On-site sector marker: Atlantic County / coords 39.3800, -74.4500 — logged for map parity and ZIP-corridor verification.
 

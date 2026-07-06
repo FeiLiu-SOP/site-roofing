@@ -11,15 +11,18 @@ lng: -94.1700
 zipSample: ["56393", "56301", "56303", "56372", "56302"]
 zipCodes: ["56304", "56301", "56303", "56372", "56302", "56396", "56393", "56395"]
 localPaths: ["Stearns County / coords 45.5300, -94.1700", "Stearns County / ZIP 56302 sector", "Stearns County / elevation 1020 ft band", "Stearns County / ZIP 56372 sector", "Stearns County / ZIP 56393 sector"]
-zillowHomeValueUsd: 265954
 ---
 
-**Engineering Notice for St. Cloud:** Structural loading calculated based on 1020 ft terrain assessment. Regional dispatch grid: Stearns County.
+**Engineering Notice for St. Cloud:** Storm and emergency leak triage uses 1020 ft elevation band with Stearns County service-area context for roofing repairs.
 
+
+Storm damage roofing service in St. Cloud, MN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Stearns County clarifies whether restoration or replacement fits the damage pattern.
+
+Certified roof service crews serving St. Cloud, MN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Note recent wind events when filing insurance photos for St. Cloud, MN.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 FAQ: Is partial dry-in possible? In St. Cloud, MN, yes—if slope and anchor points support safe tie-offs.
 
@@ -29,11 +32,9 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Valley metal in St. Cloud, MN should be reviewed whenever granule loss tracks the water line.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
-roofing service brief: soffit intake free area and drip-edge metal profile were cross-checked for the St. Cloud intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 56302/56396/56304.
+Roof remediation brief: soffit intake free area and drip-edge metal profile were cross-checked for the St. Cloud shingle and leak scope.
 
 On-site sector marker: Stearns County / ZIP 56303 sector — logged for map parity and ZIP-corridor verification.
 

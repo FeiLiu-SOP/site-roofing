@@ -11,11 +11,14 @@ lng: -122.5400
 zipSample: ["98604"]
 zipCodes: ["98604"]
 localPaths: ["Clark County / ZIP 98604 sector", "Clark County / primary ZIP 98604", "Clark County / coords 45.7800, -122.5400", "Clark County / elevation 282 ft band"]
-zillowHomeValueUsd: 605384
 ---
 
-**Engineering Notice for Battle Ground:** Structural loading calculated based on 282 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Battle Ground:** Roof repair scope references 282 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Clark County.
 
+
+Roof service service in Battle Ground, WA, Clark County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof remediation crews serving Battle Ground, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -25,7 +28,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Step: map ventilation intake and exhaust pairs for Battle Ground, WA attic runs.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Regulatory note: Battle Ground, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -33,9 +36,7 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Hail bruising on Battle Ground, WA ridges may not breach felt until the next wind event.
 
-roof service brief: counter-flashing reglet depth and deck sheathing thickness were cross-checked for the Battle Ground intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 98604.
+Roof restoration brief: counter-flashing reglet depth and deck sheathing thickness were cross-checked for the Battle Ground shingle and leak scope.
 
 On-site sector marker: Clark County / primary ZIP 98604 — logged for map parity and ZIP-corridor verification.
 

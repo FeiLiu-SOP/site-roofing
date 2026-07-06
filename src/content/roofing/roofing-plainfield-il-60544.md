@@ -11,11 +11,14 @@ lng: -88.2300
 zipSample: ["60544", "60585", "60586"]
 zipCodes: ["60585", "60544", "60586"]
 localPaths: ["Will County / ZIP 60585 sector", "Will County / ZIP 60544 sector", "Will County / coords 41.6200, -88.2300", "Will County / elevation 627 ft band", "Will County / primary ZIP 60544"]
-zillowHomeValueUsd: 383373
 ---
 
-**Engineering Notice for Plainfield:** Structural loading calculated based on 627 ft terrain assessment. Regional dispatch grid: Will County.
+**Engineering Notice for Plainfield:** Storm and emergency leak triage uses 627 ft elevation band with Will County service-area context for roofing repairs.
 
+
+Storm damage roof work in Plainfield, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Will County clarifies whether remediation or replacement fits the damage pattern.
+
+Certified roof restoration crews serving Plainfield, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Regulatory note: Plainfield, IL projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -23,7 +26,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60544.
 
@@ -35,7 +38,7 @@ Risk flag: In Plainfield, IL, interior stains may track from HVAC condensate rat
 
 Low-slope sections in Plainfield, IL need positive drainage before membrane repairs are scoped.
 
-Field routing: pipe boot manufacturer match paired with attic baffle spacing near ZIP 60544.
+Local service note: pipe boot manufacturer match paired with attic baffle spacing near ZIP 60544 for emergency roof service repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 60586/60585/60544.
 

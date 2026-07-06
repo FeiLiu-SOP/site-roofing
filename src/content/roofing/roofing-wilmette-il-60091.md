@@ -11,11 +11,14 @@ lng: -87.7300
 zipSample: ["60091"]
 zipCodes: ["60091"]
 localPaths: ["Cook County / coords 42.0800, -87.7300", "Cook County / ZIP 60091 sector", "Cook County / primary ZIP 60091", "Cook County / elevation 646 ft band"]
-zillowHomeValueUsd: 960801
 ---
 
-**Engineering Notice for Wilmette:** Structural loading calculated based on 646 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for Wilmette:** Roof repair scope references 646 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Cook County.
 
+
+Licensed roof remediation crews serving Wilmette, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Wilmette, IL, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
@@ -35,9 +38,7 @@ Across Wilmette, IL, ice-dam seasons often begin with clogged gutters rather tha
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-roof service brief: chimney cricket slope and drip-edge metal profile were cross-checked for the Wilmette intake packet.
-
-Field note: Shingle seal-down timing logged near ZIP 60091.
+Roof remediation brief: chimney cricket slope and drip-edge metal profile were cross-checked for the Wilmette shingle and leak scope.
 
 On-site sector marker: Cook County / primary ZIP 60091 — logged for map parity and ZIP-corridor verification.
 

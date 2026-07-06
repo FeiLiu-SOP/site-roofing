@@ -11,11 +11,14 @@ lng: -93.5700
 zipSample: ["50125"]
 zipCodes: ["50125"]
 localPaths: ["Warren County / ZIP 50125 sector", "Warren County / coords 41.3600, -93.5700", "Warren County / primary ZIP 50125", "Warren County / elevation 958 ft band"]
-zillowHomeValueUsd: 309559
 ---
 
-**Engineering Notice for Indianola:** Structural loading calculated based on 958 ft terrain assessment. Regional dispatch grid: Warren County.
+**Engineering Notice for Indianola:** Storm and emergency leak triage uses 958 ft elevation band with Warren County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving Indianola, IA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service restoration in Indianola, IA, Warren County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Across Indianola, IA, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -31,9 +34,7 @@ Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 50125.
 
 Risk flag: Tile underlayment age in Indianola, IA can fail independently of visible tile cracks.
 
-Field routing: ridge cap nail schedule paired with drip-edge metal profile near ZIP 50125.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 50125.
+Local service note: ridge cap nail schedule paired with drip-edge metal profile near ZIP 50125 for emergency roof work repairs.
 
 ZIP-corridor snapshot for Indianola, IA: sampled sectors include 50125; county routing grid remains Warren County.
 

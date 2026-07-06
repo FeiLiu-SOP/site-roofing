@@ -11,11 +11,14 @@ lng: -78.0000
 zipSample: ["22701"]
 zipCodes: ["22701"]
 localPaths: ["Culpeper County / coords 38.4700, -78.0000", "Culpeper County / elevation 433 ft band", "Culpeper County / primary ZIP 22701", "Culpeper County / ZIP 22701 sector"]
-zillowHomeValueUsd: 450325
 ---
 
-**Engineering Notice for Culpeper:** Structural loading calculated based on 433 ft terrain assessment. Regional dispatch grid: Culpeper County.
+**Engineering Notice for Culpeper:** Storm and emergency leak triage uses 433 ft elevation band with Culpeper County service-area context for roofing repairs.
 
+
+Storm damage roof work in Culpeper, VA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Culpeper County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Culpeper, VA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: In Culpeper, VA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -25,7 +28,7 @@ Step: compare shingle manufacturer wind-zone ratings for Culpeper, VA exposure c
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Regulatory note: Culpeper, VA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -33,7 +36,7 @@ TPO seam welds in Culpeper, VA commercial sections need probe tests after freeze
 
 FAQ: How long can shingles wait after storm damage? In Culpeper, VA, delayed dry-in can expand insulation and ceiling repairs.
 
-Scope trace: synthetic underlayment slip plus ice-barrier lap sequence referenced in Culpeper County county grid review.
+Scope trace: synthetic underlayment slip plus ice-barrier lap sequence referenced in Culpeper County storm and leak review.
 
 ZIP-corridor snapshot for Culpeper, VA: sampled sectors include 22701; county routing grid remains Culpeper County.
 

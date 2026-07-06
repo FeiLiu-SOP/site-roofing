@@ -11,11 +11,14 @@ lng: -121.4000
 zipSample: ["95828", "95823"]
 zipCodes: ["95823", "95828"]
 localPaths: ["Sacramento County / elevation 43 ft band", "Sacramento County / coords 38.4800, -121.4000", "Sacramento County / ZIP 95823 sector", "Sacramento County / primary ZIP 95823", "Sacramento County / ZIP 95828 sector"]
-zillowHomeValueUsd: 428754
 ---
 
-**Engineering Notice for Florin:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Florin:** Roof repair scope references 43 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Sacramento County.
 
+
+When wind or hail hits Florin, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service restoration in Florin, CA, Sacramento County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -35,9 +38,7 @@ Metal panel oil-canning in Florin, CA may signal clip spacing issues, not wind d
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
-Scope trace: ice-barrier lap sequence plus pipe boot manufacturer match referenced in Sacramento County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 95823/95828.
+Scope trace: ice-barrier lap sequence plus pipe boot manufacturer match referenced in Sacramento County storm and leak review.
 
 On-site sector marker: Sacramento County / ZIP 95828 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,13 +11,16 @@ lng: -87.4900
 zipSample: ["46324", "46394", "46325", "46323", "46320"]
 zipCodes: ["46327", "46394", "46325", "46324", "46320", "46323"]
 localPaths: ["Lake County / ZIP 46394 sector", "Lake County / ZIP 46320 sector", "Lake County / ZIP 46324 sector", "Lake County / ZIP 46323 sector", "Lake County / ZIP 46325 sector"]
-zillowHomeValueUsd: 200682
 ---
 
-**Engineering Notice for Hammond:** Structural loading calculated based on 597 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Hammond:** Shingle, flashing, and ventilation review recorded at 597 ft AMSL context (Lake County).
 
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+Qualified roof restoration crews serving Hammond, IN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Hammond, IN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lake County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 In Hammond, IN, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
@@ -35,9 +38,7 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field routing: drip-edge metal profile paired with synthetic underlayment slip near ZIP 46394.
-
-Field note: Attic moisture pathway scan referenced ZIP 46327/46325/46323.
+Local service note: drip-edge metal profile paired with synthetic underlayment slip near ZIP 46394 for emergency roof work repairs.
 
 On-site sector marker: Lake County / ZIP 46320 sector — logged for map parity and ZIP-corridor verification.
 

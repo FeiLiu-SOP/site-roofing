@@ -11,13 +11,16 @@ lng: -75.1100
 zipSample: ["08104", "08105", "08102", "08101", "08103"]
 zipCodes: ["08101", "08103", "08105", "08102", "08104"]
 localPaths: ["Camden County / ZIP 08104 sector", "Camden County / ZIP 08103 sector", "Camden County / ZIP 08101 sector", "Camden County / ZIP 08105 sector", "Camden County / primary ZIP 08104"]
-zillowHomeValueUsd: 131218
 ---
 
-**Engineering Notice for Camden:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Camden County.
+**Engineering Notice for Camden:** Storm and emergency leak triage uses 26 ft elevation band with Camden County service-area context for roofing repairs.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Licensed roof remediation crews serving Camden, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Camden, NJ, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Regulatory note: Camden, NJ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -33,9 +36,7 @@ Material note: In Camden, NJ, algae-resistant granules may be specified for nort
 
 Tile and shingle mixes in Camden, NJ require different fastener patterns at transitions.
 
-Field routing: shingle exposure calibration paired with ridge cap nail schedule near ZIP 08104.
-
-Field note: Attic moisture pathway scan referenced ZIP 08102/08105/08101.
+Local service note: shingle exposure calibration paired with ridge cap nail schedule near ZIP 08104 for emergency roof work repairs.
 
 On-site sector marker: Camden County / elevation 26 ft band — logged for map parity and ZIP-corridor verification.
 

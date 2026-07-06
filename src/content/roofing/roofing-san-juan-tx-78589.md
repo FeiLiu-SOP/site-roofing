@@ -11,11 +11,14 @@ lng: -98.1500
 zipSample: ["78589"]
 zipCodes: ["78589"]
 localPaths: ["Hidalgo County / elevation 121 ft band", "Hidalgo County / ZIP 78589 sector", "Hidalgo County / primary ZIP 78589", "Hidalgo County / coords 26.1900, -98.1500"]
-zillowHomeValueUsd: 183946
 ---
 
-**Engineering Notice for San Juan:** Structural loading calculated based on 121 ft terrain assessment. Regional dispatch grid: Hidalgo County.
+**Engineering Notice for San Juan:** Storm and emergency leak triage uses 121 ft elevation band with Hidalgo County service-area context for roofing repairs.
 
+
+Emergency roof remediation in San Juan, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Hidalgo County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in San Juan, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hidalgo County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -27,15 +30,13 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Parapet coping movement in San Juan, TX can channel water behind wall cladding.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
 Risk flag: In San Juan, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-roof work brief: shingle exposure calibration and skylight curb height were cross-checked for the San Juan intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 78589.
+Roof restoration brief: shingle exposure calibration and skylight curb height were cross-checked for the San Juan shingle and leak scope.
 
 On-site sector marker: Hidalgo County / elevation 121 ft band — logged for map parity and ZIP-corridor verification.
 

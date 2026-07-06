@@ -11,17 +11,20 @@ lng: -99.1300
 zipSample: ["78028"]
 zipCodes: ["78028"]
 localPaths: ["Kerr County / elevation 1624 ft band", "Kerr County / ZIP 78028 sector", "Kerr County / coords 30.0400, -99.1300", "Kerr County / primary ZIP 78028"]
-zillowHomeValueUsd: 348630
 ---
 
-**Engineering Notice for Kerrville:** Structural loading calculated based on 1624 ft terrain assessment. Regional dispatch grid: Kerr County.
+**Engineering Notice for Kerrville:** Roof repair scope references 1624 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Kerr County.
 
+
+When wind or hail hits Kerrville, TX, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof work in Kerrville, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Kerr County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Note recent wind events when filing insurance photos for Kerrville, TX.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Regulatory note: Kerrville, TX projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -33,9 +36,7 @@ FAQ: Can you tarp only part of the roof? In Kerrville, TX, yes—if slope and an
 
 Risk flag: Tile underlayment age in Kerrville, TX can fail independently of visible tile cracks.
 
-Scope trace: drip-edge metal profile plus valley metal gauge referenced in Kerr County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 78028.
+Scope trace: drip-edge metal profile plus valley metal gauge referenced in Kerr County storm and leak review.
 
 Primary postal anchor 78028 with multi-ZIP overlap in Kerrville; field packets tag Kerr County for county-grid reconciliation.
 

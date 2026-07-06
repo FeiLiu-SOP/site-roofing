@@ -11,11 +11,14 @@ lng: -97.3700
 zipSample: ["73110", "73140", "73196", "73141", "73130"]
 zipCodes: ["73141", "73196", "73110", "73130", "73140"]
 localPaths: ["Oklahoma County / ZIP 73130 sector", "Oklahoma County / ZIP 73110 sector", "Oklahoma County / coords 35.4600, -97.3700", "Oklahoma County / ZIP 73196 sector", "Oklahoma County / elevation 1227 ft band"]
-zillowHomeValueUsd: 143525
 ---
 
-**Engineering Notice for Midwest City:** Structural loading calculated based on 1227 ft terrain assessment. Regional dispatch grid: Oklahoma County.
+**Engineering Notice for Midwest City:** Roof repair scope references 1227 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Oklahoma County.
 
+
+Certified roof remediation crews serving Midwest City, OK review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Midwest City, OK may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Oklahoma County clarifies whether restoration or replacement fits the damage pattern.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -31,9 +34,7 @@ Step: separate emergency tarp scope from permanent service line items.
 
 FAQ: Can you tarp only part of the roof? In Midwest City, OK, yes—if slope and anchor points support safe tie-offs.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-roof service brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Midwest City intake packet.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 On-site sector marker: Oklahoma County / coords 35.4600, -97.3700 — logged for map parity and ZIP-corridor verification.
 

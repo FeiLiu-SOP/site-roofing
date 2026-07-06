@@ -11,11 +11,14 @@ lng: -104.9500
 zipSample: ["80534"]
 zipCodes: ["80534"]
 localPaths: ["Weld County / ZIP 80534 sector", "Weld County / elevation 4908 ft band", "Weld County / primary ZIP 80534", "Weld County / coords 40.3500, -104.9500"]
-zillowHomeValueUsd: 510477
 ---
 
-**Engineering Notice for Johnstown:** Structural loading calculated based on 4908 ft terrain assessment. Regional dispatch grid: Weld County.
+**Engineering Notice for Johnstown:** Roof repair scope references 4908 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Weld County.
 
+
+Licensed roof remediation crews serving Johnstown, CO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Johnstown, CO may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Weld County clarifies whether restoration or replacement fits the damage pattern.
 
 FAQ: How long can shingles wait after storm damage? In Johnstown, CO, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -31,9 +34,9 @@ Risk flag: In Johnstown, CO, interior stains may track from HVAC condensate rath
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roof work brief: ridge cap nail schedule and starter-strip setback were cross-checked for the Johnstown intake packet.
+Roof restoration brief: ridge cap nail schedule and starter-strip setback were cross-checked for the Johnstown shingle and leak scope.
 
 Field note: Attic moisture pathway scan referenced ZIP 80534.
 

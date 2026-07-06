@@ -11,11 +11,14 @@ lng: -101.7200
 zipSample: ["79072"]
 zipCodes: ["79072"]
 localPaths: ["Hale County / elevation 3389 ft band", "Hale County / primary ZIP 79072", "Hale County / coords 34.1900, -101.7200", "Hale County / ZIP 79072 sector"]
-zillowHomeValueUsd: 116104
 ---
 
-**Engineering Notice for Plainview:** Structural loading calculated based on 3389 ft terrain assessment. Regional dispatch grid: Hale County.
+**Engineering Notice for Plainview:** Storm and emergency leak triage uses 3389 ft elevation band with Hale County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Plainview, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hale County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof remediation in Plainview, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Hale County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -23,7 +26,7 @@ Granule embedment loss on Plainview, TX north slopes can precede mat exposure.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -33,9 +36,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Hale County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 79072.
+Scope trace: shingle exposure calibration plus deck sheathing thickness referenced in Hale County storm and leak review.
 
 On-site sector marker: Hale County / coords 34.1900, -101.7200 — logged for map parity and ZIP-corridor verification.
 

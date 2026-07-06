@@ -11,11 +11,14 @@ lng: -87.6000
 zipSample: ["60473"]
 zipCodes: ["60473"]
 localPaths: ["Cook County / primary ZIP 60473", "Cook County / ZIP 60473 sector", "Cook County / elevation 614 ft band", "Cook County / coords 41.6000, -87.6000"]
-zillowHomeValueUsd: 223007
 ---
 
-**Engineering Notice for South Holland:** Structural loading calculated based on 614 ft terrain assessment. Regional dispatch grid: Cook County.
+**Engineering Notice for South Holland:** Shingle, flashing, and ventilation review recorded at 614 ft AMSL context (Cook County).
 
+
+Roof work service in South Holland, IL, Cook County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in South Holland, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Cook County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Wind-zone note: South Holland, IL exposure class can change starter-strip and cap nail schedules.
 
@@ -31,9 +34,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-Field routing: attic baffle spacing paired with shingle exposure calibration near ZIP 60473.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Primary postal anchor 60473 with multi-ZIP overlap in South Holland; field packets tag Cook County for county-grid reconciliation.
 

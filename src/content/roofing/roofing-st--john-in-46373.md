@@ -11,11 +11,14 @@ lng: -87.4700
 zipSample: ["46373", "46311"]
 zipCodes: ["46311", "46373"]
 localPaths: ["Lake County / elevation 702 ft band", "Lake County / ZIP 46311 sector", "Lake County / ZIP 46373 sector", "Lake County / primary ZIP 46373", "Lake County / coords 41.4400, -87.4700"]
-zillowHomeValueUsd: 448542
 ---
 
-**Engineering Notice for St. John:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for St. John:** Shingle, flashing, and ventilation review recorded at 702 ft AMSL context (Lake County).
 
+
+Emergency roof service in St. John, IN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Lake County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits St. John, IN, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 We coordinate St. John, IN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
@@ -34,8 +37,6 @@ Risk flag: Tile underlayment age in St. John, IN can fail independently of visib
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
-
-Scope trace: synthetic underlayment slip plus wind uplift clip spacing referenced in Lake County county grid review.
 
 On-site sector marker: Lake County / coords 41.4400, -87.4700 — logged for map parity and ZIP-corridor verification.
 

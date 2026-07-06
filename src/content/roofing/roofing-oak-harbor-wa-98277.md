@@ -11,11 +11,14 @@ lng: -122.6300
 zipSample: ["98277"]
 zipCodes: ["98277"]
 localPaths: ["Island County / elevation 164 ft band", "Island County / coords 48.3000, -122.6300", "Island County / primary ZIP 98277", "Island County / ZIP 98277 sector"]
-zillowHomeValueUsd: 528477
 ---
 
-**Engineering Notice for Oak Harbor:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Island County.
+**Engineering Notice for Oak Harbor:** Shingle, flashing, and ventilation review recorded at 164 ft AMSL context (Island County).
 
+
+Storm damage roofing service in Oak Harbor, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Island County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof work restoration in Oak Harbor, WA, Island County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -33,9 +36,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Code context: Ventilation ratios for Oak Harbor, WA attics should be checked against current mechanical exhaust additions.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Scope trace: chimney cricket slope plus starter-strip setback referenced in Island County county grid review.
+Scope trace: chimney cricket slope plus starter-strip setback referenced in Island County storm and leak review.
 
 Primary postal anchor 98277 with multi-ZIP overlap in Oak Harbor; field packets tag Island County for county-grid reconciliation.
 

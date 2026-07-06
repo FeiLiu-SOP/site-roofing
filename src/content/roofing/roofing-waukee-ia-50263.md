@@ -11,11 +11,14 @@ lng: -93.8900
 zipSample: ["50263", "50003"]
 zipCodes: ["50263", "50003"]
 localPaths: ["Dallas County / ZIP 50263 sector", "Dallas County / ZIP 50003 sector", "Dallas County / coords 41.6000, -93.8900", "Dallas County / elevation 997 ft band", "Dallas County / primary ZIP 50263"]
-zillowHomeValueUsd: 337643
 ---
 
-**Engineering Notice for Waukee:** Structural loading calculated based on 997 ft terrain assessment. Regional dispatch grid: Dallas County.
+**Engineering Notice for Waukee:** Shingle, flashing, and ventilation review recorded at 997 ft AMSL context (Dallas County).
 
+
+When wind or hail hits Waukee, IA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Qualified roof restoration crews serving Waukee, IA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -31,9 +34,7 @@ Risk flag: Tile underlayment age in Waukee, IA can fail independently of visible
 
 Hail bruising on Waukee, IA ridges may not breach felt until the next wind event.
 
-roof work brief: valley metal gauge and ridge cap nail schedule were cross-checked for the Waukee intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 50003/50263.
+Roof restoration brief: valley metal gauge and ridge cap nail schedule were cross-checked for the Waukee shingle and leak scope.
 
 On-site sector marker: Dallas County / ZIP 50263 sector — logged for map parity and ZIP-corridor verification.
 

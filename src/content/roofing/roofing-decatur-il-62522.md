@@ -11,17 +11,20 @@ lng: -88.9300
 zipSample: ["62525", "62521", "62522", "62523", "62526"]
 zipCodes: ["62524", "62521", "62523", "62525", "62526", "62522"]
 localPaths: ["Macon County / elevation 682 ft band", "Macon County / primary ZIP 62522", "Macon County / ZIP 62526 sector", "Macon County / ZIP 62521 sector", "Macon County / coords 39.8600, -88.9300"]
-zillowHomeValueUsd: 90421
 ---
 
-**Engineering Notice for Decatur:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Macon County.
+**Engineering Notice for Decatur:** Roof repair scope references 682 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Macon County.
 
+
+Roof service restoration in Decatur, IL, Macon County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Decatur, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Macon County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-FAQ: When should permanent remediation start? In Decatur, IL, delayed dry-in can expand insulation and ceiling repairs.
+FAQ: When should permanent restoration start? In Decatur, IL, delayed dry-in can expand insulation and ceiling repairs.
 
 Wind-zone note: Decatur, IL exposure class can change starter-strip and cap nail schedules.
 
@@ -31,7 +34,7 @@ Metal panel oil-canning in Decatur, IL may signal clip spacing issues, not wind 
 
 Step: log deck soundings near vents before tear-off is approved.
 
-roof service brief: soffit intake free area and counter-flashing reglet depth were cross-checked for the Decatur intake packet.
+Roof restoration brief: soffit intake free area and counter-flashing reglet depth were cross-checked for the Decatur shingle and leak scope.
 
 Field note: Shingle seal-down timing logged near ZIP 62521/62526/62524.
 

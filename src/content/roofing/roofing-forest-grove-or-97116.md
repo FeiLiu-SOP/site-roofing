@@ -11,17 +11,20 @@ lng: -123.1100
 zipSample: ["97116"]
 zipCodes: ["97116"]
 localPaths: ["Washington County / ZIP 97116 sector", "Washington County / coords 45.5200, -123.1100", "Washington County / elevation 194 ft band", "Washington County / primary ZIP 97116"]
-zillowHomeValueUsd: 526979
 ---
 
-**Engineering Notice for Forest Grove:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Forest Grove:** Roof repair scope references 194 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Washington County.
 
 
-FAQ: When should permanent restoration start? In Forest Grove, OR, delayed dry-in can expand insulation and ceiling repairs.
+Storm damage roof service in Forest Grove, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Washington County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof restoration in Forest Grove, OR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Washington County should photograph ceiling stains and attic wet spots before crews arrive.
+
+FAQ: When should permanent service start? In Forest Grove, OR, delayed dry-in can expand insulation and ceiling repairs.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -33,7 +36,7 @@ Risk flag: In Forest Grove, OR, interior stains may track from HVAC condensate r
 
 Step: stage tear-off debris paths away from landscape drains.
 
-Scope trace: wind uplift clip spacing plus counter-flashing reglet depth referenced in Washington County county grid review.
+Scope trace: wind uplift clip spacing plus counter-flashing reglet depth referenced in Washington County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 97116.
 

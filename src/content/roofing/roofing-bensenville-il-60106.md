@@ -11,11 +11,14 @@ lng: -87.9400
 zipSample: ["60105", "60399", "60106"]
 zipCodes: ["60106", "60105", "60399"]
 localPaths: ["DuPage County / ZIP 60106 sector", "DuPage County / ZIP 60399 sector", "DuPage County / elevation 679 ft band", "DuPage County / coords 41.9600, -87.9400", "DuPage County / primary ZIP 60106"]
-zillowHomeValueUsd: 343949
 ---
 
-**Engineering Notice for Bensenville:** Structural loading calculated based on 679 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Bensenville:** Shingle, flashing, and ventilation review recorded at 679 ft AMSL context (DuPage County).
 
+
+Storm damage roof service in Bensenville, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in DuPage County clarifies whether restoration or replacement fits the damage pattern.
+
+Certified roof service crews serving Bensenville, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: compare shingle manufacturer wind-zone ratings for Bensenville, IL exposure class.
 
@@ -33,9 +36,9 @@ Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 60106.
 
 Valley metal in Bensenville, IL should be reviewed whenever granule loss tracks the water line.
 
-Our Bensenville, IL dispatch packets reference county grid DuPage County and elevation band 679 ft.
+Our Bensenville, IL restoration packets reference DuPage County and elevation band 679 ft for shingle and leak scope.
 
-Scope trace: counter-flashing reglet depth plus valley metal gauge referenced in DuPage County county grid review.
+Scope trace: counter-flashing reglet depth plus valley metal gauge referenced in DuPage County storm and leak review.
 
 On-site sector marker: DuPage County / ZIP 60399 sector — logged for map parity and ZIP-corridor verification.
 

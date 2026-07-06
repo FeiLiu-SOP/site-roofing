@@ -11,11 +11,14 @@ lng: -84.0700
 zipSample: ["30024"]
 zipCodes: ["30024"]
 localPaths: ["Gwinnett County / ZIP 30024 sector", "Gwinnett County / elevation 1027 ft band", "Gwinnett County / coords 34.0500, -84.0700", "Gwinnett County / primary ZIP 30024"]
-zillowHomeValueUsd: 615400
 ---
 
-**Engineering Notice for Suwanee:** Structural loading calculated based on 1027 ft terrain assessment. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Suwanee:** Shingle, flashing, and ventilation review recorded at 1027 ft AMSL context (Gwinnett County).
 
+
+Roof service service in Suwanee, GA, Gwinnett County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Suwanee, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Gwinnett County clarifies whether service or replacement fits the damage pattern.
 
 TPO seam welds in Suwanee, GA commercial sections need probe tests after freeze events.
 
@@ -29,13 +32,11 @@ Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Scope trace: valley metal gauge plus ridge cap nail schedule referenced in Gwinnett County county grid review.
 
 On-site sector marker: Gwinnett County / coords 34.0500, -84.0700 — logged for map parity and ZIP-corridor verification.
 

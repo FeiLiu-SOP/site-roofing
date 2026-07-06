@@ -11,11 +11,14 @@ lng: -83.9500
 zipSample: ["48607", "48602", "48663", "48601", "48606"]
 zipCodes: ["48601", "48607", "48602", "48606", "48663"]
 localPaths: ["Saginaw County / ZIP 48601 sector", "Saginaw County / elevation 594 ft band", "Saginaw County / ZIP 48602 sector", "Saginaw County / primary ZIP 48602", "Saginaw County / ZIP 48663 sector"]
-zillowHomeValueUsd: 81410
 ---
 
-**Engineering Notice for Saginaw:** Structural loading calculated based on 594 ft terrain assessment. Regional dispatch grid: Saginaw County.
+**Engineering Notice for Saginaw:** Roof repair scope references 594 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Saginaw County.
 
+
+Roof service service in Saginaw, MI, Saginaw County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof remediation in Saginaw, MI often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Saginaw County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
@@ -25,13 +28,11 @@ Risk flag: Tile underlayment age in Saginaw, MI can fail independently of visibl
 
 Valley metal in Saginaw, MI should be reviewed whenever granule loss tracks the water line.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Code context: Ventilation ratios for Saginaw, MI attics should be checked against current mechanical exhaust additions.
-
-Scope trace: ice-barrier lap sequence plus shingle exposure calibration referenced in Saginaw County county grid review.
 
 **Regional Infrastructure Brief:** Elevation baseline indicates ~594 ft across the Saginaw County area. Coordinates: 43.4200, -83.9500. ZIP sample: 48602, 48663, 48606, 48607, 48601. Logistics priority: Serving residential sectors across Saginaw County and north-east ZIP 48602 grid.
 

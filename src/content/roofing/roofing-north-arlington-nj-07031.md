@@ -11,11 +11,14 @@ lng: -74.1300
 zipSample: ["07031"]
 zipCodes: ["07031"]
 localPaths: ["Bergen County / ZIP 07031 sector", "Bergen County / coords 40.7900, -74.1300", "Bergen County / elevation 92 ft band", "Bergen County / primary ZIP 07031"]
-zillowHomeValueUsd: 619425
 ---
 
-**Engineering Notice for North Arlington:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Bergen County.
+**Engineering Notice for North Arlington:** Storm and emergency leak triage uses 92 ft elevation band with Bergen County service-area context for roofing repairs.
 
+
+Certified roof service crews serving North Arlington, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in North Arlington, NJ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Bergen County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Regulatory note: North Arlington, NJ projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -32,8 +35,6 @@ Risk flag: Tile underlayment age in North Arlington, NJ can fail independently o
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 07031.
-
-Scope trace: soffit intake free area plus synthetic underlayment slip referenced in Bergen County county grid review.
 
 On-site sector marker: Bergen County / elevation 92 ft band — logged for map parity and ZIP-corridor verification.
 

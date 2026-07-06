@@ -11,11 +11,14 @@ lng: -70.6900
 zipSample: ["01931", "01930"]
 zipCodes: ["01930", "01931"]
 localPaths: ["Essex County / elevation 3 ft band", "Essex County / coords 42.6300, -70.6900", "Essex County / ZIP 01931 sector", "Essex County / ZIP 01930 sector", "Essex County / primary ZIP 01930"]
-zillowHomeValueUsd: 760883
 ---
 
-**Engineering Notice for Gloucester:** Structural loading calculated based on 3 ft terrain assessment. Regional dispatch grid: Essex County.
+**Engineering Notice for Gloucester:** Shingle, flashing, and ventilation review recorded at 3 ft AMSL context (Essex County).
 
+
+Certified roof service crews serving Gloucester, MA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Gloucester, MA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Essex County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
@@ -29,15 +32,13 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
 Low-slope sections in Gloucester, MA need positive drainage before membrane repairs are scoped.
 
-Field routing: attic baffle spacing paired with drip-edge metal profile near ZIP 01930.
-
-Field note: Shingle seal-down timing logged near ZIP 01930/01931.
+Local service note: attic baffle spacing paired with drip-edge metal profile near ZIP 01930 for emergency roof work repairs.
 
 Regional mesh label Essex County: moisture and logistics baselines are keyed to Gloucester, MA before niche-specific work begins.
 

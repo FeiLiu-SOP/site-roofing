@@ -11,15 +11,18 @@ lng: -99.4900
 zipSample: ["78043", "78042", "78045", "78040", "78041"]
 zipCodes: ["78046", "78041", "78040", "78043", "78045", "78042"]
 localPaths: ["Webb County / ZIP 78043 sector", "Webb County / primary ZIP 78046", "Webb County / ZIP 78041 sector", "Webb County / ZIP 78042 sector", "Webb County / ZIP 78040 sector"]
-zillowHomeValueUsd: 192624
 ---
 
-**Engineering Notice for Laredo:** Structural loading calculated based on 512 ft terrain assessment. Regional dispatch grid: Webb County.
+**Engineering Notice for Laredo:** Storm and emergency leak triage uses 512 ft elevation band with Webb County service-area context for roofing repairs.
 
+
+When wind or hail hits Laredo, TX, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof service in Laredo, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Webb County clarifies whether service or replacement fits the damage pattern.
 
 We coordinate Laredo, TX roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: In Laredo, TX, algae-resistant granules may be specified for north-facing slopes.
 
@@ -35,7 +38,7 @@ Wind-zone note: Laredo, TX exposure class can change starter-strip and cap nail 
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Field routing: valley metal gauge paired with ridge cap nail schedule near ZIP 78046.
+Local service note: valley metal gauge paired with ridge cap nail schedule near ZIP 78046 for emergency roof service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 78042/78043/78041.
 

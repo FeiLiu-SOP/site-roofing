@@ -11,11 +11,14 @@ lng: -110.8800
 zipSample: ["85750", "85728", "85718", "85715"]
 zipCodes: ["85715", "85728", "85718", "85750"]
 localPaths: ["Pima County / ZIP 85728 sector", "Pima County / ZIP 85715 sector", "Pima County / primary ZIP 85750", "Pima County / ZIP 85718 sector", "Pima County / elevation 2785 ft band"]
-zillowHomeValueUsd: 605335
 ---
 
-**Engineering Notice for Catalina Foothills:** Structural loading calculated based on 2785 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Catalina Foothills:** Shingle, flashing, and ventilation review recorded at 2785 ft AMSL context (Pima County).
 
+
+When wind or hail hits Catalina Foothills, AZ, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof restoration in Catalina Foothills, AZ often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Pima County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Low-slope sections in Catalina Foothills, AZ need positive drainage before membrane repairs are scoped.
 
@@ -23,7 +26,7 @@ Risk flag: In Catalina Foothills, AZ, interior stains may track from HVAC conden
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -33,9 +36,7 @@ FAQ: How long can shingles wait after storm damage? In Catalina Foothills, AZ, d
 
 Code context: Ventilation ratios for Catalina Foothills, AZ attics should be checked against current mechanical exhaust additions.
 
-Field routing: shingle exposure calibration paired with skylight curb height near ZIP 85750.
-
-Field note: Attic moisture pathway scan referenced ZIP 85750/85728/85718.
+Local service note: shingle exposure calibration paired with skylight curb height near ZIP 85750 for emergency roof service repairs.
 
 On-site sector marker: Pima County / ZIP 85750 sector — logged for map parity and ZIP-corridor verification.
 

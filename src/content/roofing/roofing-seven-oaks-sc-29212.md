@@ -11,13 +11,16 @@ lng: -81.1400
 zipSample: ["29227", "29212", "29210"]
 zipCodes: ["29212", "29227", "29210"]
 localPaths: ["Lexington County / ZIP 29210 sector", "Lexington County / primary ZIP 29212", "Lexington County / ZIP 29212 sector", "Lexington County / ZIP 29227 sector", "Lexington County / coords 34.0500, -81.1400"]
-zillowHomeValueUsd: 277814
 ---
 
-**Engineering Notice for Seven Oaks:** Structural loading calculated based on 262 ft terrain assessment. Regional dispatch grid: Lexington County.
+**Engineering Notice for Seven Oaks:** Shingle, flashing, and ventilation review recorded at 262 ft AMSL context (Lexington County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Certified roof service crews serving Seven Oaks, SC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof service in Seven Oaks, SC often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Lexington County should photograph ceiling stains and attic wet spots before crews arrive.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Can you tarp only part of the roof? In Seven Oaks, SC, yes—if slope and anchor points support safe tie-offs.
 
@@ -33,7 +36,7 @@ Step: compare shingle manufacturer wind-zone ratings for Seven Oaks, SC exposure
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Scope trace: chimney cricket slope plus attic baffle spacing referenced in Lexington County county grid review.
+Scope trace: chimney cricket slope plus attic baffle spacing referenced in Lexington County storm and leak review.
 
 On-site sector marker: Lexington County / coords 34.0500, -81.1400 — logged for map parity and ZIP-corridor verification.
 

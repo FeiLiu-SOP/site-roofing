@@ -11,13 +11,16 @@ lng: -72.9200
 zipSample: ["06534", "06540", "06511", "06521", "06503"]
 zipCodes: ["06503", "06536", "06533", "06521", "06530", "06535", "06531", "06510", "06513", "06520", "06508", "06532"]
 localPaths: ["South Central Connecticut County / primary ZIP 06519", "South Central Connecticut County / ZIP 06503 sector", "South Central Connecticut County / ZIP 06540 sector", "South Central Connecticut County / coords 41.3100, -72.9200", "South Central Connecticut County / ZIP 06534 sector"]
-zillowHomeValueUsd: 295618
 ---
 
-**Engineering Notice for New Haven:** Structural loading calculated based on 49 ft terrain assessment. Regional dispatch grid: South Central Connecticut County.
+**Engineering Notice for New Haven:** Shingle, flashing, and ventilation review recorded at 49 ft AMSL context (South Central Connecticut County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Licensed roof restoration crews serving New Haven, CT review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits New Haven, CT, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -33,7 +36,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Scope trace: drip-edge metal profile plus valley metal gauge referenced in South Central Connecticut County county grid review.
+Scope trace: drip-edge metal profile plus valley metal gauge referenced in South Central Connecticut County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 06540/06503/06510.
 

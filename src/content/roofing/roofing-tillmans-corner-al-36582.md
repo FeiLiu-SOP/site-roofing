@@ -11,11 +11,14 @@ lng: -88.2100
 zipSample: ["36582", "36619"]
 zipCodes: ["36582", "36619"]
 localPaths: ["Mobile County / ZIP 36582 sector", "Mobile County / coords 30.5800, -88.2100", "Mobile County / elevation 174 ft band", "Mobile County / primary ZIP 36582", "Mobile County / ZIP 36619 sector"]
-zillowHomeValueUsd: 203041
 ---
 
-**Engineering Notice for Tillmans Corner:** Structural loading calculated based on 174 ft terrain assessment. Regional dispatch grid: Mobile County.
+**Engineering Notice for Tillmans Corner:** Roof repair scope references 174 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Mobile County.
 
+
+Roof work remediation in Tillmans Corner, AL, Mobile County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof restoration crews serving Tillmans Corner, AL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Risk flag: Tile underlayment age in Tillmans Corner, AL can fail independently of visible tile cracks.
 
@@ -27,13 +30,11 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Synthetic underlayment slip in Tillmans Corner, AL is often tied to deck moisture, not wind alone.
 
-Our Tillmans Corner, AL dispatch packets reference county grid Mobile County and elevation band 174 ft.
+Our Tillmans Corner, AL restoration packets reference Mobile County and elevation band 174 ft for shingle and leak scope.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
-
-Scope trace: ice-barrier lap sequence plus skylight curb height referenced in Mobile County county grid review.
 
 On-site sector marker: Mobile County / elevation 174 ft band — logged for map parity and ZIP-corridor verification.
 

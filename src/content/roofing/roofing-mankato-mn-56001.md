@@ -11,11 +11,14 @@ lng: -93.9800
 zipSample: ["56001", "56002"]
 zipCodes: ["56001", "56002"]
 localPaths: ["Blue Earth County / ZIP 56002 sector", "Blue Earth County / coords 44.1700, -93.9800", "Blue Earth County / elevation 1007 ft band", "Blue Earth County / ZIP 56001 sector", "Blue Earth County / primary ZIP 56001"]
-zillowHomeValueUsd: 300662
 ---
 
-**Engineering Notice for Mankato:** Structural loading calculated based on 1007 ft terrain assessment. Regional dispatch grid: Blue Earth County.
+**Engineering Notice for Mankato:** Shingle, flashing, and ventilation review recorded at 1007 ft AMSL context (Blue Earth County).
 
+
+Roof service service in Mankato, MN, Blue Earth County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Emergency roof service in Mankato, MN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Blue Earth County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Low-slope sections in Mankato, MN need positive drainage before membrane repairs are scoped.
 
@@ -30,8 +33,6 @@ Risk flag: Tile underlayment age in Mankato, MN can fail independently of visibl
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
-
-Field routing: shingle exposure calibration paired with soffit intake free area near ZIP 56001.
 
 Primary postal anchor 56001 with multi-ZIP overlap in Mankato; field packets tag Blue Earth County for county-grid reconciliation.
 

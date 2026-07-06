@@ -11,11 +11,14 @@ lng: -88.0900
 zipSample: ["60108", "60117"]
 zipCodes: ["60108", "60117"]
 localPaths: ["DuPage County / ZIP 60117 sector", "DuPage County / primary ZIP 60108", "DuPage County / elevation 794 ft band", "DuPage County / coords 41.9500, -88.0900", "DuPage County / ZIP 60108 sector"]
-zillowHomeValueUsd: 432927
 ---
 
-**Engineering Notice for Bloomingdale:** Structural loading calculated based on 794 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for Bloomingdale:** Shingle, flashing, and ventilation review recorded at 794 ft AMSL context (DuPage County).
 
+
+Emergency roof remediation in Bloomingdale, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in DuPage County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service remediation in Bloomingdale, IL, DuPage County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 TPO seam welds in Bloomingdale, IL commercial sections need probe tests after freeze events.
 
@@ -23,7 +26,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Risk flag: Tile underlayment age in Bloomingdale, IL can fail independently of visible tile cracks.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -31,9 +34,7 @@ Code context: Ventilation ratios for Bloomingdale, IL attics should be checked a
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-roofing service brief: starter-strip setback and wind uplift clip spacing were cross-checked for the Bloomingdale intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 60117/60108.
+Roof remediation brief: starter-strip setback and wind uplift clip spacing were cross-checked for the Bloomingdale shingle and leak scope.
 
 Coordinate-anchored dispatch note: center reference 41.9500, -88.0900 at elevation ~794 ft aligns with DuPage County intake staging.
 

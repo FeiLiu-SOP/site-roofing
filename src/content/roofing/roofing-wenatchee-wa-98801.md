@@ -11,11 +11,14 @@ lng: -120.3300
 zipSample: ["98801"]
 zipCodes: ["98801"]
 localPaths: ["Chelan County / coords 47.4400, -120.3300", "Chelan County / elevation 702 ft band", "Chelan County / primary ZIP 98801", "Chelan County / ZIP 98801 sector"]
-zillowHomeValueUsd: 490439
 ---
 
-**Engineering Notice for Wenatchee:** Structural loading calculated based on 702 ft terrain assessment. Regional dispatch grid: Chelan County.
+**Engineering Notice for Wenatchee:** Shingle, flashing, and ventilation review recorded at 702 ft AMSL context (Chelan County).
 
+
+Storm damage roof work in Wenatchee, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Chelan County clarifies whether restoration or replacement fits the damage pattern.
+
+When wind or hail hits Wenatchee, WA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Code context: Ventilation ratios for Wenatchee, WA attics should be checked against current mechanical exhaust additions.
 
@@ -23,7 +26,7 @@ Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 98801.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -32,8 +35,6 @@ Risk flag: Tile underlayment age in Wenatchee, WA can fail independently of visi
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
 Synthetic underlayment slip in Wenatchee, WA is often tied to deck moisture, not wind alone.
-
-roof work brief: pipe boot manufacturer match and soffit intake free area were cross-checked for the Wenatchee intake packet.
 
 ZIP-corridor snapshot for Wenatchee, WA: sampled sectors include 98801; county routing grid remains Chelan County.
 

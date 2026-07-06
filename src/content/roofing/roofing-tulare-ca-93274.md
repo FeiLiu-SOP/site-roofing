@@ -11,11 +11,14 @@ lng: -119.3400
 zipSample: ["93275", "93274"]
 zipCodes: ["93274", "93275"]
 localPaths: ["Tulare County / primary ZIP 93274", "Tulare County / ZIP 93274 sector", "Tulare County / coords 36.2000, -119.3400", "Tulare County / ZIP 93275 sector", "Tulare County / elevation 289 ft band"]
-zillowHomeValueUsd: 355565
 ---
 
-**Engineering Notice for Tulare:** Structural loading calculated based on 289 ft terrain assessment. Regional dispatch grid: Tulare County.
+**Engineering Notice for Tulare:** Storm and emergency leak triage uses 289 ft elevation band with Tulare County service-area context for roofing repairs.
 
+
+Roof service restoration in Tulare, CA, Tulare County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Tulare, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Tulare County clarifies whether restoration or replacement fits the damage pattern.
 
 Wind-zone note: Tulare, CA exposure class can change starter-strip and cap nail schedules.
 
@@ -29,11 +32,11 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent service line items.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field routing: starter-strip setback paired with shingle exposure calibration near ZIP 93274.
+Local service note: starter-strip setback paired with shingle exposure calibration near ZIP 93274 for emergency roofing service repairs.
 
 Field note: Valley debris and granule loss noted for ZIP 93275/93274.
 

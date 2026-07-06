@@ -11,11 +11,14 @@ lng: -96.5000
 zipSample: ["75407"]
 zipCodes: ["75407"]
 localPaths: ["Collin County / primary ZIP 75407", "Collin County / coords 33.1800, -96.5000", "Collin County / elevation 558 ft band", "Collin County / ZIP 75407 sector"]
-zillowHomeValueUsd: 293558
 ---
 
-**Engineering Notice for Princeton:** Structural loading calculated based on 558 ft terrain assessment. Regional dispatch grid: Collin County.
+**Engineering Notice for Princeton:** Shingle, flashing, and ventilation review recorded at 558 ft AMSL context (Collin County).
 
+
+Certified roof service crews serving Princeton, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Princeton, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Collin County clarifies whether service or replacement fits the damage pattern.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -31,11 +34,9 @@ We coordinate Princeton, TX roof reviews with photo logs, moisture notes, and re
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Hail bruising on Princeton, TX ridges may not breach felt until the next wind event.
-
-Scope trace: valley metal gauge plus shingle exposure calibration referenced in Collin County county grid review.
 
 Primary postal anchor 75407 with multi-ZIP overlap in Princeton; field packets tag Collin County for county-grid reconciliation.
 

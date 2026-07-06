@@ -11,13 +11,16 @@ lng: -79.9900
 zipSample: ["27265", "27235", "27268", "27262", "27282"]
 zipCodes: ["27265", "27262", "27268", "27264", "27263", "27282", "27261", "27260", "27235"]
 localPaths: ["Guilford County / elevation 886 ft band", "Guilford County / primary ZIP 27265", "Guilford County / ZIP 27282 sector", "Guilford County / coords 35.9900, -79.9900", "Guilford County / ZIP 27268 sector"]
-zillowHomeValueUsd: 302108
 ---
 
-**Engineering Notice for High Point:** Structural loading calculated based on 886 ft terrain assessment. Regional dispatch grid: Guilford County.
+**Engineering Notice for High Point:** Roof repair scope references 886 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Guilford County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Storm damage roofing service in High Point, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Guilford County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits High Point, NC, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -35,9 +38,7 @@ Risk flag: In High Point, NC, interior stains may track from HVAC condensate rat
 
 Attic ventilation deficits in High Point, NC can mimic roof leaks at ceiling penetrations.
 
-Field routing: ridge cap nail schedule paired with starter-strip setback near ZIP 27265.
-
-Field note: Attic moisture pathway scan referenced ZIP 27282/27265/27263.
+Local service note: ridge cap nail schedule paired with starter-strip setback near ZIP 27265 for emergency roofing service repairs.
 
 ZIP-corridor snapshot for High Point, NC: sampled sectors include 27282, 27263, 27235, 27261, 27264, 27262, 27268, 27265; county routing grid remains Guilford County.
 

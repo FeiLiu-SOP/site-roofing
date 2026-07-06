@@ -11,11 +11,14 @@ lng: -89.8500
 zipSample: ["38654"]
 zipCodes: ["38654"]
 localPaths: ["DeSoto County / coords 34.9600, -89.8500", "DeSoto County / ZIP 38654 sector", "DeSoto County / primary ZIP 38654", "DeSoto County / elevation 358 ft band"]
-zillowHomeValueUsd: 331934
 ---
 
-**Engineering Notice for Olive Branch:** Structural loading calculated based on 358 ft terrain assessment. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Olive Branch:** Roof repair scope references 358 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in DeSoto County.
 
+
+Certified roof restoration crews serving Olive Branch, MS review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work remediation in Olive Branch, MS, DeSoto County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -29,15 +32,13 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
 Step: map ventilation intake and exhaust pairs for Olive Branch, MS attic runs.
 
-Scope trace: attic baffle spacing plus pipe boot manufacturer match referenced in DeSoto County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 38654.
+Scope trace: attic baffle spacing plus pipe boot manufacturer match referenced in DeSoto County storm and leak review.
 
 Coordinate-anchored dispatch note: center reference 34.9600, -89.8500 at elevation ~358 ft aligns with DeSoto County intake staging.
 

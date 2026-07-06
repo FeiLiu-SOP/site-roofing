@@ -11,13 +11,16 @@ lng: -110.9800
 zipSample: ["85737", "85704", "85755", "85742"]
 zipCodes: ["85704", "85737", "85742", "85755"]
 localPaths: ["Pima County / ZIP 85755 sector", "Pima County / ZIP 85737 sector", "Pima County / ZIP 85742 sector", "Pima County / coords 32.4200, -110.9800", "Pima County / elevation 2740 ft band"]
-zillowHomeValueUsd: 513226
 ---
 
-**Engineering Notice for Oro Valley:** Structural loading calculated based on 2740 ft terrain assessment. Regional dispatch grid: Pima County.
+**Engineering Notice for Oro Valley:** Roof repair scope references 2740 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Pima County.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Certified roof service crews serving Oro Valley, AZ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Oro Valley, AZ, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -31,9 +34,7 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 Wind-zone note: Oro Valley, AZ exposure class can change starter-strip and cap nail schedules.
 
-roof service brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Oro Valley intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 85737/85742/85755.
+Roof restoration brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Oro Valley shingle and leak scope.
 
 On-site sector marker: Pima County / ZIP 85704 sector — logged for map parity and ZIP-corridor verification.
 

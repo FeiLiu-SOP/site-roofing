@@ -11,11 +11,14 @@ lng: -84.2100
 zipSample: ["32312", "32318", "32309"]
 zipCodes: ["32309", "32312", "32318"]
 localPaths: ["Leon County / elevation 167 ft band", "Leon County / coords 30.5700, -84.2100", "Leon County / ZIP 32312 sector", "Leon County / ZIP 32309 sector", "Leon County / primary ZIP 32312"]
-zillowHomeValueUsd: 452053
 ---
 
-**Engineering Notice for Bradfordville:** Structural loading calculated based on 167 ft terrain assessment. Regional dispatch grid: Leon County.
+**Engineering Notice for Bradfordville:** Storm and emergency leak triage uses 167 ft elevation band with Leon County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Bradfordville, FL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Leon County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Qualified roof service crews serving Bradfordville, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -27,11 +30,11 @@ Parapet coping movement in Bradfordville, FL can channel water behind wall cladd
 
 Wind-zone note: Bradfordville, FL exposure class can change starter-strip and cap nail schedules.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-Scope trace: synthetic underlayment slip plus deck sheathing thickness referenced in Leon County county grid review.
+Scope trace: synthetic underlayment slip plus deck sheathing thickness referenced in Leon County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 32309/32318/32312.
 

@@ -11,11 +11,14 @@ lng: -78.6400
 zipSample: ["27697", "27607", "27622", "27636", "27676"]
 zipCodes: ["27610", "27616", "27608", "27620", "27602", "27624", "27606", "27627", "27626", "27650", "27617", "27690"]
 localPaths: ["Wake County / ZIP 27697 sector", "Wake County / coords 35.8300, -78.6400", "Wake County / elevation 344 ft band", "Wake County / ZIP 27676 sector", "Wake County / ZIP 27622 sector"]
-zillowHomeValueUsd: 443668
 ---
 
-**Engineering Notice for Raleigh:** Structural loading calculated based on 344 ft terrain assessment. Regional dispatch grid: Wake County.
+**Engineering Notice for Raleigh:** Storm and emergency leak triage uses 344 ft elevation band with Wake County service-area context for roofing repairs.
 
+
+When wind or hail hits Raleigh, NC, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof service service in Raleigh, NC, Wake County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: map ventilation intake and exhaust pairs for Raleigh, NC attic runs.
 
@@ -27,15 +30,13 @@ Across Raleigh, NC, ice-dam seasons often begin with clogged gutters rather than
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 27617.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field routing: synthetic underlayment slip paired with ridge cap nail schedule near ZIP 27617.
-
-Field note: Attic moisture pathway scan referenced ZIP 27627/27695/27609.
+Local service note: synthetic underlayment slip paired with ridge cap nail schedule near ZIP 27617 for emergency roofing service repairs.
 
 On-site sector marker: Wake County / ZIP 27620 sector — logged for map parity and ZIP-corridor verification.
 

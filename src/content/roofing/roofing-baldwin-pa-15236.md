@@ -11,11 +11,14 @@ lng: -79.9700
 zipSample: ["15227", "15236"]
 zipCodes: ["15236", "15227"]
 localPaths: ["Allegheny County / primary ZIP 15236", "Allegheny County / elevation 1135 ft band", "Allegheny County / coords 40.3700, -79.9700", "Allegheny County / ZIP 15236 sector", "Allegheny County / ZIP 15227 sector"]
-zillowHomeValueUsd: 249571
 ---
 
-**Engineering Notice for Baldwin:** Structural loading calculated based on 1135 ft terrain assessment. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Baldwin:** Storm and emergency leak triage uses 1135 ft elevation band with Allegheny County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Baldwin, PA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Allegheny County clarifies whether service or replacement fits the damage pattern.
+
+Qualified roof remediation crews serving Baldwin, PA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -27,7 +30,7 @@ Material note: Architectural shingle bundles vary by exposure width—verify fie
 
 Wood shake courses in Baldwin, PA require skip-spacing rules at valleys.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -35,9 +38,7 @@ Code context: Ventilation ratios for Baldwin, PA attics should be checked agains
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
-roofing service brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the Baldwin intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 15236/15227.
+Roof remediation brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the Baldwin shingle and leak scope.
 
 Regional mesh label Allegheny County: moisture and logistics baselines are keyed to Baldwin, PA before niche-specific work begins.
 

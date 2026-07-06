@@ -11,11 +11,14 @@ lng: -117.8200
 zipSample: ["92863", "92864", "92868", "92857", "92866"]
 zipCodes: ["92857", "92867", "92863", "92865", "92864", "92869", "92868", "92866", "92856"]
 localPaths: ["Orange County / ZIP 92868 sector", "Orange County / primary ZIP 92868", "Orange County / ZIP 92866 sector", "Orange County / ZIP 92857 sector", "Orange County / ZIP 92864 sector"]
-zillowHomeValueUsd: 907092
 ---
 
-**Engineering Notice for Orange:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Orange:** Shingle, flashing, and ventilation review recorded at 302 ft AMSL context (Orange County).
 
+
+Certified roof service crews serving Orange, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof restoration in Orange, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Orange County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
@@ -29,11 +32,9 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
-
-Scope trace: attic baffle spacing plus pipe boot manufacturer match referenced in Orange County county grid review.
 
 Coordinate-anchored dispatch note: center reference 33.8000, -117.8200 at elevation ~302 ft aligns with Orange County intake staging.
 

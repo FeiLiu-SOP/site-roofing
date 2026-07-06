@@ -11,11 +11,14 @@ lng: -73.3900
 zipSample: ["11757", "11701", "11726"]
 zipCodes: ["11726", "11701", "11757"]
 localPaths: ["Suffolk County / primary ZIP 11726", "Suffolk County / coords 40.6700, -73.3900", "Suffolk County / ZIP 11726 sector", "Suffolk County / ZIP 11757 sector", "Suffolk County / elevation 20 ft band"]
-zillowHomeValueUsd: 568485
 ---
 
-**Engineering Notice for Copiague:** Structural loading calculated based on 20 ft terrain assessment. Regional dispatch grid: Suffolk County.
+**Engineering Notice for Copiague:** Shingle, flashing, and ventilation review recorded at 20 ft AMSL context (Suffolk County).
 
+
+Emergency roof service in Copiague, NY often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Suffolk County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits Copiague, NY, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Freeze-thaw cycles around Copiague, NY stress nail pops along eaves and rake edges.
 
@@ -27,15 +30,13 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Wood shake courses in Copiague, NY require skip-spacing rules at valleys.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
-
-roof work brief: wind uplift clip spacing and soffit intake free area were cross-checked for the Copiague intake packet.
 
 Coordinate-anchored dispatch note: center reference 40.6700, -73.3900 at elevation ~20 ft aligns with Suffolk County intake staging.
 

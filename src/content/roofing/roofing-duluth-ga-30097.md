@@ -11,11 +11,14 @@ lng: -84.1500
 zipSample: ["30097", "30096", "30098"]
 zipCodes: ["30098", "30096", "30097"]
 localPaths: ["Gwinnett County / ZIP 30098 sector", "Gwinnett County / coords 34.0100, -84.1500", "Gwinnett County / primary ZIP 30097", "Gwinnett County / ZIP 30097 sector", "Gwinnett County / ZIP 30096 sector"]
-zillowHomeValueUsd: 720364
 ---
 
-**Engineering Notice for Duluth:** Structural loading calculated based on 1083 ft terrain assessment. Regional dispatch grid: Gwinnett County.
+**Engineering Notice for Duluth:** Storm and emergency leak triage uses 1083 ft elevation band with Gwinnett County service-area context for roofing repairs.
 
+
+Storm damage roof work in Duluth, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Gwinnett County clarifies whether restoration or replacement fits the damage pattern.
+
+Roof service service in Duluth, GA, Gwinnett County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -23,7 +26,7 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for Duluth, GA attics should be checked against current mechanical exhaust additions.
 
@@ -31,7 +34,7 @@ Risk flag: Tile underlayment age in Duluth, GA can fail independently of visible
 
 In Duluth, GA, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Gwinnett County county grid review.
+Scope trace: attic baffle spacing plus ice-barrier lap sequence referenced in Gwinnett County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 30097/30096/30098.
 

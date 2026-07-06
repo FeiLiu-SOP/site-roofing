@@ -11,11 +11,14 @@ lng: -122.2700
 zipSample: ["94501", "94502"]
 zipCodes: ["94501", "94502"]
 localPaths: ["Alameda County / coords 37.7700, -122.2700", "Alameda County / elevation 16 ft band", "Alameda County / primary ZIP 94501", "Alameda County / ZIP 94502 sector", "Alameda County / ZIP 94501 sector"]
-zillowHomeValueUsd: 1146626
 ---
 
-**Engineering Notice for Alameda:** Structural loading calculated based on 16 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Alameda:** Roof repair scope references 16 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Alameda County.
 
+
+When wind or hail hits Alameda, CA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service restoration in Alameda, CA, Alameda County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: In Alameda, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -33,7 +36,7 @@ Granule embedment loss on Alameda, CA north slopes can precede mat exposure.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-roof work brief: skylight curb height and starter-strip setback were cross-checked for the Alameda intake packet.
+Roof service brief: skylight curb height and starter-strip setback were cross-checked for the Alameda shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 94502/94501.
 

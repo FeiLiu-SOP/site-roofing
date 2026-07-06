@@ -11,11 +11,14 @@ lng: -119.1300
 zipSample: ["99302", "99301"]
 zipCodes: ["99302", "99301"]
 localPaths: ["Franklin County / primary ZIP 99301", "Franklin County / elevation 387 ft band", "Franklin County / coords 46.2500, -119.1300", "Franklin County / ZIP 99302 sector", "Franklin County / ZIP 99301 sector"]
-zillowHomeValueUsd: 418144
 ---
 
-**Engineering Notice for Pasco:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Pasco:** Shingle, flashing, and ventilation review recorded at 387 ft AMSL context (Franklin County).
 
+
+Storm damage roof service in Pasco, WA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Franklin County clarifies whether service or replacement fits the damage pattern.
+
+Roof work remediation in Pasco, WA, Franklin County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Code context: Ventilation ratios for Pasco, WA attics should be checked against current mechanical exhaust additions.
 
@@ -33,7 +36,7 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Risk flag: In Pasco, WA, interior stains may track from HVAC condensate rather than roof cladding.
 
-Scope trace: ice-barrier lap sequence plus skylight curb height referenced in Franklin County county grid review.
+Scope trace: ice-barrier lap sequence plus skylight curb height referenced in Franklin County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 99301/99302.
 

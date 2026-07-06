@@ -11,17 +11,20 @@ lng: -86.9900
 zipSample: ["35601", "35603", "35609", "35602"]
 zipCodes: ["35601", "35602", "35609", "35603"]
 localPaths: ["Morgan County / ZIP 35603 sector", "Morgan County / primary ZIP 35603", "Morgan County / coords 34.5700, -86.9900", "Morgan County / ZIP 35602 sector", "Morgan County / ZIP 35601 sector"]
-zillowHomeValueUsd: 280532
 ---
 
-**Engineering Notice for Decatur:** Structural loading calculated based on 591 ft terrain assessment. Regional dispatch grid: Morgan County.
+**Engineering Notice for Decatur:** Storm and emergency leak triage uses 591 ft elevation band with Morgan County service-area context for roofing repairs.
 
+
+Roof service service in Decatur, AL, Morgan County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Qualified roof remediation crews serving Decatur, AL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
 Step: separate emergency tarp scope from permanent restoration line items.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wind-zone note: Decatur, AL exposure class can change starter-strip and cap nail schedules.
 
@@ -35,7 +38,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-Scope trace: valley metal gauge plus shingle exposure calibration referenced in Morgan County county grid review.
+Scope trace: valley metal gauge plus shingle exposure calibration referenced in Morgan County storm and leak review.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 35602/35609/35603.
 

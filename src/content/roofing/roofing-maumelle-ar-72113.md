@@ -11,11 +11,14 @@ lng: -92.4000
 zipSample: ["72113"]
 zipCodes: ["72113"]
 localPaths: ["Pulaski County / coords 34.8500, -92.4000", "Pulaski County / ZIP 72113 sector", "Pulaski County / primary ZIP 72113", "Pulaski County / elevation 299 ft band"]
-zillowHomeValueUsd: 303782
 ---
 
-**Engineering Notice for Maumelle:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: Pulaski County.
+**Engineering Notice for Maumelle:** Storm and emergency leak triage uses 299 ft elevation band with Pulaski County service-area context for roofing repairs.
 
+
+Roof service remediation in Maumelle, AR, Pulaski County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roofing service in Maumelle, AR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Pulaski County clarifies whether service or replacement fits the damage pattern.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -30,8 +33,6 @@ Metal panel oil-canning in Maumelle, AR may signal clip spacing issues, not wind
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
 Wind-zone note: Maumelle, AR exposure class can change starter-strip and cap nail schedules.
-
-Field routing: synthetic underlayment slip paired with valley metal gauge near ZIP 72113.
 
 On-site sector marker: Pulaski County / ZIP 72113 sector — logged for map parity and ZIP-corridor verification.
 

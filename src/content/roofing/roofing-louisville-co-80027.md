@@ -11,11 +11,14 @@ lng: -105.1400
 zipSample: ["80027"]
 zipCodes: ["80027"]
 localPaths: ["Boulder County / ZIP 80027 sector", "Boulder County / elevation 5407 ft band", "Boulder County / primary ZIP 80027", "Boulder County / coords 39.9700, -105.1400"]
-zillowHomeValueUsd: 837476
 ---
 
-**Engineering Notice for Louisville:** Structural loading calculated based on 5407 ft terrain assessment. Regional dispatch grid: Boulder County.
+**Engineering Notice for Louisville:** Shingle, flashing, and ventilation review recorded at 5407 ft AMSL context (Boulder County).
 
+
+Roof work remediation in Louisville, CO, Boulder County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof service crews serving Louisville, CO review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Granule embedment loss on Louisville, CO north slopes can precede mat exposure.
 
@@ -31,9 +34,7 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 We coordinate Louisville, CO roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
-Scope trace: valley metal gauge plus chimney cricket slope referenced in Boulder County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 80027.
+Scope trace: valley metal gauge plus chimney cricket slope referenced in Boulder County storm and leak review.
 
 On-site sector marker: Boulder County / elevation 5407 ft band — logged for map parity and ZIP-corridor verification.
 

@@ -11,17 +11,20 @@ lng: -84.4100
 zipSample: ["48864", "48805"]
 zipCodes: ["48805", "48864"]
 localPaths: ["Ingham County / ZIP 48805 sector", "Ingham County / elevation 863 ft band", "Ingham County / primary ZIP 48864", "Ingham County / coords 42.7100, -84.4100", "Ingham County / ZIP 48864 sector"]
-zillowHomeValueUsd: 390281
 ---
 
-**Engineering Notice for Okemos:** Structural loading calculated based on 863 ft terrain assessment. Regional dispatch grid: Ingham County.
+**Engineering Notice for Okemos:** Roof repair scope references 863 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Ingham County.
 
+
+Qualified roof restoration crews serving Okemos, MI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roofing service remediation in Okemos, MI, Ingham County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
 Step: compare shingle manufacturer wind-zone ratings for Okemos, MI exposure class.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -33,9 +36,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 In Okemos, MI, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
-Field routing: skylight curb height paired with ice-barrier lap sequence near ZIP 48864.
-
-Field note: Valley debris and granule loss noted for ZIP 48864/48805.
+Local service note: skylight curb height paired with ice-barrier lap sequence near ZIP 48864 for emergency roofing service repairs.
 
 On-site sector marker: Ingham County / ZIP 48805 sector — logged for map parity and ZIP-corridor verification.
 

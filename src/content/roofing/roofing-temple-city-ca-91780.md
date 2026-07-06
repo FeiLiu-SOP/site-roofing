@@ -11,11 +11,14 @@ lng: -118.0600
 zipSample: ["91780"]
 zipCodes: ["91780"]
 localPaths: ["Los Angeles County / elevation 387 ft band", "Los Angeles County / ZIP 91780 sector", "Los Angeles County / coords 34.1000, -118.0600", "Los Angeles County / primary ZIP 91780"]
-zillowHomeValueUsd: 1105324
 ---
 
-**Engineering Notice for Temple City:** Structural loading calculated based on 387 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Temple City:** Storm and emergency leak triage uses 387 ft elevation band with Los Angeles County service-area context for roofing repairs.
 
+
+Storm damage roof work in Temple City, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether remediation or replacement fits the damage pattern.
+
+Licensed roof restoration crews serving Temple City, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Regulatory note: Temple City, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
@@ -25,13 +28,11 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 91780.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Synthetic underlayment slip in Temple City, CA is often tied to deck moisture, not wind alone.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
-
-Field routing: counter-flashing reglet depth paired with wind uplift clip spacing near ZIP 91780.
 
 Coordinate-anchored dispatch note: center reference 34.1000, -118.0600 at elevation ~387 ft aligns with Los Angeles County intake staging.
 

@@ -11,17 +11,20 @@ lng: -81.6200
 zipSample: ["32259"]
 zipCodes: ["32259"]
 localPaths: ["St. Johns County / ZIP 32259 sector", "St. Johns County / primary ZIP 32259", "St. Johns County / elevation 39 ft band", "St. Johns County / coords 30.1000, -81.6200"]
-zillowHomeValueUsd: 541888
 ---
 
-**Engineering Notice for Fruit Cove:** Structural loading calculated based on 39 ft terrain assessment. Regional dispatch grid: St. Johns County.
+**Engineering Notice for Fruit Cove:** Roof repair scope references 39 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in St. Johns County.
 
+
+When wind or hail hits Fruit Cove, FL, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Storm damage roof work in Fruit Cove, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in St. Johns County clarifies whether service or replacement fits the damage pattern.
 
 Valley metal in Fruit Cove, FL should be reviewed whenever granule loss tracks the water line.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Wind-zone note: Fruit Cove, FL exposure class can change starter-strip and cap nail schedules.
 
@@ -31,7 +34,7 @@ Risk flag: In Fruit Cove, FL, interior stains may track from HVAC condensate rat
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-Scope trace: valley metal gauge plus ice-barrier lap sequence referenced in St. Johns County county grid review.
+Scope trace: valley metal gauge plus ice-barrier lap sequence referenced in St. Johns County storm and leak review.
 
 ZIP-corridor snapshot for Fruit Cove, FL: sampled sectors include 32259; county routing grid remains St. Johns County.
 

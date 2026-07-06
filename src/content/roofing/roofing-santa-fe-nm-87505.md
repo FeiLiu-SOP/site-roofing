@@ -11,11 +11,14 @@ lng: -105.9800
 zipSample: ["87507", "87501", "87502", "87503", "87505"]
 zipCodes: ["87507", "87501", "87509", "87505", "87503", "87502"]
 localPaths: ["Santa Fe County / coords 35.6600, -105.9800", "Santa Fe County / elevation 6765 ft band", "Santa Fe County / ZIP 87502 sector", "Santa Fe County / ZIP 87505 sector", "Santa Fe County / ZIP 87507 sector"]
-zillowHomeValueUsd: 563408
 ---
 
-**Engineering Notice for Santa Fe:** Structural loading calculated based on 6765 ft terrain assessment. Regional dispatch grid: Santa Fe County.
+**Engineering Notice for Santa Fe:** Storm and emergency leak triage uses 6765 ft elevation band with Santa Fe County service-area context for roofing repairs.
 
+
+Storm damage roofing service in Santa Fe, NM may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Santa Fe County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof remediation in Santa Fe, NM often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Santa Fe County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Attic ventilation deficits in Santa Fe, NM can mimic roof leaks at ceiling penetrations.
 
@@ -27,13 +30,11 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: stage tear-off debris paths away from landscape drains.
 
-roofing service brief: pipe boot manufacturer match and attic baffle spacing were cross-checked for the Santa Fe intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 87509/87505/87501.
+Roof service brief: pipe boot manufacturer match and attic baffle spacing were cross-checked for the Santa Fe shingle and leak scope.
 
 Primary postal anchor 87505 with multi-ZIP overlap in Santa Fe; field packets tag Santa Fe County for county-grid reconciliation.
 

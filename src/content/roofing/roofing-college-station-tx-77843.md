@@ -11,13 +11,16 @@ lng: -96.3000
 zipSample: ["77845", "77842", "77840", "77841", "77843"]
 zipCodes: ["77840", "77845", "77844", "77881", "77842", "77841", "77843"]
 localPaths: ["Brazos County / ZIP 77840 sector", "Brazos County / elevation 302 ft band", "Brazos County / ZIP 77843 sector", "Brazos County / ZIP 77841 sector", "Brazos County / ZIP 77842 sector"]
-zillowHomeValueUsd: 366374
 ---
 
-**Engineering Notice for College Station:** Structural loading calculated based on 302 ft terrain assessment. Regional dispatch grid: Brazos County.
+**Engineering Notice for College Station:** Roof repair scope references 302 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Brazos County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Licensed roof remediation crews serving College Station, TX review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in College Station, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Brazos County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Across College Station, TX, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -27,7 +30,7 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Step: separate emergency tarp scope from permanent remediation line items.
+Step: separate emergency tarp scope from permanent restoration line items.
 
 Material note: In College Station, TX, algae-resistant granules may be specified for north-facing slopes.
 
@@ -35,7 +38,7 @@ Low-slope sections in College Station, TX need positive drainage before membrane
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-Scope trace: ice-barrier lap sequence plus soffit intake free area referenced in Brazos County county grid review.
+Scope trace: ice-barrier lap sequence plus soffit intake free area referenced in Brazos County storm and leak review.
 
 Field note: Valley debris and granule loss noted for ZIP 77843/77845/77881.
 

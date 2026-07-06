@@ -11,11 +11,14 @@ lng: -80.6500
 zipSample: ["28227"]
 zipCodes: ["28227"]
 localPaths: ["Mecklenburg County / elevation 791 ft band", "Mecklenburg County / primary ZIP 28227", "Mecklenburg County / coords 35.1800, -80.6500", "Mecklenburg County / ZIP 28227 sector"]
-zillowHomeValueUsd: 390104
 ---
 
-**Engineering Notice for Mint Hill:** Structural loading calculated based on 791 ft terrain assessment. Regional dispatch grid: Mecklenburg County.
+**Engineering Notice for Mint Hill:** Shingle, flashing, and ventilation review recorded at 791 ft AMSL context (Mecklenburg County).
 
+
+Roof service remediation in Mint Hill, NC, Mecklenburg County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Mint Hill, NC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Mecklenburg County clarifies whether service or replacement fits the damage pattern.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
@@ -27,13 +30,11 @@ Coastal humidity in Mint Hill, NC can slow shingle seal-down after shoulder-seas
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Step: compare shingle manufacturer wind-zone ratings for Mint Hill, NC exposure class.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Field routing: starter-strip setback paired with drip-edge metal profile near ZIP 28227.
 
 On-site sector marker: Mecklenburg County / primary ZIP 28227 — logged for map parity and ZIP-corridor verification.
 

@@ -11,17 +11,20 @@ lng: -88.0800
 zipSample: ["60073"]
 zipCodes: ["60073"]
 localPaths: ["Lake County / coords 42.3800, -88.0800", "Lake County / ZIP 60073 sector", "Lake County / elevation 820 ft band", "Lake County / primary ZIP 60073"]
-zillowHomeValueUsd: 271389
 ---
 
-**Engineering Notice for Round Lake Beach:** Structural loading calculated based on 820 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Round Lake Beach:** Storm and emergency leak triage uses 820 ft elevation band with Lake County service-area context for roofing repairs.
 
+
+Storm damage roof service in Round Lake Beach, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lake County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof service in Round Lake Beach, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Lake County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Wind-zone note: Round Lake Beach, IL exposure class can change starter-strip and cap nail schedules.
 
 Risk flag: Tile underlayment age in Round Lake Beach, IL can fail independently of visible tile cracks.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Skylight curb flashing in Round Lake Beach, IL should be sequenced before ridge cap replacement.
 
@@ -31,9 +34,7 @@ FAQ: Do you replace decking? Rot or delamination is scoped only after exposed de
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-Field routing: counter-flashing reglet depth paired with synthetic underlayment slip near ZIP 60073.
-
-Field note: Attic moisture pathway scan referenced ZIP 60073.
+Local service note: counter-flashing reglet depth paired with synthetic underlayment slip near ZIP 60073 for emergency roofing service repairs.
 
 On-site sector marker: Lake County / elevation 820 ft band — logged for map parity and ZIP-corridor verification.
 

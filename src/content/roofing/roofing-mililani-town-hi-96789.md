@@ -11,13 +11,16 @@ lng: -158.0100
 zipSample: ["96789"]
 zipCodes: ["96789"]
 localPaths: ["Honolulu County / elevation 636 ft band", "Honolulu County / coords 21.4500, -158.0100", "Honolulu County / ZIP 96789 sector", "Honolulu County / primary ZIP 96789"]
-zillowHomeValueUsd: 881748
 ---
 
-**Engineering Notice for Mililani Town:** Structural loading calculated based on 636 ft terrain assessment. Regional dispatch grid: Honolulu County.
+**Engineering Notice for Mililani Town:** Shingle, flashing, and ventilation review recorded at 636 ft AMSL context (Honolulu County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Qualified roof remediation crews serving Mililani Town, HI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof service in Mililani Town, HI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Honolulu County clarifies whether restoration or replacement fits the damage pattern.
+
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -35,7 +38,7 @@ Material note: In Mililani Town, HI, algae-resistant granules may be specified f
 
 Freeze-thaw cycles around Mililani Town, HI stress nail pops along eaves and rake edges.
 
-roof service brief: deck sheathing thickness and skylight curb height were cross-checked for the Mililani Town intake packet.
+Roof remediation brief: deck sheathing thickness and skylight curb height were cross-checked for the Mililani Town shingle and leak scope.
 
 ZIP-corridor snapshot for Mililani Town, HI: sampled sectors include 96789; county routing grid remains Honolulu County.
 

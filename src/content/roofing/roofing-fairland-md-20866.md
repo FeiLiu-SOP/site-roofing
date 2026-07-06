@@ -11,13 +11,16 @@ lng: -76.9500
 zipSample: ["20866", "20905", "20904"]
 zipCodes: ["20905", "20904", "20866"]
 localPaths: ["Montgomery County / primary ZIP 20866", "Montgomery County / coords 39.0800, -76.9500", "Montgomery County / ZIP 20904 sector", "Montgomery County / ZIP 20866 sector", "Montgomery County / ZIP 20905 sector"]
-zillowHomeValueUsd: 468449
 ---
 
-**Engineering Notice for Fairland:** Structural loading calculated based on 453 ft terrain assessment. Regional dispatch grid: Montgomery County.
+**Engineering Notice for Fairland:** Shingle, flashing, and ventilation review recorded at 453 ft AMSL context (Montgomery County).
 
 
-Our Fairland, MD dispatch packets reference county grid Montgomery County and elevation band 453 ft.
+Storm damage roof work in Fairland, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Montgomery County clarifies whether remediation or replacement fits the damage pattern.
+
+Licensed roof remediation crews serving Fairland, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Our Fairland, MD service packets reference Montgomery County and elevation band 453 ft for shingle and leak scope.
 
 Code context: Ventilation ratios for Fairland, MD attics should be checked against current mechanical exhaust additions.
 
@@ -31,9 +34,7 @@ FAQ: When should permanent service start? In Fairland, MD, delayed dry-in can ex
 
 Parapet coping movement in Fairland, MD can channel water behind wall cladding.
 
-Field routing: drip-edge metal profile paired with soffit intake free area near ZIP 20866.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 20905/20904/20866.
+Local service note: drip-edge metal profile paired with soffit intake free area near ZIP 20866 for emergency roof service repairs.
 
 Primary postal anchor 20866 with multi-ZIP overlap in Fairland; field packets tag Montgomery County for county-grid reconciliation.
 

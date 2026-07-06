@@ -11,11 +11,14 @@ lng: -90.4900
 zipSample: ["61266", "61265"]
 zipCodes: ["61266", "61265"]
 localPaths: ["Rock Island County / ZIP 61265 sector", "Rock Island County / elevation 682 ft band", "Rock Island County / primary ZIP 61265", "Rock Island County / ZIP 61266 sector", "Rock Island County / coords 41.4800, -90.4900"]
-zillowHomeValueUsd: 144212
 ---
 
-**Engineering Notice for Moline:** Structural loading calculated based on 682 ft terrain assessment. Regional dispatch grid: Rock Island County.
+**Engineering Notice for Moline:** Storm and emergency leak triage uses 682 ft elevation band with Rock Island County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving Moline, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Emergency roof remediation in Moline, IL often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Rock Island County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: In Moline, IL, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -23,7 +26,7 @@ Step: map ventilation intake and exhaust pairs for Moline, IL attic runs.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -33,7 +36,7 @@ Wind-zone note: Moline, IL exposure class can change starter-strip and cap nail 
 
 Valley metal in Moline, IL should be reviewed whenever granule loss tracks the water line.
 
-Scope trace: pipe boot manufacturer match plus synthetic underlayment slip referenced in Rock Island County county grid review.
+Scope trace: pipe boot manufacturer match plus synthetic underlayment slip referenced in Rock Island County storm and leak review.
 
 ZIP-corridor snapshot for Moline, IL: sampled sectors include 61265, 61266; county routing grid remains Rock Island County.
 

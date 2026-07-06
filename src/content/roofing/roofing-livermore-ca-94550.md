@@ -11,13 +11,16 @@ lng: -121.7600
 zipSample: ["94551", "94550"]
 zipCodes: ["94550", "94551"]
 localPaths: ["Alameda County / ZIP 94550 sector", "Alameda County / ZIP 94551 sector", "Alameda County / coords 37.6900, -121.7600", "Alameda County / primary ZIP 94550", "Alameda County / elevation 502 ft band"]
-zillowHomeValueUsd: 1247450
 ---
 
-**Engineering Notice for Livermore:** Structural loading calculated based on 502 ft terrain assessment. Regional dispatch grid: Alameda County.
+**Engineering Notice for Livermore:** Roof repair scope references 502 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Alameda County.
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Storm damage roof service in Livermore, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Alameda County clarifies whether remediation or replacement fits the damage pattern.
+
+Roofing service restoration in Livermore, CA, Alameda County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: Tile underlayment age in Livermore, CA can fail independently of visible tile cracks.
 
@@ -29,11 +32,11 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Step: separate emergency tarp scope from permanent restoration line items.
+Step: separate emergency tarp scope from permanent remediation line items.
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Field routing: ridge cap nail schedule paired with deck sheathing thickness near ZIP 94550.
+Local service note: ridge cap nail schedule paired with deck sheathing thickness near ZIP 94550 for emergency roofing service repairs.
 
 On-site sector marker: Alameda County / coords 37.6900, -121.7600 — logged for map parity and ZIP-corridor verification.
 

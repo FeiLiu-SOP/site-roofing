@@ -11,15 +11,18 @@ lng: -121.5600
 zipSample: ["95965", "95940", "95966"]
 zipCodes: ["95965", "95966", "95940"]
 localPaths: ["Butte County / elevation 154 ft band", "Butte County / ZIP 95966 sector", "Butte County / primary ZIP 95965", "Butte County / ZIP 95965 sector", "Butte County / ZIP 95940 sector"]
-zillowHomeValueUsd: 305141
 ---
 
-**Engineering Notice for Oroville:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Butte County.
+**Engineering Notice for Oroville:** Shingle, flashing, and ventilation review recorded at 154 ft AMSL context (Butte County).
 
+
+Emergency roof restoration in Oroville, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Butte County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roofing service remediation in Oroville, CA, Butte County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Step: compare shingle manufacturer wind-zone ratings for Oroville, CA exposure class.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for Oroville, CA attics should be checked against current mechanical exhaust additions.
 
@@ -32,8 +35,6 @@ Coastal humidity in Oroville, CA can slow shingle seal-down after shoulder-seaso
 Risk flag: Tile underlayment age in Oroville, CA can fail independently of visible tile cracks.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
-
-roofing service brief: deck sheathing thickness and drip-edge metal profile were cross-checked for the Oroville intake packet.
 
 On-site sector marker: Butte County / coords 39.5000, -121.5600 — logged for map parity and ZIP-corridor verification.
 

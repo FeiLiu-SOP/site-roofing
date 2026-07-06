@@ -11,11 +11,14 @@ lng: -122.1200
 zipSample: ["98052", "98073"]
 zipCodes: ["98052", "98073"]
 localPaths: ["King County / elevation 59 ft band", "King County / coords 47.6800, -122.1200", "King County / ZIP 98052 sector", "King County / ZIP 98073 sector", "King County / primary ZIP 98052"]
-zillowHomeValueUsd: 1364890
 ---
 
-**Engineering Notice for Redmond:** Structural loading calculated based on 59 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Redmond:** Shingle, flashing, and ventilation review recorded at 59 ft AMSL context (King County).
 
+
+Certified roof service crews serving Redmond, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work restoration in Redmond, WA, King County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -29,9 +32,9 @@ Step: note chimney cricket geometry before counter-flashing removal.
 
 Regulatory note: Redmond, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-Field routing: soffit intake free area paired with pipe boot manufacturer match near ZIP 98052.
+Local service note: soffit intake free area paired with pipe boot manufacturer match near ZIP 98052 for emergency roof work repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 98052/98073.
 

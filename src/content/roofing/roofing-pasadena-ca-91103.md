@@ -11,15 +11,18 @@ lng: -118.1400
 zipSample: ["91105", "91102", "91117", "91125", "91126"]
 zipCodes: ["91189", "91102", "91109", "91184", "91188", "91103", "91117", "91101", "91105", "91182", "91110", "91104"]
 localPaths: ["Los Angeles County / ZIP 91105 sector", "Los Angeles County / primary ZIP 91103", "Los Angeles County / ZIP 91102 sector", "Los Angeles County / ZIP 91126 sector", "Los Angeles County / ZIP 91125 sector"]
-zillowHomeValueUsd: 1083828
 ---
 
-**Engineering Notice for Pasadena:** Structural loading calculated based on 928 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Pasadena:** Roof repair scope references 928 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Los Angeles County.
 
+
+When wind or hail hits Pasadena, CA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Licensed roof remediation crews serving Pasadena, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: separate emergency tarp scope from permanent service line items.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
@@ -33,7 +36,7 @@ FAQ: Is partial dry-in possible? In Pasadena, CA, yes—if slope and anchor poin
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
-Scope trace: starter-strip setback plus ice-barrier lap sequence referenced in Los Angeles County county grid review.
+Scope trace: starter-strip setback plus ice-barrier lap sequence referenced in Los Angeles County storm and leak review.
 
 On-site sector marker: Los Angeles County / ZIP 91102 sector — logged for map parity and ZIP-corridor verification.
 

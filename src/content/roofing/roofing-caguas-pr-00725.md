@@ -11,12 +11,14 @@ lng: -66.0400
 zipSample: ["00725", "00727", "00726"]
 zipCodes: ["00725", "00727", "00726"]
 localPaths: ["Caguas County / coords 18.2300, -66.0400", "Caguas County / elevation 253 ft band", "Caguas County / primary ZIP 00725", "Caguas County / ZIP 00726 sector", "Caguas County / ZIP 00727 sector"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 370060
 ---
 
-**Engineering Notice for Caguas:** Structural loading calculated based on 253 ft terrain assessment. Regional dispatch grid: Caguas County.
+**Engineering Notice for Caguas:** Shingle, flashing, and ventilation review recorded at 253 ft AMSL context (Caguas County).
 
+
+Emergency roof service in Caguas, PR often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Caguas County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Certified roof service crews serving Caguas, PR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -28,11 +30,11 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 
 Risk flag: Tile underlayment age in Caguas, PR can fail independently of visible tile cracks.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-Scope trace: chimney cricket slope plus counter-flashing reglet depth referenced in Caguas County county grid review.
+Scope trace: chimney cricket slope plus counter-flashing reglet depth referenced in Caguas County storm and leak review.
 
 Field note: Attic moisture pathway scan referenced ZIP 00726/00725/00727.
 

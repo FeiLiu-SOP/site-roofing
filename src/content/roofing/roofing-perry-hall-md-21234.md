@@ -11,11 +11,14 @@ lng: -76.4800
 zipSample: ["21234", "21128", "21236"]
 zipCodes: ["21234", "21128", "21236"]
 localPaths: ["Baltimore County / primary ZIP 21234", "Baltimore County / ZIP 21234 sector", "Baltimore County / coords 39.4100, -76.4800", "Baltimore County / ZIP 21128 sector", "Baltimore County / ZIP 21236 sector"]
-zillowHomeValueUsd: 301723
 ---
 
-**Engineering Notice for Perry Hall:** Structural loading calculated based on 200 ft terrain assessment. Regional dispatch grid: Baltimore County.
+**Engineering Notice for Perry Hall:** Roof repair scope references 200 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Baltimore County.
 
+
+Storm damage roofing service in Perry Hall, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Baltimore County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof restoration in Perry Hall, MD often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Baltimore County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -33,11 +36,9 @@ Tip: Compare proposals by underlayment type, not shingle brand alone.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-roofing service brief: chimney cricket slope and ice-barrier lap sequence were cross-checked for the Perry Hall intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 21128/21234/21236.
+Roof remediation brief: chimney cricket slope and ice-barrier lap sequence were cross-checked for the Perry Hall shingle and leak scope.
 
 On-site sector marker: Baltimore County / ZIP 21234 sector — logged for map parity and ZIP-corridor verification.
 

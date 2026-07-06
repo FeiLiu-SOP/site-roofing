@@ -11,13 +11,16 @@ lng: -76.8500
 zipSample: ["20709", "20726", "20708"]
 zipCodes: ["20709", "20726", "20708"]
 localPaths: ["Prince George's County / primary ZIP 20708", "Prince George's County / ZIP 20709 sector", "Prince George's County / ZIP 20726 sector", "Prince George's County / coords 39.0600, -76.8500", "Prince George's County / elevation 220 ft band"]
-zillowHomeValueUsd: 486616
 ---
 
-**Engineering Notice for South Laurel:** Structural loading calculated based on 220 ft terrain assessment. Regional dispatch grid: Prince George's County.
+**Engineering Notice for South Laurel:** Storm and emergency leak triage uses 220 ft elevation band with Prince George's County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+When wind or hail hits South Laurel, MD, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Certified roof service crews serving South Laurel, MD review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Code context: Ventilation ratios for South Laurel, MD attics should be checked against current mechanical exhaust additions.
 
@@ -33,7 +36,7 @@ Material note: In South Laurel, MD, algae-resistant granules may be specified fo
 
 Risk flag: In South Laurel, MD, interior stains may track from HVAC condensate rather than roof cladding.
 
-Field routing: pipe boot manufacturer match paired with chimney cricket slope near ZIP 20708.
+Local service note: pipe boot manufacturer match paired with chimney cricket slope near ZIP 20708 for emergency roof service repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 20708/20726/20709.
 

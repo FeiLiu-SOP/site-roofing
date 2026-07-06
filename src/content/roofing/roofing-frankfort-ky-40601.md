@@ -11,11 +11,14 @@ lng: -84.8600
 zipSample: ["40622", "40618", "40603", "40621", "40619"]
 zipCodes: ["40621", "40620", "40622", "40618", "40603", "40601", "40619"]
 localPaths: ["Franklin County / coords 38.1900, -84.8600", "Franklin County / elevation 722 ft band", "Franklin County / primary ZIP 40601", "Franklin County / ZIP 40621 sector", "Franklin County / ZIP 40618 sector"]
-zillowHomeValueUsd: 240491
 ---
 
-**Engineering Notice for Frankfort:** Structural loading calculated based on 722 ft terrain assessment. Regional dispatch grid: Franklin County.
+**Engineering Notice for Frankfort:** Shingle, flashing, and ventilation review recorded at 722 ft AMSL context (Franklin County).
 
+
+Roof service remediation in Frankfort, KY, Franklin County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Frankfort, KY, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Code context: Ventilation ratios for Frankfort, KY attics should be checked against current mechanical exhaust additions.
 
@@ -29,9 +32,7 @@ Risk flag: In Frankfort, KY, interior stains may track from HVAC condensate rath
 
 Skylight curb flashing in Frankfort, KY should be sequenced before ridge cap replacement.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
-
-roof service brief: synthetic underlayment slip and skylight curb height were cross-checked for the Frankfort intake packet.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 ZIP-corridor snapshot for Frankfort, KY: sampled sectors include 40601, 40619, 40622, 40603, 40620, 40618, 40621; county routing grid remains Franklin County.
 

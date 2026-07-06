@@ -11,21 +11,24 @@ lng: -118.3400
 zipSample: ["99362"]
 zipCodes: ["99362"]
 localPaths: ["Walla Walla County / elevation 965 ft band", "Walla Walla County / ZIP 99362 sector", "Walla Walla County / coords 46.0700, -118.3400", "Walla Walla County / primary ZIP 99362"]
-zillowHomeValueUsd: 413035
 ---
 
-**Engineering Notice for Walla Walla:** Structural loading calculated based on 965 ft terrain assessment. Regional dispatch grid: Walla Walla County.
+**Engineering Notice for Walla Walla:** Storm and emergency leak triage uses 965 ft elevation band with Walla Walla County service-area context for roofing repairs.
 
+
+Certified roof remediation crews serving Walla Walla, WA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof work service in Walla Walla, WA, Walla Walla County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
 Valley metal in Walla Walla, WA should be reviewed whenever granule loss tracks the water line.
 
-Our Walla Walla, WA dispatch packets reference county grid Walla Walla County and elevation band 965 ft.
+Our Walla Walla, WA restoration packets reference Walla Walla County and elevation band 965 ft for shingle and leak scope.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent restoration line items.
 
 Risk flag: Tile underlayment age in Walla Walla, WA can fail independently of visible tile cracks.
 
@@ -33,9 +36,7 @@ Code context: Ventilation ratios for Walla Walla, WA attics should be checked ag
 
 Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
-Scope trace: synthetic underlayment slip plus counter-flashing reglet depth referenced in Walla Walla County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 99362.
+Scope trace: synthetic underlayment slip plus counter-flashing reglet depth referenced in Walla Walla County storm and leak review.
 
 Regional mesh label Walla Walla County: moisture and logistics baselines are keyed to Walla Walla, WA before niche-specific work begins.
 

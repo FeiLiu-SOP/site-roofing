@@ -11,11 +11,14 @@ lng: -92.8300
 zipSample: ["55082", "55083"]
 zipCodes: ["55082", "55083"]
 localPaths: ["Washington County / ZIP 55083 sector", "Washington County / ZIP 55082 sector", "Washington County / coords 45.0600, -92.8300", "Washington County / primary ZIP 55082", "Washington County / elevation 856 ft band"]
-zillowHomeValueUsd: 520493
 ---
 
-**Engineering Notice for Stillwater:** Structural loading calculated based on 856 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Stillwater:** Shingle, flashing, and ventilation review recorded at 856 ft AMSL context (Washington County).
 
+
+Emergency roof service in Stillwater, MN often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Washington County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Stillwater, MN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Washington County clarifies whether remediation or replacement fits the damage pattern.
 
 Parapet coping movement in Stillwater, MN can channel water behind wall cladding.
 
@@ -34,8 +37,6 @@ Material note: In Stillwater, MN, algae-resistant granules may be specified for 
 We coordinate Stillwater, MN roof reviews with photo logs, moisture notes, and realistic dry-in windows.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
-
-roofing service brief: ridge cap nail schedule and ice-barrier lap sequence were cross-checked for the Stillwater intake packet.
 
 On-site sector marker: Washington County / primary ZIP 55082 — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -85.7700
 zipSample: ["47172", "47129"]
 zipCodes: ["47172", "47129"]
 localPaths: ["Clark County / coords 38.3200, -85.7700", "Clark County / primary ZIP 47129", "Clark County / elevation 472 ft band", "Clark County / ZIP 47172 sector", "Clark County / ZIP 47129 sector"]
-zillowHomeValueUsd: 203437
 ---
 
-**Engineering Notice for Clarksville:** Structural loading calculated based on 472 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Clarksville:** Shingle, flashing, and ventilation review recorded at 472 ft AMSL context (Clark County).
 
+
+Licensed roof remediation crews serving Clarksville, IN review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roof work in Clarksville, IN may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Clark County clarifies whether restoration or replacement fits the damage pattern.
 
 Tip: Mark skylight curb corners where condensation often masquerades as roof leaks.
 
@@ -29,13 +32,13 @@ Step: map ventilation intake and exhaust pairs for Clarksville, IN attic runs.
 
 Risk flag: Tile underlayment age in Clarksville, IN can fail independently of visible tile cracks.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
 FAQ: How long can shingles wait after storm damage? In Clarksville, IN, delayed dry-in can expand insulation and ceiling repairs.
 
-roof work brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Clarksville intake packet.
+Roof service brief: shingle exposure calibration and wind uplift clip spacing were cross-checked for the Clarksville shingle and leak scope.
 
 Field note: Valley debris and granule loss noted for ZIP 47129/47172.
 

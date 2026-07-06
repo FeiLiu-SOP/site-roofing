@@ -11,15 +11,18 @@ lng: -77.4700
 zipSample: ["20146", "20103", "20104", "20166", "20149"]
 zipCodes: ["20103", "20147", "20149", "20166", "20104", "20146"]
 localPaths: ["Loudoun County / elevation 240 ft band", "Loudoun County / ZIP 20149 sector", "Loudoun County / ZIP 20104 sector", "Loudoun County / ZIP 20103 sector", "Loudoun County / ZIP 20146 sector"]
-zillowHomeValueUsd: 630870
 ---
 
-**Engineering Notice for Ashburn:** Structural loading calculated based on 240 ft terrain assessment. Regional dispatch grid: Loudoun County.
+**Engineering Notice for Ashburn:** Shingle, flashing, and ventilation review recorded at 240 ft AMSL context (Loudoun County).
 
+
+Qualified roof service crews serving Ashburn, VA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits Ashburn, VA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Code context: Ventilation ratios for Ashburn, VA attics should be checked against current mechanical exhaust additions.
 
@@ -31,9 +34,7 @@ Metal panel oil-canning in Ashburn, VA may signal clip spacing issues, not wind 
 
 Step: log deck soundings near vents before tear-off is approved.
 
-Scope trace: drip-edge metal profile plus soffit intake free area referenced in Loudoun County county grid review.
-
-Field note: Attic moisture pathway scan referenced ZIP 20146/20149/20103.
+Scope trace: drip-edge metal profile plus soffit intake free area referenced in Loudoun County storm and leak review.
 
 Coordinate-anchored dispatch note: center reference 39.0300, -77.4700 at elevation ~240 ft aligns with Loudoun County intake staging.
 

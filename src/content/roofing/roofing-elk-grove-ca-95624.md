@@ -11,13 +11,16 @@ lng: -121.3800
 zipSample: ["95758", "95624", "95757", "95759"]
 zipCodes: ["95759", "95757", "95624", "95758"]
 localPaths: ["Sacramento County / ZIP 95624 sector", "Sacramento County / ZIP 95759 sector", "Sacramento County / ZIP 95758 sector", "Sacramento County / ZIP 95757 sector", "Sacramento County / primary ZIP 95624"]
-zillowHomeValueUsd: 641703
 ---
 
-**Engineering Notice for Elk Grove:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Sacramento County.
+**Engineering Notice for Elk Grove:** Shingle, flashing, and ventilation review recorded at 43 ft AMSL context (Sacramento County).
 
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+Emergency roof restoration in Elk Grove, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Sacramento County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Elk Grove, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Sacramento County clarifies whether service or replacement fits the damage pattern.
+
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Freeze-thaw cycles around Elk Grove, CA stress nail pops along eaves and rake edges.
 
@@ -25,13 +28,11 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 FAQ: Do you replace decking? Rot or delamination is scoped only after exposed deck inspection.
 
-Step: separate emergency tarp scope from permanent service line items.
+Step: separate emergency tarp scope from permanent restoration line items.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
 Regulatory note: Elk Grove, CA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
-
-Field routing: synthetic underlayment slip paired with wind uplift clip spacing near ZIP 95624.
 
 Coordinate-anchored dispatch note: center reference 38.4200, -121.3800 at elevation ~43 ft aligns with Sacramento County intake staging.
 

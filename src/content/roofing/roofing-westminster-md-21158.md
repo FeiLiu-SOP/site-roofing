@@ -11,11 +11,14 @@ lng: -77.0100
 zipSample: ["21157", "21158"]
 zipCodes: ["21157", "21158"]
 localPaths: ["Carroll County / ZIP 21157 sector", "Carroll County / ZIP 21158 sector", "Carroll County / coords 39.5800, -77.0100", "Carroll County / primary ZIP 21158", "Carroll County / elevation 781 ft band"]
-zillowHomeValueUsd: 471341
 ---
 
-**Engineering Notice for Westminster:** Structural loading calculated based on 781 ft terrain assessment. Regional dispatch grid: Carroll County.
+**Engineering Notice for Westminster:** Roof repair scope references 781 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Carroll County.
 
+
+Storm damage roof work in Westminster, MD may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Carroll County clarifies whether remediation or replacement fits the damage pattern.
+
+Roof service restoration in Westminster, MD, Carroll County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Across Westminster, MD, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
@@ -31,11 +34,9 @@ Risk flag: Tile underlayment age in Westminster, MD can fail independently of vi
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Carroll County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 21158/21157.
+Scope trace: pipe boot manufacturer match plus soffit intake free area referenced in Carroll County storm and leak review.
 
 Coordinate-anchored dispatch note: center reference 39.5800, -77.0100 at elevation ~781 ft aligns with Carroll County intake staging.
 

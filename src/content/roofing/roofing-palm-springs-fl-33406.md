@@ -11,11 +11,14 @@ lng: -80.1000
 zipSample: ["33461", "33406"]
 zipCodes: ["33406", "33461"]
 localPaths: ["Palm Beach County / ZIP 33461 sector", "Palm Beach County / coords 26.6300, -80.1000", "Palm Beach County / primary ZIP 33406", "Palm Beach County / ZIP 33406 sector", "Palm Beach County / elevation 36 ft band"]
-zillowHomeValueUsd: 422289
 ---
 
-**Engineering Notice for Palm Springs:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Palm Beach County.
+**Engineering Notice for Palm Springs:** Shingle, flashing, and ventilation review recorded at 36 ft AMSL context (Palm Beach County).
 
+
+Roof service remediation in Palm Springs, FL, Palm Beach County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Palm Springs, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Palm Beach County clarifies whether restoration or replacement fits the damage pattern.
 
 Skylight curb flashing in Palm Springs, FL should be sequenced before ridge cap replacement.
 
@@ -30,8 +33,6 @@ Tip: Note recent wind events when filing insurance photos for Palm Springs, FL.
 Code context: Ventilation ratios for Palm Springs, FL attics should be checked against current mechanical exhaust additions.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
-
-Scope trace: ice-barrier lap sequence plus attic baffle spacing referenced in Palm Beach County county grid review.
 
 Primary postal anchor 33406 with multi-ZIP overlap in Palm Springs; field packets tag Palm Beach County for county-grid reconciliation.
 

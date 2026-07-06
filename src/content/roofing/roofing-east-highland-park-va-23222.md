@@ -11,11 +11,14 @@ lng: -77.3900
 zipSample: ["23222", "23223"]
 zipCodes: ["23223", "23222"]
 localPaths: ["Henrico County / ZIP 23223 sector", "Henrico County / ZIP 23222 sector", "Henrico County / coords 37.5800, -77.3900", "Henrico County / primary ZIP 23222", "Henrico County / elevation 194 ft band"]
-zillowHomeValueUsd: 276061
 ---
 
-**Engineering Notice for East Highland Park:** Structural loading calculated based on 194 ft terrain assessment. Regional dispatch grid: Henrico County.
+**Engineering Notice for East Highland Park:** Roof repair scope references 194 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Henrico County.
 
+
+Certified roof restoration crews serving East Highland Park, VA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service service in East Highland Park, VA, Henrico County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -35,7 +38,7 @@ Regulatory note: East Highland Park, VA projects may trigger ice-barrier upgrade
 
 Step: compare shingle manufacturer wind-zone ratings for East Highland Park, VA exposure class.
 
-Field routing: valley metal gauge paired with attic baffle spacing near ZIP 23222.
+Local service note: valley metal gauge paired with attic baffle spacing near ZIP 23222 for emergency roofing service repairs.
 
 On-site sector marker: Henrico County / ZIP 23222 sector — logged for map parity and ZIP-corridor verification.
 

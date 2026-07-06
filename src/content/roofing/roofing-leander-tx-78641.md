@@ -11,15 +11,18 @@ lng: -97.8600
 zipSample: ["78641", "78646"]
 zipCodes: ["78641", "78646"]
 localPaths: ["Williamson County / ZIP 78641 sector", "Williamson County / ZIP 78646 sector", "Williamson County / coords 30.5700, -97.8600", "Williamson County / elevation 1024 ft band", "Williamson County / primary ZIP 78641"]
-zillowHomeValueUsd: 432240
 ---
 
-**Engineering Notice for Leander:** Structural loading calculated based on 1024 ft terrain assessment. Regional dispatch grid: Williamson County.
+**Engineering Notice for Leander:** Roof repair scope references 1024 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Williamson County.
 
+
+Storm damage roofing service in Leander, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Williamson County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof remediation in Leander, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Williamson County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Our Leander, TX dispatch packets reference county grid Williamson County and elevation band 1024 ft.
+Our Leander, TX service packets reference Williamson County and elevation band 1024 ft for shingle and leak scope.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -31,7 +34,7 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Hail bruising on Leander, TX ridges may not breach felt until the next wind event.
 
-Field routing: ridge cap nail schedule paired with shingle exposure calibration near ZIP 78641.
+Local service note: ridge cap nail schedule paired with shingle exposure calibration near ZIP 78641 for emergency roof work repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 78641/78646.
 

@@ -11,15 +11,18 @@ lng: -74.0700
 zipSample: ["07302", "07310", "07303", "07307", "07308"]
 zipCodes: ["07304", "07305", "07308", "07303", "07311", "07395", "07307", "07097", "07399", "07306", "07302", "07310"]
 localPaths: ["Hudson County / ZIP 07303 sector", "Hudson County / ZIP 07307 sector", "Hudson County / ZIP 07308 sector", "Hudson County / elevation 75 ft band", "Hudson County / primary ZIP 07310"]
-zillowHomeValueUsd: 928944
 ---
 
-**Engineering Notice for Jersey City:** Structural loading calculated based on 75 ft terrain assessment. Regional dispatch grid: Hudson County.
+**Engineering Notice for Jersey City:** Roof repair scope references 75 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Hudson County.
 
+
+Storm damage roof work in Jersey City, NJ may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Hudson County clarifies whether service or replacement fits the damage pattern.
+
+Qualified roof remediation crews serving Jersey City, NJ review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: note chimney cricket geometry before counter-flashing removal.
 
-Our Jersey City, NJ dispatch packets reference county grid Hudson County and elevation band 75 ft.
+Our Jersey City, NJ service packets reference Hudson County and elevation band 75 ft for shingle and leak scope.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -30,8 +33,6 @@ Low-slope sections in Jersey City, NJ need positive drainage before membrane rep
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
 Wind-zone note: Jersey City, NJ exposure class can change starter-strip and cap nail schedules.
-
-Scope trace: synthetic underlayment slip plus drip-edge metal profile referenced in Hudson County county grid review.
 
 Regional mesh label Hudson County: moisture and logistics baselines are keyed to Jersey City, NJ before niche-specific work begins.
 

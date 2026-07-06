@@ -11,11 +11,14 @@ lng: -121.8300
 zipSample: ["95620"]
 zipCodes: ["95620"]
 localPaths: ["Solano County / primary ZIP 95620", "Solano County / elevation 66 ft band", "Solano County / coords 38.4500, -121.8300", "Solano County / ZIP 95620 sector"]
-zillowHomeValueUsd: 606809
 ---
 
-**Engineering Notice for Dixon:** Structural loading calculated based on 66 ft terrain assessment. Regional dispatch grid: Solano County.
+**Engineering Notice for Dixon:** Storm and emergency leak triage uses 66 ft elevation band with Solano County service-area context for roofing repairs.
 
+
+When wind or hail hits Dixon, CA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Emergency roof remediation in Dixon, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Solano County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -31,13 +34,11 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Coastal humidity in Dixon, CA can slow shingle seal-down after shoulder-season storms.
 
-Scope trace: attic baffle spacing plus ridge cap nail schedule referenced in Solano County county grid review.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 95620.
+Scope trace: attic baffle spacing plus ridge cap nail schedule referenced in Solano County storm and leak review.
 
 On-site sector marker: Solano County / ZIP 95620 sector — logged for map parity and ZIP-corridor verification.
 

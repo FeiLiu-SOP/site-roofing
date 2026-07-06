@@ -11,11 +11,14 @@ lng: -88.0900
 zipSample: ["60047"]
 zipCodes: ["60047"]
 localPaths: ["Lake County / coords 42.2000, -88.0900", "Lake County / primary ZIP 60047", "Lake County / elevation 892 ft band", "Lake County / ZIP 60047 sector"]
-zillowHomeValueUsd: 638931
 ---
 
-**Engineering Notice for Lake Zurich:** Structural loading calculated based on 892 ft terrain assessment. Regional dispatch grid: Lake County.
+**Engineering Notice for Lake Zurich:** Storm and emergency leak triage uses 892 ft elevation band with Lake County service-area context for roofing repairs.
 
+
+Storm damage roof work in Lake Zurich, IL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Lake County clarifies whether remediation or replacement fits the damage pattern.
+
+Licensed roof service crews serving Lake Zurich, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: map ventilation intake and exhaust pairs for Lake Zurich, IL attic runs.
 
@@ -25,7 +28,7 @@ Material note: In Lake Zurich, IL, algae-resistant granules may be specified for
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Synthetic underlayment slip in Lake Zurich, IL is often tied to deck moisture, not wind alone.
 
@@ -33,9 +36,7 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Code context: Ventilation ratios for Lake Zurich, IL attics should be checked against current mechanical exhaust additions.
 
-Field routing: shingle exposure calibration paired with wind uplift clip spacing near ZIP 60047.
-
-Field note: Valley debris and granule loss noted for ZIP 60047.
+Local service note: shingle exposure calibration paired with wind uplift clip spacing near ZIP 60047 for emergency roof service repairs.
 
 **Regional Infrastructure Brief:** Coverage anchor set to Lake County. Reference elevation: 892 ft. Primary coordinates: 42.2000, -88.0900. ZIP sample: 60047. Logistics priority: Serving residential sectors across Lake County and north-east ZIP 60047 grid.
 

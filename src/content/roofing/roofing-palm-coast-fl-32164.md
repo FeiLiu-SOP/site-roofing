@@ -11,11 +11,14 @@ lng: -81.2500
 zipSample: ["32136", "32135", "32164", "32142", "32137"]
 zipCodes: ["32164", "32143", "32135", "32142", "32137", "32136"]
 localPaths: ["Flagler County / coords 29.5400, -81.2500", "Flagler County / elevation 46 ft band", "Flagler County / ZIP 32164 sector", "Flagler County / primary ZIP 32164", "Flagler County / ZIP 32135 sector"]
-zillowHomeValueUsd: 322315
 ---
 
-**Engineering Notice for Palm Coast:** Structural loading calculated based on 46 ft terrain assessment. Regional dispatch grid: Flagler County.
+**Engineering Notice for Palm Coast:** Shingle, flashing, and ventilation review recorded at 46 ft AMSL context (Flagler County).
 
+
+Roof service service in Palm Coast, FL, Flagler County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof work in Palm Coast, FL may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Flagler County clarifies whether remediation or replacement fits the damage pattern.
 
 Step: stage tear-off debris paths away from landscape drains.
 
@@ -27,13 +30,11 @@ Permit note: Re-roof permits often require manufacturer installation bulletins a
 
 Risk flag: In Palm Coast, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
 Coastal humidity in Palm Coast, FL can slow shingle seal-down after shoulder-season storms.
-
-Scope trace: wind uplift clip spacing plus valley metal gauge referenced in Flagler County county grid review.
 
 Coordinate-anchored dispatch note: center reference 29.5400, -81.2500 at elevation ~46 ft aligns with Flagler County intake staging.
 

@@ -11,12 +11,14 @@ lng: -66.2200
 zipSample: ["00949"]
 zipCodes: ["00949"]
 localPaths: ["Toa Baja County / ZIP 00949 sector", "Toa Baja County / coords 18.4000, -66.2200", "Toa Baja County / primary ZIP 00949", "Toa Baja County / elevation 233 ft band"]
-data_fidelity: "synthetic"
-zillowHomeValueUsd: 363840
 ---
 
-**Engineering Notice for Candelaria:** Structural loading calculated based on 233 ft terrain assessment. Regional dispatch grid: Toa Baja County.
+**Engineering Notice for Candelaria:** Shingle, flashing, and ventilation review recorded at 233 ft AMSL context (Toa Baja County).
 
+
+Qualified roof remediation crews serving Candelaria, PR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service service in Candelaria, PR, Toa Baja County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
@@ -26,7 +28,7 @@ Step: compare shingle manufacturer wind-zone ratings for Candelaria, PR exposure
 
 Code context: Ventilation ratios for Candelaria, PR attics should be checked against current mechanical exhaust additions.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -35,8 +37,6 @@ FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, 
 In Candelaria, PR, wind-driven rain can lift shingle tabs before owners notice deck staining.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
-
-roof service brief: wind uplift clip spacing and ice-barrier lap sequence were cross-checked for the Candelaria intake packet.
 
 ZIP-corridor snapshot for Candelaria, PR: sampled sectors include 00949; county routing grid remains Toa Baja County.
 

@@ -11,13 +11,16 @@ lng: -122.7700
 zipSample: ["97062"]
 zipCodes: ["97062"]
 localPaths: ["Washington County / primary ZIP 97062", "Washington County / elevation 164 ft band", "Washington County / coords 45.3800, -122.7700", "Washington County / ZIP 97062 sector"]
-zillowHomeValueUsd: 640366
 ---
 
-**Engineering Notice for Tualatin:** Structural loading calculated based on 164 ft terrain assessment. Regional dispatch grid: Washington County.
+**Engineering Notice for Tualatin:** Storm and emergency leak triage uses 164 ft elevation band with Washington County service-area context for roofing repairs.
 
 
-Our Tualatin, OR dispatch packets reference county grid Washington County and elevation band 164 ft.
+Storm damage roofing service in Tualatin, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Washington County clarifies whether remediation or replacement fits the damage pattern.
+
+Licensed roof remediation crews serving Tualatin, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Our Tualatin, OR remediation packets reference Washington County and elevation band 164 ft for shingle and leak scope.
 
 FAQ: How long can shingles wait after storm damage? In Tualatin, OR, delayed dry-in can expand insulation and ceiling repairs.
 
@@ -33,7 +36,7 @@ Material note: In Tualatin, OR, algae-resistant granules may be specified for no
 
 Step: verify starter-strip alignment before field shingle exposure is set.
 
-Scope trace: wind uplift clip spacing plus attic baffle spacing referenced in Washington County county grid review.
+Scope trace: wind uplift clip spacing plus attic baffle spacing referenced in Washington County storm and leak review.
 
 Regional mesh label Washington County: moisture and logistics baselines are keyed to Tualatin, OR before niche-specific work begins.
 

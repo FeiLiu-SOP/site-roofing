@@ -11,11 +11,14 @@ lng: -123.3100
 zipSample: ["97338"]
 zipCodes: ["97338"]
 localPaths: ["Polk County / primary ZIP 97338", "Polk County / ZIP 97338 sector", "Polk County / coords 44.9200, -123.3100", "Polk County / elevation 322 ft band"]
-zillowHomeValueUsd: 473416
 ---
 
-**Engineering Notice for Dallas:** Structural loading calculated based on 322 ft terrain assessment. Regional dispatch grid: Polk County.
+**Engineering Notice for Dallas:** Storm and emergency leak triage uses 322 ft elevation band with Polk County service-area context for roofing repairs.
 
+
+Storm damage roof service in Dallas, OR may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Polk County clarifies whether restoration or replacement fits the damage pattern.
+
+Qualified roof remediation crews serving Dallas, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
@@ -31,7 +34,7 @@ Metal panel oil-canning in Dallas, OR may signal clip spacing issues, not wind d
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
 
-Scope trace: deck sheathing thickness plus valley metal gauge referenced in Polk County county grid review.
+Scope trace: deck sheathing thickness plus valley metal gauge referenced in Polk County storm and leak review.
 
 Regional mesh label Polk County: moisture and logistics baselines are keyed to Dallas, OR before niche-specific work begins.
 

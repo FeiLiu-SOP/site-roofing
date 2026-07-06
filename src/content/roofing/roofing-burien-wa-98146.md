@@ -11,11 +11,14 @@ lng: -122.3400
 zipSample: ["98146", "98148", "98062", "98168", "98166"]
 zipCodes: ["98166", "98062", "98146", "98148", "98168"]
 localPaths: ["King County / ZIP 98168 sector", "King County / ZIP 98166 sector", "King County / ZIP 98146 sector", "King County / primary ZIP 98146", "King County / coords 47.4800, -122.3400"]
-zillowHomeValueUsd: 693816
 ---
 
-**Engineering Notice for Burien:** Structural loading calculated based on 374 ft terrain assessment. Regional dispatch grid: King County.
+**Engineering Notice for Burien:** Roof repair scope references 374 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in King County.
 
+
+Roof work restoration in Burien, WA, King County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Burien, WA, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -31,13 +34,11 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 TPO seam welds in Burien, WA commercial sections need probe tests after freeze events.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Regulatory note: Burien, WA projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-roof work brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Burien intake packet.
-
-Field note: Ridge ventilation balance reviewed for ZIP sector 98146/98148/98166.
+Roof restoration brief: wind uplift clip spacing and attic baffle spacing were cross-checked for the Burien shingle and leak scope.
 
 Primary postal anchor 98146 with multi-ZIP overlap in Burien; field packets tag King County for county-grid reconciliation.
 

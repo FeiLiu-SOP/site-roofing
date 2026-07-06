@@ -11,11 +11,14 @@ lng: -88.2300
 zipSample: ["60186", "60185"]
 zipCodes: ["60186", "60185"]
 localPaths: ["DuPage County / ZIP 60185 sector", "DuPage County / coords 41.9000, -88.2300", "DuPage County / ZIP 60186 sector", "DuPage County / elevation 768 ft band", "DuPage County / primary ZIP 60185"]
-zillowHomeValueUsd: 382830
 ---
 
-**Engineering Notice for West Chicago:** Structural loading calculated based on 768 ft terrain assessment. Regional dispatch grid: DuPage County.
+**Engineering Notice for West Chicago:** Storm and emergency leak triage uses 768 ft elevation band with DuPage County service-area context for roofing repairs.
 
+
+Licensed roof service crews serving West Chicago, IL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+When wind or hail hits West Chicago, IL, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Step: photograph ridge, valley, and penetration conditions before ladder placement.
 
@@ -25,7 +28,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Risk flag: Tile underlayment age in West Chicago, IL can fail independently of visible tile cracks.
 
-Our West Chicago, IL dispatch packets reference county grid DuPage County and elevation band 768 ft.
+Our West Chicago, IL remediation packets reference DuPage County and elevation band 768 ft for shingle and leak scope.
 
 Wind-zone note: West Chicago, IL exposure class can change starter-strip and cap nail schedules.
 
@@ -34,8 +37,6 @@ FAQ: Are ridge vents always required? Balance depends on intake area, soffit fre
 Across West Chicago, IL, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
-
-Scope trace: deck sheathing thickness plus chimney cricket slope referenced in DuPage County county grid review.
 
 Regional mesh label DuPage County: moisture and logistics baselines are keyed to West Chicago, IL before niche-specific work begins.
 

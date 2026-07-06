@@ -11,11 +11,14 @@ lng: -121.6000
 zipSample: ["94505"]
 zipCodes: ["94505"]
 localPaths: ["Contra Costa County / ZIP 94505 sector", "Contra Costa County / primary ZIP 94505", "Contra Costa County / coords 37.9100, -121.6000", "Contra Costa County / elevation 10 ft band"]
-zillowHomeValueUsd: 795001
 ---
 
-**Engineering Notice for Discovery Bay:** Structural loading calculated based on 10 ft terrain assessment. Regional dispatch grid: Contra Costa County.
+**Engineering Notice for Discovery Bay:** Storm and emergency leak triage uses 10 ft elevation band with Contra Costa County service-area context for roofing repairs.
 
+
+Storm damage roof work in Discovery Bay, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Contra Costa County clarifies whether remediation or replacement fits the damage pattern.
+
+Emergency roof service in Discovery Bay, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Contra Costa County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Material note: In Discovery Bay, CA, algae-resistant granules may be specified for north-facing slopes.
 
@@ -35,9 +38,7 @@ Risk flag: In Discovery Bay, CA, interior stains may track from HVAC condensate 
 
 FAQ: Is partial dry-in possible? In Discovery Bay, CA, yes—if slope and anchor points support safe tie-offs.
 
-Scope trace: valley metal gauge plus ridge cap nail schedule referenced in Contra Costa County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 94505.
+Scope trace: valley metal gauge plus ridge cap nail schedule referenced in Contra Costa County storm and leak review.
 
 Regional mesh label Contra Costa County: moisture and logistics baselines are keyed to Discovery Bay, CA before niche-specific work begins.
 

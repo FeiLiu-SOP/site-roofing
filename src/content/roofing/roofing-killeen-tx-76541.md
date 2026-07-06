@@ -11,11 +11,14 @@ lng: -97.7300
 zipSample: ["76547", "76540", "76542", "76541", "76543"]
 zipCodes: ["76547", "76540", "76541", "76542", "76543", "76549"]
 localPaths: ["Bell County / ZIP 76541 sector", "Bell County / coords 31.0800, -97.7300", "Bell County / ZIP 76540 sector", "Bell County / ZIP 76543 sector", "Bell County / primary ZIP 76541"]
-zillowHomeValueUsd: 122008
 ---
 
-**Engineering Notice for Killeen:** Structural loading calculated based on 876 ft terrain assessment. Regional dispatch grid: Bell County.
+**Engineering Notice for Killeen:** Storm and emergency leak triage uses 876 ft elevation band with Bell County service-area context for roofing repairs.
 
+
+Roof service remediation in Killeen, TX, Bell County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Killeen, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bell County clarifies whether service or replacement fits the damage pattern.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -25,15 +28,13 @@ Regulatory note: Killeen, TX projects may trigger ice-barrier upgrades when tear
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Risk flag: Tile underlayment age in Killeen, TX can fail independently of visible tile cracks.
 
 Synthetic underlayment slip in Killeen, TX is often tied to deck moisture, not wind alone.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
-
-Field routing: chimney cricket slope paired with ridge cap nail schedule near ZIP 76541.
 
 ZIP-corridor snapshot for Killeen, TX: sampled sectors include 76542, 76547, 76540, 76549, 76541, 76543; county routing grid remains Bell County.
 

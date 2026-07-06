@@ -11,11 +11,14 @@ lng: -97.6400
 zipSample: ["76513", "76548"]
 zipCodes: ["76548", "76513"]
 localPaths: ["Bell County / ZIP 76548 sector", "Bell County / coords 31.0600, -97.6400", "Bell County / elevation 830 ft band", "Bell County / ZIP 76513 sector", "Bell County / primary ZIP 76548"]
-zillowHomeValueUsd: 298952
 ---
 
-**Engineering Notice for Harker Heights:** Structural loading calculated based on 830 ft terrain assessment. Regional dispatch grid: Bell County.
+**Engineering Notice for Harker Heights:** Storm and emergency leak triage uses 830 ft elevation band with Bell County service-area context for roofing repairs.
 
+
+Emergency roof remediation in Harker Heights, TX often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Bell County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roofing service in Harker Heights, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Bell County clarifies whether service or replacement fits the damage pattern.
 
 Step: compare shingle manufacturer wind-zone ratings for Harker Heights, TX exposure class.
 
@@ -27,11 +30,11 @@ Across Harker Heights, TX, ice-dam seasons often begin with clogged gutters rath
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: In Harker Heights, TX, interior stains may track from HVAC condensate rather than roof cladding.
 
-roofing service brief: soffit intake free area and drip-edge metal profile were cross-checked for the Harker Heights intake packet.
+Roof remediation brief: soffit intake free area and drip-edge metal profile were cross-checked for the Harker Heights shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 76548/76513.
 

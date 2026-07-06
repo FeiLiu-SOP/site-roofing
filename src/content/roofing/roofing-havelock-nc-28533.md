@@ -11,11 +11,14 @@ lng: -76.9000
 zipSample: ["28532", "28533"]
 zipCodes: ["28533", "28532"]
 localPaths: ["Craven County / primary ZIP 28533", "Craven County / ZIP 28533 sector", "Craven County / coords 34.9100, -76.9000", "Craven County / ZIP 28532 sector", "Craven County / elevation 26 ft band"]
-zillowHomeValueUsd: 233685
 ---
 
-**Engineering Notice for Havelock:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Craven County.
+**Engineering Notice for Havelock:** Roof repair scope references 26 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Craven County.
 
+
+When wind or hail hits Havelock, NC, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Certified roof service crews serving Havelock, NC review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Code context: Ventilation ratios for Havelock, NC attics should be checked against current mechanical exhaust additions.
 
@@ -33,9 +36,7 @@ Material note: Self-adhered ice barrier should lap over drip edge metal per manu
 
 Risk flag: In Havelock, NC, interior stains may track from HVAC condensate rather than roof cladding.
 
-roof work brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Havelock intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 28533/28532.
+Roof remediation brief: ice-barrier lap sequence and chimney cricket slope were cross-checked for the Havelock shingle and leak scope.
 
 Primary postal anchor 28533 with multi-ZIP overlap in Havelock; field packets tag Craven County for county-grid reconciliation.
 

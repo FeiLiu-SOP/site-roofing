@@ -11,17 +11,20 @@ lng: -70.4500
 zipSample: ["04006", "04005", "04007"]
 zipCodes: ["04006", "04005", "04007"]
 localPaths: ["York County / ZIP 04006 sector", "York County / ZIP 04007 sector", "York County / elevation 151 ft band", "York County / primary ZIP 04005", "York County / ZIP 04005 sector"]
-zillowHomeValueUsd: 499650
 ---
 
-**Engineering Notice for Biddeford:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: York County.
+**Engineering Notice for Biddeford:** Storm and emergency leak triage uses 151 ft elevation band with York County service-area context for roofing repairs.
 
+
+Roof service service in Biddeford, ME, York County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Biddeford, ME may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in York County clarifies whether remediation or replacement fits the damage pattern.
 
 Step: separate emergency tarp scope from permanent restoration line items.
 
 Code context: Ventilation ratios for Biddeford, ME attics should be checked against current mechanical exhaust additions.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 04005.
 
@@ -33,9 +36,7 @@ TPO seam welds in Biddeford, ME commercial sections need probe tests after freez
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Field routing: starter-strip setback paired with chimney cricket slope near ZIP 04005.
-
-Field note: Attic moisture pathway scan referenced ZIP 04007/04006/04005.
+Local service note: starter-strip setback paired with chimney cricket slope near ZIP 04005 for emergency roofing service repairs.
 
 On-site sector marker: York County / ZIP 04006 sector — logged for map parity and ZIP-corridor verification.
 

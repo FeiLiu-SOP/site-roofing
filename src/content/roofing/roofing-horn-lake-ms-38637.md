@@ -11,11 +11,14 @@ lng: -90.0500
 zipSample: ["38637"]
 zipCodes: ["38637"]
 localPaths: ["DeSoto County / elevation 299 ft band", "DeSoto County / coords 34.9500, -90.0500", "DeSoto County / ZIP 38637 sector", "DeSoto County / primary ZIP 38637"]
-zillowHomeValueUsd: 202260
 ---
 
-**Engineering Notice for Horn Lake:** Structural loading calculated based on 299 ft terrain assessment. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Horn Lake:** Roof repair scope references 299 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in DeSoto County.
 
+
+When wind or hail hits Horn Lake, MS, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roofing service restoration in Horn Lake, MS, DeSoto County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -31,9 +34,9 @@ Wind-zone note: Horn Lake, MS exposure class can change starter-strip and cap na
 
 FAQ: Is sheathing included? Rot or delamination is scoped only after exposed deck inspection.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
-Field routing: wind uplift clip spacing paired with synthetic underlayment slip near ZIP 38637.
+Local service note: wind uplift clip spacing paired with synthetic underlayment slip near ZIP 38637 for emergency roofing service repairs.
 
 Primary postal anchor 38637 with multi-ZIP overlap in Horn Lake; field packets tag DeSoto County for county-grid reconciliation.
 

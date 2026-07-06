@@ -11,17 +11,20 @@ lng: -79.7500
 zipSample: ["15147", "15268", "15068", "15239", "15139"]
 zipCodes: ["15268", "15068", "15139", "15239", "15147"]
 localPaths: ["Allegheny County / ZIP 15068 sector", "Allegheny County / elevation 1161 ft band", "Allegheny County / ZIP 15139 sector", "Allegheny County / ZIP 15268 sector", "Allegheny County / ZIP 15147 sector"]
-zillowHomeValueUsd: 333983
 ---
 
-**Engineering Notice for Plum:** Structural loading calculated based on 1161 ft terrain assessment. Regional dispatch grid: Allegheny County.
+**Engineering Notice for Plum:** Roof repair scope references 1161 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Allegheny County.
 
+
+Roof work restoration in Plum, PA, Allegheny County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof remediation crews serving Plum, PA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Step: log deck soundings near vents before tear-off is approved.
 
 Synthetic underlayment slip in Plum, PA is often tied to deck moisture, not wind alone.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
@@ -35,9 +38,7 @@ Wind-zone note: Plum, PA exposure class can change starter-strip and cap nail sc
 
 FAQ: When should permanent service start? In Plum, PA, delayed dry-in can expand insulation and ceiling repairs.
 
-Scope trace: counter-flashing reglet depth plus shingle exposure calibration referenced in Allegheny County county grid review.
-
-Field note: Valley debris and granule loss noted for ZIP 15147/15268/15068.
+Scope trace: counter-flashing reglet depth plus shingle exposure calibration referenced in Allegheny County storm and leak review.
 
 On-site sector marker: Allegheny County / ZIP 15139 sector — logged for map parity and ZIP-corridor verification.
 

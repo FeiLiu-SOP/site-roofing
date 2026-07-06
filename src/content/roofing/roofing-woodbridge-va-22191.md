@@ -11,11 +11,14 @@ lng: -77.2600
 zipSample: ["22191", "22194", "22195"]
 zipCodes: ["22195", "22194", "22191"]
 localPaths: ["Prince William County / primary ZIP 22191", "Prince William County / elevation 36 ft band", "Prince William County / ZIP 22195 sector", "Prince William County / ZIP 22194 sector", "Prince William County / ZIP 22191 sector"]
-zillowHomeValueUsd: 489075
 ---
 
-**Engineering Notice for Woodbridge:** Structural loading calculated based on 36 ft terrain assessment. Regional dispatch grid: Prince William County.
+**Engineering Notice for Woodbridge:** Shingle, flashing, and ventilation review recorded at 36 ft AMSL context (Prince William County).
 
+
+When wind or hail hits Woodbridge, VA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work restoration in Woodbridge, VA, Prince William County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
 
 Freeze-thaw cycles around Woodbridge, VA stress nail pops along eaves and rake edges.
 
@@ -33,11 +36,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-roof service brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the Woodbridge intake packet.
-
-Field note: Attic moisture pathway scan referenced ZIP 22191/22195/22194.
+Roof restoration brief: synthetic underlayment slip and drip-edge metal profile were cross-checked for the Woodbridge shingle and leak scope.
 
 On-site sector marker: Prince William County / ZIP 22191 sector — logged for map parity and ZIP-corridor verification.
 

@@ -11,11 +11,14 @@ lng: -94.0000
 zipSample: ["77627"]
 zipCodes: ["77627"]
 localPaths: ["Jefferson County / coords 29.9700, -94.0000", "Jefferson County / ZIP 77627 sector", "Jefferson County / elevation 33 ft band", "Jefferson County / primary ZIP 77627"]
-zillowHomeValueUsd: 211382
 ---
 
-**Engineering Notice for Nederland:** Structural loading calculated based on 33 ft terrain assessment. Regional dispatch grid: Jefferson County.
+**Engineering Notice for Nederland:** Storm and emergency leak triage uses 33 ft elevation band with Jefferson County service-area context for roofing repairs.
 
+
+Storm damage roof work in Nederland, TX may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Jefferson County clarifies whether remediation or replacement fits the damage pattern.
+
+When wind or hail hits Nederland, TX, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Hail bruising on Nederland, TX ridges may not breach felt until the next wind event.
 
@@ -33,9 +36,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roofing service crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
-roof work brief: ridge cap nail schedule and skylight curb height were cross-checked for the Nederland intake packet.
+Roof service brief: ridge cap nail schedule and skylight curb height were cross-checked for the Nederland shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 77627.
 

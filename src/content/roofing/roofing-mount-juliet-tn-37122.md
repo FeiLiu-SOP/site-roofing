@@ -11,11 +11,14 @@ lng: -86.5100
 zipSample: ["37121", "37122"]
 zipCodes: ["37122", "37121"]
 localPaths: ["Wilson County / primary ZIP 37122", "Wilson County / elevation 577 ft band", "Wilson County / coords 36.2000, -86.5100", "Wilson County / ZIP 37122 sector", "Wilson County / ZIP 37121 sector"]
-zillowHomeValueUsd: 571606
 ---
 
-**Engineering Notice for Mount Juliet:** Structural loading calculated based on 577 ft terrain assessment. Regional dispatch grid: Wilson County.
+**Engineering Notice for Mount Juliet:** Roof repair scope references 577 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Wilson County.
 
+
+Roofing service restoration in Mount Juliet, TN, Wilson County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+When wind or hail hits Mount Juliet, TN, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Risk flag: In Mount Juliet, TN, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,7 +34,7 @@ Coastal humidity in Mount Juliet, TN can slow shingle seal-down after shoulder-s
 
 FAQ: Can you tarp only part of the roof? In Mount Juliet, TN, yes—if slope and anchor points support safe tie-offs.
 
-roofing service brief: attic baffle spacing and chimney cricket slope were cross-checked for the Mount Juliet intake packet.
+Roof remediation brief: attic baffle spacing and chimney cricket slope were cross-checked for the Mount Juliet shingle and leak scope.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 37121/37122.
 

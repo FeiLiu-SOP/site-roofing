@@ -11,11 +11,14 @@ lng: -84.4100
 zipSample: ["30287", "30374", "30274", "30296"]
 zipCodes: ["30374", "30274", "30296", "30287"]
 localPaths: ["Clayton County / coords 33.5600, -84.4100", "Clayton County / primary ZIP 30274", "Clayton County / ZIP 30374 sector", "Clayton County / ZIP 30296 sector", "Clayton County / ZIP 30287 sector"]
-zillowHomeValueUsd: 200588
 ---
 
-**Engineering Notice for Riverdale:** Structural loading calculated based on 902 ft terrain assessment. Regional dispatch grid: Clayton County.
+**Engineering Notice for Riverdale:** Storm and emergency leak triage uses 902 ft elevation band with Clayton County service-area context for roofing repairs.
 
+
+Roof service remediation in Riverdale, GA, Clayton County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written remediation scope should list materials, tear-off depth, and warranty assumptions.
+
+Storm damage roof service in Riverdale, GA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Clayton County clarifies whether service or replacement fits the damage pattern.
 
 Code context: Ventilation ratios for Riverdale, GA attics should be checked against current mechanical exhaust additions.
 
@@ -31,9 +34,7 @@ Risk flag: Tile underlayment age in Riverdale, GA can fail independently of visi
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
-
-Field routing: shingle exposure calibration paired with wind uplift clip spacing near ZIP 30274.
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 On-site sector marker: Clayton County / ZIP 30374 sector — logged for map parity and ZIP-corridor verification.
 

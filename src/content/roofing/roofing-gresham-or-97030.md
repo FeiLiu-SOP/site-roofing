@@ -11,13 +11,16 @@ lng: -122.4400
 zipSample: ["97230", "97233", "97080", "97030"]
 zipCodes: ["97233", "97030", "97080", "97230"]
 localPaths: ["Multnomah County / coords 45.5000, -122.4400", "Multnomah County / ZIP 97230 sector", "Multnomah County / ZIP 97030 sector", "Multnomah County / primary ZIP 97030", "Multnomah County / ZIP 97080 sector"]
-zillowHomeValueUsd: 439111
 ---
 
-**Engineering Notice for Gresham:** Structural loading calculated based on 381 ft terrain assessment. Regional dispatch grid: Multnomah County.
+**Engineering Notice for Gresham:** Shingle, flashing, and ventilation review recorded at 381 ft AMSL context (Multnomah County).
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+Qualified roof service crews serving Gresham, OR review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Roof service remediation in Gresham, OR, Multnomah County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -30,8 +33,6 @@ Regulatory note: Gresham, OR projects may trigger ice-barrier upgrades when tear
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
-
-roof service brief: attic baffle spacing and starter-strip setback were cross-checked for the Gresham intake packet.
 
 On-site sector marker: Multnomah County / elevation 381 ft band — logged for map parity and ZIP-corridor verification.
 

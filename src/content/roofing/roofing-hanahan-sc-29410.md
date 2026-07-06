@@ -11,11 +11,14 @@ lng: -80.0000
 zipSample: ["29410"]
 zipCodes: ["29410"]
 localPaths: ["Berkeley County / coords 32.9300, -80.0000", "Berkeley County / primary ZIP 29410", "Berkeley County / elevation 26 ft band", "Berkeley County / ZIP 29410 sector"]
-zillowHomeValueUsd: 404454
 ---
 
-**Engineering Notice for Hanahan:** Structural loading calculated based on 26 ft terrain assessment. Regional dispatch grid: Berkeley County.
+**Engineering Notice for Hanahan:** Roof repair scope references 26 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in Berkeley County.
 
+
+Emergency roof restoration in Hanahan, SC often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Berkeley County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Storm damage roof work in Hanahan, SC may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Berkeley County clarifies whether restoration or replacement fits the damage pattern.
 
 Risk flag: In Hanahan, SC, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -31,11 +34,11 @@ Material note: In Hanahan, SC, algae-resistant granules may be specified for nor
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Metal panel oil-canning in Hanahan, SC may signal clip spacing issues, not wind damage alone.
 
-Scope trace: counter-flashing reglet depth plus attic baffle spacing referenced in Berkeley County county grid review.
+Scope trace: counter-flashing reglet depth plus attic baffle spacing referenced in Berkeley County storm and leak review.
 
 Field note: Shingle seal-down timing logged near ZIP 29410.
 

@@ -11,13 +11,16 @@ lng: -93.0400
 zipSample: ["55075"]
 zipCodes: ["55075"]
 localPaths: ["Dakota County / elevation 823 ft band", "Dakota County / coords 44.8900, -93.0400", "Dakota County / primary ZIP 55075", "Dakota County / ZIP 55075 sector"]
-zillowHomeValueUsd: 295901
 ---
 
-**Engineering Notice for South St. Paul:** Structural loading calculated based on 823 ft terrain assessment. Regional dispatch grid: Dakota County.
+**Engineering Notice for South St. Paul:** Storm and emergency leak triage uses 823 ft elevation band with Dakota County service-area context for roofing repairs.
 
 
-About us: We separate cosmetic granule loss from active infiltration before recommending full replacement.
+When wind or hail hits South St. Paul, MN, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work restoration in South St. Paul, MN, Dakota County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We separate cosmetic granule loss from active infiltration before recommending full roof replacement.
 
 Tip: Compare proposals by underlayment type, not shingle brand alone.
 
@@ -31,7 +34,7 @@ Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle
 
 Regulatory note: South St. Paul, MN projects may trigger ice-barrier upgrades when tear-off exposes qualifying eave depths.
 
-Field routing: soffit intake free area paired with pipe boot manufacturer match near ZIP 55075.
+Local service note: soffit intake free area paired with pipe boot manufacturer match near ZIP 55075 for emergency roof service repairs.
 
 Field note: Shingle seal-down timing logged near ZIP 55075.
 

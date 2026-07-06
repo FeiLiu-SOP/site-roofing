@@ -11,13 +11,16 @@ lng: -121.7400
 zipSample: ["95617", "95618", "95616"]
 zipCodes: ["95616", "95618", "95617"]
 localPaths: ["Yolo County / elevation 43 ft band", "Yolo County / coords 38.5600, -121.7400", "Yolo County / ZIP 95616 sector", "Yolo County / primary ZIP 95618", "Yolo County / ZIP 95617 sector"]
-zillowHomeValueUsd: 846425
 ---
 
-**Engineering Notice for Davis:** Structural loading calculated based on 43 ft terrain assessment. Regional dispatch grid: Yolo County.
+**Engineering Notice for Davis:** Shingle, flashing, and ventilation review recorded at 43 ft AMSL context (Yolo County).
 
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+Emergency roof remediation in Davis, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Yolo County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Roof work service in Davis, CA, Yolo County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
@@ -33,9 +36,7 @@ Material note: Ridge vent external baffles reduce wind-driven rain intrusion at 
 
 Metal panel oil-canning in Davis, CA may signal clip spacing issues, not wind damage alone.
 
-roof work brief: chimney cricket slope and shingle exposure calibration were cross-checked for the Davis intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 95617/95618/95616.
+Roof restoration brief: chimney cricket slope and shingle exposure calibration were cross-checked for the Davis shingle and leak scope.
 
 ZIP-corridor snapshot for Davis, CA: sampled sectors include 95618, 95616, 95617; county routing grid remains Yolo County.
 

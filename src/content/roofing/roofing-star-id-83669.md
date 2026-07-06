@@ -11,11 +11,14 @@ lng: -116.4900
 zipSample: ["83669"]
 zipCodes: ["83669"]
 localPaths: ["Ada County / coords 43.7000, -116.4900", "Ada County / elevation 2467 ft band", "Ada County / ZIP 83669 sector", "Ada County / primary ZIP 83669"]
-zillowHomeValueUsd: 575297
 ---
 
-**Engineering Notice for Star:** Structural loading calculated based on 2467 ft terrain assessment. Regional dispatch grid: Ada County.
+**Engineering Notice for Star:** Shingle, flashing, and ventilation review recorded at 2467 ft AMSL context (Ada County).
 
+
+Roofing service restoration in Star, ID, Ada County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
+
+Certified roof remediation crews serving Star, ID review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Tip: Note recent wind events when filing insurance photos for Star, ID.
 
@@ -23,7 +26,7 @@ Wind-zone note: Star, ID exposure class can change starter-strip and cap nail sc
 
 Risk flag: In Star, ID, interior stains may track from HVAC condensate rather than roof cladding.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -34,8 +37,6 @@ Valley metal in Star, ID should be reviewed whenever granule loss tracks the wat
 FAQ: Can gable vents suffice? Balance depends on intake area, soffit free area, and attic volume.
 
 Step: confirm drip-edge continuity before shingle courses restart.
-
-Scope trace: counter-flashing reglet depth plus skylight curb height referenced in Ada County county grid review.
 
 **Regional Infrastructure Brief:** Response coverage aligns with Ada County and primary ZIP 83669. Terrain reference: 2467 ft. Center point: 43.7000, -116.4900. ZIP sample: 83669. Service perimeter note: Coverage extends through Ada County with dispatch centered near ZIP 83669.
 

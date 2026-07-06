@@ -11,11 +11,14 @@ lng: -71.3700
 zipSample: ["02862", "02860", "02861"]
 zipCodes: ["02860", "02861", "02862"]
 localPaths: ["Providence County / primary ZIP 02861", "Providence County / ZIP 02862 sector", "Providence County / elevation 108 ft band", "Providence County / ZIP 02861 sector", "Providence County / ZIP 02860 sector"]
-zillowHomeValueUsd: 395633
 ---
 
-**Engineering Notice for Pawtucket:** Structural loading calculated based on 108 ft terrain assessment. Regional dispatch grid: Providence County.
+**Engineering Notice for Pawtucket:** Shingle, flashing, and ventilation review recorded at 108 ft AMSL context (Providence County).
 
+
+Qualified roof restoration crews serving Pawtucket, RI review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
+
+Storm damage roofing service in Pawtucket, RI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Providence County clarifies whether remediation or replacement fits the damage pattern.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -31,9 +34,7 @@ Regulatory note: Pawtucket, RI projects may trigger ice-barrier upgrades when te
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-Our Pawtucket, RI dispatch packets reference county grid Providence County and elevation band 108 ft.
-
-Scope trace: shingle exposure calibration plus drip-edge metal profile referenced in Providence County county grid review.
+Our Pawtucket, RI service packets reference Providence County and elevation band 108 ft for shingle and leak scope.
 
 On-site sector marker: Providence County / ZIP 02861 sector — logged for map parity and ZIP-corridor verification.
 

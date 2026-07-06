@@ -11,11 +11,14 @@ lng: -74.2200
 zipSample: ["07470"]
 zipCodes: ["07470"]
 localPaths: ["Passaic County / ZIP 07470 sector", "Passaic County / primary ZIP 07470", "Passaic County / coords 40.9400, -74.2200", "Passaic County / elevation 223 ft band"]
-zillowHomeValueUsd: 742823
 ---
 
-**Engineering Notice for Preakness:** Structural loading calculated based on 223 ft terrain assessment. Regional dispatch grid: Passaic County.
+**Engineering Notice for Preakness:** Shingle, flashing, and ventilation review recorded at 223 ft AMSL context (Passaic County).
 
+
+When wind or hail hits Preakness, NJ, emergency roofing service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+Roof work service in Preakness, NJ, Passaic County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written service scope should list materials, tear-off depth, and warranty assumptions.
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
@@ -25,7 +28,7 @@ FAQ: Is sheathing included? Rot or delamination is scoped only after exposed dec
 
 Step: document ice-barrier extent at eaves when code upgrades apply.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
@@ -34,8 +37,6 @@ Risk flag: In Preakness, NJ, interior stains may track from HVAC condensate rath
 Granule embedment loss on Preakness, NJ north slopes can precede mat exposure.
 
 Material note: In Preakness, NJ, algae-resistant granules may be specified for north-facing slopes.
-
-Field routing: counter-flashing reglet depth paired with chimney cricket slope near ZIP 07470.
 
 **Regional Infrastructure Brief:** Logistics coverage aligns with Passaic County and primary ZIP 07470. Terrain reference: 223 ft. Center point: 40.9400, -74.2200. ZIP sample: 07470. Logistics priority: Serving residential sectors across Passaic County and north-east ZIP 07470 grid.
 

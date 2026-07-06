@@ -11,11 +11,14 @@ lng: -89.9800
 zipSample: ["38651", "38671", "38672"]
 zipCodes: ["38651", "38671", "38672"]
 localPaths: ["DeSoto County / elevation 331 ft band", "DeSoto County / ZIP 38672 sector", "DeSoto County / ZIP 38671 sector", "DeSoto County / primary ZIP 38671", "DeSoto County / ZIP 38651 sector"]
-zillowHomeValueUsd: 235215
 ---
 
-**Engineering Notice for Southaven:** Structural loading calculated based on 331 ft terrain assessment. Regional dispatch grid: DeSoto County.
+**Engineering Notice for Southaven:** Roof repair scope references 331 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in DeSoto County.
 
+
+Storm damage roof work in Southaven, MS may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in DeSoto County clarifies whether service or replacement fits the damage pattern.
+
+Emergency roof remediation in Southaven, MS often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in DeSoto County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -23,19 +26,19 @@ Parapet coping movement in Southaven, MS can channel water behind wall cladding.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Wind-zone note: Southaven, MS exposure class can change starter-strip and cap nail schedules.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Tip: Photograph ceiling stains with a reference ruler before tarping.
 
 FAQ: Are ridge vents always required? Balance depends on intake area, soffit free area, and attic volume.
 
-Field routing: pipe boot manufacturer match paired with soffit intake free area near ZIP 38671.
+Local service note: pipe boot manufacturer match paired with soffit intake free area near ZIP 38671 for emergency roof service repairs.
 
 Field note: Attic moisture pathway scan referenced ZIP 38672/38671/38651.
 

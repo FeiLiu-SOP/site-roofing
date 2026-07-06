@@ -11,19 +11,22 @@ lng: -70.4600
 zipSample: ["04072"]
 zipCodes: ["04072"]
 localPaths: ["York County / coords 43.5400, -70.4600", "York County / elevation 151 ft band", "York County / ZIP 04072 sector", "York County / primary ZIP 04072"]
-zillowHomeValueUsd: 520357
 ---
 
-**Engineering Notice for Saco:** Structural loading calculated based on 151 ft terrain assessment. Regional dispatch grid: York County.
+**Engineering Notice for Saco:** Roof repair scope references 151 ft terrain context, shingle wind exposure, and leak-tracing checkpoints in York County.
 
 
-FAQ: When should permanent remediation start? In Saco, ME, delayed dry-in can expand insulation and ceiling repairs.
+Emergency roof remediation in Saco, ME often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in York County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits Saco, ME, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
+
+FAQ: When should permanent restoration start? In Saco, ME, delayed dry-in can expand insulation and ceiling repairs.
 
 Across Saco, ME, ice-dam seasons often begin with clogged gutters rather than missing shingles.
 
 Material note: Self-adhered ice barrier should lap over drip edge metal per manufacturer sequence.
 
-About us: Our intake prioritizes leak tracing, temporary dry-in, and written scope boundaries.
+About us: Our team prioritizes leak tracing, temporary dry-in, and written scope boundaries for storm damage.
 
 Risk flag: In Saco, ME, interior stains may track from HVAC condensate rather than roof cladding.
 
@@ -35,9 +38,7 @@ Tip: Ask whether step flashing is replaced or reused at wall intersections.
 
 Material note: Ridge vent external baffles reduce wind-driven rain intrusion at high exposure sites.
 
-roof work brief: synthetic underlayment slip and chimney cricket slope were cross-checked for the Saco intake packet.
-
-Field note: Valley debris and granule loss noted for ZIP 04072.
+Roof remediation brief: synthetic underlayment slip and chimney cricket slope were cross-checked for the Saco shingle and leak scope.
 
 On-site sector marker: York County / ZIP 04072 sector — logged for map parity and ZIP-corridor verification.
 

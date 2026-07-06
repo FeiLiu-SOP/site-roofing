@@ -11,11 +11,14 @@ lng: -84.2300
 zipSample: ["48670", "48667", "48640", "48686", "48642"]
 zipCodes: ["48640", "48667", "48642", "48670", "48686"]
 localPaths: ["Midland County / elevation 630 ft band", "Midland County / ZIP 48686 sector", "Midland County / ZIP 48670 sector", "Midland County / primary ZIP 48642", "Midland County / ZIP 48642 sector"]
-zillowHomeValueUsd: 247796
 ---
 
-**Engineering Notice for Midland:** Structural loading calculated based on 630 ft terrain assessment. Regional dispatch grid: Midland County.
+**Engineering Notice for Midland:** Shingle, flashing, and ventilation review recorded at 630 ft AMSL context (Midland County).
 
+
+Storm damage roof work in Midland, MI may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Midland County clarifies whether service or replacement fits the damage pattern.
+
+Roof service service in Midland, MI, Midland County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
 
 Risk flag: Layered roofs hide deck rot—budget time for discovery before final pricing.
 
@@ -27,13 +30,13 @@ Step: compare shingle manufacturer wind-zone ratings for Midland, MI exposure cl
 
 Tip: Clear gutters and downspouts before winter freeze cycles in ZIP 48642.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Low-slope sections in Midland, MI need positive drainage before membrane repairs are scoped.
 
 Wind-zone note: Midland, MI exposure class can change starter-strip and cap nail schedules.
 
-Field routing: valley metal gauge paired with wind uplift clip spacing near ZIP 48642.
+Local service note: valley metal gauge paired with wind uplift clip spacing near ZIP 48642 for emergency roof service repairs.
 
 Field note: Ridge ventilation balance reviewed for ZIP sector 48640/48670/48642.
 

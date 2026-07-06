@@ -11,11 +11,14 @@ lng: -122.3500
 zipSample: ["98671"]
 zipCodes: ["98671"]
 localPaths: ["Clark County / elevation 92 ft band", "Clark County / ZIP 98671 sector", "Clark County / primary ZIP 98671", "Clark County / coords 45.5800, -122.3500"]
-zillowHomeValueUsd: 639828
 ---
 
-**Engineering Notice for Washougal:** Structural loading calculated based on 92 ft terrain assessment. Regional dispatch grid: Clark County.
+**Engineering Notice for Washougal:** Storm and emergency leak triage uses 92 ft elevation band with Clark County service-area context for roofing repairs.
 
+
+Emergency roof service in Washougal, WA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Clark County should photograph ceiling stains and attic wet spots before crews arrive.
+
+When wind or hail hits Washougal, WA, emergency roof service help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
@@ -35,9 +38,7 @@ Hail bruising on Washougal, WA ridges may not breach felt until the next wind ev
 
 TPO seam welds in Washougal, WA commercial sections need probe tests after freeze events.
 
-Scope trace: deck sheathing thickness plus ridge cap nail schedule referenced in Clark County county grid review.
-
-Field note: Shingle seal-down timing logged near ZIP 98671.
+Scope trace: deck sheathing thickness plus ridge cap nail schedule referenced in Clark County storm and leak review.
 
 Coordinate-anchored dispatch note: center reference 45.5800, -122.3500 at elevation ~92 ft aligns with Clark County intake staging.
 

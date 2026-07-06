@@ -11,11 +11,14 @@ lng: -122.1700
 zipSample: ["94304", "94305", "94309"]
 zipCodes: ["94309", "94304", "94305"]
 localPaths: ["Santa Clara County / coords 37.4300, -122.1700", "Santa Clara County / ZIP 94304 sector", "Santa Clara County / elevation 115 ft band", "Santa Clara County / ZIP 94309 sector", "Santa Clara County / primary ZIP 94305"]
-zillowHomeValueUsd: 3346468
 ---
 
-**Engineering Notice for Stanford:** Structural loading calculated based on 115 ft terrain assessment. Regional dispatch grid: Santa Clara County.
+**Engineering Notice for Stanford:** Storm and emergency leak triage uses 115 ft elevation band with Santa Clara County service-area context for roofing repairs.
 
+
+Emergency roof restoration in Stanford, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Santa Clara County should photograph ceiling stains and attic wet spots before crews arrive.
+
+Licensed roof remediation crews serving Stanford, CA review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Wood shake courses in Stanford, CA require skip-spacing rules at valleys.
 
@@ -23,7 +26,7 @@ Regulatory note: Stanford, CA projects may trigger ice-barrier upgrades when tea
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
-Our Stanford, CA dispatch packets reference county grid Santa Clara County and elevation band 115 ft.
+Our Stanford, CA service packets reference Santa Clara County and elevation band 115 ft for shingle and leak scope.
 
 FAQ: Is partial dry-in possible? In Stanford, CA, yes—if slope and anchor points support safe tie-offs.
 
@@ -33,11 +36,9 @@ Risk flag: Layered roofs hide deck rot—budget time for discovery before final 
 
 Tip: Keep attic hatch closed during humid weeks to avoid false leak callouts.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
-Field routing: wind uplift clip spacing paired with deck sheathing thickness near ZIP 94305.
-
-Field note: Attic moisture pathway scan referenced ZIP 94304/94305/94309.
+Local service note: wind uplift clip spacing paired with deck sheathing thickness near ZIP 94305 for emergency roofing service repairs.
 
 On-site sector marker: Santa Clara County / ZIP 94309 sector — logged for map parity and ZIP-corridor verification.
 

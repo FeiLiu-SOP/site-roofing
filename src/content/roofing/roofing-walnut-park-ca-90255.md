@@ -11,11 +11,14 @@ lng: -118.2200
 zipSample: ["90255"]
 zipCodes: ["90255"]
 localPaths: ["Los Angeles County / elevation 154 ft band", "Los Angeles County / coords 33.9700, -118.2200", "Los Angeles County / ZIP 90255 sector", "Los Angeles County / primary ZIP 90255"]
-zillowHomeValueUsd: 675396
 ---
 
-**Engineering Notice for Walnut Park:** Structural loading calculated based on 154 ft terrain assessment. Regional dispatch grid: Los Angeles County.
+**Engineering Notice for Walnut Park:** Shingle, flashing, and ventilation review recorded at 154 ft AMSL context (Los Angeles County).
 
+
+Storm damage roof service in Walnut Park, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in Los Angeles County clarifies whether restoration or replacement fits the damage pattern.
+
+Emergency roof service in Walnut Park, CA often begins with tracing active leaks, storm-lifted shingles, and temporary dry-in before permanent scope is written. Homeowners in Los Angeles County should photograph ceiling stains and attic wet spots before crews arrive.
 
 Material note: Architectural shingle bundles vary by exposure width—verify field counts per square.
 
@@ -29,15 +32,13 @@ Low-slope sections in Walnut Park, CA need positive drainage before membrane rep
 
 Hail bruising on Walnut Park, CA ridges may not breach felt until the next wind event.
 
-About us: Crew scheduling follows access constraints, slope safety, and material lead times—not generic one-hour promises.
+About us: Emergency roof work crews follow access constraints, slope safety, and material lead times—not generic one-hour promises.
 
 Risk flag: In Walnut Park, CA, interior stains may track from HVAC condensate rather than roof cladding.
 
 Tip: Save shingle wrapper labels for warranty color and lot matching.
 
-Field routing: shingle exposure calibration paired with pipe boot manufacturer match near ZIP 90255.
-
-Field note: Attic moisture pathway scan referenced ZIP 90255.
+Local service note: shingle exposure calibration paired with pipe boot manufacturer match near ZIP 90255 for emergency roof work repairs.
 
 ZIP-corridor snapshot for Walnut Park, CA: sampled sectors include 90255; county routing grid remains Los Angeles County.
 

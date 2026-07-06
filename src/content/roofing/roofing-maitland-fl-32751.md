@@ -11,11 +11,14 @@ lng: -81.3700
 zipSample: ["32799", "32794", "32751"]
 zipCodes: ["32799", "32751", "32794"]
 localPaths: ["Orange County / ZIP 32799 sector", "Orange County / coords 28.6300, -81.3700", "Orange County / primary ZIP 32751", "Orange County / ZIP 32751 sector", "Orange County / ZIP 32794 sector"]
-zillowHomeValueUsd: 461482
 ---
 
-**Engineering Notice for Maitland:** Structural loading calculated based on 98 ft terrain assessment. Regional dispatch grid: Orange County.
+**Engineering Notice for Maitland:** Shingle, flashing, and ventilation review recorded at 98 ft AMSL context (Orange County).
 
+
+Roofing service restoration in Maitland, FL, Orange County combines county service context with field notes on granule loss, ice-dam history, and chimney flashing condition. Written restoration scope should list materials, tear-off depth, and warranty assumptions.
+
+Licensed roof restoration crews serving Maitland, FL review shingle exposure, ventilation balance, and deck soundings before quoting permanent work. Emergency tarp and dry-in options may be scoped separately from long-term replacement.
 
 Coastal humidity in Maitland, FL can slow shingle seal-down after shoulder-season storms.
 
@@ -27,7 +30,7 @@ Valley metal in Maitland, FL should be reviewed whenever granule loss tracks the
 
 Permit note: Re-roof permits often require manufacturer installation bulletins and disposal manifests.
 
-About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent repairs.
+About us: We document nail counts, exposure widths, and ventilation balance before quoting permanent roof repairs.
 
 Step: confirm drip-edge continuity before shingle courses restart.
 
@@ -35,7 +38,7 @@ FAQ: How long can shingles wait after storm damage? In Maitland, FL, delayed dry
 
 Risk flag: In Maitland, FL, interior stains may track from HVAC condensate rather than roof cladding.
 
-roofing service brief: deck sheathing thickness and ice-barrier lap sequence were cross-checked for the Maitland intake packet.
+Roof service brief: deck sheathing thickness and ice-barrier lap sequence were cross-checked for the Maitland shingle and leak scope.
 
 On-site sector marker: Orange County / coords 28.6300, -81.3700 — logged for map parity and ZIP-corridor verification.
 

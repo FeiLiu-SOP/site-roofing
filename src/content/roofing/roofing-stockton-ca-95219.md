@@ -11,11 +11,14 @@ lng: -121.3100
 zipSample: ["95211", "95269", "95203", "95212", "95297"]
 zipCodes: ["95297", "95205", "95207", "95209", "95296", "95211", "95210", "95203", "95219", "95204", "95206", "95267"]
 localPaths: ["San Joaquin County / ZIP 95211 sector", "San Joaquin County / ZIP 95269 sector", "San Joaquin County / ZIP 95212 sector", "San Joaquin County / primary ZIP 95219", "San Joaquin County / ZIP 95297 sector"]
-zillowHomeValueUsd: 555832
 ---
 
-**Engineering Notice for Stockton:** Structural loading calculated based on 23 ft terrain assessment. Regional dispatch grid: San Joaquin County.
+**Engineering Notice for Stockton:** Storm and emergency leak triage uses 23 ft elevation band with San Joaquin County service-area context for roofing repairs.
 
+
+Storm damage roof work in Stockton, CA may show as missing tabs, lifted shingles, or flashing separation at valleys and penetrations. A leak triage visit in San Joaquin County clarifies whether service or replacement fits the damage pattern.
+
+When wind or hail hits Stockton, CA, emergency roof work help focuses on stopping infiltration first—then scheduling shingle, flashing, and ventilation repairs with realistic weather windows.
 
 Tile and shingle mixes in Stockton, CA require different fastener patterns at transitions.
 
@@ -34,8 +37,6 @@ Step: document ice-barrier extent at eaves when code upgrades apply.
 Wood shake courses in Stockton, CA require skip-spacing rules at valleys.
 
 Risk flag: Chimney counter-flashing failures often reopen after cosmetic shingle-only repairs.
-
-Scope trace: synthetic underlayment slip plus wind uplift clip spacing referenced in San Joaquin County county grid review.
 
 On-site sector marker: San Joaquin County / ZIP 95297 sector — logged for map parity and ZIP-corridor verification.
 
