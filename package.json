@@ -1,40 +1,43 @@
-﻿{
-    "dependencies":  {
-                         "@astrojs/sitemap":  "^3.7.2",
-                         "astro":  "^6.1.2"
-                     },
-    "devDependencies":  {
-                            "cross-env":  "^7.0.3"
-                        },
-    "engines":  {
-                    "node":  "\u003e=22.12.0"
-                },
-    "name":  "absent-apogee",
-    "scripts":  {
-                    "astro":  "astro",
-                    "prebuild":  "node ./scripts/clean-build-cache.mjs",
-                    "build":  "astro build \u0026\u0026 node ./scripts/nest-hub-segment.mjs roofing",
-                    "build:pestcontrol":  "cross-env ACTIVE_COLLECTION=pestcontrol astro build",
-                    "build:plumbing":  "cross-env ACTIVE_COLLECTION=plumbing astro build",
-                    "build:plumbing-v2":  "cross-env ACTIVE_COLLECTION=plumbing-v2 astro build",
-                    "build:roofing":  "cross-env ACTIVE_COLLECTION=roofing astro build \u0026\u0026 node ./scripts/nest-hub-segment.mjs roofing",
-                    "build:siding-services":  "cross-env ACTIVE_COLLECTION=siding-services astro build",
-                    "build:water-damage":  "cross-env ACTIVE_COLLECTION=water-damage astro build",
-                    "dev":  "astro dev",
-                    "dev:pestcontrol":  "cross-env ACTIVE_COLLECTION=pestcontrol astro dev --host --port 4321",
-                    "dev:plumbing":  "cross-env ACTIVE_COLLECTION=plumbing astro dev --host --port 4321",
-                    "dev:plumbing-v2":  "cross-env ACTIVE_COLLECTION=plumbing-v2 astro dev --host --port 4321",
-                    "dev:roofing":  "cross-env ACTIVE_COLLECTION=roofing astro dev --host --port 4321",
-                    "dev:siding-services":  "cross-env ACTIVE_COLLECTION=siding-services astro dev --host --port 4321",
-                    "dev:water-damage":  "cross-env ACTIVE_COLLECTION=water-damage astro dev --host --port 4321",
-                    "diversity":  "cd .. \u0026\u0026 go run ./scripts/diversity -dist absent-apogee/dist",
-                    "diversity:soft":  "cd .. \u0026\u0026 go run ./scripts/diversity -dist absent-apogee/dist -no-fail",
-                    "preview":  "astro preview",
-                    "preview:hub":  "node ./scripts/hub-static-preview.mjs roofing",
-                    "sync:env:other-repos":  "pwsh -NoProfile -File ../sync-env-production-to-other-repos.ps1"
-                },
-    "type":  "module",
-    "version":  "0.0.1",
-    "deploy_nonce": "eda716fff6d20bfe",
-    "build_id": "5bd6a4f244d7"
+{
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.2",
+    "astro": "^6.1.2"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "name": "absent-apogee",
+  "scripts": {
+    "astro": "astro",
+    "prebuild": "node ./scripts/clean-build-cache.mjs",
+    "build": "astro build && node ./scripts/nest-hub-segment.mjs roofing",
+    "build:pestcontrol": "cross-env ACTIVE_COLLECTION=pestcontrol astro build",
+    "build:plumbing": "cross-env ACTIVE_COLLECTION=plumbing astro build",
+    "build:plumbing-v2": "cross-env ACTIVE_COLLECTION=plumbing-v2 astro build",
+    "build:roofing": "cross-env ACTIVE_COLLECTION=roofing astro build && node ./scripts/nest-hub-segment.mjs roofing",
+    "build:siding-services": "cross-env ACTIVE_COLLECTION=siding-services astro build",
+    "build:water-damage": "cross-env ACTIVE_COLLECTION=water-damage astro build",
+    "dev": "astro dev",
+    "dev:pestcontrol": "cross-env ACTIVE_COLLECTION=pestcontrol astro dev --host --port 4321",
+    "dev:plumbing": "cross-env ACTIVE_COLLECTION=plumbing astro dev --host --port 4321",
+    "dev:plumbing-v2": "cross-env ACTIVE_COLLECTION=plumbing-v2 astro dev --host --port 4321",
+    "dev:roofing": "cross-env ACTIVE_COLLECTION=roofing astro dev --host --port 4321",
+    "dev:siding-services": "cross-env ACTIVE_COLLECTION=siding-services astro dev --host --port 4321",
+    "dev:water-damage": "cross-env ACTIVE_COLLECTION=water-damage astro dev --host --port 4321",
+    "diversity": "cd .. && go run ./scripts/diversity -dist absent-apogee/dist",
+    "diversity:soft": "cd .. && go run ./scripts/diversity -dist absent-apogee/dist -no-fail",
+    "preview": "astro preview",
+    "preview:hub": "node ./scripts/hub-static-preview.mjs roofing",
+    "sync:env:other-repos": "pwsh -NoProfile -File ../sync-env-production-to-other-repos.ps1",
+    "check:roofing-titles": "npx tsx ./scripts/check-roofing-serp-titles.mjs",
+    "check:plumbing-titles": "npx tsx ./scripts/check-plumbing-serp-titles.mjs",
+    "check:pestcontrol-titles": "npx tsx ./scripts/check-pestcontrol-serp-titles.mjs"
+  },
+  "type": "module",
+  "version": "0.0.1",
+  "deploy_nonce": "eda716fff6d20bfe",
+  "build_id": "5bd6a4f244d7"
 }
